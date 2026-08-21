@@ -1,0 +1,36 @@
+{
+  "personal_info": {
+    "first_name": "Sandeep Ramaswamy",
+    "last_name": "Kashyap",
+    "email": "sandeepramaswamykashyap@gmail.com",
+    "phone": "+919999999999",
+    "current_location": "Bengaluru, India",
+    "preferred_locations": ["Remote", "Bengaluru", "Mumbai", "Pune"],
+    "work_authorization": {
+      "india": "Yes",
+      "us": "No",
+      "sponsorship_required": false
+    }
+  },
+  "job_search_criteria": {
+    "target_titles": [
+      "Senior Software Engineer",
+      "Staff Engineer",
+      "Lead Software Engineer",
+      "Software Engineering Manager"
+    ],
+    "experience_years": 8,
+    "skills_primary": ["JavaScript", "TypeScript", "Node.js", "Python", "System Design"],
+    "skills_secondary": ["React", "AWS", "SQL", "Docker", "Git"],
+    "salary_expectation": {
+      "minimum": 3000000,
+      "currency": "INR"
+    },
+    "work_modes": ["Remote", "Hybrid", "Onsite"]
+  },
+  "history": {
+    "recent_company": "Tech Innovations Pvt Ltd",
+    "recent_role": "Senior Software Engineer",
+    "notice_period_days": 30
+  }
+}

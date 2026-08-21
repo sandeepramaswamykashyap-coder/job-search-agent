@@ -1,0 +1,117 @@
+{
+  "scheduler": {
+    "run_interval_hours": 0.1,
+    "max_start_jitter_minutes": 1,
+    "daily_cv_upload_time": "08:00",
+    "daily_report_time": "20:00",
+    "timezone": "Asia/Kolkata",
+    "browser_mode": "headless"
+  },
+  "reporting": {
+    "recipient_email": "sandeepramaswamykashyap@gmail.com",
+    "sender_email_env_key": "SMTP_USER"
+  },
+  "cv_settings": {
+    "local_path": "./Sandeep_Kashyap.pdf",
+    "exclude_cv_reupload_platforms": [
+      "linkedin"
+    ]
+  },
+  "platforms": {
+    "weworkremotely": {
+      "enabled": true,
+      "priority": 1,
+      "max_applications_per_day": 25
+    },
+    "remoteok": {
+      "enabled": true,
+      "priority": 2,
+      "max_applications_per_day": 25
+    },
+    "jobgether": {
+      "enabled": true,
+      "priority": 3,
+      "max_applications_per_day": 25
+    },
+    "remotive": {
+      "enabled": true,
+      "priority": 4,
+      "max_applications_per_day": 25
+    },
+    "workingnomads": {
+      "enabled": true,
+      "priority": 5,
+      "max_applications_per_day": 25
+    },
+    "surelyremote": {
+      "enabled": true,
+      "priority": 6,
+      "max_applications_per_day": 25
+    },
+    "dailyremote": {
+      "enabled": true,
+      "priority": 7,
+      "max_applications_per_day": 25
+    },
+    "naukri": {
+      "enabled": true,
+      "priority": 8,
+      "max_applications_per_day": 95
+    },
+    "iimjobs": {
+      "enabled": true,
+      "priority": 9,
+      "max_applications_per_day": 40
+    },
+    "foundit": {
+      "enabled": true,
+      "priority": 10,
+      "max_applications_per_day": 40
+    },
+    "linkedin": {
+      "enabled": true,
+      "priority": 11,
+      "max_applications_per_day": 25
+    },
+    "instahyre": {
+      "enabled": true,
+      "priority": 12,
+      "max_applications_per_day": 30
+    },
+    "indeed": {
+      "enabled": false,
+      "priority": 13,
+      "max_applications_per_day": 40
+    },
+    "hirist": {
+      "enabled": true,
+      "priority": 14,
+      "max_applications_per_day": 30
+    },
+    "cutshort": {
+      "enabled": true,
+      "priority": 15,
+      "max_applications_per_day": 20
+    },
+    "wellfound": {
+      "enabled": false,
+      "priority": 16,
+      "max_applications_per_day": 15
+    },
+    "glassdoor": {
+      "enabled": true,
+      "priority": 17,
+      "max_applications_per_day": 30
+    },
+    "shine": {
+      "enabled": true,
+      "priority": 18,
+      "max_applications_per_day": 35
+    },
+    "timesjobs": {
+      "enabled": false,
+      "priority": 19,
+      "max_applications_per_day": 20
+    }
+  }
+}

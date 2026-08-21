@@ -1,0 +1,31 @@
+{
+  "scheduler": {
+    "run_interval_hours": 2,
+    "max_start_jitter_minutes": 15,
+    "daily_cv_upload_time": "08:00",
+    "daily_report_time": "20:00",
+    "timezone": "Asia/Kolkata"
+  },
+  "reporting": {
+    "recipient_email": "sandeepramaswamykashyap@gmail.com",
+    "sender_email_env_key": "SMTP_USER"
+  },
+  "cv_settings": {
+    "local_path": "./resume.pdf",
+    "exclude_cv_reupload_platforms": ["linkedin"]
+  },
+  "platforms": {
+    "linkedin": { "enabled": true, "max_applications_per_run": 5 },
+    "naukri": { "enabled": true, "max_applications_per_run": 10 },
+    "timesjobs": { "enabled": true },
+    "foundit": { "enabled": true },
+    "instahyre": { "enabled": true },
+    "iimjobs": { "enabled": true },
+    "indeed": { "enabled": true },
+    "hirist": { "enabled": true },
+    "cutshort": { "enabled": true },
+    "wellfound": { "enabled": true },
+    "glassdoor": { "enabled": true },
+    "shine": { "enabled": true }
+  }
+}

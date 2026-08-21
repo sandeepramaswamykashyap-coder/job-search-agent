@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Antigravity – Job Application Agent Control Center</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <script src="dashboard.js" defer></script>
+</head>
+<body>
+  <div class="glow-bg"></div>
+  <div class="dashboard-container">
+    
+    <!-- Sidebar / Nav -->
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-logo">▲</span>
+        <span class="brand-name">Antigravity</span>
+      </div>
+      <div class="agent-status-badge">
+        <span class="indicator-dot online"></span>
+        <span class="status-text">Agent Active</span>
+      </div>
+      <nav class="sidebar-nav">
+        <a href="#monitor" class="nav-item active" data-target="monitorView"><i class="fas fa-chart-pie"></i> Monitor</a>
+        <a href="#portals" class="nav-item" data-target="portalsView"><i class="fas fa-key"></i> Portals</a>
+        <a href="#profile" class="nav-item" data-target="profileView"><i class="fas fa-user-tie"></i> Profile</a>
+        <a href="#coverletter" class="nav-item" data-target="coverLetterView"><i class="fas fa-file-alt"></i> Cover Letter</a>
+      </nav>
+      <div class="sidebar-footer">
+        <p class="user-name">Sandeep Kashyap</p>
+        <p class="user-role">Managerial AI Profile</p>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      
+      <!-- Header -->
+      <header class="main-header">
+        <div class="header-title">
+          <h1 id="viewTitle">Monitor Panel</h1>
+          <p class="subtitle">Autonomous 24/7 Recruitment Optimization Suite</p>
+        </div>
+        <div class="header-actions">
+          <button id="btnRunNow" class="btn btn-primary"><span class="btn-icon">⚡</span> Run Cycle Now</button>
+          <button id="btnRunBoolean" class="btn btn-discovery" style="margin-left: 10px; background: linear-gradient(135deg, #6b21a8, #9333ea); color: #fff; border: none; padding: 10px 18px; border-radius: 8px; font-weight: 600; cursor: pointer; transition: all 0.3s ease;"><span class="btn-icon">🔍</span> Run Boolean Discovery</button>
+        </div>
+      </header>
+
+      <!-- View Panel: Monitor -->
+      <div id="monitorView" class="view-panel">
+        <div class="dashboard-grid">
+          
+          <!-- Stats Row -->
+          <section class="card stats-card" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px;">
+            <div class="stat-item">
+              <span class="stat-label">Jobs Scanned Today</span>
+              <span id="statScanned" class="stat-value">0</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">Applications Submitted</span>
+              <span id="statApplied" class="stat-value">0</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">📧 Cold Emails Sent</span>
+              <span id="statEmailsSent" class="stat-value" style="color: #10b981;">0</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">🤝 LinkedIn Invites Sent</span>
+              <span id="statConnectionsSent" class="stat-value" style="color: #3b82f6;">0</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">Next Scheduled Run</span>
+              <span id="statNextRun" class="stat-value">Calculating...</span>
+            </div>
+          </section>
+
+          <!-- 16-Portal Coverage & Execution Status Card -->
+          <section class="card portal-matrix-card" style="margin-top: 15px; margin-bottom: 5px;">
+            <div class="card-header" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; margin-bottom: 12px;">
+              <h3 style="margin: 0; color: #f8fafc; font-size: 1.05rem; display: flex; align-items: center; gap: 8px;">
+                <span>⚡ 16-Portal Autonomous Execution Matrix</span>
+              </h3>
+              <span class="badge" style="background: linear-gradient(135deg, #10b981, #059669); color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 12px;">16 / 16 Active</span>
+            </div>
+            <div class="portal-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 Naukri.com</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 IIMJobs</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 Foundit (Monster)</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🌐 WeWorkRemotely</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🌐 RemoteOK</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🌐 Jobgether</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🌐 Remotive</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🌐 WorkingNomads</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🌐 DailyRemote</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🌐 SurelyRemote</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 Glassdoor</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 Hirist</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 Instahyre</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 Cutshort</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🇮🇳 Shine</span>
+                <span class="status-chip" style="background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🟢 ACTIVE</span>
+              </div>
+              <div class="portal-badge-item" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 10px 12px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; color: #e2e8f0; font-size: 13px;">🔗 LinkedIn Outbox</span>
+                <span class="status-chip" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6; font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600;">🔵 ACTIVE</span>
+              </div>
+            </div>
+          </section>
+
+          <!-- Live Terminal/Logger Console -->
+          <section class="card console-card">
+            <div class="card-header">
+              <h3>Live Agent Activity Logs</h3>
+              <button id="btnClearLogs" class="btn btn-secondary btn-sm">Clear Output</button>
+            </div>
+            <div class="terminal-window">
+              <pre id="logConsole">Loading logs from agent session...</pre>
+            </div>
+          </section>
+
+          <!-- Recruiter Emails Table -->
+          <section class="card table-card">
+            <div class="card-header" style="display: flex; justify-content: space-between; align-items: center;">
+              <h3>📧 Recruiter Cold Emails Dispatched</h3>
+              <span class="badge" style="background: #10b981; color: white; padding: 4px 10px; border-radius: 12px; font-weight: 600; font-size: 12px;" id="badgeEmailsTotal">0 Sent</span>
+            </div>
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Recruiter Email</th>
+                    <th>Company</th>
+                    <th>Role Title</th>
+                    <th>Status</th>
+                    <th>Dispatched Date</th>
+                  </tr>
+                </thead>
+                <tbody id="emailedLeadsList">
+                  <tr>
+                    <td colspan="5" class="empty-state">No cold emails sent yet.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </section>
+
+          <!-- LinkedIn Connections Table -->
+          <section class="card table-card">
+            <div class="card-header" style="display: flex; justify-content: space-between; align-items: center;">
+              <h3>🤝 LinkedIn 2nd-Degree Connection Invites</h3>
+              <span class="badge" style="background: #3b82f6; color: white; padding: 4px 10px; border-radius: 12px; font-weight: 600; font-size: 12px;" id="badgeConnTotal">0 Sent</span>
+            </div>
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Target Lead</th>
+                    <th>Title & Company</th>
+                    <th>Profile URL</th>
+                    <th>Personalized Note</th>
+                    <th>Status</th>
+                  </tr>
+                </thead>
+                <tbody id="connectionRequestsList">
+                  <tr>
+                    <td colspan="5" class="empty-state">No connection requests sent yet.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </section>
+
+          <!-- Applied Jobs Table -->
+          <section class="card table-card">
+            <div class="card-header">
+              <h3>Submitted Applications History</h3>
+            </div>
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Role Title</th>
+                    <th>Company</th>
+                    <th>Portal</th>
+                    <th>Status</th>
+                    <th>Time</th>
+                  </tr>
+                </thead>
+                <tbody id="appliedJobsList">
+                  <tr>
+                    <td colspan="5" class="empty-state">No submissions recorded today yet.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </section>
+        </div>
+      </div>
+
+
+      <!-- View Panel: Portals -->
+      <div id="portalsView" class="view-panel d-none">
+        <div class="dashboard-grid">
+          <section class="card">
+            <div class="card-header">
+              <h3>Active Target Portals</h3>
+            </div>
+            <div class="portal-grid" id="portalsContainer">
+              <!-- Portals details loaded via JS -->
+            </div>
+          </section>
+
+          <section class="card">
+            <div class="card-header">
+              <h3>Configure Credentials & Caps</h3>
+            </div>
+            <form id="portalConfigForm" class="dashboard-form">
+              <div class="form-group">
+                <label for="selectPortal">Select Target Portal</label>
+                <select id="selectPortal" class="form-control">
+                  <option value="naukri">Naukri</option>
+                  <option value="iimjobs">IIMJobs</option>
+                  <option value="foundit">Foundit</option>
+                  <option value="linkedin">LinkedIn</option>
+                  <option value="instahyre">Instahyre</option>
+                  <option value="indeed">Indeed</option>
+                  <option value="hirist">Hirist</option>
+                  <option value="cutshort">Cutshort</option>
+                  <option value="wellfound">Wellfound</option>
+                  <option value="glassdoor">Glassdoor</option>
+                  <option value="shine">Shine</option>
+                  <option value="timesjobs">TimesJobs</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="inputUsername">Username / Email</label>
+                <input type="text" id="inputUsername" class="form-control" placeholder="username@example.com">
+              </div>
+              <div class="form-group">
+                <label for="inputPassword">Password</label>
+                <input type="password" id="inputPassword" class="form-control" placeholder="••••••••">
+              </div>
+              <div class="form-group">
+                <label for="inputDailyLimit">Max Daily Applications Limit</label>
+                <input type="number" id="inputDailyLimit" class="form-control" placeholder="20">
+              </div>
+              <button type="submit" class="btn btn-primary">Save Portal Settings</button>
+            </form>
+          </section>
+        </div>
+      </div>
+
+      <!-- View Panel: Profile -->
+      <div id="profileView" class="view-panel d-none">
+        <div class="dashboard-grid">
+          <section class="card">
+            <div class="card-header">
+              <h3>Configure Resume Profile</h3>
+            </div>
+            <form id="profileForm" class="dashboard-form">
+              <div class="form-row">
+                <div class="form-group half-width">
+                  <label for="profFirstName">First Name</label>
+                  <input type="text" id="profFirstName" class="form-control">
+                </div>
+                <div class="form-group half-width">
+                  <label for="profLastName">Last Name</label>
+                  <input type="text" id="profLastName" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="profEmail">Notification Email</label>
+                <input type="email" id="profEmail" class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="profPhone">Phone Number</label>
+                <input type="text" id="profPhone" class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="profLocation">Location</label>
+                <input type="text" id="profLocation" class="form-control">
+              </div>
+              <div class="form-row">
+                <div class="form-group half-width">
+                  <label for="profExpectedCTC">Expected CTC (LPA)</label>
+                  <input type="text" id="profExpectedCTC" class="form-control">
+                </div>
+                <div class="form-group half-width">
+                  <label for="profNoticePeriod">Notice Period (Days)</label>
+                  <input type="number" id="profNoticePeriod" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="profKeywords">Job Match Keywords (Comma Separated)</label>
+                <textarea id="profKeywords" class="form-control" rows="3"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Save Profile Settings</button>
+            </form>
+          </section>
+        </div>
+      </div>
+
+      <!-- View Panel: Cover Letter -->
+      <div id="coverLetterView" class="view-panel d-none">
+        <div class="dashboard-grid">
+          <section class="card">
+            <div class="card-header">
+              <h3>Cover Letter Template</h3>
+            </div>
+            <form id="coverLetterForm" class="dashboard-form">
+              <div class="form-group">
+                <label for="coverLetterTextarea">Modify standard cover letter (use [Designation] and [Company] for dynamic replacement):</label>
+                <textarea id="coverLetterTextarea" class="form-control" rows="18" style="font-family: inherit; font-size: 14px; line-height: 1.6;"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Save Cover Letter Settings</button>
+            </form>
+          </section>
+        </div>
+      </div>
+
+    </main>
+
+  </div>
+
+</body>
+</html>
