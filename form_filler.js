@@ -50,9 +50,9 @@ const CANDIDATE = {
   // Online presence
   linkedin:          'https://www.linkedin.com/in/sandeepramaswamykashyap/',
   linkedinHandle:    'sandeepramaswamykashyap',
-  github:            '',
-  portfolio:         '',
-  website:           '',
+  github:            'https://github.com/sandeepramaswamykashyap-coder',
+  portfolio:         'https://github.com/sandeepramaswamykashyap-coder',
+  website:           'https://github.com/sandeepramaswamykashyap-coder',
   twitter:           '',
 
   // Current employment
