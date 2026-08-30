@@ -159,46 +159,6 @@ const CANDIDATE = {
   dobDay:            '15',
   age:               '37',
   ssn:               '',
-  middleName:        '',
-};
-
-  // Skills (comma-separated for skills fields)
-  skillsPrimary:     'ServiceNow HRSD, Program Management, Business Transformation, UAT Governance, Change Management, Data Governance, Agile Delivery, Intelligent Automation',
-  skillsAll:         'ServiceNow HRSD, ITSM, HR Service Delivery, Program Management, Portfolio Management, Business Transformation, UAT Governance, UAT Delivery, Quality Governance, Organizational Change Management, Change Management, Data Governance, Data Stewardship, Data Quality, Agile Delivery, Scrum, JIRA, Confluence, Intelligent Automation, RPA, Process Excellence, Lean Six Sigma, Banking & Financial Services, Investment Banking Operations, Regulatory Change, Risk Operations',
-  yearsServiceNow:   '7',
-  yearsBanking:      '14',
-
-  // About / Cover letter
-  headline:          'Transformation Program Manager | ServiceNow HRSD, UAT Governance & Enterprise Delivery (14 Yrs SCB)',
-  summary:           'Senior transformation and program delivery leader with 14 years at Standard Chartered Bank, specializing in ServiceNow HRSD implementation, UAT governance, organizational change management, and enterprise-wide digital transformation. Proven track record of delivering complex multi-country programs, driving process excellence, and building high-performing cross-functional teams across BFSI and technology domains.',
-  coverLetterShort:  'I am a results-driven transformation program leader with 14+ years at Standard Chartered Bank, specializing in ServiceNow HRSD, UAT governance, and enterprise change management. I bring a proven track record of delivering complex multi-country programs and would be delighted to contribute my expertise to this role.',
-  whyApply:          `I am deeply aligned with this role's focus on transformation and delivery excellence. My 14-year tenure at Standard Chartered Bank has given me hands-on experience with ServiceNow HRSD implementation, UAT governance, organizational change management, and cross-functional program leadership — skills I am eager to bring to a forward-thinking organization.`,
-  howHeard:          'LinkedIn',
-  referralSource:    'LinkedIn',
-  coverLetterFull:   `Dear Hiring Manager,
-
-I am writing to express my strong interest in this opportunity. With 14 years of progressive experience at Standard Chartered Bank, I have led enterprise-wide transformation programs spanning ServiceNow HRSD implementation, UAT governance, organizational change management, and intelligent automation.
-
-I have successfully delivered multi-million dollar programs across 15+ countries, managed cross-functional teams of 50+ members, and driven measurable improvements in operational efficiency, compliance, and employee experience. My expertise in ServiceNow HRSD has resulted in platform adoption rates exceeding 90% and sustained benefits realization.
-
-I am energized by the opportunity to bring this experience to your organization and contribute to your transformation journey.
-
-Warm regards,
-Sandeep Ramaswamy Kashyap`,
-
-  // Security / background
-  backgroundCheck:   'Yes',
-  drugTest:          'Yes',
-  criminalRecord:    'No',
-
-  // Misc
-  password:          'Sandeep@2026!',
-  dobYear:           '1987',
-  dobMonth:          '03',
-  dobDay:            '15',
-  age:               '37',
-  ssn:               '',   // leave blank — never fill SSN
-  middleName:        '',
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -645,7 +605,13 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
       }
 
       let targetVal = 'No';
-      if (/phone|dial[\s_-]?code|calling[\s_-]?code|^country$|country[\s._-]?code/i.test(parentText)) {
+      if (/require.*sponsor|need.*sponsor|sponsorship|visa[\s_-]?support/i.test(parentText)) {
+        targetVal = 'No';
+      } else if (/authorized|eligible|right[\s_-]?to[\s_-]?work|legally[\s_-]?permitted/i.test(parentText)) {
+        targetVal = 'Yes';
+      } else if (/phone|dial[\s_-]?code|calling[\s_-]?code|^country$|country[\s._-]?code/i.test(parentText)) {
+        targetVal = 'India';
+      } else if (/choose[\s_-]?(the[\s_-]?)?country|country[\s_-]?of[\s_-]?residence|country[\s_-]?in[\s_-]?which|current[\s_-]?country|what[\s_-]?country|residing[\s_-]?in|located[\s_-]?in/i.test(parentText)) {
         targetVal = 'India';
       } else if (/sanction|export[\s_-]?control|crimea|cuba|iran|syria|none[\s_-]?of[\s_-]?the[\s_-]?above/i.test(parentText)) {
         targetVal = 'None of the above';
@@ -665,20 +631,20 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
         targetVal = '2010';
       } else if (/pronoun/i.test(parentText)) {
         targetVal = 'He/Him';
-      } else if (/location|city/i.test(parentText) && !/united states|residence|country/i.test(parentText)) {
-        targetVal = 'Bengaluru';
-      } else if (/require.*sponsor|need.*sponsor|sponsorship|visa/i.test(parentText)) {
-        targetVal = 'No';
-      } else if (/authorized|eligible|right[\s_-]?to[\s_-]?work/i.test(parentText)) {
-        targetVal = 'Yes';
       } else if (/located in the united states|currently in the us\b|us citizen/i.test(parentText)) {
         targetVal = 'No';
-      } else if (/choose[\s_-]?(the[\s_-]?)?country|country[\s_-]?of[\s_-]?residence|country[\s_-]?in[\s_-]?which|current[\s_-]?country|what[\s_-]?country|residing[\s_-]?in|located[\s_-]?in|country/i.test(parentText)) {
-        targetVal = 'India';
-      } else if (/\b(?:years|experience|familiar|proficien|knowledge|background|skill|comfortable|agile|scrum|leadership|manage)\b/i.test(parentText) && !/require.*sponsor|subject to/i.test(parentText)) {
-        targetVal = 'Yes';
+      } else if (/^(?:location|city|current[\s_-]?city|city[\s_-]?\(|preferred[\s_-]?location)/i.test(parentText.trim()) || (/location|city/i.test(parentText) && !/work|authorized|sponsor|united states|residence|country/i.test(parentText))) {
+        targetVal = 'Bengaluru';
       } else if (/\b(?:legal|18|background check|drug screen|terms|consent|agree)\b/i.test(parentText)) {
         targetVal = 'Yes';
+      } else if (/non[\s_-]?compete|employment[\s_-]?agreement|subject[\s_-]?to[\s_-]?any|restrictive/i.test(parentText)) {
+        targetVal = 'No';
+      } else if (/contact[\s_-]?(current[\s_-]?)?employer/i.test(parentText)) {
+        targetVal = 'Yes';
+      } else if (/relative|family[\s_-]?member/i.test(parentText)) {
+        targetVal = 'No';
+      } else if (/opt[\s_-]?in|whatsapp|sms/i.test(parentText)) {
+        targetVal = 'No';
       } else if (/gender/i.test(parentText)) {
         targetVal = 'Male';
       } else if (/ethnicity|race/i.test(parentText)) {
@@ -695,6 +661,8 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
         targetVal = CANDIDATE.noticePeriodText;
       } else if (/source|hear[\s_-]?about/i.test(parentText)) {
         targetVal = 'LinkedIn';
+      } else if (/\b(?:years|experience|familiar|proficien|knowledge|background|skill|comfortable|agile|scrum|leadership|manage)\b/i.test(parentText) && !/require.*sponsor|subject to/i.test(parentText)) {
+        targetVal = 'Yes';
       }
 
       const ok = await fillCustomDropdown(frame, cs, targetVal);
