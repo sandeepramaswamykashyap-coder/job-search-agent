@@ -4,6 +4,7 @@ package-lock.json
 
 # Credentials, Secrets & Personal Data
 credentials.json
+portal_accounts.json
 .env
 .env.*
 !.env.example
@@ -13,6 +14,7 @@ credentials.json
 # Playwright & Browser Sessions (active cookies/logins/cache)
 .browser_session/
 .browser_session*/
+.browser_sessions/
 .playwright-browsers/
 userDataDir/
 

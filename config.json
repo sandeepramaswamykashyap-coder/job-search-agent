@@ -69,7 +69,7 @@
       "max_applications_per_day": 40
     },
     "linkedin": {
-      "enabled": true,
+      "enabled": false,
       "priority": 11,
       "max_applications_per_day": 25
     },

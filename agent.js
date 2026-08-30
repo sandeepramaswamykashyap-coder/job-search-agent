@@ -7,6 +7,7 @@ const path = require('path');
 process.env.PLAYWRIGHT_BROWSERS_PATH = path.join(__dirname, '.playwright-browsers');
 const { chromium } = require('playwright');
 const fs = require('fs');
+const { logApplication } = require('./applications_db');
 
 // Load configurations
 const configPath = path.join(__dirname, 'config.json');
@@ -490,7 +491,18 @@ async function runAgentCycle({ refreshCVOnly, stats, forceHeaded }) {
 
   try {
     // Portals targeted, ordered by config priority if available
-    const portals = ['naukri', 'iimjobs', 'foundit', 'linkedin', 'instahyre', 'indeed', 'hirist', 'cutshort', 'wellfound', 'glassdoor', 'shine', 'timesjobs'];
+    const portals = ['naukri', 'iimjobs', 'instahyre', 'cutshort', 'wellfound'];
+
+    async function checkAccessDenied(p) {
+      try {
+        const text = await p.textContent('body', { timeout: 1500 }).catch(() => '');
+        if (/access denied|permission to access|edgesuite|reference #/i.test(text)) {
+          console.log(`[Agent] 🛑 Access Denied / WAF detected on ${p.url()} — skipping portal immediately.`);
+          return true;
+        }
+      } catch (_) {}
+      return false;
+    }
     
     // Sort portals based on priority defined in config.json
     portals.sort((a, b) => {
@@ -1160,7 +1172,9 @@ async function handleJobAutomation(page, portal, stats) {
               await sleepRandom(3000, 5000);
               console.log(`[Agent] Submitted application successfully.`);
               stats.applicationsSubmitted += 1;
-              stats.appliedRolesList.push({ company: companyText, title: titleText, portal, time: new Date().toISOString() });
+              const _appEntry1 = { company: companyText, title: titleText, portal, time: new Date().toISOString() };
+              stats.appliedRolesList.push(_appEntry1);
+              logApplication(_appEntry1);
             }
           }
           if (detailPage !== page) {
@@ -1223,16 +1237,20 @@ async function handleJobAutomation(page, portal, stats) {
           if (checkAppliedToday >= dailyCap) break;
 
           const card = jobCards.nth(i);
-          const titleElement = await card.locator('.joblist__title-text').first();
-          const titleText = await titleElement.innerText();
-          const companyElement = await card.locator('a[href^="/j/"]').first();
+          const titleElement = await card.locator('.joblist__title-text, .job-title, h2, a.job-title').first();
+          const titleText = (await titleElement.innerText().catch(() => 'Transformation Role')).trim();
           
-          let companyText = await companyElement.getAttribute('title') || 'Company';
-          if (companyText === 'Company' && titleText.includes(' - ')) {
-            companyText = titleText.split(' - ')[0].trim();
+          let companyText = '';
+          const compLocator = card.locator('.company-name, .rec-name, [class*="recruiter-name"], [class*="company"]').first();
+          if (await compLocator.count() > 0) {
+            companyText = (await compLocator.innerText().catch(() => '')).trim();
           }
 
-          console.log(`[Agent] Applying to: ${titleText} at ${companyText}`);
+          if (!companyText || companyText.toLowerCase() === 'company') {
+            companyText = 'Confidential Executive Search (via IIMJobs)';
+          }
+
+          console.log(`[Agent] Applying to: "${titleText}" at ${companyText}`);
           
           // Wait for job details page to open in a new tab
           const [detailPage] = await Promise.all([
@@ -1281,7 +1299,9 @@ async function handleJobAutomation(page, portal, stats) {
               await sleepRandom(2000, 4000);
               console.log(`[Agent] Submitted application successfully.`);
               stats.applicationsSubmitted += 1;
-              stats.appliedRolesList.push({ company: companyText, title: titleText, portal, time: new Date().toISOString() });
+              const _appEntry2 = { company: companyText, title: titleText, portal, time: new Date().toISOString() };
+              stats.appliedRolesList.push(_appEntry2);
+              logApplication(_appEntry2);
             } else {
               console.log(`[Agent] Apply button not found or not visible.`);
             }
@@ -1348,7 +1368,9 @@ async function handleJobAutomation(page, portal, stats) {
               await sleepRandom(3000, 5000);
               console.log(`[Agent] Submitted application successfully.`);
               stats.applicationsSubmitted += 1;
-              stats.appliedRolesList.push({ company: companyText, title: titleText, portal, time: new Date().toISOString() });
+              const _appEntry3 = { company: companyText, title: titleText, portal, time: new Date().toISOString() };
+              stats.appliedRolesList.push(_appEntry3);
+              logApplication(_appEntry3);
             }
           }
           await page.goBack();

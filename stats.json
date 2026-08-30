@@ -1,489 +1,610 @@
 {
-  "jobsScanned": 1232,
-  "applicationsSubmitted": 34,
+  "jobsScanned": 1183,
+  "applicationsSubmitted": 17,
   "appliedRolesList": [
+    {
+      "company": "Project Manager",
+      "title": "Project Manager - Data Analytics",
+      "portal": "iimjobs",
+      "time": "2026-08-22T03:19:35.920Z"
+    },
     {
       "company": "Digital Transformation Lead/Program Manager",
       "title": "Digital Transformation Lead/Program Manager - Enterprise Planning - Supply Chain Domain",
       "portal": "iimjobs",
-      "time": "2026-08-20T09:51:02.505Z"
+      "time": "2026-08-22T03:35:13.954Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Store Launch & Operations",
       "portal": "iimjobs",
-      "time": "2026-08-20T09:51:38.397Z"
+      "time": "2026-08-22T03:35:50.558Z"
     },
     {
       "company": "Digital Transformation Manager",
       "title": "Digital Transformation Manager - Order To Cash Domain - Automotive Manufacturing",
       "portal": "iimjobs",
-      "time": "2026-08-20T09:52:49.464Z"
-    },
-    {
-      "company": "Organization Transformation Manager",
-      "title": "Organization Transformation Manager - Retail",
-      "portal": "iimjobs",
-      "time": "2026-08-20T09:53:26.127Z"
+      "time": "2026-08-22T03:37:01.868Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Store Launch & Operations",
       "portal": "iimjobs",
-      "time": "2026-08-20T09:54:59.608Z"
+      "time": "2026-08-22T03:38:35.131Z"
+    },
+    {
+      "company": "Associate Director",
+      "title": "Associate Director - Transformation - AI & Automation Customer Experience",
+      "portal": "iimjobs",
+      "time": "2026-08-22T03:39:46.058Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Quick Commerce/eCommerce - IIM/ISB/MDI/FMS",
       "portal": "iimjobs",
-      "time": "2026-08-20T09:56:12.121Z"
+      "time": "2026-08-22T03:40:24.346Z"
     },
     {
-      "company": "Technical Program Manager",
-      "title": "Technical Program Manager - Founder's Office",
+      "company": "Product Owner",
+      "title": "Product Owner - Product Management - BFSI",
       "portal": "iimjobs",
-      "time": "2026-08-20T09:56:49.145Z"
+      "time": "2026-08-22T03:41:20.599Z"
     },
     {
       "company": "Company",
       "title": "Agile Product Owner",
       "portal": "iimjobs",
-      "time": "2026-08-20T09:57:43.645Z"
-    },
-    {
-      "company": "Unit Head",
-      "title": "Unit Head - Technical AI Product Owner",
-      "portal": "iimjobs",
-      "time": "2026-08-20T10:00:04.549Z"
+      "time": "2026-08-22T03:41:58.803Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Store Launch & Operations",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:02:06.718Z"
+      "time": "2026-08-22T03:45:47.920Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Quick Commerce/eCommerce - IIM/ISB/MDI/FMS",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:03:16.675Z"
+      "time": "2026-08-22T03:47:00.222Z"
     },
     {
       "company": "ServiceNow Business Analyst",
       "title": "ServiceNow Business Analyst - IRM/GRC Lead",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:09:42.012Z"
+      "time": "2026-08-22T03:53:25.021Z"
+    },
+    {
+      "company": "Company",
+      "title": "Program Manager",
+      "portal": "iimjobs",
+      "time": "2026-08-22T03:54:18.771Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Store Launch & Operations",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:10:41.329Z"
+      "time": "2026-08-22T03:54:55.467Z"
+    },
+    {
+      "company": "Program Manager",
+      "title": "Program Manager - Digital Lending",
+      "portal": "iimjobs",
+      "time": "2026-08-22T03:55:33.884Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Quick Commerce/eCommerce - IIM/ISB/MDI/FMS",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:11:52.450Z"
+      "time": "2026-08-22T03:56:44.295Z"
     },
     {
-      "company": "Technical Program Manager",
-      "title": "Technical Program Manager - Founder's Office",
+      "company": "Head",
+      "title": "Head - Program Delivery Management & Governance",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:12:31.385Z"
+      "time": "2026-08-22T04:01:22.233Z"
     },
     {
       "company": "Lead",
       "title": "Lead - Change Management",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:20:18.561Z"
+      "time": "2026-08-22T04:25:39.831Z"
     },
     {
       "company": "Project Manager",
       "title": "Project Manager - Change Office - Financial Services",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:22:37.744Z"
+      "time": "2026-08-22T04:30:00.766Z"
     },
     {
-      "company": "Project Manager",
-      "title": "Project Manager - Change Office - Financial Services",
+      "company": "Lead",
+      "title": "Lead - Artificial Intelligence & Technology Transformation",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:24:41.116Z"
-    },
-    {
-      "company": "Business Consultant",
-      "title": "Business Consultant - ITSM Transformation",
-      "portal": "iimjobs",
-      "time": "2026-08-20T10:26:44.484Z"
+      "time": "2026-08-22T04:32:04.980Z"
     },
     {
       "company": "Business Consultant",
       "title": "Business Consultant - ITSM Transformation",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:29:55.583Z"
+      "time": "2026-08-22T04:32:42.182Z"
+    },
+    {
+      "company": "Lead/Consultant",
+      "title": "Lead/Consultant - Digital Transformation Services",
+      "portal": "iimjobs",
+      "time": "2026-08-22T04:33:18.905Z"
+    },
+    {
+      "company": "Associate Director",
+      "title": "Associate Director - Transformation - AI & Automation Customer Experience",
+      "portal": "iimjobs",
+      "time": "2026-08-22T04:35:23.401Z"
+    },
+    {
+      "company": "Business Consultant",
+      "title": "Business Consultant - ITSM Transformation",
+      "portal": "iimjobs",
+      "time": "2026-08-22T04:36:01.909Z"
     },
     {
       "company": "Director",
       "title": "Director - Financial Transformation - Shared Services",
       "portal": "iimjobs",
-      "time": "2026-08-20T10:30:32.268Z"
-    },
-    {
-      "company": "Digital Transformation Manager",
-      "title": "Digital Transformation Manager - Order To Cash Domain - Automotive Manufacturing",
-      "portal": "iimjobs",
-      "time": "2026-08-20T10:32:16.069Z"
+      "time": "2026-08-22T04:36:38.983Z"
     },
     {
       "company": "Business Consultant",
       "title": "Business Consultant - ITSM Transformation",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:07:47.276Z"
+      "time": "2026-08-22T04:38:44.566Z"
     },
     {
       "company": "Digital Transformation Manager",
       "title": "Digital Transformation Manager - Order To Cash Domain - Automotive Manufacturing",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:08:59.026Z"
+      "time": "2026-08-22T04:39:55.266Z"
     },
     {
       "company": "Organization Transformation Manager",
       "title": "Organization Transformation Manager - Retail",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:09:36.143Z"
+      "time": "2026-08-22T04:40:31.673Z"
     },
     {
       "company": "Manager",
       "title": "Manager - Payments Transformation - Cross Border Payments",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:10:11.594Z"
+      "time": "2026-08-22T04:41:09.371Z"
     },
     {
       "company": "Lead",
       "title": "Lead - Operational Excellence",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:11:11.751Z"
+      "time": "2026-08-22T04:42:04.857Z"
+    },
+    {
+      "company": "Lead",
+      "title": "Lead - Operational Excellence",
+      "portal": "iimjobs",
+      "time": "2026-08-22T04:42:40.949Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Store Launch & Operations",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:15:35.527Z"
+      "time": "2026-08-22T04:46:25.389Z"
     },
     {
       "company": "Program Manager",
       "title": "Program Manager - Quick Commerce/eCommerce - IIM/ISB/MDI/FMS",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:16:47.458Z"
+      "time": "2026-08-22T04:47:37.162Z"
     },
     {
       "company": "Business Consultant",
       "title": "Business Consultant - ITSM Transformation",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:20:47.163Z"
+      "time": "2026-08-22T04:51:43.481Z"
     },
     {
       "company": "Digital Transformation Manager",
       "title": "Digital Transformation Manager - Order To Cash Domain - Automotive Manufacturing",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:21:24.010Z"
+      "time": "2026-08-22T04:52:19.174Z"
     },
     {
       "company": "Organization Transformation Manager",
       "title": "Organization Transformation Manager - Retail",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:22:00.090Z"
+      "time": "2026-08-22T04:52:55.543Z"
     },
     {
       "company": "Manager",
       "title": "Manager - Payments Transformation - Cross Border Payments",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:22:37.592Z"
+      "time": "2026-08-22T04:53:31.195Z"
     },
     {
-      "company": "iAgami",
-      "title": "iAgami - Senior Artificial Intelligence Automation Consultant",
+      "company": "Associate Director",
+      "title": "Associate Director - Transformation - AI & Automation Customer Experience",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:25:22.096Z"
+      "time": "2026-08-22T04:55:36.398Z"
     },
     {
       "company": "Digital Transformation Manager",
       "title": "Digital Transformation Manager - Order To Cash Domain - Automotive Manufacturing",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:30:40.193Z"
+      "time": "2026-08-22T04:58:33.987Z"
     },
     {
       "company": "Organization Transformation Manager",
       "title": "Organization Transformation Manager - Retail",
       "portal": "iimjobs",
-      "time": "2026-08-20T11:31:18.715Z"
+      "time": "2026-08-22T04:59:10.101Z"
     },
     {
-      "company": "Manager",
-      "title": "Manager - Payments Transformation - Cross Border Payments",
-      "portal": "iimjobs",
-      "time": "2026-08-20T11:31:56.986Z"
+      "company": "GitLab",
+      "title": "AI Transformation Owner, CRO",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002",
+      "time": "2026-08-22T05:22:29.440Z",
+      "status": "submitted"
     },
     {
-      "company": "Manager",
-      "title": "Manager - IT Governance/Risk & Compliance - BFS",
-      "portal": "iimjobs",
-      "time": "2026-08-20T11:39:16.402Z"
-    },
-    {
-      "company": "Company",
-      "title": "Agile Product Owner",
-      "portal": "iimjobs",
-      "time": "2026-08-20T11:43:01.233Z"
-    },
-    {
-      "company": "Unit Head",
-      "title": "Unit Head - Technical AI Product Owner",
-      "portal": "iimjobs",
-      "time": "2026-08-20T11:43:40.084Z"
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Program Manager, Money-as-a-Service",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-technical-program-manager-money-as-a-service",
-      "time": "2026-08-21T01:45:26.027Z"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Product Manager, Help Center (CX Automation)",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-product-manager-help-center-cx-automation",
-      "time": "2026-08-21T01:45:26.027Z"
-    },
-    {
-      "company": "Stripe",
-      "title": "People Solutions Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-people-solutions-program-manager",
-      "time": "2026-08-21T01:45:26.027Z"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Group Product Manager, Compliance Automation",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-group-product-manager-compliance-automation",
-      "time": "2026-08-21T01:45:26.027Z"
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product & Design",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002",
+      "time": "2026-08-22T05:23:25.923Z",
+      "status": "submitted"
     },
     {
       "company": "Mixpanel",
       "title": "Revenue Strategy &amp; Operations Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/mixpanel-revenue-strategy-operations-manager",
-      "time": "2026-08-21T01:45:26.027Z"
+      "time": "2026-08-26T09:45:08.603Z"
     },
     {
       "company": "Storyblok",
       "title": "Deal Operations Manager - Canada, Europe",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/storyblok-deal-operations-manager-canada-europe",
-      "time": "2026-08-21T01:45:26.027Z"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Operations Manager, Bermuda",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-operations-manager-bermuda",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Sales Operations Manager - Japan",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/dropbox-senior-sales-operations-manager-japan",
-      "time": "2026-08-21T01:45:26.028Z"
+      "time": "2026-08-26T09:45:08.604Z"
     },
     {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-08-21T01:45:26.028Z"
+      "time": "2026-08-26T09:45:08.605Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-08-21T01:45:26.028Z"
+      "time": "2026-08-26T09:45:08.607Z"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-08-26T09:45:08.608Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-08-21T01:45:26.028Z"
+      "time": "2026-08-26T09:45:08.609Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-08-21T01:45:26.028Z"
+      "time": "2026-08-26T09:45:08.610Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-08-21T01:45:26.028Z"
+      "time": "2026-08-26T09:45:08.612Z"
     },
     {
       "company": "Remote Company",
-      "title": "B2B Sales Expert - Evaluator",
+      "title": "Senior Physical Security Project Manager",
       "portal": "jobgether",
-      "url": "https://jobgether.com/offer/6a86c929a55bd7e3ae0cd066-b2b-sales-expert---evaluator",
-      "time": "2026-08-21T01:45:26.028Z"
+      "url": "https://jobgether.com/offer/6a8e6bdc41fb9301cd8ad430-senior-physical-security-project-manager",
+      "time": "2026-08-26T09:45:08.614Z"
     },
     {
       "company": "Remote Company",
-      "title": "Technical Program Manager IV (6284)",
+      "title": "Program Manager",
       "portal": "jobgether",
-      "url": "https://jobgether.com/offer/6a870f7da55bd7e3ae0d7bca-technical-program-manager-iv-6284",
-      "time": "2026-08-21T01:45:26.028Z"
+      "url": "https://jobgether.com/offer/6a8e6bdc41fb9301cd8ad3c0-program-manager",
+      "time": "2026-08-26T09:45:08.615Z"
     },
     {
       "company": "Remote Company",
-      "title": "User Research Expert - Evaluator",
+      "title": "Field Education Program Manager",
       "portal": "jobgether",
-      "url": "https://jobgether.com/offer/6a86c92ca55bd7e3ae0cd46b-user-research-expert---evaluator",
-      "time": "2026-08-21T01:45:26.028Z"
+      "url": "https://jobgether.com/offer/6a8e6bdc41fb9301cd8ad3a8-field-education-program-manager",
+      "time": "2026-08-26T09:45:08.616Z"
     },
     {
       "company": "Remote Company",
-      "title": "Human Resources Operations Manager",
+      "title": "Commissioning Project Manager II",
       "portal": "jobgether",
-      "url": "https://jobgether.com/offer/6a872ba2a55bd7e3ae0df179-human-resources-operations-manager",
-      "time": "2026-08-21T01:45:26.028Z"
+      "url": "https://jobgether.com/offer/6a8e5dda41fb9301cd8a8621-commissioning-project-manager-ii",
+      "time": "2026-08-26T09:45:08.618Z"
     },
     {
-      "company": "DailyRemote Employer",
-      "title": "Program Manager – Construction Management Services (CMS)",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/program-manager-construction-management-services-cms-5490293",
-      "time": "2026-08-21T01:45:26.028Z"
+      "company": "Remote Company",
+      "title": "Senior Project Manager, Client Services",
+      "portal": "jobgether",
+      "url": "https://jobgether.com/offer/6a8e5dd841fb9301cd8a822d-senior-project-manager-client-services",
+      "time": "2026-08-26T09:45:08.619Z"
     },
     {
-      "company": "DailyRemote Employer",
-      "title": "Director, Tech Portfolio, Investment, and Transformation Management",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/director-tech-portfolio-investment-and-transformation-management-5488955",
-      "time": "2026-08-21T01:45:26.028Z"
+      "company": "Remote Company",
+      "title": "Software Project Manager",
+      "portal": "jobgether",
+      "url": "https://jobgether.com/offer/6a8e5dd841fb9301cd8a81f7-software-project-manager",
+      "time": "2026-08-26T09:45:08.620Z"
     },
     {
-      "company": "DailyRemote Employer",
-      "title": "Senior Technical Program Manager",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/senior-technical-program-manager-5490882",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Project Manager",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/project-manager-5490861",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Program Manager III, GMP Labs",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/program-manager-iii-gmp-labs-5490842",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Project Manager II (Contract Talent)",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/project-manager-ii-contract-talent-5490835",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Senior Project Manager (IT & Operations) - Temporary",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/senior-project-manager-it-operations-temporary-5490757",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Project Manager / Gestionnaire de projet (Canada)",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/project-manager-gestionnaire-de-projet-canada-5490413",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Program Manager Contingent Workforce",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/program-manager-contingent-workforce-5490387",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Renewals Strategy Principal Program Manager",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/renewals-strategy-principal-program-manager-5490377",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Senior Project Manager - REMOTE USA",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/senior-project-manager-remote-usa-5490373",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Global Lead Project Manager (FSP) Remote",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/global-lead-project-manager-fsp-remote-5490320",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "Staff Technical Program Manager",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/staff-technical-program-manager-5490272",
-      "time": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "company": "DailyRemote Employer",
-      "title": "ATI HRFS Project Manager III (Contract Talent)",
-      "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/ati-hrfs-project-manager-iii-contract-talent-5490243",
-      "time": "2026-08-21T01:45:26.028Z"
+      "company": "Remote Company",
+      "title": "Program Manager, Leaves & Accommodations",
+      "portal": "jobgether",
+      "url": "https://jobgether.com/offer/6a8e5dd441fb9301cd8a7e13-program-manager-leaves-accommodations",
+      "time": "2026-08-26T09:45:08.621Z"
     },
     {
       "company": "DailyRemote Employer",
       "title": "Program Manager",
       "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/program-manager-5490219",
-      "time": "2026-08-21T01:45:26.028Z"
+      "url": "https://dailyremote.com/remote-job/program-manager-5514510",
+      "time": "2026-08-26T09:45:08.623Z"
     },
     {
       "company": "DailyRemote Employer",
-      "title": "SAP HCM Global Program Manager",
+      "title": "Offshore Accounting Delivery Manager – Philippines",
       "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/sap-hcm-global-program-manager-5490202",
-      "time": "2026-08-21T01:45:26.028Z"
+      "url": "https://dailyremote.com/remote-job/offshore-accounting-delivery-manager-philippines-5514493",
+      "time": "2026-08-26T09:45:08.624Z"
     },
     {
       "company": "DailyRemote Employer",
-      "title": "Quality Improvement Project Manager",
+      "title": "Accounting Delivery Manager – Offshore Operations",
       "portal": "dailyremote",
-      "url": "https://dailyremote.com/remote-job/quality-improvement-project-manager-5490164",
-      "time": "2026-08-21T01:45:26.028Z"
+      "url": "https://dailyremote.com/remote-job/accounting-delivery-manager-offshore-operations-5514492",
+      "time": "2026-08-26T09:45:08.625Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Project Manager - Services",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-project-manager-services-5514480",
+      "time": "2026-08-26T09:45:08.626Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Custom Program Manager, High School Study Abroad",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/custom-program-manager-high-school-study-abroad-5514428",
+      "time": "2026-08-26T09:45:08.628Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Project Manager | $90K-$110K + Remote | Inc. 5000 Coaching & Personal Development Company",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-project-manager-90-k-110-k-remote-inc-5000-coaching-personal-development-company-5514427",
+      "time": "2026-08-26T09:45:08.629Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "AU Project Manager/Administrator (Construction) - Dayshift Remote",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/au-project-manager-administrator-construction-dayshift-remote-5514362",
+      "time": "2026-08-26T09:45:08.631Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Product Manager – Valuation Software",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-product-manager-valuation-software-5514340",
+      "time": "2026-08-26T09:45:08.633Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Remote ServiceNow Agile Project Manager (VA ESOM)",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/remote-service-now-agile-project-manager-va-esom-5514329",
+      "time": "2026-08-26T09:45:08.635Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Project Manager, Mid",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/project-manager-mid-5514309",
+      "time": "2026-08-26T09:45:08.637Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Enterprise Project Manager",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/enterprise-project-manager-5514306",
+      "time": "2026-08-26T09:45:08.638Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Construction Project Manager or Project Executive (Senior PM) - Wind - Nationwide Opportunities!",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/construction-project-manager-or-project-executive-senior-pm-wind-nationwide-opportunities-5514292",
+      "time": "2026-08-26T09:45:08.640Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Program Manager I - Biopharmaceutical",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/program-manager-i-biopharmaceutical-5514270",
+      "time": "2026-08-26T09:45:08.642Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Federal Reseller Program Manager",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/federal-reseller-program-manager-5514262",
+      "time": "2026-08-26T09:45:08.644Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Data Ambassador /Project Manager Lab",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/data-ambassador-project-manager-lab-5514199",
+      "time": "2026-08-26T09:45:08.646Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Product Operations Manager",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-product-operations-manager-5514062",
+      "time": "2026-08-26T09:45:08.647Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Principal Product Manager – Private Credit Valuations",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/principal-product-manager-private-credit-valuations-5514018",
+      "time": "2026-08-26T09:45:08.649Z"
+    },
+    {
+      "company": "Remote Company",
+      "title": "Operational Finance & Assurance (FP&A) Expert - AI Training & Evaluation",
+      "portal": "jobgether",
+      "url": "https://jobgether.com/offer/6a935da10875ca77c4ac54cc-operational-finance-assurance-fp-a-expert---ai-training-evaluation",
+      "time": "2026-08-30T04:42:17.682Z"
+    },
+    {
+      "company": "Remote Company",
+      "title": "ERP Project Manager (MS D365 F&O) - Work from home",
+      "portal": "jobgether",
+      "url": "https://jobgether.com/offer/6a93253b0875ca77c4abb857-erp-project-manager-ms-d365-f-o---work-from-home",
+      "time": "2026-08-30T04:42:17.684Z"
+    },
+    {
+      "company": "Remote Company",
+      "title": "Product Management Expert - Evaluator",
+      "portal": "jobgether",
+      "url": "https://jobgether.com/offer/6a92a6ae0875ca77c4a9fa15-product-management-expert---evaluator",
+      "time": "2026-08-30T04:42:17.686Z"
+    },
+    {
+      "company": "Remote Company",
+      "title": "Sr. Associate, Product Management –  Copilot and M365 Automation",
+      "portal": "jobgether",
+      "url": "https://jobgether.com/offer/6a927c7c0875ca77c4a986a5-sr.-associate-product-management---copilot-and-m365-automation",
+      "time": "2026-08-30T04:42:17.688Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Pre & Post Award Clinical Research Grants Project Manager",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/pre-post-award-clinical-research-grants-project-manager-5535116",
+      "time": "2026-08-30T04:42:17.690Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Program Manager, Strategic Operations",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/program-manager-strategic-operations-5535093",
+      "time": "2026-08-30T04:42:17.691Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Associate Director Pre-Lease Due Diligence Program Manager (Data Center Construction)",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/associate-director-pre-lease-due-diligence-program-manager-data-center-construction-5535078",
+      "time": "2026-08-30T04:42:17.692Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Data Center Training Program Manager",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/data-center-training-program-manager-5534786",
+      "time": "2026-08-30T04:42:17.694Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Technical Project Manager - Montreal / Remote",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-technical-project-manager-montreal-remote-5534688",
+      "time": "2026-08-30T04:42:17.695Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Technical Project Manager - Toronto / Remote",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-technical-project-manager-toronto-remote-5534686",
+      "time": "2026-08-30T04:42:17.696Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Delivery Manager (Remote)",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-delivery-manager-remote-5534652",
+      "time": "2026-08-30T04:42:17.697Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Project Manager - Pacific Time Zone Preferred",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/project-manager-pacific-time-zone-preferred-5534636",
+      "time": "2026-08-30T04:42:17.698Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Project Manager",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-project-manager-5534514",
+      "time": "2026-08-30T04:42:17.699Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Project Manager (Print & Graphics)",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/project-manager-print-graphics-5534427",
+      "time": "2026-08-30T04:42:17.700Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Senior Project Manager (Pharma)",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/senior-project-manager-pharma-5534292",
+      "time": "2026-08-30T04:42:17.700Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "HubSpot Project Manager (LATAM & The Caribbean)",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/hub-spot-project-manager-latam-the-caribbean-5534285",
+      "time": "2026-08-30T04:42:17.701Z"
+    },
+    {
+      "company": "DailyRemote Employer",
+      "title": "Implementation Project Manager (French Required | German a Plus)",
+      "portal": "dailyremote",
+      "url": "https://dailyremote.com/remote-job/implementation-project-manager-french-required-german-a-plus-5534281",
+      "time": "2026-08-30T04:42:17.702Z"
     }
   ],
   "failures": [],
-  "lastCVUploadDate": "Fri Aug 21 2026",
-  "date": "Fri Aug 21 2026",
+  "lastCVUploadDate": "Sun Aug 30 2026",
+  "date": "Sun Aug 30 2026",
   "remoteJobs": [
     {
       "title": "Revenue Strategy &amp; Operations Manager",
@@ -902,180 +1023,341 @@
       "scannedAt": "2026-08-20T09:41:15.551Z"
     },
     {
-      "title": "B2B Sales Expert - Evaluator",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "company": "GitLab",
+      "link": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-08-26T09:45:08.608Z"
+    },
+    {
+      "title": "Senior Physical Security Project Manager",
       "company": "Remote Company",
-      "link": "https://jobgether.com/offer/6a86c929a55bd7e3ae0cd066-b2b-sales-expert---evaluator",
+      "link": "https://jobgether.com/offer/6a8e6bdc41fb9301cd8ad430-senior-physical-security-project-manager",
       "region": "Global Remote",
       "portal": "jobgether",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "scannedAt": "2026-08-26T09:45:08.614Z"
     },
     {
-      "title": "Technical Program Manager IV (6284)",
+      "title": "Program Manager",
       "company": "Remote Company",
-      "link": "https://jobgether.com/offer/6a870f7da55bd7e3ae0d7bca-technical-program-manager-iv-6284",
+      "link": "https://jobgether.com/offer/6a8e6bdc41fb9301cd8ad3c0-program-manager",
       "region": "Global Remote",
       "portal": "jobgether",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "scannedAt": "2026-08-26T09:45:08.615Z"
     },
     {
-      "title": "User Research Expert - Evaluator",
+      "title": "Field Education Program Manager",
       "company": "Remote Company",
-      "link": "https://jobgether.com/offer/6a86c92ca55bd7e3ae0cd46b-user-research-expert---evaluator",
+      "link": "https://jobgether.com/offer/6a8e6bdc41fb9301cd8ad3a8-field-education-program-manager",
       "region": "Global Remote",
       "portal": "jobgether",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "scannedAt": "2026-08-26T09:45:08.616Z"
     },
     {
-      "title": "Human Resources Operations Manager",
+      "title": "Commissioning Project Manager II",
       "company": "Remote Company",
-      "link": "https://jobgether.com/offer/6a872ba2a55bd7e3ae0df179-human-resources-operations-manager",
+      "link": "https://jobgether.com/offer/6a8e5dda41fb9301cd8a8621-commissioning-project-manager-ii",
       "region": "Global Remote",
       "portal": "jobgether",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "scannedAt": "2026-08-26T09:45:08.618Z"
     },
     {
-      "title": "Program Manager – Construction Management Services (CMS)",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/program-manager-construction-management-services-cms-5490293",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "title": "Senior Project Manager, Client Services",
+      "company": "Remote Company",
+      "link": "https://jobgether.com/offer/6a8e5dd841fb9301cd8a822d-senior-project-manager-client-services",
+      "region": "Global Remote",
+      "portal": "jobgether",
+      "scannedAt": "2026-08-26T09:45:08.619Z"
     },
     {
-      "title": "Director, Tech Portfolio, Investment, and Transformation Management",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/director-tech-portfolio-investment-and-transformation-management-5488955",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "title": "Software Project Manager",
+      "company": "Remote Company",
+      "link": "https://jobgether.com/offer/6a8e5dd841fb9301cd8a81f7-software-project-manager",
+      "region": "Global Remote",
+      "portal": "jobgether",
+      "scannedAt": "2026-08-26T09:45:08.620Z"
     },
     {
-      "title": "Senior Technical Program Manager",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/senior-technical-program-manager-5490882",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Project Manager",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/project-manager-5490861",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Program Manager III, GMP Labs",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/program-manager-iii-gmp-labs-5490842",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Project Manager II (Contract Talent)",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/project-manager-ii-contract-talent-5490835",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Senior Project Manager (IT & Operations) - Temporary",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/senior-project-manager-it-operations-temporary-5490757",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Project Manager / Gestionnaire de projet (Canada)",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/project-manager-gestionnaire-de-projet-canada-5490413",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Program Manager Contingent Workforce",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/program-manager-contingent-workforce-5490387",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Program Manager Contingent Workforce",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/program-manager-contingent-workforce-5490386",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Renewals Strategy Principal Program Manager",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/renewals-strategy-principal-program-manager-5490377",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Senior Project Manager - REMOTE USA",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/senior-project-manager-remote-usa-5490373",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Global Lead Project Manager (FSP) Remote",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/global-lead-project-manager-fsp-remote-5490320",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "Staff Technical Program Manager",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/staff-technical-program-manager-5490272",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
-    },
-    {
-      "title": "ATI HRFS Project Manager III (Contract Talent)",
-      "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/ati-hrfs-project-manager-iii-contract-talent-5490243",
-      "region": "Worldwide",
-      "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "title": "Program Manager, Leaves & Accommodations",
+      "company": "Remote Company",
+      "link": "https://jobgether.com/offer/6a8e5dd441fb9301cd8a7e13-program-manager-leaves-accommodations",
+      "region": "Global Remote",
+      "portal": "jobgether",
+      "scannedAt": "2026-08-26T09:45:08.621Z"
     },
     {
       "title": "Program Manager",
       "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/program-manager-5490219",
+      "link": "https://dailyremote.com/remote-job/program-manager-5514510",
       "region": "Worldwide",
       "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "scannedAt": "2026-08-26T09:45:08.623Z"
     },
     {
-      "title": "SAP HCM Global Program Manager",
+      "title": "Offshore Accounting Delivery Manager – Philippines",
       "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/sap-hcm-global-program-manager-5490202",
+      "link": "https://dailyremote.com/remote-job/offshore-accounting-delivery-manager-philippines-5514493",
       "region": "Worldwide",
       "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "scannedAt": "2026-08-26T09:45:08.624Z"
     },
     {
-      "title": "Quality Improvement Project Manager",
+      "title": "Accounting Delivery Manager – Offshore Operations",
       "company": "DailyRemote Employer",
-      "link": "https://dailyremote.com/remote-job/quality-improvement-project-manager-5490164",
+      "link": "https://dailyremote.com/remote-job/accounting-delivery-manager-offshore-operations-5514492",
       "region": "Worldwide",
       "portal": "dailyremote",
-      "scannedAt": "2026-08-21T01:45:26.028Z"
+      "scannedAt": "2026-08-26T09:45:08.625Z"
+    },
+    {
+      "title": "Senior Project Manager - Services",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-project-manager-services-5514480",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.626Z"
+    },
+    {
+      "title": "Custom Program Manager, High School Study Abroad",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/custom-program-manager-high-school-study-abroad-5514428",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.628Z"
+    },
+    {
+      "title": "Senior Project Manager | $90K-$110K + Remote | Inc. 5000 Coaching & Personal Development Company",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-project-manager-90-k-110-k-remote-inc-5000-coaching-personal-development-company-5514427",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.629Z"
+    },
+    {
+      "title": "AU Project Manager/Administrator (Construction) - Dayshift Remote",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/au-project-manager-administrator-construction-dayshift-remote-5514362",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.631Z"
+    },
+    {
+      "title": "Senior Product Manager – Valuation Software",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-product-manager-valuation-software-5514340",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.633Z"
+    },
+    {
+      "title": "Remote ServiceNow Agile Project Manager (VA ESOM)",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/remote-service-now-agile-project-manager-va-esom-5514329",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.635Z"
+    },
+    {
+      "title": "Project Manager, Mid",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/project-manager-mid-5514309",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.637Z"
+    },
+    {
+      "title": "Enterprise Project Manager",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/enterprise-project-manager-5514306",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.638Z"
+    },
+    {
+      "title": "Construction Project Manager or Project Executive (Senior PM) - Wind - Nationwide Opportunities!",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/construction-project-manager-or-project-executive-senior-pm-wind-nationwide-opportunities-5514292",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.640Z"
+    },
+    {
+      "title": "Program Manager I - Biopharmaceutical",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/program-manager-i-biopharmaceutical-5514270",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.642Z"
+    },
+    {
+      "title": "Federal Reseller Program Manager",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/federal-reseller-program-manager-5514262",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.644Z"
+    },
+    {
+      "title": "Data Ambassador /Project Manager Lab",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/data-ambassador-project-manager-lab-5514199",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.646Z"
+    },
+    {
+      "title": "Senior Product Operations Manager",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-product-operations-manager-5514062",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.647Z"
+    },
+    {
+      "title": "Principal Product Manager – Private Credit Valuations",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/principal-product-manager-private-credit-valuations-5514018",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-26T09:45:08.649Z"
+    },
+    {
+      "title": "Operational Finance & Assurance (FP&A) Expert - AI Training & Evaluation",
+      "company": "Remote Company",
+      "link": "https://jobgether.com/offer/6a935da10875ca77c4ac54cc-operational-finance-assurance-fp-a-expert---ai-training-evaluation",
+      "region": "Global Remote",
+      "portal": "jobgether",
+      "scannedAt": "2026-08-30T04:42:17.682Z"
+    },
+    {
+      "title": "ERP Project Manager (MS D365 F&O) - Work from home",
+      "company": "Remote Company",
+      "link": "https://jobgether.com/offer/6a93253b0875ca77c4abb857-erp-project-manager-ms-d365-f-o---work-from-home",
+      "region": "Global Remote",
+      "portal": "jobgether",
+      "scannedAt": "2026-08-30T04:42:17.684Z"
+    },
+    {
+      "title": "Product Management Expert - Evaluator",
+      "company": "Remote Company",
+      "link": "https://jobgether.com/offer/6a92a6ae0875ca77c4a9fa15-product-management-expert---evaluator",
+      "region": "Global Remote",
+      "portal": "jobgether",
+      "scannedAt": "2026-08-30T04:42:17.686Z"
+    },
+    {
+      "title": "Sr. Associate, Product Management –  Copilot and M365 Automation",
+      "company": "Remote Company",
+      "link": "https://jobgether.com/offer/6a927c7c0875ca77c4a986a5-sr.-associate-product-management---copilot-and-m365-automation",
+      "region": "Global Remote",
+      "portal": "jobgether",
+      "scannedAt": "2026-08-30T04:42:17.688Z"
+    },
+    {
+      "title": "Pre & Post Award Clinical Research Grants Project Manager",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/pre-post-award-clinical-research-grants-project-manager-5535116",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.690Z"
+    },
+    {
+      "title": "Program Manager, Strategic Operations",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/program-manager-strategic-operations-5535093",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.691Z"
+    },
+    {
+      "title": "Associate Director Pre-Lease Due Diligence Program Manager (Data Center Construction)",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/associate-director-pre-lease-due-diligence-program-manager-data-center-construction-5535078",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.692Z"
+    },
+    {
+      "title": "Data Center Training Program Manager",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/data-center-training-program-manager-5534786",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.694Z"
+    },
+    {
+      "title": "Senior Technical Project Manager - Montreal / Remote",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-technical-project-manager-montreal-remote-5534688",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.695Z"
+    },
+    {
+      "title": "Senior Technical Project Manager - Toronto / Remote",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-technical-project-manager-toronto-remote-5534686",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.696Z"
+    },
+    {
+      "title": "Senior Delivery Manager (Remote)",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-delivery-manager-remote-5534652",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.697Z"
+    },
+    {
+      "title": "Project Manager - Pacific Time Zone Preferred",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/project-manager-pacific-time-zone-preferred-5534636",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.698Z"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-project-manager-5534514",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.699Z"
+    },
+    {
+      "title": "Project Manager (Print & Graphics)",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/project-manager-print-graphics-5534427",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.700Z"
+    },
+    {
+      "title": "Senior Project Manager (Pharma)",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/senior-project-manager-pharma-5534292",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.700Z"
+    },
+    {
+      "title": "HubSpot Project Manager (LATAM & The Caribbean)",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/hub-spot-project-manager-latam-the-caribbean-5534285",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.701Z"
+    },
+    {
+      "title": "Implementation Project Manager (French Required | German a Plus)",
+      "company": "DailyRemote Employer",
+      "link": "https://dailyremote.com/remote-job/implementation-project-manager-french-required-german-a-plus-5534281",
+      "region": "Worldwide",
+      "portal": "dailyremote",
+      "scannedAt": "2026-08-30T04:42:17.702Z"
     }
-  ]
+  ],
+  "lastPortalCycleAt": "2026-08-26T06:42:44.282Z"
 }

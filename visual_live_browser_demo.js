@@ -48,7 +48,7 @@ const fs = require('fs');
   await highlightAndFill('input#resumator_lastname_field', 'Ramaswamy Kashyap', 'Last Name');
   await highlightAndFill('input#resumator_email_field', 'sandeepramaswamykashyap@gmail.com', 'Email');
   await highlightAndFill('input#resumator_phone_field', '+91 63663 25217', 'Phone Number');
-  await highlightAndFill('input#resumator_linkedin_field, input[name*="linkedin"]', 'https://www.linkedin.com/in/sandeep-kashyap-a115049/', 'LinkedIn URL');
+  await highlightAndFill('input#resumator_linkedin_field, input[name*="linkedin"]', 'https://www.linkedin.com/in/sandeepramaswamykashyap/', 'LinkedIn URL');
 
   // Attach CV
   const cvPath = path.join(__dirname, 'Sandeep_Kashyap.pdf');

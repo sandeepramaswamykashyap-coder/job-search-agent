@@ -18,6 +18,7 @@ const http = require('https');
 
 const statsFile = path.join(__dirname, 'stats.json');
 const userDataDir = path.join(__dirname, '.browser_session_remote');
+const { logApplication } = require('./applications_db');
 
 const targetKeywords = [
   'program manager', 'transformation', 'servicenow', 'automation', 'uat', 'change management',
@@ -432,22 +433,18 @@ async function runAllGlobalRemoteSweeps() {
   console.log("=================== RUNNING FULL SUITE GLOBAL REMOTE PORTALS SWEEP ===================");
   console.log(`Execution Time: ${new Date().toISOString()}`);
 
-  const [wework, remoteok, jobgether, remotive, dailyremote, workingnomads] = await Promise.all([
+  const [wework, remoteok, remotive, workingnomads] = await Promise.all([
     crawlWeWorkRemotely(),
     fetchRemoteOK(),
-    crawlJobgether(),
     fetchRemotive(),
-    crawlDailyRemote(),
     fetchWorkingNomads()
   ]);
 
-  const allMatched = [...wework, ...remoteok, ...jobgether, ...remotive, ...dailyremote, ...workingnomads];
+  const allMatched = [...wework, ...remoteok, ...remotive, ...workingnomads];
   console.log(`\n[Full Remote Suite] 🌎 ${allMatched.length} total Global Remote Leadership matches`);
   console.log(`  🌐 WeWorkRemotely: ${wework.length}`);
   console.log(`  💻 RemoteOK:       ${remoteok.length}`);
-  console.log(`  🔍 Jobgether:      ${jobgether.length}`);
   console.log(`  🚀 Remotive:       ${remotive.length}`);
-  console.log(`  📅 DailyRemote:    ${dailyremote.length}`);
   console.log(`  🧳 WorkingNomads:  ${workingnomads.length}`);
 
   // Deduplicate by link, then update stats.json
@@ -462,7 +459,7 @@ async function runAllGlobalRemoteSweeps() {
       const seenApplied = new Set(stats.appliedRolesList.map(r => `${r.company}::${r.title}`));
 
       // Add newly scanned count to cumulative jobsScanned
-      const totalScannedThisRun = wework.length + remoteok.length + jobgether.length + remotive.length + dailyremote.length + workingnomads.length;
+      const totalScannedThisRun = wework.length + remoteok.length + remotive.length + workingnomads.length;
       stats.jobsScanned = (stats.jobsScanned || 0) + totalScannedThisRun;
 
       allMatched.forEach(job => {
@@ -475,14 +472,16 @@ async function runAllGlobalRemoteSweeps() {
         }
         // Also log as applied (for portals with direct apply links)
         if (!seenApplied.has(key)) {
-          stats.appliedRolesList.push({
+          const _remoteEntry = {
             company: job.company,
             title: job.title,
             portal: job.portal,
             url: job.link,
             time: new Date().toISOString()
-          });
+          };
+          stats.appliedRolesList.push(_remoteEntry);
           seenApplied.add(key);
+          logApplication(_remoteEntry);
           console.log(`  ✅ Applied: [${job.portal}] ${job.title} @ ${job.company}`);
         }
       });

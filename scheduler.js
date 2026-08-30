@@ -19,6 +19,7 @@ const { runAgentCycle } = require('./agent');
 const { runAllGlobalRemoteSweeps } = require('./remote_crawlers');
 const { runOvernightOutreachCycle } = require('./overnight_runner');
 const { sendDailyReport } = require('./reporter');
+const { runPortalApplicationCycle } = require('./portal_router');
 
 // Load configurations
 const configPath = path.join(__dirname, 'config.json');
@@ -46,16 +47,8 @@ function loadStats() {
   if (fs.existsSync(statsPath)) {
     try {
       const savedStats = JSON.parse(fs.readFileSync(statsPath, 'utf8'));
-      const now = new Date();
-      const utcTime = now.getTime() + (now.getTimezoneOffset() * 60000);
-      const istTime = new Date(utcTime + (3600000 * 5.5));
-      const todayStr = istTime.toDateString();
-      if (savedStats.date === todayStr) {
-        stats = { ...stats, ...savedStats };
-        log(`Restored stats from today: Scanned=${stats.jobsScanned}, Submitted=${stats.applicationsSubmitted}`);
-      } else {
-        log(`Saved stats are from a different date (${savedStats.date}). Initializing fresh stats.`);
-      }
+      stats = { ...stats, ...savedStats };
+      log(`Restored stats: Scanned=${stats.jobsScanned}, Submitted=${stats.applicationsSubmitted}`);
     } catch (e) {
       console.warn(`[Scheduler] Failed to load stats: ${e.message}`);
     }
@@ -123,20 +116,21 @@ async function executeCycle() {
     await checkAndRunCVRefresh();
     saveStats();
 
-    // 2. Remote portals first — WeWorkRemotely, RemoteOK, Jobgether, Remotive, WorkingNomads, SurelyRemote, DailyRemote
-    log('Starting REMOTE portals sweep (priority 1-7)...');
-    await runAllGlobalRemoteSweeps().catch(e => log(`Remote sweep warning: ${e.message}`));
+    // 2. Direct Tier-1 Company Portals (Greenhouse, Lever, SmartRecruiters, Workday)
+    log('Starting DIRECT TIER-1 COMPANY PORTALS application cycle...');
+    await runPortalApplicationCycle(null, 30).catch(e => log(`Tier-1 Portal cycle warning: ${e.message}`));
     saveStats();
 
-    // 3. Indian portals — Naukri, IIMJobs, Foundit, LinkedIn, Instahyre, etc.
-    log('Starting INDIAN portals sweep (priority 8-19)...');
+    // 3. Indian Executive Portals — Naukri & IIMJobs for Transformation Leadership
+    log('Starting INDIAN EXECUTIVE PORTALS sweep (Naukri & IIMJobs)...');
     await runAgentCycle({ refreshCVOnly: false, stats, forceHeaded });
     saveStats();
 
-    // 4. Perform overnight autonomous lead discovery, email outreach, and connection dispatch
-    await runOvernightOutreachCycle().catch(e => log(`Overnight outreach warning: ${e.message}`));
+    // 4. Targeted Recruiter & Hiring Manager Outreach (using approved original templates)
+    log('Starting TARGETED RECRUITER & HIRING MANAGER outreach cycle...');
+    await runOvernightOutreachCycle().catch(e => log(`Outreach warning: ${e.message}`));
     saveStats();
-    
+
     log("Cycle completed successfully.");
   } catch (err) {
     log(`Critical error during cycle execution: ${err.message}`);
@@ -179,16 +173,9 @@ function scheduleDailyReport() {
         const { processOutreachQueue } = require('./outreach_mailer');
         await processOutreachQueue();
         log("Pre-report outreach flush completed. Dispatching morning 8 AM IST daily email report...");
-        await sendDailyReport(stats);
+        await sendDailyReport();
         log("Morning 8 AM IST daily report email & recruiter pitch dispatch completed.");
         lastReportDate = todayStr;
-        
-        // Reset daily stats after sending the morning report
-        stats.jobsScanned = 0;
-        stats.applicationsSubmitted = 0;
-        stats.appliedRolesList = [];
-        stats.failures = [];
-        saveStats();
       } catch (err) {
         log(`Failed to dispatch morning 8 AM daily report: ${err.message}`);
       }

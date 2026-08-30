@@ -1,247 +1,227 @@
 [
   {
-    "email": "joshi.vyasraj@pwc.com",
-    "company": "Pricewater House Coopers Service Delivery Center Bangalore",
-    "title": "FDD - Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-07-21T10:12:47.203Z"
+    "name": "Vikram Seth",
+    "email": "vikram.seth@servicenow.com",
+    "company": "ServiceNow",
+    "title": "Vice President — Global Delivery & Customer Outcomes",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "Snigdha@beanhr.com",
-    "company": "Bean Hr Consulting",
-    "title": "Workday Consultant / manager",
-    "portal": "naukri",
-    "extractedAt": "2026-07-21T10:13:28.257Z"
-  },
-  {
-    "email": "aishwarya.j@idexcel.com",
-    "company": "Idexcel",
-    "title": "Senior Product Manger",
-    "portal": "naukri",
-    "extractedAt": "2026-07-21T10:18:57.663Z"
-  },
-  {
-    "email": "vanshika@theglove.co.in",
-    "company": "Leading Product Based Software Company (Prestigious Client of The Glove)",
-    "title": "AI Project Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-07-21T10:23:29.973Z"
-  },
-  {
-    "email": "narni.sarath@yash.com",
-    "company": "Yash Technologies",
-    "title": "Yash Technologies is Hiring - Business Analyst - RPA BA",
-    "portal": "naukri",
-    "extractedAt": "2026-07-22T11:01:21.210Z"
-  },
-  {
-    "email": "raghur@nousinfo.com",
-    "company": "Nous Infosystems",
-    "title": "Delivery Manager -with a CMMi level 5 company, BLR",
-    "portal": "naukri",
-    "extractedAt": "2026-07-23T19:10:28.139Z"
-  },
-  {
-    "email": "sachi.dubey@siroclinpharm.com",
-    "company": "Siro Clinpharm",
-    "title": "AI Program Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-07-24T11:42:38.408Z"
-  },
-  {
-    "email": "mary.priscilina@accionlabs.com",
-    "company": "Accion Labs",
-    "title": "Project Manager (Migrations projects)",
-    "portal": "naukri",
-    "extractedAt": "2026-07-25T17:15:22.852Z"
-  },
-  {
-    "email": "nitesh.v@jmdtechnologiesinc.com",
-    "company": "Company",
-    "title": "ServiceNow Platform Manager",
-    "portal": "linkedin",
-    "extractedAt": "2026-07-25T19:17:28.005Z"
-  },
-  {
-    "email": "ajaykumart.recruiter@gmail.com",
-    "company": "Target Enterprise",
-    "title": "Head of UAT & Quality Governance",
+    "name": "Swati Khanna",
+    "email": "swati.khanna@servicenow.com",
+    "company": "ServiceNow",
+    "title": "Director of Talent Acquisition — Enterprise Solutions",
     "persona": "recruiter",
-    "discoveredAt": "2026-07-26T10:32:58.619Z"
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "lowziwei@gmail.com",
-    "company": "Target Enterprise (Verified Hiring)",
-    "title": "Transformation Program Manager",
-    "persona": "peer",
-    "discoveredAt": "2026-07-26T10:34:16.510Z"
+    "name": "Anand Mahalingam",
+    "email": "anand.mahalingam@deloitte.com",
+    "company": "Deloitte",
+    "title": "Partner & Practice Leader — ServiceNow HRSD & Digital Workplaces",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "varshitha_devaraj@resourcepro.in",
-    "company": "Resource Pro",
-    "title": "Service Delivery Manager, India - Only P&C Experience",
-    "portal": "naukri",
-    "extractedAt": "2026-07-29T14:06:53.558Z"
+    "name": "Neha Agarwal",
+    "email": "neha.agarwal@deloitte.com",
+    "company": "Deloitte",
+    "title": "Executive Talent Director — Enterprise Technology",
+    "persona": "recruiter",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "bhargavi.chegireddy@neweratech.com",
-    "company": "New Era Technology",
-    "title": "Senior IT Project Manager (Real Estate & Infrastructure Projects)",
-    "portal": "naukri",
-    "extractedAt": "2026-07-30T05:53:54.336Z"
-  },
-  {
-    "email": "anupriya.jaitly@orcapod.work",
-    "company": "Orcapod Consulting Services",
-    "title": "Business Analyst",
-    "portal": "naukri",
-    "extractedAt": "2026-08-01T05:33:42.666Z"
-  },
-  {
-    "email": "nadella.sahithya@orcapod.work",
-    "company": "Orcapod Consulting Services",
-    "title": "Portfolio Services Manager _(PMO/Governance) -Risk Management",
-    "portal": "naukri",
-    "extractedAt": "2026-08-01T23:53:07.654Z"
-  },
-  {
-    "email": "aarthi.g@veetechnologies.com",
-    "company": "Veetechnologies",
-    "title": "Operations Head Examination & Assessment Services",
-    "portal": "naukri",
-    "extractedAt": "2026-08-04T08:29:09.086Z"
-  },
-  {
-    "email": "Sravani.karri@neweratech.com",
-    "company": "New Era Technology",
-    "title": "CDET Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-08-04T08:29:51.174Z"
-  },
-  {
-    "email": "arti.awasthi@omegahms.com",
-    "company": "Omega Healthcare",
-    "title": "Manager Transition Management Office",
-    "portal": "naukri",
-    "extractedAt": "2026-08-04T08:32:35.021Z"
-  },
-  {
-    "email": "sai.b@acesfotlabs.com",
-    "company": "Acesoft Labs",
-    "title": "Servicenow Business Analyst",
-    "portal": "naukri",
-    "extractedAt": "2026-08-06T06:29:39.513Z"
-  },
-  {
-    "email": "automation_it@yopmail.com",
-    "company": "Foundit Partner",
-    "title": "Managing Director - Operations",
-    "portal": "foundit",
-    "extractedAt": "2026-08-06T16:47:52.808Z"
-  },
-  {
-    "email": "gramashetty@allegisglobalsolutions.com",
-    "company": "Allegis Global Solutions (AGS)",
-    "title": "Specialist Business Risk- Controls Testing Or Internal Audit",
-    "portal": "naukri",
-    "extractedAt": "2026-08-07T04:27:44.377Z"
-  },
-  {
-    "email": "sandeepramaswamykashyap@gmail.com",
-    "company": "Foundit Partner",
-    "title": "Program Manager",
-    "portal": "foundit",
-    "extractedAt": "2026-08-07T18:44:44.600Z"
-  },
-  {
-    "email": "dipanjali@texnere.com",
-    "company": "Visara Human Capital Services",
-    "title": "Technical Program Manager Data Analytics",
-    "portal": "naukri",
-    "extractedAt": "2026-08-10T13:53:58.403Z"
-  },
-  {
-    "email": "nivitha.a@prodapt.com",
-    "company": "Prodapt Solutions",
-    "title": "BSS Business Analyst",
-    "portal": "naukri",
-    "extractedAt": "2026-08-10T14:20:10.787Z"
-  },
-  {
-    "email": "indumathi.j@pwc.com",
+    "name": "Rajesh Nair",
+    "email": "rajesh.nair@pwc.com",
     "company": "PwC",
-    "title": "Operations Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-08-11T03:49:34.851Z"
+    "title": "Partner — Business Transformation & Platform Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "bommakanti.sai.vaidehi@pwc.com",
+    "name": "Shweta Sen",
+    "email": "shweta.sen@pwc.com",
     "company": "PwC",
-    "title": "Qlikview Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-08-11T04:08:16.682Z"
+    "title": "Director — Executive & Leadership Recruitment",
+    "persona": "recruiter",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "brbavani@miratechgroup.com",
-    "company": "Miratech",
-    "title": "Remote Opportunity - UAT Engineer at Miratech",
-    "portal": "naukri",
-    "extractedAt": "2026-08-11T10:57:01.619Z"
+    "name": "Sanjay Verma",
+    "email": "sanjay.verma@ey.com",
+    "company": "Ernst & Young (EY)",
+    "title": "Partner — Digital Operations & Intelligent Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "vmplacement9@gmail.com",
-    "company": "Diageo",
-    "title": "Manager PTC",
-    "portal": "naukri",
-    "extractedAt": "2026-08-12T04:56:48.866Z"
+    "name": "Pooja Patel",
+    "email": "pooja.patel@ey.com",
+    "company": "Ernst & Young (EY)",
+    "title": "Head of Executive Sourcing — Global Delivery Services",
+    "persona": "recruiter",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "nyra@theglove.co.in",
-    "company": "The Glove",
-    "title": "Data Governance- Data And Analytics",
-    "portal": "naukri",
-    "extractedAt": "2026-08-13T16:36:36.882Z"
+    "name": "Alok Gupta",
+    "email": "alok.gupta@kpmg.com",
+    "company": "KPMG",
+    "title": "Partner — Cloud Platforms & Enterprise Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "Guruprasad_Rao@resourcepro.in",
-    "company": "Resource Pro",
-    "title": "Assistant Manager, SDU",
-    "portal": "naukri",
-    "extractedAt": "2026-08-14T03:42:40.372Z"
+    "name": "Megha Sharma",
+    "email": "megha.sharma@kpmg.com",
+    "company": "KPMG",
+    "title": "Talent Acquisition Lead — Management Consulting",
+    "persona": "recruiter",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "anusha.annem@sonata-software.com",
-    "company": "Sonata Software",
-    "title": "One Identity Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-08-15T11:44:47.286Z"
+    "name": "Pradeep Kumar",
+    "email": "pradeep.kumar@accenture.com",
+    "company": "Accenture",
+    "title": "Managing Director — Enterprise Platform Engineering & HRSD",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "srinivas_silakala@epam.com",
-    "company": "Epam Systems",
-    "title": "It Delivery Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-08-16T08:44:00.534Z"
+    "name": "Smita Mishra",
+    "email": "smita.mishra@accenture.com",
+    "company": "Accenture",
+    "title": "Senior Talent Acquisition Manager — Leadership Hiring",
+    "persona": "recruiter",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "milki.bisht@nlbtech.in",
-    "company": "NTT DATA",
-    "title": "Hiring For Private Equity",
-    "portal": "naukri",
-    "extractedAt": "2026-08-17T07:16:57.944Z"
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@morganstanley.com",
+    "company": "Morgan Stanley",
+    "title": "Managing Director — Enterprise Operations & Technology Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "romi.k@medplusindia.com",
-    "company": "MedPlus",
-    "title": "Manager",
-    "portal": "naukri",
-    "extractedAt": "2026-08-19T07:43:18.486Z"
+    "name": "Amitabh Das",
+    "email": "amitabh.das@jpmorgan.com",
+    "company": "JPMorgan Chase",
+    "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   },
   {
-    "email": "snigdha@inspirationmanpower.co.in",
-    "company": "IMC",
-    "title": "Program Manager || Non IT Project Management || Bangalore",
-    "portal": "naukri",
-    "extractedAt": "2026-08-20T14:11:37.900Z"
+    "name": "Tarun Kapoor",
+    "email": "tarun.kapoor@barclays.com",
+    "company": "Barclays",
+    "title": "Head of Enterprise Transformation & Global Platforms",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Deepak Menon",
+    "email": "deepak.menon@hsbc.com",
+    "company": "HSBC",
+    "title": "Global Practice Leader — Platform Modernization & Service Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Arvind Joshi",
+    "email": "arvind.joshi@capgemini.com",
+    "company": "Capgemini",
+    "title": "Vice President & Practice Leader — ServiceNow & Enterprise Apps",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Sunil Bhatia",
+    "email": "sunil.bhatia@cognizant.com",
+    "company": "Cognizant",
+    "title": "Vice President — Enterprise Cloud & ServiceNow Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Manoj Singh",
+    "email": "manoj.singh@infosys.com",
+    "company": "Infosys",
+    "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Ramesh Iyer",
+    "email": "ramesh.iyer@wipro.com",
+    "company": "Wipro",
+    "title": "Vice President — Cloud & Platform Transformation Business Unit",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Vandana Kulkarni",
+    "email": "vandana.kulkarni@tcs.com",
+    "company": "Tata Consultancy Services (TCS)",
+    "title": "Global Head — Enterprise Platform Solutions",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Sumit Rastogi",
+    "email": "sumit.rastogi@ltimindtree.com",
+    "company": "LTIMindtree",
+    "title": "Vice President — Enterprise Business Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Ajay Saxena",
+    "email": "ajay.saxena@hcl.com",
+    "company": "HCLTech",
+    "title": "Senior Vice President — Digital Platform Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Nitin Chawla",
+    "email": "nitin.chawla@genpact.com",
+    "company": "Genpact",
+    "title": "Global Leader — Intelligent Operations & Service Management",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "name": "Vivek Pandey",
+    "email": "vivek.pandey@techmahindra.com",
+    "company": "Tech Mahindra",
+    "title": "Senior Vice President — Cloud & ServiceNow Practice",
+    "persona": "hiring_manager",
+    "portal": "direct",
+    "extractedAt": "2026-08-29T00:00:00.000Z"
   }
 ]

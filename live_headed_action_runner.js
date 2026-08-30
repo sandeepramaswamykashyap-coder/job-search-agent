@@ -47,7 +47,7 @@ const fs = require('fs');
   await fillVisible('input#resumator_lastname_field', 'Ramaswamy Kashyap', 'Last Name');
   await fillVisible('input#resumator_email_field', 'sandeepramaswamykashyap@gmail.com', 'Email');
   await fillVisible('input#resumator_phone_field', '+91 63663 25217', 'Phone Number');
-  await fillVisible('input#resumator_linkedin_field, input[name*="linkedin"]', 'https://www.linkedin.com/in/sandeep-kashyap-a115049/', 'LinkedIn URL');
+  await fillVisible('input#resumator_linkedin_field, input[name*="linkedin"]', 'https://www.linkedin.com/in/sandeepramaswamykashyap/', 'LinkedIn URL');
 
   const cvPath = path.join(__dirname, 'Sandeep_Kashyap.pdf');
   const fileInput = page.locator('input[type="file"]').first();

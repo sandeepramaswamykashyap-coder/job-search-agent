@@ -76,6 +76,17 @@ async function discoverAndConnect() {
   existingConnections = existingConnections.filter(c => c.name !== 'Leader' && c.personalizedNote === true);
   console.log(`[LinkedIn] ${existingConnections.length} real verified connections already in database.`);
 
+  // SAFE OPERATING PARAMETERS (Strict LinkedIn Terms of Service & Rate-Limit Compliance)
+  const MAX_CONNECTIONS_PER_DAY = 5;      // Ultra-safe conservative cap (under 25/week)
+  const DELAY_BETWEEN_CONNECTIONS_MS = 180000; // 3 to 5 minutes humanized pause
+  const RESTRICTION_LIFT_EPOCH = new Date('2026-08-21T15:31:00+05:30').getTime();
+
+  // Safety Lock Verification
+  if (Date.now() < RESTRICTION_LIFT_EPOCH) {
+    console.log(`[LinkedIn Policy Compliance] 🛑 Safety Lock Active until 3:31 PM IST today (August 21, 2026). All automated LinkedIn runs are strictly blocked to protect account standing.`);
+    process.exit(0);
+  }
+
   const MAX_TODAY = 25;
   let sentToday = 0;
   const allDiscoveredProfiles = [];

@@ -13,7 +13,7 @@ const CANDIDATE_PROFILE = {
   fullName: 'Sandeep Ramaswamy Kashyap',
   email: 'sandeepramaswamykashyap@gmail.com',
   phone: '+91 63663 25217',
-  linkedin: 'https://www.linkedin.com/in/sandeep-kashyap-a115049/',
+  linkedin: 'https://www.linkedin.com/in/sandeepramaswamykashyap/',
   location: 'Bangalore, Karnataka, India',
   noticePeriod: '30 days',
   experienceYears: '15'
