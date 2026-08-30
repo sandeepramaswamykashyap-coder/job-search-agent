@@ -81,12 +81,60 @@ async function apply(page, job) {
     // ── Check for Security Code / OTP verification in Gmail ─────────────────
     await handleSecurityCodeChallenge(page, job.company);
 
-    // Check for inline validation errors
-    const errors = await page.locator('.error, [class*="error"]:visible, [aria-invalid="true"]').allTextContents().catch(() => []);
-    const criticalErrors = errors.filter(e => /required|invalid|too long|error/i.test(e) && !/optional/i.test(e));
+    // Check for inline validation errors and attempt auto-recovery
+    const checkErrors = async () => {
+      const errElements = await page.locator('.error, [class*="error"]:visible, [aria-invalid="true"]').allTextContents().catch(() => []);
+      return errElements.filter(e => /required|invalid|too long|error/i.test(e) && !/optional/i.test(e));
+    };
+
+    let criticalErrors = await checkErrors();
     if (criticalErrors.length > 0) {
-      console.warn(`[Greenhouse] ⚠️ Validation errors detected after submit: ${criticalErrors.slice(0, 3).join(' | ')}`);
-      return { success: false, reason: `validation_errors: ${criticalErrors.slice(0, 2).join('; ')}` };
+      console.warn(`[Greenhouse] ⚠️ Validation errors detected (${criticalErrors.length}). Attempting automated field recovery...`);
+      
+      // Auto-remedy all error fields across all frames
+      for (const frame of [page, ...page.frames()]) {
+        try {
+          const errorInputs = await frame.locator('input[aria-invalid="true"], select[aria-invalid="true"], textarea[aria-invalid="true"], .field--error input, .error input, .error select').all().catch(() => []);
+          for (const ei of errorInputs) {
+            const tag = await ei.evaluate(el => el.tagName.toLowerCase()).catch(() => '');
+            const type = await ei.getAttribute('type').catch(() => '') || '';
+            const name = (await ei.getAttribute('name').catch(() => '') || '').toLowerCase();
+            
+            if (tag === 'input' && (type === 'checkbox' || type === 'radio')) {
+              await ei.check({ force: true }).catch(() => {});
+            } else if (tag === 'select') {
+              const options = await ei.locator('option').all().catch(() => []);
+              if (options.length > 1) {
+                const val = await options[1].getAttribute('value').catch(() => '') || '';
+                if (val) await ei.selectOption(val).catch(() => {});
+              }
+            } else if (tag === 'input' || tag === 'textarea') {
+              const curVal = await ei.inputValue().catch(() => '');
+              if (!curVal) {
+                let fillVal = 'Bengaluru';
+                if (/school|university|college/i.test(name)) fillVal = 'University of Mysore';
+                else if (/degree/i.test(name)) fillVal = 'Bachelor of Business Management';
+                else if (/discipline|major/i.test(name)) fillVal = 'Business Management';
+                else if (/gpa/i.test(name)) fillVal = '3.8';
+                else if (/hear|source/i.test(name)) fillVal = 'LinkedIn';
+                await ei.fill(fillVal).catch(() => {});
+              }
+            }
+          }
+        } catch (_) {}
+      }
+
+      // Re-click submit after recovery
+      console.log('[Greenhouse] 🔄 Re-submitting application after field auto-recovery...');
+      await submitAnyContext(page);
+      await page.waitForTimeout(4000);
+      await handleSecurityCodeChallenge(page, job.company);
+    }
+
+    const finalErrors = await checkErrors();
+    if (finalErrors.length > 0) {
+      console.warn(`[Greenhouse] ⚠️ Lingering validation errors: ${finalErrors.slice(0, 3).join(' | ')}`);
+      return { success: false, reason: `validation_errors: ${finalErrors.slice(0, 2).join('; ')}` };
     }
 
     const postUrl = page.url() || '';
@@ -94,7 +142,7 @@ async function apply(page, job) {
     const isConfirmed = /thank\s*you|application\s*received|submitted|success|confirmation/i.test(bodyText) ||
                         /confirm|thanks|success/i.test(postUrl);
 
-    if (isConfirmed || !errors.length) {
+    if (isConfirmed || !finalErrors.length) {
       console.log(`[Greenhouse] ✅ Application confirmed submitted: "${job.title}" @ ${job.company} (${filled} fields)`);
       return { success: true, atsType: 'greenhouse' };
     }
