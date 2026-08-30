@@ -50,7 +50,7 @@
       "Market Data Manager",
       "Agile Delivery Lead"
     ],
-    "experience_years": 14,
+    "experience_years": 15,
     "skills_primary": [
       "Agentic AI Architecture",
       "Autonomous Multi-Agent Systems",
@@ -66,15 +66,46 @@
     ],
     "salary_expectation": {
       "current": 1800000,
-      "expected": 2600000,
-      "apply_regardless_of_listed": true,
-      "currency": "INR"
+      "expected": 3000000,
+      "min_acceptable": 2500000,
+      "max_target": 3500000,
+      "text": "₹25,00,000 - ₹35,00,000 INR / Annual",
+      "currency": "INR",
+      "is_negotiable": true
     },
     "work_modes": ["remote", "hybrid", "onsite"],
     "notice_period": {
       "days": 30,
+      "text": "30 Days (Negotiable)",
       "serving_notice": false,
       "is_negotiable": true
+    },
+    "education": [
+      {
+        "degree": "Post Graduation in Investment Banking",
+        "school": "IIM Indore",
+        "start_year": "2019",
+        "end_year": "2020",
+        "major": "Investment Banking & Finance"
+      },
+      {
+        "degree": "Bachelor of Business Management",
+        "school": "University of Mysore",
+        "start_year": "2007",
+        "end_year": "2010",
+        "major": "Business Management"
+      }
+    ],
+    "disclosures": {
+      "authorized_to_work_india": true,
+      "require_sponsorship_india": false,
+      "require_sponsorship_international": true,
+      "non_compete_restricted": false,
+      "gender": "Male",
+      "race_ethnicity": "Asian",
+      "hispanic_latino": "No",
+      "veteran_status": "No",
+      "disability_status": "No"
     }
   },
   "keywords": [

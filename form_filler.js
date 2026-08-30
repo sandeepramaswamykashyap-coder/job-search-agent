@@ -42,9 +42,9 @@ const CANDIDATE = {
   countryFull:       'India',
   countryCode:       'IN',
   zipCode:           '560001',
-  address:           '3rd Floor, MG Road, Bengaluru, Karnataka 560001, India',
-  addressLine1:      'MG Road',
-  addressLine2:      'Bengaluru, Karnataka',
+  address:           'Bengaluru, Karnataka 560001, India',
+  addressLine1:      'Bengaluru',
+  addressLine2:      'Karnataka',
   timezone:          'Asia/Kolkata',
 
   // Online presence
@@ -56,11 +56,13 @@ const CANDIDATE = {
   twitter:           '',
 
   // Current employment
-  currentCompany:    'Standard Chartered Bank',
-  currentTitle:      'Transformation Program Manager — ServiceNow HRSD & Enterprise Delivery',
-  currentDept:       'Human Resources Technology & Operations',
-  employmentType:    'Full-time',
-  startDate:         '2010-06',
+  currentCompany:    'Standard Chartered GBS',
+  currentTitle:      'Manager | Agentic AI & Workflow Automation',
+  currentDept:       'Business Transformation & Intelligent Automation',
+  employmentType:    'Full-time (Permanent)',
+  startDate:         '2019-02',
+  totalStartDate:    '2010-12',
+  contactEmployer:   'Yes',
   currentSalary:     '1800000',
   currentSalaryNum:  1800000,
   currentSalaryCTC:  '18,00,000',
@@ -68,55 +70,97 @@ const CANDIDATE = {
   currentSalaryK:    '1800',
 
   // Job expectations
-  expectedSalary:    '2600000',
-  expectedSalaryNum: 2600000,
-  expectedSalaryCTC: '26,00,000',
-  expectedSalaryLPA: '26',
-  expectedSalaryK:   '2600',
+  expectedSalary:    '3000000',
+  expectedSalaryNum: 3000000,
+  expectedSalaryCTC: '30,00,000',
+  expectedSalaryLPA: '30',
+  expectedSalaryK:   '3000',
+  expectedSalaryRange: '₹25,00,000 - ₹35,00,000 INR / Annual',
   noticePeriod:      '30',
-  noticePeriodText:  '30 days',
+  noticePeriodText:  '30 Days (Negotiable)',
   noticePeriodWeeks: '4',
-  availability:      'Available in 30 days',
+  availability:      'Available in 30 Days (Negotiable)',
   joinDate:          new Date(Date.now() + 30*24*60*60*1000).toISOString().split('T')[0],
 
-  // Experience & education
-  experienceYears:   '14',
-  experienceYearsNum: 14,
-  experienceBand:    '10+ years',
-  highestDegree:     'Bachelor of Engineering',
-  degreeShort:       'BE',
-  major:             'Electronics and Communication Engineering',
-  university:        'Visvesvaraya Technological University',
-  graduationYear:    '2009',
+  // Experience & Education (Strict Ground Truth)
+  experienceYears:   '15',
+  experienceYearsNum: 15,
+  experienceBand:    '15+ years',
+  highestDegree:     'Post Graduation in Investment Banking',
+  degreeBachelor:    'Bachelor of Business Management',
+  degreeShort:       'PG / BBM',
+  major:             'Business Management & Investment Banking',
+  majorBachelor:     'Business Management',
+  majorPG:           'Investment Banking & Finance',
+  university:        'IIM Indore / University of Mysore',
+  universityPG:      'IIM Indore',
+  universityUG:      'University of Mysore',
+  graduationYear:    '2020',
+  graduationYearUG:  '2010',
   graduationMonth:   '06',
-  gpa:               '3.5',
-  school:            'Visvesvaraya Technological University',
-  schoolLocation:    'Belgaum, Karnataka, India',
+  gpa:               '3.8',
+  school:            'University of Mysore',
+  schoolPG:          'IIM Indore',
+  schoolLocation:    'Bengaluru / Mysore, Karnataka, India',
 
-  // Work auth
+  // Work auth & Legal
   requiresVisa:      'No',
   sponsorship:       'No',
   sponsorshipNeeded: 'No',
   workAuthorized:    'Yes',
   citizenship:       'Indian',
   nationality:       'Indian',
-  workAuth:          'Indian Citizen — No Sponsorship Required',
+  workAuth:          'Indian Citizen — Authorized to work in India',
   legallyAuthorized: 'Yes',
   visaStatus:        'Citizen',
   rightToWork:       'Yes',
+  nonCompete:        'No',
+  relativesAtCompany:'No',
+  formerEmployee:    'No',
 
-  // Demographics (EEO — Decline where possible, No for disability/veteran)
+  // Demographics (EEO)
   gender:            'Male',
   genderIdentity:    'Man',
   pronouns:          'He/Him',
   ethnicity:         'Asian',
-  ethnicityAlt:      'Prefer not to say',
+  ethnicityAlt:      'Asian (South Asian / Indian)',
   race:              'Asian',
   disability:        'No',
   disabilityFull:    'No, I do not have a disability',
   veteran:           'No',
   veteranStatus:     'I am not a protected veteran',
   hispanicLatino:    'No',
+  languages:         'English (Fluent), Kannada, Hindi',
+
+  // Skills
+  skillsPrimary:     'Agentic AI Architecture, Autonomous Multi-Agent Systems, Workflow Automation, ServiceNow HRSD, Business Transformation, UAT Governance, Program Management, Change Management (OCM), Agile Delivery',
+  skillsAll:         'Agentic AI Architecture, Autonomous Multi-Agent Systems, Workflow Automation, Playwright, Node.js, ServiceNow HRSD, Business Transformation, Program Delivery, Project Management, UAT Governance, Quality Assurance, Organizational Change Management (OCM), Operational Excellence, Governance Risk & Controls, Agile, JIRA, Azure DevOps, BFSI Operations',
+  yearsServiceNow:   '7',
+  yearsBanking:      '15',
+
+  // Headline & Narrative
+  headline:          'Manager | Agentic AI & Workflow Automation | Business Transformation Leader (15+ Yrs)',
+  summary:           'Transformation and intelligent automation leader with 15+ years in banking and financial services at Standard Chartered Bank, IIM Indore alumnus, specializing in Agentic AI architecture, ServiceNow HRSD, UAT governance, and multi-country program delivery.',
+  coverLetterShort:  'I am a results-driven transformation and intelligent automation leader with 15+ years in banking (currently Manager - Agentic AI & Workflow Automation at Standard Chartered). I specialize in agentic workflows, ServiceNow HRSD, and enterprise delivery excellence.',
+  whyApply:          `I am deeply aligned with this opportunity to drive transformational impact and scalable automation. My 15-year career in banking and leadership of agentic AI and workflow automation initiatives positions me to deliver measurable outcomes from day one.`,
+  howHeard:          'LinkedIn / Company Career Website',
+  referralSource:    'LinkedIn',
+
+  // Compliance & Checks
+  backgroundCheck:   'Yes',
+  drugTest:          'Yes',
+  criminalRecord:    'No',
+  age18Plus:         'Yes',
+
+  // Misc
+  password:          'Sandeep@2026!',
+  dobYear:           '1987',
+  dobMonth:          '03',
+  dobDay:            '15',
+  age:               '37',
+  ssn:               '',
+  middleName:        '',
+};
 
   // Skills (comma-separated for skills fields)
   skillsPrimary:     'ServiceNow HRSD, Program Management, Business Transformation, UAT Governance, Change Management, Data Governance, Agile Delivery, Intelligent Automation',
@@ -226,22 +270,26 @@ const FIELD_MAP = [
   { patterns: [/pronouns/i, /preferred[\s._-]?pronoun/i], value: () => CANDIDATE.pronouns },
 
   // ── EDUCATION ─────────────────────────────────────────────────────────────
-  { patterns: [/highest[\s._-]?(qualification|degree|education)/i, /\bdegree\b/i, /qualification/i], value: () => CANDIDATE.highestDegree },
-  { patterns: [/field[\s._-]?of[\s._-]?study/i, /\bmajor\b/i, /specialization/i, /\bdiscipline\b/i, /\bcourse\b/i], value: () => CANDIDATE.major },
-  { patterns: [/\bschool\b/i, /university/i, /college/i, /institution/i, /school[\s._-]?name/i, /alma[\s._-]?mater/i], value: () => CANDIDATE.university },
-  { patterns: [/start[\s._-]?date[\s._-]?year/i, /start[\s._-]?year/i, /from[\s._-]?year/i], value: () => '2004' },
-  { patterns: [/end[\s._-]?date[\s._-]?year/i, /end[\s._-]?year/i, /to[\s._-]?year/i, /graduation[\s._-]?year/i, /year[\s._-]?of[\s._-]?graduation/i, /pass[\s._-]?out[\s._-]?year/i, /degree[\s._-]?year/i], value: () => CANDIDATE.graduationYear },
+  { patterns: [/highest[\s._-]?(qualification|degree|education)/i, /degree[\s._-]?level/i, /\bdegree\b/i, /qualification/i], value: () => CANDIDATE.degreeBachelor },
+  { patterns: [/field[\s._-]?of[\s._-]?study/i, /\bmajor\b/i, /specialization/i, /\bdiscipline\b/i, /\bcourse\b/i], value: () => CANDIDATE.majorBachelor },
+  { patterns: [/\bschool\b/i, /university/i, /college/i, /institution/i, /school[\s._-]?name/i, /alma[\s._-]?mater/i], value: () => CANDIDATE.school },
+  { patterns: [/start[\s._-]?date[\s._-]?year/i, /start[\s._-]?year/i, /from[\s._-]?year/i], value: () => '2007' },
+  { patterns: [/end[\s._-]?date[\s._-]?year/i, /end[\s._-]?year/i, /to[\s._-]?year/i, /graduation[\s._-]?year/i, /year[\s._-]?of[\s._-]?graduation/i, /pass[\s._-]?out[\s._-]?year/i, /degree[\s._-]?year/i], value: () => CANDIDATE.graduationYearUG },
   { patterns: [/start[\s._-]?date[\s._-]?month/i, /start[\s._-]?month/i, /from[\s._-]?month/i], value: () => '06' },
   { patterns: [/end[\s._-]?date[\s._-]?month/i, /end[\s._-]?month/i, /to[\s._-]?month/i], value: () => '05' },
   { patterns: [/gpa/i, /cgpa/i, /grade/i, /percentage/i], value: () => CANDIDATE.gpa },
 
-  // ── WORK AUTH / VISA ──────────────────────────────────────────────────────
+  // ── WORK AUTH & RESTRICTIVE AGREEMENTS ─────────────────────────────────────
   { patterns: [/visa[\s._-]?sponsor/i, /require.*sponsor/i, /need.*sponsor/i, /sponsorship/i, /work[\s._-]?permit/i], value: () => CANDIDATE.requiresVisa, fieldType: 'radio_no' },
   { patterns: [/work[\s._-]?authoriz/i, /authorized[\s._-]?to[\s._-]?work/i, /legally[\s._-]?authorized/i, /eligible[\s._-]?to[\s._-]?work/i, /right[\s._-]?to[\s._-]?work/i, /work[\s._-]?eligib/i], value: () => CANDIDATE.workAuthorized, fieldType: 'radio_yes' },
   { patterns: [/nationality/i, /national[\s._-]?of/i, /passport[\s._-]?country/i], value: () => CANDIDATE.nationality },
   { patterns: [/citizenship/i, /citizen[\s._-]?of/i], value: () => CANDIDATE.citizenship },
   { patterns: [/visa[\s._-]?type/i, /visa[\s._-]?status/i, /visa[\s._-]?category/i, /immigration[\s._-]?status/i], value: () => CANDIDATE.visaStatus },
-  { patterns: [/employment[\s._-]?agreement/i, /post[\s._-]?employment[\s._-]?restriction/i, /non[\s._-]?compete/i, /restrictive[\s._-]?covenant/i], value: () => CANDIDATE.currentCompany },
+  { patterns: [/employment[\s._-]?agreement/i, /post[\s._-]?employment[\s._-]?restriction/i, /non[\s._-]?compete/i, /restrictive[\s._-]?covenant/i, /subject[\s._-]?to[\s._-]?any/i], value: () => CANDIDATE.nonCompete, fieldType: 'radio_no' },
+  { patterns: [/contact[\s._-]?(current[\s._-]?)?employer/i, /may[\s._-]?we[\s._-]?contact/i, /reference[\s._-]?check/i], value: () => CANDIDATE.contactEmployer, fieldType: 'radio_yes' },
+  { patterns: [/relative|family[\s._-]?member|working[\s._-]?at[\s._-]?this[\s._-]?company/i], value: () => CANDIDATE.relativesAtCompany, fieldType: 'radio_no' },
+  { patterns: [/previously[\s._-]?employed|former[\s._-]?employee|worked[\s._-]?here[\s._-]?before/i], value: () => CANDIDATE.formerEmployee, fieldType: 'radio_no' },
+  { patterns: [/language|spoken/i], value: () => CANDIDATE.languages },
 
   // ── COVER LETTER / ESSAYS ─────────────────────────────────────────────────
   { patterns: [/cover[\s._-]?letter/i, /covering[\s._-]?letter/i], value: () => CANDIDATE.coverLetterFull },
@@ -602,19 +650,19 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
       } else if (/sanction|export[\s_-]?control|crimea|cuba|iran|syria|none[\s_-]?of[\s_-]?the[\s_-]?above/i.test(parentText)) {
         targetVal = 'None of the above';
       } else if (/degree|qualification|highest[\s._-]?education/i.test(parentText)) {
-        targetVal = 'Bachelor';
+        targetVal = 'Bachelor of Business Management';
       } else if (/school|university|college|institution/i.test(parentText)) {
-        targetVal = 'Other';
+        targetVal = 'University of Mysore';
       } else if (/discipline|major|field[\s._-]?of[\s._-]?study/i.test(parentText)) {
-        targetVal = 'Engineering';
+        targetVal = 'Business Management';
       } else if (/start[\s._-]?date[\s._-]?month|from[\s._-]?month/i.test(parentText)) {
         targetVal = 'June';
       } else if (/end[\s._-]?date[\s._-]?month|to[\s._-]?month/i.test(parentText)) {
         targetVal = 'May';
       } else if (/start[\s._-]?date[\s._-]?year|start[\s._-]?year/i.test(parentText)) {
-        targetVal = '2004';
+        targetVal = '2007';
       } else if (/end[\s._-]?date[\s._-]?year|end[\s._-]?year|graduation[\s._-]?year/i.test(parentText)) {
-        targetVal = '2008';
+        targetVal = '2010';
       } else if (/pronoun/i.test(parentText)) {
         targetVal = 'He/Him';
       } else if (/location|city/i.test(parentText) && !/united states|residence|country/i.test(parentText)) {
