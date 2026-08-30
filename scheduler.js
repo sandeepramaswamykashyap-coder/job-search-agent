@@ -20,6 +20,7 @@ const { runAllGlobalRemoteSweeps } = require('./remote_crawlers');
 const { runOvernightOutreachCycle } = require('./overnight_runner');
 const { sendDailyReport } = require('./reporter');
 const { runPortalApplicationCycle } = require('./portal_router');
+const { syncToGitHub } = require('./git_auto_pusher');
 
 // Load configurations
 const configPath = path.join(__dirname, 'config.json');
@@ -132,10 +133,12 @@ async function executeCycle() {
     saveStats();
 
     log("Cycle completed successfully.");
+    syncToGitHub('chore: auto-sync post-cycle operations and metrics');
   } catch (err) {
     log(`Critical error during cycle execution: ${err.message}`);
     stats.failures.push({ time: new Date().toISOString(), context: "Cycle Execution", error: err.message });
     saveStats();
+    syncToGitHub('chore: auto-sync failure logs and state');
   }
 
   // Schedule the next cycle with jitter

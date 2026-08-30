@@ -12,6 +12,7 @@ const { fetchAllLiveATSJobs } = require('./company_ats_fetcher');
 const { runAllGlobalRemoteSweeps } = require('./remote_crawlers');
 const { applyToPortal } = require('./portal_router');
 const { logApplication, getAllApplications } = require('./applications_db');
+const { syncToGitHub } = require('./git_auto_pusher');
 
 const RESUME_PATH = path.join(__dirname, 'Sandeep_Kashyap.pdf');
 const SESSION_DIR = path.join(__dirname, '.browser_session_live_continuous');
@@ -143,6 +144,9 @@ async function runLiveSubmissionCycle() {
     }
 
     console.log(`\n[ContinuousEngine] Cycle complete. Successfully confirmed ${successCount} new submissions.`);
+    if (successCount > 0) {
+      syncToGitHub(`feat: recorded ${successCount} verified application submissions`);
+    }
   } catch (err) {
     console.error(`[ContinuousEngine] Error in browser cycle: ${err.message}`);
   } finally {
