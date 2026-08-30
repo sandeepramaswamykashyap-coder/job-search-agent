@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1211,
-  "applicationsSubmitted": 0,
+  "jobsScanned": 1218,
+  "applicationsSubmitted": 75,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -481,6 +481,14 @@
       "portal": "dailyremote",
       "url": "https://dailyremote.com/remote-job/principal-product-manager-private-credit-valuations-5514018",
       "time": "2026-08-26T09:45:08.649Z"
+    },
+    {
+      "company": "Gitlab",
+      "title": "Senior Renewal Operations Manager",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8645879002",
+      "time": "2026-08-30T15:55:04.570Z",
+      "status": "submitted"
     }
   ],
   "failures": [],
