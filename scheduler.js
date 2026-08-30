@@ -17,7 +17,7 @@ try {
 process.env.PLAYWRIGHT_BROWSERS_PATH = path.join(__dirname, '.playwright-browsers');
 const { runAgentCycle } = require('./agent');
 const { runAllGlobalRemoteSweeps } = require('./remote_crawlers');
-const { runOvernightOutreachCycle } = require('./overnight_runner');
+const { processOutreachQueue } = require('./outreach_mailer');
 const { sendDailyReport } = require('./reporter');
 const { runPortalApplicationCycle } = require('./portal_router');
 const { syncToGitHub } = require('./git_auto_pusher');
@@ -127,9 +127,9 @@ async function executeCycle() {
     await runAgentCycle({ refreshCVOnly: false, stats, forceHeaded });
     saveStats();
 
-    // 4. Targeted Recruiter & Hiring Manager Outreach (using approved original templates)
+    // 4. Targeted Recruiter & Hiring Manager Outreach (verified job-posting contacts)
     log('Starting TARGETED RECRUITER & HIRING MANAGER outreach cycle...');
-    await runOvernightOutreachCycle().catch(e => log(`Outreach warning: ${e.message}`));
+    await processOutreachQueue().catch(e => log(`Outreach warning: ${e.message}`));
     saveStats();
 
     log("Cycle completed successfully.");
