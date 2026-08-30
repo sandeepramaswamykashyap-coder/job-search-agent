@@ -779,15 +779,12 @@ async function fillAllFormFields(page, roleTitle = '', company = '') {
 // uploadCV — Attaches resume PDF to file input
 // ─────────────────────────────────────────────────────────────────────────────
 async function uploadCV(page, roleTitleHint = '') {
-  const lowerHint = roleTitleHint.toLowerCase();
-  let cvFile = path.join(__dirname, 'Sandeep_Kashyap.pdf');
+  const cvFile = path.join(__dirname, 'Sandeep_Kashyap.pdf');
 
-  const serviceNowCv = path.join(__dirname, 'Sandeep_Kashyap_ServiceNow.pdf');
-  const pmCv = path.join(__dirname, 'Sandeep_Kashyap_ProgramManager.pdf');
-  if ((lowerHint.includes('servicenow') || lowerHint.includes('hrsd')) && fs.existsSync(serviceNowCv)) cvFile = serviceNowCv;
-  else if (fs.existsSync(pmCv)) cvFile = pmCv;
-
-  if (!fs.existsSync(cvFile)) { console.log(`[FormFiller] ⚠️ CV not found: ${cvFile}`); return false; }
+  if (!fs.existsSync(cvFile)) { 
+    console.log(`[FormFiller] ⚠️ Master CV not found at: ${cvFile}`); 
+    return false; 
+  }
 
   // Try main frame first
   try {

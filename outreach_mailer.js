@@ -17,23 +17,6 @@ const defaultCvPath = path.join(__dirname, 'Sandeep_Kashyap.pdf');
  * Resolves the 95%-Focused Target Resume based on job title
  */
 function resolveTargetResume(title) {
-  const t = (title || '').toLowerCase();
-  
-  if (t.includes('servicenow') || t.includes('hrsd')) {
-    const p = path.join(__dirname, 'Sandeep_Kashyap_ServiceNow.pdf');
-    if (fs.existsSync(p)) return p;
-  }
-  
-  if (t.includes('uat') || t.includes('quality') || t.includes('testing') || t.includes('ocm') || t.includes('change')) {
-    const p = path.join(__dirname, 'Sandeep_Kashyap_UAT_OCM.pdf');
-    if (fs.existsSync(p)) return p;
-  }
-
-  if (t.includes('program') || t.includes('transformation') || t.includes('project') || t.includes('operational')) {
-    const p = path.join(__dirname, 'Sandeep_Kashyap_ProgramManager.pdf');
-    if (fs.existsSync(p)) return p;
-  }
-
   return defaultCvPath;
 }
 
