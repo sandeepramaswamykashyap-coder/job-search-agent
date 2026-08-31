@@ -264,6 +264,7 @@ const FIELD_MAP = [
   { patterns: [/background[\s._-]?check/i, /criminal[\s._-]?background/i], value: () => CANDIDATE.backgroundCheck, fieldType: 'radio_yes' },
   { patterns: [/drug[\s._-]?test/i, /substance[\s._-]?test/i], value: () => CANDIDATE.drugTest, fieldType: 'radio_yes' },
   { patterns: [/criminal[\s._-]?record/i, /convicted/i, /felony/i, /misdemeanor/i], value: () => CANDIDATE.criminalRecord, fieldType: 'radio_no' },
+  { patterns: [/relocat|within 50 miles|commute|commuting[\s._-]?distance|move before|relocate before|based within|live within/i], value: () => 'Yes', fieldType: 'radio_yes' },
   { patterns: [/agree[\s._-]?to[\s._-]?terms/i, /terms[\s._-]?and[\s._-]?conditions/i, /privacy[\s._-]?policy/i, /consent/i, /acknowledge/i], value: () => 'Yes', fieldType: 'checkbox_check' },
 ];
 
