@@ -31,11 +31,13 @@ const workday       = require('./ats_engines/workday');
 const icims         = require('./ats_engines/icims');
 const taleo         = require('./ats_engines/taleo');
 const smartrecruit  = require('./ats_engines/smartrecruiters');
+const ashby         = require('./ats_engines/ashby');
 const generic       = require('./ats_engines/generic');
 
 const ENGINES = {
   greenhouse:     (page, job, ctx) => greenhouse.apply(page, job),
   lever:          (page, job, ctx) => lever.apply(page, job),
+  ashby:          (page, job, ctx) => ashby.applyAshby(page, job),
   workday:        (page, job, ctx) => workday.apply(page, job, ctx),
   icims:          (page, job, ctx) => icims.apply(page, job, ctx),
   taleo:          (page, job, ctx) => taleo.apply(page, job, ctx),

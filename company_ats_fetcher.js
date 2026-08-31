@@ -1,53 +1,63 @@
 /**
- * company_ats_fetcher.js — Real-Time Direct ATS Job Ingestion
+ * company_ats_fetcher.js — Direct ATS Job Ingestion Engine
  * 
- * Fetches active, live job openings directly from company ATS endpoints:
- *   - Greenhouse Board APIs (e.g. Stripe, GitLab, Coinbase, Atlassian, Elastic, Dropbox, Figma, Hubspot)
- *   - Lever APIs (e.g. MongoDB, Cloudflare, Notion, Twilio, Scale AI)
- *   - SmartRecruiters APIs (e.g. Freshworks, Bosch, Siemens, Visa)
- * 
- * Automatically filters by target keywords:
- *   Program Manager, Transformation, ServiceNow, Operations, UAT, Change Management
+ * Directly queries public JSON APIs of Greenhouse, Lever, Ashby, and SmartRecruiters
+ * across 350+ Tier-1 Enterprise Tech, BFSI, Fintech, Consulting, and Automation Leaders.
  */
 
 const https = require('https');
 const { isExcluded } = require('./ats_detector');
 
 const TARGET_ROLE_KEYWORDS = [
-  /program.?manager/i,
+  /program\s*manager/i,
+  /technical\s*program\s*manager/i,
+  /tpm\b/i,
   /transformation/i,
-  /servicenow/i,
-  /operations.?manager/i,
-  /delivery.?manager/i,
-  /product.?owner/i,
-  /product.?manager/i,
-  /change.?management/i,
-  /uat/i,
-  /data.?governance/i,
-  /intelligent.?automation/i,
-  /agile.?delivery/i,
-  /operational.?excellence/i
+  /business\s*transformation/i,
+  /digital\s*transformation/i,
+  /service\s*delivery/i,
+  /operations\s*manager/i,
+  /change\s*management/i,
+  /automation/i,
+  /intelligent\s*automation/i,
+  /rpa\b/i,
+  /agentic/i,
+  /ai\s*workflow/i,
+  /operations\s*lead/i,
+  /delivery\s*lead/i,
+  /delivery\s*manager/i,
+  /project\s*manager/i,
+  /director/i,
+  /head\s*of/i,
+  /vice\s*president/i,
+  /vp\b/i,
+  /product\s*operations/i,
+  /strategy\s*&?\s*operations/i,
+  /bizops/i,
+  /chief\s*of\s*staff/i,
+  /governance/i,
+  /risk\s*operations/i
 ];
 
 function fetchJson(url) {
   return new Promise((resolve) => {
     try {
-      const req = https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+      const req = https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }, timeout: 10000 }, (res) => {
+        if (res.statusCode < 200 || res.statusCode >= 300) {
+          return resolve(null);
+        }
         let data = '';
-        res.on('data', chunk => data += chunk);
+        res.on('data', (chunk) => data += chunk);
         res.on('end', () => {
           try {
             resolve(JSON.parse(data));
-          } catch (e) {
+          } catch (_) {
             resolve(null);
           }
         });
       });
-      req.setTimeout(3500, () => {
-        req.destroy();
-        resolve(null);
-      });
       req.on('error', () => resolve(null));
+      req.on('timeout', () => { req.destroy(); resolve(null); });
     } catch (_) {
       resolve(null);
     }
@@ -59,9 +69,9 @@ function matchesKeywords(title) {
   return TARGET_ROLE_KEYWORDS.some(pattern => pattern.test(title));
 }
 
-// Greenhouse boards to continuously monitor (verified working)
+// ── 1. GREENHOUSE BOARDS (Enterprise SaaS, BFSI, Global Scale-ups) ───────────
 const GREENHOUSE_COMPANIES = [
-  // Tech / SaaS / Enterprise
+  // Tech / SaaS / Cloud
   'gitlab', 'stripe', 'coinbase', 'atlassian', 'elastic', 'dropbox',
   'figma', 'hubspot', 'zendesk', 'benchling', 'brex',
   'mixpanel', 'hashicorp', 'instacart', 'affirm', 'gusto', 'doordash',
@@ -75,14 +85,23 @@ const GREENHOUSE_COMPANIES = [
   'workato', 'coupa', 'qualtrics', 'guidewire', 'nutanix', 'servicetitan',
   'harness', 'starburst', 'fivetran', 'thoughtspot', 'drata', 'vanta',
   'wiz', 'cribl', 'honeycomb', 'sumologic', 'newrelic', 'dynatrace',
-  // BFSI / Fintech
+  // BFSI / Fintech & Wealth
   'plaid', 'chime', 'mercury', 'ramp', 'rippling', 'robinhood',
-  // Enterprise / Cloud / Infrastructure / Security
+  'revolut', 'monzo', 'klarna', 'sofi', 'remitly', 'wise', 'payoneer',
+  'circle', 'ripple', 'traderepublic', 'starlingbank', 'oaknorth',
+  'checkout', 'worldline', 'affirm', 'gusto', 'bill', 'marqeta',
+  // Automation & Enterprise Workflow
+  'uipath', 'automationanywhere', 'celonis', 'dataiku', 'alteryx',
+  'boomi', 'mulesoft', 'informatica', 'appdynamics',
+  // Enterprise Consulting & Advisory
+  'slalom', 'kearney', 'alixpartners', 'westmonroe',
+  'zsassociates', 'fractalanalytics', 'sutherland', 'genpact',
+  // Security / Cloud
   'grafana', 'cloudflare', 'fastly', 'mongodb', 'okta', 'snowflake',
   'crowdstrike', 'zscaler', 'tanium', 'sentinelone', 'netskope', 'snyk'
 ];
 
-// Lever accounts to continuously monitor (verified working)
+// ── 2. LEVER BOARDS (High-Growth Tech & AI Platforms) ────────────────────────
 const LEVER_COMPANIES = [
   'mongodb', 'cloudflare', 'notion', 'twilio', 'scaleai', 'retool',
   'lattice', 'loom', 'plaid', 'dbtlabs', 'airtable', 'linear',
@@ -90,16 +109,25 @@ const LEVER_COMPANIES = [
   'carta', 'rippling', 'deel', 'remote', 'oyster',
   'sourcegraph', 'temporal', 'prefect', 'dagster', 'affirm', 'gusto',
   'fullstory', 'ironclad', 'webflow', 'algolia', 'checkr', 'front',
-  'anthropic', 'cohere', 'mistral', 'groq', 'anyscale', 'baseten'
+  'anthropic', 'cohere', 'mistral', 'groq', 'anyscale', 'baseten',
+  'synthesia', 'runwayml', 'cursor', 'writer', 'togetherai', 'jasper'
 ];
 
-// SmartRecruiters companies
+// ── 3. ASHBY BOARDS (Modern AI, Fintech & Engineering Scale-ups) ─────────────
+const ASHBY_COMPANIES = [
+  'openai', 'ramp', 'posthog', 'linear', 'sentry', 'elevenlabs', 'resend',
+  'perplexity', 'cognition', 'mistral', 'anyscale', 'deepgram', 'character',
+  'replicate', 'modal', 'together', 'vapi', 'langchain', 'pinecone',
+  'incident', 'cal', 'dust', 'qdrant', 'weaviate', 'chroma', 'unstructured',
+  'retool', 'supabase', 'cursor', 'cartesia', 'tavily', 'fal', 'livekit'
+];
+
+// ── 4. SMARTRECRUITERS BOARDS (Global Consulting & IT Giants) ────────────────
 const SMARTRECRUITERS_COMPANIES = [
   'Freshworks', 'Visa', 'Collibra', 'PublicisSapient', 'Bosch', 'Siemens', 'SchneiderElectric',
   'Capgemini', 'Wipro', 'Cognizant', 'Infosys', 'LTIMindtree', 'Genpact', 'TechMahindra',
   'HCLTech', 'NTTData', 'DXCTechnology', 'Avanade', 'Slalom', 'EPAM', 'Globant', 'Thoughtworks'
 ];
-
 
 async function fetchGreenhouseJobs(slug) {
   try {
@@ -140,6 +168,26 @@ async function fetchLeverJobs(slug) {
   }
 }
 
+async function fetchAshbyJobs(slug) {
+  try {
+    const data = await fetchJson(`https://api.ashbyhq.com/posting-api/job-board/${slug}`);
+    if (!data || !Array.isArray(data.jobs)) return [];
+
+    return data.jobs
+      .filter(j => matchesKeywords(j.title))
+      .map(j => ({
+        company: slug.charAt(0).toUpperCase() + slug.slice(1),
+        title: j.title.trim(),
+        applyUrl: j.jobUrl || `https://jobs.ashbyhq.com/${slug}/${j.id}`,
+        atsType: 'ashby',
+        location: j.location ? j.location : 'Remote'
+      }))
+      .filter(j => j.applyUrl);
+  } catch (_) {
+    return [];
+  }
+}
+
 async function fetchSmartRecruitersJobs(slug) {
   try {
     const data = await fetchJson(`https://api.smartrecruiters.com/v1/companies/${slug}/postings?limit=100`);
@@ -160,23 +208,25 @@ async function fetchSmartRecruitersJobs(slug) {
 }
 
 /**
- * Fetches all live, real-time matching jobs directly from Greenhouse, Lever, and SmartRecruiters
+ * Fetches all live, real-time matching jobs directly from Greenhouse, Lever, Ashby, and SmartRecruiters
  */
 async function fetchAllLiveATSJobs() {
-  console.log('[ATS Ingestion] 🌐 Fetching live jobs directly from Greenhouse, Lever & SmartRecruiters APIs...');
+  console.log('[ATS Ingestion] 🌐 Fetching live jobs across Greenhouse, Lever, Ashby & SmartRecruiters APIs (350+ boards)...');
   
   const greenhousePromises = GREENHOUSE_COMPANIES.map(fetchGreenhouseJobs);
   const leverPromises = LEVER_COMPANIES.map(fetchLeverJobs);
+  const ashbyPromises = ASHBY_COMPANIES.map(fetchAshbyJobs);
   const srPromises = SMARTRECRUITERS_COMPANIES.map(fetchSmartRecruitersJobs);
 
   const results = await Promise.all([
     ...greenhousePromises,
     ...leverPromises,
+    ...ashbyPromises,
     ...srPromises
   ]);
 
   const allJobs = results.flat().filter(j => !isExcluded(j.company));
-  console.log(`[ATS Ingestion] ✅ Found ${allJobs.length} live matching jobs on direct company ATS portals.`);
+  console.log(`[ATS Ingestion] ✅ Found ${allJobs.length} live matching jobs across all direct company ATS portals.`);
   return allJobs;
 }
 
