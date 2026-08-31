@@ -28,7 +28,8 @@
     "datadog",
     "newrelic",
     "sumologic",
-    "pagerduty"
+    "pagerduty",
+    "dataiku"
   ],
   "lever": [
     "anyscale",
