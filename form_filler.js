@@ -217,8 +217,14 @@ const FIELD_MAP = [
   { patterns: [/expected[\s._-]?(ctc|salary|compensation|pay|package)/i, /desired[\s._-]?(salary|compensation)/i, /salary[\s._-]?expectation/i, /target[\s._-]?salary/i, /asking[\s._-]?salary/i, /required[\s._-]?salary/i], value: () => CANDIDATE.expectedSalaryCTC },
   { patterns: [/lpa/i, /annual[\s._-]?salary/i], value: () => CANDIDATE.currentSalaryLPA },
 
+  // ── DATES (EMPLOYMENT / EDUCATION) ───────────────────────────────────────
+  { patterns: [/start[\s._-]?date[\s._-]?year/i, /start[\s._-]?year/i, /from[\s._-]?year/i, /began[\s._-]?year/i], value: () => '2010' },
+  { patterns: [/end[\s._-]?date[\s._-]?year/i, /end[\s._-]?year/i, /to[\s._-]?year/i, /graduation[\s._-]?year/i, /year[\s._-]?of[\s._-]?graduation/i, /pass[\s._-]?out[\s._-]?year/i, /degree[\s._-]?year/i], value: () => CANDIDATE.graduationYearUG },
+  { patterns: [/start[\s._-]?date[\s._-]?month/i, /start[\s._-]?month/i, /from[\s._-]?month/i, /began[\s._-]?month/i], value: () => '06' },
+  { patterns: [/end[\s._-]?date[\s._-]?month/i, /end[\s._-]?month/i, /to[\s._-]?month/i], value: () => '05' },
+
   // ── NOTICE PERIOD / AVAILABILITY ──────────────────────────────────────────
-  { patterns: [/notice[\s._-]?period/i, /notice/i, /joining[\s._-]?time/i, /when[\s._-]?can[\s._-]?you[\s._-]?join/i, /available[\s._-]?to[\s._-]?start/i, /start[\s._-]?date/i, /how[\s._-]?soon/i, /earliest[\s._-]?(available|start)/i, /date[\s._-]?of[\s._-]?joining/i], value: () => CANDIDATE.noticePeriodText },
+  { patterns: [/notice[\s._-]?period/i, /^notice$/i, /joining[\s._-]?time/i, /when[\s._-]?can[\s._-]?you[\s._-]?join/i, /available[\s._-]?to[\s._-]?start/i, /how[\s._-]?soon[\s._-]?can[\s._-]?you[\s._-]?start/i, /earliest[\s._-]?available/i, /date[\s._-]?of[\s._-]?joining/i], value: () => CANDIDATE.noticePeriodText },
   { patterns: [/availability/i, /available[\s._-]?from/i], value: () => CANDIDATE.availability },
 
   // ── DEMOGRAPHICS / EEO ────────────────────────────────────────────────────
@@ -233,10 +239,6 @@ const FIELD_MAP = [
   { patterns: [/highest[\s._-]?(qualification|degree|education)/i, /degree[\s._-]?level/i, /\bdegree\b/i, /qualification/i], value: () => CANDIDATE.degreeBachelor },
   { patterns: [/field[\s._-]?of[\s._-]?study/i, /\bmajor\b/i, /specialization/i, /\bdiscipline\b/i, /\bcourse\b/i], value: () => CANDIDATE.majorBachelor },
   { patterns: [/\bschool\b/i, /university/i, /college/i, /institution/i, /school[\s._-]?name/i, /alma[\s._-]?mater/i], value: () => CANDIDATE.school },
-  { patterns: [/start[\s._-]?date[\s._-]?year/i, /start[\s._-]?year/i, /from[\s._-]?year/i], value: () => '2007' },
-  { patterns: [/end[\s._-]?date[\s._-]?year/i, /end[\s._-]?year/i, /to[\s._-]?year/i, /graduation[\s._-]?year/i, /year[\s._-]?of[\s._-]?graduation/i, /pass[\s._-]?out[\s._-]?year/i, /degree[\s._-]?year/i], value: () => CANDIDATE.graduationYearUG },
-  { patterns: [/start[\s._-]?date[\s._-]?month/i, /start[\s._-]?month/i, /from[\s._-]?month/i], value: () => '06' },
-  { patterns: [/end[\s._-]?date[\s._-]?month/i, /end[\s._-]?month/i, /to[\s._-]?month/i], value: () => '05' },
   { patterns: [/gpa/i, /cgpa/i, /grade/i, /percentage/i], value: () => CANDIDATE.gpa },
 
   // ── WORK AUTH & RESTRICTIVE AGREEMENTS ─────────────────────────────────────

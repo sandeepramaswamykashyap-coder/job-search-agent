@@ -163,29 +163,45 @@ function scheduleNextRun() {
 }
 
 /**
- * Schedules the daily 8 AM IST report (Morning EOD Report)
+ * Schedules the Bi-Daily Session Reports (8:00 AM IST & 8:00 PM IST)
  */
-let lastReportDate = null;
+let lastMorningReportDate = null;
+let lastEveningReportDate = null;
+
 function scheduleDailyReport() {
   setInterval(async () => {
     const now = new Date();
     // Convert to IST (UTC + 5:30)
     const utcTime = now.getTime() + (now.getTimezoneOffset() * 60000);
     const istTime = new Date(utcTime + (3600000 * 5.5));
-
     const todayStr = istTime.toDateString();
-    // Check if it's 8 AM IST (08:00) or later, and we haven't sent a report today
-    if (istTime.getHours() >= 8 && lastReportDate !== todayStr) {
-      log("It is 8 AM IST or later. Executing pre-report recruiter outreach flush to reach maximum daily capacity...");
+    const istHour = istTime.getHours();
+
+    // 1. Morning 8:00 AM IST Report (Overnight Session)
+    if (istHour >= 8 && istHour < 12 && lastMorningReportDate !== todayStr) {
+      log("⏰ Triggering 8:00 AM IST Executive Session Report (Overnight Window)...");
       try {
-        const { processOutreachQueue } = require('./outreach_mailer');
-        await processOutreachQueue();
-        log("Pre-report outreach flush completed. Dispatching morning 8 AM IST daily email report...");
-        await sendDailyReport();
-        log("Morning 8 AM IST daily report email & recruiter pitch dispatch completed.");
-        lastReportDate = todayStr;
+        await processOutreachQueue().catch(() => {});
+        const { sendSessionReport } = require('./reporter');
+        await sendSessionReport('morning');
+        log("✅ 8:00 AM IST Morning Session Report dispatched successfully.");
+        lastMorningReportDate = todayStr;
       } catch (err) {
-        log(`Failed to dispatch morning 8 AM daily report: ${err.message}`);
+        log(`Failed to dispatch 8 AM report: ${err.message}`);
+      }
+    }
+
+    // 2. Evening 8:00 PM IST Report (Daytime Session)
+    if (istHour >= 20 && lastEveningReportDate !== todayStr) {
+      log("⏰ Triggering 8:00 PM IST Executive Session Report (Daytime Window)...");
+      try {
+        await processOutreachQueue().catch(() => {});
+        const { sendSessionReport } = require('./reporter');
+        await sendSessionReport('evening');
+        log("✅ 8:00 PM IST Evening Session Report dispatched successfully.");
+        lastEveningReportDate = todayStr;
+      } catch (err) {
+        log(`Failed to dispatch 8 PM report: ${err.message}`);
       }
     }
   }, 60 * 1000); // Check every minute
@@ -193,6 +209,6 @@ function scheduleDailyReport() {
 
 // Start the scheduler
 log("Google Antigravity Job Search & Application Agent Scheduler initialized.");
-log("24/7 service started.");
+log("24/7 service started with Bi-Daily Reporting (8:00 AM & 8:00 PM IST).");
 executeCycle();
 scheduleDailyReport();
