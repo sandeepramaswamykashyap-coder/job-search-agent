@@ -110,15 +110,14 @@ async function apply(page, job) {
               }
             } else if (tag === 'input' || tag === 'textarea') {
               const curVal = await ei.inputValue().catch(() => '');
-              if (!curVal) {
-                let fillVal = 'Bengaluru';
-                if (/school|university|college/i.test(name)) fillVal = 'University of Mysore';
-                else if (/degree/i.test(name)) fillVal = 'Bachelor of Business Management';
-                else if (/discipline|major/i.test(name)) fillVal = 'Business Management';
-                else if (/gpa/i.test(name)) fillVal = '3.8';
-                else if (/hear|source/i.test(name)) fillVal = 'LinkedIn';
-                await ei.fill(fillVal).catch(() => {});
-              }
+              let fillVal = curVal || 'Bengaluru';
+              if (/phone|mobile/i.test(name) || /phone/i.test(curVal)) fillVal = '6366325217';
+              else if (/school|university|college/i.test(name)) fillVal = 'University of Mysore';
+              else if (/degree/i.test(name)) fillVal = 'Bachelor of Business Management';
+              else if (/discipline|major/i.test(name)) fillVal = 'Business Management';
+              else if (/gpa/i.test(name)) fillVal = '3.8';
+              else if (/hear|source/i.test(name)) fillVal = 'LinkedIn';
+              await ei.fill(fillVal).catch(() => {});
             }
           }
         } catch (_) {}
