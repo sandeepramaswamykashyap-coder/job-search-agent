@@ -634,7 +634,9 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
         targetVal = 'He/Him';
       } else if (/located in the united states|currently in the us\b|us citizen/i.test(parentText)) {
         targetVal = 'No';
-      } else if (/^(?:location|city|current[\s_-]?city|city[\s_-]?\(|preferred[\s_-]?location)/i.test(parentText.trim()) || (/location|city/i.test(parentText) && !/work|authorized|sponsor|united states|residence|country/i.test(parentText))) {
+      } else if (/relocat|within 50 miles|commute|commuting[\s_-]?distance|move before|relocate before|based within|live within/i.test(parentText)) {
+        targetVal = 'Yes';
+      } else if (/^(?:location|city|current[\s_-]?city|city[\s_-]?\(|preferred[\s_-]?location)/i.test(parentText.trim()) || (/location|city/i.test(parentText) && !/work|authorized|sponsor|united states|residence|country|relocat|commute/i.test(parentText))) {
         targetVal = 'Bengaluru';
       } else if (/\b(?:legal|18|background check|drug screen|terms|consent|agree)\b/i.test(parentText)) {
         targetVal = 'Yes';
@@ -691,6 +693,8 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
         await clickRadioInGroup(group, true); filled++;
       } else if (/criminal/i.test(groupText)) {
         await clickRadioInGroup(group, false); filled++;
+      } else if (/relocat|within 50 miles|commute|commuting[\s_-]?distance|move before|relocate before|based within|live within/i.test(groupText)) {
+        await clickRadioInGroup(group, true); filled++;
       }
     } catch (_) {}
   }

@@ -115,6 +115,7 @@ async function apply(page, job) {
               else if (/school|university|college/i.test(name)) fillVal = 'University of Mysore';
               else if (/degree/i.test(name)) fillVal = 'Bachelor of Business Management';
               else if (/discipline|major/i.test(name)) fillVal = 'Business Management';
+              else if (/relocat|50 miles|commute/i.test(name)) fillVal = 'Yes';
               else if (/gpa/i.test(name)) fillVal = '3.8';
               else if (/hear|source/i.test(name)) fillVal = 'LinkedIn';
               await ei.fill(fillVal).catch(() => {});
