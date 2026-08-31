@@ -20,6 +20,7 @@ const { runAllGlobalRemoteSweeps } = require('./remote_crawlers');
 const { processOutreachQueue } = require('./outreach_mailer');
 const { sendDailyReport } = require('./reporter');
 const { runPortalApplicationCycle } = require('./portal_router');
+const { runDailyPortalDiscovery } = require('./dynamic_portal_expander');
 const { syncToGitHub } = require('./git_auto_pusher');
 
 // Load configurations
@@ -113,11 +114,15 @@ async function executeCycle() {
   const forceHeaded = (config.scheduler.browser_mode === 'headed');
   log(`Browser mode: ${forceHeaded ? 'Visible Window (Headed)' : 'Silent Background (Headless)'}`);
   try {
-    // 1. Refresh CV if needed
+    // 1. Autonomous Daily Portal Discovery & Expansion (Greenhouse, Lever, Ashby, SmartRecruiters)
+    log('Running AUTONOMOUS DAILY PORTAL EXPANSION sweep...');
+    await runDailyPortalDiscovery().catch(e => log(`Portal expansion warning: ${e.message}`));
+
+    // 2. Refresh CV if needed
     await checkAndRunCVRefresh();
     saveStats();
 
-    // 2. Direct Tier-1 Company Portals (Greenhouse, Lever, SmartRecruiters, Workday)
+    // 3. Direct Tier-1 Company Portals (Greenhouse, Lever, Ashby, SmartRecruiters, Workday)
     log('Starting DIRECT TIER-1 COMPANY PORTALS application cycle...');
     await runPortalApplicationCycle(null, 30).catch(e => log(`Tier-1 Portal cycle warning: ${e.message}`));
     saveStats();

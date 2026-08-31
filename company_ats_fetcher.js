@@ -211,12 +211,25 @@ async function fetchSmartRecruitersJobs(slug) {
  * Fetches all live, real-time matching jobs directly from Greenhouse, Lever, Ashby, and SmartRecruiters
  */
 async function fetchAllLiveATSJobs() {
-  console.log('[ATS Ingestion] 🌐 Fetching live jobs across Greenhouse, Lever, Ashby & SmartRecruiters APIs (350+ boards)...');
+  const fs = require('fs');
+  const path = require('path');
+  const dynamicFile = path.join(__dirname, 'dynamic_companies.json');
+  let dynamicDb = { greenhouse: [], lever: [], ashby: [], smartrecruiters: [] };
+  if (fs.existsSync(dynamicFile)) {
+    try { dynamicDb = JSON.parse(fs.readFileSync(dynamicFile, 'utf8')); } catch (_) {}
+  }
+
+  const allGh = Array.from(new Set([...GREENHOUSE_COMPANIES, ...(dynamicDb.greenhouse || [])]));
+  const allLv = Array.from(new Set([...LEVER_COMPANIES, ...(dynamicDb.lever || [])]));
+  const allAsh = Array.from(new Set([...ASHBY_COMPANIES, ...(dynamicDb.ashby || [])]));
+  const allSr = Array.from(new Set([...SMARTRECRUITERS_COMPANIES, ...(dynamicDb.smartrecruiters || [])]));
+
+  console.log(`[ATS Ingestion] 🌐 Fetching live jobs across Greenhouse (${allGh.length}), Lever (${allLv.length}), Ashby (${allAsh.length}) & SmartRecruiters (${allSr.length}) APIs...`);
   
-  const greenhousePromises = GREENHOUSE_COMPANIES.map(fetchGreenhouseJobs);
-  const leverPromises = LEVER_COMPANIES.map(fetchLeverJobs);
-  const ashbyPromises = ASHBY_COMPANIES.map(fetchAshbyJobs);
-  const srPromises = SMARTRECRUITERS_COMPANIES.map(fetchSmartRecruitersJobs);
+  const greenhousePromises = allGh.map(fetchGreenhouseJobs);
+  const leverPromises = allLv.map(fetchLeverJobs);
+  const ashbyPromises = allAsh.map(fetchAshbyJobs);
+  const srPromises = allSr.map(fetchSmartRecruitersJobs);
 
   const results = await Promise.all([
     ...greenhousePromises,
