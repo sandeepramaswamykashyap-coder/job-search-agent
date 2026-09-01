@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1670,
-  "applicationsSubmitted": 400,
+  "applicationsSubmitted": 404,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -3088,6 +3088,38 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/openai/a4981ed2-331a-4927-a95f-fabb64c9c799",
       "time": "2026-09-01T11:39:03.056Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Tax Director, Business Advisory and Strategic Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c18cb478-c0ab-447e-bc80-079f3bc00b0b",
+      "time": "2026-09-01T11:39:05.473Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Tax Director, Business Advisory and Strategic Finance",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c18cb478-c0ab-447e-bc80-079f3bc00b0b",
+      "time": "2026-09-01T11:39:05.484Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Startups (Mandarin-Speaking)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/ac0922d9-4731-40a1-b8a3-17b912e1a13b",
+      "time": "2026-09-01T11:39:05.490Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Startups (Mandarin-Speaking)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/ac0922d9-4731-40a1-b8a3-17b912e1a13b",
+      "time": "2026-09-01T11:39:05.496Z",
       "status": "submitted"
     }
   ],
