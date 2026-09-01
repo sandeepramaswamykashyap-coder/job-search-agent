@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1711,
-  "applicationsSubmitted": 891,
+  "applicationsSubmitted": 893,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -7016,6 +7016,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/cohere/a3981a28-9f41-48a7-9ffe-2e7f9675e486",
       "time": "2026-09-01T15:48:48.854Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery, Korea",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/cd987666-aeda-4da6-a23c-d84d4231d33b",
+      "time": "2026-09-01T15:48:51.500Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery, Korea",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/cd987666-aeda-4da6-a23c-d84d4231d33b",
+      "time": "2026-09-01T15:48:51.510Z",
       "status": "submitted"
     }
   ],
