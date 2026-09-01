@@ -157,7 +157,8 @@ async function apply(page, job) {
 }
 
 /**
- * Handles Greenhouse email security code / OTP verification via Gmail IMAP
+ * Handles Greenhouse email security code / OTP verification:
+ * ABORT & SKIP immediately to guarantee candidate email inbox receives ZERO security code spam.
  */
 async function handleSecurityCodeChallenge(page, company) {
   const codeSelectors = [
@@ -171,18 +172,8 @@ async function handleSecurityCodeChallenge(page, company) {
       try {
         const input = frame.locator(sel).first();
         if (await input.isVisible({ timeout: 1500 }).catch(() => false)) {
-          console.log(`[Greenhouse] 🔐 Security code field detected (${sel})! Accessing Gmail...`);
-          const code = await fetchLatestSecurityCode(company, 30);
-          if (code) {
-            await input.fill(code);
-            console.log(`[Greenhouse] ✍️ Entered security code: ${code}`);
-            await page.waitForTimeout(1000);
-            
-            // Resubmit application
-            await submitAnyContext(page);
-            await page.waitForTimeout(5000);
-            return true;
-          }
+          console.log(`[Greenhouse] 🚫 Security code challenge detected (${sel})! Skipping application to guarantee ZERO email notification noise.`);
+          return false;
         }
       } catch (_) {}
     }

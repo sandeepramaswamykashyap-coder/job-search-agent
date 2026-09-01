@@ -218,11 +218,15 @@ const COMPANY_ATS_MAP = {
 };
 
 /**
- * Checks if a company is excluded (Standard Chartered Bank).
+ * Checks if a company is excluded (Standard Chartered Bank or boards requiring email OTPs like GitLab/Elastic/Netskope).
  */
 function isExcluded(companyName) {
-  const lower = (companyName || '').toLowerCase();
-  return lower.includes('standard chartered') || lower.includes(' scb') || lower === 'scb';
+  const lower = (companyName || '').toLowerCase().trim();
+  const excludedList = [
+    'standard chartered', 'scb', 'standard chartered gbs',
+    'gitlab', 'elastic', 'netskope'
+  ];
+  return excludedList.some(ex => lower.includes(ex));
 }
 
 module.exports = { detectAtsFromUrl, detectAtsFromPage, COMPANY_ATS_MAP, isExcluded };

@@ -72,7 +72,7 @@ function matchesKeywords(title) {
 // ── 1. GREENHOUSE BOARDS (Enterprise SaaS, BFSI, Global Scale-ups) ───────────
 const GREENHOUSE_COMPANIES = [
   // Tech / SaaS / Cloud
-  'gitlab', 'stripe', 'coinbase', 'atlassian', 'elastic', 'dropbox',
+  'stripe', 'coinbase', 'atlassian', 'dropbox',
   'figma', 'hubspot', 'zendesk', 'benchling', 'brex',
   'mixpanel', 'hashicorp', 'instacart', 'affirm', 'gusto', 'doordash',
   'klaviyo', 'outreach', 'gong', 'productboard', 'pendo', 'amplitude',
@@ -98,7 +98,7 @@ const GREENHOUSE_COMPANIES = [
   'zsassociates', 'fractalanalytics', 'sutherland', 'genpact',
   // Security / Cloud
   'grafana', 'cloudflare', 'fastly', 'mongodb', 'okta', 'snowflake',
-  'crowdstrike', 'zscaler', 'tanium', 'sentinelone', 'netskope', 'snyk'
+  'crowdstrike', 'zscaler', 'tanium', 'sentinelone', 'snyk'
 ];
 
 // ── 2. LEVER BOARDS (High-Growth Tech & AI Platforms) ────────────────────────
