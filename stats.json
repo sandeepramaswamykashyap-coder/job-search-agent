@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1670,
-  "applicationsSubmitted": 492,
+  "applicationsSubmitted": 496,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -3824,6 +3824,38 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/langchain/2b151a4e-f3a4-41fc-95f7-4e802906f2cb",
       "time": "2026-09-01T11:42:34.122Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Head of People Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/f166d46a-de9a-4c60-a275-496359dd650e",
+      "time": "2026-09-01T11:42:49.694Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Head of People Operations",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/f166d46a-de9a-4c60-a275-496359dd650e",
+      "time": "2026-09-01T11:42:49.705Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Incident",
+      "title": "VP of Customer Success",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/incident/91dcb767-ed52-4400-bd6b-0ce8158e90d0",
+      "time": "2026-09-01T11:42:51.371Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Incident",
+      "title": "VP of Customer Success",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/incident/91dcb767-ed52-4400-bd6b-0ce8158e90d0",
+      "time": "2026-09-01T11:42:51.378Z",
       "status": "submitted"
     }
   ],
