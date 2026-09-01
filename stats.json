@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 642,
+  "applicationsSubmitted": 644,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -5024,6 +5024,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7",
       "time": "2026-09-01T12:28:48.803Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Strategic Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/39ae8da6-9c3d-4f36-80a3-310159ee1f8d",
+      "time": "2026-09-01T12:28:56.870Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Strategic Finance",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/39ae8da6-9c3d-4f36-80a3-310159ee1f8d",
+      "time": "2026-09-01T12:28:56.878Z",
       "status": "submitted"
     }
   ],
