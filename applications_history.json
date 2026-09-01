@@ -13086,5 +13086,109 @@
     "url": "https://job-boards.greenhouse.io/databricks/jobs/8656357002",
     "time": "2026-09-01T16:35:37.106Z",
     "status": "submitted"
+  },
+  {
+    "company": "Reddit",
+    "title": "Senior Director of Product, Ads Platform",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
+    "time": "2026-09-01T17:18:32.494Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Program Manager, Product Lifecycle Assurance",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
+    "time": "2026-09-01T17:20:47.431Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Program Manager, Product Lifecycle Assurance",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
+    "time": "2026-09-01T17:20:47.450Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "GRC Program Manager, Audit & Controls",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/openai/aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3",
+    "time": "2026-09-01T17:20:47.465Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "GRC Program Manager, Audit & Controls",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/openai/aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3",
+    "time": "2026-09-01T17:20:47.484Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Cohere",
+    "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, France",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
+    "time": "2026-09-01T17:22:05.772Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Cohere",
+    "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, France",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
+    "time": "2026-09-01T17:22:05.795Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Cohere",
+    "title": "Senior Director, Solutions Architecture, APAC",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
+    "time": "2026-09-01T17:22:06.732Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Cohere",
+    "title": "Senior Director, Solutions Architecture, APAC",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
+    "time": "2026-09-01T17:22:06.745Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Klaviyo",
+    "title": "Director, Customer Success - Enterprise",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7979747003",
+    "time": "2026-09-01T17:37:15.191Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Datadog",
+    "title": "Director, Product Management - Cloud Security and Shared Capabilities",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/datadog/jobs/8030324",
+    "time": "2026-09-01T17:49:34.361Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Datadog",
+    "title": "Head of Competitive Intelligence",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/datadog/jobs/8054420",
+    "time": "2026-09-01T17:49:36.025Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Datadog",
+    "title": "Implementation Services Project Manager",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/datadog/jobs/7809909",
+    "time": "2026-09-01T17:50:06.536Z",
+    "status": "submitted"
   }
 ]
