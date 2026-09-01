@@ -1,14 +1,15 @@
 /**
- * High-Throughput Parallel Application Grinder Engine
+ * Ultra-Aggressive Quad-Worker High-Throughput Application Engine
  * 
- * Executes rapid, concurrent live form submissions across 350+ Enterprise Boards
- * (Greenhouse, Ashby, Lever, SmartRecruiters, Workday) with 100% verified candidate ground truth.
+ * Executes blistering-fast, 4-way concurrent submissions across 350+ Enterprise Boards
+ * (Ashby, Lever, SmartRecruiters, Greenhouse, Workday) with 100% verified ground truth data.
  * 
- * Features:
- * - Dual concurrent worker streams (2x throughput)
- * - Optimized human-like timing (3-6s between submissions)
+ * Capabilities:
+ * - 4 Parallel Concurrent Workers (4x speed & volume)
+ * - Ultra-tight human-like pacing (1.5–3.5s per submission)
+ * - High-conversion priority queue (Ashby & Lever front-loaded)
  * - Auto-skips OTP/verification hurdles to eliminate candidate email noise
- * - Real-time Git sync every 5 confirmed submissions
+ * - Real-time Git auto-sync every 5 confirmed submissions
  */
 
 const path = require('path');
@@ -41,7 +42,7 @@ function isSeniorMatch(title) {
 }
 
 async function gatherAllLiveJobs() {
-  console.log('\n[ContinuousGrinder] 🌐 Gathering fresh live job listings across all 350+ company boards & feeds...');
+  console.log('\n[QuadGrinder] 🌐 Aggressively sweeping 350+ enterprise ATS boards & remote aggregators...');
   const [atsJobs, remoteJobs] = await Promise.all([
     fetchAllLiveATSJobs().catch(() => []),
     runAllGlobalRemoteSweeps().catch(() => [])
@@ -52,14 +53,19 @@ async function gatherAllLiveJobs() {
     ...remoteJobs.map(j => ({ ...j, applyUrl: j.link || j.url, atsType: j.portal || 'remote_portal' }))
   ];
 
-  console.log(`[ContinuousGrinder] Total raw live listings gathered: ${all.length}`);
+  console.log(`[QuadGrinder] Total raw live listings gathered: ${all.length}`);
   const matched = all.filter(j => isSeniorMatch(j.title));
-  console.log(`[ContinuousGrinder] 🎯 Senior leadership matched listings: ${matched.length}`);
+  console.log(`[QuadGrinder] 🎯 Senior leadership matched listings: ${matched.length}`);
+
+  // Sort: Prioritize high-conversion, fast-submitting engines first (Ashby > Lever > SmartRecruiters > Greenhouse)
+  const priority = { ashby: 1, lever: 2, smartrecruiters: 3, greenhouse: 4, remote_portal: 5 };
+  matched.sort((a, b) => (priority[a.atsType] || 6) - (priority[b.atsType] || 6));
+
   return matched;
 }
 
 async function runWorker(workerId, jobs, browser) {
-  console.log(`[Worker-${workerId}] 🚀 Starting stream with ${jobs.length} jobs in queue...`);
+  console.log(`[Worker-${workerId}] 🚀 Spawning stream with ${jobs.length} jobs in queue...`);
   const context = await browser.newContext({
     viewport: { width: 1280, height: 800 },
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
@@ -70,7 +76,7 @@ async function runWorker(workerId, jobs, browser) {
   await page.route('**/*', (route) => {
     const type = route.request().resourceType();
     const url = route.request().url();
-    if (['image', 'media', 'font'].includes(type) || url.includes('google-analytics') || url.includes('hotjar') || url.includes('doubleclick')) {
+    if (['image', 'media'].includes(type) || url.includes('google-analytics') || url.includes('hotjar') || url.includes('doubleclick')) {
       return route.abort();
     }
     return route.continue();
@@ -82,7 +88,12 @@ async function runWorker(workerId, jobs, browser) {
     console.log(`[Worker-${workerId}] Apply URL: ${job.applyUrl}`);
 
     try {
-      const result = await applyToPortal(page, context, job);
+      // 45s ceiling per submission
+      const result = await Promise.race([
+        applyToPortal(page, context, job),
+        new Promise((_, reject) => setTimeout(() => reject(new Error('Submission timeout (45s exceeded)')), 45000))
+      ]);
+
       if (result && result.success) {
         workerSuccess++;
         console.log(`[Worker-${workerId}] ✅ CONFIRMED SUBMISSION: "${job.title}" @ ${job.company}`);
@@ -105,8 +116,8 @@ async function runWorker(workerId, jobs, browser) {
       console.error(`[Worker-${workerId}] ❌ Error applying to ${job.company}: ${err.message}`);
     }
 
-    const pauseSec = 3 + Math.floor(Math.random() * 4); // 3–6 seconds rapid humanlike pacing
-    console.log(`[Worker-${workerId}] ⏳ Pausing ${pauseSec}s before next application...`);
+    const pauseSec = 1.5 + Math.random() * 2; // 1.5–3.5s rapid pacing
+    console.log(`[Worker-${workerId}] ⏳ Pausing ${pauseSec.toFixed(1)}s before next application...`);
     await page.waitForTimeout(pauseSec * 1000);
   }
 
@@ -114,9 +125,9 @@ async function runWorker(workerId, jobs, browser) {
   return workerSuccess;
 }
 
-async function runHighThroughputGrindCycle() {
+async function runAggressiveQuadGrindCycle() {
   console.log('\n======================================================================');
-  console.log('⚡ [ContinuousGrinder] STARTING MAXIMUM-THROUGHPUT PARALLEL APPLICATION GRIND');
+  console.log('⚡⚡⚡ [QuadGrinder] STARTING ULTRA-AGGRESSIVE QUAD-WORKER PARALLEL GRIND');
   console.log(`Timestamp: ${new Date().toLocaleString()}`);
   console.log('======================================================================');
 
@@ -135,16 +146,18 @@ async function runHighThroughputGrindCycle() {
     return !submittedKeys.has(key);
   });
 
-  console.log(`[ContinuousGrinder] 📋 Unapplied leadership roles in queue: ${pending.length}`);
+  console.log(`[QuadGrinder] 📋 Unapplied leadership roles in queue: ${pending.length}`);
   if (pending.length === 0) {
-    console.log('[ContinuousGrinder] Queue fully processed. Standing by for fresh openings.');
+    console.log('[QuadGrinder] All available listings applied! Standing by for incoming openings.');
     return;
   }
 
-  // Split pending jobs into 2 concurrent streams
-  const batch = pending.slice(0, 100); // Process batch of 100 per cycle
-  const worker1Jobs = batch.filter((_, idx) => idx % 2 === 0);
-  const worker2Jobs = batch.filter((_, idx) => idx % 2 !== 0);
+  // Split pending jobs into 4 concurrent streams
+  const batch = pending.slice(0, 200); // 200 jobs per cycle
+  const w1Jobs = batch.filter((_, idx) => idx % 4 === 0);
+  const w2Jobs = batch.filter((_, idx) => idx % 4 === 1);
+  const w3Jobs = batch.filter((_, idx) => idx % 4 === 2);
+  const w4Jobs = batch.filter((_, idx) => idx % 4 === 3);
 
   let browser = null;
   try {
@@ -153,23 +166,25 @@ async function runHighThroughputGrindCycle() {
       args: [
         '--no-sandbox',
         '--disable-gpu',
-        '--renderer-process-limit=4',
-        '--js-flags=--max-old-space-size=512'
+        '--renderer-process-limit=6',
+        '--js-flags=--max-old-space-size=768'
       ]
     });
 
-    const [res1, res2] = await Promise.all([
-      runWorker(1, worker1Jobs, browser).catch(() => 0),
-      runWorker(2, worker2Jobs, browser).catch(() => 0)
+    const results = await Promise.all([
+      runWorker(1, w1Jobs, browser).catch(() => 0),
+      runWorker(2, w2Jobs, browser).catch(() => 0),
+      runWorker(3, w3Jobs, browser).catch(() => 0),
+      runWorker(4, w4Jobs, browser).catch(() => 0)
     ]);
 
-    const totalCycleSuccess = (res1 || 0) + (res2 || 0);
-    console.log(`\n[ContinuousGrinder] 🏁 Batch complete! Confirmed ${totalCycleSuccess} new submissions in this parallel cycle.`);
+    const totalCycleSuccess = results.reduce((a, b) => a + (b || 0), 0);
+    console.log(`\n[QuadGrinder] 🏁 Batch complete! Confirmed ${totalCycleSuccess} new submissions across 4 parallel workers.`);
     if (totalCycleSuccess > 0) {
-      syncToGitHub(`feat: confirmed ${totalCycleSuccess} verified submissions in parallel grind cycle`);
+      syncToGitHub(`feat: confirmed ${totalCycleSuccess} verified submissions in quad-worker cycle`);
     }
   } catch (err) {
-    console.error(`[ContinuousGrinder] Browser session error: ${err.message}`);
+    console.error(`[QuadGrinder] Browser session error: ${err.message}`);
   } finally {
     if (browser) {
       await browser.close().catch(() => {});
@@ -177,20 +192,20 @@ async function runHighThroughputGrindCycle() {
   }
 }
 
-async function startGrinder() {
+async function startQuadGrinder() {
   while (true) {
     try {
-      await runHighThroughputGrindCycle();
+      await runAggressiveQuadGrindCycle();
     } catch (err) {
-      console.error(`[ContinuousGrinder] Auto-recovery: ${err.message}`);
+      console.error(`[QuadGrinder] Auto-recovery: ${err.message}`);
     }
-    console.log('[ContinuousGrinder] ⏳ Standing by 30 seconds before next high-throughput sweep...');
-    await new Promise(r => setTimeout(r, 30 * 1000));
+    console.log('[QuadGrinder] ⏳ Standing by 15 seconds before next quad sweep...');
+    await new Promise(r => setTimeout(r, 15 * 1000));
   }
 }
 
 if (require.main === module) {
-  startGrinder();
+  startQuadGrinder();
 }
 
-module.exports = { startGrinder, runHighThroughputGrindCycle };
+module.exports = { startQuadGrinder, runAggressiveQuadGrindCycle };

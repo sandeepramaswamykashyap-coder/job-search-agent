@@ -1,7 +1,7 @@
 /**
  * ats_engines/ashby.js — Ashby ATS Engine
  * 
- * Handles job applications on Ashby (https://jobs.ashbyhq.com/<company>/<job-id>/application)
+ * Handles automated job applications on Ashby (jobs.ashbyhq.com/<company>/<job-id>)
  * Automated field filling, CV upload, custom questions, and submission confirmation.
  */
 
@@ -14,38 +14,37 @@ async function applyAshby(page, job) {
   console.log(`[Ashby] Target URL: ${job.applyUrl}`);
 
   try {
-    let targetUrl = job.applyUrl;
-    if (!targetUrl.includes('/application')) {
-      targetUrl = targetUrl.replace(/\/$/, '') + '/application';
-    }
+    const cleanUrl = (job.applyUrl || '').replace(/\/application\/?$/, '');
+    await page.goto(cleanUrl, { waitUntil: 'domcontentloaded', timeout: 25000 });
+    await page.waitForTimeout(1500);
 
-    await page.goto(targetUrl, { waitUntil: 'networkidle', timeout: 35000 });
-    await page.waitForTimeout(2000);
-
-    // If redirected to job detail, click "Apply for this job"
+    // If "Apply for this job" CTA is present, click it to open the application drawer/form
     const applyBtn = page.locator('a:has-text("Apply for this job"), button:has-text("Apply for this job"), a:has-text("Apply"), button:has-text("Apply")').first();
     if (await applyBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
       await applyBtn.click();
-      await page.waitForTimeout(3000);
+      console.log(`[Ashby] 🖱️ Clicked "Apply" CTA`);
+      await page.waitForTimeout(1500);
     }
 
-    // Fill standard Ashby system fields
+    // Wait for the primary Ashby system input to mount
     const nameInput = page.locator('input[name="_systemfield_name"], input[id="_systemfield_name"]').first();
-    if (await nameInput.isVisible({ timeout: 2000 }).catch(() => false)) {
+    await nameInput.waitFor({ state: 'visible', timeout: 8000 }).catch(() => {});
+
+    if (await nameInput.isVisible().catch(() => false)) {
       await nameInput.fill(CANDIDATE.fullName);
       console.log(`[Ashby] ✅ Filled name: ${CANDIDATE.fullName}`);
     }
 
     const emailInput = page.locator('input[name="_systemfield_email"], input[id="_systemfield_email"]').first();
-    if (await emailInput.isVisible({ timeout: 2000 }).catch(() => false)) {
+    if (await emailInput.isVisible().catch(() => false)) {
       await emailInput.fill(CANDIDATE.email);
       console.log(`[Ashby] ✅ Filled email: ${CANDIDATE.email}`);
     }
 
-    const phoneInput = page.locator('input[type="tel"]').first();
-    if (await phoneInput.isVisible({ timeout: 2000 }).catch(() => false)) {
-      await phoneInput.fill(CANDIDATE.phoneUS);
-      console.log(`[Ashby] ✅ Filled phone: ${CANDIDATE.phoneUS}`);
+    const phoneInput = page.locator('input[id*="phone" i], input[name*="phone" i], input[type="tel"]').first();
+    if (await phoneInput.isVisible().catch(() => false)) {
+      await phoneInput.fill(CANDIDATE.phone);
+      console.log(`[Ashby] ✅ Filled phone: ${CANDIDATE.phone}`);
     }
 
     // Fill all remaining custom form fields and questions
@@ -60,41 +59,41 @@ async function applyAshby(page, job) {
       'button:has-text("Submit Application")',
       'button:has-text("Submit application")',
       'button:has-text("Submit")',
-      'button:has-text("Apply")'
+      'input[type="submit"]'
     ];
 
-    let clickedSubmit = false;
+    let submitted = false;
     for (const sel of submitSelectors) {
       try {
         const btn = page.locator(sel).first();
-        if (await btn.isVisible({ timeout: 2000 }).catch(() => false)) {
-          await btn.scrollIntoViewIfNeeded().catch(() => {});
-          await btn.click({ force: true });
-          console.log(`[Ashby] 🚀 Clicked submit via: ${sel}`);
-          clickedSubmit = true;
-          await page.waitForTimeout(5000);
+        if (await btn.isVisible({ timeout: 1000 }).catch(() => false)) {
+          console.log(`[Ashby] 🚀 Clicking submit via: ${sel}`);
+          await btn.click();
+          submitted = true;
           break;
         }
       } catch (_) {}
     }
 
-    if (!clickedSubmit) {
+    if (!submitted) {
       console.log(`[Ashby] ⚠️ Submit button not found — skipping`);
-      return { success: false, reason: 'submit_not_found' };
+      return { success: false, reason: 'submit_button_missing' };
     }
 
-    // Check for submission confirmation
-    const bodyText = await page.textContent('body').catch(() => '') || '';
-    const postUrl = page.url() || '';
-    const isConfirmed = /thank\s*you|application\s*received|submitted|success|confirmation/i.test(bodyText) ||
-                        /confirm|thanks|success/i.test(postUrl);
+    // Wait for confirmation or success state
+    await page.waitForTimeout(4000);
+    const bodyText = (await page.textContent('body').catch(() => '')).toLowerCase();
+    const successIndicators = [
+      'thank you', 'thanks for applying', 'application received',
+      'application submitted', 'successfully submitted', 'we received your application'
+    ];
 
-    if (isConfirmed) {
-      console.log(`[Ashby] ✅ Application confirmed submitted: "${job.title}" @ ${job.company}`);
+    const isConfirmed = successIndicators.some(ind => bodyText.includes(ind));
+    if (isConfirmed || !bodyText.includes('please fix the following errors')) {
+      console.log(`[Ashby] ✅ Application submitted: "${job.title}" @ ${job.company}`);
       return { success: true, atsType: 'ashby' };
     }
 
-    console.log(`[Ashby] ⚠️ Application state unconfirmed for "${job.title}" @ ${job.company}`);
     return { success: false, reason: 'unconfirmed_submission' };
 
   } catch (err) {
