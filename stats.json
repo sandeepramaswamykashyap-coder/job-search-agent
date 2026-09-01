@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 600,
+  "applicationsSubmitted": 602,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -4688,6 +4688,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/cognition/77e0ec33-5709-447d-ad64-8f210dd47b97",
       "time": "2026-09-01T12:25:40.947Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Federal Account Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/b154cc8a-0f04-44b8-88d8-72901fc0582d",
+      "time": "2026-09-01T12:25:43.205Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Federal Account Director",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/b154cc8a-0f04-44b8-88d8-72901fc0582d",
+      "time": "2026-09-01T12:25:43.214Z",
       "status": "submitted"
     }
   ],
