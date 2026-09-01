@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1670,
-  "applicationsSubmitted": 520,
+  "jobsScanned": 1676,
+  "applicationsSubmitted": 554,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -4048,6 +4048,278 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/writer/0e06b0d0-e381-41f4-af66-4e98b8724ee1",
       "time": "2026-09-01T11:45:37.083Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Vapi",
+      "title": "Chief of Staff",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/8db6bb9c-5cc7-41ad-b978-0401e7a8143e",
+      "time": "2026-09-01T11:46:40.257Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Vapi",
+      "title": "Chief of Staff",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/8db6bb9c-5cc7-41ad-b978-0401e7a8143e",
+      "time": "2026-09-01T11:46:40.269Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cartesia",
+      "title": "Product and Research Operations Manager, Voices",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cartesia/7e9aba9d-9335-46d2-bbde-247080a3d8d5",
+      "time": "2026-09-01T11:47:56.678Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cartesia",
+      "title": "Product and Research Operations Manager, Voices",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cartesia/7e9aba9d-9335-46d2-bbde-247080a3d8d5",
+      "time": "2026-09-01T11:47:56.695Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cartesia",
+      "title": "Product & Research Operations Manager, Human Data",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cartesia/177c2be2-8610-48af-b129-308bac955112",
+      "time": "2026-09-01T11:47:57.966Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cartesia",
+      "title": "Product & Research Operations Manager, Human Data",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cartesia/177c2be2-8610-48af-b129-308bac955112",
+      "time": "2026-09-01T11:47:57.978Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Art Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/7823683",
+      "time": "2026-09-01T11:48:51.332Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Credit Risk Operations Team Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8047791",
+      "time": "2026-09-01T11:48:58.198Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Brand Studio Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8014382",
+      "time": "2026-09-01T11:49:44.839Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Grower Sales, Billing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8156998",
+      "time": "2026-09-01T11:50:26.293Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Technical Program Manager, Growth",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8114397",
+      "time": "2026-09-01T11:55:03.200Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Product Manager, Help Center (CX Automation)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8031208",
+      "time": "2026-09-01T11:57:28.030Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Group Product Manager, Compliance Automation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7701642",
+      "time": "2026-09-01T11:57:34.590Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Director of Marketing Strategy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8142720",
+      "time": "2026-09-01T11:58:52.928Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Director, Sales Compensation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8121667",
+      "time": "2026-09-01T11:59:02.948Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Director of Media Strategy & Activation (Paid Media)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8096461",
+      "time": "2026-09-01T11:59:05.016Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Head of Field and Partner Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8038750",
+      "time": "2026-09-01T11:59:42.326Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Head of Global Sales Enablement and AI Adoption",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/7673202",
+      "time": "2026-09-01T11:59:48.402Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Regional Sales Operations Manager - EMEA (Remote)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075216",
+      "time": "2026-09-01T12:05:18.074Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Affirm",
+      "title": "Director, Information Technology & Security",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7607567003",
+      "time": "2026-09-01T12:08:25.204Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Affirm",
+      "title": "Director, Customer Operations Vendor Strategy & Execution",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7907793003",
+      "time": "2026-09-01T12:08:29.908Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Affirm",
+      "title": "GTM Strategy & Operations Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833171003",
+      "time": "2026-09-01T12:09:12.613Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Affirm",
+      "title": "Director, Product Management (Shopping & Offers)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780490003",
+      "time": "2026-09-01T12:09:21.164Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Affirm",
+      "title": "Vice President, People Business Partner & Employee Relations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7894014003",
+      "time": "2026-09-01T12:09:52.391Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Director, Global Field Enablement",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7884478003",
+      "time": "2026-09-01T12:10:47.965Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Director of Sales, Commercial (Europe)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7762361003",
+      "time": "2026-09-01T12:11:25.976Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Director of Sales, Commercial (Europe)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7762361003",
+      "time": "2026-09-01T12:11:25.986Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Senior Localisation Program Manager, Product (Fixed Term Contract)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7901596003",
+      "time": "2026-09-01T12:11:46.530Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Amplitude",
+      "title": "Head of Product Design",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8622704002",
+      "time": "2026-09-01T12:13:03.323Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Asana",
+      "title": "Head of Technical Revenue Accounting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/asana/jobs/8104491",
+      "time": "2026-09-01T12:13:22.592Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Asana",
+      "title": "Head of Talent Operations & Strategy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/asana/jobs/8065754",
+      "time": "2026-09-01T12:13:55.620Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Asana",
+      "title": "Head of Technical Recruiting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/asana/jobs/8028603",
+      "time": "2026-09-01T12:14:02.617Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior TPM - Enterprise Systems",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8125867",
+      "time": "2026-09-01T12:15:34.248Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, People M&A",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8637368002",
+      "time": "2026-09-01T12:19:34.774Z",
       "status": "submitted"
     }
   ],
