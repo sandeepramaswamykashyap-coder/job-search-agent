@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 720,
+  "applicationsSubmitted": 727,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -5648,6 +5648,62 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/temporal/5fb4393c-d16e-47ac-b4ae-52bb0e63cd8b",
       "time": "2026-09-01T12:33:23.956Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Global Developer Success",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/25568018-4545-448c-acef-1ac481e67d5d",
+      "time": "2026-09-01T12:33:26.621Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Global Developer Success",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/25568018-4545-448c-acef-1ac481e67d5d",
+      "time": "2026-09-01T12:33:26.629Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Head of Engineering, Compute",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
+      "time": "2026-09-01T12:33:26.640Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Head of Engineering, Compute",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
+      "time": "2026-09-01T12:33:26.648Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Neon",
+      "title": "Payment Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/neon/5272dee5-9847-4516-a044-32c5580913c6",
+      "time": "2026-09-01T12:33:41.813Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Neon",
+      "title": "Payment Operations Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/neon/5272dee5-9847-4516-a044-32c5580913c6",
+      "time": "2026-09-01T12:33:41.824Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Manager, Risk Operations Technology Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8138302",
+      "time": "2026-09-01T12:35:20.481Z",
       "status": "submitted"
     }
   ],
