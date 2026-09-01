@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 672,
+  "applicationsSubmitted": 676,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -5264,6 +5264,38 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/plaid/4a865873-eafa-423d-b9ae-3afd31ae4678",
       "time": "2026-09-01T12:30:46.034Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "FinOps Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/5159cfbb-a402-4ad3-8762-07cd81a5c3c2",
+      "time": "2026-09-01T12:31:01.934Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "FinOps Program Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/5159cfbb-a402-4ad3-8762-07cd81a5c3c2",
+      "time": "2026-09-01T12:31:01.946Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/3aa943a7-5982-4449-9fc4-397540043fd2",
+      "time": "2026-09-01T12:31:02.858Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "Technical Program Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/3aa943a7-5982-4449-9fc4-397540043fd2",
+      "time": "2026-09-01T12:31:02.867Z",
       "status": "submitted"
     }
   ],
