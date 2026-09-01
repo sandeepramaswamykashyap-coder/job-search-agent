@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 636,
+  "applicationsSubmitted": 642,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -4976,6 +4976,54 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0",
       "time": "2026-09-01T12:28:29.791Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Strategic AI transformation lead (UK)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/8ab2a84f-eaa3-4408-887e-1232d87c794d",
+      "time": "2026-09-01T12:28:39.538Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Strategic AI transformation lead (UK)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/8ab2a84f-eaa3-4408-887e-1232d87c794d",
+      "time": "2026-09-01T12:28:39.551Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Marketing Chief of Staff",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+      "time": "2026-09-01T12:28:46.799Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Marketing Chief of Staff",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+      "time": "2026-09-01T12:28:46.808Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Sales Director - Healthcare & Life Sciences",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7",
+      "time": "2026-09-01T12:28:48.796Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Sales Director - Healthcare & Life Sciences",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7",
+      "time": "2026-09-01T12:28:48.803Z",
       "status": "submitted"
     }
   ],
