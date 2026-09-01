@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1670,
-  "applicationsSubmitted": 458,
+  "applicationsSubmitted": 488,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -3552,6 +3552,246 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/deepgram/d7dc5974-8540-432a-a2ec-2a6691c9bb51",
       "time": "2026-09-01T11:41:24.479Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director of Research, Text to Speech",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/6e3344f4-48c7-4127-871c-3f1dada45323",
+      "time": "2026-09-01T11:41:27.181Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director of Research, Text to Speech",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/6e3344f4-48c7-4127-871c-3f1dada45323",
+      "time": "2026-09-01T11:41:27.193Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Partner Success Director (AWS)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/ac705109-ea86-41da-a3f2-811c35248c6a",
+      "time": "2026-09-01T11:41:27.202Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Partner Success Director (AWS)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/ac705109-ea86-41da-a3f2-811c35248c6a",
+      "time": "2026-09-01T11:41:27.209Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Model Alignment and Deployment",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/character/091a6ad6-75dd-4dd4-9439-7e1e9d13970b",
+      "time": "2026-09-01T11:41:39.921Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Model Alignment and Deployment",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/character/091a6ad6-75dd-4dd4-9439-7e1e9d13970b",
+      "time": "2026-09-01T11:41:39.931Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "Business Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/225b43d8-ef14-4082-b16e-005c74b42957",
+      "time": "2026-09-01T11:41:41.806Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "Business Operations Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/modal/225b43d8-ef14-4082-b16e-005c74b42957",
+      "time": "2026-09-01T11:41:41.813Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Product Experience",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/character/56dcfddd-ba6d-48a8-81fb-3332abb1c032",
+      "time": "2026-09-01T11:41:42.190Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Product Experience",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/character/56dcfddd-ba6d-48a8-81fb-3332abb1c032",
+      "time": "2026-09-01T11:41:42.196Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "VP, Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/5ac02bd3-a7ac-4e3d-b9c2-cc1abede0ae3",
+      "time": "2026-09-01T11:41:44.220Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "VP, Finance",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/modal/5ac02bd3-a7ac-4e3d-b9c2-cc1abede0ae3",
+      "time": "2026-09-01T11:41:44.227Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Vapi",
+      "title": "Director of Mid-Market Sales",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/86623e93-c666-4f77-a244-95333f25b065",
+      "time": "2026-09-01T11:41:57.673Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Vapi",
+      "title": "Director of Mid-Market Sales",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/86623e93-c666-4f77-a244-95333f25b065",
+      "time": "2026-09-01T11:41:57.695Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "Compute Strategy & Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/f1465314-5f6c-4c28-89f1-55a4ae6e11c0",
+      "time": "2026-09-01T11:41:57.984Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "Compute Strategy & Operations Lead",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/modal/f1465314-5f6c-4c28-89f1-55a4ae6e11c0",
+      "time": "2026-09-01T11:41:57.991Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "Regional Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/0d4c15af-afa7-4430-b3db-dd8258950aec",
+      "time": "2026-09-01T11:41:59.525Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Modal",
+      "title": "Regional Director",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/modal/0d4c15af-afa7-4430-b3db-dd8258950aec",
+      "time": "2026-09-01T11:41:59.532Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Commercial Sales Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/d81ac364-7b1c-48d2-a8b7-4bc7336c6be5",
+      "time": "2026-09-01T11:42:13.396Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Commercial Sales Director",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/d81ac364-7b1c-48d2-a8b7-4bc7336c6be5",
+      "time": "2026-09-01T11:42:13.408Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Vapi",
+      "title": "Head of People",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/a1c3f0e9-b6ba-4df4-85ff-f346a1c8e90b",
+      "time": "2026-09-01T11:42:13.773Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Vapi",
+      "title": "Head of People",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/a1c3f0e9-b6ba-4df4-85ff-f346a1c8e90b",
+      "time": "2026-09-01T11:42:13.779Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Sales Development Director (San Francisco)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/6dc92e79-0018-43a8-9319-64bf2302339f",
+      "time": "2026-09-01T11:42:13.907Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Sales Development Director (San Francisco)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/6dc92e79-0018-43a8-9319-64bf2302339f",
+      "time": "2026-09-01T11:42:13.913Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Director, Enterprise Sales",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/6c5eacaf-0f0c-43c5-bac8-78c98424b979",
+      "time": "2026-09-01T11:42:16.091Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Director, Enterprise Sales",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/6c5eacaf-0f0c-43c5-bac8-78c98424b979",
+      "time": "2026-09-01T11:42:16.099Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Sales Development Director (NYC)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/e8020aeb-207f-4a4d-9df4-0cca5183e657",
+      "time": "2026-09-01T11:42:28.504Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "Sales Development Director (NYC)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/e8020aeb-207f-4a4d-9df4-0cca5183e657",
+      "time": "2026-09-01T11:42:28.514Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "EMEA Deal Strategy & Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1",
+      "time": "2026-09-01T11:42:29.206Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Langchain",
+      "title": "EMEA Deal Strategy & Operations Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1",
+      "time": "2026-09-01T11:42:29.214Z",
       "status": "submitted"
     }
   ],
