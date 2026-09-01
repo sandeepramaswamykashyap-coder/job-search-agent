@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1600,
-  "applicationsSubmitted": 102,
+  "jobsScanned": 1607,
+  "applicationsSubmitted": 103,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -704,6 +704,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/okta/jobs/8164066",
       "time": "2026-09-01T03:27:09.900Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gitlab",
+      "title": "Engineering Manager - Database Change Management",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8725566002",
+      "time": "2026-09-01T03:42:09.110Z",
       "status": "submitted"
     }
   ],
