@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1670,
-  "applicationsSubmitted": 496,
+  "applicationsSubmitted": 520,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -3856,6 +3856,198 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/incident/91dcb767-ed52-4400-bd6b-0ce8158e90d0",
       "time": "2026-09-01T11:42:51.378Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Incident",
+      "title": "Director of Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/incident/13be9be2-0765-40c9-948a-0ab3d43de240",
+      "time": "2026-09-01T11:42:54.948Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Incident",
+      "title": "Director of Engineering",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/incident/13be9be2-0765-40c9-948a-0ab3d43de240",
+      "time": "2026-09-01T11:42:54.954Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Weaviate",
+      "title": "Director of Product",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/weaviate/10c5e3e9-26eb-48d1-ab5a-d9ffb6ab432b",
+      "time": "2026-09-01T11:42:54.961Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Weaviate",
+      "title": "Director of Product",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/weaviate/10c5e3e9-26eb-48d1-ab5a-d9ffb6ab432b",
+      "time": "2026-09-01T11:42:54.968Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Supabase",
+      "title": "Founding Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/7a5d81a2-c586-4d7f-a179-89c95869ca33",
+      "time": "2026-09-01T11:43:08.326Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Supabase",
+      "title": "Founding Technical Program Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/7a5d81a2-c586-4d7f-a179-89c95869ca33",
+      "time": "2026-09-01T11:43:08.341Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Executive Assistant to CTO (co-founder) & Head of Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/c29da145-0f53-4842-9f52-32b93a5b2f43",
+      "time": "2026-09-01T11:44:38.543Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Executive Assistant to CTO (co-founder) & Head of Engineering",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/c29da145-0f53-4842-9f52-32b93a5b2f43",
+      "time": "2026-09-01T11:44:38.561Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Head of Environment",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/dbb12091-6cee-41b7-be98-ca0106e9fc14",
+      "time": "2026-09-01T11:44:44.363Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Head of Environment",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/dbb12091-6cee-41b7-be98-ca0106e9fc14",
+      "time": "2026-09-01T11:44:44.373Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Model Performance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e",
+      "time": "2026-09-01T11:44:55.052Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Model Performance",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e",
+      "time": "2026-09-01T11:44:55.062Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Executive Assistant to CRO & Head of Strategic Sales",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/f9ccf52d-b45a-4890-828e-be8e6945deb3",
+      "time": "2026-09-01T11:45:00.121Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Executive Assistant to CRO & Head of Strategic Sales",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/f9ccf52d-b45a-4890-828e-be8e6945deb3",
+      "time": "2026-09-01T11:45:00.140Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (UK)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/ab7fa86c-657a-4231-9317-530454a48103",
+      "time": "2026-09-01T11:45:12.004Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (UK)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/ab7fa86c-657a-4231-9317-530454a48103",
+      "time": "2026-09-01T11:45:12.012Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/ddcc0431-7170-41da-816a-0520686558bc",
+      "time": "2026-09-01T11:45:12.027Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (East)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/ddcc0431-7170-41da-816a-0520686558bc",
+      "time": "2026-09-01T11:45:12.034Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/7c6d52c7-b886-4660-81d4-3390ad836bff",
+      "time": "2026-09-01T11:45:15.857Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (Central)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/7c6d52c7-b886-4660-81d4-3390ad836bff",
+      "time": "2026-09-01T11:45:15.864Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Director, solutions architecture",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/d5644b6a-7fdf-430d-9746-e798caca7753",
+      "time": "2026-09-01T11:45:16.246Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Director, solutions architecture",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/d5644b6a-7fdf-430d-9746-e798caca7753",
+      "time": "2026-09-01T11:45:16.254Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (West)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/0e06b0d0-e381-41f4-af66-4e98b8724ee1",
+      "time": "2026-09-01T11:45:37.075Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Enterprise AI transformation lead (West)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/0e06b0d0-e381-41f4-af66-4e98b8724ee1",
+      "time": "2026-09-01T11:45:37.083Z",
       "status": "submitted"
     }
   ],
