@@ -13398,5 +13398,173 @@
     "url": "https://job-boards.greenhouse.io/fivetran/jobs/7796447003",
     "time": "2026-09-01T20:06:08.200Z",
     "status": "submitted"
+  },
+  {
+    "company": "Toast",
+    "title": "Director, Enterprise Product Marketing",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/toast/jobs/8157665",
+    "time": "2026-09-01T20:31:54.823Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Datadog",
+    "title": "Director, Engineering - Digital Experience Monitoring",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/datadog/jobs/8050591",
+    "time": "2026-09-01T21:07:10.958Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Starburst",
+    "title": "Head of Engineering, AI Platform",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/starburst/jobs/4884854008",
+    "time": "2026-09-01T21:42:07.792Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Fivetran",
+    "title": "Customer Sales Director",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/fivetran/jobs/7796453003",
+    "time": "2026-09-01T21:42:48.609Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Fivetran",
+    "title": "Director, GTM Strategy & Planning",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/fivetran/jobs/7801100003",
+    "time": "2026-09-01T21:42:54.731Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Fivetran",
+    "title": "Majors Sales Director (Bay Area)",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/fivetran/jobs/7787891003",
+    "time": "2026-09-01T21:43:52.933Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Fivetran",
+    "title": "Regional Director, Enterprise",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/fivetran/jobs/7708796003",
+    "time": "2026-09-01T21:44:22.050Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Newrelic",
+    "title": "Creative Director, Visual Design",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5356631008",
+    "time": "2026-09-01T21:48:21.494Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Newrelic",
+    "title": "Director, Competitive Intelligence",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5386803008",
+    "time": "2026-09-01T21:48:33.911Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Newrelic",
+    "title": "Senior Technical Program Manager",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5396449008",
+    "time": "2026-09-01T21:48:57.254Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Chime",
+    "title": "Chief of Staff, Head of Legal Ops",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/chime/jobs/8656772002",
+    "time": "2026-09-01T21:49:21.161Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Chime",
+    "title": "Director, Associate General Counsel, Privacy, Cybersecurity, and AI",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/chime/jobs/8531775002",
+    "time": "2026-09-01T21:49:43.347Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Chime",
+    "title": "Director Engineering",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/chime/jobs/8681193002",
+    "time": "2026-09-01T21:49:55.655Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Chime",
+    "title": "Director of Growth and Acquisition",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/chime/jobs/8746273002",
+    "time": "2026-09-01T21:50:08.112Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Chime",
+    "title": "Senior Director, Strategy and Growth Initiatives",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/chime/jobs/8529549002",
+    "time": "2026-09-01T21:50:41.993Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Head of Deal Strategy, EMEA",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/openai/35f81bda-a500-4d0c-96ff-1ba3fa24714f",
+    "time": "2026-09-01T21:51:51.823Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Head of Deal Strategy, EMEA",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/openai/35f81bda-a500-4d0c-96ff-1ba3fa24714f",
+    "time": "2026-09-01T21:51:51.847Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Technical Program Manager, Foundations Data and Operations",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/openai/c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f",
+    "time": "2026-09-01T21:51:54.066Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Technical Program Manager, Foundations Data and Operations",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/openai/c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f",
+    "time": "2026-09-01T21:51:54.078Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Infrastructure Sourcing Operations Lead",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/openai/00f7eaa5-315d-44bd-9c11-047ee53f2b0d",
+    "time": "2026-09-01T21:51:54.091Z",
+    "status": "submitted"
+  },
+  {
+    "company": "Openai",
+    "title": "Infrastructure Sourcing Operations Lead",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/openai/00f7eaa5-315d-44bd-9c11-047ee53f2b0d",
+    "time": "2026-09-01T21:51:54.102Z",
+    "status": "submitted"
   }
 ]
