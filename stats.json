@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1699,
-  "applicationsSubmitted": 849,
+  "jobsScanned": 1705,
+  "applicationsSubmitted": 859,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -6680,6 +6680,86 @@
       "portal": "greenhouse",
       "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6161066004",
       "time": "2026-09-01T15:06:08.704Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Communications, APAC",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/7684149",
+      "time": "2026-09-01T15:08:45.889Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Strategic Risk Programs, New Markets",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8076108",
+      "time": "2026-09-01T15:09:26.451Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Director, Technical Program Management-Monetization",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7838848",
+      "time": "2026-09-01T15:38:04.174Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Reddit",
+      "title": "Staff Technical Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8049762",
+      "time": "2026-09-01T15:38:18.886Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Associate Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8733655002",
+      "time": "2026-09-01T15:40:29.382Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Operations Manager, AV Depot",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8693571002",
+      "time": "2026-09-01T15:40:43.599Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pagerduty",
+      "title": "Head of Content Marketing (Contract)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6139056004",
+      "time": "2026-09-01T15:41:11.999Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Zoominfo",
+      "title": "Regional Sales Director, Enterprise",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8614778002",
+      "time": "2026-09-01T15:41:56.381Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Zoominfo",
+      "title": "Regional Sales Director, Enterprise",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8614778002",
+      "time": "2026-09-01T15:41:56.395Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Braze",
+      "title": "Senior Partner Account Director - Technology Partnerships - AWS",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8145911",
+      "time": "2026-09-01T15:43:57.696Z",
       "status": "submitted"
     }
   ],
