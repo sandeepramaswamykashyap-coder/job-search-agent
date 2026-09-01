@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1670,
-  "applicationsSubmitted": 302,
+  "applicationsSubmitted": 304,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -2304,6 +2304,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/openai/a7f4ec2e-e93f-4f81-892a-cd8381f347fe",
       "time": "2026-09-01T11:34:16.558Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager - IT Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c37587c4-39f3-40e0-b73c-c8bb55a7cd05",
+      "time": "2026-09-01T11:34:25.718Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager - IT Operations",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c37587c4-39f3-40e0-b73c-c8bb55a7cd05",
+      "time": "2026-09-01T11:34:25.731Z",
       "status": "submitted"
     }
   ],
