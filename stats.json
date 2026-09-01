@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1658,
-  "applicationsSubmitted": 137,
+  "applicationsSubmitted": 199,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -984,6 +984,502 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/instacart/jobs/8168294",
       "time": "2026-09-01T10:20:27.498Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gusto",
+      "title": "Brokerage Operations Leader",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7586222",
+      "time": "2026-09-01T10:21:55.467Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gusto",
+      "title": "Benefits Operations Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7899871",
+      "time": "2026-09-01T10:21:55.547Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gusto",
+      "title": "Head of AI and Machine Learning Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7948318",
+      "time": "2026-09-01T10:22:20.119Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gusto",
+      "title": "Head of Engineering, AI Platform",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8104201",
+      "time": "2026-09-01T10:22:44.060Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gusto",
+      "title": "Head of Sales Data Science & Analytics",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7283301",
+      "time": "2026-09-01T10:22:44.345Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Alliance Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8688836002",
+      "time": "2026-09-01T10:23:59.119Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Alliance RVP, Boston Consulting Group (BCG)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8632401002",
+      "time": "2026-09-01T10:24:00.467Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Alliance RVP, McKinsey",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8632403002",
+      "time": "2026-09-01T10:24:28.416Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Alliance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8688832002",
+      "time": "2026-09-01T10:24:45.537Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Enterprise",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8603672002",
+      "time": "2026-09-01T10:25:01.738Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Field Engineering (CPG & Retail)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8693320002",
+      "time": "2026-09-01T10:26:06.828Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Global Delivery Excellence",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8644002002",
+      "time": "2026-09-01T10:26:11.623Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gusto",
+      "title": "Head of Design, Unified Service Platform",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8020155",
+      "time": "2026-09-01T10:27:13.320Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Lakebase Sales Specialist",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569624002",
+      "time": "2026-09-01T10:27:13.382Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Lakebase Sales Specialists - HLS",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569606002",
+      "time": "2026-09-01T10:28:13.605Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Strategic Accounts - Logistics & Tech, m/f/d",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8403550002",
+      "time": "2026-09-01T10:30:08.843Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Ventures Partner Portfolio",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8614926002",
+      "time": "2026-09-01T10:30:22.392Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Enterprise Sales Director,  Utilities & Telco",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8394014002",
+      "time": "2026-09-01T10:31:00.219Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Web Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8638642002",
+      "time": "2026-09-01T10:31:06.504Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Head of Corporate Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/7293607002",
+      "time": "2026-09-01T10:31:48.139Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lakebase Associate Director - Retail",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569436002",
+      "time": "2026-09-01T10:31:56.023Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Head of Marketing - Japan",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8493722002",
+      "time": "2026-09-01T10:31:56.560Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lakebase Associate Director, Healthcare & Life Sciences",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569461002",
+      "time": "2026-09-01T10:32:33.852Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lakebase Associate Director- Financial Services",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8571578002",
+      "time": "2026-09-01T10:32:37.102Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lakebase Associate Director Specialist-MFG",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569506002",
+      "time": "2026-09-01T10:32:42.226Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Principal Product Marketing Manager, AI Governance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8493724002",
+      "time": "2026-09-01T10:33:45.081Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Principal Product Marketing Manager, AI Governance",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8493724002",
+      "time": "2026-09-01T10:33:45.090Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lakebase Sales Specialist, Director (Germany)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569518002",
+      "time": "2026-09-01T10:34:03.851Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Principal AI Research Scientist, Research Director - AI Scaling",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8557780002",
+      "time": "2026-09-01T10:34:25.326Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Principal AI Research Scientist, Research Director - AI Scaling",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8557780002",
+      "time": "2026-09-01T10:34:25.333Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Field Technical Program Manager, FDE - DNB",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8583037002",
+      "time": "2026-09-01T10:36:07.612Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Director, Alliance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8688840002",
+      "time": "2026-09-01T10:36:13.383Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Field Technical Program Manager, FDE",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8586857002",
+      "time": "2026-09-01T10:36:59.344Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Director, Procure to Pay",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8632399002",
+      "time": "2026-09-01T10:37:11.250Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Staff Software Engineer - Unity Catalog Data Governance",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/7993609002",
+      "time": "2026-09-01T10:37:22.582Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Product Manager, Data Governance",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/7863522002",
+      "time": "2026-09-01T10:37:32.507Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Technology Partner Director - AI Code-Gen & Apps",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8731212002",
+      "time": "2026-09-01T10:39:41.908Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Technology Partner Director, Business Applications",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8606459002",
+      "time": "2026-09-01T10:40:12.717Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Commercial Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8059382",
+      "time": "2026-09-01T10:40:31.755Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Postman",
+      "title": "Head of Financial Services, Americas",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/postman/jobs/7660765003",
+      "time": "2026-09-01T10:41:06.656Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Area Vice President, Sales Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7762722",
+      "time": "2026-09-01T10:41:26.599Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Postman",
+      "title": "Key Account Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/postman/jobs/7766503003",
+      "time": "2026-09-01T10:41:53.240Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Engineering - Cloud Observability",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8069508",
+      "time": "2026-09-01T10:41:56.889Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Enterprise Sales Engineering - US East",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8136512",
+      "time": "2026-09-01T10:42:42.749Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Technical Program Management - Technical Solutions Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8010585",
+      "time": "2026-09-01T10:42:57.479Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Product Management - AI Observability",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7798672",
+      "time": "2026-09-01T10:43:04.693Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Product Management - Platforms",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7583609",
+      "time": "2026-09-01T10:43:30.940Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Technical Account Management",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7658810",
+      "time": "2026-09-01T10:43:47.864Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Security Channels (North America)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7984985",
+      "time": "2026-09-01T10:44:06.457Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Head of Enterprise Sales, Japan",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7730200",
+      "time": "2026-09-01T10:44:48.269Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Head of Enterprise Sales, Japan",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7730200",
+      "time": "2026-09-01T10:44:48.278Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Head of Global Executive Support",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8137139",
+      "time": "2026-09-01T10:45:27.238Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Head of Executive Search, Business Recruiting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7961311",
+      "time": "2026-09-01T10:45:41.556Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Director, Growth Marketing - Organic Growth (SEO/GEO/PLG)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8036385",
+      "time": "2026-09-01T10:46:31.075Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Enablement Program Manager, Technical Solutions",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8148092",
+      "time": "2026-09-01T10:46:53.249Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Partner Program Manager - Strategic Initiatives",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7977339",
+      "time": "2026-09-01T10:47:09.488Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Director, Business Planning & Central Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8686781002",
+      "time": "2026-09-01T10:47:28.572Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Director, Strategic Finance (Global Growth)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8628962002",
+      "time": "2026-09-01T10:48:19.130Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Finance Business Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8574940002",
+      "time": "2026-09-01T10:48:55.478Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Director, People - M&A",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8625444002",
+      "time": "2026-09-01T10:49:20.552Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Fleet Operations Lead (Swing)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8631603002",
+      "time": "2026-09-01T10:50:12.410Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Finance Transformation Specialist",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8630916002",
+      "time": "2026-09-01T10:50:23.437Z",
       "status": "submitted"
     }
   ],
