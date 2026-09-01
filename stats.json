@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 716,
+  "applicationsSubmitted": 718,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -5616,6 +5616,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/prefect/09479bfc-0f2e-424e-8d00-19f5610de142",
       "time": "2026-09-01T12:33:04.657Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director of Sales, New Logo",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/1647a4bf-f7fd-4c7f-9135-953d022c03ad",
+      "time": "2026-09-01T12:33:07.436Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director of Sales, New Logo",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/1647a4bf-f7fd-4c7f-9135-953d022c03ad",
+      "time": "2026-09-01T12:33:07.445Z",
       "status": "submitted"
     }
   ],
