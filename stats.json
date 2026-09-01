@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 612,
+  "applicationsSubmitted": 632,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -4784,6 +4784,166 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/cognition/d5f631ec-e387-4850-9377-81e8a46f66d5",
       "time": "2026-09-01T12:26:04.375Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dust",
+      "title": "Creative Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/f60f148d-54ce-4352-a247-9c2571cafa85",
+      "time": "2026-09-01T12:26:19.456Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dust",
+      "title": "Creative Director",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/dust/f60f148d-54ce-4352-a247-9c2571cafa85",
+      "time": "2026-09-01T12:26:19.500Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - LATAM",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/c7b6cd6d-994e-449d-aabe-32740d9fd968",
+      "time": "2026-09-01T12:26:20.708Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - LATAM",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/c7b6cd6d-994e-449d-aabe-32740d9fd968",
+      "time": "2026-09-01T12:26:20.719Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "People Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a751b58c-1d1b-48c6-96b4-c668100a9787",
+      "time": "2026-09-01T12:26:23.422Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "People Operations Lead",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a751b58c-1d1b-48c6-96b4-c668100a9787",
+      "time": "2026-09-01T12:26:23.430Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - ANZ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/392b0b95-26e6-4fb8-841f-97e528acd711",
+      "time": "2026-09-01T12:26:35.932Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - ANZ",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/392b0b95-26e6-4fb8-841f-97e528acd711",
+      "time": "2026-09-01T12:26:35.943Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Payroll Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/d2f6813a-9a17-40be-84aa-df17201e4367",
+      "time": "2026-09-01T12:26:37.980Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Payroll Operations Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/d2f6813a-9a17-40be-84aa-df17201e4367",
+      "time": "2026-09-01T12:26:37.989Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Strategic AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/cf66a198-f0f6-4405-88a7-554bdd14b3b5",
+      "time": "2026-09-01T12:27:50.538Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Strategic AI transformation lead (Central)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/cf66a198-f0f6-4405-88a7-554bdd14b3b5",
+      "time": "2026-09-01T12:27:50.549Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/7d9d5a1f-3834-434e-b22f-4bd62317be3c",
+      "time": "2026-09-01T12:28:06.948Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Infrastructure",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/7d9d5a1f-3834-434e-b22f-4bd62317be3c",
+      "time": "2026-09-01T12:28:06.962Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "VP, customer success (EMEA)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/e08289c1-a9dc-4bbb-8230-589136115a19",
+      "time": "2026-09-01T12:28:07.379Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "VP, customer success (EMEA)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/e08289c1-a9dc-4bbb-8230-589136115a19",
+      "time": "2026-09-01T12:28:07.387Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Marketing Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/43b6c299-d5df-4cf4-a816-142ba3014a9d",
+      "time": "2026-09-01T12:28:12.999Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Baseten",
+      "title": "Marketing Operations Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/43b6c299-d5df-4cf4-a816-142ba3014a9d",
+      "time": "2026-09-01T12:28:13.008Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Strategic AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/ee584c39-d803-4536-8de7-a1b9872f46f6",
+      "time": "2026-09-01T12:28:22.487Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Writer",
+      "title": "Strategic AI transformation lead (East)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/writer/ee584c39-d803-4536-8de7-a1b9872f46f6",
+      "time": "2026-09-01T12:28:22.501Z",
       "status": "submitted"
     }
   ],
