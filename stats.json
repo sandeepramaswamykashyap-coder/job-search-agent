@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1711,
-  "applicationsSubmitted": 895,
+  "applicationsSubmitted": 906,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -7048,6 +7048,94 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/oaknorth/a928f2aa-b1ed-4656-a3ca-79a8294e5764",
       "time": "2026-09-01T15:49:01.607Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Business Operations Project Manager - Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0e0f2eaa-e8a9-477e-9f8f-bfa2aa20e3bd",
+      "time": "2026-09-01T15:49:11.666Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Business Operations Project Manager - Marketing",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0e0f2eaa-e8a9-477e-9f8f-bfa2aa20e3bd",
+      "time": "2026-09-01T15:49:11.680Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "Head of Detection and Response",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/ea30ff3f-327b-4030-9283-3d4763a84820",
+      "time": "2026-09-01T15:49:13.209Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "Head of Detection and Response",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/ea30ff3f-327b-4030-9283-3d4763a84820",
+      "time": "2026-09-01T15:49:13.233Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Zapier",
+      "title": "Director, Engineering, Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/zapier/76142710-4f88-486a-aa4a-3814023e1651",
+      "time": "2026-09-01T15:49:21.591Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Zapier",
+      "title": "Director, Engineering, Enterprise",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/zapier/76142710-4f88-486a-aa4a-3814023e1651",
+      "time": "2026-09-01T15:49:21.602Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Vice President, Global Corporate Controller",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/e015924f-bbf4-4401-97c3-56a179cf498e",
+      "time": "2026-09-01T15:49:31.544Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Temporal",
+      "title": "Vice President, Global Corporate Controller",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/e015924f-bbf4-4401-97c3-56a179cf498e",
+      "time": "2026-09-01T15:49:31.556Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Regional Vice President - FINS",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/26bb4763-6dc7-441d-95e0-f2cc5d5b5742",
+      "time": "2026-09-01T15:49:31.787Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Regional Vice President - FINS",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/26bb4763-6dc7-441d-95e0-f2cc5d5b5742",
+      "time": "2026-09-01T15:49:31.795Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Technical Program Manager,  Growth",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/7778643",
+      "time": "2026-09-01T15:56:07.067Z",
       "status": "submitted"
     }
   ],
