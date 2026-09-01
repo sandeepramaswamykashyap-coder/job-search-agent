@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 676,
+  "applicationsSubmitted": 678,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -5296,6 +5296,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/plaid/3aa943a7-5982-4449-9fc4-397540043fd2",
       "time": "2026-09-01T12:31:02.867Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "Head of Support",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/4c9bf6fe-47f1-4683-89cc-137f90ff307b",
+      "time": "2026-09-01T12:31:05.310Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Plaid",
+      "title": "Head of Support",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/4c9bf6fe-47f1-4683-89cc-137f90ff307b",
+      "time": "2026-09-01T12:31:05.318Z",
       "status": "submitted"
     }
   ],
