@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1733,
-  "applicationsSubmitted": 958,
+  "jobsScanned": 1738,
+  "applicationsSubmitted": 975,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -7552,6 +7552,142 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/pinterest/jobs/7648650",
       "time": "2026-09-01T19:31:42.680Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Corporate Development",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d",
+      "time": "2026-09-01T19:36:05.883Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Corporate Development",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d",
+      "time": "2026-09-01T19:36:05.901Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gusto",
+      "title": "Head of Brokerage Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7586222",
+      "time": "2026-09-01T19:43:10.164Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Enterprise Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7773320",
+      "time": "2026-09-01T19:54:37.593Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, GTM Enablement Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8137579",
+      "time": "2026-09-01T19:55:50.178Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pagerduty",
+      "title": "Sales Strategy and Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5835317004",
+      "time": "2026-09-01T20:01:03.478Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Zoominfo",
+      "title": "Senior Director, Software Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8581886002",
+      "time": "2026-09-01T20:01:45.753Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Braze",
+      "title": "Sales Director, Latam",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8157434",
+      "time": "2026-09-01T20:02:03.824Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Zoominfo",
+      "title": "Principal Product Manager, Agentic Orchestration",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8477033002",
+      "time": "2026-09-01T20:02:06.341Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Braze",
+      "title": "Sales Director, South Korea",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8158102",
+      "time": "2026-09-01T20:02:20.257Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Samsara",
+      "title": "GTM Business Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsara/jobs/7942733",
+      "time": "2026-09-01T20:03:22.046Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Samsara",
+      "title": "Director, Field Sales Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsara/jobs/7695309",
+      "time": "2026-09-01T20:03:34.482Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Qualtrics",
+      "title": "Head of Public Relations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/qualtrics/jobs/8130359",
+      "time": "2026-09-01T20:05:09.695Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Qualtrics",
+      "title": "Head of Security Platforms",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/qualtrics/jobs/8055667",
+      "time": "2026-09-01T20:05:24.367Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Starburst",
+      "title": "VP, Professional Services",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/starburst/jobs/5375098008",
+      "time": "2026-09-01T20:05:49.469Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Workato",
+      "title": "Staff Product Manager (Enterprise & AI Governance)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8116160002",
+      "time": "2026-09-01T20:05:56.054Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Commercial Sales Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7796447003",
+      "time": "2026-09-01T20:06:08.200Z",
       "status": "submitted"
     }
   ],
