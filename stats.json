@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1676,
-  "applicationsSubmitted": 592,
+  "applicationsSubmitted": 600,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -4624,6 +4624,70 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/cognition/2f6d29d9-1e3e-43a6-8b92-8ca5a1b23ede",
       "time": "2026-09-01T12:25:09.365Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Chief of Staff - Canada",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/33c501d9-f0d7-45b9-a90c-07c9c0b92f55",
+      "time": "2026-09-01T12:25:12.120Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Chief of Staff - Canada",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/33c501d9-f0d7-45b9-a90c-07c9c0b92f55",
+      "time": "2026-09-01T12:25:12.131Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/be59ef70-1b34-4af5-a831-da964a6d3869",
+      "time": "2026-09-01T12:25:24.107Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - APAC",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/be59ef70-1b34-4af5-a831-da964a6d3869",
+      "time": "2026-09-01T12:25:24.118Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of LATAM Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/913f64e2-c621-4739-9446-7d523b8d4e43",
+      "time": "2026-09-01T12:25:30.538Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of LATAM Marketing",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/913f64e2-c621-4739-9446-7d523b8d4e43",
+      "time": "2026-09-01T12:25:30.549Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Vice President of Sales - South Korea",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/77e0ec33-5709-447d-ad64-8f210dd47b97",
+      "time": "2026-09-01T12:25:40.935Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Vice President of Sales - South Korea",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/77e0ec33-5709-447d-ad64-8f210dd47b97",
+      "time": "2026-09-01T12:25:40.947Z",
       "status": "submitted"
     }
   ],
