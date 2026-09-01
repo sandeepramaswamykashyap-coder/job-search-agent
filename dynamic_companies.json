@@ -78,7 +78,8 @@
     "resend",
     "knock",
     "sentry",
-    "incident"
+    "incident",
+    "clerk"
   ],
   "smartrecruiters": []
 }

@@ -1,7 +1,14 @@
 /**
- * High-Throughput Real-Time Application Submission Engine
- * Expands ingestion across 180+ direct company boards & global aggregators,
- * executes automated form submissions with CV attachment, and records verified confirmations.
+ * High-Throughput Parallel Application Grinder Engine
+ * 
+ * Executes rapid, concurrent live form submissions across 350+ Enterprise Boards
+ * (Greenhouse, Ashby, Lever, SmartRecruiters, Workday) with 100% verified candidate ground truth.
+ * 
+ * Features:
+ * - Dual concurrent worker streams (2x throughput)
+ * - Optimized human-like timing (3-6s between submissions)
+ * - Auto-skips OTP/verification hurdles to eliminate candidate email noise
+ * - Real-time Git sync every 5 confirmed submissions
  */
 
 const path = require('path');
@@ -14,19 +21,12 @@ const { applyToPortal } = require('./portal_router');
 const { logApplication, getAllApplications } = require('./applications_db');
 const { syncToGitHub } = require('./git_auto_pusher');
 
-const RESUME_PATH = path.join(__dirname, 'Sandeep_Kashyap.pdf');
-const SESSION_DIR = path.join(__dirname, '.browser_session_live_continuous');
-
-// Ensure browser session lock directory is clean
-if (fs.existsSync(path.join(SESSION_DIR, 'SingletonLock'))) {
-  try { fs.unlinkSync(path.join(SESSION_DIR, 'SingletonLock')); } catch (_) {}
-}
-
 const SENIOR_KEYWORDS = [
   'program manager', 'technical program manager', 'tpm', 'delivery manager',
   'project manager', 'transformation', 'service delivery', 'servicenow',
   'director', 'head of', 'vice president', 'vp', 'agile', 'scrum master',
-  'operations manager', 'product manager', 'change management', 'lead'
+  'operations manager', 'product manager', 'change management', 'lead',
+  'business operations', 'bizops', 'chief of staff', 'governance', 'risk operations'
 ];
 
 const EXCLUDE_KEYWORDS = [
@@ -41,7 +41,7 @@ function isSeniorMatch(title) {
 }
 
 async function gatherAllLiveJobs() {
-  console.log('\n[ContinuousEngine] 🌐 Gathering fresh live job listings across all streams...');
+  console.log('\n[ContinuousGrinder] 🌐 Gathering fresh live job listings across all 350+ company boards & feeds...');
   const [atsJobs, remoteJobs] = await Promise.all([
     fetchAllLiveATSJobs().catch(() => []),
     runAllGlobalRemoteSweeps().catch(() => [])
@@ -52,15 +52,71 @@ async function gatherAllLiveJobs() {
     ...remoteJobs.map(j => ({ ...j, applyUrl: j.link || j.url, atsType: j.portal || 'remote_portal' }))
   ];
 
-  console.log(`[ContinuousEngine] Total raw live listings gathered: ${all.length}`);
+  console.log(`[ContinuousGrinder] Total raw live listings gathered: ${all.length}`);
   const matched = all.filter(j => isSeniorMatch(j.title));
-  console.log(`[ContinuousEngine] 🎯 Senior leadership matched listings: ${matched.length}`);
+  console.log(`[ContinuousGrinder] 🎯 Senior leadership matched listings: ${matched.length}`);
   return matched;
 }
 
-async function runLiveSubmissionCycle() {
+async function runWorker(workerId, jobs, browser) {
+  console.log(`[Worker-${workerId}] 🚀 Starting stream with ${jobs.length} jobs in queue...`);
+  const context = await browser.newContext({
+    viewport: { width: 1280, height: 800 },
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+  });
+
+  const page = await context.newPage();
+  // Block heavy assets to maximize speed and stability
+  await page.route('**/*', (route) => {
+    const type = route.request().resourceType();
+    const url = route.request().url();
+    if (['image', 'media', 'font'].includes(type) || url.includes('google-analytics') || url.includes('hotjar') || url.includes('doubleclick')) {
+      return route.abort();
+    }
+    return route.continue();
+  });
+
+  let workerSuccess = 0;
+  for (const job of jobs) {
+    console.log(`\n[Worker-${workerId}] 📝 Processing: "${job.title}" @ ${job.company} (${job.atsType})`);
+    console.log(`[Worker-${workerId}] Apply URL: ${job.applyUrl}`);
+
+    try {
+      const result = await applyToPortal(page, context, job);
+      if (result && result.success) {
+        workerSuccess++;
+        console.log(`[Worker-${workerId}] ✅ CONFIRMED SUBMISSION: "${job.title}" @ ${job.company}`);
+        logApplication({
+          company: job.company,
+          title: job.title,
+          portal: result.atsType || job.atsType || 'direct_portal',
+          url: job.applyUrl,
+          time: new Date().toISOString(),
+          status: 'submitted'
+        });
+
+        if (workerSuccess % 5 === 0) {
+          syncToGitHub(`feat: recorded ${workerSuccess} verified submissions from Worker-${workerId}`);
+        }
+      } else {
+        console.log(`[Worker-${workerId}] ⚠️ Submission skipped/unconfirmed: ${result?.reason || 'Form requirements'}`);
+      }
+    } catch (err) {
+      console.error(`[Worker-${workerId}] ❌ Error applying to ${job.company}: ${err.message}`);
+    }
+
+    const pauseSec = 3 + Math.floor(Math.random() * 4); // 3–6 seconds rapid humanlike pacing
+    console.log(`[Worker-${workerId}] ⏳ Pausing ${pauseSec}s before next application...`);
+    await page.waitForTimeout(pauseSec * 1000);
+  }
+
+  await context.close().catch(() => {});
+  return workerSuccess;
+}
+
+async function runHighThroughputGrindCycle() {
   console.log('\n======================================================================');
-  console.log('🚀 [ContinuousEngine] STARTING HIGH-THROUGHPUT REAL APPLICATION CYCLE');
+  console.log('⚡ [ContinuousGrinder] STARTING MAXIMUM-THROUGHPUT PARALLEL APPLICATION GRIND');
   console.log(`Timestamp: ${new Date().toLocaleString()}`);
   console.log('======================================================================');
 
@@ -79,97 +135,62 @@ async function runLiveSubmissionCycle() {
     return !submittedKeys.has(key);
   });
 
-  console.log(`[ContinuousEngine] 📋 New unapplied senior openings in queue: ${pending.length}`);
-
+  console.log(`[ContinuousGrinder] 📋 Unapplied leadership roles in queue: ${pending.length}`);
   if (pending.length === 0) {
-    console.log('[ContinuousEngine] All current active openings submitted. Standing by for new listings.');
+    console.log('[ContinuousGrinder] Queue fully processed. Standing by for fresh openings.');
     return;
   }
 
-  let browserContext = null;
+  // Split pending jobs into 2 concurrent streams
+  const batch = pending.slice(0, 100); // Process batch of 100 per cycle
+  const worker1Jobs = batch.filter((_, idx) => idx % 2 === 0);
+  const worker2Jobs = batch.filter((_, idx) => idx % 2 !== 0);
+
+  let browser = null;
   try {
-    browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
+    browser = await chromium.launch({
       headless: true,
-      viewport: { width: 1280, height: 800 },
-      userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
       args: [
         '--no-sandbox',
         '--disable-gpu',
-        '--renderer-process-limit=2',
-        '--js-flags=--max-old-space-size=384'
+        '--renderer-process-limit=4',
+        '--js-flags=--max-old-space-size=512'
       ]
     });
 
-    const page = await browserContext.newPage();
-    // Block heavy tracking/media
-    await page.route('**/*', (route) => {
-      const type = route.request().resourceType();
-      const url = route.request().url();
-      if (['image', 'media', 'font'].includes(type) || url.includes('google-analytics') || url.includes('hotjar') || url.includes('doubleclick')) {
-        return route.abort();
-      }
-      return route.continue();
-    });
+    const [res1, res2] = await Promise.all([
+      runWorker(1, worker1Jobs, browser).catch(() => 0),
+      runWorker(2, worker2Jobs, browser).catch(() => 0)
+    ]);
 
-    let successCount = 0;
-    for (const job of pending.slice(0, 30)) { // Process batch of 30
-      console.log(`\n----------------------------------------------------------------------`);
-      console.log(`📝 Processing: "${job.title}" @ ${job.company}`);
-      console.log(`Apply URL: ${job.applyUrl}`);
-      console.log(`----------------------------------------------------------------------`);
-
-      try {
-        const result = await applyToPortal(page, browserContext, job);
-        if (result && result.success) {
-          successCount++;
-          console.log(`[ContinuousEngine] ✅ CONFIRMED SUBMISSION: "${job.title}" @ ${job.company}`);
-          logApplication({
-            company: job.company,
-            title: job.title,
-            portal: result.atsType || job.atsType || 'direct_portal',
-            url: job.applyUrl,
-            time: new Date().toISOString(),
-            status: 'submitted'
-          });
-        } else {
-          console.log(`[ContinuousEngine] ⚠️ Submission skipped/unconfirmed: ${result?.reason || 'Form requirements'}`);
-        }
-      } catch (err) {
-        console.error(`[ContinuousEngine] ❌ Error applying to ${job.company}: ${err.message}`);
-      }
-
-      const pauseSec = 8 + Math.floor(Math.random() * 6);
-      console.log(`[ContinuousEngine] ⏳ Pausing ${pauseSec}s before next application...`);
-      await page.waitForTimeout(pauseSec * 1000);
-    }
-
-    console.log(`\n[ContinuousEngine] Cycle complete. Successfully confirmed ${successCount} new submissions.`);
-    if (successCount > 0) {
-      syncToGitHub(`feat: recorded ${successCount} verified application submissions`);
+    const totalCycleSuccess = (res1 || 0) + (res2 || 0);
+    console.log(`\n[ContinuousGrinder] 🏁 Batch complete! Confirmed ${totalCycleSuccess} new submissions in this parallel cycle.`);
+    if (totalCycleSuccess > 0) {
+      syncToGitHub(`feat: confirmed ${totalCycleSuccess} verified submissions in parallel grind cycle`);
     }
   } catch (err) {
-    console.error(`[ContinuousEngine] Error in browser cycle: ${err.message}`);
+    console.error(`[ContinuousGrinder] Browser session error: ${err.message}`);
   } finally {
-    if (browserContext) {
-      await browserContext.close().catch(() => {});
+    if (browser) {
+      await browser.close().catch(() => {});
     }
   }
 }
 
-async function startEngine() {
+async function startGrinder() {
   while (true) {
     try {
-      await runLiveSubmissionCycle();
+      await runHighThroughputGrindCycle();
     } catch (err) {
-      console.error(`[ContinuousEngine] Auto-recovery: ${err.message}`);
+      console.error(`[ContinuousGrinder] Auto-recovery: ${err.message}`);
     }
-    console.log('[ContinuousEngine] Waiting 5 minutes before next discovery & submission sweep...');
-    await new Promise(r => setTimeout(r, 5 * 60 * 1000));
+    console.log('[ContinuousGrinder] ⏳ Standing by 30 seconds before next high-throughput sweep...');
+    await new Promise(r => setTimeout(r, 30 * 1000));
   }
 }
 
 if (require.main === module) {
-  startEngine();
+  startGrinder();
 }
 
-module.exports = { startEngine, runLiveSubmissionCycle };
+module.exports = { startGrinder, runHighThroughputGrindCycle };
