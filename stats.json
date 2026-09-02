@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1803,
-  "applicationsSubmitted": 1060,
+  "applicationsSubmitted": 1067,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8368,6 +8368,62 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/payoneer/jobs/8097567",
       "time": "2026-09-02T04:09:00.360Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Director, Sales Partners & Agency - Greater China Region",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8016669",
+      "time": "2026-09-02T04:16:01.682Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Starburst",
+      "title": "Sr Director, Pipeline Strategy & Analytics",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/starburst/jobs/5384527008",
+      "time": "2026-09-02T04:17:49.580Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Workato",
+      "title": "Regional Vice President - Sales, ANZ",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8598428002",
+      "time": "2026-09-02T04:17:58.129Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Braze",
+      "title": "Sales Director, Enterprise, ANZ",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8131728",
+      "time": "2026-09-02T04:18:09.856Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Director Workplace Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7978897003",
+      "time": "2026-09-02T04:18:24.274Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Staff Technical Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7859686003",
+      "time": "2026-09-02T04:19:10.622Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Vice President, Investor Relations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7810397003",
+      "time": "2026-09-02T04:19:23.992Z",
       "status": "submitted"
     }
   ],
