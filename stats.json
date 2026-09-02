@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1753,
-  "applicationsSubmitted": 996,
+  "jobsScanned": 1768,
+  "applicationsSubmitted": 1004,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -7856,6 +7856,70 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/openai/00f7eaa5-315d-44bd-9c11-047ee53f2b0d",
       "time": "2026-09-01T21:51:54.102Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Zoominfo",
+      "title": "Head of Data Partnership",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8738006002",
+      "time": "2026-09-01T22:57:11.814Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Campaign Strategy & Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/7584016",
+      "time": "2026-09-01T23:34:09.742Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Marketing, Southeast Asia",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8059299",
+      "time": "2026-09-01T23:35:48.759Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Figma",
+      "title": "Director, Solutions Consulting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/5820284004",
+      "time": "2026-09-01T23:43:54.424Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Director, UK Enterprise Sales (Multi-Vertical)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8094012",
+      "time": "2026-09-02T00:01:33.569Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Director of Engineering, Core & Ads Serving Platform",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8035163",
+      "time": "2026-09-02T00:01:49.895Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sales Strategy & Operations Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8120416",
+      "time": "2026-09-02T00:02:40.804Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Lyft",
+      "title": "Director of Product, Customer Care",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8735399002",
+      "time": "2026-09-02T00:04:11.249Z",
       "status": "submitted"
     }
   ],
