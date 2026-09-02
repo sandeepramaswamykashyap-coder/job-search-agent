@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1833,
-  "applicationsSubmitted": 144,
+  "jobsScanned": 1838,
+  "applicationsSubmitted": 1103,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8648,6 +8648,70 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/sofi/jobs/7921209003",
       "time": "2026-09-02T07:37:38.186Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Senior Staff Technical Program Manager,  Data Governance & Privacy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7805063003",
+      "time": "2026-09-02T08:10:21.005Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Independent Risk Management Director, Investment Products",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7805243003",
+      "time": "2026-09-02T08:10:21.297Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Director, Strategic Finance - SoFi Checking & Savings and Credit Card",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7861161003",
+      "time": "2026-09-02T08:10:25.027Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Senior Marketing Project Manager, Direct Mail",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7822112003",
+      "time": "2026-09-02T08:10:25.834Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Brand Director, Social Strategy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7753104003",
+      "time": "2026-09-02T08:42:44.495Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Director, People Business Partner (Global Operations)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7776895003",
+      "time": "2026-09-02T08:42:50.250Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Director of Digital Employee Experience",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7930079003",
+      "time": "2026-09-02T08:43:05.006Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sofi",
+      "title": "Director of Corporate Infrastructure",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7833122003",
+      "time": "2026-09-02T08:43:14.911Z",
       "status": "submitted"
     }
   ],
