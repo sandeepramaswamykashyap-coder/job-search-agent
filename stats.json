@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1798,
-  "applicationsSubmitted": 1045,
+  "applicationsSubmitted": 1047,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8248,6 +8248,22 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/databricks/jobs/8569610002",
       "time": "2026-09-02T03:37:23.193Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Datadog",
+      "title": "Regional Director - Enterprise Sales (Saudi Arabia)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7338847",
+      "time": "2026-09-02T03:43:06.817Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Director, UK Enterprise Sales (Retail)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7479359",
+      "time": "2026-09-02T03:43:47.703Z",
       "status": "submitted"
     }
   ],
