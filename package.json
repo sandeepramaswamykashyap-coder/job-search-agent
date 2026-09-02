@@ -5,6 +5,8 @@
   "main": "scheduler.js",
   "scripts": {
     "start": "node scheduler.js",
+    "resume": "node resume.js",
+    "resume:silent": "node resume.js --silent",
     "test-run": "node agent.js --dry-run",
     "apply-now": "node run-now.js",
     "watch": "node watch-live.js",
