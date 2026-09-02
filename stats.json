@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1803,
-  "applicationsSubmitted": 107,
+  "applicationsSubmitted": 1059,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8352,6 +8352,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/fivetran/jobs/7787897003",
       "time": "2026-09-02T03:49:13.022Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Payoneer",
+      "title": "Customer Success Strategy & Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8087774",
+      "time": "2026-09-02T04:04:31.348Z",
       "status": "submitted"
     }
   ],
