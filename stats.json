@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1798,
-  "applicationsSubmitted": 84,
+  "applicationsSubmitted": 1041,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8168,6 +8168,54 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/neo4j/jobs/4706206006",
       "time": "2026-09-02T03:12:28.448Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Enterprise Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8720906002",
+      "time": "2026-09-02T03:35:05.007Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Americas Field Marketing at Databricks",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8636157002",
+      "time": "2026-09-02T03:35:26.662Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Field Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8397552002",
+      "time": "2026-09-02T03:35:27.891Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569514002",
+      "time": "2026-09-02T03:35:46.604Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569514002",
+      "time": "2026-09-02T03:35:46.672Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Head of EMEA Financial Services GTM",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8501026002",
+      "time": "2026-09-02T03:35:47.003Z",
       "status": "submitted"
     }
   ],
