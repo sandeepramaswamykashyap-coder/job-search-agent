@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1863,
-  "applicationsSubmitted": 165,
+  "jobsScanned": 1868,
+  "applicationsSubmitted": 1119,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8816,6 +8816,30 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/cribl/jobs/6020459004",
       "time": "2026-09-02T10:54:03.137Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Director, Credit - Trading Businesses",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/3b6d7a53-905b-4e91-8f7a-33213b3273fb",
+      "time": "2026-09-02T11:34:12.649Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Director, Credit - Trading Businesses",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/3b6d7a53-905b-4e91-8f7a-33213b3273fb",
+      "time": "2026-09-02T11:34:12.661Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Enterprise Commerce Architect, Strategy & Transformation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8139711",
+      "time": "2026-09-02T11:35:04.212Z",
       "status": "submitted"
     }
   ],
