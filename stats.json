@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1818,
-  "applicationsSubmitted": 136,
+  "jobsScanned": 1828,
+  "applicationsSubmitted": 141,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8584,6 +8584,46 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8083280",
       "time": "2026-09-02T05:56:27.557Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Monzo",
+      "title": "Payment Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8094175",
+      "time": "2026-09-02T06:28:19.052Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Monzo",
+      "title": "People Governance and Accountability Senior Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7904498",
+      "time": "2026-09-02T06:29:26.652Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Mercury",
+      "title": "Senior Manager - Data & AI Governance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6142625004",
+      "time": "2026-09-02T07:00:50.340Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Monzo",
+      "title": "Director of Executive and Board Hiring",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8074179",
+      "time": "2026-09-02T07:02:11.003Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Monzo",
+      "title": "FinCrime and Fraud Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8076898",
+      "time": "2026-09-02T07:02:25.203Z",
       "status": "submitted"
     }
   ],
