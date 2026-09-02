@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1808,
-  "applicationsSubmitted": 125,
+  "applicationsSubmitted": 1077,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8496,6 +8496,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/chime/jobs/8726050002",
       "time": "2026-09-02T04:22:51.890Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director of Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/7896551002",
+      "time": "2026-09-02T04:42:08.428Z",
       "status": "submitted"
     }
   ],
