@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1853,
-  "applicationsSubmitted": 1115,
+  "jobsScanned": 1863,
+  "applicationsSubmitted": 165,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8808,6 +8808,14 @@
       "portal": "greenhouse",
       "url": "https://job-boards.greenhouse.io/ripple/jobs/7913402",
       "time": "2026-09-02T10:25:40.094Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cribl",
+      "title": "Senior Technical Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cribl/jobs/6020459004",
+      "time": "2026-09-02T10:54:03.137Z",
       "status": "submitted"
     }
   ],
