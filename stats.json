@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1868,
-  "applicationsSubmitted": 1124,
+  "jobsScanned": 1878,
+  "applicationsSubmitted": 1125,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8880,6 +8880,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6130879004",
       "time": "2026-09-02T12:02:27.696Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategy & Transformation Advisor (Enterprise Commerce Architecture)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8139711",
+      "time": "2026-09-02T12:45:06.977Z",
       "status": "submitted"
     }
   ],
