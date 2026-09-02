@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1798,
-  "applicationsSubmitted": 1047,
+  "applicationsSubmitted": 1056,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8264,6 +8264,78 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/pinterest/jobs/7479359",
       "time": "2026-09-02T03:43:47.703Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Head of Business Marketing, Australia",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8154435",
+      "time": "2026-09-02T03:44:32.597Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Braze",
+      "title": "Director, Business Development JAPAC",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8130911",
+      "time": "2026-09-02T03:45:56.977Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Pagerduty",
+      "title": "Corporate Strategy Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831906004",
+      "time": "2026-09-02T03:46:02.344Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Braze",
+      "title": "Sales Director, Enterprise",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/7984582",
+      "time": "2026-09-02T03:46:10.837Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Workato",
+      "title": "Professional Services Practice Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8702977002",
+      "time": "2026-09-02T03:46:48.479Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Workato",
+      "title": "Delivery Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8659462002",
+      "time": "2026-09-02T03:46:53.006Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Workato",
+      "title": "Senior Video Content Director - Workato Creative + Video Team",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8633626002",
+      "time": "2026-09-02T03:47:36.036Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Workato",
+      "title": "Sales Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8644259002",
+      "time": "2026-09-02T03:47:39.112Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Workato",
+      "title": "Staff Product Manager (Build Experience - Agentic)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8326092002",
+      "time": "2026-09-02T03:47:42.580Z",
       "status": "submitted"
     }
   ],
