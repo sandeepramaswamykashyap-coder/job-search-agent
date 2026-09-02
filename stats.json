@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1903,
-  "applicationsSubmitted": 193,
+  "jobsScanned": 1913,
+  "applicationsSubmitted": 1161,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9040,6 +9040,142 @@
       "portal": "naukri",
       "url": "https://www.naukri.com/job-listings-ibm-maximo-architect-capgemini-technology-services-india-limited-bengaluru-9-to-14-years-020926927861?src=directSearch&sid=17883607044606433&xp=7&px=1",
       "time": "2026-09-02T14:52:41.333Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Braze",
+      "title": "Sales Director, Commercial",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8130222",
+      "time": "2026-09-02T15:56:01.552Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Payoneer",
+      "title": "Chief of Staff, GTM China",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/7699130",
+      "time": "2026-09-02T16:24:43.905Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Director - AEP",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7893791003",
+      "time": "2026-09-02T16:30:22.079Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Director - Chevron",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7887053003",
+      "time": "2026-09-02T16:30:49.432Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Director - Financial Services",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7812863003",
+      "time": "2026-09-02T16:31:03.638Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Director - Cardinal Health",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7832845003",
+      "time": "2026-09-02T16:31:15.109Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Director - Life Sciences",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7790162003",
+      "time": "2026-09-02T16:31:39.252Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Customer Engagement Program Manager - Scale Team",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7823007003",
+      "time": "2026-09-02T16:32:26.288Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Value Partner (CVP) - Oil & Gas Industry",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7478077003",
+      "time": "2026-09-02T16:32:29.232Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7539033003",
+      "time": "2026-09-02T16:32:41.074Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Value Partner (CVP) - Financial Services Industry",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7614485003",
+      "time": "2026-09-02T16:32:53.262Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Director - Strategy Consulting Partnerships North America",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7773585003",
+      "time": "2026-09-02T16:33:16.235Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Director, Value Engineering - Financial Services",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7507911003",
+      "time": "2026-09-02T16:33:25.736Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (TPM, Inference)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+      "time": "2026-09-02T16:35:00.208Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (TPM, Inference)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+      "time": "2026-09-02T16:35:00.242Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Creative Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/678d1162-e650-4d6d-9532-b287255c00fb",
+      "time": "2026-09-02T16:35:00.268Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Creative Operations Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/678d1162-e650-4d6d-9532-b287255c00fb",
+      "time": "2026-09-02T16:35:00.287Z",
       "status": "submitted"
     }
   ],
