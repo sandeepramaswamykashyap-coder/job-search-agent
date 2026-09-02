@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1808,
-  "applicationsSubmitted": 1077,
+  "applicationsSubmitted": 1080,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8504,6 +8504,30 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/databricks/jobs/7896551002",
       "time": "2026-09-02T04:42:08.428Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Technical Program Manager, Security",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7894565003",
+      "time": "2026-09-02T04:51:39.696Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Senior Revenue Operations Manager, Global Commercial Expansion",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7786001003",
+      "time": "2026-09-02T04:51:45.896Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Robinhood",
+      "title": "Chief of Staff, Brokerage Product",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/robinhood/jobs/7839130",
+      "time": "2026-09-02T04:54:47.526Z",
       "status": "submitted"
     }
   ],
