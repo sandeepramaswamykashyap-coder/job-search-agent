@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 2003,
-  "applicationsSubmitted": 60,
+  "jobsScanned": 2013,
+  "applicationsSubmitted": 1241,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9688,6 +9688,134 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7826212003",
       "time": "2026-09-03T06:46:28.900Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7817273003",
+      "time": "2026-09-03T07:18:37.143Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Strategic Solutions Director - Oracle",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7832752003",
+      "time": "2026-09-03T07:19:22.891Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Director, Professional Services",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7741095003",
+      "time": "2026-09-03T07:19:24.257Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7825969003",
+      "time": "2026-09-03T07:19:32.847Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Stripe",
+      "title": "Credit Risk Operations Associate",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8104748",
+      "time": "2026-09-03T07:23:41.720Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Lead Project Manager (Swedish speaker)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7781625003",
+      "time": "2026-09-03T07:52:07.295Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Transformation Engineer - Oracle",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7978327003",
+      "time": "2026-09-03T07:52:19.763Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dataiku",
+      "title": "Head of Design",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6146009004",
+      "time": "2026-09-03T07:52:58.350Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Dataiku",
+      "title": "RVP, Northeast",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6149800004",
+      "time": "2026-09-03T07:52:59.219Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "AI & Machine Learning Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7820677003",
+      "time": "2026-09-03T07:53:39.477Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Okta",
+      "title": "Area Sales Director, Strategic",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8020585",
+      "time": "2026-09-03T07:59:29.480Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Okta",
+      "title": "Area Sales Director, Strategic Sales ( California)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8119188",
+      "time": "2026-09-03T08:00:47.509Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Okta",
+      "title": "Area Vice President, Strategic Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/7774234",
+      "time": "2026-09-03T08:02:07.286Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Okta",
+      "title": "Brand Art Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/7821640",
+      "time": "2026-09-03T08:03:29.170Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Okta",
+      "title": "Chief of Staff to the CPO",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8068504",
+      "time": "2026-09-03T08:04:50.309Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Commercial Strategy & Buying Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8031522",
+      "time": "2026-09-03T08:08:38.099Z",
       "status": "submitted"
     }
   ],
