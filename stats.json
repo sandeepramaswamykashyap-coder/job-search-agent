@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1975,
-  "applicationsSubmitted": 1148,
+  "applicationsSubmitted": 1150,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9072,6 +9072,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/openai/7e62a05e-2e43-4b95-bde7-34efa8d82c5f",
       "time": "2026-09-03T21:31:39.898Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Applied Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
+      "time": "2026-09-03T21:36:37.507Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Applied Infrastructure",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
+      "time": "2026-09-03T21:36:37.552Z",
       "status": "submitted"
     }
   ],
