@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1818,
-  "applicationsSubmitted": 1,
+  "applicationsSubmitted": 1092,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8556,15 +8556,79 @@
     },
     {
       "company": "Alixpartners",
-      "title": "Executive Recruiting Director – EMEA",
+      "title": "Corporate Finance & Capital Advisory - VP",
       "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7831717003",
-      "time": "2026-09-03T09:01:05.387Z",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7813740003",
+      "time": "2026-09-03T09:32:56.302Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Governance Risk and Compliance - Vice President (Risk/Compliance)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7676569003",
+      "time": "2026-09-03T09:33:15.251Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Investigations, Compliance & Privacy - Sr. Vice President,  CPA",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7929792003",
+      "time": "2026-09-03T09:33:33.020Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Head of Office Management & Executive Assistant (m/w/d)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7746698003",
+      "time": "2026-09-03T09:33:48.334Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Investigations, Compliance & Privacy - Vice President, CPA",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7928959003",
+      "time": "2026-09-03T09:34:41.776Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Management Berater:in - Einkauf / Procurement Transformation (m/w/d)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7592367003",
+      "time": "2026-09-03T10:05:52.519Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Performance Advisory - Senior Vice President",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7562440003",
+      "time": "2026-09-03T10:06:28.513Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Performance Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7820644003",
+      "time": "2026-09-03T10:06:39.926Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Performance - Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7589631003",
+      "time": "2026-09-03T10:06:41.317Z",
       "status": "submitted"
     }
   ],
   "failures": [],
-  "lastCVUploadDate": "Wed Sep 02 2026",
+  "lastCVUploadDate": "Thu Sep 03 2026",
   "date": "Thu Sep 03 2026",
   "remoteJobs": [
     {
