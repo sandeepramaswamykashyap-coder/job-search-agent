@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1938,
-  "applicationsSubmitted": 1,
+  "jobsScanned": 1948,
+  "applicationsSubmitted": 2,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9216,6 +9216,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003",
       "time": "2026-09-02T19:01:39.423Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Monzo",
+      "title": "Engineering Director, EU",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8025854",
+      "time": "2026-09-02T20:21:26.577Z",
       "status": "submitted"
     }
   ],
