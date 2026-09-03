@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1983,
-  "applicationsSubmitted": 44,
+  "jobsScanned": 1993,
+  "applicationsSubmitted": 47,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9560,6 +9560,30 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8112140",
       "time": "2026-09-03T04:32:41.840Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Ripple",
+      "title": "VP, Corporate Development",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/7622906",
+      "time": "2026-09-03T05:05:10.308Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Customer Success Program Manager - Scale Team",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7823005003",
+      "time": "2026-09-03T05:38:02.189Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Enterprise Architect Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7681584003",
+      "time": "2026-09-03T05:39:36.888Z",
       "status": "submitted"
     }
   ],
