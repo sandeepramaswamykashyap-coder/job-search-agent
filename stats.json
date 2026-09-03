@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1978,
-  "applicationsSubmitted": 40,
+  "jobsScanned": 1983,
+  "applicationsSubmitted": 44,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9528,6 +9528,38 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7820049003",
       "time": "2026-09-03T03:58:30.735Z",
+      "status": "submitted"
+    },
+    {
+      "company": "HCLTech",
+      "title": "Principle Solution Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-principle-solution-architect-hcltech-bengaluru-10-to-16-years-250826019268",
+      "time": "2026-09-03T04:11:40.324Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Ripple",
+      "title": "Principal Technical Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/7904761",
+      "time": "2026-09-03T04:29:57.980Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7820050003",
+      "time": "2026-09-03T04:32:03.802Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Post-Award Governance Specialist",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8112140",
+      "time": "2026-09-03T04:32:41.840Z",
       "status": "submitted"
     }
   ],
