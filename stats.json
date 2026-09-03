@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1993,
-  "applicationsSubmitted": 47,
+  "applicationsSubmitted": 1220,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9584,6 +9584,70 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7681584003",
       "time": "2026-09-03T05:39:36.888Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Senior Program Manager / Associate Program Director | Agile | Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-program-manager-associate-program-director-agile-delivery-happiest-minds-technologies-bengaluru-15-to-24-years-260826020371",
+      "time": "2026-09-03T06:09:46.061Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Ripple",
+      "title": "Senior Legal Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/7729832",
+      "time": "2026-09-03T06:10:35.500Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Head of Ecosystem",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7827636003",
+      "time": "2026-09-03T06:11:21.676Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "GTM Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7827537003",
+      "time": "2026-09-03T06:11:33.442Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Head of Industry - Manufacturing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/6048490003",
+      "time": "2026-09-03T06:11:45.541Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Head of Value Engineering - Nordics",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7683737003",
+      "time": "2026-09-03T06:12:13.978Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Celonis",
+      "title": "Head of Industry - Retail & CPG",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/6313860003",
+      "time": "2026-09-03T06:12:14.025Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Gilbarco Veeder Root",
+      "title": "Head Of Data & AI",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-data-ai-gilbarco-veeder-root-bengaluru-10-to-15-years-030926010772?src=directSearch&sid=17884159325462212&xp=1&px=1",
+      "time": "2026-09-03T06:12:27.446Z",
       "status": "submitted"
     }
   ],
