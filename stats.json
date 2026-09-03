@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1813,
-  "applicationsSubmitted": 132,
+  "jobsScanned": 1818,
+  "applicationsSubmitted": 1,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8552,6 +8552,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871",
       "time": "2026-09-02T04:56:06.175Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Executive Recruiting Director – EMEA",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7831717003",
+      "time": "2026-09-03T09:01:05.387Z",
       "status": "submitted"
     }
   ],
