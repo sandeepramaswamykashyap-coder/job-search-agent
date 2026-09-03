@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1828,
-  "applicationsSubmitted": 23,
+  "applicationsSubmitted": 1107,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8736,6 +8736,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/databricks/jobs/8578155002",
       "time": "2026-09-03T10:29:42.721Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Sunovaa Tech",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-sunovaa-tech-bengaluru-6-to-11-years-260826014696?src=directSearch&sid=17884335707062388&xp=6&px=1",
+      "time": "2026-09-03T11:07:02.957Z",
       "status": "submitted"
     }
   ],
