@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1915,
-  "applicationsSubmitted": 52,
+  "applicationsSubmitted": 1145,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8968,6 +8968,86 @@
       "portal": "greenhouse",
       "url": "https://job-boards.greenhouse.io/databricks/jobs/8403550002",
       "time": "2026-09-03T16:32:44.598Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Payoneer",
+      "title": "FX Operations Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/7978654",
+      "time": "2026-09-03T17:58:22.405Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Payoneer",
+      "title": "Global GTM & Sales Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8131892",
+      "time": "2026-09-03T17:58:27.498Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Payoneer",
+      "title": "Director of AI-Native Engineer",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8104985",
+      "time": "2026-09-03T17:58:27.862Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Payoneer",
+      "title": "Program Manager, Stablecoin and PAYO Digital Bank",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8019869",
+      "time": "2026-09-03T17:58:58.883Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Chime",
+      "title": "Creative Director, Brand, Social & Partnerships",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/chime/jobs/8782303002",
+      "time": "2026-09-03T18:00:26.833Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Tanium",
+      "title": "Director of Strategic Accounts - Bay Area",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8097828",
+      "time": "2026-09-03T18:01:46.364Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Tanium",
+      "title": "Director of Strategic Accounts - Local Governments (East Japan)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8113437",
+      "time": "2026-09-03T18:02:02.265Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Tanium",
+      "title": "Director of Strategic Accounts",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8024995",
+      "time": "2026-09-03T18:02:06.806Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Tanium",
+      "title": "Senior Director, Global Sales Enablement",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8158150",
+      "time": "2026-09-03T18:02:53.715Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Tanium",
+      "title": "Director of R&D and Strategic Finance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8114980",
+      "time": "2026-09-03T18:02:56.096Z",
       "status": "submitted"
     }
   ],
