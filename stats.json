@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1940,
-  "applicationsSubmitted": 0,
+  "applicationsSubmitted": 1146,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9048,6 +9048,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8114980",
       "time": "2026-09-03T18:02:56.096Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Leading ITES Company",
+      "title": "Practice Lead : Capital Markets Operations & Transformation : Apply",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-practice-lead-capital-markets-operations-transformation-apply-outpace-consulting-services-kolkata-chennai-bengaluru-15-to-20-years-030926030453?src=directSearch&sid=17884638983776216&xp=8&px=1",
+      "time": "2026-09-03T19:33:01.387Z",
       "status": "submitted"
     }
   ],
