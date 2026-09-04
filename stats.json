@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2088,
-  "applicationsSubmitted": 0,
+  "applicationsSubmitted": 1085,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8552,6 +8552,22 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871",
       "time": "2026-09-02T04:56:06.175Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Infrastructure Systems & Tooling",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d",
+      "time": "2026-09-04T19:25:43.151Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Infrastructure Systems & Tooling",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d",
+      "time": "2026-09-04T19:25:43.168Z",
       "status": "submitted"
     }
   ],
