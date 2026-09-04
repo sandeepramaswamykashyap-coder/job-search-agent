@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2165,
-  "applicationsSubmitted": 1175,
+  "applicationsSubmitted": 1176,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9288,6 +9288,14 @@
       "portal": "direct_portal_ashby",
       "url": "https://jobs.ashbyhq.com/ramp/dba53e68-4c96-449d-af4d-27dc475b814c",
       "time": "2026-09-04T07:00:09.846Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Engineering - Internal AI Transformation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7",
+      "time": "2026-09-04T07:00:41.007Z",
       "status": "submitted"
     }
   ],
