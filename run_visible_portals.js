@@ -265,9 +265,10 @@ async function main() {
   console.log(`Time: ${new Date().toLocaleString()}`);
   console.log('======================================================================\n');
 
+  const isHeaded = process.argv.includes('--headed');
   const browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
-    headless: false, // VISIBLE TO USER
-    slowMo: 120,    // Human-like deliberate pacing so you can visually watch
+    headless: !isHeaded, // Default to headless (minimized/silent background)
+    slowMo: isHeaded ? 120 : 0,
     viewport: { width: 1280, height: 850 },
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
     args: [
