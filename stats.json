@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2080,
-  "applicationsSubmitted": 13,
+  "applicationsSubmitted": 1159,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9152,6 +9152,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/okta/jobs/8103111",
       "time": "2026-09-04T02:58:13.159Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer, AI Agentic Experience (Auth0)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/7306066",
+      "time": "2026-09-04T03:02:52.403Z",
       "status": "submitted"
     }
   ],
