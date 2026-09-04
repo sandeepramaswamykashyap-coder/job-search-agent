@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2165,
-  "applicationsSubmitted": 1165,
+  "applicationsSubmitted": 1167,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -9208,6 +9208,22 @@
       "portal": "direct_portal_ashby",
       "url": "https://jobs.ashbyhq.com/openai/d2e1f1e6-e1dd-4dc3-9a8d-73bce0114a28",
       "time": "2026-09-04T06:54:53.923Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "GTM Strategy & Operations, India & South East Asia",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/a38926a6-a514-4ee0-bfe1-408922a2790c",
+      "time": "2026-09-04T06:55:24.083Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Sales Strategy & Operations - Central",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2881fcec-3ab8-480c-813f-14769dcbf963",
+      "time": "2026-09-04T06:55:53.593Z",
       "status": "submitted"
     }
   ],
