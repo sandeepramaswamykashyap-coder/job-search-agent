@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1818,
-  "applicationsSubmitted": 0,
+  "jobsScanned": 1813,
+  "applicationsSubmitted": 132,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8556,7 +8556,7 @@
     }
   ],
   "failures": [],
-  "lastCVUploadDate": "Thu Sep 03 2026",
+  "lastCVUploadDate": "Fri Sep 04 2026",
   "date": "Fri Sep 04 2026",
   "remoteJobs": [
     {
