@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 2313,
-  "applicationsSubmitted": 4,
+  "jobsScanned": 2319,
+  "applicationsSubmitted": 5,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8585,6 +8585,13 @@
       "url": "https://jobs.ashbyhq.com/openai/669e43f3-4236-41ab-be78-d6fb9179fee4",
       "time": "2026-09-04T20:19:25.727Z",
       "status": "submitted"
+    },
+    {
+      "company": "Discord",
+      "title": "Advertising Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
+      "time": "2026-09-05T07:43:16.381Z"
     }
   ],
   "failures": [],
@@ -9206,6 +9213,14 @@
       "region": "Worldwide",
       "portal": "dailyremote",
       "scannedAt": "2026-08-26T09:45:08.649Z"
+    },
+    {
+      "title": "Advertising Operations Manager",
+      "company": "Discord",
+      "link": "https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-09-05T07:43:16.381Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z"
