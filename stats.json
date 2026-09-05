@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2511,
-  "applicationsSubmitted": 22,
+  "applicationsSubmitted": 1109,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8727,6 +8727,38 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7718401003",
       "time": "2026-09-05T11:04:24.844Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Director, Software Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/4b737fe7-4d9d-4999-8eea-a049235c7346",
+      "time": "2026-09-05T15:18:43.386Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Director, Software Engineering",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/4b737fe7-4d9d-4999-8eea-a049235c7346",
+      "time": "2026-09-05T15:18:43.399Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Director, Demand Generation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/b17b5c04-0901-49b4-8106-aef56e10abe0",
+      "time": "2026-09-05T15:18:44.428Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Uipath",
+      "title": "Director, Demand Generation",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/b17b5c04-0901-49b4-8106-aef56e10abe0",
+      "time": "2026-09-05T15:18:44.444Z",
       "status": "submitted"
     }
   ],
