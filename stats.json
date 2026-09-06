@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 2565,
-  "applicationsSubmitted": 27,
+  "jobsScanned": 2579,
+  "applicationsSubmitted": 1,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8768,6 +8768,13 @@
       "url": "https://job-boards.greenhouse.io/stripe/jobs/8172111",
       "time": "2026-09-05T17:18:24.647Z",
       "status": "submitted"
+    },
+    {
+      "company": "iMerit Technology",
+      "title": "AI Image Evaluation Analyst",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1837431/",
+      "time": "2026-09-06T12:46:13.570Z"
     }
   ],
   "failures": [],
@@ -9397,6 +9404,14 @@
       "region": "Worldwide",
       "portal": "weworkremotely",
       "scannedAt": "2026-09-05T07:43:16.381Z"
+    },
+    {
+      "title": "AI Image Evaluation Analyst",
+      "company": "iMerit Technology",
+      "link": "https://www.workingnomads.com/job/go/1837431/",
+      "region": "Japan, Turkey, Vietnam, Mexico, Norway, France",
+      "portal": "workingnomads",
+      "scannedAt": "2026-09-06T12:46:13.569Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z"
