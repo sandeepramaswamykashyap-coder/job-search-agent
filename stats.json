@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 2692,
-  "applicationsSubmitted": 0,
+  "jobsScanned": 2700,
+  "applicationsSubmitted": 1,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8807,6 +8807,13 @@
       "url": "https://jobs.ashbyhq.com/baseten/28291849-b57f-4813-a7e0-66b1050b2d1b",
       "time": "2026-09-06T14:09:25.466Z",
       "status": "submitted"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1843242/",
+      "time": "2026-09-08T17:14:19.623Z"
     }
   ],
   "failures": [],
@@ -9444,6 +9451,14 @@
       "region": "Japan, Turkey, Vietnam, Mexico, Norway, France",
       "portal": "workingnomads",
       "scannedAt": "2026-09-06T12:46:13.569Z"
+    },
+    {
+      "title": "Senior QA Automation Engineer",
+      "company": "Proxify",
+      "link": "https://www.workingnomads.com/job/go/1843242/",
+      "region": "Time zone: CET (+/- 3 hours)",
+      "portal": "workingnomads",
+      "scannedAt": "2026-09-08T17:14:19.623Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z"
