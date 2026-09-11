@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2719,
-  "applicationsSubmitted": 1119,
+  "applicationsSubmitted": 1120,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8836,6 +8836,14 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/stripe/jobs/8172495",
       "time": "2026-09-11T13:05:27.789Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Figma",
+      "title": "Technical Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6179155004",
+      "time": "2026-09-11T16:08:24.500Z",
       "status": "submitted"
     }
   ],
