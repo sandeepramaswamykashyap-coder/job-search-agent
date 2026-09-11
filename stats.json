@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2719,
-  "applicationsSubmitted": 2,
+  "applicationsSubmitted": 1119,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8829,6 +8829,14 @@
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
       "time": "2026-09-10T06:00:50.152Z"
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Operations Program Manager, EMEA Events",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8172495",
+      "time": "2026-09-11T13:05:27.789Z",
+      "status": "submitted"
     }
   ],
   "failures": [],
