@@ -27,10 +27,10 @@ try {
 
 // 2. Kill old orphan processes
 try {
-  execSync('pkill -f "live_continuous_submission_engine.js" || true', { stdio: 'ignore' });
-  execSync('pkill -f "run_visible_portals.js" || true', { stdio: 'ignore' });
-  execSync('pkill -f "scheduler.js" || true', { stdio: 'ignore' });
-  execSync('pkill -f "inbox_auto_cleaner.js" || true', { stdio: 'ignore' });
+  execSync('pkill -9 -f "live_continuous_submission_engine.js" || true', { stdio: 'ignore' });
+  execSync('pkill -9 -f "run_visible_portals.js" || true', { stdio: 'ignore' });
+  execSync('pkill -9 -f "scheduler.js" || true', { stdio: 'ignore' });
+  execSync('pkill -9 -f "inbox_auto_cleaner.js" || true', { stdio: 'ignore' });
 } catch (_) {}
 
 // 3. Keep macOS awake
