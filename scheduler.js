@@ -59,13 +59,18 @@ function loadStats() {
 
 function saveStats() {
   try {
-    const now = new Date();
-    const utcTime = now.getTime() + (now.getTimezoneOffset() * 60000);
-    const istTime = new Date(utcTime + (3600000 * 5.5));
-    stats.date = istTime.toDateString();
-    fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2), 'utf8');
-  } catch (e) {
-    console.warn(`[Scheduler] Failed to save stats: ${e.message}`);
+    const { consolidateAllData } = require('./consolidate_data');
+    consolidateAllData();
+  } catch (_) {
+    try {
+      const now = new Date();
+      const utcTime = now.getTime() + (now.getTimezoneOffset() * 60000);
+      const istTime = new Date(utcTime + (3600000 * 5.5));
+      stats.date = istTime.toDateString();
+      fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2), 'utf8');
+    } catch (e) {
+      console.warn(`[Scheduler] Failed to save stats: ${e.message}`);
+    }
   }
 }
 
@@ -163,10 +168,28 @@ function scheduleNextRun() {
 }
 
 /**
- * Schedules the Bi-Daily Session Reports (8:00 AM IST & 8:00 PM IST)
+ * Persistent Report State Tracker to eliminate duplicate dispatches across restarts
  */
-let lastMorningReportDate = null;
-let lastEveningReportDate = null;
+const REPORT_STATE_FILE = path.join(__dirname, 'report_state.json');
+
+function getReportState() {
+  if (fs.existsSync(REPORT_STATE_FILE)) {
+    try {
+      return JSON.parse(fs.readFileSync(REPORT_STATE_FILE, 'utf8'));
+    } catch (_) {}
+  }
+  return { lastMorningReportDate: null, lastEveningReportDate: null, history: [] };
+}
+
+function updateReportState(type, dateStr) {
+  const state = getReportState();
+  if (type === 'morning') state.lastMorningReportDate = dateStr;
+  if (type === 'evening') state.lastEveningReportDate = dateStr;
+  state.history = state.history || [];
+  state.history.push({ type, date: dateStr, timestamp: new Date().toISOString() });
+  if (state.history.length > 30) state.history = state.history.slice(-30);
+  fs.writeFileSync(REPORT_STATE_FILE, JSON.stringify(state, null, 2), 'utf8');
+}
 
 function scheduleDailyReport() {
   setInterval(async () => {
@@ -176,30 +199,31 @@ function scheduleDailyReport() {
     const istTime = new Date(utcTime + (3600000 * 5.5));
     const todayStr = istTime.toDateString();
     const istHour = istTime.getHours();
+    const reportState = getReportState();
 
     // 1. Morning 8:00 AM IST Report (Overnight Session)
-    if (istHour >= 8 && istHour < 12 && lastMorningReportDate !== todayStr) {
+    if (istHour >= 8 && istHour < 12 && reportState.lastMorningReportDate !== todayStr) {
       log("⏰ Triggering 8:00 AM IST Executive Session Report (Overnight Window)...");
       try {
         await processOutreachQueue().catch(() => {});
         const { sendSessionReport } = require('./reporter');
         await sendSessionReport('morning');
         log("✅ 8:00 AM IST Morning Session Report dispatched successfully.");
-        lastMorningReportDate = todayStr;
+        updateReportState('morning', todayStr);
       } catch (err) {
         log(`Failed to dispatch 8 AM report: ${err.message}`);
       }
     }
 
     // 2. Evening 8:00 PM IST Report (Daytime Session)
-    if (istHour >= 20 && lastEveningReportDate !== todayStr) {
+    if (istHour >= 20 && reportState.lastEveningReportDate !== todayStr) {
       log("⏰ Triggering 8:00 PM IST Executive Session Report (Daytime Window)...");
       try {
         await processOutreachQueue().catch(() => {});
         const { sendSessionReport } = require('./reporter');
         await sendSessionReport('evening');
         log("✅ 8:00 PM IST Evening Session Report dispatched successfully.");
-        lastEveningReportDate = todayStr;
+        updateReportState('evening', todayStr);
       } catch (err) {
         log(`Failed to dispatch 8 PM report: ${err.message}`);
       }
