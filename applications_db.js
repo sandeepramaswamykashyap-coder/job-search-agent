@@ -50,22 +50,20 @@ function logApplication({ company, title, portal, url, time }) {
   records.push(entry);
   saveDb(records);
 
-  // Also mirror into stats.json for backward compat
+  // Synchronize stats.json and CSV exports
   try {
-    let stats = { jobsScanned: 0, applicationsSubmitted: 0, appliedRolesList: [], failures: [] };
-    if (fs.existsSync(STATS_FILE)) {
-      try { stats = JSON.parse(fs.readFileSync(STATS_FILE, 'utf8')); } catch (_) {}
-    }
-    if (!stats.appliedRolesList) stats.appliedRolesList = [];
-    const alreadyInStats = stats.appliedRolesList.some(r =>
-      `${r.portal}::${(r.company || '').trim()}::${(r.title || '').trim()}` === key
-    );
-    if (!alreadyInStats) {
-      stats.appliedRolesList.push(entry);
-      stats.applicationsSubmitted = stats.appliedRolesList.length;
-    }
-    fs.writeFileSync(STATS_FILE, JSON.stringify(stats, null, 2), 'utf8');
-  } catch (_) {}
+    const { consolidateAllData } = require('./consolidate_data');
+    consolidateAllData();
+  } catch (_) {
+    try {
+      let stats = { jobsScanned: 0, applicationsSubmitted: 0, appliedRolesList: [], failures: [] };
+      if (fs.existsSync(STATS_FILE)) {
+        try { stats = JSON.parse(fs.readFileSync(STATS_FILE, 'utf8')); } catch (_) {}
+      }
+      stats.applicationsSubmitted = records.length;
+      fs.writeFileSync(STATS_FILE, JSON.stringify(stats, null, 2), 'utf8');
+    } catch (e) {}
+  }
 
   console.log(`[DB] ✅ Logged: [${portal}] ${title} @ ${company}`);
   return entry;
