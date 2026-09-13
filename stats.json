@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1813,
-  "applicationsSubmitted": 0,
+  "applicationsSubmitted": 1085,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8552,6 +8552,22 @@
       "portal": "direct_portal_greenhouse",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871",
       "time": "2026-09-02T04:56:06.175Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of Partnerships, Digital Natives",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c717b98e-5394-4ad1-ae3f-e036717ad9b5",
+      "time": "2026-09-13T14:02:42.373Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of Partnerships, Digital Natives",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c717b98e-5394-4ad1-ae3f-e036717ad9b5",
+      "time": "2026-09-13T14:02:42.391Z",
       "status": "submitted"
     }
   ],
