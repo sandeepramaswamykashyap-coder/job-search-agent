@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1823,
-  "applicationsSubmitted": 40,
+  "applicationsSubmitted": 1125,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8869,6 +8869,22 @@
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1837431/",
       "time": "2026-09-13T14:09:56.183Z"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Manufacturing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
+      "time": "2026-09-13T14:12:16.912Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Manufacturing",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
+      "time": "2026-09-13T14:12:16.932Z",
+      "status": "submitted"
     }
   ],
   "failures": [
