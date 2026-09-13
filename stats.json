@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1813,
-  "applicationsSubmitted": 1107,
+  "applicationsSubmitted": 1109,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8744,6 +8744,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/ramp/fddcfe54-6fd2-4091-bf9c-346f35606cc9",
       "time": "2026-09-13T14:05:50.797Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/4e6fffef-bb23-4623-ad86-95b840dd51be",
+      "time": "2026-09-13T14:06:04.523Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Partnerships",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/4e6fffef-bb23-4623-ad86-95b840dd51be",
+      "time": "2026-09-13T14:06:04.535Z",
       "status": "submitted"
     }
   ],
