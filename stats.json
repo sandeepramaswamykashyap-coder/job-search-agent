@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1813,
-  "applicationsSubmitted": 1119,
+  "jobsScanned": 1823,
+  "applicationsSubmitted": 40,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8841,6 +8841,34 @@
       "url": "https://jobs.ashbyhq.com/cognition/5308cb82-896c-4f9a-86fd-1d65962ef118",
       "time": "2026-09-13T14:09:11.540Z",
       "status": "submitted"
+    },
+    {
+      "company": "Discord",
+      "title": "Advertising Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
+      "time": "2026-09-13T14:09:56.168Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-09-13T14:09:56.174Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1843242/",
+      "time": "2026-09-13T14:09:56.179Z"
+    },
+    {
+      "company": "iMerit Technology",
+      "title": "AI Image Evaluation Analyst",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1837431/",
+      "time": "2026-09-13T14:09:56.183Z"
     }
   ],
   "failures": [
@@ -9468,6 +9496,38 @@
       "region": "Worldwide",
       "portal": "dailyremote",
       "scannedAt": "2026-08-26T09:45:08.649Z"
+    },
+    {
+      "title": "Advertising Operations Manager",
+      "company": "Discord",
+      "link": "https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-09-13T14:09:56.168Z"
+    },
+    {
+      "title": "Graduate Analyst",
+      "company": "Renewable Careers",
+      "link": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "region": "London, ",
+      "portal": "remoteok",
+      "scannedAt": "2026-09-13T14:09:56.174Z"
+    },
+    {
+      "title": "Senior QA Automation Engineer",
+      "company": "Proxify",
+      "link": "https://www.workingnomads.com/job/go/1843242/",
+      "region": "Time zone: CET (+/- 3 hours)",
+      "portal": "workingnomads",
+      "scannedAt": "2026-09-13T14:09:56.179Z"
+    },
+    {
+      "title": "AI Image Evaluation Analyst",
+      "company": "iMerit Technology",
+      "link": "https://www.workingnomads.com/job/go/1837431/",
+      "region": "Japan, Turkey, Vietnam, Mexico, Norway, France",
+      "portal": "workingnomads",
+      "scannedAt": "2026-09-13T14:09:56.183Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z"
