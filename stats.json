@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1821,
-  "applicationsSubmitted": 2,
+  "jobsScanned": 1813,
+  "applicationsSubmitted": 0,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8553,20 +8553,6 @@
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871",
       "time": "2026-09-02T04:56:06.175Z",
       "status": "submitted"
-    },
-    {
-      "company": "Discord",
-      "title": "Advertising Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
-      "time": "2026-09-13T13:56:28.554Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-09-13T13:56:28.565Z"
     }
   ],
   "failures": [
@@ -8576,7 +8562,7 @@
       "error": "browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /Users/sandeepramaswamykashyap/.gemini/antigravity-ide/scratch/job-search-agent/.playwright-browsers/chromium_headless_shell-1223/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --disable-blink-features=AutomationControlled --no-sandbox --user-data-dir=/Users/sandeepramaswamykashyap/.gemini/antigravity-ide/scratch/job-search-agent/.browser_session --remote-debugging-pipe about:blank\n<launched> pid=26867\n[pid=26867][err] [0913/175908.745229:ERROR:base/power_monitor/thermal_state_observer_mac.mm:140] ThermalStateObserverMac unable to register to power notifications. Result: 9\n[pid=26867][err] [0913/175908.749657:ERROR:net/dns/dns_config_service_posix.cc:138] DNS config watch failed to start.\n[pid=26867][err] [0913/175908.750857:FATAL:base/apple/mach_port_rendezvous_mac.cc:159] Check failed: kr == KERN_SUCCESS. bootstrap_check_in org.chromium.Chromium.MachPortRendezvousServer.26867: unknown error code (141)\nCall log:\n  - <launching> /Users/sandeepramaswamykashyap/.gemini/antigravity-ide/scratch/job-search-agent/.playwright-browsers/chromium_headless_shell-1223/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --disable-blink-features=AutomationControlled --no-sandbox --user-data-dir=/Users/sandeepramaswamykashyap/.gemini/antigravity-ide/scratch/job-search-agent/.browser_session --remote-debugging-pipe about:blank\n  - <launched> pid=26867\n  - [pid=26867][err] [0913/175908.745229:ERROR:base/power_monitor/thermal_state_observer_mac.mm:140] ThermalStateObserverMac unable to register to power notifications. Result: 9\n  - [pid=26867][err] [0913/175908.749657:ERROR:net/dns/dns_config_service_posix.cc:138] DNS config watch failed to start.\n  - [pid=26867][err] [0913/175908.750857:FATAL:base/apple/mach_port_rendezvous_mac.cc:159] Check failed: kr == KERN_SUCCESS. bootstrap_check_in org.chromium.Chromium.MachPortRendezvousServer.26867: unknown error code (141)\n  - [pid=26867] <gracefully close start>\n  - [pid=26867] <kill>\n  - [pid=26867] <will force kill>\n  - [pid=26867] exception while trying to kill process: Error: kill EPERM\n  - [pid=26867] <process did exit: exitCode=null, signal=SIGTRAP>\n  - [pid=26867] starting temporary directories cleanup\n  - [pid=26867] finished temporary directories cleanup\n  - [pid=26867] <gracefully close end>\n"
     }
   ],
-  "lastCVUploadDate": "Fri Sep 04 2026",
+  "lastCVUploadDate": "Sun Sep 13 2026",
   "date": "Sun Sep 13 2026",
   "remoteJobs": [
     {
@@ -9194,22 +9180,6 @@
       "region": "Worldwide",
       "portal": "dailyremote",
       "scannedAt": "2026-08-26T09:45:08.649Z"
-    },
-    {
-      "title": "Advertising Operations Manager",
-      "company": "Discord",
-      "link": "https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
-      "region": "Worldwide",
-      "portal": "weworkremotely",
-      "scannedAt": "2026-09-13T13:56:28.554Z"
-    },
-    {
-      "title": "Graduate Analyst",
-      "company": "Renewable Careers",
-      "link": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "region": "London, ",
-      "portal": "remoteok",
-      "scannedAt": "2026-09-13T13:56:28.565Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z"
