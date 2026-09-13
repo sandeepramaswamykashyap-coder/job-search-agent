@@ -1,23 +1,7 @@
 {
   "jobsScanned": 2621,
-  "applicationsSubmitted": 2141,
+  "applicationsSubmitted": 2143,
   "appliedRolesList": [
-    {
-      "company": "Cohere",
-      "title": "Senior Director, Solutions Architecture, APAC",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
-      "time": "2026-09-01T17:22:06.732Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Senior Director, Solutions Architecture, APAC",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
-      "time": "2026-09-01T17:22:06.745Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Klaviyo",
       "title": "Director, Customer Success - Enterprise",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/openai/c0c70d7e-c450-4ca4-842a-dbc5e643c048",
       "time": "2026-09-13T14:18:35.265Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, AI Infrastructure Capacity Planning",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/a525ada4-b02d-425e-b529-f74bd0b398a5",
+      "time": "2026-09-13T14:47:04.425Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, AI Infrastructure Capacity Planning",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/a525ada4-b02d-425e-b529-f74bd0b398a5",
+      "time": "2026-09-13T14:47:04.581Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2141,
+  "totalVerifiedInHistory": 2143,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
@@ -4676,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 348,
-    "ashby": 334,
+    "direct_portal_ashby": 349,
+    "ashby": 335,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-13T14:41:01.477Z",
-  "lastUpdated": "13/9/2026, 8:11:01 pm"
+  "lastSyncedAt": "2026-09-13T14:47:04.599Z",
+  "lastUpdated": "13/9/2026, 8:17:04 pm"
 }
