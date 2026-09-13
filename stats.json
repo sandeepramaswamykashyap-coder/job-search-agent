@@ -1,6 +1,6 @@
 {
   "jobsScanned": 2621,
-  "applicationsSubmitted": 52,
+  "applicationsSubmitted": 2141,
   "appliedRolesList": [
     {
       "company": "Cohere",
@@ -4001,48 +4001,6 @@
       "url": "https://jobs.ashbyhq.com/openai/c0c70d7e-c450-4ca4-842a-dbc5e643c048",
       "time": "2026-09-13T14:18:35.265Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-13T14:23:26.162Z"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-13T14:23:26.167Z"
-    },
-    {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-13T14:23:26.171Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-13T14:23:26.175Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-13T14:23:26.178Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-13T14:23:26.181Z"
     }
   ],
   "failures": [
@@ -4722,6 +4680,6 @@
     "ashby": 334,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-13T14:22:45.164Z",
-  "lastUpdated": "13/9/2026, 7:52:45 pm"
+  "lastSyncedAt": "2026-09-13T14:38:52.729Z",
+  "lastUpdated": "13/9/2026, 8:08:52 pm"
 }
