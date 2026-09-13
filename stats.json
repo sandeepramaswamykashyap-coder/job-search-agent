@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1813,
-  "applicationsSubmitted": 1111,
+  "applicationsSubmitted": 1113,
   "appliedRolesList": [
     {
       "company": "Project Manager",
@@ -8776,6 +8776,22 @@
       "portal": "ashby",
       "url": "https://jobs.ashbyhq.com/sentry/4067f08e-5229-4af4-9028-a7c69d3791d0",
       "time": "2026-09-13T14:06:35.973Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Strategic Business Operations Lead, API",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c",
+      "time": "2026-09-13T14:07:07.140Z",
+      "status": "submitted"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Strategic Business Operations Lead, API",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c",
+      "time": "2026-09-13T14:07:07.155Z",
       "status": "submitted"
     }
   ],
