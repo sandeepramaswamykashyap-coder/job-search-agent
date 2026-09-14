@@ -1,23 +1,7 @@
 {
   "jobsScanned": 3551,
-  "applicationsSubmitted": 160,
+  "applicationsSubmitted": 2299,
   "appliedRolesList": [
-    {
-      "company": "Sofi",
-      "title": "Director, Strategic Finance - SoFi Checking & Savings and Credit Card",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7861161003",
-      "time": "2026-09-02T08:10:25.027Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Senior Marketing Project Manager, Direct Mail",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7822112003",
-      "time": "2026-09-02T08:10:25.834Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Sofi",
       "title": "Brand Director, Social Strategy",
@@ -4003,46 +3987,20 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T11:26:39.266Z"
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8154983",
+      "time": "2026-09-14T11:29:41.988Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T11:26:39.271Z"
-    },
-    {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T11:26:39.277Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T11:26:39.281Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T11:26:39.285Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T11:26:39.289Z"
+      "company": "Figma",
+      "title": "Senior Analyst, Revenue Transformation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6180170004",
+      "time": "2026-09-14T11:29:48.451Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2297,
+  "totalVerifiedInHistory": 2299,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1157,
+    "direct_portal_greenhouse": 1159,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:25:23.386Z",
-  "lastUpdated": "14/9/2026, 4:55:23 pm"
+  "lastSyncedAt": "2026-09-14T11:29:48.472Z",
+  "lastUpdated": "14/9/2026, 4:59:48 pm"
 }
