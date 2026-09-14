@@ -1,63 +1,7 @@
 {
   "jobsScanned": 3501,
-  "applicationsSubmitted": 2215,
+  "applicationsSubmitted": 2222,
   "appliedRolesList": [
-    {
-      "company": "Aveva",
-      "title": "Revenue Transformation Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-revenue-transformation-lead-aveva-solutions-india-llp-bengaluru-7-to-11-years-260826927687?src=directSearch&sid=17883112348105641&xp=5&px=1",
-      "time": "2026-09-02T01:08:04.795Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Rockwell Automation",
-      "title": "AI Transformation Leader",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-transformation-leader-rockwell-automation-bengaluru-5-to-10-years-020426506871?src=directSearch&sid=17883112348105641&xp=6&px=1",
-      "time": "2026-09-02T01:08:16.459Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Rarevs Consulting Solutions",
-      "title": "Director Of Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-of-operations-rarevs-consulting-solutions-bengaluru-4-to-9-years-170826014682?src=directSearch&sid=17883113004048459&xp=1&px=1",
-      "time": "2026-09-02T01:08:33.208Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Opteamix",
-      "title": "Director",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-opteamix-bengaluru-12-to-15-years-200826021130?src=directSearch&sid=17883113004048459&xp=3&px=1",
-      "time": "2026-09-02T01:08:51.145Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Benovymed Healthcare Private Limited",
-      "title": "Founding Leadership Member/Director/Sr Consultant -  Medical Operation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-founding-leadership-member-director-sr-consultant-medical-operation-benovymed-healthcare-private-limited-bengaluru-5-to-10-years-050826928262?src=directSearch&sid=17883113004048459&xp=4&px=1",
-      "time": "2026-09-02T01:09:04.645Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "AI Immersive Production_Creative Director Q227",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-immersive-production-creative-director-q227-infosys-limited-bengaluru-12-to-20-years-050826935257?src=directSearch&sid=17883113004048459&xp=7&px=1",
-      "time": "2026-09-02T01:09:28.671Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Director, Professional Services, EMEA",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7746935003",
-      "time": "2026-09-02T01:16:11.105Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Databricks",
       "title": "Sr. Alliance Director",
@@ -4001,6 +3945,62 @@
       "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8046286",
       "time": "2026-09-14T10:10:49.016Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Engineering Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7703009003",
+      "time": "2026-09-14T10:11:37.012Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Director of Engineering, Billing Platform",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8152825",
+      "time": "2026-09-14T10:11:42.788Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Fastly",
+      "title": "Director, APJ Field Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fastly/jobs/7916520",
+      "time": "2026-09-14T10:13:23.586Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Design Operations Program Manager - Agentic Design",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8194325",
+      "time": "2026-09-14T10:15:03.511Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "VP, AI Marketing Strategy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8072839",
+      "time": "2026-09-14T10:15:10.666Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Corporate Counsel - Privacy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8050798",
+      "time": "2026-09-14T10:15:10.999Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Director Channel and Alliances - Emerging Markets",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8176095",
+      "time": "2026-09-14T10:15:18.037Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2215,
+  "totalVerifiedInHistory": 2222,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1075,
+    "direct_portal_greenhouse": 1082,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:10:49.035Z",
-  "lastUpdated": "14/9/2026, 3:40:49 pm"
+  "lastSyncedAt": "2026-09-14T10:15:18.056Z",
+  "lastUpdated": "14/9/2026, 3:45:18 pm"
 }
