@@ -1,47 +1,7 @@
 {
   "jobsScanned": 3531,
-  "applicationsSubmitted": 2282,
+  "applicationsSubmitted": 2287,
   "appliedRolesList": [
-    {
-      "company": "Wealth India Financial Services",
-      "title": "Data Scientist",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-data-scientist-wealth-india-financial-services-bengaluru-3-to-4-years-200826017589",
-      "time": "2026-09-02T05:17:24.414Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Robinhood",
-      "title": "Director of Accounting",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/robinhood/jobs/8088954",
-      "time": "2026-09-02T05:54:04.255Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Director of Investments and Pensions",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8163979",
-      "time": "2026-09-02T05:54:43.819Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Senior Product Director, Business Banking",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7732437",
-      "time": "2026-09-02T05:55:34.077Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Senior Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8083280",
-      "time": "2026-09-02T05:56:27.557Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Monzo",
       "title": "Payment Operations Manager",
@@ -4001,6 +3961,46 @@
       "url": "https://job-boards.greenhouse.io/coinbase/jobs/8054055",
       "time": "2026-09-14T11:11:40.561Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Figure",
+      "title": "Site Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figure/jobs/8747985002",
+      "time": "2026-09-14T11:12:40.031Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "N26",
+      "title": "Head of Product - Lending",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/7988511",
+      "time": "2026-09-14T11:12:41.959Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Heygen",
+      "title": "Head of Enterprise Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/heygen/jobs/5229132007",
+      "time": "2026-09-14T11:13:23.931Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Figure",
+      "title": "Director of Treasury & Financial Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figure/jobs/8709203002",
+      "time": "2026-09-14T11:14:11.141Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tanium",
+      "title": "Director, Product Management - Endpoint Policy and Configuration Management",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8127094",
+      "time": "2026-09-14T11:14:12.309Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2282,
+  "totalVerifiedInHistory": 2287,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1142,
+    "direct_portal_greenhouse": 1147,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:11:40.585Z",
-  "lastUpdated": "14/9/2026, 4:41:40 pm"
+  "lastSyncedAt": "2026-09-14T11:14:12.328Z",
+  "lastUpdated": "14/9/2026, 4:44:12 pm"
 }
