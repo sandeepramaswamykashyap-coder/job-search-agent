@@ -1,71 +1,7 @@
 {
   "jobsScanned": 3511,
-  "applicationsSubmitted": 92,
+  "applicationsSubmitted": 2237,
   "appliedRolesList": [
-    {
-      "company": "Datadog",
-      "title": "Director, Technical Support Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/7707345",
-      "time": "2026-09-02T03:06:25.960Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Director, Product Management (Platform, Security & Enterprise Readiness)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8497003002",
-      "time": "2026-09-02T03:11:37.177Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Director, Product Management (Enterprise Connectivity)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8610911002",
-      "time": "2026-09-02T03:11:40.256Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Neo4j",
-      "title": "Startup Program Manager (Contract/Temp)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/neo4j/jobs/4706206006",
-      "time": "2026-09-02T03:12:28.448Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Enterprise Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8720906002",
-      "time": "2026-09-02T03:35:05.007Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Americas Field Marketing at Databricks",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8636157002",
-      "time": "2026-09-02T03:35:26.662Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Field Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8397552002",
-      "time": "2026-09-02T03:35:27.891Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569514002",
-      "time": "2026-09-02T03:35:46.604Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Databricks",
       "title": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
@@ -4003,46 +3939,68 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T10:24:21.593Z"
+      "company": "Payoneer",
+      "title": "Strategic Account Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8155963",
+      "time": "2026-09-14T10:28:39.949Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T10:24:21.599Z"
+      "company": "Ripple",
+      "title": "Business Development Director - RippleX",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/8042882",
+      "time": "2026-09-14T10:29:26.808Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T10:24:21.604Z"
+      "company": "Celonis",
+      "title": "Lead Project Manager (German speaker)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7683454003",
+      "time": "2026-09-14T10:29:28.071Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T10:24:21.608Z"
+      "company": "Ripple",
+      "title": "Director, Corporate & Product Communications",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/8042723",
+      "time": "2026-09-14T10:29:34.318Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T10:24:21.612Z"
+      "company": "Payoneer",
+      "title": "Senior Technical Salesforce Project Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8188579",
+      "time": "2026-09-14T10:29:39.939Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T10:24:21.616Z"
+      "company": "Stripe",
+      "title": "Head of Private Equity and Advisory Partnerships",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8165855",
+      "time": "2026-09-14T10:30:41.985Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Turnaround & Restructuring Senior Vice President",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7750764003",
+      "time": "2026-09-14T10:30:55.271Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Sales Director Nordics",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7988718003",
+      "time": "2026-09-14T10:30:56.355Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2229,
+  "totalVerifiedInHistory": 2237,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1089,
+    "direct_portal_greenhouse": 1097,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:21:22.963Z",
-  "lastUpdated": "14/9/2026, 3:51:22 pm"
+  "lastSyncedAt": "2026-09-14T10:30:56.375Z",
+  "lastUpdated": "14/9/2026, 4:00:56 pm"
 }
