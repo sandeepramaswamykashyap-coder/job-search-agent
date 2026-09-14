@@ -1,23 +1,7 @@
 {
   "jobsScanned": 3531,
-  "applicationsSubmitted": 135,
+  "applicationsSubmitted": 2274,
   "appliedRolesList": [
-    {
-      "company": "Chime",
-      "title": "Senior Program Manager, EPMO",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8734106002",
-      "time": "2026-09-02T04:22:39.166Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Sr. Analyst, AML Governance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8726050002",
-      "time": "2026-09-02T04:22:51.890Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Databricks",
       "title": "Director of Engineering",
@@ -4003,46 +3987,20 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T11:01:36.884Z"
+      "company": "Asana",
+      "title": "Head of Marketing Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/asana/jobs/8164553",
+      "time": "2026-09-14T11:05:03.148Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T11:01:36.889Z"
-    },
-    {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T11:01:36.894Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T11:01:36.898Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T11:01:36.902Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T11:01:36.906Z"
+      "company": "Coinbase",
+      "title": "Senior Engineering Manager, Core Automation (Platform)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8124224",
+      "time": "2026-09-14T11:06:10.565Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2272,
+  "totalVerifiedInHistory": 2274,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1132,
+    "direct_portal_greenhouse": 1134,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:53:37.309Z",
-  "lastUpdated": "14/9/2026, 4:23:37 pm"
+  "lastSyncedAt": "2026-09-14T11:06:10.594Z",
+  "lastUpdated": "14/9/2026, 4:36:10 pm"
 }
