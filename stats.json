@@ -1,31 +1,7 @@
 {
   "jobsScanned": 3541,
-  "applicationsSubmitted": 2294,
+  "applicationsSubmitted": 2297,
   "appliedRolesList": [
-    {
-      "company": "Sofi",
-      "title": "Senior Director, AI Enterprise Transformation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7921209003",
-      "time": "2026-09-02T07:37:38.186Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Senior Staff Technical Program Manager,  Data Governance & Privacy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7805063003",
-      "time": "2026-09-02T08:10:21.005Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Independent Risk Management Director, Investment Products",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7805243003",
-      "time": "2026-09-02T08:10:21.297Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Sofi",
       "title": "Director, Strategic Finance - SoFi Checking & Savings and Credit Card",
@@ -4001,6 +3977,30 @@
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8113497",
       "time": "2026-09-14T11:23:50.698Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Staff Software Engineer, Core Automation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7580292",
+      "time": "2026-09-14T11:24:12.908Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "N26",
+      "title": "Marketing Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/8177452",
+      "time": "2026-09-14T11:25:22.154Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Director, HR Business Partnering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/7858876",
+      "time": "2026-09-14T11:25:23.366Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2294,
+  "totalVerifiedInHistory": 2297,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1154,
+    "direct_portal_greenhouse": 1157,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:23:50.722Z",
-  "lastUpdated": "14/9/2026, 4:53:50 pm"
+  "lastSyncedAt": "2026-09-14T11:25:23.386Z",
+  "lastUpdated": "14/9/2026, 4:55:23 pm"
 }
