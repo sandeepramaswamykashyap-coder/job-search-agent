@@ -1,79 +1,7 @@
 {
   "jobsScanned": 3501,
-  "applicationsSubmitted": 2179,
+  "applicationsSubmitted": 2188,
   "appliedRolesList": [
-    {
-      "company": "Fivetran",
-      "title": "Regional Director, Enterprise",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7708796003",
-      "time": "2026-09-01T21:44:22.050Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Newrelic",
-      "title": "Creative Director, Visual Design",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5356631008",
-      "time": "2026-09-01T21:48:21.494Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Newrelic",
-      "title": "Director, Competitive Intelligence",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5386803008",
-      "time": "2026-09-01T21:48:33.911Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Newrelic",
-      "title": "Senior Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5396449008",
-      "time": "2026-09-01T21:48:57.254Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Chief of Staff, Head of Legal Ops",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8656772002",
-      "time": "2026-09-01T21:49:21.161Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Director, Associate General Counsel, Privacy, Cybersecurity, and AI",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8531775002",
-      "time": "2026-09-01T21:49:43.347Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Director Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8681193002",
-      "time": "2026-09-01T21:49:55.655Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Director of Growth and Acquisition",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8746273002",
-      "time": "2026-09-01T21:50:08.112Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Senior Director, Strategy and Growth Initiatives",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8529549002",
-      "time": "2026-09-01T21:50:41.993Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Head of Deal Strategy, EMEA",
@@ -4001,6 +3929,78 @@
       "url": "https://job-boards.greenhouse.io/braze/jobs/8188879",
       "time": "2026-09-14T09:59:04.039Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Zoominfo",
+      "title": "Director, Software Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8770556002",
+      "time": "2026-09-14T09:59:30.915Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Enablement Program Manager, Sales Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8148092",
+      "time": "2026-09-14T09:59:38.414Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "Director, Global Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8189715",
+      "time": "2026-09-14T10:00:13.441Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "Director, Account Management, Sales SMB",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8185912",
+      "time": "2026-09-14T10:00:19.097Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "Senior Creative Operations Lead, Brand",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8082501",
+      "time": "2026-09-14T10:00:29.493Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Samsara",
+      "title": "CX Strategy Manager, AI Transformation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsara/jobs/8195249",
+      "time": "2026-09-14T10:01:00.179Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Field Engineering and Strategy Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/neo4j/jobs/4711183006",
+      "time": "2026-09-14T10:01:57.577Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Workato",
+      "title": "Global Account Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/workato/jobs/8720210002",
+      "time": "2026-09-14T10:02:25.667Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Lead Company Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7985977003",
+      "time": "2026-09-14T10:02:27.794Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2179,
+  "totalVerifiedInHistory": 2188,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1039,
+    "direct_portal_greenhouse": 1048,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T09:59:04.060Z",
-  "lastUpdated": "14/9/2026, 3:29:04 pm"
+  "lastSyncedAt": "2026-09-14T10:02:27.813Z",
+  "lastUpdated": "14/9/2026, 3:32:27 pm"
 }
