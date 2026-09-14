@@ -18502,5 +18502,37 @@
     "url": "https://job-boards.greenhouse.io/databricks/jobs/8510921002",
     "time": "2026-09-14T12:17:55.506Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Product Marketing Manager, Lakewatch & Agentic Apps",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8493857002",
+    "time": "2026-09-14T12:22:51.278Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Stripe",
+    "title": "Program Manager, Executive Experiences",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/stripe/jobs/8175629",
+    "time": "2026-09-14T12:23:52.537Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Zscaler",
+    "title": "Director of Data Engineering",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5217166007",
+    "time": "2026-09-14T12:23:52.696Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Togetherai",
+    "title": "Director of Technical Accounting",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5210729007",
+    "time": "2026-09-14T12:24:19.930Z",
+    "status": "SUBMITTED"
   }
 ]

@@ -1,39 +1,7 @@
 {
   "jobsScanned": 3611,
-  "applicationsSubmitted": 176,
+  "applicationsSubmitted": 2317,
   "appliedRolesList": [
-    {
-      "company": "Ripple",
-      "title": "Senior Director, Security Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/7913402",
-      "time": "2026-09-02T10:25:40.082Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Senior Director, Security Engineering",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/7913402",
-      "time": "2026-09-02T10:25:40.094Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cribl",
-      "title": "Senior Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cribl/jobs/6020459004",
-      "time": "2026-09-02T10:54:03.137Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Oaknorth",
-      "title": "Director, Credit - Trading Businesses",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/3b6d7a53-905b-4e91-8f7a-33213b3273fb",
-      "time": "2026-09-02T11:34:12.649Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Oaknorth",
       "title": "Director, Credit - Trading Businesses",
@@ -4003,46 +3971,36 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T12:18:10.759Z"
+      "company": "Databricks",
+      "title": "Sr. Product Marketing Manager, Lakewatch & Agentic Apps",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8493857002",
+      "time": "2026-09-14T12:22:51.278Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T12:18:10.764Z"
+      "company": "Stripe",
+      "title": "Program Manager, Executive Experiences",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8175629",
+      "time": "2026-09-14T12:23:52.537Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T12:18:10.769Z"
+      "company": "Zscaler",
+      "title": "Director of Data Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5217166007",
+      "time": "2026-09-14T12:23:52.696Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T12:18:10.773Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T12:18:10.776Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T12:18:10.780Z"
+      "company": "Togetherai",
+      "title": "Director of Technical Accounting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5210729007",
+      "time": "2026-09-14T12:24:19.930Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2313,
+  "totalVerifiedInHistory": 2317,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1173,
+    "direct_portal_greenhouse": 1177,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T12:17:55.527Z",
-  "lastUpdated": "14/9/2026, 5:47:55 pm"
+  "lastSyncedAt": "2026-09-14T12:24:19.951Z",
+  "lastUpdated": "14/9/2026, 5:54:19 pm"
 }
