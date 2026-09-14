@@ -1,15 +1,7 @@
 {
   "jobsScanned": 3501,
-  "applicationsSubmitted": 2228,
+  "applicationsSubmitted": 2229,
   "appliedRolesList": [
-    {
-      "company": "Postman",
-      "title": "Head of Engineering, Infrastructure & SRE",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/postman/jobs/7865524003",
-      "time": "2026-09-02T03:04:54.923Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Datadog",
       "title": "Director, Technical Support Engineering",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5162324007",
       "time": "2026-09-14T10:19:11.057Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Director, Technical Program Management",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234934007",
+      "time": "2026-09-14T10:21:22.941Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2228,
+  "totalVerifiedInHistory": 2229,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1088,
+    "direct_portal_greenhouse": 1089,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:19:11.078Z",
-  "lastUpdated": "14/9/2026, 3:49:11 pm"
+  "lastSyncedAt": "2026-09-14T10:21:22.963Z",
+  "lastUpdated": "14/9/2026, 3:51:22 pm"
 }
