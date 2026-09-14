@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 4377,
-  "applicationsSubmitted": 218,
+  "jobsScanned": 4387,
+  "applicationsSubmitted": 221,
   "appliedRolesList": [
     {
       "company": "Perplexity",
@@ -4022,6 +4022,27 @@
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
       "time": "2026-09-14T18:13:26.460Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-14T18:16:54.368Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-14T18:16:54.374Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-14T18:16:54.378Z"
     }
   ],
   "failures": [
