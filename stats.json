@@ -1,47 +1,7 @@
 {
   "jobsScanned": 3501,
-  "applicationsSubmitted": 2188,
+  "applicationsSubmitted": 2193,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Head of Deal Strategy, EMEA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/35f81bda-a500-4d0c-96ff-1ba3fa24714f",
-      "time": "2026-09-01T21:51:51.823Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Head of Deal Strategy, EMEA",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/35f81bda-a500-4d0c-96ff-1ba3fa24714f",
-      "time": "2026-09-01T21:51:51.847Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Foundations Data and Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f",
-      "time": "2026-09-01T21:51:54.066Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Foundations Data and Operations",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f",
-      "time": "2026-09-01T21:51:54.078Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Infrastructure Sourcing Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/00f7eaa5-315d-44bd-9c11-047ee53f2b0d",
-      "time": "2026-09-01T21:51:54.091Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Infrastructure Sourcing Operations Lead",
@@ -4001,6 +3961,46 @@
       "url": "https://job-boards.greenhouse.io/fivetran/jobs/7985977003",
       "time": "2026-09-14T10:02:27.794Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Payoneer",
+      "title": "Commercial Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8119225",
+      "time": "2026-09-14T10:03:29.055Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mercury",
+      "title": "Head of Product - Personal Banking",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+      "time": "2026-09-14T10:03:33.410Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Monzo",
+      "title": "Director of Product Design",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7825424",
+      "time": "2026-09-14T10:03:38.631Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mercury",
+      "title": "Head of Data Engineering & Platform",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6141014004",
+      "time": "2026-09-14T10:03:40.567Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Payoneer",
+      "title": "R&D Architect Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8059499",
+      "time": "2026-09-14T10:03:51.817Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2188,
+  "totalVerifiedInHistory": 2193,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1048,
+    "direct_portal_greenhouse": 1053,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:02:27.813Z",
-  "lastUpdated": "14/9/2026, 3:32:27 pm"
+  "lastSyncedAt": "2026-09-14T10:03:51.839Z",
+  "lastUpdated": "14/9/2026, 3:33:51 pm"
 }

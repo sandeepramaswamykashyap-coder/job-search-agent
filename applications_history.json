@@ -17502,5 +17502,45 @@
     "url": "https://job-boards.greenhouse.io/fivetran/jobs/7985977003",
     "time": "2026-09-14T10:02:27.794Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Payoneer",
+    "title": "Commercial Program Manager",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/payoneer/jobs/8119225",
+    "time": "2026-09-14T10:03:29.055Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Mercury",
+    "title": "Head of Product - Personal Banking",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+    "time": "2026-09-14T10:03:33.410Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Monzo",
+    "title": "Director of Product Design",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/7825424",
+    "time": "2026-09-14T10:03:38.631Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Mercury",
+    "title": "Head of Data Engineering & Platform",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6141014004",
+    "time": "2026-09-14T10:03:40.567Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Payoneer",
+    "title": "R&D Architect Director",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/payoneer/jobs/8059499",
+    "time": "2026-09-14T10:03:51.817Z",
+    "status": "SUBMITTED"
   }
 ]
