@@ -1,55 +1,7 @@
 {
   "jobsScanned": 3501,
-  "applicationsSubmitted": 2222,
+  "applicationsSubmitted": 2228,
   "appliedRolesList": [
-    {
-      "company": "Databricks",
-      "title": "Sr. Alliance Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8610773002",
-      "time": "2026-09-02T01:21:11.245Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Program Manager, Sales Enablement",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8067190",
-      "time": "2026-09-02T01:26:46.304Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samsara",
-      "title": "Senior Business Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/8112696",
-      "time": "2026-09-02T02:03:55.651Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Figma",
-      "title": "Director, Strategic Sales (Berlin, Germany)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/6143018004",
-      "time": "2026-09-02T02:17:29.527Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director of Engineering (Data Infrastructure)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8290810002",
-      "time": "2026-09-02T02:58:32.133Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director of Engineering (Data Infrastructure)",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8290810002",
-      "time": "2026-09-02T02:58:32.150Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Postman",
       "title": "Head of Engineering, Infrastructure & SRE",
@@ -4001,6 +3953,54 @@
       "url": "https://job-boards.greenhouse.io/okta/jobs/8176095",
       "time": "2026-09-14T10:15:18.037Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Engineering Technical Program Manager - Jira Administration",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/6597058",
+      "time": "2026-09-14T10:16:22.269Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Sales Development, Japan",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8080906",
+      "time": "2026-09-14T10:16:30.963Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Vice President, Associate General Counsel, Commercial Legal",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8189849",
+      "time": "2026-09-14T10:16:39.463Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Head of Recruiting Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/7838837",
+      "time": "2026-09-14T10:16:49.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "VP, Global Specialist Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8077553",
+      "time": "2026-09-14T10:19:10.879Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Creative Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5162324007",
+      "time": "2026-09-14T10:19:11.057Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2222,
+  "totalVerifiedInHistory": 2228,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1082,
+    "direct_portal_greenhouse": 1088,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:15:18.056Z",
-  "lastUpdated": "14/9/2026, 3:45:18 pm"
+  "lastSyncedAt": "2026-09-14T10:19:11.078Z",
+  "lastUpdated": "14/9/2026, 3:49:11 pm"
 }
