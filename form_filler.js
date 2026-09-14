@@ -395,6 +395,8 @@ async function fillCustomDropdown(frame, cs, targetVal) {
       patterns.push(/bachelor|undergraduate|degree/i);
     } else if (/mysore|university|school|college/i.test(targetVal)) {
       patterns.push(/mysore|university|other/i);
+    } else if (/14|years/i.test(targetVal)) {
+      patterns.push(/14\+|12\+|10\+|15\+|more than 10|10\s*-\s*15|10 to 15|8\+|7\+|5\+|14|12|10/i);
     }
 
     // Try typing query if search input exists
@@ -709,6 +711,12 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
         targetVal = 'No';
       } else if (/notice|availability/i.test(parentText)) {
         targetVal = CANDIDATE.noticePeriodText;
+      } else if (/how[\s_-]?many[\s_-]?years|total[\s_-]?years[\s_-]?of|years[\s_-]?of[\s_-]?experience|experience[\s_-]?level/i.test(parentText)) {
+        targetVal = '14+';
+      } else if (/english|fluent|language|communicate|verbal|written|bilingual/i.test(parentText)) {
+        targetVal = 'Yes';
+      } else if (/remote|hybrid|work[\s_-]?from[\s_-]?home|full[\s_-]?time/i.test(parentText)) {
+        targetVal = 'Yes';
       } else if (/source|hear[\s_-]?about/i.test(parentText)) {
         targetVal = 'LinkedIn';
       } else if (/\b(?:years|experience|familiar|proficien|knowledge|background|skill|comfortable|agile|scrum|leadership|manage)\b/i.test(parentText) && !/require.*sponsor|subject to/i.test(parentText)) {
