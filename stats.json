@@ -1,79 +1,7 @@
 {
   "jobsScanned": 3491,
-  "applicationsSubmitted": 2153,
+  "applicationsSubmitted": 2162,
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Marketing Technology & Operations Lead",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/43b6c299-d5df-4cf4-a816-142ba3014a9d",
-      "time": "2026-09-01T19:02:54.098Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Staff Fullstack Engineer, Agentic Applications",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8220840002",
-      "time": "2026-09-01T19:05:13.428Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Director, Marketing Technology & Innovation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7648650",
-      "time": "2026-09-01T19:31:42.680Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Head of Corporate Development",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d",
-      "time": "2026-09-01T19:36:05.883Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Head of Corporate Development",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d",
-      "time": "2026-09-01T19:36:05.901Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Gusto",
-      "title": "Head of Brokerage Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/7586222",
-      "time": "2026-09-01T19:43:10.164Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Director, Enterprise Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/7773320",
-      "time": "2026-09-01T19:54:37.593Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Director, GTM Enablement Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8137579",
-      "time": "2026-09-01T19:55:50.178Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pagerduty",
-      "title": "Sales Strategy and Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5835317004",
-      "time": "2026-09-01T20:01:03.478Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zoominfo",
       "title": "Senior Director, Software Engineering",
@@ -4001,6 +3929,78 @@
       "url": "https://job-boards.greenhouse.io/dropbox/jobs/8177617",
       "time": "2026-09-14T09:39:06.170Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Instacart",
+      "title": "Director, IT Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/instacart/jobs/8177874",
+      "time": "2026-09-14T09:41:22.696Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Project Manager, People Mergers & Acquisitions (M&A)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8175644",
+      "time": "2026-09-14T09:41:26.902Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pendo",
+      "title": "Account Director, Enterprise Sales - French Markets",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8665821002",
+      "time": "2026-09-14T09:42:59.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Duolingo",
+      "title": "Staff Technical Program Manager, Developer Amplification",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/duolingo/jobs/8638482002",
+      "time": "2026-09-14T09:43:05.598Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Director, Enterprise - Retail Vertical - Strategic Accounts",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8568151002",
+      "time": "2026-09-14T09:43:06.508Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Asana",
+      "title": "Head of Enterprise Sales, DACH",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/asana/jobs/8100429",
+      "time": "2026-09-14T09:43:46.061Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering - Healthcare & Life Sciences",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8586437002",
+      "time": "2026-09-14T09:43:46.888Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Duolingo",
+      "title": "Staff Technical Program Manager, Duolingo English Test",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/duolingo/jobs/8755781002",
+      "time": "2026-09-14T09:43:49.745Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Reddit",
+      "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8195629",
+      "time": "2026-09-14T09:44:32.617Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2153,
+  "totalVerifiedInHistory": 2162,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1014,
+    "direct_portal_greenhouse": 1023,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T09:39:46.405Z",
-  "lastUpdated": "14/9/2026, 3:09:46 pm"
+  "lastSyncedAt": "2026-09-14T09:44:32.636Z",
+  "lastUpdated": "14/9/2026, 3:14:32 pm"
 }

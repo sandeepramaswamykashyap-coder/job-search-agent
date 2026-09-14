@@ -203,7 +203,7 @@ const FIELD_MAP = [
   { patterns: [/twitter/i, /x\.com/i], value: () => CANDIDATE.twitter },
 
   // ── CURRENT EMPLOYMENT ────────────────────────────────────────────────────
-  { patterns: [/current[\s._-]?(company|employer|organization|organisation|workplace)/i, /present[\s._-]?(company|employer)/i, /employer[\s._-]?name/i, /company[\s._-]?name/i, /^employer$/i], value: () => CANDIDATE.currentCompany },
+  { patterns: [/current[\s._-]?(company|employer|organization|organisation|workplace)/i, /present[\s._-]?(company|employer)/i, /(?:current|previous|recent|last)\s*(?:or\s*previous\s*)?(?:company|employer|organisation|organization|workplace)/i, /employer[\s._-]?name/i, /company[\s._-]?name/i, /\bemployer\b/i], value: () => CANDIDATE.currentCompany },
   { patterns: [/current[\s._-]?(job[\s._-]?)?title/i, /present[\s._-]?title/i, /job[\s._-]?title/i, /position[\s._-]?title/i, /role[\s._-]?title/i, /designation/i, /\btitle\b/i], value: () => CANDIDATE.currentTitle },
   { patterns: [/department/i, /division/i, /function/i, /\bteam\b/i], value: () => CANDIDATE.currentDept },
 
@@ -367,11 +367,12 @@ async function clickRadio(page, wantYes = false) {
 // ─────────────────────────────────────────────────────────────────────────────
 async function fillCustomDropdown(frame, cs, targetVal) {
   try {
-    await cs.scrollIntoViewIfNeeded({ timeout: 2000 }).catch(() => {});
-    await cs.click({ force: true, timeout: 2000 }).catch(() => {});
     const context = frame || cs.page();
-    await context.waitForTimeout(350);
-
+    await cs.scrollIntoViewIfNeeded({ timeout: 2000 }).catch(() => {});
+    
+    const innerInput = cs.locator('input').first();
+    const inputId = await innerInput.getAttribute('id').catch(() => '') || '';
+    
     const patterns = [new RegExp('^\\s*' + targetVal.split(' ')[0], 'i')];
     if (/india/i.test(targetVal)) {
       patterns.push(/elsewhere|located\s*elsewhere|other|international|rest\s*of\s*world|non[\s._-]?us/i);
@@ -379,44 +380,67 @@ async function fillCustomDropdown(frame, cs, targetVal) {
       patterns.push(/^no\b|none|never|decline/i);
     } else if (/yes/i.test(targetVal)) {
       patterns.push(/^yes\b|true|authorized/i);
+    } else if (/bachelor/i.test(targetVal)) {
+      patterns.push(/bachelor|undergraduate|degree/i);
+    } else if (/mysore|university|school|college/i.test(targetVal)) {
+      patterns.push(/mysore|university|other/i);
     }
+
+    // Try typing query if inner input exists
+    let typed = false;
+    if (await innerInput.count() > 0) {
+      await innerInput.focus().catch(() => {});
+      await innerInput.fill('').catch(() => {});
+      const query = /school/i.test(inputId) ? 'Other' : (/bachelor/i.test(targetVal) ? 'Bachelor' : targetVal.split(' ')[0]);
+      await innerInput.pressSequentially(query, { delay: 30 }).catch(() => {});
+      await context.waitForTimeout(400);
+      typed = true;
+    } else {
+      await cs.click({ force: true, timeout: 1500 }).catch(() => {});
+      await context.waitForTimeout(350);
+    }
+
+    // Locate the specific listbox/menu
+    const listbox = inputId
+      ? context.locator('#react-select-' + inputId + '-listbox')
+      : context.locator('.select__menu [role="listbox"], [role="listbox"]:visible, [class*="menu"]:visible').first();
+
+    const menuContext = (await listbox.count() > 0) ? listbox : context;
 
     // 1. Direct option matching in visible menu
     for (const pat of patterns) {
-      const opt = context.locator('[class*="option"]:visible, [role="option"]:visible, [id*="react-select"]:visible, [id*="option"]:visible')
+      const opt = menuContext.locator('[role="option"], [class*="option"]:not([class*="group"])')
         .filter({ hasText: pat }).first();
-      if (await opt.isVisible({ timeout: 600 }).catch(() => false)) {
-        await opt.click({ force: true });
-        await context.waitForTimeout(300);
+      if (await opt.count() > 0) {
+        await opt.click({ force: true }).catch(() => {});
+        await context.waitForTimeout(200);
         return true;
       }
     }
 
-    // 2. Try typing into inner search input to filter the list
-    const innerInput = cs.locator('input').first();
-    if (await innerInput.isVisible({ timeout: 600 }).catch(() => false)) {
-      await innerInput.fill('').catch(() => {});
-      await innerInput.type(targetVal, { delay: 40 }).catch(() => {});
-      await context.waitForTimeout(400);
-
-      const filteredOpt = context.locator('[class*="option"]:visible, [role="option"]:visible, div[id*="option"]')
-        .filter({ hasText: new RegExp('^\\s*' + targetVal.split(' ')[0], 'i') }).first();
-
-      if (await filteredOpt.isVisible({ timeout: 800 }).catch(() => false)) {
-        await filteredOpt.click({ force: true });
-        await context.waitForTimeout(300);
-        return true;
-      }
-      await innerInput.press('ArrowDown').catch(() => {});
-      await innerInput.press('Enter').catch(() => {});
-      await context.waitForTimeout(300);
+    // 2. Fallback to "Other" or first non-empty option
+    const otherOpt = menuContext.locator('[role="option"], [class*="option"]').filter({ hasText: /^other\b/i }).first();
+    if (await otherOpt.count() > 0) {
+      await otherOpt.click({ force: true }).catch(() => {});
+      await context.waitForTimeout(200);
       return true;
     }
 
-    // 3. Fallback option click
-    const anyOption = context.locator('[class*="option"]:visible, [role="option"]:visible').first();
-    if (await anyOption.isVisible({ timeout: 800 }).catch(() => false)) {
-      await anyOption.click({ force: true });
+    const firstOpt = menuContext.locator('[role="option"], [class*="option"]').first();
+    if (await firstOpt.count() > 0) {
+      const text = await firstOpt.textContent().catch(() => '') || '';
+      if (!/no options|select\.\.\./i.test(text)) {
+        await firstOpt.click({ force: true }).catch(() => {});
+        await context.waitForTimeout(200);
+        return true;
+      }
+    }
+
+    // 3. If typing occurred, press Enter as final attempt
+    if (typed) {
+      await innerInput.press('ArrowDown').catch(() => {});
+      await innerInput.press('Enter').catch(() => {});
+      await context.waitForTimeout(200);
       return true;
     }
   } catch (_) {}
@@ -443,6 +467,18 @@ async function handleCheckboxes(context) {
           }).catch(() => '') || '';
         }
         const identifier = `${label} ${name} ${id}`.toLowerCase();
+
+        // If it is a country-selection checkbox group, only check India
+        if (/country|countries/i.test(name + ' ' + label)) {
+          if (/india/i.test(identifier)) {
+            const isChecked = await cb.isChecked().catch(() => false);
+            if (!isChecked) {
+              await cb.check({ force: true }).catch(() => {});
+              console.log(`[FormFiller] ☑️ Checked country box: "${identifier.slice(0, 40)}"`);
+            }
+          }
+          continue;
+        }
 
         // Check required consent, terms, privacy, communication, and none of above checkboxes
         if (
@@ -597,7 +633,7 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
 
       if (!parentText) {
         parentText = await cs.evaluate(el => {
-          const p = el.closest('.field, .form-group, .question, .select-wrapper, fieldset, [data-field]') || el.parentElement;
+          const p = el.closest('.field, .form-group, .question, .select-wrapper, .select__container, .select, fieldset, [data-field]') || el.parentElement;
           if (!p || p.tagName === 'FORM') {
             const prevLabel = el.parentElement ? el.parentElement.querySelector('label') : null;
             return prevLabel ? prevLabel.textContent.trim() : '';
