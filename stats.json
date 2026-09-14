@@ -1,71 +1,7 @@
 {
   "jobsScanned": 3531,
-  "applicationsSubmitted": 2274,
+  "applicationsSubmitted": 2282,
   "appliedRolesList": [
-    {
-      "company": "Databricks",
-      "title": "Director of Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/7896551002",
-      "time": "2026-09-02T04:42:08.428Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Technical Program Manager, Security",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7894565003",
-      "time": "2026-09-02T04:51:39.696Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Senior Revenue Operations Manager, Global Commercial Expansion",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7786001003",
-      "time": "2026-09-02T04:51:45.896Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Robinhood",
-      "title": "Chief of Staff, Brokerage Product",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/robinhood/jobs/7839130",
-      "time": "2026-09-02T04:54:47.526Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Robinhood",
-      "title": "Director of Benefits",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/robinhood/jobs/8131201",
-      "time": "2026-09-02T04:55:33.683Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Chief of Staff, Product",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8121572",
-      "time": "2026-09-02T04:55:55.767Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Director of Data, Payments",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871",
-      "time": "2026-09-02T04:56:06.175Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "Senior Program Manager - Engineering & Technology Delivery",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-program-manager-engineering-technology-delivery-happiest-minds-technologies-bengaluru-15-to-24-years-240826028866",
-      "time": "2026-09-02T05:13:36.657Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Wealth India Financial Services",
       "title": "Data Scientist",
@@ -4001,6 +3937,70 @@
       "url": "https://job-boards.greenhouse.io/coinbase/jobs/8124224",
       "time": "2026-09-14T11:06:10.565Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Principal Project Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7815133003",
+      "time": "2026-09-14T11:08:01.710Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "HR M&A Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8000779",
+      "time": "2026-09-14T11:08:01.875Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Fastly",
+      "title": "Senior Program Manager, Network Infrastructure",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fastly/jobs/8174531",
+      "time": "2026-09-14T11:08:36.162Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Executive, Finance Transformation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208429007",
+      "time": "2026-09-14T11:09:20.339Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Director, Partner Specialists",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8020483",
+      "time": "2026-09-14T11:09:25.462Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lyft",
+      "title": "HR Operations Project Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8780268002",
+      "time": "2026-09-14T11:09:38.378Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ripple",
+      "title": "Business Development Senior Director - Capital Markets",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/7572250",
+      "time": "2026-09-14T11:09:38.633Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior IT Automation Engineer",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8054055",
+      "time": "2026-09-14T11:11:40.561Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2274,
+  "totalVerifiedInHistory": 2282,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1134,
+    "direct_portal_greenhouse": 1142,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:06:10.594Z",
-  "lastUpdated": "14/9/2026, 4:36:10 pm"
+  "lastSyncedAt": "2026-09-14T11:11:40.585Z",
+  "lastUpdated": "14/9/2026, 4:41:40 pm"
 }
