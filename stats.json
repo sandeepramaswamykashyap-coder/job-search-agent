@@ -1,47 +1,7 @@
 {
-  "jobsScanned": 4321,
-  "applicationsSubmitted": 2343,
+  "jobsScanned": 4331,
+  "applicationsSubmitted": 2348,
   "appliedRolesList": [
-    {
-      "company": "Capgemini",
-      "title": "IBM Maximo Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ibm-maximo-architect-capgemini-technology-services-india-limited-bengaluru-9-to-14-years-020926927861?src=directSearch&sid=17883607044606433&xp=7&px=1",
-      "time": "2026-09-02T14:52:41.333Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Sales Director, Commercial",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8130222",
-      "time": "2026-09-02T15:56:01.552Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Chief of Staff, GTM China",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/7699130",
-      "time": "2026-09-02T16:24:43.905Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Client Director - AEP",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7893791003",
-      "time": "2026-09-02T16:30:22.079Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Client Director - Chevron",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7887053003",
-      "time": "2026-09-02T16:30:49.432Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Client Director - Financial Services",
@@ -4001,6 +3961,46 @@
       "url": "https://jobs.ashbyhq.com/openai/a51b521c-d3bf-4653-99c6-c9152827cfb8",
       "time": "2026-09-14T17:51:05.372Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Automation Engineer - Influencers",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/5bcd3475-8e38-42f1-897a-fa010ee6f9bd",
+      "time": "2026-09-14T17:54:54.022Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Revenue Strategy & Operations - EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/13dbc714-dc3e-4743-9c25-3400c23b6673",
+      "time": "2026-09-14T17:55:20.244Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Revenue Strategy & Operations - North America",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b28719ff-833d-49b4-8286-f59082732186",
+      "time": "2026-09-14T17:55:49.205Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Revenue Strategy & Operations - APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7",
+      "time": "2026-09-14T17:56:16.388Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "People AI & Automation Engineer",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316",
+      "time": "2026-09-14T17:56:49.009Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2343,
+  "totalVerifiedInHistory": 2348,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
@@ -4676,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 360,
+    "direct_portal_ashby": 365,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T17:51:05.396Z",
-  "lastUpdated": "14/9/2026, 11:21:05 pm"
+  "lastSyncedAt": "2026-09-14T17:56:49.037Z",
+  "lastUpdated": "14/9/2026, 11:26:49 pm"
 }
