@@ -51,11 +51,9 @@ const DELAY_BETWEEN_APPS_MS = 8000 + Math.random() * 7000; // 8–15 seconds opt
 
 function alreadyApplied(job) {
   const all = getAllApplications();
-  const now = Date.now();
   const key = `${(job.company || '').toLowerCase().trim()}::${(job.title || '').toLowerCase().trim()}`;
   return all.some(a => 
-    a.status === 'submitted' &&
-    a.time && (now - new Date(a.time).getTime() < 48 * 3600 * 1000) &&
+    /submitted/i.test(a.status || '') &&
     `${(a.company || '').toLowerCase().trim()}::${(a.title || '').toLowerCase().trim()}` === key
   );
 }

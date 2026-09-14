@@ -125,11 +125,10 @@ async function runAggressiveQuadGrindCycle() {
 
   const jobs = await gatherAllLiveJobs();
   const existing = getAllApplications();
-  const now = Date.now();
 
   const submittedKeys = new Set(
     existing
-      .filter(a => a.status === 'submitted' && !['unconfirmed', 'error', 'failed'].includes(a.portal) && a.time && (now - new Date(a.time).getTime() < 48 * 3600 * 1000))
+      .filter(a => /submitted/i.test(a.status || '') && !['unconfirmed', 'error', 'failed'].includes(a.portal))
       .map(a => `${(a.company || '').toLowerCase().trim()}::${(a.title || '').toLowerCase().trim()}`)
   );
 
