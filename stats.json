@@ -1,39 +1,7 @@
 {
   "jobsScanned": 3541,
-  "applicationsSubmitted": 150,
+  "applicationsSubmitted": 2291,
   "appliedRolesList": [
-    {
-      "company": "Monzo",
-      "title": "Payment Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8094175",
-      "time": "2026-09-02T06:28:19.052Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "People Governance and Accountability Senior Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7904498",
-      "time": "2026-09-02T06:29:26.652Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mercury",
-      "title": "Senior Manager - Data & AI Governance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6142625004",
-      "time": "2026-09-02T07:00:50.340Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Director of Executive and Board Hiring",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8074179",
-      "time": "2026-09-02T07:02:11.003Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Monzo",
       "title": "FinCrime and Fraud Operations Manager",
@@ -4003,46 +3971,36 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T11:15:10.182Z"
+      "company": "Coinbase",
+      "title": "Senior Manager Product Operations, FCM Ops",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8110496",
+      "time": "2026-09-14T11:17:22.447Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T11:15:10.188Z"
+      "company": "Gusto",
+      "title": "AI Operations Program Manager, Benefits",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7899871",
+      "time": "2026-09-14T11:19:23.742Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T11:15:10.193Z"
+      "company": "Cloudflare",
+      "title": "Chief of Staff to Chief Strategy Officer",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8076815",
+      "time": "2026-09-14T11:19:49.605Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T11:15:10.198Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T11:15:10.202Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T11:15:10.206Z"
+      "company": "Cloudflare",
+      "title": "Vice President, Cloudflare One GTM",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8172411",
+      "time": "2026-09-14T11:19:49.772Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2287,
+  "totalVerifiedInHistory": 2291,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1147,
+    "direct_portal_greenhouse": 1151,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:14:12.328Z",
-  "lastUpdated": "14/9/2026, 4:44:12 pm"
+  "lastSyncedAt": "2026-09-14T11:19:49.790Z",
+  "lastUpdated": "14/9/2026, 4:49:49 pm"
 }
