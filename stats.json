@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 3571,
-  "applicationsSubmitted": 2306,
+  "jobsScanned": 3581,
+  "applicationsSubmitted": 2307,
   "appliedRolesList": [
-    {
-      "company": "Ripple",
-      "title": "Head of Managed Services",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8079242",
-      "time": "2026-09-02T10:23:08.727Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ripple",
       "title": "Head of Customer Success & Support",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/figma/jobs/6135338004",
       "time": "2026-09-14T11:49:14.660Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Product Designer, Agentic Experiences",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7799295003",
+      "time": "2026-09-14T11:55:50.956Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2306,
+  "totalVerifiedInHistory": 2307,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1166,
+    "direct_portal_greenhouse": 1167,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:49:14.683Z",
-  "lastUpdated": "14/9/2026, 5:19:14 pm"
+  "lastSyncedAt": "2026-09-14T11:55:50.981Z",
+  "lastUpdated": "14/9/2026, 5:25:50 pm"
 }
