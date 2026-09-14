@@ -1,71 +1,7 @@
 {
   "jobsScanned": 3501,
-  "applicationsSubmitted": 2207,
+  "applicationsSubmitted": 2215,
   "appliedRolesList": [
-    {
-      "company": "Mobikode",
-      "title": "ServiceNow Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-program-manager-mobikode-hyderabad-pune-bengaluru-10-to-20-years-240826010829?src=directSearch&sid=17883110955214095&xp=2&px=1",
-      "time": "2026-09-02T01:05:29.620Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Nasscomm",
-      "title": "Program Manager AI Programs & Ecosystem",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-ai-programs-ecosystem-nasscomm-bengaluru-5-to-7-years-140726501687?src=directSearch&sid=17883110955214095&xp=3&px=1",
-      "time": "2026-09-02T01:05:42.212Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ThoughtWorks",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-thoughtworks-bengaluru-10-to-20-years-250826032029?src=directSearch&sid=17883110955214095&xp=4&px=1",
-      "time": "2026-09-02T01:05:56.247Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tracxn",
-      "title": "Tracxn | Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tracxn-technical-program-manager-tracxn-bengaluru-3-to-8-years-170826002081?src=directSearch&sid=17883111602899610&xp=3&px=1",
-      "time": "2026-09-02T01:06:27.315Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tracxn",
-      "title": "Tracxn - Technical Program Manager Data - AI/LLMs, Data Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tracxn-technical-program-manager-data-ai-llms-data-operations-tracxn-bengaluru-2-to-6-years-180826022384?src=directSearch&sid=17883111602899610&xp=5&px=1",
-      "time": "2026-09-02T01:06:44.893Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tracxn",
-      "title": "Tracxn | Technical Program Manager (TPM) - Cybersecurity",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tracxn-technical-program-manager-tpm-cybersecurity-tracxn-bengaluru-4-to-7-years-050226030287?src=directSearch&sid=17883111602899610&xp=6&px=1",
-      "time": "2026-09-02T01:06:56.333Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Telecom Sector - Strategic Transformation Leader",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-telecom-sector-strategic-transformation-leader-ernst-young-bengaluru-25-to-26-years-010626504140?src=directSearch&sid=17883112348105641&xp=2&px=1",
-      "time": "2026-09-02T01:07:35.690Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Axtria",
-      "title": "AI Transformation Leader",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-transformation-leader-axtria-hyderabad-bengaluru-delhi-ncr-13-to-23-years-110826014856?src=directSearch&sid=17883112348105641&xp=3&px=1",
-      "time": "2026-09-02T01:07:46.650Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Aveva",
       "title": "Revenue Transformation Lead",
@@ -4001,6 +3937,70 @@
       "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8051547",
       "time": "2026-09-14T10:08:56.954Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "CTO Operations Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8120031",
+      "time": "2026-09-14T10:09:00.107Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Director of Product Management, Fintech",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8152765",
+      "time": "2026-09-14T10:10:15.405Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Director, Global Design & Construction",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8157726",
+      "time": "2026-09-14T10:10:25.309Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Marketing Strategy and Operations Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8030678",
+      "time": "2026-09-14T10:10:26.229Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Service Delivery Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7987741003",
+      "time": "2026-09-14T10:10:26.439Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Head of GTM, AI Inference",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/7428796",
+      "time": "2026-09-14T10:10:27.087Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Digital Communications Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8049608",
+      "time": "2026-09-14T10:10:33.719Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Sales Director – Enterprise, Benelux",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8046286",
+      "time": "2026-09-14T10:10:49.016Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2207,
+  "totalVerifiedInHistory": 2215,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1067,
+    "direct_portal_greenhouse": 1075,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:08:56.975Z",
-  "lastUpdated": "14/9/2026, 3:38:56 pm"
+  "lastSyncedAt": "2026-09-14T10:10:49.035Z",
+  "lastUpdated": "14/9/2026, 3:40:49 pm"
 }
