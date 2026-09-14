@@ -1,23 +1,7 @@
 {
   "jobsScanned": 3571,
-  "applicationsSubmitted": 167,
+  "applicationsSubmitted": 2306,
   "appliedRolesList": [
-    {
-      "company": "Ripple",
-      "title": "Director, Global Transformation",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8096457",
-      "time": "2026-09-02T10:22:40.389Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Head of Managed Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8079242",
-      "time": "2026-09-02T10:23:08.709Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ripple",
       "title": "Head of Managed Services",
@@ -4003,46 +3987,20 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T11:45:15.863Z"
+      "company": "Stripe",
+      "title": "Sales Program Manager, APAC",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8184893",
+      "time": "2026-09-14T11:48:20.830Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T11:45:15.869Z"
-    },
-    {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T11:45:15.874Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T11:45:15.878Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T11:45:15.882Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T11:45:15.886Z"
+      "company": "Figma",
+      "title": "Design Program Manager, AI Evals  (London, United Kingdom)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6135338004",
+      "time": "2026-09-14T11:49:14.660Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2304,
+  "totalVerifiedInHistory": 2306,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1164,
+    "direct_portal_greenhouse": 1166,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:43:19.352Z",
-  "lastUpdated": "14/9/2026, 5:13:19 pm"
+  "lastSyncedAt": "2026-09-14T11:49:14.683Z",
+  "lastUpdated": "14/9/2026, 5:19:14 pm"
 }
