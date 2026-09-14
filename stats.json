@@ -1,31 +1,7 @@
 {
   "jobsScanned": 3501,
-  "applicationsSubmitted": 2204,
+  "applicationsSubmitted": 2207,
   "appliedRolesList": [
-    {
-      "company": "Asana",
-      "title": "Senior Security Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/asana/jobs/7959069",
-      "time": "2026-09-02T00:57:01.978Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pagerduty",
-      "title": "Senior Director, Solutions Consulting",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6147906004",
-      "time": "2026-09-02T00:57:18.337Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "SKF Groups",
-      "title": "Program Manager - PDS",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-pds-skf-groups-bengaluru-5-to-10-years-090426501360?src=directSearch&sid=17883110955214095&xp=1&px=1",
-      "time": "2026-09-02T01:05:17.778Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mobikode",
       "title": "ServiceNow Program Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7986246003",
       "time": "2026-09-14T10:06:59.872Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7988112003",
+      "time": "2026-09-14T10:08:20.653Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "TMT Senior Vice President",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/6100751003",
+      "time": "2026-09-14T10:08:24.102Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Director, Enterprise Sales (AI & Digital Natives)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8051547",
+      "time": "2026-09-14T10:08:56.954Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2204,
+  "totalVerifiedInHistory": 2207,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1064,
+    "direct_portal_greenhouse": 1067,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:06:59.891Z",
-  "lastUpdated": "14/9/2026, 3:36:59 pm"
+  "lastSyncedAt": "2026-09-14T10:08:56.975Z",
+  "lastUpdated": "14/9/2026, 3:38:56 pm"
 }
