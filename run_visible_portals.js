@@ -97,6 +97,7 @@ async function runNaukriAutomation(page) {
       const searchUrl = `https://www.naukri.com/${kw}-jobs-in-bengaluru`;
       await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
       await sleep(4000);
+      console.log(`[Naukri] Landed on URL: ${page.url()} | Title: ${await page.title().catch(() => '')}`);
 
       // Dismiss any popups or chat overlays
       try {
