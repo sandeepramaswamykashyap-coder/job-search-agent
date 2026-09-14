@@ -1,71 +1,7 @@
 {
   "jobsScanned": 3511,
-  "applicationsSubmitted": 2259,
+  "applicationsSubmitted": 2267,
   "appliedRolesList": [
-    {
-      "company": "Starburst",
-      "title": "Sr Director, Pipeline Strategy & Analytics",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/starburst/jobs/5384527008",
-      "time": "2026-09-02T04:17:49.580Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Regional Vice President - Sales, ANZ",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8598428002",
-      "time": "2026-09-02T04:17:58.129Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Sales Director, Enterprise, ANZ",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8131728",
-      "time": "2026-09-02T04:18:09.856Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Director Workplace Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7978897003",
-      "time": "2026-09-02T04:18:24.274Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Staff Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7859686003",
-      "time": "2026-09-02T04:19:10.622Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Vice President, Investor Relations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7810397003",
-      "time": "2026-09-02T04:19:23.992Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cribl",
-      "title": "Regional Sales Director, Bay (Enterprise)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cribl/jobs/6114672004",
-      "time": "2026-09-02T04:20:12.447Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cribl",
-      "title": "Regional Sales Director, Midwest (Strategic)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cribl/jobs/5990909004",
-      "time": "2026-09-02T04:20:28.622Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cribl",
       "title": "Regional Sales Director, Ohio Valley (Enterprise)",
@@ -4001,6 +3937,70 @@
       "url": "https://job-boards.greenhouse.io/n26/jobs/8111591",
       "time": "2026-09-14T10:43:15.368Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Togetherai",
+      "title": "Senior Program Manager, Data Center Delivery",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5070981007",
+      "time": "2026-09-14T10:43:36.574Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "N26",
+      "title": "Strategy & Operations Manager - Core Banking",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/7913103",
+      "time": "2026-09-14T10:43:44.271Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Make",
+      "title": "Head of AI Transformation",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/make/jobs/7987790003",
+      "time": "2026-09-14T10:43:46.720Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Make",
+      "title": "Head of Brand",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/make/jobs/7799520003",
+      "time": "2026-09-14T10:44:08.379Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vercel",
+      "title": "Director, Commercial Sales, EMEA",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5974107004",
+      "time": "2026-09-14T10:45:06.589Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vercel",
+      "title": "Marketing Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6144467004",
+      "time": "2026-09-14T10:45:08.651Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Technical Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5223327007",
+      "time": "2026-09-14T10:45:22.431Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Planetscale",
+      "title": "Head of Events",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4339796009",
+      "time": "2026-09-14T10:45:25.673Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2259,
+  "totalVerifiedInHistory": 2267,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1119,
+    "direct_portal_greenhouse": 1127,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:43:15.388Z",
-  "lastUpdated": "14/9/2026, 4:13:15 pm"
+  "lastSyncedAt": "2026-09-14T10:45:25.691Z",
+  "lastUpdated": "14/9/2026, 4:15:25 pm"
 }
