@@ -1,47 +1,7 @@
 {
   "jobsScanned": 3511,
-  "applicationsSubmitted": 2246,
+  "applicationsSubmitted": 2251,
   "appliedRolesList": [
-    {
-      "company": "Braze",
-      "title": "Director, Business Development JAPAC",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8130911",
-      "time": "2026-09-02T03:45:56.977Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pagerduty",
-      "title": "Corporate Strategy Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831906004",
-      "time": "2026-09-02T03:46:02.344Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Sales Director, Enterprise",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/7984582",
-      "time": "2026-09-02T03:46:10.837Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Professional Services Practice Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8702977002",
-      "time": "2026-09-02T03:46:48.479Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Delivery Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8659462002",
-      "time": "2026-09-02T03:46:53.006Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Workato",
       "title": "Senior Video Content Director - Workato Creative + Video Team",
@@ -4001,6 +3961,46 @@
       "url": "https://job-boards.greenhouse.io/mongodb/jobs/8088171",
       "time": "2026-09-14T10:35:20.157Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Identity Governance and Access Engineer",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8180503",
+      "time": "2026-09-14T10:35:41.790Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Sr. Director, IT Product Management – Post Sales and Partner Technology",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8003065",
+      "time": "2026-09-14T10:37:50.771Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Critical Accounts Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5232611007",
+      "time": "2026-09-14T10:37:52.266Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Transformation Architect - Mexico",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212678007",
+      "time": "2026-09-14T10:39:14.949Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Vice President, Solutions Architect",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8138914",
+      "time": "2026-09-14T10:39:28.717Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2246,
+  "totalVerifiedInHistory": 2251,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1106,
+    "direct_portal_greenhouse": 1111,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:35:20.176Z",
-  "lastUpdated": "14/9/2026, 4:05:20 pm"
+  "lastSyncedAt": "2026-09-14T10:39:28.738Z",
+  "lastUpdated": "14/9/2026, 4:09:28 pm"
 }
