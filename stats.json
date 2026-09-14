@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 3801,
-  "applicationsSubmitted": 188,
+  "jobsScanned": 3811,
+  "applicationsSubmitted": 189,
   "appliedRolesList": [
-    {
-      "company": "Stripe",
-      "title": "Program Manager, Risk Operations GTM Enablement",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8158082",
-      "time": "2026-09-02T13:17:10.504Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Fivetran",
       "title": "Senior Director, Global Sales Compensation",
@@ -4003,46 +3995,54 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T13:29:41.881Z"
-    },
-    {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T13:29:41.886Z"
+      "company": "Zscaler",
+      "title": "Head of Talent Agility",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226578007",
+      "time": "2026-09-14T14:10:09.841Z",
+      "status": "SUBMITTED"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T13:29:41.890Z"
+      "time": "2026-09-14T14:11:23.367Z"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-14T14:11:23.372Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-14T14:11:23.376Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T13:29:41.894Z"
+      "time": "2026-09-14T14:11:23.379Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T13:29:41.897Z"
+      "time": "2026-09-14T14:11:23.382Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T13:29:41.901Z"
+      "time": "2026-09-14T14:11:23.384Z"
     }
   ],
   "failures": [
@@ -4705,13 +4705,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2325,
+  "totalVerifiedInHistory": 2326,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1185,
+    "direct_portal_greenhouse": 1186,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4722,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T13:27:53.752Z",
-  "lastUpdated": "14/9/2026, 6:57:53 pm"
+  "lastSyncedAt": "2026-09-14T14:10:09.865Z",
+  "lastUpdated": "14/9/2026, 7:40:09 pm"
 }
