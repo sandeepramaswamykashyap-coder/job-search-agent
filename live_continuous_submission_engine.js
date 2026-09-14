@@ -97,14 +97,6 @@ async function runWorker(workerId, jobs, browser) {
       if (result && result.success) {
         workerSuccess++;
         console.log(`[Worker-${workerId}] ✅ CONFIRMED SUBMISSION: "${job.title}" @ ${job.company}`);
-        logApplication({
-          company: job.company,
-          title: job.title,
-          portal: result.atsType || job.atsType || 'direct_portal',
-          url: job.applyUrl,
-          time: new Date().toISOString(),
-          status: 'submitted'
-        });
 
         if (workerSuccess % 5 === 0) {
           syncToGitHub(`feat: recorded ${workerSuccess} verified submissions from Worker-${workerId}`);

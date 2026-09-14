@@ -175,7 +175,7 @@ const FIELD_MAP = [
 
   // ── CONTACT ───────────────────────────────────────────────────────────────
   { patterns: [/email/i, /e[\s._-]?mail/i, /electronic[\s._-]?mail/i], value: () => CANDIDATE.email },
-  { patterns: [/phone/i, /mobile/i, /telephone/i, /cell/i, /contact[\s._-]?no/i, /contact[\s._-]?number/i, /ph[\s._-]?no/i, /ph\.no/i, /number/i], value: () => CANDIDATE.phoneUS },
+  { patterns: [/phone/i, /mobile/i, /telephone/i, /cell/i, /contact[\s._-]?no/i, /contact[\s._-]?number/i, /ph[\s._-]?no/i, /ph\.no/i, /number/i], value: () => CANDIDATE.phone },
 
   // ── WORK AUTH / SPONSORSHIP (HIGH PRIORITY — MUST PREVENT FALSE COUNTRY MATCHES) ──
   { patterns: [/what[\s._-]?countr/i, /which[\s._-]?countr/i, /countries[\s._-]?(do[\s._-]?you|where)/i, /country[\s._-]?of[\s._-]?(work|eligib)/i], value: () => CANDIDATE.country },
@@ -612,7 +612,7 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
         targetVal = 'No';
       } else if (/authorized|eligible|right[\s_-]?to[\s_-]?work|legally[\s_-]?permitted/i.test(parentText)) {
         targetVal = 'Yes';
-      } else if (/phone|dial[\s_-]?code|calling[\s_-]?code|^country$|country[\s._-]?code/i.test(parentText)) {
+      } else if (/phone|dial[\s_-]?code|calling[\s_-]?code|\bcountry\b|country[\s._-]?code/i.test(parentText)) {
         targetVal = 'India';
       } else if (/choose[\s_-]?(the[\s_-]?)?country|country[\s_-]?of[\s_-]?residence|country[\s_-]?in[\s_-]?which|current[\s_-]?country|what[\s_-]?country|residing[\s_-]?in|located[\s_-]?in/i.test(parentText)) {
         targetVal = 'India';

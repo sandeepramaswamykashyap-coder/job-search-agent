@@ -163,8 +163,9 @@ async function apply(page, job) {
 async function handleSecurityCodeChallenge(page, company) {
   const codeSelectors = [
     'input[id*="security_code"]', 'input[name*="security_code"]',
-    'input[placeholder*="security code" i]', 'input[placeholder*="code" i]',
-    'input[aria-label*="security code" i]', 'input[id*="code"]'
+    'input[placeholder*="security code" i]', 'input[placeholder*="verification code" i]',
+    'input[aria-label*="security code" i]', 'input[id*="verification_code"]',
+    'input[name*="verification_code"]'
   ];
 
   for (const frame of [page, ...page.frames()]) {
