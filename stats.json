@@ -1,23 +1,7 @@
 {
   "jobsScanned": 3591,
-  "applicationsSubmitted": 172,
+  "applicationsSubmitted": 2311,
   "appliedRolesList": [
-    {
-      "company": "Ripple",
-      "title": "Program Manager, Service and Delivery",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8054046",
-      "time": "2026-09-02T10:24:37.911Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Program Manager, Service and Delivery",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8054046",
-      "time": "2026-09-02T10:24:37.923Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ripple",
       "title": "Senior GRC Program Manager, Ripple Treasury",
@@ -4003,46 +3987,20 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T12:02:22.406Z"
+      "company": "Payoneer",
+      "title": "Growth Operations Manager - Temporary Position",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8067187",
+      "time": "2026-09-14T12:06:29.863Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T12:02:22.411Z"
-    },
-    {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T12:02:22.416Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T12:02:22.420Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T12:02:22.424Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T12:02:22.427Z"
+      "company": "Databricks",
+      "title": "Manager, Strategy & Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8482368002",
+      "time": "2026-09-14T12:07:43.904Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2309,
+  "totalVerifiedInHistory": 2311,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1169,
+    "direct_portal_greenhouse": 1171,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T12:01:40.513Z",
-  "lastUpdated": "14/9/2026, 5:31:40 pm"
+  "lastSyncedAt": "2026-09-14T12:07:43.929Z",
+  "lastUpdated": "14/9/2026, 5:37:43 pm"
 }
