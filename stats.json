@@ -1,31 +1,7 @@
 {
   "jobsScanned": 3511,
-  "applicationsSubmitted": 2251,
+  "applicationsSubmitted": 2254,
   "appliedRolesList": [
-    {
-      "company": "Workato",
-      "title": "Senior Video Content Director - Workato Creative + Video Team",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8633626002",
-      "time": "2026-09-02T03:47:36.036Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Sales Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8644259002",
-      "time": "2026-09-02T03:47:39.112Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Staff Product Manager (Build Experience - Agentic)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8326092002",
-      "time": "2026-09-02T03:47:42.580Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Fivetran",
       "title": "Marketing Operations Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://job-boards.greenhouse.io/mongodb/jobs/8138914",
       "time": "2026-09-14T10:39:28.717Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tavily",
+      "title": "Head of Forward Deployment Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tavily/jobs/4917731101",
+      "time": "2026-09-14T10:40:53.867Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Togetherai",
+      "title": "Director, Data Center Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5101202007",
+      "time": "2026-09-14T10:40:57.892Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Figure",
+      "title": "Director, Revenue Accounting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figure/jobs/8556834002",
+      "time": "2026-09-14T10:40:58.922Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2251,
+  "totalVerifiedInHistory": 2254,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1111,
+    "direct_portal_greenhouse": 1114,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:39:28.738Z",
-  "lastUpdated": "14/9/2026, 4:09:28 pm"
+  "lastSyncedAt": "2026-09-14T10:40:58.941Z",
+  "lastUpdated": "14/9/2026, 4:10:58 pm"
 }
