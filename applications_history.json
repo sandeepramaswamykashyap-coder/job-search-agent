@@ -18326,5 +18326,29 @@
     "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8172411",
     "time": "2026-09-14T11:19:49.772Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Okta",
+    "title": "Director, Site Reliability Engineering",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/okta/jobs/8155879",
+    "time": "2026-09-14T11:21:38.231Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/coinbase/jobs/8051871",
+    "time": "2026-09-14T11:22:47.947Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Tanium",
+    "title": "RVP, Solution Engineering - Central",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113497",
+    "time": "2026-09-14T11:23:50.698Z",
+    "status": "SUBMITTED"
   }
 ]

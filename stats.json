@@ -1,31 +1,7 @@
 {
   "jobsScanned": 3541,
-  "applicationsSubmitted": 2291,
+  "applicationsSubmitted": 2294,
   "appliedRolesList": [
-    {
-      "company": "Monzo",
-      "title": "FinCrime and Fraud Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8076898",
-      "time": "2026-09-02T07:02:25.203Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Director of Compliance, Invest",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7855265003",
-      "time": "2026-09-02T07:35:53.610Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Principal Program Manager, Performance Management",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7893878003",
-      "time": "2026-09-02T07:36:47.150Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Sofi",
       "title": "Senior Director, AI Enterprise Transformation",
@@ -4001,6 +3977,30 @@
       "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8172411",
       "time": "2026-09-14T11:19:49.772Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Site Reliability Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8155879",
+      "time": "2026-09-14T11:21:38.231Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8051871",
+      "time": "2026-09-14T11:22:47.947Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tanium",
+      "title": "RVP, Solution Engineering - Central",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8113497",
+      "time": "2026-09-14T11:23:50.698Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2291,
+  "totalVerifiedInHistory": 2294,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1151,
+    "direct_portal_greenhouse": 1154,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:19:49.790Z",
-  "lastUpdated": "14/9/2026, 4:49:49 pm"
+  "lastSyncedAt": "2026-09-14T11:23:50.722Z",
+  "lastUpdated": "14/9/2026, 4:53:50 pm"
 }
