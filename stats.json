@@ -1,23 +1,7 @@
 {
   "jobsScanned": 3131,
-  "applicationsSubmitted": 0,
+  "applicationsSubmitted": 2145,
   "appliedRolesList": [
-    {
-      "company": "Klaviyo",
-      "title": "Director, Customer Success - Enterprise",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7979747003",
-      "time": "2026-09-01T17:37:15.191Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Director, Product Management - Cloud Security and Shared Capabilities",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8030324",
-      "time": "2026-09-01T17:49:34.361Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Datadog",
       "title": "Head of Competitive Intelligence",
@@ -4003,46 +3987,20 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-13T14:52:06.059Z"
+      "company": "Openai",
+      "title": "Strategy & Operations Lead — Korea",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/345bda68-5b8d-43e4-9c05-ecac06f03912",
+      "time": "2026-09-14T02:03:37.053Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-13T14:52:06.064Z"
-    },
-    {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-13T14:52:06.068Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-13T14:52:06.072Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-13T14:52:06.076Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-13T14:52:06.080Z"
+      "company": "Openai",
+      "title": "Strategy & Operations Lead — Korea",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/345bda68-5b8d-43e4-9c05-ecac06f03912",
+      "time": "2026-09-14T02:03:37.221Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2143,
+  "totalVerifiedInHistory": 2145,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
@@ -4718,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 349,
-    "ashby": 335,
+    "direct_portal_ashby": 350,
+    "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-13T14:47:04.599Z",
-  "lastUpdated": "13/9/2026, 8:17:04 pm"
+  "lastSyncedAt": "2026-09-14T02:03:37.239Z",
+  "lastUpdated": "14/9/2026, 7:33:37 am"
 }
