@@ -98,7 +98,19 @@ async function runNaukriAutomation(page) {
       await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
       await sleep(4000);
 
-      const jobCards = await page.locator('.srp-jobtuple-wrapper, [class*="jobTuple"], [class*="srp-tuple"]').all();
+      // Dismiss any popups or chat overlays
+      try {
+        const dismissBtn = page.locator('.crossIcon, .chat-close, .chatbot-close, #root-bot .cross, .drawer-close').first();
+        if (await dismissBtn.isVisible({ timeout: 1500 }).catch(() => false)) {
+          await dismissBtn.click().catch(() => {});
+        }
+      } catch (_) {}
+
+      // Scroll to trigger lazy loading of cards
+      await page.evaluate(() => window.scrollBy(0, 600)).catch(() => {});
+      await sleep(2000);
+
+      const jobCards = await page.locator('.srp-jobtuple-wrapper, article.jobTuple, [data-job-id], .cust-job-tuple, .tuple, div[class*="srp-jobtuple"], .list article, div[class*="job-listing"] article').all();
       console.log(`[Naukri] Found ${jobCards.length} job cards for "${kw}".`);
 
       let appliesForKeyword = 0;
