@@ -1,71 +1,7 @@
 {
-  "jobsScanned": 3481,
-  "applicationsSubmitted": 8,
+  "jobsScanned": 3491,
+  "applicationsSubmitted": 2153,
   "appliedRolesList": [
-    {
-      "company": "Datadog",
-      "title": "Head of Competitive Intelligence",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8054420",
-      "time": "2026-09-01T17:49:36.025Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Implementation Services Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/7809909",
-      "time": "2026-09-01T17:50:06.536Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Procurement Operations Leader, Buy Desk",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8304676002",
-      "time": "2026-09-01T18:15:53.157Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Vice President, Enterprise Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/7838464",
-      "time": "2026-09-01T18:19:29.769Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Director, Site Reliability Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7855799003",
-      "time": "2026-09-01T18:44:08.234Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "GRC Program Manager, Product Lifecycle Assurance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
-      "time": "2026-09-01T19:01:35.964Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "GRC Program Manager, Product Lifecycle Assurance",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
-      "time": "2026-09-01T19:01:36.055Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Marketing Technology & Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/43b6c299-d5df-4cf4-a816-142ba3014a9d",
-      "time": "2026-09-01T19:02:54.074Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Baseten",
       "title": "Marketing Technology & Operations Lead",
@@ -4003,46 +3939,68 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T02:34:00.446Z"
+      "company": "Cohere",
+      "title": "Senior Director, Integrated Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/80c4460f-21f8-4162-aa28-fd8ad294b715",
+      "time": "2026-09-14T09:36:41.313Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T02:34:00.451Z"
+      "company": "Suno",
+      "title": "Director, Trust & Safety",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/9ed2cea6-b250-4b49-bd75-b761793af0f8",
+      "time": "2026-09-14T09:36:43.290Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T02:34:00.455Z"
+      "company": "Plaid",
+      "title": "Corporate Counsel, Governance and Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/3f324f37-afde-40ba-88e0-2bf91cba1968",
+      "time": "2026-09-14T09:36:43.442Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T02:34:00.459Z"
+      "company": "Plaid",
+      "title": "Head of Revenue - Banking and Wealth",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/6c299523-a4a2-47c7-9d77-c75cbae64a81",
+      "time": "2026-09-14T09:36:54.047Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T02:34:00.463Z"
+      "company": "Oaknorth",
+      "title": "Director, Debt Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/259d95e5-4a20-4eb3-8fc5-0e2942be164a",
+      "time": "2026-09-14T09:36:55.903Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T02:34:00.467Z"
+      "company": "Uipath",
+      "title": "Senior Sales Director (RVP), Consumer Industries UK&I",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/934a13f1-b6d3-44fa-a5e4-83a9dec0bbce",
+      "time": "2026-09-14T09:36:59.610Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zapier",
+      "title": "Director, India",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/zapier/381a771d-b04c-4a8d-8515-ea677d6bd80b",
+      "time": "2026-09-14T09:37:01.051Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Director, GTM Business Systems",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8177617",
+      "time": "2026-09-14T09:39:06.170Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2145,
+  "totalVerifiedInHistory": 2153,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1013,
+    "direct_portal_greenhouse": 1014,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 350,
+    "direct_portal_ashby": 357,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T02:30:53.240Z",
-  "lastUpdated": "14/9/2026, 8:00:53 am"
+  "lastSyncedAt": "2026-09-14T09:39:46.405Z",
+  "lastUpdated": "14/9/2026, 3:09:46 pm"
 }

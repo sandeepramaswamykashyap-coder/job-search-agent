@@ -40,29 +40,27 @@ try {
   console.log('☕ [2/5] macOS Caffeinate activated (sleep prevented).');
 } catch (_) {}
 
-// 4. Start Daemons
-console.log('🛡️  [3/5] Starting Inbox Cleaner...');
-const cleaner = spawn('nice', ['-n', '19', 'node', 'inbox_auto_cleaner.js'], { detached: true, stdio: 'ignore' });
+// 4. Start Daemons with dedicated log streams for full visibility
+const engineLog = fs.openSync(path.join(PROJECT_DIR, 'engine.log'), 'a');
+const schedulerLog = fs.openSync(path.join(PROJECT_DIR, 'scheduler.log'), 'a');
+const portalsLog = fs.openSync(path.join(PROJECT_DIR, 'portals.log'), 'a');
+const inboxLog = fs.openSync(path.join(PROJECT_DIR, 'inbox.log'), 'a');
+
+console.log('🛡️  [3/5] Starting Inbox Cleaner (logging to inbox.log)...');
+const cleaner = spawn('nice', ['-n', '19', 'node', 'inbox_auto_cleaner.js'], { detached: true, stdio: ['ignore', inboxLog, inboxLog] });
 cleaner.unref();
 
-console.log('⏰ [4/5] Starting Master Scheduler (8 AM & 8 PM IST reports)...');
-const scheduler = spawn('node', ['scheduler.js'], { detached: true, stdio: 'ignore' });
+console.log('⏰ [4/5] Starting Master Scheduler (logging to scheduler.log)...');
+const scheduler = spawn('node', ['scheduler.js'], { detached: true, stdio: ['ignore', schedulerLog, schedulerLog] });
 scheduler.unref();
 
-const isSilent = process.argv.includes('--silent');
-if (isSilent) {
-  console.log('⚡ [5/5] Launching Quad-Worker Grinder (Silent Background)...');
-  const grinder = spawn('nice', ['-n', '15', 'node', 'live_continuous_submission_engine.js'], { detached: true, stdio: 'ignore' });
-  grinder.unref();
-} else {
-  console.log('🖥️  [5/5] Launching Visible Headed Runner (Naukri, IIMJobs & Corporate ATS)...');
-  const visible = spawn('node', ['run_visible_portals.js'], { detached: true, stdio: 'ignore' });
-  visible.unref();
+console.log('🖥️  [5/5] Launching Visible Headed Runner (logging to portals.log)...');
+const visible = spawn('node', ['run_visible_portals.js'], { detached: true, stdio: ['ignore', portalsLog, portalsLog] });
+visible.unref();
 
-  console.log('⚡ Launching Parallel Quad-Worker Grinder...');
-  const grinder = spawn('nice', ['-n', '15', 'node', 'live_continuous_submission_engine.js'], { detached: true, stdio: 'ignore' });
-  grinder.unref();
-}
+console.log('⚡ Launching Parallel Quad-Worker Grinder (logging to engine.log)...');
+const grinder = spawn('nice', ['-n', '15', 'node', 'live_continuous_submission_engine.js'], { detached: true, stdio: ['ignore', engineLog, engineLog] });
+grinder.unref();
 
 setTimeout(() => {
   console.log('\n======================================================================');
