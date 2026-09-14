@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 4331,
-  "applicationsSubmitted": 2348,
+  "jobsScanned": 4341,
+  "applicationsSubmitted": 213,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Client Director - Financial Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7812863003",
-      "time": "2026-09-02T16:31:03.638Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Client Director - Cardinal Health",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7832845003",
-      "time": "2026-09-02T16:31:15.109Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Client Director - Life Sciences",
@@ -4001,6 +3985,64 @@
       "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316",
       "time": "2026-09-14T17:56:49.009Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Vapi",
+      "title": "Member of Technical Staff, Agentic Developer Experience",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/0d4f1420-2590-4a38-aac4-3efda12eadb0",
+      "time": "2026-09-14T17:57:16.465Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vapi",
+      "title": "Member of Technical Staff, Agentic Release Engineer",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/vapi/250ac759-97a6-46b8-ad7c-9bb4f223dd26",
+      "time": "2026-09-14T17:57:46.868Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-14T17:58:07.965Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-14T17:58:07.972Z"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-14T17:58:07.977Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-14T17:58:07.981Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-14T17:58:07.985Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-14T17:58:07.989Z"
     }
   ],
   "failures": [
@@ -4663,7 +4705,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2348,
+  "totalVerifiedInHistory": 2350,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
@@ -4676,10 +4718,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 365,
+    "direct_portal_ashby": 367,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T17:56:49.037Z",
-  "lastUpdated": "14/9/2026, 11:26:49 pm"
+  "lastSyncedAt": "2026-09-14T17:57:46.893Z",
+  "lastUpdated": "14/9/2026, 11:27:46 pm"
 }
