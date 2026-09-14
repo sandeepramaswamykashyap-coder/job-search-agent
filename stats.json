@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 4371,
-  "applicationsSubmitted": 2355,
+  "jobsScanned": 4377,
+  "applicationsSubmitted": 218,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Director - Strategy Consulting Partnerships North America",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7773585003",
-      "time": "2026-09-02T16:33:16.235Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Director, Value Engineering - Financial Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7507911003",
-      "time": "2026-09-02T16:33:25.736Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (TPM, Inference)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
-      "time": "2026-09-02T16:35:00.208Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Perplexity",
       "title": "Member of Technical Staff (TPM, Inference)",
@@ -4001,6 +3977,51 @@
       "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
       "time": "2026-09-14T18:09:17.395Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+      "time": "2026-09-14T18:09:49.805Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Singapore)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+      "time": "2026-09-14T18:10:21.688Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "time": "2026-09-14T18:10:50.138Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-14T18:13:26.450Z"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-14T18:13:26.456Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-14T18:13:26.460Z"
     }
   ],
   "failures": [
@@ -4663,7 +4684,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2355,
+  "totalVerifiedInHistory": 2358,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
@@ -4676,10 +4697,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 372,
+    "direct_portal_ashby": 375,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T18:09:17.424Z",
-  "lastUpdated": "14/9/2026, 11:39:17 pm"
+  "lastSyncedAt": "2026-09-14T18:11:00.369Z",
+  "lastUpdated": "14/9/2026, 11:41:00 pm"
 }
