@@ -1,31 +1,7 @@
 {
   "jobsScanned": 3551,
-  "applicationsSubmitted": 2299,
+  "applicationsSubmitted": 2302,
   "appliedRolesList": [
-    {
-      "company": "Sofi",
-      "title": "Brand Director, Social Strategy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7753104003",
-      "time": "2026-09-02T08:42:44.495Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Director, People Business Partner (Global Operations)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7776895003",
-      "time": "2026-09-02T08:42:50.250Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Director of Digital Employee Experience",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7930079003",
-      "time": "2026-09-02T08:43:05.006Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Sofi",
       "title": "Director of Corporate Infrastructure",
@@ -4001,6 +3977,30 @@
       "url": "https://job-boards.greenhouse.io/figma/jobs/6180170004",
       "time": "2026-09-14T11:29:48.451Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "N26",
+      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/8028183",
+      "time": "2026-09-14T11:35:00.021Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tavily",
+      "title": "Senior Product Manager, Agentic Search",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tavily/jobs/4845644101",
+      "time": "2026-09-14T11:35:00.705Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Transformation Architect - NEUR",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5193810007",
+      "time": "2026-09-14T11:35:09.331Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2299,
+  "totalVerifiedInHistory": 2302,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1159,
+    "direct_portal_greenhouse": 1162,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T11:29:48.472Z",
-  "lastUpdated": "14/9/2026, 4:59:48 pm"
+  "lastSyncedAt": "2026-09-14T11:35:09.350Z",
+  "lastUpdated": "14/9/2026, 5:05:09 pm"
 }
