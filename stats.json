@@ -1,79 +1,7 @@
 {
   "jobsScanned": 3511,
-  "applicationsSubmitted": 2237,
+  "applicationsSubmitted": 2246,
   "appliedRolesList": [
-    {
-      "company": "Databricks",
-      "title": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569514002",
-      "time": "2026-09-02T03:35:46.672Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Head of EMEA Financial Services GTM",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8501026002",
-      "time": "2026-09-02T03:35:47.003Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Paid Media",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8638631002",
-      "time": "2026-09-02T03:36:47.686Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Compensation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8627553002",
-      "time": "2026-09-02T03:37:20.546Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Field Engineering - Financial Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8628960002",
-      "time": "2026-09-02T03:37:22.617Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Sales Specialist",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8569610002",
-      "time": "2026-09-02T03:37:23.193Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Regional Director - Enterprise Sales (Saudi Arabia)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/7338847",
-      "time": "2026-09-02T03:43:06.817Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Director, UK Enterprise Sales (Retail)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7479359",
-      "time": "2026-09-02T03:43:47.703Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Head of Business Marketing, Australia",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8154435",
-      "time": "2026-09-02T03:44:32.597Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Braze",
       "title": "Director, Business Development JAPAC",
@@ -4001,6 +3929,78 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7988718003",
       "time": "2026-09-14T10:30:56.355Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Director, Growth Sales (AI & Digital Natives)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8177516",
+      "time": "2026-09-14T10:32:04.806Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Professional Services Project Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8050384",
+      "time": "2026-09-14T10:32:10.584Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Application Product Manager - Oracle Transformation Solutions",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885761003",
+      "time": "2026-09-14T10:33:26.479Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Director, Executive Communications",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8075719",
+      "time": "2026-09-14T10:33:26.630Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7988114003",
+      "time": "2026-09-14T10:35:10.574Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Director, Solutions Architecture",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8066684",
+      "time": "2026-09-14T10:35:11.436Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Revenue Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8157127",
+      "time": "2026-09-14T10:35:16.874Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Director Product Management, Growth",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8157328",
+      "time": "2026-09-14T10:35:18.628Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Director, Customer Health & Critical Accounts",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8088171",
+      "time": "2026-09-14T10:35:20.157Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2237,
+  "totalVerifiedInHistory": 2246,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1097,
+    "direct_portal_greenhouse": 1106,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:30:56.375Z",
-  "lastUpdated": "14/9/2026, 4:00:56 pm"
+  "lastSyncedAt": "2026-09-14T10:35:20.176Z",
+  "lastUpdated": "14/9/2026, 4:05:20 pm"
 }
