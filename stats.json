@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 4131,
-  "applicationsSubmitted": 200,
+  "jobsScanned": 4141,
+  "applicationsSubmitted": 202,
   "appliedRolesList": [
-    {
-      "company": "Payoneer",
-      "title": "Senior Director of Pricing",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8103408",
-      "time": "2026-09-02T14:16:13.231Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Regional Customer Success Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8087776",
-      "time": "2026-09-02T14:16:52.428Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ripple",
       "title": "Director, Ecosystem Growth",
@@ -4003,46 +3987,62 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Datadog",
+      "title": "Legal Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8189660",
+      "time": "2026-09-14T16:43:36.643Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Transformation Architect - Enterprise",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5156075007",
+      "time": "2026-09-14T16:43:45.610Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T16:39:57.331Z"
+      "time": "2026-09-14T16:44:16.176Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T16:39:57.338Z"
+      "time": "2026-09-14T16:44:16.182Z"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T16:39:57.342Z"
+      "time": "2026-09-14T16:44:16.186Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T16:39:57.346Z"
+      "time": "2026-09-14T16:44:16.190Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T16:39:57.350Z"
+      "time": "2026-09-14T16:44:16.194Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T16:39:57.354Z"
+      "time": "2026-09-14T16:44:16.197Z"
     }
   ],
   "failures": [
@@ -4705,13 +4705,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2337,
+  "totalVerifiedInHistory": 2339,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1196,
+    "direct_portal_greenhouse": 1198,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4722,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T16:39:37.599Z",
-  "lastUpdated": "14/9/2026, 10:09:37 pm"
+  "lastSyncedAt": "2026-09-14T16:43:45.631Z",
+  "lastUpdated": "14/9/2026, 10:13:45 pm"
 }
