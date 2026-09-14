@@ -1,47 +1,7 @@
 {
   "jobsScanned": 3511,
-  "applicationsSubmitted": 2254,
+  "applicationsSubmitted": 2259,
   "appliedRolesList": [
-    {
-      "company": "Fivetran",
-      "title": "Marketing Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7818276003",
-      "time": "2026-09-02T03:48:38.956Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Commercial Sales Director (Benelux)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7787897003",
-      "time": "2026-09-02T03:49:13.022Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Customer Success Strategy & Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8087774",
-      "time": "2026-09-02T04:04:31.348Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Global Total Rewards Program Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8097567",
-      "time": "2026-09-02T04:09:00.360Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Director, Sales Partners & Agency - Greater China Region",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8016669",
-      "time": "2026-09-02T04:16:01.682Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Starburst",
       "title": "Sr Director, Pipeline Strategy & Analytics",
@@ -4001,6 +3961,46 @@
       "url": "https://job-boards.greenhouse.io/figure/jobs/8556834002",
       "time": "2026-09-14T10:40:58.922Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Togetherai",
+      "title": "Senior University Recruiting Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5209804007",
+      "time": "2026-09-14T10:41:29.904Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Figure",
+      "title": "Director, Digital Assets FinOps",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figure/jobs/8733533002",
+      "time": "2026-09-14T10:42:16.321Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tanium",
+      "title": "Director of Strategic Accounts - SLED Northeast",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/7874935",
+      "time": "2026-09-14T10:42:41.961Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "N26",
+      "title": "Senior Product Manager - Operations Automation & Enablement (OAE)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/7996650",
+      "time": "2026-09-14T10:43:10.536Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "N26",
+      "title": "Head of Product, Core Banking Systems",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/8111591",
+      "time": "2026-09-14T10:43:15.368Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2254,
+  "totalVerifiedInHistory": 2259,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1114,
+    "direct_portal_greenhouse": 1119,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T10:40:58.941Z",
-  "lastUpdated": "14/9/2026, 4:10:58 pm"
+  "lastSyncedAt": "2026-09-14T10:43:15.388Z",
+  "lastUpdated": "14/9/2026, 4:13:15 pm"
 }
