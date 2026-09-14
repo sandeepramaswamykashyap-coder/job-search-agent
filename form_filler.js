@@ -370,14 +370,25 @@ async function fillCustomDropdown(frame, cs, targetVal) {
     const context = frame || cs.page();
     await cs.scrollIntoViewIfNeeded({ timeout: 2000 }).catch(() => {});
     
+    // Always click control to open dropdown menu
+    const control = cs.locator('.select__control, [class*="control"]').first();
+    if (await control.count() > 0) {
+      await control.click({ force: true }).catch(() => {});
+    } else {
+      await cs.click({ force: true, timeout: 1500 }).catch(() => {});
+    }
+    await context.waitForTimeout(300);
+
     const innerInput = cs.locator('input').first();
     const inputId = await innerInput.getAttribute('id').catch(() => '') || '';
     
     const patterns = [new RegExp('^\\s*' + targetVal.split(' ')[0], 'i')];
     if (/india/i.test(targetVal)) {
-      patterns.push(/elsewhere|located\s*elsewhere|other|international|rest\s*of\s*world|non[\s._-]?us/i);
+      patterns.push(/india|\+91|elsewhere|located\s*elsewhere|other|international|rest\s*of\s*world|non[\s._-]?us/i);
+    } else if (/bengaluru|bangalore/i.test(targetVal)) {
+      patterns.push(/bangalore|bengaluru/i);
     } else if (/no/i.test(targetVal)) {
-      patterns.push(/^no\b|none|never|decline/i);
+      patterns.push(/^no\b|none|never|decline|not\s*a\s*protected|do\s*not/i);
     } else if (/yes/i.test(targetVal)) {
       patterns.push(/^yes\b|true|authorized/i);
     } else if (/bachelor/i.test(targetVal)) {
@@ -386,18 +397,19 @@ async function fillCustomDropdown(frame, cs, targetVal) {
       patterns.push(/mysore|university|other/i);
     }
 
-    // Try typing query if inner input exists
-    let typed = false;
-    if (await innerInput.count() > 0) {
-      await innerInput.focus().catch(() => {});
-      await innerInput.fill('').catch(() => {});
-      const query = /school/i.test(inputId) ? 'Other' : (/bachelor/i.test(targetVal) ? 'Bachelor' : targetVal.split(' ')[0]);
-      await innerInput.pressSequentially(query, { delay: 30 }).catch(() => {});
-      await context.waitForTimeout(400);
-      typed = true;
-    } else {
-      await cs.click({ force: true, timeout: 1500 }).catch(() => {});
-      await context.waitForTimeout(350);
+    // Try typing query if search input exists
+    const inputTarget = inputId ? context.locator('#' + inputId) : innerInput;
+    if (await inputTarget.count() > 0) {
+      let query = '';
+      if (/school/i.test(inputId)) query = 'Other';
+      else if (/location|city/i.test(inputId)) query = 'Bangalore';
+      else if (/degree/i.test(inputId) || /bachelor/i.test(targetVal)) query = 'Bachelor';
+      else if (/reside|country/i.test(inputId)) query = 'India';
+
+      if (query) {
+        await inputTarget.focus().catch(() => {});
+        await inputTarget.pressSequentially(query, { delay: 30 }).catch(() => {});
+      }
     }
 
     // Locate the specific listbox/menu
@@ -406,6 +418,9 @@ async function fillCustomDropdown(frame, cs, targetVal) {
       : context.locator('.select__menu [role="listbox"], [role="listbox"]:visible, [class*="menu"]:visible').first();
 
     const menuContext = (await listbox.count() > 0) ? listbox : context;
+
+    // Wait for async options to appear (up to 3.5s)
+    await menuContext.locator('[role="option"], [class*="option"]:not([class*="group"])').first().waitFor({ state: 'visible', timeout: 3500 }).catch(() => {});
 
     // 1. Direct option matching in visible menu
     for (const pat of patterns) {
@@ -434,14 +449,6 @@ async function fillCustomDropdown(frame, cs, targetVal) {
         await context.waitForTimeout(200);
         return true;
       }
-    }
-
-    // 3. If typing occurred, press Enter as final attempt
-    if (typed) {
-      await innerInput.press('ArrowDown').catch(() => {});
-      await innerInput.press('Enter').catch(() => {});
-      await context.waitForTimeout(200);
-      return true;
     }
   } catch (_) {}
   return false;
@@ -515,6 +522,8 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
     try {
       const type = await input.getAttribute('type').catch(() => 'text') || 'text';
       if (['hidden', 'file', 'submit', 'checkbox', 'radio', 'image', 'reset', 'button'].includes(type)) continue;
+      const role = await input.getAttribute('role').catch(() => '') || '';
+      if (role === 'combobox') continue;
 
       const name  = await input.getAttribute('name').catch(() => '') || '';
       const id    = await input.getAttribute('id').catch(() => '') || '';

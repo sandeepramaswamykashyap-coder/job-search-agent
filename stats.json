@@ -1,143 +1,7 @@
 {
-  "jobsScanned": 3491,
-  "applicationsSubmitted": 2162,
+  "jobsScanned": 3501,
+  "applicationsSubmitted": 2179,
   "appliedRolesList": [
-    {
-      "company": "Zoominfo",
-      "title": "Senior Director, Software Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8581886002",
-      "time": "2026-09-01T20:01:45.753Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Sales Director, Latam",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8157434",
-      "time": "2026-09-01T20:02:03.824Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zoominfo",
-      "title": "Principal Product Manager, Agentic Orchestration",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8477033002",
-      "time": "2026-09-01T20:02:06.341Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Sales Director, South Korea",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8158102",
-      "time": "2026-09-01T20:02:20.257Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samsara",
-      "title": "GTM Business Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/7942733",
-      "time": "2026-09-01T20:03:22.046Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samsara",
-      "title": "Director, Field Sales Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/7695309",
-      "time": "2026-09-01T20:03:34.482Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Qualtrics",
-      "title": "Head of Public Relations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/qualtrics/jobs/8130359",
-      "time": "2026-09-01T20:05:09.695Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Qualtrics",
-      "title": "Head of Security Platforms",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/qualtrics/jobs/8055667",
-      "time": "2026-09-01T20:05:24.367Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Starburst",
-      "title": "VP, Professional Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/starburst/jobs/5375098008",
-      "time": "2026-09-01T20:05:49.469Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Staff Product Manager (Enterprise & AI Governance)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8116160002",
-      "time": "2026-09-01T20:05:56.054Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Commercial Sales Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7796447003",
-      "time": "2026-09-01T20:06:08.200Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Director, Enterprise Product Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8157665",
-      "time": "2026-09-01T20:31:54.823Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Director, Engineering - Digital Experience Monitoring",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8050591",
-      "time": "2026-09-01T21:07:10.958Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Starburst",
-      "title": "Head of Engineering, AI Platform",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/starburst/jobs/4884854008",
-      "time": "2026-09-01T21:42:07.792Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Customer Sales Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7796453003",
-      "time": "2026-09-01T21:42:48.609Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Director, GTM Strategy & Planning",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7801100003",
-      "time": "2026-09-01T21:42:54.731Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Majors Sales Director (Bay Area)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7787891003",
-      "time": "2026-09-01T21:43:52.933Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Fivetran",
       "title": "Regional Director, Enterprise",
@@ -4001,6 +3865,142 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8195629",
       "time": "2026-09-14T09:44:32.617Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Asana",
+      "title": "Head of UKI Enterprise Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/asana/jobs/7629129",
+      "time": "2026-09-14T09:45:26.097Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "Director, Customer Success, Enterprise",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8164569",
+      "time": "2026-09-14T09:46:46.138Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "Senior Delivery Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8177660",
+      "time": "2026-09-14T09:49:20.320Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "Senior Director, GTM Product Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8089828",
+      "time": "2026-09-14T09:49:24.970Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Samsara",
+      "title": "Technical Program Manager - Enterprise Security",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsara/jobs/8164851",
+      "time": "2026-09-14T09:50:04.976Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Samsara",
+      "title": "Senior Web Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsara/jobs/8179593",
+      "time": "2026-09-14T09:50:55.451Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Chime",
+      "title": "Associate Creative Director, Growth Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/chime/jobs/8684363002",
+      "time": "2026-09-14T09:51:47.603Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Chime",
+      "title": "Creative Director, Brand",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/chime/jobs/8792463002",
+      "time": "2026-09-14T09:52:17.515Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Head of Corporate Development",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/d9a78583-cca6-4d76-96f9-846693a37815",
+      "time": "2026-09-14T09:53:58.933Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Brex",
+      "title": "Senior Marketing Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/brex/jobs/8787020002",
+      "time": "2026-09-14T09:56:17.081Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Competitive Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8175673",
+      "time": "2026-09-14T09:56:17.500Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Figma",
+      "title": "Director, SMB Sales (London, United Kingdom)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6163420004",
+      "time": "2026-09-14T09:56:21.320Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Specialist Solutions Architecture, Revenue (AMER)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/7523947",
+      "time": "2026-09-14T09:56:29.207Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Director, Enterprise Customer Care - AI Strategy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8099800",
+      "time": "2026-09-14T09:57:57.640Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Managing Director, Canada Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8129827",
+      "time": "2026-09-14T09:58:26.563Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Program Manager, R&D Talent Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8177800",
+      "time": "2026-09-14T09:59:01.585Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "AVP,  Agency & SI Partnerships",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8188879",
+      "time": "2026-09-14T09:59:04.039Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2162,
+  "totalVerifiedInHistory": 2179,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1023,
+    "direct_portal_greenhouse": 1039,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 357,
+    "direct_portal_ashby": 358,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T09:44:32.636Z",
-  "lastUpdated": "14/9/2026, 3:14:32 pm"
+  "lastSyncedAt": "2026-09-14T09:59:04.060Z",
+  "lastUpdated": "14/9/2026, 3:29:04 pm"
 }
