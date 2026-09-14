@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 3621,
-  "applicationsSubmitted": 180,
+  "jobsScanned": 3631,
+  "applicationsSubmitted": 182,
   "appliedRolesList": [
-    {
-      "company": "Oaknorth",
-      "title": "Director, Credit - Trading Businesses",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/3b6d7a53-905b-4e91-8f7a-33213b3273fb",
-      "time": "2026-09-02T11:34:12.661Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Enterprise Commerce Architect, Strategy & Transformation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8139711",
-      "time": "2026-09-02T11:35:04.212Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ATPI - Direct Travel Group",
       "title": "Senior Program Manager",
@@ -4003,46 +3987,62 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Cloudflare",
+      "title": "Strategy and Operations Manager, Executive Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8139424",
+      "time": "2026-09-14T12:29:34.072Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Director, Services Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210701007",
+      "time": "2026-09-14T12:32:10.286Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-14T12:25:45.579Z"
+      "time": "2026-09-14T12:32:30.346Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-14T12:25:45.584Z"
+      "time": "2026-09-14T12:32:30.352Z"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-14T12:25:45.589Z"
+      "time": "2026-09-14T12:32:30.357Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-14T12:25:45.593Z"
+      "time": "2026-09-14T12:32:30.362Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-14T12:25:45.597Z"
+      "time": "2026-09-14T12:32:30.366Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-14T12:25:45.601Z"
+      "time": "2026-09-14T12:32:30.370Z"
     }
   ],
   "failures": [
@@ -4705,13 +4705,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2317,
+  "totalVerifiedInHistory": 2319,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1177,
+    "direct_portal_greenhouse": 1179,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4722,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-14T12:24:19.951Z",
-  "lastUpdated": "14/9/2026, 5:54:19 pm"
+  "lastSyncedAt": "2026-09-14T12:32:10.313Z",
+  "lastUpdated": "14/9/2026, 6:02:10 pm"
 }
