@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 6617,
-  "applicationsSubmitted": 58,
+  "jobsScanned": 6777,
+  "applicationsSubmitted": 60,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Customer Success Program Manager - Scale Team",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7823005003",
-      "time": "2026-09-03T05:38:02.189Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Enterprise Architect Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7681584003",
-      "time": "2026-09-03T05:39:36.888Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "Senior Program Manager / Associate Program Director | Agile | Delivery",
@@ -4003,46 +3987,62 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T10:40:13.085Z"
+      "company": "Stripe",
+      "title": "Benefits Program Manager, EMEA",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8202831",
+      "time": "2026-09-15T11:11:40.407Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Benefits Program Manager, EMEA",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8202831",
+      "time": "2026-09-15T11:11:40.581Z",
+      "status": "SUBMITTED"
     },
     {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T10:40:13.091Z"
+      "time": "2026-09-15T11:11:45.410Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T10:40:13.097Z"
+      "time": "2026-09-15T11:11:45.413Z"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-15T11:11:45.415Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T10:40:13.101Z"
+      "time": "2026-09-15T11:11:45.418Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T10:40:13.105Z"
+      "time": "2026-09-15T11:11:45.421Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T10:40:13.109Z"
+      "time": "2026-09-15T11:11:45.423Z"
     }
   ],
   "failures": [
@@ -4705,23 +4705,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2410,
+  "totalVerifiedInHistory": 2412,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 57,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1216,
+    "direct_portal_greenhouse": 1217,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 119,
+    "greenhouse": 120,
     "direct_portal_ashby": 391,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T10:39:37.779Z",
-  "lastUpdated": "15/9/2026, 4:09:37 pm"
+  "lastSyncedAt": "2026-09-15T11:11:40.610Z",
+  "lastUpdated": "15/9/2026, 4:41:40 pm"
 }
