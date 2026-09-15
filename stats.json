@@ -1,39 +1,7 @@
 {
-  "jobsScanned": 5367,
-  "applicationsSubmitted": 2387,
+  "jobsScanned": 5407,
+  "applicationsSubmitted": 39,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Developer Experience",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/ad958934-fd89-4033-8b13-1a4871d8073c",
-      "time": "2026-09-03T01:13:03.245Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Head of Sales, Billing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8156998",
-      "time": "2026-09-03T01:16:06.050Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Reddit",
-      "title": "Director, Privacy Legal",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8164961",
-      "time": "2026-09-03T01:37:22.146Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Director of Growth and Acquisition Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8780134002",
-      "time": "2026-09-03T01:39:45.111Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Toast",
       "title": "Enablement Project Manager",
@@ -4001,6 +3969,80 @@
       "url": "https://job-boards.greenhouse.io/pinterest/jobs/7807888",
       "time": "2026-09-15T07:36:29.882Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Vercel",
+      "title": "Director, Solutions Architect",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6119846004",
+      "time": "2026-09-15T07:38:24.117Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vercel",
+      "title": "Director, Solutions Architect",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6119846004",
+      "time": "2026-09-15T07:38:24.493Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vercel",
+      "title": "Director, Solutions Architects",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6111005004",
+      "time": "2026-09-15T07:43:19.053Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vercel",
+      "title": "Director, Solutions Architects",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6111005004",
+      "time": "2026-09-15T07:43:19.229Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-15T07:43:48.028Z"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-15T07:43:48.035Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-15T07:43:48.039Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-15T07:43:48.044Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-15T07:43:48.048Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-15T07:43:48.051Z"
     }
   ],
   "failures": [
@@ -4663,23 +4705,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2387,
+  "totalVerifiedInHistory": 2391,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 57,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1212,
+    "direct_portal_greenhouse": 1214,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 115,
+    "greenhouse": 117,
     "direct_portal_ashby": 376,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T07:36:29.911Z",
-  "lastUpdated": "15/9/2026, 1:06:29 pm"
+  "lastSyncedAt": "2026-09-15T07:43:19.261Z",
+  "lastUpdated": "15/9/2026, 1:13:19 pm"
 }
