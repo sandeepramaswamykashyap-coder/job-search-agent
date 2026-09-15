@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 7249,
-  "applicationsSubmitted": 63,
+  "jobsScanned": 7349,
+  "applicationsSubmitted": 65,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "GTM Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7827537003",
-      "time": "2026-09-03T06:11:33.442Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Head of Industry - Manufacturing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/6048490003",
-      "time": "2026-09-03T06:11:45.541Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Head of Value Engineering - Nordics",
@@ -4003,46 +3987,62 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Databricks",
+      "title": "Program Manager, Scaled User Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8806815002",
+      "time": "2026-09-15T12:54:55.305Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Program Manager, Scaled User Programs",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8806815002",
+      "time": "2026-09-15T12:54:55.482Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T12:31:13.485Z"
+      "time": "2026-09-15T12:56:06.593Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T12:31:13.492Z"
+      "time": "2026-09-15T12:56:06.600Z"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T12:31:13.496Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T12:31:13.500Z"
+      "time": "2026-09-15T12:56:06.605Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T12:31:13.504Z"
+      "time": "2026-09-15T12:56:06.609Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T12:31:13.507Z"
+      "time": "2026-09-15T12:56:06.613Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-15T12:56:06.617Z"
     }
   ],
   "failures": [
@@ -4705,23 +4705,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2415,
+  "totalVerifiedInHistory": 2417,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 58,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1218,
+    "direct_portal_greenhouse": 1219,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 121,
+    "greenhouse": 122,
     "direct_portal_ashby": 391,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T12:30:39.851Z",
-  "lastUpdated": "15/9/2026, 6:00:39 pm"
+  "lastSyncedAt": "2026-09-15T12:54:55.516Z",
+  "lastUpdated": "15/9/2026, 6:24:55 pm"
 }
