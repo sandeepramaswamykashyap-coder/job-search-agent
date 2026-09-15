@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 4577,
-  "applicationsSubmitted": 2358,
+  "jobsScanned": 4587,
+  "applicationsSubmitted": 2360,
   "appliedRolesList": [
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (TPM, Inference)",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
-      "time": "2026-09-02T16:35:00.242Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Creative Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/678d1162-e650-4d6d-9532-b287255c00fb",
-      "time": "2026-09-02T16:35:00.268Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Perplexity",
       "title": "Creative Operations Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
       "time": "2026-09-14T18:10:50.138Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pika",
+      "title": "Head of Engineer, Product",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/pika/99c13be0-3acc-40cb-b0f9-b546dbd7cf1f",
+      "time": "2026-09-15T03:48:26.297Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Samsara",
+      "title": "Business Operations Manager I",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsara/jobs/8180371",
+      "time": "2026-09-15T03:49:41.220Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2358,
+  "totalVerifiedInHistory": 2360,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1201,
+    "direct_portal_greenhouse": 1202,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 111,
-    "direct_portal_ashby": 375,
+    "direct_portal_ashby": 376,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T03:43:38.281Z",
-  "lastUpdated": "15/9/2026, 9:13:38 am"
+  "lastSyncedAt": "2026-09-15T03:49:41.243Z",
+  "lastUpdated": "15/9/2026, 9:19:41 am"
 }
