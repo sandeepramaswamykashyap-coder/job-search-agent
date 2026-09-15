@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 4927,
-  "applicationsSubmitted": 26,
+  "jobsScanned": 4957,
+  "applicationsSubmitted": 27,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Digital Natives Growth",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/f4467078-033c-4638-ac7e-69a532276d85",
-      "time": "2026-09-03T01:12:46.207Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Digital Natives Growth",
@@ -4003,46 +3995,54 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Loadshare Networks",
+      "title": "Associate Director- Operation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-operation-loadshare-networks-bengaluru-4-to-8-years-070926029083?src=directSearch&sid=17894512818593993&xp=3&px=1",
+      "time": "2026-09-15T05:48:40.615Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T05:23:00.837Z"
+      "time": "2026-09-15T05:49:33.377Z"
     },
     {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T05:23:00.843Z"
+      "time": "2026-09-15T05:49:33.381Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T05:23:00.848Z"
+      "time": "2026-09-15T05:49:33.384Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T05:23:00.853Z"
+      "time": "2026-09-15T05:49:33.387Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T05:23:00.856Z"
+      "time": "2026-09-15T05:49:33.391Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T05:23:00.860Z"
+      "time": "2026-09-15T05:49:33.395Z"
     }
   ],
   "failures": [
@@ -4705,10 +4705,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2378,
+  "totalVerifiedInHistory": 2379,
   "portalBreakdown": {
     "iimjobs": 9,
-    "naukri": 55,
+    "naukri": 56,
     "weworkremotely": 12,
     "remoteok": 5,
     "direct_portal_greenhouse": 1208,
@@ -4722,6 +4722,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T05:21:35.745Z",
-  "lastUpdated": "15/9/2026, 10:51:35 am"
+  "lastSyncedAt": "2026-09-15T05:48:40.658Z",
+  "lastUpdated": "15/9/2026, 11:18:40 am"
 }
