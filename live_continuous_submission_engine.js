@@ -54,11 +54,18 @@ async function gatherAllLiveJobs() {
   ];
 
   console.log(`[QuadGrinder] Total raw live listings gathered: ${all.length}`);
-  const matched = all.filter(j => isSeniorMatch(j.title));
-  console.log(`[QuadGrinder] 🎯 Senior leadership matched listings: ${matched.length}`);
+  const appliedKeys = new Set(getAllApplications().map(a => `${(a.company||'').toLowerCase().trim()}::${(a.title||'').toLowerCase().trim()}`));
+  const matched = all.filter(j => {
+    if (!isSeniorMatch(j.title)) return false;
+    const key = `${(j.company||'').toLowerCase().trim()}::${(j.title||'').toLowerCase().trim()}`;
+    if (appliedKeys.has(key)) return false;
+    if ((j.company || '').toLowerCase() === 'cursor') return false;
+    return true;
+  });
+  console.log(`[QuadGrinder] 🎯 Fresh unapplied senior leadership listings: ${matched.length}`);
 
-  // Sort: Prioritize high-conversion, fast-submitting engines first (Ashby > Lever > SmartRecruiters > Greenhouse)
-  const priority = { ashby: 1, lever: 2, smartrecruiters: 3, greenhouse: 4, remote_portal: 5 };
+  // Sort: Prioritize high-conversion, fast-submitting engines first (Lever > SmartRecruiters > Greenhouse > Ashby > Remote)
+  const priority = { lever: 1, smartrecruiters: 2, greenhouse: 3, ashby: 4, remote_portal: 5 };
   matched.sort((a, b) => (priority[a.atsType] || 6) - (priority[b.atsType] || 6));
 
   return matched;
