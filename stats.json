@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 5717,
-  "applicationsSubmitted": 41,
+  "jobsScanned": 5837,
+  "applicationsSubmitted": 43,
   "appliedRolesList": [
-    {
-      "company": "Payoneer",
-      "title": "Customer Lifecycle Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/7935957",
-      "time": "2026-09-03T02:12:39.886Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Merchant Operations manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8051542",
-      "time": "2026-09-03T02:13:29.139Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ripple",
       "title": "Director, Global SDR Operations",
@@ -4003,46 +3987,62 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T07:57:00.788Z"
+      "company": "Celonis",
+      "title": "Lead AI Engineer - Agentic Customer Journey Team",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7752500003",
+      "time": "2026-09-15T08:46:14.216Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Lead AI Engineer - Agentic Customer Journey Team",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7752500003",
+      "time": "2026-09-15T08:46:14.404Z",
+      "status": "SUBMITTED"
     },
     {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T07:57:00.793Z"
+      "time": "2026-09-15T08:46:56.042Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T07:57:00.797Z"
+      "time": "2026-09-15T08:46:56.052Z"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-15T08:46:56.057Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T07:57:00.800Z"
+      "time": "2026-09-15T08:46:56.061Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T07:57:00.803Z"
+      "time": "2026-09-15T08:46:56.065Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T07:57:00.806Z"
+      "time": "2026-09-15T08:46:56.069Z"
     }
   ],
   "failures": [
@@ -4705,23 +4705,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2393,
+  "totalVerifiedInHistory": 2395,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 57,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1215,
+    "direct_portal_greenhouse": 1216,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 118,
+    "greenhouse": 119,
     "direct_portal_ashby": 376,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T07:55:59.258Z",
-  "lastUpdated": "15/9/2026, 1:25:59 pm"
+  "lastSyncedAt": "2026-09-15T08:46:14.445Z",
+  "lastUpdated": "15/9/2026, 2:16:14 pm"
 }
