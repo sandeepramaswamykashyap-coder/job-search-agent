@@ -1,111 +1,7 @@
 {
-  "jobsScanned": 4637,
-  "applicationsSubmitted": 2361,
+  "jobsScanned": 4657,
+  "applicationsSubmitted": 22,
   "appliedRolesList": [
-    {
-      "company": "Databricks",
-      "title": "Lakebase Sales Specialist, Associate Director (Germany)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8451296002",
-      "time": "2026-09-02T16:52:28.130Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Postman",
-      "title": "Head of AI Platform Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/postman/jobs/7452531003",
-      "time": "2026-09-02T16:56:20.012Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Asana",
-      "title": "Director of Security Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/asana/jobs/8174102",
-      "time": "2026-09-02T17:23:14.812Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Alliances Director, LATAM",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8020325",
-      "time": "2026-09-02T17:36:28.031Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003",
-      "time": "2026-09-02T19:01:39.423Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Engineering Director, EU",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8025854",
-      "time": "2026-09-02T20:21:26.577Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Newrelic",
-      "title": "SVP GTM, EMEA",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5398062008",
-      "time": "2026-09-03T01:04:24.393Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Director, Lifecycle Marketing Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8694723002",
-      "time": "2026-09-03T01:05:23.737Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cribl",
-      "title": "Regional Sales Director, Australia (Enterprise)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cribl/jobs/5787986004",
-      "time": "2026-09-03T01:05:54.904Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mercury",
-      "title": "Head of Revenue Technology & Architecture",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6129918004",
-      "time": "2026-09-03T01:05:58.070Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7868539003",
-      "time": "2026-09-03T01:07:23.833Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Sales Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7818382003",
-      "time": "2026-09-03T01:08:00.831Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Sr Director, Product Management",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8569267002",
-      "time": "2026-09-03T01:08:09.555Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Digital Native Large Enterprise",
@@ -4001,6 +3897,152 @@
       "url": "https://job-boards.greenhouse.io/stripe/jobs/8114397",
       "time": "2026-09-15T04:04:14.056Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "MARG Business Transformations",
+      "title": "ERP Change Lead SAP Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-erp-change-lead-sap-transformation-vriddhi4u-hr-services-bengaluru-10-to-15-years-070926003595?src=directSearch&sid=1789445266445766&xp=1&px=1",
+      "time": "2026-09-15T04:07:59.505Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cushman & Wakefield",
+      "title": "Director - Central Operations Hub",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-central-operations-hub-cushman-wakefield-india-pvt-ltd-bengaluru-10-to-15-years-140926913833?src=directSearch&sid=17894453096391303&xp=2&px=1",
+      "time": "2026-09-15T04:08:53.002Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Benovymed Healthcare Private Limited",
+      "title": "AVP/ Director/ Regional Manager - Business Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-avp-director-regional-manager-business-operations-benovymed-healthcare-private-limited-mumbai-bengaluru-delhi-ncr-2-to-7-years-080926909935?src=directSearch&sid=17894453096391303&xp=3&px=1",
+      "time": "2026-09-15T04:09:11.533Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "NetApp - Manager - NGS Program",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/program-manager-jobs",
+      "time": "2026-09-15T04:09:33.732Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Absolute - Program Manager - BioTech - Founder's Office",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/program-manager-jobs",
+      "time": "2026-09-15T04:09:37.017Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Blinkit - Program Manager - Frozen Category",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/program-manager-jobs",
+      "time": "2026-09-15T04:09:40.241Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lenskart - Program Manager - Customer Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/program-manager-jobs",
+      "time": "2026-09-15T04:09:43.452Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Capco Technologies - Technical Architect/Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
+      "time": "2026-09-15T04:09:50.521Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Idfy - Technical Program Manager - Delivery",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
+      "time": "2026-09-15T04:09:53.749Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Blink Health - Senior Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
+      "time": "2026-09-15T04:09:56.976Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Myntra - Senior Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
+      "time": "2026-09-15T04:10:00.235Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Marketing Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8187570",
+      "time": "2026-09-15T04:15:57.887Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Marketing Operations Manager",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8187570",
+      "time": "2026-09-15T04:15:58.057Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-15T04:16:00.288Z"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-15T04:16:00.292Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-15T04:16:00.295Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-15T04:16:00.298Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-15T04:16:00.302Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-15T04:16:00.304Z"
     }
   ],
   "failures": [
@@ -4663,23 +4705,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2361,
+  "totalVerifiedInHistory": 2374,
   "portalBreakdown": {
-    "iimjobs": 1,
-    "naukri": 52,
+    "iimjobs": 9,
+    "naukri": 55,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1203,
+    "direct_portal_greenhouse": 1204,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 111,
+    "greenhouse": 112,
     "direct_portal_ashby": 376,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T04:06:11.376Z",
-  "lastUpdated": "15/9/2026, 9:36:11 am"
+  "lastSyncedAt": "2026-09-15T04:15:58.089Z",
+  "lastUpdated": "15/9/2026, 9:45:58 am"
 }
