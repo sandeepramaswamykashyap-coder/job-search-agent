@@ -300,14 +300,21 @@ async function runVisibleCorporateGrind(page, context) {
     'product manager', 'lead', 'bizops', 'chief of staff'
   ];
 
+  const existing = getAllApplications();
+  const appliedKeys = new Set(
+    existing.map(a => `${(a.company || '').toLowerCase().trim()}::${(a.title || '').toLowerCase().trim()}`)
+  );
+
   const matched = jobs.filter(j => {
     const t = (j.title || '').toLowerCase();
-    return SENIOR_KEYWORDS.some(k => t.includes(k)) && !/intern|junior|graduate/i.test(t);
+    const isSenior = SENIOR_KEYWORDS.some(k => t.includes(k)) && !/intern|junior|graduate/i.test(t);
+    const key = `${(j.company || '').toLowerCase().trim()}::${(j.title || '').toLowerCase().trim()}`;
+    return isSenior && !appliedKeys.has(key);
   });
 
-  console.log(`[DirectCorporate] ${matched.length} senior leadership openings queued for visible automation.`);
+  console.log(`[DirectCorporate] ${matched.length} fresh unapplied senior leadership openings queued for visible automation.`);
 
-  for (const job of matched.slice(0, 20)) {
+  for (const job of matched.slice(0, 15)) {
     console.log(`\n[VisibleApply] 🖥️ Processing: "${job.title}" @ ${job.company} (${job.atsType})`);
     console.log(`[VisibleApply] URL: ${job.applyUrl}`);
 

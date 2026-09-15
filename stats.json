@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 5227,
-  "applicationsSubmitted": 28,
+  "jobsScanned": 5367,
+  "applicationsSubmitted": 2387,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Digital Native Enterprise",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/fbb68247-eb54-4ad1-94b4-26e0dc24fd23",
-      "time": "2026-09-03T01:12:46.269Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Digital Native Enterprise",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/fbb68247-eb54-4ad1-94b4-26e0dc24fd23",
-      "time": "2026-09-03T01:12:46.294Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Support Program Manager, Support Delivery",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/862ffe2a-8261-4c46-8ed4-5178567ac7e0",
-      "time": "2026-09-03T01:13:02.102Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Support Program Manager, Support Delivery",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/862ffe2a-8261-4c46-8ed4-5178567ac7e0",
-      "time": "2026-09-03T01:13:02.115Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Model Deployment & Capacity",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/58c28108-5bc6-449d-8461-9274f5abd7e6",
-      "time": "2026-09-03T01:13:02.869Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Model Deployment & Capacity",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/58c28108-5bc6-449d-8461-9274f5abd7e6",
-      "time": "2026-09-03T01:13:02.881Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Developer Experience",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/ad958934-fd89-4033-8b13-1a4871d8073c",
-      "time": "2026-09-03T01:13:03.234Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Technical Program Manager, Developer Experience",
@@ -4003,46 +3947,60 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T06:19:33.284Z"
+      "company": "Alixpartners",
+      "title": "Risk Advisory, Investigations, Compliance & Privacy, Vice President",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7995350003",
+      "time": "2026-09-15T07:13:18.804Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T06:19:33.289Z"
+      "company": "Alixpartners",
+      "title": "Risk Advisory, Investigations, Compliance & Privacy, Vice President",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7995350003",
+      "time": "2026-09-15T07:13:18.984Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T06:19:33.299Z"
+      "company": "N26",
+      "title": "Director of Product, Grow & Engage",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/8083090",
+      "time": "2026-09-15T07:28:37.225Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T06:19:33.305Z"
+      "company": "N26",
+      "title": "Director of Product, Grow & Engage",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/8083090",
+      "time": "2026-09-15T07:28:37.390Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T06:19:33.307Z"
+      "company": "Vercel",
+      "title": "Director of Forward Deployed Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6120051004",
+      "time": "2026-09-15T07:33:31.156Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T06:19:33.310Z"
+      "company": "Vercel",
+      "title": "Director of Forward Deployed Engineering",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6120051004",
+      "time": "2026-09-15T07:33:31.602Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Head of Verticals",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7807888",
+      "time": "2026-09-15T07:36:29.882Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2380,
+  "totalVerifiedInHistory": 2387,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 57,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1208,
+    "direct_portal_greenhouse": 1212,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 112,
+    "greenhouse": 115,
     "direct_portal_ashby": 376,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T06:18:38.808Z",
-  "lastUpdated": "15/9/2026, 11:48:38 am"
+  "lastSyncedAt": "2026-09-15T07:36:29.911Z",
+  "lastUpdated": "15/9/2026, 1:06:29 pm"
 }
