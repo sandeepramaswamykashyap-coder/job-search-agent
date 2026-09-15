@@ -28,6 +28,7 @@ async function runVisibleDesktopRunner() {
 
   try {
     browserContext = await chromium.launchPersistentContext(userDataDir, {
+      channel: 'chrome',
       headless: false,
       slowMo: 100,
       viewport: { width: 1280, height: 800 },
