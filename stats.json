@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 7349,
-  "applicationsSubmitted": 65,
+  "jobsScanned": 7419,
+  "applicationsSubmitted": 66,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Head of Value Engineering - Nordics",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7683737003",
-      "time": "2026-09-03T06:12:13.978Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Head of Industry - Retail & CPG",
@@ -4003,46 +3995,54 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Nvidia",
+      "title": "Technical Program Manager, UCP Commerce Operations and Configuration",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-ucp-commerce-operations-and-configuration-nvidia-bengaluru-8-to-10-years-300126506279?src=directSearch&sid=17894775934349211&xp=2&px=1",
+      "time": "2026-09-15T13:06:55.354Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T12:56:06.593Z"
+      "time": "2026-09-15T13:07:26.083Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T12:56:06.600Z"
+      "time": "2026-09-15T13:07:26.091Z"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T12:56:06.605Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T12:56:06.609Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T12:56:06.613Z"
+      "time": "2026-09-15T13:07:26.095Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T12:56:06.617Z"
+      "time": "2026-09-15T13:07:26.098Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-15T13:07:26.105Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-15T13:07:26.110Z"
     }
   ],
   "failures": [
@@ -4705,10 +4705,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2417,
+  "totalVerifiedInHistory": 2418,
   "portalBreakdown": {
     "iimjobs": 9,
-    "naukri": 58,
+    "naukri": 59,
     "weworkremotely": 12,
     "remoteok": 5,
     "direct_portal_greenhouse": 1219,
@@ -4722,6 +4722,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T12:54:55.516Z",
-  "lastUpdated": "15/9/2026, 6:24:55 pm"
+  "lastSyncedAt": "2026-09-15T13:06:55.390Z",
+  "lastUpdated": "15/9/2026, 6:36:55 pm"
 }
