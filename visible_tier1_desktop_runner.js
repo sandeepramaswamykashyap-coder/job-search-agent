@@ -17,6 +17,18 @@ const { getAllApplications, logApplication } = require('./applications_db');
 
 const userDataDir = path.join(__dirname, '.browser_session_amicable_light');
 
+async function closeAllExtraTabs(context, mainPage) {
+  if (!context) return;
+  try {
+    const pages = context.pages();
+    for (const p of pages) {
+      if (p !== mainPage && !p.isClosed()) {
+        await p.close().catch(() => {});
+      }
+    }
+  } catch (_) {}
+}
+
 async function runVisibleDesktopRunner() {
   console.log('======================================================================');
   console.log('🖥️  [VisibleDesktopRunner] LAUNCHING VISIBLE HEADED BROWSER ENGINE');
@@ -139,6 +151,8 @@ async function runVisibleDesktopRunner() {
             portal: 'error',
             url: job.applyUrl
           });
+        } finally {
+          await closeAllExtraTabs(browserContext, page);
         }
 
         const waitSec = 15 + Math.floor(Math.random() * 10);

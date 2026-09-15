@@ -1263,50 +1263,61 @@ async function handleJobAutomation(page, portal, stats) {
             continue;
           }
 
-          await sleepRandom(2000, 4000);
-          
-          // Evaluate job suitability before proceeding
-          const experienceText = await detailPage.locator('.xp, [class*="experience"], [class*="exp"]').first().innerText().catch(() => '');
-          const jdText = await detailPage.locator('.job-description, [class*="description"], [class*="jd"]').first().innerText().catch(() => '');
-          const postedDateText = await detailPage.locator('.posted, [class*="posted"], [class*="date"]').first().innerText().catch(() => '');
-          
-          // Extract HR lead if present
-          await extractRecruiterLead(detailPage, titleText, companyText, 'iimjobs');
-          
-          const evalResult = evaluateJob(titleText, jdText, experienceText, postedDateText);
-          if (!evalResult.match) {
-            console.log(`[Agent] Skipping mismatched job: "${titleText}" at ${companyText}. Reason: ${evalResult.reason}`);
-            if (detailPage !== page) {
-              await detailPage.close();
-            }
-            continue;
-          }
-
-          const currentUrl = detailPage.url();
-          if (!currentUrl.includes('iimjobs.com')) {
-            console.log(`[Agent] Skipping external ATS job: ${currentUrl}`);
-          } else {
-            // Smart fill form fields
-            await smartFillForm(detailPage, profile, companyText, titleText);
-
-            let applyBtn = detailPage.locator('button').filter({ hasText: /^Apply$/i }).first();
-            if (await applyBtn.count() === 0) {
-              applyBtn = detailPage.locator('button:has-text("Apply")').first();
+          try {
+            await sleepRandom(2000, 4000);
+            
+            // Evaluate job suitability before proceeding
+            const experienceText = await detailPage.locator('.xp, [class*="experience"], [class*="exp"]').first().innerText().catch(() => '');
+            const jdText = await detailPage.locator('.job-description, [class*="description"], [class*="jd"]').first().innerText().catch(() => '');
+            const postedDateText = await detailPage.locator('.posted, [class*="posted"], [class*="date"]').first().innerText().catch(() => '');
+            
+            // Extract HR lead if present
+            await extractRecruiterLead(detailPage, titleText, companyText, 'iimjobs');
+            
+            const evalResult = evaluateJob(titleText, jdText, experienceText, postedDateText);
+            if (!evalResult.match) {
+              console.log(`[Agent] Skipping mismatched job: "${titleText}" at ${companyText}. Reason: ${evalResult.reason}`);
+              continue;
             }
 
-            if (await applyBtn.isVisible()) {
-              await applyBtn.click();
-              await sleepRandom(2000, 4000);
-              console.log(`[Agent] Submitted application successfully.`);
-              stats.applicationsSubmitted += 1;
-              const _appEntry2 = { company: companyText, title: titleText, portal, time: new Date().toISOString() };
-              stats.appliedRolesList.push(_appEntry2);
-              logApplication(_appEntry2);
+            const currentUrl = detailPage.url();
+            if (!currentUrl.includes('iimjobs.com')) {
+              console.log(`[Agent] Skipping external ATS job: ${currentUrl}`);
             } else {
-              console.log(`[Agent] Apply button not found or not visible.`);
+              // Smart fill form fields
+              await smartFillForm(detailPage, profile, companyText, titleText);
+
+              let applyBtn = detailPage.locator('button').filter({ hasText: /^Apply$/i }).first();
+              if (await applyBtn.count() === 0) {
+                applyBtn = detailPage.locator('button:has-text("Apply")').first();
+              }
+
+              if (await applyBtn.isVisible()) {
+                await applyBtn.click();
+                await sleepRandom(2000, 4000);
+                console.log(`[Agent] Submitted application successfully.`);
+                stats.applicationsSubmitted += 1;
+                const _appEntry2 = { company: companyText, title: titleText, portal, time: new Date().toISOString() };
+                stats.appliedRolesList.push(_appEntry2);
+                logApplication(_appEntry2);
+              } else {
+                console.log(`[Agent] Apply button not found or not visible.`);
+              }
             }
+          } catch (err) {
+            console.warn(`[Agent] Error processing detail page: ${err.message}`);
+          } finally {
+            if (detailPage && detailPage !== page && !detailPage.isClosed()) {
+              await detailPage.close().catch(() => {});
+            }
+            try {
+              for (const p of page.context().pages()) {
+                if (p !== page && !p.isClosed()) {
+                  await p.close().catch(() => {});
+                }
+              }
+            } catch (_) {}
           }
-          await detailPage.close();
         }
       } else if (portal === 'foundit') {
         // Visit homepage first to set Akamai session cookie and bypass 403 Bot Protection

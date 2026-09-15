@@ -116,6 +116,18 @@ async function applyToPortal(page, context, job) {
     }
   } catch (err) {
     console.error(`[PortalRouter] ❌ Engine error for ${job.company}: ${err.message}`);
+  } finally {
+    // Deterministically close any child tabs, popups, or external redirect windows
+    if (context) {
+      try {
+        const pages = context.pages();
+        for (const p of pages) {
+          if (p !== page && !p.isClosed()) {
+            await p.close().catch(() => {});
+          }
+        }
+      } catch (_) {}
+    }
   }
 
   return null;

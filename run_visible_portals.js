@@ -42,6 +42,18 @@ async function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+async function closeAllExtraTabs(context, mainPage) {
+  if (!context) return;
+  try {
+    const pages = context.pages();
+    for (const p of pages) {
+      if (p !== mainPage && !p.isClosed()) {
+        await p.close().catch(() => {});
+      }
+    }
+  } catch (_) {}
+}
+
 async function runNaukriAutomation(page) {
   console.log('\n======================================================================');
   console.log('🇮🇳 [NAUKRI] STARTING VISIBLE PROFILE BOOSTER & JOB APPLICATIONS');
@@ -118,6 +130,7 @@ async function runNaukriAutomation(page) {
       for (const card of jobCards.slice(0, 8)) {
         if (appliesForKeyword >= 4) break;
 
+        let newPage = null;
         try {
           const title = (await card.locator('.title, [class*="title"], a.title').first().textContent().catch(() => '')).trim();
           const company = (await card.locator('.comp-name, [class*="comp-name"], a.comp-name').first().textContent().catch(() => '')).trim();
@@ -126,13 +139,14 @@ async function runNaukriAutomation(page) {
           console.log(`[Naukri] 📝 Reviewing: "${title}" @ ${company}`);
 
           // Click to open job
-          const [newPage] = await Promise.all([
+          const [openedPage] = await Promise.all([
             page.context().waitForEvent('page', { timeout: 8000 }).catch(() => null),
             card.click().catch(() => {})
           ]);
+          newPage = openedPage;
 
           const activePage = newPage || page;
-          await sleep(3000);
+          await sleep(2500);
 
           // Check for Easy Apply on Naukri
           const applyBtn = activePage.locator('button:has-text("Apply"), [class*="apply-button"], button:has-text("Easy Apply")').first();
@@ -143,13 +157,13 @@ async function runNaukriAutomation(page) {
             } else {
               console.log(`[Naukri] 🚀 Clicking Apply for "${title}" @ ${company}...`);
               await applyBtn.click();
-              await sleep(4000);
+              await sleep(3500);
 
               // Check if modal or questions opened
               const submitModalBtn = activePage.locator('button:has-text("Submit"), button:has-text("Save and Apply")').first();
               if (await submitModalBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
                 await submitModalBtn.click();
-                await sleep(3000);
+                await sleep(2500);
               }
 
               console.log(`[Naukri] ✅ Application submitted: "${title}" @ ${company}`);
@@ -164,12 +178,14 @@ async function runNaukriAutomation(page) {
               appliesForKeyword++;
             }
           }
-
-          if (newPage && newPage !== page) {
-            await newPage.close().catch(() => {});
-          }
         } catch (err) {
           console.log(`[Naukri] ⚠️ Skipping card: ${err.message.slice(0, 80)}`);
+        } finally {
+          // ALWAYS close child tab immediately after use
+          if (newPage && newPage !== page && !newPage.isClosed()) {
+            await newPage.close().catch(() => {});
+          }
+          await closeAllExtraTabs(page.context(), page);
         }
         await sleep(2000);
       }
@@ -218,17 +234,25 @@ async function runIIMJobsAutomation(page) {
       console.log(`[IIMJobs] Found ${jobCards.length} job cards for "${ikw}".`);
 
       for (const card of jobCards.slice(0, 4)) {
+        let childPage = null;
         try {
           const applyBtn = card.locator('a:has-text("Apply"), button:has-text("Apply"), a[href*="/j/"]').first();
           if (await applyBtn.isVisible()) {
             const cardText = await card.innerText().catch(() => '');
             const title = cardText.split('\n')[0] || 'Senior Leadership Role';
             console.log(`[IIMJobs] 🚀 Opening & Applying: "${title.slice(0, 60)}"`);
-            await applyBtn.click().catch(() => {});
+
+            // Capture popup child tab if target="_blank"
+            const [openedPage] = await Promise.all([
+              page.context().waitForEvent('page', { timeout: 6000 }).catch(() => null),
+              applyBtn.click().catch(() => {})
+            ]);
+            childPage = openedPage;
+            const targetPage = childPage || page;
             await sleep(3000);
 
             // If detail page or modal opened
-            const submitBtn = page.locator('button:has-text("Confirm Apply"), button:has-text("Submit"), button:has-text("Apply")').first();
+            const submitBtn = targetPage.locator('button:has-text("Confirm Apply"), button:has-text("Submit"), button:has-text("Apply")').first();
             if (await submitBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
               await submitBtn.click().catch(() => {});
               await sleep(2000);
@@ -238,18 +262,29 @@ async function runIIMJobsAutomation(page) {
               company: 'IIMJobs Verified Employer',
               title: title.slice(0, 80),
               portal: 'iimjobs',
-              url: page.url(),
+              url: targetPage.url(),
               time: new Date().toISOString(),
               status: 'submitted'
             });
             console.log(`[IIMJobs] ✅ Application submitted: "${title.slice(0, 60)}"`);
             iimApplies++;
           }
-        } catch (_) {}
+        } catch (err) {
+          console.log(`[IIMJobs] ⚠️ Card skipped: ${err.message.slice(0, 80)}`);
+        } finally {
+          // ALWAYS close child tab immediately after use
+          if (childPage && childPage !== page && !childPage.isClosed()) {
+            await childPage.close().catch(() => {});
+          }
+          await closeAllExtraTabs(page.context(), page);
+        }
+        await sleep(2000);
       }
     }
   } catch (err) {
     console.error(`[IIMJobs] Error: ${err.message}`);
+  } finally {
+    await closeAllExtraTabs(page.context(), page);
   }
 }
 
@@ -291,6 +326,8 @@ async function runVisibleCorporateGrind(page, context) {
       }
     } catch (err) {
       console.log(`[VisibleApply] ⚠️ Error: ${err.message.slice(0, 80)}`);
+    } finally {
+      await closeAllExtraTabs(context, page);
     }
 
     await sleep(4000);
@@ -317,17 +354,23 @@ async function main() {
   });
 
   const page = await browserContext.newPage();
+  await closeAllExtraTabs(browserContext, page);
 
   while (true) {
     try {
+      await closeAllExtraTabs(browserContext, page);
+
       // 1. Naukri Profile Booster & Easy Apply
       await runNaukriAutomation(page);
+      await closeAllExtraTabs(browserContext, page);
 
       // 2. IIMJobs Executive Applications
       await runIIMJobsAutomation(page);
+      await closeAllExtraTabs(browserContext, page);
 
       // 3. Direct Tier-1 Corporate Applications
       await runVisibleCorporateGrind(page, browserContext);
+      await closeAllExtraTabs(browserContext, page);
 
       // Sync to GitHub
       syncToGitHub('feat: recorded visible portal applications on Naukri, IIMJobs, and corporate boards');
@@ -337,6 +380,8 @@ async function main() {
     } catch (err) {
       console.error(`[VisibleRunner] Auto-recovery: ${err.message}`);
       await sleep(10000);
+    } finally {
+      await closeAllExtraTabs(browserContext, page);
     }
   }
 }
