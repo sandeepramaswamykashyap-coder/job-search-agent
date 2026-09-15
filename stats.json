@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 8009,
-  "applicationsSubmitted": 66,
+  "jobsScanned": 8129,
+  "applicationsSubmitted": 68,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Head of Industry - Retail & CPG",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/6313860003",
-      "time": "2026-09-03T06:12:14.025Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Gilbarco Veeder Root",
-      "title": "Head Of Data & AI",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-of-data-ai-gilbarco-veeder-root-bengaluru-10-to-15-years-030926010772?src=directSearch&sid=17884159325462212&xp=1&px=1",
-      "time": "2026-09-03T06:12:27.446Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zoominfo",
       "title": "Senior Director, Security Governance",
@@ -4003,46 +3987,62 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Monzo",
+      "title": "Senior Director of People Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8195476",
+      "time": "2026-09-15T15:03:41.103Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Monzo",
+      "title": "Senior Director of People Operations",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8195476",
+      "time": "2026-09-15T15:03:41.289Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T14:30:59.978Z"
+      "time": "2026-09-15T15:06:26.842Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T14:30:59.983Z"
+      "time": "2026-09-15T15:06:26.849Z"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T14:30:59.987Z"
+      "time": "2026-09-15T15:06:26.854Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T14:30:59.991Z"
+      "time": "2026-09-15T15:06:26.858Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T14:30:59.994Z"
+      "time": "2026-09-15T15:06:26.862Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T14:30:59.998Z"
+      "time": "2026-09-15T15:06:26.866Z"
     }
   ],
   "failures": [
@@ -4705,23 +4705,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2418,
+  "totalVerifiedInHistory": 2420,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 59,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1219,
+    "direct_portal_greenhouse": 1220,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 122,
+    "greenhouse": 123,
     "direct_portal_ashby": 391,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T14:30:04.154Z",
-  "lastUpdated": "15/9/2026, 8:00:04 pm"
+  "lastSyncedAt": "2026-09-15T15:03:41.337Z",
+  "lastUpdated": "15/9/2026, 8:33:41 pm"
 }
