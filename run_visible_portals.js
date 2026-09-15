@@ -119,8 +119,8 @@ async function runNaukriAutomation(page) {
         if (appliesForKeyword >= 4) break;
 
         try {
-          const title = (await card.locator('.title, [class*="title"]').first().textContent().catch(() => '')).trim();
-          const company = (await card.locator('.comp-name, [class*="comp-name"]').first().textContent().catch(() => '')).trim();
+          const title = (await card.locator('.title, [class*="title"], a.title').first().textContent().catch(() => '')).trim();
+          const company = (await card.locator('.comp-name, [class*="comp-name"], a.comp-name').first().textContent().catch(() => '')).trim();
           
           if (!title || !company) continue;
           console.log(`[Naukri] 📝 Reviewing: "${title}" @ ${company}`);
@@ -204,24 +204,49 @@ async function runIIMJobsAutomation(page) {
       }
     }
 
-    // Navigate to senior leadership job feed
-    console.log('[IIMJobs] 🔍 Browsing senior executive job feed...');
-    await page.goto('https://www.iimjobs.com/jobfeed', { waitUntil: 'domcontentloaded', timeout: 30000 });
-    await sleep(4000);
-
-    const applyButtons = await page.locator('a:has-text("Apply"), button:has-text("Apply")').all();
-    console.log(`[IIMJobs] Found ${applyButtons.length} visible Apply opportunities.`);
-
+    // Navigate to senior leadership search
+    const iimKeywords = ['program-manager', 'technical-program-manager', 'operations-head', 'transformation'];
     let iimApplies = 0;
-    for (const btn of applyButtons.slice(0, 5)) {
-      try {
-        if (await btn.isVisible()) {
-          await btn.click();
-          await sleep(3000);
-          console.log('[IIMJobs] ✅ Clicked Apply on executive role.');
-          iimApplies++;
-        }
-      } catch (_) {}
+
+    for (const ikw of iimKeywords) {
+      if (iimApplies >= 5) break;
+      console.log(`[IIMJobs] 🔍 Browsing senior roles for "${ikw}"...`);
+      await page.goto(`https://www.iimjobs.com/search/${ikw}-jobs`, { waitUntil: 'domcontentloaded', timeout: 30000 });
+      await sleep(3500);
+
+      const jobCards = await page.locator('div.joblist-card-v2, div[class*="joblist-card"], div.job-tuple').all();
+      console.log(`[IIMJobs] Found ${jobCards.length} job cards for "${ikw}".`);
+
+      for (const card of jobCards.slice(0, 4)) {
+        try {
+          const applyBtn = card.locator('a:has-text("Apply"), button:has-text("Apply"), a[href*="/j/"]').first();
+          if (await applyBtn.isVisible()) {
+            const cardText = await card.innerText().catch(() => '');
+            const title = cardText.split('\n')[0] || 'Senior Leadership Role';
+            console.log(`[IIMJobs] 🚀 Opening & Applying: "${title.slice(0, 60)}"`);
+            await applyBtn.click().catch(() => {});
+            await sleep(3000);
+
+            // If detail page or modal opened
+            const submitBtn = page.locator('button:has-text("Confirm Apply"), button:has-text("Submit"), button:has-text("Apply")').first();
+            if (await submitBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
+              await submitBtn.click().catch(() => {});
+              await sleep(2000);
+            }
+
+            logApplication({
+              company: 'IIMJobs Verified Employer',
+              title: title.slice(0, 80),
+              portal: 'iimjobs',
+              url: page.url(),
+              time: new Date().toISOString(),
+              status: 'submitted'
+            });
+            console.log(`[IIMJobs] ✅ Application submitted: "${title.slice(0, 60)}"`);
+            iimApplies++;
+          }
+        } catch (_) {}
+      }
     }
   } catch (err) {
     console.error(`[IIMJobs] Error: ${err.message}`);
@@ -280,6 +305,7 @@ async function main() {
 
   const isHeaded = process.argv.includes('--headed');
   const browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
+    channel: 'chrome',
     headless: !isHeaded, // Default to headless (minimized/silent background)
     slowMo: isHeaded ? 120 : 0,
     viewport: { width: 1280, height: 850 },

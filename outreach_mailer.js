@@ -352,7 +352,7 @@ async function processOutreachQueue() {
     const emailAddr = lead.email.toLowerCase().trim();
 
     // Stage 1-4 Real-Time Mailbox Existence Verification
-    const verification = await verifyEmailExistence(emailAddr);
+    const verification = await verifyEmailExistence(emailAddr, lead.portal || 'direct_posting');
     if (!verification.valid) {
       console.log(`[Outreach] 🛑 SKIPPING UNVERIFIED MAILBOX ${emailAddr}: ${verification.reason}`);
       continue;

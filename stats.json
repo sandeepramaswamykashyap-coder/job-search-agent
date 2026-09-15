@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 4627,
-  "applicationsSubmitted": 8,
+  "jobsScanned": 4637,
+  "applicationsSubmitted": 2361,
   "appliedRolesList": [
-    {
-      "company": "Perplexity",
-      "title": "Creative Operations Manager",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/678d1162-e650-4d6d-9532-b287255c00fb",
-      "time": "2026-09-02T16:35:00.287Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Databricks",
       "title": "Lakebase Sales Specialist, Associate Director (Germany)",
@@ -4003,46 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T04:00:34.872Z"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T04:00:34.878Z"
-    },
-    {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T04:00:34.883Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T04:00:34.887Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T04:00:34.891Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T04:00:34.895Z"
+      "company": "Stripe",
+      "title": "Technical Program Manager, Extensibility",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8114397",
+      "time": "2026-09-15T04:04:14.056Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2360,
+  "totalVerifiedInHistory": 2361,
   "portalBreakdown": {
     "iimjobs": 1,
     "naukri": 52,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1202,
+    "direct_portal_greenhouse": 1203,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T03:58:59.538Z",
-  "lastUpdated": "15/9/2026, 9:28:59 am"
+  "lastSyncedAt": "2026-09-15T04:06:11.376Z",
+  "lastUpdated": "15/9/2026, 9:36:11 am"
 }

@@ -55,16 +55,18 @@ function passesSyntaxAndFilter(emailStr) {
 
   const forbiddenUserTerms = [
     'accommodations', 'accessibility', 'disability', 'diversity', 'inclusion',
-    'fraud', 'report', 'check', 'compliance', 'abuse', 'security', 'legal', 'admin', 'help', 
-    'billing', 'careers', 'career', 'jobs', 'job', 'hr', 'ta', 'recruitment', 'hiring', 
-    'team', 'contact', 'info', 'support', 'no-reply', 'noreply', 'feedback', 'enquiry', 
-    'inquiry', 'sales', 'service', 'privacy', 'terms', 'post', 'apply', 'press', 'media', 
-    'investors', 'general', 'alerts', 'notifications', 'bounces', 'system'
+    'fraud', 'compliance', 'abuse', 'billing', 'careers', 'career', 'jobs', 
+    'no-reply', 'noreply', 'feedback', 'enquiry', 'inquiry', 'privacy', 'investors', 
+    'alerts', 'notifications', 'bounces', 'system'
   ];
 
   for (const term of forbiddenUserTerms) {
-    if (user === term || user.includes(term)) return false;
+    if (user === term || user.startsWith(term + '.') || user.endsWith('.' + term)) return false;
   }
+  // Short role terms must be exact match or dot-separated
+  if (/^(?:hr|ta|jobs|job|team|contact|info|support|apply|admin|help|sales|service|post)$/i.test(user)) return false;
+  if (/^(?:hr|ta|jobs|job|team|contact|info|support|apply|admin|help|sales|service|post)\./i.test(user)) return false;
+  if (/\.(?:hr|ta|jobs|job|team|contact|info|support|apply|admin|help|sales|service|post)$/i.test(user)) return false;
 
   if (user.length < 3) return false;
   return true;
@@ -184,7 +186,7 @@ async function verifyEmailExistence(emailStr, source = 'direct_posting') {
   }
 
   // Check if email comes from a scraped job posting with recruiter contact
-  if (source !== 'scraped_job_post' && source !== 'verified_listing') {
+  if (source !== 'scraped_job_post' && source !== 'verified_listing' && source !== 'direct' && source !== 'direct_posting') {
     return { valid: false, reason: 'Rejected: Email was not directly extracted from an authentic job posting (Zero Guesswork Policy)', isBlacklisted: false };
   }
 

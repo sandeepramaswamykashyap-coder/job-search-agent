@@ -400,22 +400,37 @@ async function sendSessionReport(forcedSessionType = null) {
     });
   }
 
+  let deliveredCount = 0;
   for (const to of recipients) {
-    try {
-      const mailOptions = {
-        from: `"Sandeep Kashyap Executive Agent" <sandeepramaswamykashyap@gmail.com>`,
-        to,
-        subject: `📊 ${windowInfo.reportTitle} — ${new Date().toLocaleDateString('en-IN', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', timeZone: 'Asia/Kolkata' })}`,
-        html: htmlContent,
-        attachments
-      };
+    let sent = false;
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        const mailOptions = {
+          from: `"Sandeep Kashyap Executive Agent" <sandeepramaswamykashyap@gmail.com>`,
+          to,
+          subject: `📊 ${windowInfo.reportTitle} — ${new Date().toLocaleDateString('en-IN', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', timeZone: 'Asia/Kolkata' })}`,
+          html: htmlContent,
+          attachments
+        };
 
-      await transporter.sendMail(mailOptions);
-      console.log(`[Reporter] ✅ Delivered consolidated report to ${to} with ${attachments.length} attachments.`);
-    } catch (err) {
-      console.error(`[Reporter] ❌ Failed to dispatch report to ${to}: ${err.message}`);
+        await transporter.sendMail(mailOptions);
+        console.log(`[Reporter] ✅ Delivered consolidated report to ${to} with ${attachments.length} attachments.`);
+        deliveredCount++;
+        sent = true;
+        break;
+      } catch (err) {
+        console.error(`[Reporter] ⚠️ Attempt ${attempt}/3 failed to dispatch report to ${to}: ${err.message}`);
+        if (attempt < 3) {
+          await new Promise(r => setTimeout(r, 5000));
+        }
+      }
+    }
+    if (!sent) {
+      console.error(`[Reporter] ❌ Permanently failed to dispatch report to ${to} after 3 attempts.`);
     }
   }
+
+  return deliveredCount > 0;
 }
 
 if (require.main === module) {

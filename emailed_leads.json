@@ -440,5 +440,131 @@
     "title": "Senior Vice President — Cloud & ServiceNow Practice",
     "status": "sent",
     "dispatchedAt": "2026-08-30T04:20:15.535Z"
+  },
+  {
+    "email": "vikram.seth@servicenow.com",
+    "company": "ServiceNow",
+    "title": "Vice President — Global Delivery & Customer Outcomes",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:04:28.286Z"
+  },
+  {
+    "email": "swati.khanna@servicenow.com",
+    "company": "ServiceNow",
+    "title": "Director of Talent Acquisition — Enterprise Solutions",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:04:34.432Z"
+  },
+  {
+    "email": "anand.mahalingam@deloitte.com",
+    "company": "Deloitte",
+    "title": "Partner & Practice Leader — ServiceNow HRSD & Digital Workplaces",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:04:40.916Z"
+  },
+  {
+    "email": "neha.agarwal@deloitte.com",
+    "company": "Deloitte",
+    "title": "Executive Talent Director — Enterprise Technology",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:04:46.693Z"
+  },
+  {
+    "email": "shweta.sen@pwc.com",
+    "company": "PwC",
+    "title": "Director — Executive & Leadership Recruitment",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:04:52.487Z"
+  },
+  {
+    "email": "sanjay.verma@ey.com",
+    "company": "Ernst & Young (EY)",
+    "title": "Partner — Digital Operations & Intelligent Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:04:58.955Z"
+  },
+  {
+    "email": "alok.gupta@kpmg.com",
+    "company": "KPMG",
+    "title": "Partner — Cloud Platforms & Enterprise Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:04.556Z"
+  },
+  {
+    "email": "megha.sharma@kpmg.com",
+    "company": "KPMG",
+    "title": "Talent Acquisition Lead — Management Consulting",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:09.744Z"
+  },
+  {
+    "email": "pradeep.kumar@accenture.com",
+    "company": "Accenture",
+    "title": "Managing Director — Enterprise Platform Engineering & HRSD",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:15.625Z"
+  },
+  {
+    "email": "smita.mishra@accenture.com",
+    "company": "Accenture",
+    "title": "Senior Talent Acquisition Manager — Leadership Hiring",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:20.758Z"
+  },
+  {
+    "email": "rahul.mehta@morganstanley.com",
+    "company": "Morgan Stanley",
+    "title": "Managing Director — Enterprise Operations & Technology Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:26.639Z"
+  },
+  {
+    "email": "amitabh.das@jpmorgan.com",
+    "company": "JPMorgan Chase",
+    "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:35.902Z"
+  },
+  {
+    "email": "tarun.kapoor@barclays.com",
+    "company": "Barclays",
+    "title": "Head of Enterprise Transformation & Global Platforms",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:42.505Z"
+  },
+  {
+    "email": "deepak.menon@hsbc.com",
+    "company": "HSBC",
+    "title": "Global Practice Leader — Platform Modernization & Service Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:48.757Z"
+  },
+  {
+    "email": "arvind.joshi@capgemini.com",
+    "company": "Capgemini",
+    "title": "Vice President & Practice Leader — ServiceNow & Enterprise Apps",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:05:55.222Z"
+  },
+  {
+    "email": "sunil.bhatia@cognizant.com",
+    "company": "Cognizant",
+    "title": "Vice President — Enterprise Cloud & ServiceNow Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:06:01.855Z"
+  },
+  {
+    "email": "manoj.singh@infosys.com",
+    "company": "Infosys",
+    "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:06:08.656Z"
+  },
+  {
+    "email": "nitin.chawla@genpact.com",
+    "company": "Genpact",
+    "title": "Global Leader — Intelligent Operations & Service Management",
+    "status": "sent",
+    "dispatchedAt": "2026-09-15T04:06:13.904Z"
   }
 ]

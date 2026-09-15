@@ -132,12 +132,17 @@ async function executeCycle() {
     await runPortalApplicationCycle(null, 30).catch(e => log(`Tier-1 Portal cycle warning: ${e.message}`));
     saveStats();
 
-    // 3. Indian Executive Portals — Naukri & IIMJobs for Transformation Leadership
+    // 4. Global Remote Portals (WeWorkRemotely, RemoteOK, Remotive, DailyRemote, WorkingNomads)
+    log('Starting GLOBAL REMOTE PORTALS sweep (WeWorkRemotely, RemoteOK, Remotive, WorkingNomads)...');
+    await runAllGlobalRemoteSweeps().catch(e => log(`Global Remote sweep warning: ${e.message}`));
+    saveStats();
+
+    // 5. Indian Executive Portals — Naukri & IIMJobs for Transformation Leadership
     log('Starting INDIAN EXECUTIVE PORTALS sweep (Naukri & IIMJobs)...');
     await runAgentCycle({ refreshCVOnly: false, stats, forceHeaded });
     saveStats();
 
-    // 4. Targeted Recruiter & Hiring Manager Outreach (verified job-posting contacts)
+    // 6. Targeted Recruiter & Hiring Manager Outreach (verified job-posting contacts)
     log('Starting TARGETED RECRUITER & HIRING MANAGER outreach cycle...');
     await processOutreachQueue().catch(e => log(`Outreach warning: ${e.message}`));
     saveStats();
@@ -207,9 +212,13 @@ function scheduleDailyReport() {
       try {
         await processOutreachQueue().catch(() => {});
         const { sendSessionReport } = require('./reporter');
-        await sendSessionReport('morning');
-        log("✅ 8:00 AM IST Morning Session Report dispatched successfully.");
-        updateReportState('morning', todayStr);
+        const delivered = await sendSessionReport('morning');
+        if (delivered) {
+          log("✅ 8:00 AM IST Morning Session Report dispatched successfully.");
+          updateReportState('morning', todayStr);
+        } else {
+          log("⚠️ Morning Session Report failed to dispatch. Will retry on next check.");
+        }
       } catch (err) {
         log(`Failed to dispatch 8 AM report: ${err.message}`);
       }
@@ -221,9 +230,13 @@ function scheduleDailyReport() {
       try {
         await processOutreachQueue().catch(() => {});
         const { sendSessionReport } = require('./reporter');
-        await sendSessionReport('evening');
-        log("✅ 8:00 PM IST Evening Session Report dispatched successfully.");
-        updateReportState('evening', todayStr);
+        const delivered = await sendSessionReport('evening');
+        if (delivered) {
+          log("✅ 8:00 PM IST Evening Session Report dispatched successfully.");
+          updateReportState('evening', todayStr);
+        } else {
+          log("⚠️ Evening Session Report failed to dispatch. Will retry on next check.");
+        }
       } catch (err) {
         log(`Failed to dispatch 8 PM report: ${err.message}`);
       }
