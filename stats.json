@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 8549,
-  "applicationsSubmitted": 2421,
+  "jobsScanned": 8649,
+  "applicationsSubmitted": 71,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Lead/Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7765927003",
-      "time": "2026-09-03T06:44:55.527Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Lead/Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7770073003",
-      "time": "2026-09-03T06:45:22.638Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Sales Strategy & Operations Manager",
@@ -4001,6 +3985,64 @@
       "url": "https://jobs.ashbyhq.com/baseten/55de4d92-fd47-4a92-a3f5-fab2624f6015",
       "time": "2026-09-15T15:54:18.992Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Supply Chain - Vice President",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7995992003",
+      "time": "2026-09-15T17:05:33.683Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Supply Chain - Vice President",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7995992003",
+      "time": "2026-09-15T17:05:33.861Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-15T17:09:56.374Z"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-15T17:09:56.382Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-15T17:09:56.388Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-15T17:09:56.392Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-15T17:09:56.397Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-15T17:09:56.401Z"
     }
   ],
   "failures": [
@@ -4663,23 +4705,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2421,
+  "totalVerifiedInHistory": 2423,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 59,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1220,
+    "direct_portal_greenhouse": 1221,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 123,
+    "greenhouse": 124,
     "direct_portal_ashby": 392,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T16:59:24.184Z",
-  "lastUpdated": "15/9/2026, 10:29:24 pm"
+  "lastSyncedAt": "2026-09-15T17:08:16.863Z",
+  "lastUpdated": "15/9/2026, 10:38:16 pm"
 }
