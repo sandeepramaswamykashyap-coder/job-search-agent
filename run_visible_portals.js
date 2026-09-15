@@ -24,7 +24,7 @@ const fs = require('fs');
 
 const credentials = JSON.parse(fs.readFileSync(path.join(__dirname, 'credentials.json'), 'utf8'));
 const profile = JSON.parse(fs.readFileSync(path.join(__dirname, 'profile.json'), 'utf8'));
-const { logApplication } = require('./applications_db');
+const { logApplication, getAllApplications } = require('./applications_db');
 const { applyToPortal } = require('./portal_router');
 const { fetchAllLiveATSJobs } = require('./company_ats_fetcher');
 const { syncToGitHub } = require('./git_auto_pusher');
