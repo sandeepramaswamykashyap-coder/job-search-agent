@@ -1,103 +1,7 @@
 {
-  "jobsScanned": 6237,
-  "applicationsSubmitted": 46,
+  "jobsScanned": 6357,
+  "applicationsSubmitted": 2410,
   "appliedRolesList": [
-    {
-      "company": "Toast",
-      "title": "Manager Enablement, Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8164718",
-      "time": "2026-09-03T03:15:22.003Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cribl",
-      "title": "Regional Sales Director, Japan",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cribl/jobs/6098546004",
-      "time": "2026-09-03T03:18:48.494Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Staff Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/7997789",
-      "time": "2026-09-03T03:24:50.221Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Operations Director, PPG",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8151949",
-      "time": "2026-09-03T03:25:39.634Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Country Director, India",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/7588061",
-      "time": "2026-09-03T03:34:07.281Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Senior Staff Technical Program Manager, Information Security",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8126861",
-      "time": "2026-09-03T03:57:44.067Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7820049003",
-      "time": "2026-09-03T03:58:30.735Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HCLTech",
-      "title": "Principle Solution Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-principle-solution-architect-hcltech-bengaluru-10-to-16-years-250826019268",
-      "time": "2026-09-03T04:11:40.324Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Principal Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/7904761",
-      "time": "2026-09-03T04:29:57.980Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7820050003",
-      "time": "2026-09-03T04:32:03.802Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Post-Award Governance Specialist",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8112140",
-      "time": "2026-09-03T04:32:41.840Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "VP, Corporate Development",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/7622906",
-      "time": "2026-09-03T05:05:10.308Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Customer Success Program Manager - Scale Team",
@@ -4003,46 +3907,100 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-15T09:58:08.613Z"
+      "company": "Cohere",
+      "title": "Software Engineer, Agents & Automations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e",
+      "time": "2026-09-15T10:06:15.122Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-15T09:58:08.619Z"
+      "company": "Cohere",
+      "title": "People Systems and Automation Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/8a7b1381-bd0b-444e-8605-faca526d4700",
+      "time": "2026-09-15T10:06:49.580Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-15T09:58:08.625Z"
+      "company": "Cohere",
+      "title": "Finance Systems and Automation Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/afd7e838-bd5e-4697-94ea-5d31fe1b00fd",
+      "time": "2026-09-15T10:07:18.508Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-15T09:58:08.629Z"
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Agentic Environments",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
+      "time": "2026-09-15T10:07:48.681Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-15T09:58:08.633Z"
+      "company": "Cohere",
+      "title": "Engineering Manager, FDE Agentic Platform",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/e906188a-e089-4b86-85b9-aad0d4413c68",
+      "time": "2026-09-15T10:08:17.238Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-15T09:58:08.638Z"
+      "company": "Cohere",
+      "title": "Applied AI Engineer, Agents & Automations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e",
+      "time": "2026-09-15T10:08:49.027Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
+      "time": "2026-09-15T10:09:19.644Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Associate Sales Representative (Agentic AI Automation)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/adbdb348-b111-421c-8783-67457b4eaa86",
+      "time": "2026-09-15T10:09:57.354Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Enterprise Account Executive (Agentic AI Automation)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/7cd20743-6956-4d6e-a31d-e91591553a93",
+      "time": "2026-09-15T10:10:31.964Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Partner Sales Manager (Agentic AI Automation)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/61732b36-c81e-48cd-86b4-881395531aa6",
+      "time": "2026-09-15T10:11:09.332Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Strategic Account Executive (Agentic AI Automation)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/ea51fd25-4c1a-42b6-801e-14175772b3d0",
+      "time": "2026-09-15T10:12:20.119Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Enterprise Account Executive (Agentic AI Automation)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/32b69dea-d271-43c8-a430-d661fa80c737",
+      "time": "2026-09-15T10:12:54.338Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2398,
+  "totalVerifiedInHistory": 2410,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 57,
@@ -4718,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 119,
-    "direct_portal_ashby": 379,
+    "direct_portal_ashby": 391,
     "ashby": 336,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T09:57:55.077Z",
-  "lastUpdated": "15/9/2026, 3:27:55 pm"
+  "lastSyncedAt": "2026-09-15T10:20:13.195Z",
+  "lastUpdated": "15/9/2026, 3:50:13 pm"
 }
