@@ -1,23 +1,7 @@
 {
   "jobsScanned": 8719,
-  "applicationsSubmitted": 2430,
+  "applicationsSubmitted": 2432,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Lead Project Manager (Swedish speaker)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7781625003",
-      "time": "2026-09-03T07:52:07.295Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Transformation Engineer - Oracle",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7978327003",
-      "time": "2026-09-03T07:52:19.763Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Dataiku",
       "title": "Head of Design",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5",
       "time": "2026-09-16T06:43:08.467Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Engineering Director, Security Products",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8195695",
+      "time": "2026-09-16T07:45:40.328Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Engineering Director, Security Products",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8195695",
+      "time": "2026-09-16T07:45:40.516Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2430,
+  "totalVerifiedInHistory": 2432,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 60,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1222,
+    "direct_portal_greenhouse": 1223,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 125,
+    "greenhouse": 126,
     "direct_portal_ashby": 395,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-16T07:09:39.002Z",
-  "lastUpdated": "16/9/2026, 12:39:39 pm"
+  "lastSyncedAt": "2026-09-16T07:45:40.550Z",
+  "lastUpdated": "16/9/2026, 1:15:40 pm"
 }
