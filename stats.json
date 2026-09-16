@@ -1,39 +1,7 @@
 {
   "jobsScanned": 8709,
-  "applicationsSubmitted": 2424,
+  "applicationsSubmitted": 2428,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Senior Digital Transformation & Process Optimisation Consultant (Senior Value Engineer) - Scale Team",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7826212003",
-      "time": "2026-09-03T06:46:28.900Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7817273003",
-      "time": "2026-09-03T07:18:37.143Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Strategic Solutions Director - Oracle",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7832752003",
-      "time": "2026-09-03T07:19:22.891Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior Director, Professional Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7741095003",
-      "time": "2026-09-03T07:19:24.257Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
@@ -4001,6 +3969,38 @@
       "url": "https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
       "time": "2026-09-15T23:18:40.635Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Order to Revenue Compliance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8604585002",
+      "time": "2026-09-16T02:05:00.334Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Order to Revenue Compliance",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8604585002",
+      "time": "2026-09-16T02:05:00.534Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Large Enterprise - Tokyo",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/18f58952-c242-4562-8732-073a0ae8029e",
+      "time": "2026-09-16T02:40:38.555Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Large Enterprise - Tokyo",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/18f58952-c242-4562-8732-073a0ae8029e",
+      "time": "2026-09-16T02:40:38.726Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2424,
+  "totalVerifiedInHistory": 2428,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 59,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1221,
+    "direct_portal_greenhouse": 1222,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 124,
-    "direct_portal_ashby": 393,
-    "ashby": 336,
+    "greenhouse": 125,
+    "direct_portal_ashby": 394,
+    "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-15T23:52:35.914Z",
-  "lastUpdated": "16/9/2026, 5:22:35 am"
+  "lastSyncedAt": "2026-09-16T02:40:38.760Z",
+  "lastUpdated": "16/9/2026, 8:10:38 am"
 }
