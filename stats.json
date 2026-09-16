@@ -1,15 +1,7 @@
 {
   "jobsScanned": 8719,
-  "applicationsSubmitted": 2432,
+  "applicationsSubmitted": 2433,
   "appliedRolesList": [
-    {
-      "company": "Dataiku",
-      "title": "Head of Design",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6146009004",
-      "time": "2026-09-03T07:52:58.350Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Dataiku",
       "title": "RVP, Northeast",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8195695",
       "time": "2026-09-16T07:45:40.516Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Shadowfax Technologies",
+      "title": "Director - Darkstore Operations (Hyperlocal)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-darkstore-operations-hyperlocal-shadowfax-technologies-bengaluru-7-to-12-years-160926043845?src=directSearch&sid=17895629836876855&xp=2&px=1",
+      "time": "2026-09-16T12:50:12.988Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,10 +4663,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2432,
+  "totalVerifiedInHistory": 2433,
   "portalBreakdown": {
     "iimjobs": 9,
-    "naukri": 60,
+    "naukri": 61,
     "weworkremotely": 12,
     "remoteok": 5,
     "direct_portal_greenhouse": 1223,
@@ -4680,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-16T07:45:40.550Z",
-  "lastUpdated": "16/9/2026, 1:15:40 pm"
+  "lastSyncedAt": "2026-09-16T12:50:13.029Z",
+  "lastUpdated": "16/9/2026, 6:20:13 pm"
 }
