@@ -1,39 +1,7 @@
 {
   "jobsScanned": 8729,
-  "applicationsSubmitted": 2433,
+  "applicationsSubmitted": 2437,
   "appliedRolesList": [
-    {
-      "company": "Dataiku",
-      "title": "RVP, Northeast",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6149800004",
-      "time": "2026-09-03T07:52:59.219Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "AI & Machine Learning Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7820677003",
-      "time": "2026-09-03T07:53:39.477Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Area Sales Director, Strategic",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8020585",
-      "time": "2026-09-03T07:59:29.480Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Area Sales Director, Strategic Sales ( California)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8119188",
-      "time": "2026-09-03T08:00:47.509Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Area Vice President, Strategic Sales",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-director-darkstore-operations-hyperlocal-shadowfax-technologies-bengaluru-7-to-12-years-160926043845?src=directSearch&sid=17895629836876855&xp=2&px=1",
       "time": "2026-09-16T12:50:12.988Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ripple",
+      "title": "Program Manager, Employee Giving and Volunteering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/8054452",
+      "time": "2026-09-16T16:31:02.640Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ripple",
+      "title": "Program Manager, Employee Giving and Volunteering",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/8054452",
+      "time": "2026-09-16T16:31:02.844Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Director, Celonis Services EMEA Center of Excellence",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7818825003",
+      "time": "2026-09-16T16:35:50.780Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Director, Celonis Services EMEA Center of Excellence",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7818825003",
+      "time": "2026-09-16T16:35:50.948Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2433,
+  "totalVerifiedInHistory": 2437,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 61,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1223,
+    "direct_portal_greenhouse": 1225,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 126,
+    "greenhouse": 128,
     "direct_portal_ashby": 395,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-16T14:32:21.100Z",
-  "lastUpdated": "16/9/2026, 8:02:21 pm"
+  "lastSyncedAt": "2026-09-16T16:35:50.983Z",
+  "lastUpdated": "16/9/2026, 10:05:50 pm"
 }
