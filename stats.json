@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 8709,
-  "applicationsSubmitted": 2428,
+  "jobsScanned": 8719,
+  "applicationsSubmitted": 2430,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7825969003",
-      "time": "2026-09-03T07:19:32.847Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Credit Risk Operations Associate",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8104748",
-      "time": "2026-09-03T07:23:41.720Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Lead Project Manager (Swedish speaker)",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/openai/18f58952-c242-4562-8732-073a0ae8029e",
       "time": "2026-09-16T02:40:38.726Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Celsior Technologies",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-pyramid-it-consulting-noida-hyderabad-bengaluru-12-to-22-years-160926012287?src=directSearch&sid=17895395746118336&xp=2&px=1",
+      "time": "2026-09-16T06:20:04.068Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Revenue Enablement Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5",
+      "time": "2026-09-16T06:43:08.467Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,10 +4663,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2428,
+  "totalVerifiedInHistory": 2430,
   "portalBreakdown": {
     "iimjobs": 9,
-    "naukri": 59,
+    "naukri": 60,
     "weworkremotely": 12,
     "remoteok": 5,
     "direct_portal_greenhouse": 1222,
@@ -4676,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 125,
-    "direct_portal_ashby": 394,
+    "direct_portal_ashby": 395,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-16T02:40:38.760Z",
-  "lastUpdated": "16/9/2026, 8:10:38 am"
+  "lastSyncedAt": "2026-09-16T07:00:21.222Z",
+  "lastUpdated": "16/9/2026, 12:30:21 pm"
 }
