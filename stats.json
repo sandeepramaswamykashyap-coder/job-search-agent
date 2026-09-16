@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 8729,
-  "applicationsSubmitted": 2439,
+  "jobsScanned": 8739,
+  "applicationsSubmitted": 2440,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Chief of Staff to the CPO",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8068504",
-      "time": "2026-09-03T08:04:50.309Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Director, Commercial Strategy & Buying Programs",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/okta/jobs/8209123",
       "time": "2026-09-16T20:45:04.873Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Director, Strategic Initiatives - Office of the CEO",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/c6a51171-efe3-46de-8466-2c2f151f321d",
+      "time": "2026-09-16T21:23:23.522Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2439,
+  "totalVerifiedInHistory": 2440,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 61,
@@ -4676,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 129,
-    "direct_portal_ashby": 395,
+    "direct_portal_ashby": 396,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-16T20:45:04.914Z",
-  "lastUpdated": "17/9/2026, 2:15:04 am"
+  "lastSyncedAt": "2026-09-16T21:40:49.131Z",
+  "lastUpdated": "17/9/2026, 3:10:49 am"
 }
