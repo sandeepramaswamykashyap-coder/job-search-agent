@@ -1,23 +1,7 @@
 {
   "jobsScanned": 8729,
-  "applicationsSubmitted": 2437,
+  "applicationsSubmitted": 2439,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Area Vice President, Strategic Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7774234",
-      "time": "2026-09-03T08:02:07.286Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Brand Art Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7821640",
-      "time": "2026-09-03T08:03:29.170Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Chief of Staff to the CPO",
@@ -4001,6 +3985,22 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7818825003",
       "time": "2026-09-16T16:35:50.948Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Director of Paid Media",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8209123",
+      "time": "2026-09-16T20:45:04.672Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Director of Paid Media",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8209123",
+      "time": "2026-09-16T20:45:04.873Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2437,
+  "totalVerifiedInHistory": 2439,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 61,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1225,
+    "direct_portal_greenhouse": 1226,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 128,
+    "greenhouse": 129,
     "direct_portal_ashby": 395,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-16T16:35:50.983Z",
-  "lastUpdated": "16/9/2026, 10:05:50 pm"
+  "lastSyncedAt": "2026-09-16T20:45:04.914Z",
+  "lastUpdated": "17/9/2026, 2:15:04 am"
 }
