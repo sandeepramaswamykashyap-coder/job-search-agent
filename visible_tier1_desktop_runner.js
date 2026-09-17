@@ -80,6 +80,7 @@ async function runVisibleDesktopRunner() {
 
       // STRICT SENIOR-LEVEL FILTER: Focus on 14+ yr executive / program leadership / ServiceNow / transformation
       const seniorKeywords = [
+        'senior manager', 'senior operations manager',
         'program manager', 'technical program manager', 'delivery manager',
         'servicenow', 'transformation', 'operations manager', 'product operations',
         'director', 'lead', 'head', 'project manager', 'strategy & ops', 'engineering operations'

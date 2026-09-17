@@ -300,6 +300,7 @@ async function runVisibleCorporateGrind(page, context) {
 
   const jobs = await fetchAllLiveATSJobs();
   const SENIOR_KEYWORDS = [
+    'senior manager', 'senior operations manager',
     'program manager', 'technical program manager', 'tpm', 'delivery manager',
     'transformation', 'director', 'vice president', 'vp', 'operations manager',
     'product manager', 'lead', 'bizops', 'chief of staff'

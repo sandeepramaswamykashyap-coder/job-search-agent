@@ -9,6 +9,8 @@ const https = require('https');
 const { isExcluded } = require('./ats_detector');
 
 const TARGET_ROLE_KEYWORDS = [
+  /senior\s*manager/i,
+  /senior\s*operations\s*manager/i,
   /program\s*manager/i,
   /technical\s*program\s*manager/i,
   /tpm\b/i,

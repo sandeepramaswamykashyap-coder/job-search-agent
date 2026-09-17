@@ -13,6 +13,8 @@ const credentials = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'crede
 const SLEEP = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const SENIOR_ROLES = [
+  'senior-manager',
+  'senior-operations-manager',
   'program-manager',
   'technical-program-manager',
   'transformation-lead',

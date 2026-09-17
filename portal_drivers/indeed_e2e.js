@@ -12,6 +12,8 @@ const credentials = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'crede
 const SLEEP = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const INDEED_ROLES = [
+  'Senior Manager',
+  'Senior Operations Manager',
   'Program Manager',
   'Technical Program Manager',
   'Operations Transformation'

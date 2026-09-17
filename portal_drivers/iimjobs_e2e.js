@@ -12,6 +12,8 @@ const credentials = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'crede
 const SLEEP = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const IIM_KEYWORDS = [
+  'senior-manager',
+  'senior-operations-manager',
   'program-manager',
   'technical-program-manager',
   'operations-head',
