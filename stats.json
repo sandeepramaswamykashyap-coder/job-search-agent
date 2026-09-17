@@ -1,55 +1,7 @@
 {
-  "jobsScanned": 8850,
-  "applicationsSubmitted": 2470,
+  "jobsScanned": 8868,
+  "applicationsSubmitted": 2476,
   "appliedRolesList": [
-    {
-      "company": "Alixpartners",
-      "title": "Management Berater:in - Einkauf / Procurement Transformation (m/w/d)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7592367003",
-      "time": "2026-09-03T10:05:52.519Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Performance Advisory - Senior Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7562440003",
-      "time": "2026-09-03T10:06:28.513Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Performance Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7820644003",
-      "time": "2026-09-03T10:06:39.926Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Performance - Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7589631003",
-      "time": "2026-09-03T10:06:41.317Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Performance Advisory - Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7562427003",
-      "time": "2026-09-03T10:06:57.284Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Performance - Logistics & Transportation (Senior Vice President)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7696044003",
-      "time": "2026-09-03T10:07:18.617Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Alixpartners",
       "title": "Performance  - Vice President",
@@ -4001,6 +3953,54 @@
       "url": "https://job-boards.greenhouse.io/toast/jobs/8201051",
       "time": "2026-09-17T07:51:39.977Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Manager, Sales Operations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075212",
+      "time": "2026-09-17T07:55:09.248Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Manager, Sales Operations",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075212",
+      "time": "2026-09-17T07:55:09.478Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Figma",
+      "title": "Senior Manager, Enterprise Sales (London, United Kingdom)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6124232004",
+      "time": "2026-09-17T07:59:59.637Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Figma",
+      "title": "Senior Manager, Enterprise Sales (London, United Kingdom)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6124232004",
+      "time": "2026-09-17T07:59:59.819Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Brex",
+      "title": "GTM AI Revenue Enablement, Senior Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/brex/jobs/8654453002",
+      "time": "2026-09-17T08:00:53.176Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Brex",
+      "title": "GTM AI Revenue Enablement, Senior Manager",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/brex/jobs/8654453002",
+      "time": "2026-09-17T08:00:53.351Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2470,
+  "totalVerifiedInHistory": 2476,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 62,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1248,
+    "direct_portal_greenhouse": 1251,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 134,
+    "greenhouse": 137,
     "direct_portal_ashby": 398,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T07:51:39.998Z",
-  "lastUpdated": "17/9/2026, 1:21:39 pm"
+  "lastSyncedAt": "2026-09-17T08:00:53.372Z",
+  "lastUpdated": "17/9/2026, 1:30:53 pm"
 }

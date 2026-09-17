@@ -19758,5 +19758,53 @@
     "url": "https://job-boards.greenhouse.io/toast/jobs/8201051",
     "time": "2026-09-17T07:51:39.977Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Senior Manager, Sales Operations",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075212",
+    "time": "2026-09-17T07:55:09.248Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Senior Manager, Sales Operations",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075212",
+    "time": "2026-09-17T07:55:09.478Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Figma",
+    "title": "Senior Manager, Enterprise Sales (London, United Kingdom)",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/figma/jobs/6124232004",
+    "time": "2026-09-17T07:59:59.637Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Figma",
+    "title": "Senior Manager, Enterprise Sales (London, United Kingdom)",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/figma/jobs/6124232004",
+    "time": "2026-09-17T07:59:59.819Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Brex",
+    "title": "GTM AI Revenue Enablement, Senior Manager",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/brex/jobs/8654453002",
+    "time": "2026-09-17T08:00:53.176Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Brex",
+    "title": "GTM AI Revenue Enablement, Senior Manager",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/brex/jobs/8654453002",
+    "time": "2026-09-17T08:00:53.351Z",
+    "status": "SUBMITTED"
   }
 ]
