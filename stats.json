@@ -1,39 +1,7 @@
 {
-  "jobsScanned": 8749,
-  "applicationsSubmitted": 2446,
+  "jobsScanned": 8769,
+  "applicationsSubmitted": 2450,
   "appliedRolesList": [
-    {
-      "company": "Celonis",
-      "title": "Lead Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7823884003",
-      "time": "2026-09-03T08:25:12.767Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Chief of Staff - Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7559351003",
-      "time": "2026-09-03T08:25:16.586Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "AI & Machine Learning Senior Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7820690003",
-      "time": "2026-09-03T08:26:05.054Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "AI & Data - Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7812722003",
-      "time": "2026-09-03T08:26:08.198Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ripple",
       "title": "Vice President of Engineering, Fiat Infrastructure",
@@ -4001,6 +3969,38 @@
       "url": "https://jobs.ashbyhq.com/openai/6ff654e4-fd45-4cac-a76f-30249e14292c",
       "time": "2026-09-17T06:53:03.712Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Sofi",
+      "title": "Lifecycle Technical Project Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/sofi/jobs/7993321003",
+      "time": "2026-09-17T06:57:25.911Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Technical Program Manager,  Extensibility",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/7778643",
+      "time": "2026-09-17T07:01:54.253Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Senior Director, ANZ Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7985568003",
+      "time": "2026-09-17T07:01:59.225Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Newrelic",
+      "title": "Senior Revenue Operations Manager - GTM Business Planning",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5418504008",
+      "time": "2026-09-17T07:03:38.583Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2446,
+  "totalVerifiedInHistory": 2450,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 62,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1229,
+    "direct_portal_greenhouse": 1233,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T06:53:03.745Z",
-  "lastUpdated": "17/9/2026, 12:23:03 pm"
+  "lastSyncedAt": "2026-09-17T07:03:38.607Z",
+  "lastUpdated": "17/9/2026, 12:33:38 pm"
 }
