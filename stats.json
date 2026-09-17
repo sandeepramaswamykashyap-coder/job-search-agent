@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 10470,
-  "applicationsSubmitted": 2541,
+  "jobsScanned": 10578,
+  "applicationsSubmitted": 20,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Staff SRE for Cloud Network Infrastructure Team (Managing edge in multi-cloud(AWS & GCP), mTLS, Global Routing, AI Automation)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8090773",
-      "time": "2026-09-04T03:03:55.194Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Vice President, Engineering - Authentication",
@@ -4001,6 +3993,56 @@
       "url": "https://job-boards.greenhouse.io/okta/jobs/8212083",
       "time": "2026-09-17T21:44:00.064Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. IT Project & Program Manager, Asset Management",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8209845",
+      "time": "2026-09-17T22:03:19.731Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-17T22:05:09.650Z"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-17T22:05:09.657Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-17T22:05:09.662Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-17T22:05:09.667Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-17T22:05:09.671Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-17T22:05:09.675Z"
     }
   ],
   "failures": [
@@ -4663,13 +4705,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2541,
+  "totalVerifiedInHistory": 2542,
   "portalBreakdown": {
     "iimjobs": 10,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1290,
+    "direct_portal_greenhouse": 1291,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4722,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T21:44:00.105Z",
-  "lastUpdated": "18/9/2026, 3:14:00 am"
+  "lastSyncedAt": "2026-09-17T22:03:19.757Z",
+  "lastUpdated": "18/9/2026, 3:33:19 am"
 }
