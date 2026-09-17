@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 8769,
-  "applicationsSubmitted": 2450,
+  "jobsScanned": 8778,
+  "applicationsSubmitted": 2451,
   "appliedRolesList": [
-    {
-      "company": "Ripple",
-      "title": "Vice President of Engineering, Fiat Infrastructure",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/7624480",
-      "time": "2026-09-03T08:26:52.298Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Principal Product Analyst - Workday Delivery Lead",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/newrelic/jobs/5418504008",
       "time": "2026-09-17T07:03:38.583Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Togetherai",
+      "title": "Director of Brand",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238654007",
+      "time": "2026-09-17T07:11:45.593Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2450,
+  "totalVerifiedInHistory": 2451,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 62,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1233,
+    "direct_portal_greenhouse": 1234,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T07:03:38.607Z",
-  "lastUpdated": "17/9/2026, 12:33:38 pm"
+  "lastSyncedAt": "2026-09-17T07:11:45.619Z",
+  "lastUpdated": "17/9/2026, 12:41:45 pm"
 }
