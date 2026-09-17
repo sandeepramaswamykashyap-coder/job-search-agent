@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 10335,
-  "applicationsSubmitted": 16,
+  "jobsScanned": 10470,
+  "applicationsSubmitted": 2541,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "People Technology Delivery Lead",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8074824",
-      "time": "2026-09-04T02:42:57.483Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Sr Director of Global Deal Strategy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8103111",
-      "time": "2026-09-04T02:58:13.159Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Software Engineer, AI Agentic Experience (Auth0)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7306066",
-      "time": "2026-09-04T03:02:52.403Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Staff SRE for Cloud Network Infrastructure Team (Managing edge in multi-cloud(AWS & GCP), mTLS, Global Routing, AI Automation)",
@@ -4003,46 +3979,28 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-17T20:20:48.809Z"
+      "company": "Mercury",
+      "title": "Head of Market & Liquidity Risk",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6199427004",
+      "time": "2026-09-17T21:19:49.901Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-17T20:20:48.813Z"
+      "company": "Zscaler",
+      "title": "Regional Director, Enterprise",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5231506007",
+      "time": "2026-09-17T21:27:50.649Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-17T20:20:48.816Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-17T20:20:48.819Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-17T20:20:48.822Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-17T20:20:48.824Z"
+      "company": "Okta",
+      "title": "Director, Global Tech Recruiting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8212083",
+      "time": "2026-09-17T21:44:00.064Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2538,
+  "totalVerifiedInHistory": 2541,
   "portalBreakdown": {
     "iimjobs": 10,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1287,
+    "direct_portal_greenhouse": 1290,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T20:19:33.192Z",
-  "lastUpdated": "18/9/2026, 1:49:33 am"
+  "lastSyncedAt": "2026-09-17T21:44:00.105Z",
+  "lastUpdated": "18/9/2026, 3:14:00 am"
 }
