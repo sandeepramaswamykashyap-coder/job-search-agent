@@ -28,6 +28,11 @@ const { logApplication, getAllApplications } = require('./applications_db');
 const { applyToPortal } = require('./portal_router');
 const { fetchAllLiveATSJobs } = require('./company_ats_fetcher');
 const { syncToGitHub } = require('./git_auto_pusher');
+const { runLinkedInE2E } = require('./portal_drivers/linkedin_e2e');
+const { runFounditE2E } = require('./portal_drivers/foundit_e2e');
+const { runInstahyreE2E } = require('./portal_drivers/instahyre_e2e');
+const { runIndeedE2E } = require('./portal_drivers/indeed_e2e');
+const { runTimesJobsE2E } = require('./portal_drivers/timesjobs_e2e');
 
 const CV_PATH = path.join(__dirname, 'Sandeep_Kashyap.pdf');
 const SESSION_DIR = path.join(__dirname, '.browser_session_visible');
@@ -375,15 +380,55 @@ async function main() {
       await runIIMJobsAutomation(page);
       await closeAllExtraTabs(browserContext, page);
 
-      // 3. Direct Tier-1 Corporate Applications
+      // 3. LinkedIn Easy Apply
+      try {
+        await runLinkedInE2E(page, browserContext, 10);
+      } catch (e) {
+        console.warn(`[VisibleRunner] LinkedIn step notice: ${e.message}`);
+      }
+      await closeAllExtraTabs(browserContext, page);
+
+      // 4. Foundit Applications
+      try {
+        await runFounditE2E(page, browserContext, 12);
+      } catch (e) {
+        console.warn(`[VisibleRunner] Foundit step notice: ${e.message}`);
+      }
+      await closeAllExtraTabs(browserContext, page);
+
+      // 5. Instahyre Applications
+      try {
+        await runInstahyreE2E(page, browserContext, 12);
+      } catch (e) {
+        console.warn(`[VisibleRunner] Instahyre step notice: ${e.message}`);
+      }
+      await closeAllExtraTabs(browserContext, page);
+
+      // 6. Indeed Applications
+      try {
+        await runIndeedE2E(page, browserContext, 10);
+      } catch (e) {
+        console.warn(`[VisibleRunner] Indeed step notice: ${e.message}`);
+      }
+      await closeAllExtraTabs(browserContext, page);
+
+      // 7. TimesJobs Applications
+      try {
+        await runTimesJobsE2E(page, browserContext, 10);
+      } catch (e) {
+        console.warn(`[VisibleRunner] TimesJobs step notice: ${e.message}`);
+      }
+      await closeAllExtraTabs(browserContext, page);
+
+      // 8. Direct Tier-1 Corporate Applications
       await runVisibleCorporateGrind(page, browserContext);
       await closeAllExtraTabs(browserContext, page);
 
       // Sync to GitHub
-      syncToGitHub('feat: recorded visible portal applications on Naukri, IIMJobs, and corporate boards');
+      syncToGitHub('feat: recorded visible omni-portal applications across all platforms');
 
-      console.log('\n[VisibleRunner] Cycle complete! Pausing 2 minutes before next sweep...');
-      await sleep(120 * 1000);
+      console.log('\n[VisibleRunner] Full omni-portal cycle complete! Pausing 3 minutes before next sweep...');
+      await sleep(180 * 1000);
     } catch (err) {
       console.error(`[VisibleRunner] Auto-recovery: ${err.message}`);
       await sleep(10000);

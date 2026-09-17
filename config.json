@@ -69,7 +69,7 @@
       "max_applications_per_day": 40
     },
     "linkedin": {
-      "enabled": false,
+      "enabled": true,
       "priority": 11,
       "max_applications_per_day": 25
     },
@@ -79,7 +79,7 @@
       "max_applications_per_day": 30
     },
     "indeed": {
-      "enabled": false,
+      "enabled": true,
       "priority": 13,
       "max_applications_per_day": 40
     },
@@ -94,7 +94,7 @@
       "max_applications_per_day": 20
     },
     "wellfound": {
-      "enabled": false,
+      "enabled": true,
       "priority": 16,
       "max_applications_per_day": 15
     },
@@ -109,7 +109,7 @@
       "max_applications_per_day": 35
     },
     "timesjobs": {
-      "enabled": false,
+      "enabled": true,
       "priority": 19,
       "max_applications_per_day": 20
     }
