@@ -19606,5 +19606,45 @@
     "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238654007",
     "time": "2026-09-17T07:11:45.593Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Neo4j",
+    "title": "Director, Field Engineering and Strategy",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/neo4j/jobs/4711183006",
+    "time": "2026-09-17T07:21:33.258Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Manager, Finance & Strategy",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/coinbase/jobs/7948222",
+    "time": "2026-09-17T07:24:27.614Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Manager, Finance & Strategy",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/coinbase/jobs/7948222",
+    "time": "2026-09-17T07:24:27.816Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Braze",
+    "title": "Director, Applied AI Architects",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/braze/jobs/8197642",
+    "time": "2026-09-17T07:27:01.752Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Togetherai",
+    "title": "Head of Distribution Partnerships",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5171124007",
+    "time": "2026-09-17T07:27:47.586Z",
+    "status": "SUBMITTED"
   }
 ]
