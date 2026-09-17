@@ -1,55 +1,7 @@
 {
-  "jobsScanned": 8739,
-  "applicationsSubmitted": 2440,
+  "jobsScanned": 8749,
+  "applicationsSubmitted": 2446,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Director, Commercial Strategy & Buying Programs",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8031522",
-      "time": "2026-09-03T08:08:38.099Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director, Engineering - Okta Integration Network",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8013137",
-      "time": "2026-09-03T08:14:48.655Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director, Product Management - Integrations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8022237",
-      "time": "2026-09-03T08:15:58.404Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Global Alliance Director- PwC",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8122478",
-      "time": "2026-09-03T08:21:48.667Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Head of Legal Operations & Chief of Staff",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8158010",
-      "time": "2026-09-03T08:23:09.150Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Head of Marketing APJ",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8001982",
-      "time": "2026-09-03T08:24:30.701Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celonis",
       "title": "Lead Project Manager",
@@ -4001,6 +3953,54 @@
       "url": "https://jobs.ashbyhq.com/uipath/c6a51171-efe3-46de-8466-2c2f151f321d",
       "time": "2026-09-16T21:23:23.522Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Loadshare Networks",
+      "title": "Associate Director - Operation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-operation-loadshare-networks-bengaluru-4-to-8-years-070926029083?src=directSearch&sid=17896277267333902&xp=1&px=1",
+      "time": "2026-09-17T06:48:59.093Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pendo",
+      "title": "Chief of Staff, CEO",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8730493002",
+      "time": "2026-09-17T06:49:45.629Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Head of Marketing APJ (Singapore based)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8209901",
+      "time": "2026-09-17T06:51:30.834Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Director, Global Partner Program Design & Scale",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5232012007",
+      "time": "2026-09-17T06:52:04.780Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Order to Cash Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/fcb3d139-7e8f-41f7-853d-02372f786f1d",
+      "time": "2026-09-17T06:52:48.875Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Creative Operations Lead, Business Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6ff654e4-fd45-4cac-a76f-30249e14292c",
+      "time": "2026-09-17T06:53:03.712Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2440,
+  "totalVerifiedInHistory": 2446,
   "portalBreakdown": {
     "iimjobs": 9,
-    "naukri": 61,
+    "naukri": 62,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1226,
+    "direct_portal_greenhouse": 1229,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 129,
-    "direct_portal_ashby": 396,
+    "direct_portal_ashby": 398,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T02:30:05.074Z",
-  "lastUpdated": "17/9/2026, 8:00:05 am"
+  "lastSyncedAt": "2026-09-17T06:53:03.745Z",
+  "lastUpdated": "17/9/2026, 12:23:03 pm"
 }

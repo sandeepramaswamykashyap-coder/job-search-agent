@@ -73,6 +73,7 @@ async function runIIMJobsE2E(page, context, maxApplications = 15) {
     const jobCards = await page.locator('div.joblist-card-v2, div[class*="joblist-card"], div.job-tuple').all();
     console.log(`[IIMJobsE2E] Found ${jobCards.length} job cards for "${ikw}".`);
 
+    const seenInKeyword = new Set();
     for (const card of jobCards.slice(0, 8)) {
       if (applicationsCount >= maxApplications) break;
 
@@ -90,10 +91,14 @@ async function runIIMJobsE2E(page, context, maxApplications = 15) {
           }
 
           const key = `${company.toLowerCase().trim()}::${title.toLowerCase().trim()}`;
-          if (appliedKeys.has(key)) {
-            console.log(`[IIMJobsE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
+          if (seenInKeyword.has(key) || appliedKeys.has(key)) {
+            if (!seenInKeyword.has(key)) {
+              console.log(`[IIMJobsE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
+            }
+            seenInKeyword.add(key);
             continue;
           }
+          seenInKeyword.add(key);
 
           console.log(`\n[IIMJobsE2E] 🚀 Opening & Applying: "${title.slice(0, 60)}" @ ${company}`);
 

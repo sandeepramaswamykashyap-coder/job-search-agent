@@ -23,11 +23,12 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 const credentials = JSON.parse(fs.readFileSync(path.join(__dirname, 'credentials.json'), 'utf8'));
-const profile = JSON.parse(fs.readFileSync(path.join(__dirname, 'profile.json'), 'utf8'));
 const { logApplication, getAllApplications } = require('./applications_db');
 const { applyToPortal } = require('./portal_router');
 const { fetchAllLiveATSJobs } = require('./company_ats_fetcher');
 const { syncToGitHub } = require('./git_auto_pusher');
+const { runNaukriE2E } = require('./portal_drivers/naukri_e2e');
+const { runIIMJobsE2E } = require('./portal_drivers/iimjobs_e2e');
 const { runLinkedInE2E } = require('./portal_drivers/linkedin_e2e');
 const { runFounditE2E } = require('./portal_drivers/foundit_e2e');
 const { runInstahyreE2E } = require('./portal_drivers/instahyre_e2e');
@@ -374,11 +375,19 @@ async function main() {
       await closeAllExtraTabs(browserContext, page);
 
       // 1. Naukri Profile Booster & Easy Apply
-      await runNaukriAutomation(page);
+      try {
+        await runNaukriE2E(page, browserContext, 15);
+      } catch (e) {
+        console.warn(`[VisibleRunner] Naukri step notice: ${e.message}`);
+      }
       await closeAllExtraTabs(browserContext, page);
 
       // 2. IIMJobs Executive Applications
-      await runIIMJobsAutomation(page);
+      try {
+        await runIIMJobsE2E(page, browserContext, 15);
+      } catch (e) {
+        console.warn(`[VisibleRunner] IIMJobs step notice: ${e.message}`);
+      }
       await closeAllExtraTabs(browserContext, page);
 
       // 3. LinkedIn Easy Apply

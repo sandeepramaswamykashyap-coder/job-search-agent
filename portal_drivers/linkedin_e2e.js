@@ -75,25 +75,29 @@ async function runLinkedInE2E(page, context, maxApplications = 10) {
     if (applicationsCount >= maxApplications) break;
 
     const encoded = encodeURIComponent(role);
-    const searchUrl = `https://www.linkedin.com/jobs/search/?keywords=${encoded}&location=Bengaluru&f_AL=true&f_TPR=r604800`;
+    const searchUrl = `https://www.linkedin.com/jobs/search/?keywords=${encoded}&location=Bengaluru&f_AL=true`;
     console.log(`\n[LinkedInE2E] 🔍 Searching Easy Apply for "${role}" in Bengaluru...`);
     await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 35000 });
     await SLEEP(4000);
+
+    // Wait for jobs container or list to render
+    await page.waitForSelector('ul.scaffold-layout__list-container, .jobs-search-results-list, [data-occludable-job-id], .job-card-container, .jobs-search-results__list-item', { timeout: 8000 }).catch(() => {});
 
     // Scroll to populate job card list
     await page.evaluate(() => window.scrollBy(0, 700)).catch(() => {});
     await SLEEP(2000);
 
-    const jobCards = await page.locator('.jobs-search-results__list-item, .job-card-container, [data-job-id]').all();
+    const jobCards = await page.locator('.jobs-search-results__list-item, .job-card-container, [data-job-id], li[data-occludable-job-id], .scaffold-layout__list-container > li, .job-card-job-posting-card-wrapper').all();
     console.log(`[LinkedInE2E] Found ${jobCards.length} Easy Apply cards for "${role}".`);
 
+    const seenInRole = new Set();
     for (const card of jobCards.slice(0, 8)) {
       if (applicationsCount >= maxApplications) break;
 
       try {
         await card.scrollIntoViewIfNeeded().catch(() => {});
-        const titleEl = card.locator('.job-card-list__title, .artdeco-entity-lockup__title, strong').first();
-        const compEl = card.locator('.job-card-container__primary-description, .artdeco-entity-lockup__subtitle').first();
+        const titleEl = card.locator('.job-card-list__title, .artdeco-entity-lockup__title, strong, a[data-control-name="job_card_click"]').first();
+        const compEl = card.locator('.job-card-container__primary-description, .artdeco-entity-lockup__subtitle, .job-card-container__company-name').first();
 
         const title = (await titleEl.innerText().catch(() => 'Senior Leader')).trim();
         const company = (await compEl.innerText().catch(() => 'LinkedIn Employer')).trim();
@@ -101,10 +105,14 @@ async function runLinkedInE2E(page, context, maxApplications = 10) {
         if (!title || !company) continue;
 
         const key = `${company.toLowerCase().trim()}::${title.toLowerCase().trim()}`;
-        if (appliedKeys.has(key)) {
-          console.log(`[LinkedInE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
+        if (seenInRole.has(key) || appliedKeys.has(key)) {
+          if (!seenInRole.has(key)) {
+            console.log(`[LinkedInE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
+          }
+          seenInRole.add(key);
           continue;
         }
+        seenInRole.add(key);
 
         console.log(`\n[LinkedInE2E] 📝 Reviewing: "${title}" @ ${company}`);
         await card.click().catch(() => {});

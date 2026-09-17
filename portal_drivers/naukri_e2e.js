@@ -98,6 +98,7 @@ async function runNaukriE2E(page, context, maxApplications = 20) {
     const jobCards = await page.locator('.srp-jobtuple-wrapper, article.jobTuple, [data-job-id], .cust-job-tuple').all();
     console.log(`[NaukriE2E] Found ${jobCards.length} job cards for "${role}".`);
 
+    const seenInRole = new Set();
     for (const card of jobCards.slice(0, 10)) {
       if (applicationsCount >= maxApplications) break;
 
@@ -109,10 +110,14 @@ async function runNaukriE2E(page, context, maxApplications = 20) {
         if (!title || !company) continue;
 
         const key = `${company.toLowerCase().trim()}::${title.toLowerCase().trim()}`;
-        if (appliedKeys.has(key)) {
-          console.log(`[NaukriE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
+        if (seenInRole.has(key) || appliedKeys.has(key)) {
+          if (!seenInRole.has(key)) {
+            console.log(`[NaukriE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
+          }
+          seenInRole.add(key);
           continue;
         }
+        seenInRole.add(key);
 
         console.log(`\n[NaukriE2E] 📝 Opening & Processing: "${title}" @ ${company}`);
 
