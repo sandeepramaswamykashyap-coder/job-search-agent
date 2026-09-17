@@ -1,71 +1,7 @@
 {
-  "jobsScanned": 10056,
-  "applicationsSubmitted": 8,
+  "jobsScanned": 10254,
+  "applicationsSubmitted": 2538,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Applied Infrastructure",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
-      "time": "2026-09-03T21:36:37.507Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Applied Infrastructure",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
-      "time": "2026-09-03T21:36:37.552Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Director of Customer Support",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/d268f2b0-b8cb-4f1c-9d7a-3700c029180f",
-      "time": "2026-09-03T22:11:24.157Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Director of Customer Support",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/suno/d268f2b0-b8cb-4f1c-9d7a-3700c029180f",
-      "time": "2026-09-03T22:11:24.184Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, State and Local Government",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/8b0ac3a0-53ac-49e7-9030-85d9b73d1012",
-      "time": "2026-09-03T23:59:33.191Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, State and Local Government",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/8b0ac3a0-53ac-49e7-9030-85d9b73d1012",
-      "time": "2026-09-03T23:59:33.208Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Executive Assistant to the Head of Marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/90917db5-8555-4a69-91c2-3b5ddbdbdd56",
-      "time": "2026-09-04T01:20:50.698Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Executive Assistant to the Head of Marketing",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/90917db5-8555-4a69-91c2-3b5ddbdbdd56",
-      "time": "2026-09-04T01:20:50.839Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "People Technology Delivery Lead",
@@ -4003,46 +3939,68 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-17T19:04:45.647Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Recruitment Process Outsourcing Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/recruitment-process-outsourcing-program-manager-1733602?ref=sp_prm&jobPos=4",
+      "time": "2026-09-17T19:14:08.768Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-17T19:04:45.654Z"
+      "company": "Okta",
+      "title": "Senior Manager, Site Reliability Engineering (Federal)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/7917007",
+      "time": "2026-09-17T19:16:11.911Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-17T19:04:45.659Z"
+      "company": "Okta",
+      "title": "Senior Manager, Solutions Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/7601524",
+      "time": "2026-09-17T19:22:35.821Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-17T19:04:45.663Z"
+      "company": "Okta",
+      "title": "Senior Manager, Solutions Engineering, Okta",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8094082",
+      "time": "2026-09-17T19:23:38.003Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-17T19:04:45.668Z"
+      "company": "Fivetran",
+      "title": "Regional Vice President",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7991106003",
+      "time": "2026-09-17T19:32:09.697Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-17T19:04:45.673Z"
+      "company": "Instacart",
+      "title": "Director of Product, Logistics",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/instacart/jobs/8198284",
+      "time": "2026-09-17T19:32:13.473Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Operations Manager, Stripe Delivery Centre",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8053011",
+      "time": "2026-09-17T19:54:07.664Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Business Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e",
+      "time": "2026-09-17T20:19:33.157Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2530,
+  "totalVerifiedInHistory": 2538,
   "portalBreakdown": {
-    "iimjobs": 9,
+    "iimjobs": 10,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1281,
+    "direct_portal_greenhouse": 1287,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 155,
-    "direct_portal_ashby": 401,
+    "direct_portal_ashby": 402,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T19:03:52.769Z",
-  "lastUpdated": "18/9/2026, 12:33:52 am"
+  "lastSyncedAt": "2026-09-17T20:19:33.192Z",
+  "lastUpdated": "18/9/2026, 1:49:33 am"
 }
