@@ -1,55 +1,7 @@
 {
-  "jobsScanned": 9264,
-  "applicationsSubmitted": 87,
+  "jobsScanned": 9507,
+  "applicationsSubmitted": 2524,
   "appliedRolesList": [
-    {
-      "company": "Payoneer",
-      "title": "Global GTM & Sales Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8131892",
-      "time": "2026-09-03T17:58:27.498Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Director of AI-Native Engineer",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8104985",
-      "time": "2026-09-03T17:58:27.862Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Program Manager, Stablecoin and PAYO Digital Bank",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8019869",
-      "time": "2026-09-03T17:58:58.883Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Creative Director, Brand, Social & Partnerships",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8782303002",
-      "time": "2026-09-03T18:00:26.833Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tanium",
-      "title": "Director of Strategic Accounts - Bay Area",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8097828",
-      "time": "2026-09-03T18:01:46.364Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tanium",
-      "title": "Director of Strategic Accounts - Local Governments (East Japan)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8113437",
-      "time": "2026-09-03T18:02:02.265Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Tanium",
       "title": "Director of Strategic Accounts",
@@ -4003,46 +3955,52 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-17T13:26:43.822Z"
+      "company": "Newrelic",
+      "title": "Senior Manager, Enterprise Sales ANZ(Acquisition)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5406388008",
+      "time": "2026-09-17T14:50:38.513Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-17T13:26:43.827Z"
+      "company": "Dropbox",
+      "title": "Senior Manager, APJ Field & Channel Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8208317",
+      "time": "2026-09-17T14:59:48.621Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-17T13:26:43.831Z"
+      "company": "Dropbox",
+      "title": "Senior Manager, APJ Field & Channel Marketing",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8208317",
+      "time": "2026-09-17T14:59:48.813Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-17T13:26:43.834Z"
+      "company": "Payoneer",
+      "title": "Senior Manager, Compliance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8139062",
+      "time": "2026-09-17T15:47:09.272Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-17T13:26:43.837Z"
+      "company": "Zoominfo",
+      "title": "Senior Manager, FP&A",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8568085002",
+      "time": "2026-09-17T15:48:54.258Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-17T13:26:43.839Z"
+      "company": "Zoominfo",
+      "title": "Senior Manager, FP&A",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8568085002",
+      "time": "2026-09-17T15:48:54.451Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2518,
+  "totalVerifiedInHistory": 2524,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1273,
+    "direct_portal_greenhouse": 1277,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 153,
+    "greenhouse": 155,
     "direct_portal_ashby": 399,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T13:25:39.640Z",
-  "lastUpdated": "17/9/2026, 6:55:39 pm"
+  "lastSyncedAt": "2026-09-17T15:48:54.486Z",
+  "lastUpdated": "17/9/2026, 9:18:54 pm"
 }
