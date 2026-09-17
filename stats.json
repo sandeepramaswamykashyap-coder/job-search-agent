@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 10578,
-  "applicationsSubmitted": 20,
+  "jobsScanned": 10614,
+  "applicationsSubmitted": 2549,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Vice President, Engineering - Authentication",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7909360",
-      "time": "2026-09-04T03:05:12.512Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Vice President, Global Systems Integrators",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7793061",
-      "time": "2026-09-04T03:06:32.968Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Vice President of Enterprise Sales, East",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7660357",
-      "time": "2026-09-04T03:07:50.443Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Programs, Support",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/9747412d-a23d-48ba-bddd-ad1247c360f5",
-      "time": "2026-09-04T06:54:21.494Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Launch Programs",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/d2e1f1e6-e1dd-4dc3-9a8d-73bce0114a28",
-      "time": "2026-09-04T06:54:53.923Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "GTM Strategy & Operations, India & South East Asia",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/a38926a6-a514-4ee0-bfe1-408922a2790c",
-      "time": "2026-09-04T06:55:24.083Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Sales Strategy & Operations - Central",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/2881fcec-3ab8-480c-813f-14769dcbf963",
-      "time": "2026-09-04T06:55:53.593Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Agentic Risk Analyst",
@@ -4003,46 +3947,60 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-17T22:05:09.650Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "AU Small Finance Bank - Program Manager/Assistant Manager - Cross Sell & NTB Acq",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/au-small-finance-bank-program-manager-assistant-manager-cross-sell-and-ntb-acquisition-1732987?ref=sp_br_prm&jobPos=3",
+      "time": "2026-09-17T22:36:23.482Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-17T22:05:09.657Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "NetApp - Social Impact Program Manager - CSR & Employee Engagement",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/netapp-social-impact-program-manager-csr-and-employee-engagement-1731836?ref=sp_prm&jobPos=4",
+      "time": "2026-09-17T22:36:29.070Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-17T22:05:09.662Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Tracxn - Senior Technical Program Manager - Data Production - IIT/BITS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/tracxn-senior-technical-program-manager-data-production-iit-bits-1725487?ref=sp_br&jobPos=2",
+      "time": "2026-09-17T22:36:43.878Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-17T22:05:09.667Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Pacewisdom - Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pacewisdom-technical-program-manager-1733389?ref=sp&jobPos=3",
+      "time": "2026-09-17T22:36:49.439Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-17T22:05:09.671Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Vena Solutions - Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vena-solutions-technical-program-manager-1729935?ref=sp&jobPos=4",
+      "time": "2026-09-17T22:36:55.016Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-17T22:05:09.675Z"
+      "company": "Zoominfo",
+      "title": "Director, Applied AI",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8800796002",
+      "time": "2026-09-17T22:45:19.919Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr Staff Technical Program Manager- Security",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8818577002",
+      "time": "2026-09-17T22:45:21.634Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2542,
+  "totalVerifiedInHistory": 2549,
   "portalBreakdown": {
-    "iimjobs": 10,
+    "iimjobs": 15,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1291,
+    "direct_portal_greenhouse": 1293,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T22:03:19.757Z",
-  "lastUpdated": "18/9/2026, 3:33:19 am"
+  "lastSyncedAt": "2026-09-17T22:45:21.668Z",
+  "lastUpdated": "18/9/2026, 4:15:21 am"
 }
