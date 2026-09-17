@@ -1,111 +1,7 @@
 {
-  "jobsScanned": 8868,
-  "applicationsSubmitted": 2476,
+  "jobsScanned": 9057,
+  "applicationsSubmitted": 2489,
   "appliedRolesList": [
-    {
-      "company": "Alixpartners",
-      "title": "Performance  - Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7589598003",
-      "time": "2026-09-03T10:07:27.018Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Performance Senior Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7820570003",
-      "time": "2026-09-03T10:07:32.770Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Risk Advisory Economics Consulting - Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7579313003",
-      "time": "2026-09-03T10:08:07.435Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Chief of Staff GTM - France",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/e0fdb2f5-54b4-4dff-813d-2c328d990e4c",
-      "time": "2026-09-03T10:09:38.401Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Director, Customer Experience",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/1285aefc-d2c4-4f7c-8357-6e8f97fb22d4",
-      "time": "2026-09-03T10:09:39.944Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Program Manager - Life Sciences",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-life-sciences-ey-hyderabad-gurugram-bengaluru-15-to-19-years-030926015907?src=directSearch&sid=17884301531008603&xp=3&px=1",
-      "time": "2026-09-03T10:09:40.948Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Paralegal, Entity Management & Corporate Governance",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/faf6f3a3-c215-4f25-aaee-5111dddde3c9",
-      "time": "2026-09-03T10:10:04.148Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Head of GTM Enablement - Global Lead",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/b70ef87c-ca51-44e0-8af2-9d874d6634cc",
-      "time": "2026-09-03T10:10:06.439Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Partner Director - Japan",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/2877fee4-4657-4986-aa07-15514b66ff41",
-      "time": "2026-09-03T10:10:51.833Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Head of EMEA Marketing",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/5e69951b-adac-4e61-9884-eaaea68c059b",
-      "time": "2026-09-03T10:10:52.573Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Character",
-      "title": "Technical Program Manager, AI Infrastructure",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/character/fd023b84-a746-4fe9-8a9d-277899e67a78",
-      "time": "2026-09-03T10:10:53.424Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8578155002",
-      "time": "2026-09-03T10:29:42.721Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sunovaa Tech",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-sunovaa-tech-bengaluru-6-to-11-years-260826014696?src=directSearch&sid=17884335707062388&xp=6&px=1",
-      "time": "2026-09-03T11:07:02.957Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Klaviyo",
       "title": "Head of Compensation",
@@ -4001,6 +3897,110 @@
       "url": "https://job-boards.greenhouse.io/brex/jobs/8654453002",
       "time": "2026-09-17T08:00:53.351Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Vice President, Global Communications",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8205340",
+      "time": "2026-09-17T08:28:09.561Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Brex",
+      "title": "Senior Manager, Sales Development",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/brex/jobs/8618619002",
+      "time": "2026-09-17T08:39:09.234Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Brex",
+      "title": "Senior Manager, Sales Development",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/brex/jobs/8618619002",
+      "time": "2026-09-17T08:39:09.414Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Affirm Bank Accounting (Controller)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7812986003",
+      "time": "2026-09-17T09:03:35.924Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Affirm Bank Accounting (Controller)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7812986003",
+      "time": "2026-09-17T09:03:36.110Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Financial Communications",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7807363003",
+      "time": "2026-09-17T09:08:16.100Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Financial Communications",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7807363003",
+      "time": "2026-09-17T09:08:16.279Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Financial Systems",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7983769003",
+      "time": "2026-09-17T09:12:53.845Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Financial Systems",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7983769003",
+      "time": "2026-09-17T09:12:54.032Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Technical Recruiting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7895270003",
+      "time": "2026-09-17T09:17:35.629Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Technical Recruiting",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7895270003",
+      "time": "2026-09-17T09:17:35.815Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Underwriting/Credit Model Risk Senior Manager - Machine Learning",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7822286003",
+      "time": "2026-09-17T09:22:15.739Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Underwriting/Credit Model Risk Senior Manager - Machine Learning",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7822286003",
+      "time": "2026-09-17T09:22:15.932Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2476,
+  "totalVerifiedInHistory": 2489,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 62,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1251,
+    "direct_portal_greenhouse": 1258,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 137,
+    "greenhouse": 143,
     "direct_portal_ashby": 398,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T08:00:53.372Z",
-  "lastUpdated": "17/9/2026, 1:30:53 pm"
+  "lastSyncedAt": "2026-09-17T09:22:15.961Z",
+  "lastUpdated": "17/9/2026, 2:52:15 pm"
 }
