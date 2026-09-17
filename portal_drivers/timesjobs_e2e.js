@@ -50,59 +50,76 @@ async function runTimesJobsE2E(page, context, maxApplications = 10) {
 
   let applicationsCount = 0;
 
+  const TIMESJOBS_ROLES = [
+    'Senior Manager',
+    'Senior Operations Manager',
+    'Program Manager',
+    'Technical Program Manager'
+  ];
+
   try {
-    const searchUrl = 'https://www.timesjobs.com/candidate/job-search.html?from=submit&actualTxtKeywords=program%20manager&searchBy=0&rdoOperator=OR&searchType=personalizedSearch&luceneResultSize=25&postWeek=60&txtLocation=Bengaluru';
-    console.log('[TimesJobsE2E] 🔍 Browsing senior vacancies in Bengaluru...');
-    await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
-    await SLEEP(3500);
-
-    const jobCards = await page.locator('.job-bx, .job-tuple, .srp-listing').all();
-    console.log(`[TimesJobsE2E] Found ${jobCards.length} job cards.`);
-
-    for (const card of jobCards.slice(0, 8)) {
+    for (const role of TIMESJOBS_ROLES) {
       if (applicationsCount >= maxApplications) break;
 
-      try {
-        const titleEl = card.locator('h2 a, .job-title').first();
-        const compEl = card.locator('h3.joblist-comp-name, .company-name').first();
+      const encoded = encodeURIComponent(role);
+      const searchUrl = `https://www.timesjobs.com/candidate/job-search.html?from=submit&actualTxtKeywords=${encoded}&searchBy=0&rdoOperator=OR&searchType=personalizedSearch&luceneResultSize=25&postWeek=60&txtLocation=Bengaluru`;
+      console.log(`\n[TimesJobsE2E] 🔍 Searching: "${role}" in Bengaluru...`);
+      await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
+      await SLEEP(3500);
 
-        const title = (await titleEl.innerText().catch(() => 'Program Leadership')).trim();
-        const company = (await compEl.innerText().catch(() => 'TimesJobs Employer')).trim();
+      const jobCards = await page.locator('.job-bx, .job-tuple, .srp-listing').all();
+      console.log(`[TimesJobsE2E] Found ${jobCards.length} job cards for "${role}".`);
 
-        if (!title || !company) continue;
+      const seenInRole = new Set();
+      for (const card of jobCards.slice(0, 8)) {
+        if (applicationsCount >= maxApplications) break;
 
-        const key = `${company.toLowerCase().trim()}::${title.toLowerCase().trim()}`;
-        if (appliedKeys.has(key)) {
-          console.log(`[TimesJobsE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
-          continue;
+        try {
+          const titleEl = card.locator('h2 a, .job-title').first();
+          const compEl = card.locator('h3.joblist-comp-name, .company-name').first();
+
+          const title = (await titleEl.innerText().catch(() => 'Program Leadership')).trim();
+          const company = (await compEl.innerText().catch(() => 'TimesJobs Employer')).trim();
+
+          if (!title || !company) continue;
+
+          const key = `${company.toLowerCase().trim()}::${title.toLowerCase().trim()}`;
+          if (seenInRole.has(key) || appliedKeys.has(key)) {
+            if (!seenInRole.has(key)) {
+              console.log(`[TimesJobsE2E] ⏭️ Already applied to: "${title}" @ ${company}`);
+            }
+            seenInRole.add(key);
+            continue;
+          }
+          seenInRole.add(key);
+
+          const applyBtn = card.locator('a:has-text("Apply"), button:has-text("Apply")').first();
+          if (await applyBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
+            console.log(`\n[TimesJobsE2E] 🚀 Submitting Application for "${title}" @ ${company}...`);
+            await applyBtn.click().catch(() => {});
+            await SLEEP(2500);
+
+            await resolveAndSubmitModal(page, { company, title });
+
+            logApplication({
+              company,
+              title,
+              portal: 'timesjobs',
+              url: page.url(),
+              time: new Date().toISOString(),
+              status: 'submitted'
+            });
+            appliedKeys.add(key);
+            applicationsCount++;
+            console.log(`[TimesJobsE2E] ✅ SUBMISSION CONFIRMED: "${title}" @ ${company} (${applicationsCount}/${maxApplications})`);
+          }
+        } catch (err) {
+          console.warn(`[TimesJobsE2E] ⚠️ Card skipped: ${err.message.slice(0, 80)}`);
+        } finally {
+          await closeAllExtraTabs(context, page);
         }
-
-        const applyBtn = card.locator('a:has-text("Apply"), button:has-text("Apply")').first();
-        if (await applyBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
-          console.log(`\n[TimesJobsE2E] 🚀 Submitting Application for "${title}" @ ${company}...`);
-          await applyBtn.click().catch(() => {});
-          await SLEEP(2500);
-
-          await resolveAndSubmitModal(page, { company, title });
-
-          logApplication({
-            company,
-            title,
-            portal: 'timesjobs',
-            url: page.url(),
-            time: new Date().toISOString(),
-            status: 'submitted'
-          });
-          appliedKeys.add(key);
-          applicationsCount++;
-          console.log(`[TimesJobsE2E] ✅ SUBMISSION CONFIRMED: "${title}" @ ${company} (${applicationsCount}/${maxApplications})`);
-        }
-      } catch (err) {
-        console.warn(`[TimesJobsE2E] ⚠️ Card skipped: ${err.message.slice(0, 80)}`);
-      } finally {
-        await closeAllExtraTabs(context, page);
+        await SLEEP(2000);
       }
-      await SLEEP(2000);
     }
   } catch (err) {
     console.error(`[TimesJobsE2E] Error: ${err.message}`);
