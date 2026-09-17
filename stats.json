@@ -1,127 +1,7 @@
 {
   "jobsScanned": 9084,
-  "applicationsSubmitted": 2499,
+  "applicationsSubmitted": 2514,
   "appliedRolesList": [
-    {
-      "company": "Zscaler",
-      "title": "Regional Director - Higher Education",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216233007",
-      "time": "2026-09-03T15:53:21.686Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Regional Director - SLED Southeast",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5218899007",
-      "time": "2026-09-03T15:53:21.715Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Partner Sales Director, GSI",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5189014007",
-      "time": "2026-09-03T15:53:22.662Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Regional Sales Director, Enterprise - Texas",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5187974007",
-      "time": "2026-09-03T15:54:00.958Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Regional Sales Director - Majors, Central",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198864007",
-      "time": "2026-09-03T15:54:02.043Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Regional Sales Director - Enterprise, Florida",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5224393007",
-      "time": "2026-09-03T15:54:44.023Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215324007",
-      "time": "2026-09-03T15:54:50.221Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Director - Mergers & Acquisitions",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208427007",
-      "time": "2026-09-03T15:54:50.283Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Manager – Finance Transformation (Record to Report)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208425007",
-      "time": "2026-09-03T15:54:50.416Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Director, CTO/CIO Healthcare West",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5148032007",
-      "time": "2026-09-03T15:55:29.039Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Program Manager, Compliance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5174340007",
-      "time": "2026-09-03T15:55:38.507Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225787007",
-      "time": "2026-09-03T15:55:38.605Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Technical Program Manager - Compliance Architecture",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5074405007",
-      "time": "2026-09-03T15:55:47.341Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Sr. Supply Chain Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5192641007",
-      "time": "2026-09-03T15:56:20.023Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Technical Program Manager (Software Deployments)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5174350007",
-      "time": "2026-09-03T15:56:21.768Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Staff Technical Program Manager - Government Authorizations",
@@ -4001,6 +3881,126 @@
       "url": "https://job-boards.greenhouse.io/databricks/jobs/8604577002",
       "time": "2026-09-17T10:58:21.298Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Bounteous",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-bounteous-gurugram-bengaluru-10-to-20-years-120926015836?src=directSearch&sid=17896429543513097&xp=1&px=1",
+      "time": "2026-09-17T11:02:46.721Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mapping Metrics",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-mapping-metrics-ai-powered-bengaluru-5-to-7-years-140926905312?src=directSearch&sid=17896429543513097&xp=2&px=1",
+      "time": "2026-09-17T11:03:03.770Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Onity Group",
+      "title": "Director, Call Center Operations Control",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-call-center-operations-control-onity-group-bengaluru-14-to-18-years-170926023528?src=directSearch&sid=17896430349888634&xp=1&px=1",
+      "time": "2026-09-17T11:04:07.370Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Operations Program Manager, Events APAC",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8176256",
+      "time": "2026-09-17T11:34:20.854Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Operations Program Manager, Events APAC",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8176256",
+      "time": "2026-09-17T11:34:21.048Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8439078002",
+      "time": "2026-09-17T12:18:25.365Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8439078002",
+      "time": "2026-09-17T12:18:25.554Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Identity & Access Management (IAM)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8301830002",
+      "time": "2026-09-17T12:23:05.864Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Identity & Access Management (IAM)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8301830002",
+      "time": "2026-09-17T12:23:06.049Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Infrastructure Data Science",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/7641390002",
+      "time": "2026-09-17T12:27:41.076Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Infrastructure Data Science",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/7641390002",
+      "time": "2026-09-17T12:27:41.266Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager - Technical Solutions (Big Data / AI)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8407895002",
+      "time": "2026-09-17T12:32:25.565Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager - Technical Solutions (Big Data / AI)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8407895002",
+      "time": "2026-09-17T12:32:25.755Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Manager, Care Escalations",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8203409",
+      "time": "2026-09-17T12:37:05.566Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Manager, Care Escalations",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8203409",
+      "time": "2026-09-17T12:37:05.744Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2499,
+  "totalVerifiedInHistory": 2514,
   "portalBreakdown": {
     "iimjobs": 9,
-    "naukri": 62,
+    "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1264,
+    "direct_portal_greenhouse": 1270,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 147,
+    "greenhouse": 153,
     "direct_portal_ashby": 398,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T10:58:21.332Z",
-  "lastUpdated": "17/9/2026, 4:28:21 pm"
+  "lastSyncedAt": "2026-09-17T12:37:05.777Z",
+  "lastUpdated": "17/9/2026, 6:07:05 pm"
 }
