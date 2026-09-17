@@ -1,119 +1,7 @@
 {
-  "jobsScanned": 8805,
-  "applicationsSubmitted": 2456,
+  "jobsScanned": 8850,
+  "applicationsSubmitted": 2470,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Senior Manager, Presales Strategy & Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8042657",
-      "time": "2026-09-03T08:49:42.732Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Manager, xDR Strategy & Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8103816",
-      "time": "2026-09-03T08:51:03.163Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Software Engineer, AI Agentic Experience (Auth0)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7305744",
-      "time": "2026-09-03T08:53:35.822Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "CCSI Cloud Strategy Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7737976003",
-      "time": "2026-09-03T08:59:21.444Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Business Intelligence Director - Americas",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7979386003",
-      "time": "2026-09-03T08:59:34.175Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Software Engineer II, Frontend Agentic AI",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8139374",
-      "time": "2026-09-03T08:59:53.326Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "EMEA Marketing & BD Manager – A&I – Senior Vice President (m/f/d)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7749244003",
-      "time": "2026-09-03T09:00:02.497Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Economics Consulting - Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7927787003",
-      "time": "2026-09-03T09:00:09.982Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Executive Recruiting Director – EMEA",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7831717003",
-      "time": "2026-09-03T09:01:05.387Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Corporate Finance & Capital Advisory - VP",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7813740003",
-      "time": "2026-09-03T09:32:56.302Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Governance Risk and Compliance - Vice President (Risk/Compliance)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7676569003",
-      "time": "2026-09-03T09:33:15.251Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Investigations, Compliance & Privacy - Sr. Vice President,  CPA",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7929792003",
-      "time": "2026-09-03T09:33:33.020Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Head of Office Management & Executive Assistant (m/w/d)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7746698003",
-      "time": "2026-09-03T09:33:48.334Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Investigations, Compliance & Privacy - Vice President, CPA",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7928959003",
-      "time": "2026-09-03T09:34:41.776Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Alixpartners",
       "title": "Management Berater:in - Einkauf / Procurement Transformation (m/w/d)",
@@ -4001,6 +3889,118 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5171124007",
       "time": "2026-09-17T07:27:47.586Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Manager, Institutional Sales",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8023815",
+      "time": "2026-09-17T07:29:38.881Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Manager, Institutional Sales",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8023815",
+      "time": "2026-09-17T07:29:39.066Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Asana",
+      "title": "Head of Revenue Strategy & Execution - CX",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/asana/jobs/8191817",
+      "time": "2026-09-17T07:31:25.630Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Manager, Recruiting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8051630",
+      "time": "2026-09-17T07:34:40.107Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Manager, Recruiting",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8051630",
+      "time": "2026-09-17T07:34:40.328Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Manager, Security Audit",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7997926",
+      "time": "2026-09-17T07:39:51.257Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Manager, Security Audit",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7997926",
+      "time": "2026-09-17T07:39:51.456Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Director, Global AI Native & POD Program",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8092253",
+      "time": "2026-09-17T07:41:50.408Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Manager, Data Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8090065",
+      "time": "2026-09-17T07:44:50.608Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Manager, Data Engineering",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8090065",
+      "time": "2026-09-17T07:44:50.797Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Director, Product Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8196718",
+      "time": "2026-09-17T07:51:30.346Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Global Benefits",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8204491",
+      "time": "2026-09-17T07:51:32.261Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Operations Program Manager, APAC",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8176256",
+      "time": "2026-09-17T07:51:38.691Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Privacy Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8201051",
+      "time": "2026-09-17T07:51:39.977Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2456,
+  "totalVerifiedInHistory": 2470,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 62,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1238,
+    "direct_portal_greenhouse": 1248,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 130,
+    "greenhouse": 134,
     "direct_portal_ashby": 398,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T07:27:47.611Z",
-  "lastUpdated": "17/9/2026, 12:57:47 pm"
+  "lastSyncedAt": "2026-09-17T07:51:39.998Z",
+  "lastUpdated": "17/9/2026, 1:21:39 pm"
 }
