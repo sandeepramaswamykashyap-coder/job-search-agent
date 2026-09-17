@@ -19910,5 +19910,85 @@
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7822286003",
     "time": "2026-09-17T09:22:15.932Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Intercom",
+    "title": "Senior Manager, Solutions Engineering",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/8155204",
+    "time": "2026-09-17T10:15:25.842Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Intercom",
+    "title": "Senior Manager, Forward Deployed Engineering",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7763257",
+    "time": "2026-09-17T10:44:02.813Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Intercom",
+    "title": "Senior Manager, Forward Deployed Engineering",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7763257",
+    "time": "2026-09-17T10:44:03.000Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Manager, Global Premier Support",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8422798002",
+    "time": "2026-09-17T10:45:29.881Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Intercom",
+    "title": "Senior Manager, Relationship Managers (MidMarket)",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7851752",
+    "time": "2026-09-17T10:48:51.690Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Intercom",
+    "title": "Senior Manager, Relationship Managers (MidMarket)",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7851752",
+    "time": "2026-09-17T10:48:51.874Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Manager, AI Forward Deployed Engineering - London",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8793863002",
+    "time": "2026-09-17T10:53:42.465Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Manager, AI Forward Deployed Engineering - London",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8793863002",
+    "time": "2026-09-17T10:53:42.638Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Manager, Finance Data and AI",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8604577002",
+    "time": "2026-09-17T10:58:21.130Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Manager, Finance Data and AI",
+    "portal": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8604577002",
+    "time": "2026-09-17T10:58:21.298Z",
+    "status": "SUBMITTED"
   }
 ]

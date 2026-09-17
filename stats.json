@@ -1,87 +1,7 @@
 {
-  "jobsScanned": 9057,
-  "applicationsSubmitted": 2489,
+  "jobsScanned": 9084,
+  "applicationsSubmitted": 2499,
   "appliedRolesList": [
-    {
-      "company": "Klaviyo",
-      "title": "Head of Compensation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7984272003",
-      "time": "2026-09-03T15:34:50.604Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fastly",
-      "title": "Director, Product Marketing – Security, AI and Emerging Technology",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fastly/jobs/8119740",
-      "time": "2026-09-03T15:50:53.373Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fastly",
-      "title": "Staff Strategic Operations Lead, Performance Center",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fastly/jobs/7858457",
-      "time": "2026-09-03T15:50:55.358Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director of Global AWS Cloud Alliance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5147255007",
-      "time": "2026-09-03T15:51:43.387Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, P&C Communications & Cultural Narrative",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211035007",
-      "time": "2026-09-03T15:51:45.296Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, GTM Finance & Topline Metrics",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5199918007",
-      "time": "2026-09-03T15:52:25.505Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, Technical Success",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215318007",
-      "time": "2026-09-03T15:52:30.915Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, Software Engineering - Common Platform Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5166806007",
-      "time": "2026-09-03T15:52:46.679Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, Product Management, Customer Security Outcomes",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5149191007",
-      "time": "2026-09-03T15:52:48.287Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, People Business Partner - Technology",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216231007",
-      "time": "2026-09-03T15:53:18.341Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Regional Director - Higher Education",
@@ -4001,6 +3921,86 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7822286003",
       "time": "2026-09-17T09:22:15.932Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Manager, Solutions Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8155204",
+      "time": "2026-09-17T10:15:25.842Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Manager, Forward Deployed Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7763257",
+      "time": "2026-09-17T10:44:02.813Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Manager, Forward Deployed Engineering",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7763257",
+      "time": "2026-09-17T10:44:03.000Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Global Premier Support",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8422798002",
+      "time": "2026-09-17T10:45:29.881Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Manager, Relationship Managers (MidMarket)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7851752",
+      "time": "2026-09-17T10:48:51.690Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Manager, Relationship Managers (MidMarket)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7851752",
+      "time": "2026-09-17T10:48:51.874Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, AI Forward Deployed Engineering - London",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8793863002",
+      "time": "2026-09-17T10:53:42.465Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, AI Forward Deployed Engineering - London",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8793863002",
+      "time": "2026-09-17T10:53:42.638Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Finance Data and AI",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8604577002",
+      "time": "2026-09-17T10:58:21.130Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Finance Data and AI",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8604577002",
+      "time": "2026-09-17T10:58:21.298Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2489,
+  "totalVerifiedInHistory": 2499,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 62,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1258,
+    "direct_portal_greenhouse": 1264,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 143,
+    "greenhouse": 147,
     "direct_portal_ashby": 398,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T09:22:15.961Z",
-  "lastUpdated": "17/9/2026, 2:52:15 pm"
+  "lastSyncedAt": "2026-09-17T10:58:21.332Z",
+  "lastUpdated": "17/9/2026, 4:28:21 pm"
 }
