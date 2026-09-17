@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 9777,
-  "applicationsSubmitted": 97,
+  "jobsScanned": 10047,
+  "applicationsSubmitted": 2530,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Tech",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/7e62a05e-2e43-4b95-bde7-34efa8d82c5f",
-      "time": "2026-09-03T21:31:39.850Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Tech",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/7e62a05e-2e43-4b95-bde7-34efa8d82c5f",
-      "time": "2026-09-03T21:31:39.898Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Technical Program Manager, Applied Infrastructure",
@@ -4003,46 +3987,20 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-17T17:15:51.540Z"
+      "company": "Pinterest",
+      "title": "Director of Product Management, Advertiser Growth",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8132504",
+      "time": "2026-09-17T19:02:53.672Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-17T17:15:51.548Z"
-    },
-    {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-17T17:15:51.553Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-17T17:15:51.557Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-17T17:15:51.561Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-17T17:15:51.565Z"
+      "company": "Deepgram",
+      "title": "Director, Text-to-Speech Synthesis Research",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/a0678103-1b9c-44a4-92c0-f705850a8fa1",
+      "time": "2026-09-17T19:03:52.736Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2528,
+  "totalVerifiedInHistory": 2530,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1280,
+    "direct_portal_greenhouse": 1281,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 155,
-    "direct_portal_ashby": 400,
+    "direct_portal_ashby": 401,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T17:14:50.401Z",
-  "lastUpdated": "17/9/2026, 10:44:50 pm"
+  "lastSyncedAt": "2026-09-17T19:03:52.769Z",
+  "lastUpdated": "18/9/2026, 12:33:52 am"
 }
