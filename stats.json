@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 9507,
-  "applicationsSubmitted": 2524,
+  "jobsScanned": 9705,
+  "applicationsSubmitted": 2526,
   "appliedRolesList": [
-    {
-      "company": "Tanium",
-      "title": "Director of Strategic Accounts",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8024995",
-      "time": "2026-09-03T18:02:06.806Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tanium",
-      "title": "Senior Director, Global Sales Enablement",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8158150",
-      "time": "2026-09-03T18:02:53.715Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Tanium",
       "title": "Director of R&D and Strategic Finance",
@@ -4001,6 +3985,22 @@
       "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8568085002",
       "time": "2026-09-17T15:48:54.451Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Payoneer",
+      "title": "Head of Product, PAYO Digital Bank",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8210296",
+      "time": "2026-09-17T16:13:44.117Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Multimodal",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/9b017213-6467-413f-b72c-59678c5d8bae",
+      "time": "2026-09-17T17:02:41.104Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2524,
+  "totalVerifiedInHistory": 2526,
   "portalBreakdown": {
     "iimjobs": 9,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1277,
+    "direct_portal_greenhouse": 1278,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 155,
-    "direct_portal_ashby": 399,
+    "direct_portal_ashby": 400,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-17T15:48:54.486Z",
-  "lastUpdated": "17/9/2026, 9:18:54 pm"
+  "lastSyncedAt": "2026-09-17T17:02:41.144Z",
+  "lastUpdated": "17/9/2026, 10:32:41 pm"
 }
