@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 13917,
-  "applicationsSubmitted": 2600,
+  "jobsScanned": 13971,
+  "applicationsSubmitted": 2602,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Program Manager, Business Marketing",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3ed37e51-40dc-4d17-8219-d3500af8892c",
-      "time": "2026-09-13T14:04:02.268Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Manufacturing Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0d8019ec-e034-49ad-8f6b-29abb459b98f",
-      "time": "2026-09-13T14:05:02.179Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Technical Program Manager, Manufacturing Operations",
@@ -4001,6 +3985,22 @@
       "url": "https://job-boards.greenhouse.io/figma/jobs/6199472004",
       "time": "2026-09-18T16:41:34.199Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Sales Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8196135",
+      "time": "2026-09-18T17:00:03.650Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Gusto",
+      "title": "Head of Product, New Customer Experience",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8144242",
+      "time": "2026-09-18T17:00:10.072Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2600,
+  "totalVerifiedInHistory": 2602,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1309,
+    "direct_portal_greenhouse": 1311,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T16:41:34.228Z",
-  "lastUpdated": "18/9/2026, 10:11:34 pm"
+  "lastSyncedAt": "2026-09-18T17:00:10.098Z",
+  "lastUpdated": "18/9/2026, 10:30:10 pm"
 }
