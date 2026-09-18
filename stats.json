@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 14178,
-  "applicationsSubmitted": 83,
+  "jobsScanned": 14430,
+  "applicationsSubmitted": 10,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Manufacturing Operations",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0d8019ec-e034-49ad-8f6b-29abb459b98f",
-      "time": "2026-09-13T14:05:02.199Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Creative Director, Copy",
@@ -4003,67 +3995,75 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Okta",
+      "title": "Director, Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8034876",
+      "time": "2026-09-18T18:41:39.446Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-18T17:01:23.098Z"
+      "time": "2026-09-18T18:42:06.202Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-18T17:01:23.105Z"
+      "time": "2026-09-18T18:42:06.207Z"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-18T17:01:23.111Z"
+      "time": "2026-09-18T18:42:06.210Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-18T17:01:23.115Z"
+      "time": "2026-09-18T18:42:06.212Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-18T17:01:23.120Z"
+      "time": "2026-09-18T18:42:06.215Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-18T17:01:23.123Z"
+      "time": "2026-09-18T18:42:06.219Z"
     },
     {
       "company": "Renewable Careers",
       "title": "Graduate Analyst",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-09-18T17:01:23.127Z"
+      "time": "2026-09-18T18:42:06.222Z"
     },
     {
       "company": "Proxify",
       "title": "Senior QA Automation Engineer",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-18T17:01:23.131Z"
+      "time": "2026-09-18T18:42:06.225Z"
     },
     {
       "company": "iMerit Technology",
       "title": "AI Image Evaluation Analyst",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-18T17:01:23.136Z"
+      "time": "2026-09-18T18:42:06.228Z"
     }
   ],
   "failures": [
@@ -4726,13 +4726,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2602,
+  "totalVerifiedInHistory": 2603,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1311,
+    "direct_portal_greenhouse": 1312,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4743,6 +4743,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T17:00:10.098Z",
-  "lastUpdated": "18/9/2026, 10:30:10 pm"
+  "lastSyncedAt": "2026-09-18T18:41:39.477Z",
+  "lastUpdated": "19/9/2026, 12:11:39 am"
 }
