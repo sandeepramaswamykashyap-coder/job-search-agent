@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 13503,
-  "applicationsSubmitted": 74,
+  "jobsScanned": 13701,
+  "applicationsSubmitted": 77,
   "appliedRolesList": [
-    {
-      "company": "Stripe",
-      "title": "Marketing Operations Program Manager, EMEA Events",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8172495",
-      "time": "2026-09-11T13:05:27.789Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Figma",
-      "title": "Technical Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/6179155004",
-      "time": "2026-09-11T16:08:24.500Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Head of Partnerships, Digital Natives",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c717b98e-5394-4ad1-ae3f-e036717ad9b5",
-      "time": "2026-09-13T14:02:42.373Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Head of Partnerships, Digital Natives",
@@ -4003,67 +3979,91 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Pinterest",
+      "title": "Managing Director, Sales - FinServ",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8171829",
+      "time": "2026-09-18T14:52:02.104Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Manager, Account Executives, Continental Europe (French/German)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7939367",
+      "time": "2026-09-18T14:53:35.219Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Manager, Account Executives, Continental Europe (French/German)",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7939367",
+      "time": "2026-09-18T14:53:35.418Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-18T13:45:32.387Z"
+      "time": "2026-09-18T14:54:00.448Z"
     },
     {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-18T13:45:32.394Z"
+      "time": "2026-09-18T14:54:00.455Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-18T13:45:32.399Z"
+      "time": "2026-09-18T14:54:00.460Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-18T13:45:32.404Z"
+      "time": "2026-09-18T14:54:00.465Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-18T13:45:32.408Z"
+      "time": "2026-09-18T14:54:00.469Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-18T13:45:32.413Z"
+      "time": "2026-09-18T14:54:00.473Z"
     },
     {
       "company": "Renewable Careers",
       "title": "Graduate Analyst",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-09-18T13:45:32.416Z"
+      "time": "2026-09-18T14:54:00.478Z"
     },
     {
       "company": "Proxify",
       "title": "Senior QA Automation Engineer",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-18T13:45:32.420Z"
+      "time": "2026-09-18T14:54:00.484Z"
     },
     {
       "company": "iMerit Technology",
       "title": "AI Image Evaluation Analyst",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-18T13:45:32.424Z"
+      "time": "2026-09-18T14:54:00.488Z"
     }
   ],
   "failures": [
@@ -4726,23 +4726,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2593,
+  "totalVerifiedInHistory": 2596,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1303,
+    "direct_portal_greenhouse": 1305,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 158,
+    "greenhouse": 159,
     "direct_portal_ashby": 426,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T13:44:26.892Z",
-  "lastUpdated": "18/9/2026, 7:14:26 pm"
+  "lastSyncedAt": "2026-09-18T14:53:35.455Z",
+  "lastUpdated": "18/9/2026, 8:23:35 pm"
 }
