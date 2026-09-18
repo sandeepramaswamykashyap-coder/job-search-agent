@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 13845,
-  "applicationsSubmitted": 2599,
+  "jobsScanned": 13917,
+  "applicationsSubmitted": 2600,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Program Manager, Business Marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3ed37e51-40dc-4d17-8219-d3500af8892c",
-      "time": "2026-09-13T14:04:02.248Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Program Manager, Business Marketing",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5238613007",
       "time": "2026-09-18T16:17:17.590Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Figma",
+      "title": "Director, Product Design - AI & Context",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6199472004",
+      "time": "2026-09-18T16:41:34.199Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2599,
+  "totalVerifiedInHistory": 2600,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1308,
+    "direct_portal_greenhouse": 1309,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T16:17:17.615Z",
-  "lastUpdated": "18/9/2026, 9:47:17 pm"
+  "lastSyncedAt": "2026-09-18T16:41:34.228Z",
+  "lastUpdated": "18/9/2026, 10:11:34 pm"
 }
