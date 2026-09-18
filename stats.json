@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 11757,
-  "applicationsSubmitted": 59,
+  "jobsScanned": 12018,
+  "applicationsSubmitted": 61,
   "appliedRolesList": [
-    {
-      "company": "Uipath",
-      "title": "Director, Software Engineering",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/4b737fe7-4d9d-4999-8eea-a049235c7346",
-      "time": "2026-09-05T15:18:43.399Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Director, Demand Generation",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/b17b5c04-0901-49b4-8106-aef56e10abe0",
-      "time": "2026-09-05T15:18:44.428Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Uipath",
       "title": "Director, Demand Generation",
@@ -4003,46 +3987,62 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-18T05:07:10.177Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Armor - Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/armor-technical-program-manager-1719261?ref=sp&jobPos=4",
+      "time": "2026-09-18T05:30:17.824Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-18T05:07:10.184Z"
+      "company": "Payoneer",
+      "title": "Senior Manager, Market Development",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8144160",
+      "time": "2026-09-18T06:30:25.983Z",
+      "status": "SUBMITTED"
     },
     {
       "company": "GitLab",
       "title": "AI Transformation Owner, Product &amp; Design",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-18T05:07:10.188Z"
+      "time": "2026-09-18T06:30:55.455Z"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-18T06:30:55.463Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-18T06:30:55.469Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-18T05:07:10.193Z"
+      "time": "2026-09-18T06:30:55.473Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-18T05:07:10.197Z"
+      "time": "2026-09-18T06:30:55.477Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-18T05:07:10.201Z"
+      "time": "2026-09-18T06:30:55.481Z"
     }
   ],
   "failures": [
@@ -4705,13 +4705,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2581,
+  "totalVerifiedInHistory": 2583,
   "portalBreakdown": {
-    "iimjobs": 20,
+    "iimjobs": 21,
     "naukri": 65,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1301,
+    "direct_portal_greenhouse": 1302,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4722,6 +4722,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T05:06:41.060Z",
-  "lastUpdated": "18/9/2026, 10:36:41 am"
+  "lastSyncedAt": "2026-09-18T06:30:26.018Z",
+  "lastUpdated": "18/9/2026, 12:00:26 pm"
 }
