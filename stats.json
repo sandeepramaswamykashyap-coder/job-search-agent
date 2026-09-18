@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 14430,
-  "applicationsSubmitted": 10,
+  "jobsScanned": 14520,
+  "applicationsSubmitted": 2606,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Creative Director, Copy",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/a5136d9d-c22a-4c12-a776-483f63ef1120",
-      "time": "2026-09-13T14:05:02.661Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Creative Director, Copy",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/a5136d9d-c22a-4c12-a776-483f63ef1120",
-      "time": "2026-09-13T14:05:02.673Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Partnerships Operations Lead, OAI for Government",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/910b44fb-6af7-4d26-8e25-9ba814fe5fd5",
-      "time": "2026-09-13T14:05:04.897Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Partnerships Operations Lead, OAI for Government",
@@ -4003,67 +3979,28 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-18T18:42:06.202Z"
+      "company": "Qualtrics",
+      "title": "Senior Program Manager - Data Security & Information Governance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/qualtrics/jobs/8205552",
+      "time": "2026-09-18T20:05:51.873Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-18T18:42:06.207Z"
+      "company": "Databricks",
+      "title": "Director, Field Engineering Emerging Enterprises & Startups",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8662803002",
+      "time": "2026-09-18T20:06:27.995Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-18T18:42:06.210Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-18T18:42:06.212Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-18T18:42:06.215Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-18T18:42:06.219Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-09-18T18:42:06.222Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-18T18:42:06.225Z"
-    },
-    {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-18T18:42:06.228Z"
+      "company": "Openai",
+      "title": "Head of Finance - Data Centers",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/144b12f3-5821-4727-a266-b5ed9ff46fd2",
+      "time": "2026-09-18T20:06:51.346Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4726,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2603,
+  "totalVerifiedInHistory": 2606,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1312,
+    "direct_portal_greenhouse": 1314,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 159,
-    "direct_portal_ashby": 426,
+    "direct_portal_ashby": 427,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T18:41:39.477Z",
-  "lastUpdated": "19/9/2026, 12:11:39 am"
+  "lastSyncedAt": "2026-09-18T20:06:51.379Z",
+  "lastUpdated": "19/9/2026, 1:36:51 am"
 }
