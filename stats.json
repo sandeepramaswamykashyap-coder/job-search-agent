@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 13278,
-  "applicationsSubmitted": 63,
+  "jobsScanned": 13413,
+  "applicationsSubmitted": 2592,
   "appliedRolesList": [
-    {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-06T12:46:13.570Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Delivery Director, Capacity Programs",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/74b4fde1-d4e9-4080-be05-48adf2b84f6a",
-      "time": "2026-09-06T14:09:07.229Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Delivery Director, Capacity Programs",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/74b4fde1-d4e9-4080-be05-48adf2b84f6a",
-      "time": "2026-09-06T14:09:07.242Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Capacity Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/28291849-b57f-4813-a7e0-66b1050b2d1b",
-      "time": "2026-09-06T14:09:25.454Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Capacity Operations Manager",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/28291849-b57f-4813-a7e0-66b1050b2d1b",
-      "time": "2026-09-06T14:09:25.466Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-08T17:14:19.623Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Regional Sales Operations Manager - NAMER (Remote)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075211",
-      "time": "2026-09-10T03:58:48.827Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Renewable Careers",
       "title": "Graduate Analyst",
@@ -4003,46 +3947,60 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-18T10:23:10.549Z"
+      "company": "Ramp",
+      "title": "Manager, Scaled Customer Success Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d",
+      "time": "2026-09-18T13:01:51.788Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-18T10:23:10.554Z"
+      "company": "Cohere",
+      "title": "Senior Manager of Financial Planning & Analysis",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/5adf044a-a601-467a-bb92-807850b4f7ec",
+      "time": "2026-09-18T13:09:49.011Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-18T10:23:10.557Z"
+      "company": "Cohere",
+      "title": "Manager, People Systems and Automation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/8a7b1381-bd0b-444e-8605-faca526d4700",
+      "time": "2026-09-18T13:10:22.932Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-18T10:23:10.561Z"
+      "company": "Cohere",
+      "title": "Senior Manager, Executive Communications",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/854ce13b-5a63-4d19-99e7-756a6e8bb84b",
+      "time": "2026-09-18T13:10:53.716Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-18T10:23:10.564Z"
+      "company": "Uipath",
+      "title": "Senior Manager, Event Content, Programming & Production",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/ed0f0bb8-75f5-49e1-8734-46c534760c24",
+      "time": "2026-09-18T13:11:29.720Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-18T10:23:10.567Z"
+      "company": "Temporal",
+      "title": "Technical Executive Communications, Senior Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/30600762-62fe-4ffb-9b6e-98f145329ea3",
+      "time": "2026-09-18T13:12:08.964Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Solutions Architecture - New Logo",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/b4817f72-9afc-431b-919d-aea70f6cbf4c",
+      "time": "2026-09-18T13:12:48.950Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4705,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2585,
+  "totalVerifiedInHistory": 2592,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
@@ -4718,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 158,
-    "direct_portal_ashby": 418,
+    "direct_portal_ashby": 425,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T10:22:01.352Z",
-  "lastUpdated": "18/9/2026, 3:52:01 pm"
+  "lastSyncedAt": "2026-09-18T13:31:35.699Z",
+  "lastUpdated": "18/9/2026, 7:01:35 pm"
 }
