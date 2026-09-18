@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 13413,
-  "applicationsSubmitted": 2592,
+  "jobsScanned": 13449,
+  "applicationsSubmitted": 2593,
   "appliedRolesList": [
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-09-10T06:00:50.152Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Stripe",
       "title": "Marketing Operations Program Manager, EMEA Events",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/temporal/b4817f72-9afc-431b-919d-aea70f6cbf4c",
       "time": "2026-09-18T13:12:48.950Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "GRC Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/2409a254-87f6-4bed-ad11-20e1ba660e07",
+      "time": "2026-09-18T13:44:26.863Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2592,
+  "totalVerifiedInHistory": 2593,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
@@ -4676,10 +4676,10 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 158,
-    "direct_portal_ashby": 425,
+    "direct_portal_ashby": 426,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T13:31:35.699Z",
-  "lastUpdated": "18/9/2026, 7:01:35 pm"
+  "lastSyncedAt": "2026-09-18T13:44:26.892Z",
+  "lastUpdated": "18/9/2026, 7:14:26 pm"
 }
