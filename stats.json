@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 15735,
-  "applicationsSubmitted": 2614,
+  "jobsScanned": 15996,
+  "applicationsSubmitted": 22,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Legal Program Manager (Regulatory Compliance)",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/7495a0fe-be5a-42b4-bded-77870a122776",
-      "time": "2026-09-13T14:05:33.725Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Head of Analyst Relations",
@@ -4001,6 +3993,77 @@
       "url": "https://job-boards.greenhouse.io/braze/jobs/8212960",
       "time": "2026-09-19T02:05:58.903Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Sr. Director, IT Product Management �� Post Sales and Partner Technology",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8003065",
+      "time": "2026-09-19T03:42:31.771Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-19T03:43:41.262Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-19T03:43:41.268Z"
+    },
+    {
+      "company": "GitLab",
+      "title": "AI Transformation Owner, Product &amp; Design",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
+      "time": "2026-09-19T03:43:41.273Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-19T03:43:41.277Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-19T03:43:41.282Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-19T03:43:41.285Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-09-19T03:43:41.289Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1843242/",
+      "time": "2026-09-19T03:43:41.293Z"
+    },
+    {
+      "company": "iMerit Technology",
+      "title": "AI Image Evaluation Analyst",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1837431/",
+      "time": "2026-09-19T03:43:41.296Z"
     }
   ],
   "failures": [
@@ -4663,13 +4726,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2614,
+  "totalVerifiedInHistory": 2615,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1320,
+    "direct_portal_greenhouse": 1321,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4680,6 +4743,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-19T03:19:28.386Z",
-  "lastUpdated": "19/9/2026, 8:49:28 am"
+  "lastSyncedAt": "2026-09-19T03:42:31.802Z",
+  "lastUpdated": "19/9/2026, 9:12:31 am"
 }
