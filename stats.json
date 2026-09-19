@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 15141,
-  "applicationsSubmitted": 17,
+  "jobsScanned": 15267,
+  "applicationsSubmitted": 2611,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Growth Martech Operations Lead",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/9a8a0925-fc54-459f-b28f-12c14e9ef31e",
-      "time": "2026-09-13T14:05:31.632Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Art Director",
@@ -4003,67 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-18T23:19:12.236Z"
-    },
-    {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-18T23:19:12.244Z"
-    },
-    {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-18T23:19:12.249Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-18T23:19:12.253Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-18T23:19:12.258Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-18T23:19:12.262Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-09-18T23:19:12.266Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-18T23:19:12.270Z"
-    },
-    {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-18T23:19:12.274Z"
+      "company": "Okta",
+      "title": "Director of Engineering, AI Takeoff Team",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8214882",
+      "time": "2026-09-19T00:32:05.948Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4726,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2610,
+  "totalVerifiedInHistory": 2611,
   "portalBreakdown": {
     "iimjobs": 21,
     "naukri": 66,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1317,
+    "direct_portal_greenhouse": 1318,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4743,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-18T23:17:39.592Z",
-  "lastUpdated": "19/9/2026, 4:47:39 am"
+  "lastSyncedAt": "2026-09-19T00:32:05.980Z",
+  "lastUpdated": "19/9/2026, 6:02:05 am"
 }
