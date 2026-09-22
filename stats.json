@@ -1,127 +1,7 @@
 {
-  "jobsScanned": 16469,
-  "applicationsSubmitted": 2658,
+  "jobsScanned": 16493,
+  "applicationsSubmitted": 2673,
   "appliedRolesList": [
-    {
-      "company": "Asana",
-      "title": "Head of Enterprise Sales, DACH",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/asana/jobs/8100429",
-      "time": "2026-09-14T09:43:46.061Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering - Healthcare & Life Sciences",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8586437002",
-      "time": "2026-09-14T09:43:46.888Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Duolingo",
-      "title": "Staff Technical Program Manager, Duolingo English Test",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/duolingo/jobs/8755781002",
-      "time": "2026-09-14T09:43:49.745Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Reddit",
-      "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8195629",
-      "time": "2026-09-14T09:44:32.617Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Asana",
-      "title": "Head of UKI Enterprise Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/asana/jobs/7629129",
-      "time": "2026-09-14T09:45:26.097Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Director, Customer Success, Enterprise",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8164569",
-      "time": "2026-09-14T09:46:46.138Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Senior Delivery Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8177660",
-      "time": "2026-09-14T09:49:20.320Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Senior Director, GTM Product Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8089828",
-      "time": "2026-09-14T09:49:24.970Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samsara",
-      "title": "Technical Program Manager - Enterprise Security",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/8164851",
-      "time": "2026-09-14T09:50:04.976Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samsara",
-      "title": "Senior Web Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/8179593",
-      "time": "2026-09-14T09:50:55.451Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Associate Creative Director, Growth Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8684363002",
-      "time": "2026-09-14T09:51:47.603Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chime",
-      "title": "Creative Director, Brand",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/chime/jobs/8792463002",
-      "time": "2026-09-14T09:52:17.515Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Temporal",
-      "title": "Head of Corporate Development",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/d9a78583-cca6-4d76-96f9-846693a37815",
-      "time": "2026-09-14T09:53:58.933Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Brex",
-      "title": "Senior Marketing Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/brex/jobs/8787020002",
-      "time": "2026-09-14T09:56:17.081Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Program Manager, Competitive Programs",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8175673",
-      "time": "2026-09-14T09:56:17.500Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Figma",
       "title": "Director, SMB Sales (London, United Kingdom)",
@@ -4001,6 +3881,126 @@
       "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7998697003",
       "time": "2026-09-22T05:54:04.373Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Apex Group - Senior Manager - Treasury",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1731632&pref=sp_prm",
+      "time": "2026-09-22T06:38:28.419Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "HYDGEN - Manager/Senior Manager - Marketing & Communications Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733096/screening?ref=sp_br_prm&jobPos=5&pref=sp_br_prm",
+      "time": "2026-09-22T06:38:38.096Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "GrayQuest - Senior Business Development Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733992/screening?ref=sp_prm&jobPos=6&pref=sp_prm",
+      "time": "2026-09-22T06:38:47.712Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Coromandel International - Senior Manager - Veterinary Category",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=7&jobId=1734469&pref=sp_prm",
+      "time": "2026-09-22T06:38:57.323Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Flipkart - Senior Manager - FK Data Ventures",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1732245/screening?ref=sp_br_prm&jobPos=8&pref=sp_br_prm",
+      "time": "2026-09-22T06:39:07.274Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lenskart - Senior Operations Manager - Vision Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1734266/screening?ref=sp_br&jobPos=7&pref=sp_br",
+      "time": "2026-09-22T06:39:21.088Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Zell Education - Senior Manager - B2B Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=8&jobId=1731456&pref=sp_br",
+      "time": "2026-09-22T06:39:30.476Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Smartworks - Program Manager - Founders' Office",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=6&jobId=1729063&pref=sp_br",
+      "time": "2026-09-22T06:39:43.862Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "CRISIL LIMITED - Program Manager - Salesforce Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=7&jobId=1730112&pref=sp_br",
+      "time": "2026-09-22T06:39:53.283Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amazon Development Centre - Senior Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1729959/screening?ref=sp_br&jobPos=8&pref=sp_br",
+      "time": "2026-09-22T06:40:02.954Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1729750/screening?ref=sp&jobPos=2&pref=sp",
+      "time": "2026-09-22T06:40:16.558Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Associate Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1714660/screening?ref=sp&jobPos=6&pref=sp",
+      "time": "2026-09-22T06:40:36.693Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Trianz - Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1711565/screening?ref=sp&jobPos=7&pref=sp",
+      "time": "2026-09-22T06:40:46.562Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Guidewire - Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=8&jobId=1710647&pref=sp",
+      "time": "2026-09-22T06:40:55.957Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, APJ Deal Strategy",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8222505",
+      "time": "2026-09-22T06:48:45.978Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2658,
+  "totalVerifiedInHistory": 2673,
   "portalBreakdown": {
-    "iimjobs": 36,
+    "iimjobs": 50,
     "naukri": 74,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1336,
+    "direct_portal_greenhouse": 1337,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4681,6 +4681,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T05:54:04.403Z",
-  "lastUpdated": "22/9/2026, 11:24:04 am"
+  "lastSyncedAt": "2026-09-22T06:48:46.010Z",
+  "lastUpdated": "22/9/2026, 12:18:46 pm"
 }
