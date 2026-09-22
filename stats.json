@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 18532,
-  "applicationsSubmitted": 2757,
+  "jobsScanned": 18602,
+  "applicationsSubmitted": 8,
   "appliedRolesList": [
     {
       "company": "N26",
@@ -4001,6 +4001,55 @@
       "url": "https://jobs.ashbyhq.com/openai/4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
       "time": "2026-09-22T22:21:29.040Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-22T22:22:31.405Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-22T22:22:31.413Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-22T22:22:31.418Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-22T22:22:31.423Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-22T22:22:31.428Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1843242/",
+      "time": "2026-09-22T22:22:31.432Z"
+    },
+    {
+      "company": "iMerit Technology",
+      "title": "AI Image Evaluation Analyst",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1837431/",
+      "time": "2026-09-22T22:22:31.437Z"
     }
   ],
   "failures": [
