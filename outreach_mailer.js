@@ -84,7 +84,7 @@ function generateCustomPitch(lead) {
   const greeting = getSalutationGreeting(lead, persona);
 
   let domainBullets = [
-    "**Standard Chartered Leadership**: 14+ years managing enterprise banking transformations, UAT delivery, and cross-functional program delivery.",
+    "**Standard Chartered Leadership**: 15+ years managing enterprise banking transformations, UAT delivery, and cross-functional program delivery.",
     "**Process & Program Governance**: Proven track record in Agile program execution, stakeholder alignment, and operational excellence.",
     "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
   ];
@@ -92,19 +92,19 @@ function generateCustomPitch(lead) {
   if (t.includes('servicenow') || t.includes('hrsd')) {
     domainBullets = [
       "**ServiceNow & HRSD Expertise**: Spearheaded end-to-end ServiceNow HRSD workflow deployments, digital process automation, and platform governance at scale.",
-      "**Standard Chartered Leadership**: 14+ years leading global banking transformations and enterprise platform rollouts.",
+      "**Standard Chartered Leadership**: 15+ years leading global banking transformations and enterprise platform rollouts.",
       "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
     ];
   } else if (t.includes('uat') || t.includes('testing') || t.includes('quality')) {
     domainBullets = [
       "**UAT Governance & Leadership**: Extensive experience leading global User Acceptance Testing (UAT) frameworks, quality gates, and business readiness for core banking systems.",
-      "**Standard Chartered Leadership**: 14+ years experience managing multi-million-dollar program delivery and stakeholder engagement.",
+      "**Standard Chartered Leadership**: 15+ years experience managing multi-million-dollar program delivery and stakeholder engagement.",
       "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
     ];
   } else if (t.includes('change') || t.includes('ocm') || t.includes('transformation')) {
     domainBullets = [
       "**Business & OCM Transformation**: Proven expertise in Organizational Change Management (OCM), driving multi-region business transformations and operating model shifts.",
-      "**Standard Chartered Leadership**: 14+ years leading complex transformation programs in banking and corporate functions.",
+      "**Standard Chartered Leadership**: 15+ years leading complex transformation programs in banking and corporate functions.",
       "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
     ];
   }
@@ -115,19 +115,19 @@ function generateCustomPitch(lead) {
 
   if (persona === 'peer') {
     // Peer Template: Direct referral ask for specific job link with strong fit confidence
-    subject = `Referral Inquiry: ${title} at ${company} - Sandeep Kashyap (14+ Yrs Exp)`;
+    subject = `Referral Inquiry: ${title} at ${company} - Sandeep Kashyap (15+ Yrs Exp)`;
     textBody = `${greeting}
 
 I hope you are doing well. I noticed your work at ${company} and came across an open position for ${title}${jobUrl ? ' (' + jobUrl + ')' : ''}.
 
-Having led 14+ years of enterprise transformation and program delivery—primarily at Standard Chartered Bank—I believe my background is a 95% single-role fit for this function.
+Having led 15+ years of enterprise transformation and program delivery—primarily at Standard Chartered Bank—I believe my background is a strong fit for this function.
 
 Key Highlights:
 * ${domainBullets[0].replace(/\*\*/g, '')}
 * ${domainBullets[1].replace(/\*\*/g, '')}
 * ${domainBullets[2].replace(/\*\*/g, '')}
 
-If you feel my experience aligns, would you be open to submitting an internal referral for my candidate profile? I have attached my 95%-tailored resume for quick review.
+If you feel my experience aligns, would you be open to submitting an internal referral for my candidate profile? I have attached my resume for quick review.
 
 Best regards,
 
@@ -141,7 +141,7 @@ Location: Bengaluru, India`;
         <h3 style="color: #2b5797; border-bottom: 2px solid #2b5797; padding-bottom: 8px;">Referral Request: ${title}</h3>
         <p>${greeting}</p>
         <p>I hope you are doing well. I noticed your work at <strong>${company}</strong> and came across an open position for <strong>${title}</strong>${jobUrl ? ' (<a href="' + jobUrl + '">Job Link</a>)' : ''}.</p>
-        <p>Having led <strong>14+ years of enterprise transformation</strong>—primarily at <strong>Standard Chartered Bank</strong>—I believe my background is a 95% single-role fit for this function.</p>
+        <p>Having led <strong>15+ years of enterprise transformation</strong>—primarily at <strong>Standard Chartered Bank</strong>—I believe my background is a strong fit for this function.</p>
         
         <h4 style="color: #333;">Key Highlights:</h4>
         <ul>
@@ -150,7 +150,7 @@ Location: Bengaluru, India`;
           <li>${domainBullets[2].replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}</li>
         </ul>
         
-        <p>If you feel my experience aligns, would you be open to submitting an internal referral for my profile? My tailored resume is attached.</p>
+        <p>If you feel my experience aligns, would you be open to submitting an internal referral for my profile? My resume is attached.</p>
         
         <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;" />
         <p style="margin-bottom: 4px;"><strong>Sandeep Ramaswamy Kashyap</strong></p>
@@ -166,7 +166,7 @@ Location: Bengaluru, India`;
 
 I came across your leadership at ${company} within the ${title} domain.
 
-With over 14 years leading multi-million-dollar banking transformations at Standard Chartered Bank, I am currently evaluating senior transformation opportunities in ${company}'s domain.
+With over 15 years leading multi-million-dollar banking transformations at Standard Chartered Bank, I am currently evaluating senior transformation opportunities in ${company}'s domain.
 
 I am not reaching out to ask for an immediate referral—rather, I would value 10 minutes of your advice on upcoming strategic initiatives in your group, and to understand the key capability signals you look for when expanding senior leadership headcount.
 
@@ -189,7 +189,7 @@ Location: Bengaluru, India`;
         <h3 style="color: #0078d4; border-bottom: 2px solid #0078d4; padding-bottom: 8px;">Leadership Insights / Advisory Inquiry</h3>
         <p>${greeting}</p>
         <p>I came across your leadership at <strong>${company}</strong> within the <strong>${title}</strong> domain.</p>
-        <p>With over <strong>14 years leading global banking transformations</strong> at <strong>Standard Chartered Bank</strong>, I am currently evaluating senior leadership opportunities aligned with your group's growth.</p>
+        <p>With over <strong>15 years leading global banking transformations</strong> at <strong>Standard Chartered Bank</strong>, I am currently evaluating senior leadership opportunities aligned with your group's growth.</p>
         <p>I am not reaching out for a direct referral ask—rather, I would value 10 minutes of your advice on upcoming strategic initiatives and the key capability signals you look for when building senior teams.</p>
         
         <h4 style="color: #333;">Executive Summary:</h4>
@@ -210,19 +210,19 @@ Location: Bengaluru, India`;
 
   } else {
     // Recruiter Template: Executive Pitch & Candidate Profile Submission
-    subject = `Candidate Profile: ${title} - Sandeep Kashyap (14+ Yrs | 30 Days Notice)`;
+    subject = `Candidate Profile: ${title} - Sandeep Kashyap (15+ Yrs | 30 Days Notice)`;
     textBody = `${greeting}
 
 I am writing to express my interest in the ${title} role at ${company}.
 
-With 14+ years of leadership experience in Transformation, ServiceNow HRSD Practice Leadership, UAT Governance, and Operational Excellence—primarily with Standard Chartered Bank—I specialize in driving enterprise program delivery.
+With 15+ years of leadership experience in Transformation, ServiceNow HRSD Practice Leadership, UAT Governance, and Operational Excellence—primarily with Standard Chartered Bank—I specialize in driving enterprise program delivery.
 
 Key Highlights of My Experience:
 * ${domainBullets[0].replace(/\*\*/g, '')}
 * ${domainBullets[1].replace(/\*\*/g, '')}
 * ${domainBullets[2].replace(/\*\*/g, '')}
 
-I have attached my 95%-tailored resume for your review. I am available on a 30-day notice period and would welcome an opportunity to discuss how my profile aligns with your hiring targets.
+I have attached my resume for your review. I am serving a 30-day notice period (Bengaluru / Global Remote) and would welcome an opportunity to discuss how my profile aligns with your hiring targets.
 
 Best regards,
 
@@ -236,7 +236,7 @@ Location: Bengaluru, India`;
         <h3 style="color: #0056b3; border-bottom: 2px solid #0056b3; padding-bottom: 8px;">Executive Candidate Submission: ${title}</h3>
         <p>${greeting}</p>
         <p>I am writing to express my interest in the <strong>${title}</strong> position at <strong>${company}</strong>.</p>
-        <p>With over <strong>14 years of leadership experience</strong> in Transformation, ServiceNow HRSD Practice Leadership, UAT Governance, and Operational Excellence—primarily with <strong>Standard Chartered Bank</strong>—I specialize in driving enterprise program delivery.</p>
+        <p>With over <strong>15 years of leadership experience</strong> in Transformation, ServiceNow HRSD Practice Leadership, UAT Governance, and Operational Excellence—primarily with <strong>Standard Chartered Bank</strong>—I specialize in driving enterprise program delivery.</p>
         
         <h4 style="color: #333;">Key Highlights:</h4>
         <ul>
@@ -245,7 +245,7 @@ Location: Bengaluru, India`;
           <li>${domainBullets[2].replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}</li>
         </ul>
         
-        <p>I have attached my tailored resume for your review. I am serving a 30-day notice period and look forward to connecting.</p>
+        <p>I have attached my resume for your review. I am serving a 30-day notice period and look forward to connecting.</p>
         
         <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;" />
         <p style="margin-bottom: 4px;"><strong>Sandeep Ramaswamy Kashyap</strong></p>
@@ -406,6 +406,11 @@ async function processOutreachQueue() {
       // Auto-blacklist email on bounce/SMTP rejection
     }
   }
+
+  try {
+    const { generateOutreachTracker } = require('./outreach_tracker');
+    generateOutreachTracker();
+  } catch (_) {}
 }
 
 async function sendPersonaOutreachEmail({ email, company, title, persona }) {

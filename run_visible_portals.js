@@ -34,6 +34,8 @@ const { runFounditE2E } = require('./portal_drivers/foundit_e2e');
 const { runInstahyreE2E } = require('./portal_drivers/instahyre_e2e');
 const { runIndeedE2E } = require('./portal_drivers/indeed_e2e');
 const { runTimesJobsE2E } = require('./portal_drivers/timesjobs_e2e');
+const { runLinkedInNetworking } = require('./linkedin_networker');
+const { mineAndQueueRecruiterLeads } = require('./recruiter_lead_miner');
 
 const CV_PATH = path.join(__dirname, 'Sandeep_Kashyap.pdf');
 const SESSION_DIR = path.join(__dirname, '.browser_session_visible');
@@ -321,7 +323,7 @@ async function runVisibleCorporateGrind(page, context) {
 
   console.log(`[DirectCorporate] ${matched.length} fresh unapplied senior leadership openings queued for visible automation.`);
 
-  for (const job of matched.slice(0, 15)) {
+  for (const job of matched.slice(0, 5)) {
     console.log(`\n[VisibleApply] 🖥️ Processing: "${job.title}" @ ${job.company} (${job.atsType})`);
     console.log(`[VisibleApply] URL: ${job.applyUrl}`);
 
@@ -386,6 +388,14 @@ async function main() {
       page = await ensureActivePage();
       await closeAllExtraTabs(browserContext, page);
 
+      // 0. Recruiter Lead Mining & Personalized Cold Emails
+      try {
+        console.log('\n[VisibleRunner] 📧 Triggering autonomous recruiter lead mining & cold emails...');
+        await mineAndQueueRecruiterLeads();
+      } catch (e) {
+        console.warn(`[VisibleRunner] Lead miner step notice: ${e.message}`);
+      }
+
       // 1. Naukri Profile Booster & Easy Apply
       try {
         page = await ensureActivePage();
@@ -404,12 +414,21 @@ async function main() {
       }
       await closeAllExtraTabs(browserContext, page);
 
-      // 3. LinkedIn Easy Apply
+      // 3. LinkedIn Easy Apply & Executive Networking
       try {
         page = await ensureActivePage();
         await runLinkedInE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] LinkedIn step notice: ${e.message}`);
+      }
+      await closeAllExtraTabs(browserContext, page);
+
+      // 3b. LinkedIn Recruiter Networking & Personalized Connection Invites
+      try {
+        page = await ensureActivePage();
+        await runLinkedInNetworking(page, browserContext, 5);
+      } catch (e) {
+        console.warn(`[VisibleRunner] LinkedIn networking notice: ${e.message}`);
       }
       await closeAllExtraTabs(browserContext, page);
 

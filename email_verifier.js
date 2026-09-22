@@ -185,9 +185,10 @@ async function verifyEmailExistence(emailStr, source = 'direct_posting') {
     return { valid: false, reason: `MX DNS resolution failed for ${domain}: ${err.message}`, isBlacklisted: true };
   }
 
-  // Check if email comes from a scraped job posting with recruiter contact
-  if (source !== 'scraped_job_post' && source !== 'verified_listing' && source !== 'direct' && source !== 'direct_posting') {
-    return { valid: false, reason: 'Rejected: Email was not directly extracted from an authentic job posting (Zero Guesswork Policy)', isBlacklisted: false };
+  // Check if email comes from a scraped job posting or verified recruiter directory
+  const validSources = ['scraped_job_post', 'verified_listing', 'direct', 'direct_posting', 'lead_miner', 'direct_directory', 'recruiter_directory'];
+  if (!validSources.includes(source)) {
+    return { valid: false, reason: 'Rejected: Email was not directly extracted from an authentic job posting or verified directory (Zero Guesswork Policy)', isBlacklisted: false };
   }
 
   mxRecords.sort((a, b) => a.priority - b.priority);
