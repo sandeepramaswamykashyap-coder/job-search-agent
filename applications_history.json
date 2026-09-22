@@ -20918,5 +20918,61 @@
     "url": "https://job-boards.greenhouse.io/mongodb/jobs/8003065",
     "time": "2026-09-19T03:42:31.771Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "PwC",
+    "title": "AI Senior Manager",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-ai-senior-manager-pwc-hyderabad-bengaluru-12-to-17-years-080926034314?src=directSearch&sid=17900534387958418&xp=3&px=1",
+    "time": "2026-09-22T05:04:16.696Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "EY",
+    "title": "Senior Manager - GenAI",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-senior-manager-genai-ernst-young-llp-bengaluru-11-to-14-years-080926922289?src=directSearch&sid=17900534387958418&xp=5&px=1",
+    "time": "2026-09-22T05:04:31.535Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Infosys BPM",
+    "title": "Senior Operations Manager",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-senior-operations-manager-infosys-bpm-limited-bengaluru-10-to-12-years-040926917518?src=directSearch&sid=17900534749022725&xp=5&px=1",
+    "time": "2026-09-22T05:05:08.763Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Careernet",
+    "title": "Technical Program Manager",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-technical-program-manager-careernet-bengaluru-13-to-18-years-170926031182?src=directSearch&sid=17900535278031064&xp=5&px=1",
+    "time": "2026-09-22T05:05:48.718Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Leading Client",
+    "title": "Manager/Senior Manager - HRO Transformation Lead",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-manager-senior-manager-hro-transformation-lead-golden-opportunities-pvt-ltd-mumbai-thane-bengaluru-10-to-18-years-210926906838?src=directSearch&sid=17900535519353642&xp=4&px=1",
+    "time": "2026-09-22T05:06:06.194Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Zycus Infotech",
+    "title": "Program Manager - ERP Implementation",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-program-manager-erp-implementation-zycus-infotech-mumbai-pune-bengaluru-10-to-15-years-210926024568?src=directSearch&sid=17900535786776070&xp=2&px=1",
+    "time": "2026-09-22T05:06:36.266Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "IBU Consulting",
+    "title": "ServiceNow Product Manager",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-servicenow-product-manager-ibu-consulting-bengaluru-10-to-15-years-250626504222?src=directSearch&sid=17900535786776070&xp=3&px=1",
+    "time": "2026-09-22T05:06:47.819Z",
+    "status": "SUBMITTED"
   }
 ]

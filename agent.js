@@ -476,8 +476,7 @@ async function runAgentCycle({ refreshCVOnly, stats, forceHeaded }) {
   console.log(`[Agent] Browser mode: ${isHeadless ? '100% Silent Background (Headless)' : 'Visible Window (Headed)'}`);
 
   const launchArgs = [
-    '--disable-blink-features=AutomationControlled',
-    '--no-sandbox'
+    '--disable-blink-features=AutomationControlled'
   ];
   
   const context = await chromium.launchPersistentContext(userDataDir, {
@@ -487,7 +486,7 @@ async function runAgentCycle({ refreshCVOnly, stats, forceHeaded }) {
     args: launchArgs
   });
 
-  const page = await context.newPage();
+  const page = context.pages().length > 0 ? context.pages()[0] : await context.newPage();
 
   try {
     // Portals targeted, ordered by config priority if available

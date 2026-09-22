@@ -161,10 +161,10 @@ async function crawlJobgether() {
       headless: true,
       viewport: { width: 1280, height: 900 },
       userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-      args: ['--disable-blink-features=AutomationControlled', '--no-sandbox']
+      args: ['--disable-blink-features=AutomationControlled']
     });
 
-    const page = await browserContext.newPage();
+    const page = browserContext.pages().length > 0 ? browserContext.pages()[0] : await browserContext.newPage();
     const searchQueries = [
       'https://jobgether.com/jobs?query=program+manager&remote=true',
       'https://jobgether.com/jobs?query=transformation+manager&remote=true',
@@ -316,11 +316,11 @@ async function crawlDailyRemote() {
         headless: true,
         viewport: { width: 1280, height: 900 },
         userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        args: ['--disable-blink-features=AutomationControlled', '--no-sandbox']
+        args: ['--disable-blink-features=AutomationControlled']
       }
     );
 
-    const page = await browserContext.newPage();
+    const page = browserContext.pages().length > 0 ? browserContext.pages()[0] : await browserContext.newPage();
     const urls = [
       'https://dailyremote.com/remote-management-jobs',
       'https://dailyremote.com/remote-product-jobs',

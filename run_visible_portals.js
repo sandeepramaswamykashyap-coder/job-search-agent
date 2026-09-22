@@ -366,15 +366,29 @@ async function main() {
     ]
   });
 
-  const page = await browserContext.newPage();
-  await closeAllExtraTabs(browserContext, page);
+  const pages = browserContext.pages();
+  let page = pages.length > 0 ? pages[0] : await browserContext.newPage();
+
+  async function ensureActivePage() {
+    try {
+      if (!page || page.isClosed()) {
+        const openPages = browserContext.pages().filter(p => !p.isClosed());
+        page = openPages.length > 0 ? openPages[0] : await browserContext.newPage();
+      }
+    } catch (_) {
+      page = await browserContext.newPage();
+    }
+    return page;
+  }
 
   while (true) {
     try {
+      page = await ensureActivePage();
       await closeAllExtraTabs(browserContext, page);
 
       // 1. Naukri Profile Booster & Easy Apply
       try {
+        page = await ensureActivePage();
         await runNaukriE2E(page, browserContext, 15);
       } catch (e) {
         console.warn(`[VisibleRunner] Naukri step notice: ${e.message}`);
@@ -383,6 +397,7 @@ async function main() {
 
       // 2. IIMJobs Executive Applications
       try {
+        page = await ensureActivePage();
         await runIIMJobsE2E(page, browserContext, 15);
       } catch (e) {
         console.warn(`[VisibleRunner] IIMJobs step notice: ${e.message}`);
@@ -391,6 +406,7 @@ async function main() {
 
       // 3. LinkedIn Easy Apply
       try {
+        page = await ensureActivePage();
         await runLinkedInE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] LinkedIn step notice: ${e.message}`);
@@ -399,6 +415,7 @@ async function main() {
 
       // 4. Foundit Applications
       try {
+        page = await ensureActivePage();
         await runFounditE2E(page, browserContext, 12);
       } catch (e) {
         console.warn(`[VisibleRunner] Foundit step notice: ${e.message}`);
@@ -407,6 +424,7 @@ async function main() {
 
       // 5. Instahyre Applications
       try {
+        page = await ensureActivePage();
         await runInstahyreE2E(page, browserContext, 12);
       } catch (e) {
         console.warn(`[VisibleRunner] Instahyre step notice: ${e.message}`);
@@ -415,6 +433,7 @@ async function main() {
 
       // 6. Indeed Applications
       try {
+        page = await ensureActivePage();
         await runIndeedE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] Indeed step notice: ${e.message}`);
@@ -423,6 +442,7 @@ async function main() {
 
       // 7. TimesJobs Applications
       try {
+        page = await ensureActivePage();
         await runTimesJobsE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] TimesJobs step notice: ${e.message}`);
@@ -430,6 +450,7 @@ async function main() {
       await closeAllExtraTabs(browserContext, page);
 
       // 8. Direct Tier-1 Corporate Applications
+      page = await ensureActivePage();
       await runVisibleCorporateGrind(page, browserContext);
       await closeAllExtraTabs(browserContext, page);
 

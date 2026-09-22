@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 16437,
-  "applicationsSubmitted": 22,
+  "jobsScanned": 16445,
+  "applicationsSubmitted": 2622,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Head of Analyst Relations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/abc4b2b4-c251-482e-8f71-f02dda1e3b65",
-      "time": "2026-09-13T14:05:46.555Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Head of Analyst Relations",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/abc4b2b4-c251-482e-8f71-f02dda1e3b65",
-      "time": "2026-09-13T14:05:46.569Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Director, Strategic Finance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/fddcfe54-6fd2-4091-bf9c-346f35606cc9",
-      "time": "2026-09-13T14:05:50.780Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Director, Strategic Finance",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/fddcfe54-6fd2-4091-bf9c-346f35606cc9",
-      "time": "2026-09-13T14:05:50.797Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Director, Partnerships",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/4e6fffef-bb23-4623-ad86-95b840dd51be",
-      "time": "2026-09-13T14:06:04.523Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Director, Partnerships",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/4e6fffef-bb23-4623-ad86-95b840dd51be",
-      "time": "2026-09-13T14:06:04.535Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sentry",
-      "title": "Director, FP&A",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/sentry/4067f08e-5229-4af4-9028-a7c69d3791d0",
-      "time": "2026-09-13T14:06:35.958Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Sentry",
       "title": "Director, FP&A",
@@ -4003,67 +3947,60 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-19T03:43:41.262Z"
+      "company": "PwC",
+      "title": "AI Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-senior-manager-pwc-hyderabad-bengaluru-12-to-17-years-080926034314?src=directSearch&sid=17900534387958418&xp=3&px=1",
+      "time": "2026-09-22T05:04:16.696Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-19T03:43:41.268Z"
+      "company": "EY",
+      "title": "Senior Manager - GenAI",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-genai-ernst-young-llp-bengaluru-11-to-14-years-080926922289?src=directSearch&sid=17900534387958418&xp=5&px=1",
+      "time": "2026-09-22T05:04:31.535Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-19T03:43:41.273Z"
+      "company": "Infosys BPM",
+      "title": "Senior Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-operations-manager-infosys-bpm-limited-bengaluru-10-to-12-years-040926917518?src=directSearch&sid=17900534749022725&xp=5&px=1",
+      "time": "2026-09-22T05:05:08.763Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-19T03:43:41.277Z"
+      "company": "Careernet",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-careernet-bengaluru-13-to-18-years-170926031182?src=directSearch&sid=17900535278031064&xp=5&px=1",
+      "time": "2026-09-22T05:05:48.718Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-19T03:43:41.282Z"
+      "company": "Leading Client",
+      "title": "Manager/Senior Manager - HRO Transformation Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-senior-manager-hro-transformation-lead-golden-opportunities-pvt-ltd-mumbai-thane-bengaluru-10-to-18-years-210926906838?src=directSearch&sid=17900535519353642&xp=4&px=1",
+      "time": "2026-09-22T05:06:06.194Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-19T03:43:41.285Z"
+      "company": "Zycus Infotech",
+      "title": "Program Manager - ERP Implementation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-erp-implementation-zycus-infotech-mumbai-pune-bengaluru-10-to-15-years-210926024568?src=directSearch&sid=17900535786776070&xp=2&px=1",
+      "time": "2026-09-22T05:06:36.266Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-09-19T03:43:41.289Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-19T03:43:41.293Z"
-    },
-    {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-19T03:43:41.296Z"
+      "company": "IBU Consulting",
+      "title": "ServiceNow Product Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-product-manager-ibu-consulting-bengaluru-10-to-15-years-250626504222?src=directSearch&sid=17900535786776070&xp=3&px=1",
+      "time": "2026-09-22T05:06:47.819Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4726,10 +4663,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2615,
+  "totalVerifiedInHistory": 2622,
   "portalBreakdown": {
     "iimjobs": 21,
-    "naukri": 66,
+    "naukri": 73,
     "weworkremotely": 12,
     "remoteok": 5,
     "direct_portal_greenhouse": 1321,
@@ -4743,6 +4680,6 @@
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-19T03:42:31.802Z",
-  "lastUpdated": "19/9/2026, 9:12:31 am"
+  "lastSyncedAt": "2026-09-22T05:06:47.842Z",
+  "lastUpdated": "22/9/2026, 10:36:47 am"
 }
