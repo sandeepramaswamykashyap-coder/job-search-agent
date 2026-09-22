@@ -1,143 +1,7 @@
 {
-  "jobsScanned": 16614,
-  "applicationsSubmitted": 66,
+  "jobsScanned": 16635,
+  "applicationsSubmitted": 2690,
   "appliedRolesList": [
-    {
-      "company": "Figma",
-      "title": "Director, SMB Sales (London, United Kingdom)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/6163420004",
-      "time": "2026-09-14T09:56:21.320Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Head of Specialist Solutions Architecture, Revenue (AMER)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/7523947",
-      "time": "2026-09-14T09:56:29.207Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Director, Enterprise Customer Care - AI Strategy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8099800",
-      "time": "2026-09-14T09:57:57.640Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Managing Director, Canada Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8129827",
-      "time": "2026-09-14T09:58:26.563Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Program Manager, R&D Talent Programs",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8177800",
-      "time": "2026-09-14T09:59:01.585Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "AVP,  Agency & SI Partnerships",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8188879",
-      "time": "2026-09-14T09:59:04.039Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zoominfo",
-      "title": "Director, Software Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8770556002",
-      "time": "2026-09-14T09:59:30.915Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Enablement Program Manager, Sales Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8148092",
-      "time": "2026-09-14T09:59:38.414Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Director, Global Programs",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8189715",
-      "time": "2026-09-14T10:00:13.441Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Director, Account Management, Sales SMB",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8185912",
-      "time": "2026-09-14T10:00:19.097Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Senior Creative Operations Lead, Brand",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8082501",
-      "time": "2026-09-14T10:00:29.493Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samsara",
-      "title": "CX Strategy Manager, AI Transformation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/8195249",
-      "time": "2026-09-14T10:01:00.179Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Neo4j",
-      "title": "Field Engineering and Strategy Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/neo4j/jobs/4711183006",
-      "time": "2026-09-14T10:01:57.577Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Workato",
-      "title": "Global Account Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/workato/jobs/8720210002",
-      "time": "2026-09-14T10:02:25.667Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Lead Company Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7985977003",
-      "time": "2026-09-14T10:02:27.794Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Commercial Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8119225",
-      "time": "2026-09-14T10:03:29.055Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mercury",
-      "title": "Head of Product - Personal Banking",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
-      "time": "2026-09-14T10:03:33.410Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Monzo",
       "title": "Director of Product Design",
@@ -4003,60 +3867,140 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "GitLab",
-      "title": "AI Transformation Owner, Product &amp; Design",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design",
-      "time": "2026-09-22T06:51:54.727Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Regulatory Affairs - Pharma",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=7&jobId=1733265&pref=sp_prm",
+      "time": "2026-09-22T08:17:46.882Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-22T06:51:54.737Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "KBR - Head/Senior Manager - Project Control",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=8&jobId=1731620&pref=sp_br_prm",
+      "time": "2026-09-22T08:17:56.399Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-22T06:51:54.742Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Clear - Program Manager - Strategy & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=7&jobId=1727751&pref=sp_br",
+      "time": "2026-09-22T08:18:13.952Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-22T06:51:54.747Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager - Data Initiatives",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1711920/screening?ref=sp&jobPos=8&pref=sp",
+      "time": "2026-09-22T08:18:37.673Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-22T06:51:54.751Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Manipal Business Solutions - Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=1&jobId=1734696&pref=sp_br_prm",
+      "time": "2026-09-22T08:18:50.987Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-22T06:51:54.755Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Zolostays - Head - Sales & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733044/screening?ref=sp_prm&jobPos=2&pref=sp_prm",
+      "time": "2026-09-22T08:19:00.767Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-22T06:51:54.759Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operations - OSD & Injectables",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=3&jobId=1731081&pref=sp_prm",
+      "time": "2026-09-22T08:19:10.250Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-22T06:51:54.763Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Masters' Union - Head - Hostel Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1733817&pref=sp_prm",
+      "time": "2026-09-22T08:19:19.685Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Supply Chain Operations - Retail",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1731972/screening?ref=sp_prm&jobPos=5&pref=sp_prm",
+      "time": "2026-09-22T08:19:29.462Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Location HR Head - HR Operations - Manufacturing Firm",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733511/screening?ref=sp_prm&jobPos=6&pref=sp_prm",
+      "time": "2026-09-22T08:19:39.317Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Head - Manager - Supply Chain/Operations - Beverages",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1731259/screening?ref=sp_prm&jobPos=7&pref=sp_prm",
+      "time": "2026-09-22T08:19:49.205Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Univest - Head - Broking Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1734612/screening?ref=sp_br&jobPos=8&pref=sp_br",
+      "time": "2026-09-22T08:19:58.897Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ralph Lauren - Application Development Analyst - Product Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=1&jobId=1734422&pref=sp_br_prm",
+      "time": "2026-09-22T08:20:12.538Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "WPP Media - Senior Vice President - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=2&jobId=1734213&pref=sp_br_prm",
+      "time": "2026-09-22T08:20:21.964Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Technical Program Manager, FDE",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8648496002",
+      "time": "2026-09-22T08:28:01.405Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Recruiting Enablement & Programs",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/7838837",
+      "time": "2026-09-22T08:28:03.193Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Gusto",
+      "title": "Senior Manager, Head of Sales Data Science & Analytics",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7283301",
+      "time": "2026-09-22T08:28:15.194Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2673,
+  "totalVerifiedInHistory": 2690,
   "portalBreakdown": {
-    "iimjobs": 50,
+    "iimjobs": 64,
     "naukri": 74,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1337,
+    "direct_portal_greenhouse": 1340,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4737,6 +4681,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T06:48:46.010Z",
-  "lastUpdated": "22/9/2026, 12:18:46 pm"
+  "lastSyncedAt": "2026-09-22T08:28:15.221Z",
+  "lastUpdated": "22/9/2026, 1:58:15 pm"
 }
