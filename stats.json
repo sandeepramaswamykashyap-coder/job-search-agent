@@ -1,143 +1,7 @@
 {
-  "jobsScanned": 16824,
-  "applicationsSubmitted": 99,
+  "jobsScanned": 16845,
+  "applicationsSubmitted": 2724,
   "appliedRolesList": [
-    {
-      "company": "Cloudflare",
-      "title": "CTO Operations Lead",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8120031",
-      "time": "2026-09-14T10:09:00.107Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Director of Product Management, Fintech",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8152765",
-      "time": "2026-09-14T10:10:15.405Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Director, Global Design & Construction",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8157726",
-      "time": "2026-09-14T10:10:25.309Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Marketing Strategy and Operations Lead",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8030678",
-      "time": "2026-09-14T10:10:26.229Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior Service Delivery Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7987741003",
-      "time": "2026-09-14T10:10:26.439Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Head of GTM, AI Inference",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/7428796",
-      "time": "2026-09-14T10:10:27.087Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Digital Communications Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8049608",
-      "time": "2026-09-14T10:10:33.719Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Sales Director – Enterprise, Benelux",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8046286",
-      "time": "2026-09-14T10:10:49.016Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Engineering Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7703009003",
-      "time": "2026-09-14T10:11:37.012Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Director of Engineering, Billing Platform",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8152825",
-      "time": "2026-09-14T10:11:42.788Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fastly",
-      "title": "Director, APJ Field Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fastly/jobs/7916520",
-      "time": "2026-09-14T10:13:23.586Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Design Operations Program Manager - Agentic Design",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8194325",
-      "time": "2026-09-14T10:15:03.511Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mongodb",
-      "title": "VP, AI Marketing Strategy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8072839",
-      "time": "2026-09-14T10:15:10.666Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director, Corporate Counsel - Privacy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8050798",
-      "time": "2026-09-14T10:15:10.999Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director Channel and Alliances - Emerging Markets",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8176095",
-      "time": "2026-09-14T10:15:18.037Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Engineering Technical Program Manager - Jira Administration",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/6597058",
-      "time": "2026-09-14T10:16:22.269Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director, Sales Development, Japan",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8080906",
-      "time": "2026-09-14T10:16:30.963Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Vice President, Associate General Counsel, Commercial Legal",
@@ -4003,53 +3867,140 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-22T09:54:05.237Z"
+      "company": "Mongodb",
+      "title": "Head of Executive Operations - Office of CEO",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8103967",
+      "time": "2026-09-22T11:18:44.648Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-22T09:54:05.245Z"
+      "company": "Zscaler",
+      "title": "Director, Threat Research Engagement",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5183764007",
+      "time": "2026-09-22T11:18:45.291Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-22T09:54:05.250Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - Finance - JAPAC Region",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-manager-finance-japac-region-1734776?ref=sp_prm&jobPos=6",
+      "time": "2026-09-22T11:23:21.544Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-22T09:54:05.255Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "NetApp - Customer Assurance Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/netapp-customer-assurance-program-manager-1734821?ref=sp_prm&jobPos=1",
+      "time": "2026-09-22T11:23:35.627Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-22T09:54:05.259Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - AI Operations Business Unit",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-ai-operations-business-unit-1733777?ref=sp_br&jobPos=7",
+      "time": "2026-09-22T11:23:55.729Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-22T09:54:05.264Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Table Space - Head - Operations - Facility Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/table-space-head-operations-facility-management-1732124?ref=sp_br&jobPos=8",
+      "time": "2026-09-22T11:24:01.809Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-22T09:54:05.268Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "BMC Software - Director - Mainframe Modernization & Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bmc-software-director-mainframe-modernization-and-transformation-1734861?ref=sp_br_prm&jobPos=2",
+      "time": "2026-09-22T11:24:12.344Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Air India - Chief Manager - Revenue Strategy & Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/air-india-chief-manager-revenue-strategy-and-transformation-1733601?ref=sp_br&jobPos=4",
+      "time": "2026-09-22T11:24:18.428Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Magna International - Project Manager - Finance Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/magna-international-project-manager-finance-transformation-1728653?ref=sp_br&jobPos=5",
+      "time": "2026-09-22T11:24:24.809Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "KPMG - Technology Consultant - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/kpmg-technology-consultant-digital-transformation-1726928?ref=sp_br&jobPos=6",
+      "time": "2026-09-22T11:24:32.372Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Capgemini - Consultant - AI & Engineering Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/capgemini-consultant-ai-and-engineering-transformation-1727463?ref=sp_br&jobPos=7",
+      "time": "2026-09-22T11:24:38.595Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "CoinDCX - Manager - Sales Excellence & Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/coindcx-manager-sales-excellence-and-transformation-1731684?ref=sp_br&jobPos=8",
+      "time": "2026-09-22T11:24:44.739Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lead - Change Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/lead-change-management-1715076?ref=sp&jobPos=1",
+      "time": "2026-09-22T11:24:55.094Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Change Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-change-management-1729596?ref=sp&jobPos=2",
+      "time": "2026-09-22T11:25:01.230Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Transformation Leader - Change Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-transformation-leader-change-management-1730367?ref=sp&jobPos=3",
+      "time": "2026-09-22T11:25:07.476Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Leader - Business Transformation - Change Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-leader-business-transformation-change-management-1733876?ref=sp&jobPos=4",
+      "time": "2026-09-22T11:25:13.576Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "N26",
+      "title": "ICT GRC – ICT Governance Senior Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/n26/jobs/8203566",
+      "time": "2026-09-22T11:38:43.664Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4712,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2707,
+  "totalVerifiedInHistory": 2724,
   "portalBreakdown": {
-    "iimjobs": 78,
+    "iimjobs": 92,
     "naukri": 75,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1342,
+    "direct_portal_greenhouse": 1345,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4730,6 +4681,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T09:51:15.743Z",
-  "lastUpdated": "22/9/2026, 3:21:15 pm"
+  "lastSyncedAt": "2026-09-22T11:38:43.697Z",
+  "lastUpdated": "22/9/2026, 5:08:43 pm"
 }
