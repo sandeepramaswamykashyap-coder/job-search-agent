@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 99
   },
-  "lastUpdated": "2026-09-22T19:08:25.771Z",
+  "lastUpdated": "2026-09-22T20:04:40.752Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -422,7 +422,7 @@
       "company": "Lords Mark Industries",
       "title": "Technical Product Manager",
       "dispatchedAt": "2026-08-22T19:46:50.223Z",
-      "daysElapsed": 30,
+      "daysElapsed": 31,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
