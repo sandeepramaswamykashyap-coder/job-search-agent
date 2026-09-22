@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 17377,
-  "applicationsSubmitted": 137,
+  "jobsScanned": 17496,
+  "applicationsSubmitted": 138,
   "appliedRolesList": [
-    {
-      "company": "Mongodb",
-      "title": "Senior Director, Customer Health & Critical Accounts",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8088171",
-      "time": "2026-09-14T10:35:20.157Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Staff Identity Governance and Access Engineer",
@@ -4003,53 +3995,61 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Coinbase",
+      "title": "Senior Engineering Manager, Core AI Automation (Platform)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8124224",
+      "time": "2026-09-22T15:48:19.682Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-22T14:32:41.519Z"
+      "time": "2026-09-22T15:49:30.220Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-22T14:32:41.528Z"
+      "time": "2026-09-22T15:49:30.228Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-22T14:32:41.535Z"
+      "time": "2026-09-22T15:49:30.234Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-22T14:32:41.540Z"
+      "time": "2026-09-22T15:49:30.239Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-22T14:32:41.546Z"
+      "time": "2026-09-22T15:49:30.244Z"
     },
     {
       "company": "Proxify",
       "title": "Senior QA Automation Engineer",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-22T14:32:41.550Z"
+      "time": "2026-09-22T15:49:30.249Z"
     },
     {
       "company": "iMerit Technology",
       "title": "AI Image Evaluation Analyst",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-22T14:32:41.555Z"
+      "time": "2026-09-22T15:49:30.254Z"
     }
   ],
   "failures": [
@@ -4712,13 +4712,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2745,
+  "totalVerifiedInHistory": 2746,
   "portalBreakdown": {
     "iimjobs": 104,
     "naukri": 79,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1350,
+    "direct_portal_greenhouse": 1351,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4730,6 +4730,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T14:30:57.094Z",
-  "lastUpdated": "22/9/2026, 8:00:57 pm"
+  "lastSyncedAt": "2026-09-22T15:48:19.715Z",
+  "lastUpdated": "22/9/2026, 9:18:19 pm"
 }
