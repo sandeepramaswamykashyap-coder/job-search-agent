@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 16845,
-  "applicationsSubmitted": 2724,
+  "jobsScanned": 17013,
+  "applicationsSubmitted": 118,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Vice President, Associate General Counsel, Commercial Legal",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8189849",
-      "time": "2026-09-14T10:16:39.463Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Head of Recruiting Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/7838837",
-      "time": "2026-09-14T10:16:49.680Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mongodb",
       "title": "VP, Global Specialist Sales",
@@ -4001,6 +3985,71 @@
       "url": "https://job-boards.greenhouse.io/n26/jobs/8203566",
       "time": "2026-09-22T11:38:43.664Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Managing Director, Financial Services",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8171829",
+      "time": "2026-09-22T12:01:52.895Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5236314007",
+      "time": "2026-09-22T12:39:42.757Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-09-22T12:40:50.093Z"
+    },
+    {
+      "company": "New Law Business Model",
+      "title": "Marketing Automation SaaS + Services Line of Business Owner",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
+      "time": "2026-09-22T12:40:50.099Z"
+    },
+    {
+      "company": "Branding n beyond",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
+      "time": "2026-09-22T12:40:50.106Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-09-22T12:40:50.111Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-09-22T12:40:50.116Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1843242/",
+      "time": "2026-09-22T12:40:50.121Z"
+    },
+    {
+      "company": "iMerit Technology",
+      "title": "AI Image Evaluation Analyst",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1837431/",
+      "time": "2026-09-22T12:40:50.127Z"
     }
   ],
   "failures": [
@@ -4663,13 +4712,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2724,
+  "totalVerifiedInHistory": 2726,
   "portalBreakdown": {
     "iimjobs": 92,
     "naukri": 75,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1345,
+    "direct_portal_greenhouse": 1347,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4681,6 +4730,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T11:38:43.697Z",
-  "lastUpdated": "22/9/2026, 5:08:43 pm"
+  "lastSyncedAt": "2026-09-22T12:39:42.786Z",
+  "lastUpdated": "22/9/2026, 6:09:42 pm"
 }
