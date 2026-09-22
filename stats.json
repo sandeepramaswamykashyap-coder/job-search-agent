@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 17496,
-  "applicationsSubmitted": 138,
+  "jobsScanned": 17650,
+  "applicationsSubmitted": 141,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Staff Identity Governance and Access Engineer",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8180503",
-      "time": "2026-09-14T10:35:41.790Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mongodb",
-      "title": "Sr. Director, IT Product Management – Post Sales and Partner Technology",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8003065",
-      "time": "2026-09-14T10:37:50.771Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Critical Accounts Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5232611007",
-      "time": "2026-09-14T10:37:52.266Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Transformation Architect - Mexico",
@@ -4003,53 +3979,77 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Zscaler",
+      "title": "Global Alliance Director - Accenture",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5015984007",
+      "time": "2026-09-22T16:12:45.524Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Senior Manager, Intelligent Automation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-intelligent-automation-jones-lang-lasalle-bengaluru-8-to-13-years-170726500632?src=directSearch&sid=17900937216213029&xp=3&px=1",
+      "time": "2026-09-22T16:15:42.500Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "acesoft",
+      "title": "Lead Rpa Automation Developer/ Intelligent Automation CoE Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-rpa-automation-developer-intelligent-automation-coe-lead-acesoft-labs-bengaluru-5-to-10-years-180926917180?src=directSearch&sid=17900937216213029&xp=4&px=1",
+      "time": "2026-09-22T16:15:54.115Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-22T15:49:30.220Z"
+      "time": "2026-09-22T16:16:21.665Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-22T15:49:30.228Z"
+      "time": "2026-09-22T16:16:21.673Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-22T15:49:30.234Z"
+      "time": "2026-09-22T16:16:21.678Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-22T15:49:30.239Z"
+      "time": "2026-09-22T16:16:21.681Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-22T15:49:30.244Z"
+      "time": "2026-09-22T16:16:21.684Z"
     },
     {
       "company": "Proxify",
       "title": "Senior QA Automation Engineer",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-22T15:49:30.249Z"
+      "time": "2026-09-22T16:16:21.691Z"
     },
     {
       "company": "iMerit Technology",
       "title": "AI Image Evaluation Analyst",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-22T15:49:30.254Z"
+      "time": "2026-09-22T16:16:21.697Z"
     }
   ],
   "failures": [
@@ -4712,13 +4712,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2746,
+  "totalVerifiedInHistory": 2749,
   "portalBreakdown": {
     "iimjobs": 104,
-    "naukri": 79,
+    "naukri": 81,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1351,
+    "direct_portal_greenhouse": 1352,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4730,6 +4730,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T15:48:19.715Z",
-  "lastUpdated": "22/9/2026, 9:18:19 pm"
+  "lastSyncedAt": "2026-09-22T16:15:54.145Z",
+  "lastUpdated": "22/9/2026, 9:45:54 pm"
 }
