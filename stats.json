@@ -1,143 +1,7 @@
 {
-  "jobsScanned": 17013,
-  "applicationsSubmitted": 118,
+  "jobsScanned": 17090,
+  "applicationsSubmitted": 2743,
   "appliedRolesList": [
-    {
-      "company": "Mongodb",
-      "title": "VP, Global Specialist Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8077553",
-      "time": "2026-09-14T10:19:10.879Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Creative Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5162324007",
-      "time": "2026-09-14T10:19:11.057Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, Technical Program Management",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234934007",
-      "time": "2026-09-14T10:21:22.941Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Strategic Account Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8155963",
-      "time": "2026-09-14T10:28:39.949Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Business Development Director - RippleX",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8042882",
-      "time": "2026-09-14T10:29:26.808Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Lead Project Manager (German speaker)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7683454003",
-      "time": "2026-09-14T10:29:28.071Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Director, Corporate & Product Communications",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8042723",
-      "time": "2026-09-14T10:29:34.318Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Senior Technical Salesforce Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8188579",
-      "time": "2026-09-14T10:29:39.939Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Head of Private Equity and Advisory Partnerships",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8165855",
-      "time": "2026-09-14T10:30:41.985Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Turnaround & Restructuring Senior Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7750764003",
-      "time": "2026-09-14T10:30:55.271Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Sales Director Nordics",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7988718003",
-      "time": "2026-09-14T10:30:56.355Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Director, Growth Sales (AI & Digital Natives)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8177516",
-      "time": "2026-09-14T10:32:04.806Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Professional Services Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8050384",
-      "time": "2026-09-14T10:32:10.584Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior Application Product Manager - Oracle Transformation Solutions",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885761003",
-      "time": "2026-09-14T10:33:26.479Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Director, Executive Communications",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8075719",
-      "time": "2026-09-14T10:33:26.630Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7988114003",
-      "time": "2026-09-14T10:35:10.574Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mongodb",
-      "title": "Director, Solutions Architecture",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8066684",
-      "time": "2026-09-14T10:35:11.436Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mongodb",
       "title": "Revenue Operations Manager",
@@ -4003,53 +3867,140 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-22T12:40:50.093Z"
+      "company": "DR Ravi Mehta Consultancy Services (opc)",
+      "title": "Unit Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-unit-head-dr-ravi-mehta-consultancy-services-opc-bengaluru-2-to-7-years-180926021262?src=directSearch&sid=17900817134963665&xp=2&px=1",
+      "time": "2026-09-22T12:55:27.768Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-22T12:40:50.099Z"
+      "company": "Everforth Quinnox",
+      "title": "ServiceNow Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-operations-manager-everforth-quinnox-bengaluru-13-to-20-years-080926011449?src=directSearch&sid=17900817344141246&xp=4&px=1",
+      "time": "2026-09-22T12:55:52.109Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-22T12:40:50.106Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Talent Management Lead - Performance Management - Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/talent-management-lead-performance-management-manufacturing-1734050?ref=sp&jobPos=5",
+      "time": "2026-09-22T12:56:55.804Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-22T12:40:50.111Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Vice President - Project Management/PMO - Legal/Compliance & Regulatory Change",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vice-president-project-management-pmo-legal-compliance-and-regulatory-change-1718245?ref=sp&jobPos=6",
+      "time": "2026-09-22T12:57:01.934Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-22T12:40:50.116Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Management Consultant",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/management-consultant-1729106?ref=sp&jobPos=7",
+      "time": "2026-09-22T12:57:08.018Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-22T12:40:50.121Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Talent Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-talent-management-1733352?ref=sp&jobPos=8",
+      "time": "2026-09-22T12:57:14.146Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-22T12:40:50.127Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "PepsiCo - Senior Manager - ServiceNow Technical Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pepsico-senior-manager-servicenow-technical-lead-1727230?ref=sp_br&jobPos=1",
+      "time": "2026-09-22T12:57:24.405Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Business Analyst - ServiceNow HAM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/business-analyst-servicenow-ham-1734490?ref=sp&jobPos=2",
+      "time": "2026-09-22T12:57:30.470Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Project Manager - ServiceNow Implementation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/project-manager-servicenow-implementation-1727557?ref=sp&jobPos=3",
+      "time": "2026-09-22T12:57:36.556Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Coforge - ServiceNow Solution Architect",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/coforge-servicenow-solution-architect-1724441?ref=sp_br&jobPos=4",
+      "time": "2026-09-22T12:57:42.786Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "ServiceNow Project Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/servicenow-project-manager-1724640?ref=sp&jobPos=5",
+      "time": "2026-09-22T12:57:48.819Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Coforge - ServiceNow Business Analyst",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/coforge-servicenow-business-analyst-1724440?ref=sp_br&jobPos=6",
+      "time": "2026-09-22T12:57:54.882Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Advent Global Solutions - ServiceNow Technical Architect",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/advent-global-solutions-servicenow-technical-architect-1723614?ref=sp&jobPos=7",
+      "time": "2026-09-22T12:58:01.347Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Aelum Consulting - ServiceNow Technical Architect",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/aelum-consulting-servicenow-technical-architect-1718784?ref=sp&jobPos=8",
+      "time": "2026-09-22T12:58:07.438Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Director, Professional Services & Consulting",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5192638007",
+      "time": "2026-09-22T12:58:32.253Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tanium",
+      "title": "Director, Product Partnerships - Frontier Labs & Strategic Partnerships",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/7739888",
+      "time": "2026-09-22T12:58:39.862Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Health & Safety Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8220226",
+      "time": "2026-09-22T13:17:28.854Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4712,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2726,
+  "totalVerifiedInHistory": 2743,
   "portalBreakdown": {
-    "iimjobs": 92,
-    "naukri": 75,
+    "iimjobs": 104,
+    "naukri": 77,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1347,
+    "direct_portal_greenhouse": 1350,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4730,6 +4681,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T12:39:42.786Z",
-  "lastUpdated": "22/9/2026, 6:09:42 pm"
+  "lastSyncedAt": "2026-09-22T13:17:28.883Z",
+  "lastUpdated": "22/9/2026, 6:47:28 pm"
 }
