@@ -1,79 +1,7 @@
 {
-  "jobsScanned": 16445,
-  "applicationsSubmitted": 2649,
+  "jobsScanned": 16469,
+  "applicationsSubmitted": 2658,
   "appliedRolesList": [
-    {
-      "company": "Oaknorth",
-      "title": "Director, Debt Finance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/259d95e5-4a20-4eb3-8fc5-0e2942be164a",
-      "time": "2026-09-14T09:36:55.903Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Senior Sales Director (RVP), Consumer Industries UK&I",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/934a13f1-b6d3-44fa-a5e4-83a9dec0bbce",
-      "time": "2026-09-14T09:36:59.610Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zapier",
-      "title": "Director, India",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/zapier/381a771d-b04c-4a8d-8515-ea677d6bd80b",
-      "time": "2026-09-14T09:37:01.051Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Director, GTM Business Systems",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8177617",
-      "time": "2026-09-14T09:39:06.170Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Instacart",
-      "title": "Director, IT Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/instacart/jobs/8177874",
-      "time": "2026-09-14T09:41:22.696Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Project Manager, People Mergers & Acquisitions (M&A)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8175644",
-      "time": "2026-09-14T09:41:26.902Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pendo",
-      "title": "Account Director, Enterprise Sales - French Markets",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pendo/jobs/8665821002",
-      "time": "2026-09-14T09:42:59.680Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Duolingo",
-      "title": "Staff Technical Program Manager, Developer Amplification",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/duolingo/jobs/8638482002",
-      "time": "2026-09-14T09:43:05.598Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Director, Enterprise - Retail Vertical - Strategic Accounts",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8568151002",
-      "time": "2026-09-14T09:43:06.508Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Asana",
       "title": "Head of Enterprise Sales, DACH",
@@ -4001,6 +3929,78 @@
       "url": "https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68",
       "time": "2026-09-22T05:14:30.644Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ripple",
+      "title": "Staff GRC Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/ripple/jobs/8011676",
+      "time": "2026-09-22T05:19:35.442Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys - Automation Testing Engineer",
+      "title": "Program Leadership",
+      "portal": "instahyre",
+      "url": "https://www.instahyre.com/candidate/opportunities/?matching=true",
+      "time": "2026-09-22T05:21:01.983Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Operations Program Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8203653",
+      "time": "2026-09-22T05:45:56.785Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lead Field Technical Program Manager, Forward Deployed Engineering - Retail, Consumer Goods, Travel, Transportation, & Hospitality",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8538884002",
+      "time": "2026-09-22T05:47:27.679Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Engineering",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8098863",
+      "time": "2026-09-22T05:47:43.334Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Gusto",
+      "title": "Payment Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8022501",
+      "time": "2026-09-22T05:52:25.994Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Instacart",
+      "title": "Director, Product Partnerships",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/instacart/jobs/8215052",
+      "time": "2026-09-22T05:52:34.324Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Marketing Operations Lead",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7999305003",
+      "time": "2026-09-22T05:52:39.279Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "Investigations, Compliance & Privacy Director",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7998697003",
+      "time": "2026-09-22T05:54:04.373Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2649,
+  "totalVerifiedInHistory": 2658,
   "portalBreakdown": {
     "iimjobs": 36,
     "naukri": 74,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1328,
+    "direct_portal_greenhouse": 1336,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4678,8 +4678,9 @@
     "greenhouse": 160,
     "direct_portal_ashby": 432,
     "ashby": 337,
-    "workingnomads": 2
+    "workingnomads": 2,
+    "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T05:14:30.674Z",
-  "lastUpdated": "22/9/2026, 10:44:30 am"
+  "lastSyncedAt": "2026-09-22T05:54:04.403Z",
+  "lastUpdated": "22/9/2026, 11:24:04 am"
 }
