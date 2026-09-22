@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 18441,
-  "applicationsSubmitted": 0,
+  "jobsScanned": 18532,
+  "applicationsSubmitted": 2757,
   "appliedRolesList": [
-    {
-      "company": "Tanium",
-      "title": "Director of Strategic Accounts - SLED Northeast",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/7874935",
-      "time": "2026-09-14T10:42:41.961Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "N26",
       "title": "Senior Product Manager - Operations Automation & Enablement (OAE)",
@@ -4003,53 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-22T18:21:47.217Z"
-    },
-    {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-22T18:21:47.224Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-22T18:21:47.230Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-22T18:21:47.235Z"
-    },
-    {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-22T18:21:47.240Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-22T18:21:47.244Z"
-    },
-    {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-22T18:21:47.249Z"
+      "company": "Openai",
+      "title": "Head of Employee Tech & Experience (ETX)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
+      "time": "2026-09-22T22:21:29.040Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4712,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2756,
+  "totalVerifiedInHistory": 2757,
   "portalBreakdown": {
     "iimjobs": 104,
     "naukri": 81,
@@ -4725,11 +4676,11 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 160,
-    "direct_portal_ashby": 434,
+    "direct_portal_ashby": 435,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T18:21:08.664Z",
-  "lastUpdated": "22/9/2026, 11:51:08 pm"
+  "lastSyncedAt": "2026-09-22T22:21:29.076Z",
+  "lastUpdated": "23/9/2026, 3:51:29 am"
 }
