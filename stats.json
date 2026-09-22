@@ -1,223 +1,7 @@
 {
   "jobsScanned": 16445,
-  "applicationsSubmitted": 2622,
+  "applicationsSubmitted": 2649,
   "appliedRolesList": [
-    {
-      "company": "Sentry",
-      "title": "Director, FP&A",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/sentry/4067f08e-5229-4af4-9028-a7c69d3791d0",
-      "time": "2026-09-13T14:06:35.973Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Strategic Business Operations Lead, API",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c",
-      "time": "2026-09-13T14:07:07.140Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Strategic Business Operations Lead, API",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c",
-      "time": "2026-09-13T14:07:07.155Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Account Director - MENA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/93002b15-b30c-4c98-a7e0-2ef185e4b88f",
-      "time": "2026-09-13T14:07:55.849Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Account Director - MENA",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/93002b15-b30c-4c98-a7e0-2ef185e4b88f",
-      "time": "2026-09-13T14:07:55.866Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Partner Director - Consulting Firms (USA)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/06d7c8a4-0120-49ed-a55c-8ef74095ddd0",
-      "time": "2026-09-13T14:08:58.033Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Partner Director - Consulting Firms (USA)",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/06d7c8a4-0120-49ed-a55c-8ef74095ddd0",
-      "time": "2026-09-13T14:08:58.050Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Account Director - Qatar",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/5308cb82-896c-4f9a-86fd-1d65962ef118",
-      "time": "2026-09-13T14:09:11.524Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Account Director - Qatar",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/5308cb82-896c-4f9a-86fd-1d65962ef118",
-      "time": "2026-09-13T14:09:11.540Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Manufacturing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
-      "time": "2026-09-13T14:12:16.912Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Manufacturing",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
-      "time": "2026-09-13T14:12:16.932Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Digital Natives - Nordics",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/4e51e1ac-3fe0-46b5-b036-6143826ecfa5",
-      "time": "2026-09-13T14:13:20.893Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Digital Natives - Nordics",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/4e51e1ac-3fe0-46b5-b036-6143826ecfa5",
-      "time": "2026-09-13T14:13:20.908Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead - India",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/ecd7b6d6-cf20-4e14-a90a-8501cd460557",
-      "time": "2026-09-13T14:18:20.781Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead - India",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/ecd7b6d6-cf20-4e14-a90a-8501cd460557",
-      "time": "2026-09-13T14:18:20.801Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Research Program Manager, Governance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/35e6355f-52fd-405e-b5b6-98b275666d39",
-      "time": "2026-09-13T14:18:34.660Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Research Program Manager, Governance",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/35e6355f-52fd-405e-b5b6-98b275666d39",
-      "time": "2026-09-13T14:18:34.677Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Storage & Data Infrastructure",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c0c70d7e-c450-4ca4-842a-dbc5e643c048",
-      "time": "2026-09-13T14:18:35.252Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Storage & Data Infrastructure",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c0c70d7e-c450-4ca4-842a-dbc5e643c048",
-      "time": "2026-09-13T14:18:35.265Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, AI Infrastructure Capacity Planning",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/a525ada4-b02d-425e-b529-f74bd0b398a5",
-      "time": "2026-09-13T14:47:04.425Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, AI Infrastructure Capacity Planning",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/a525ada4-b02d-425e-b529-f74bd0b398a5",
-      "time": "2026-09-13T14:47:04.581Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead — Korea",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/345bda68-5b8d-43e4-9c05-ecac06f03912",
-      "time": "2026-09-14T02:03:37.053Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead — Korea",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/345bda68-5b8d-43e4-9c05-ecac06f03912",
-      "time": "2026-09-14T02:03:37.221Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Senior Director, Integrated Marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/80c4460f-21f8-4162-aa28-fd8ad294b715",
-      "time": "2026-09-14T09:36:41.313Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Director, Trust & Safety",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/9ed2cea6-b250-4b49-bd75-b761793af0f8",
-      "time": "2026-09-14T09:36:43.290Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Plaid",
-      "title": "Corporate Counsel, Governance and Finance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/plaid/3f324f37-afde-40ba-88e0-2bf91cba1968",
-      "time": "2026-09-14T09:36:43.442Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Plaid",
-      "title": "Head of Revenue - Banking and Wealth",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/plaid/6c299523-a4a2-47c7-9d77-c75cbae64a81",
-      "time": "2026-09-14T09:36:54.047Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Oaknorth",
       "title": "Director, Debt Finance",
@@ -4001,6 +3785,222 @@
       "url": "https://www.naukri.com/job-listings-servicenow-product-manager-ibu-consulting-bengaluru-10-to-15-years-250626504222?src=directSearch&sid=17900535786776070&xp=3&px=1",
       "time": "2026-09-22T05:06:47.819Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Resource Pro",
+      "title": "Sr. Automation Manager, India",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-automation-manager-india-resource-pro-bengaluru-10-to-16-years-210926017508?src=directSearch&sid=1790053614347350&xp=2&px=1",
+      "time": "2026-09-22T05:07:11.937Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Prinicipal - Senior Manager - Transitions",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=1&jobId=1734198&pref=sp_br_prm",
+      "time": "2026-09-22T05:07:39.313Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Infineon - Senior Manager - Marketing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=2&jobId=1734056&pref=sp_prm",
+      "time": "2026-09-22T05:07:48.687Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Abbott - Senior National Sales Manager - eCommerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=3&jobId=1732612&pref=sp_br_prm",
+      "time": "2026-09-22T05:07:58.095Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Urban Company - Senior Operations Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733142/screening?ref=sp_br_prm&jobPos=4&pref=sp_br_prm",
+      "time": "2026-09-22T05:08:07.320Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "iDO Devices - Manager/Senior Manager - Human Resources",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1734365/screening?ref=sp_br_prm&jobPos=5&pref=sp_br_prm",
+      "time": "2026-09-22T05:08:17.091Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "BrightChamps - Senior Legal Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=6&jobId=1731614&pref=sp_prm",
+      "time": "2026-09-22T05:08:26.605Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "BCG - Senior Manager - Finance Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=7&jobId=1733985&pref=sp_br_prm",
+      "time": "2026-09-22T05:08:36.117Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Jai Finance - Senior Finance Manager - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733103/screening?ref=sp_br_prm&jobPos=8&pref=sp_br_prm",
+      "time": "2026-09-22T05:08:45.749Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "VFS Global - Senior Manager - Cyber Security Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=2&jobId=1731175&pref=sp_prm",
+      "time": "2026-09-22T05:08:59.440Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Urban Company - Senior Category Manager - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1731155/screening?ref=sp_br_prm&jobPos=3&pref=sp_br_prm",
+      "time": "2026-09-22T05:09:09.169Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Flipkart - Senior Operations Manager - Retail",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=4&jobId=1731224&pref=sp_br",
+      "time": "2026-09-22T05:09:18.594Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Nykaa - Senior Manager - Quick Commerce Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1731027/screening?ref=sp_br&jobPos=6&pref=sp_br",
+      "time": "2026-09-22T05:09:28.381Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Traya Health - Senior Manager - Quality Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1732862/screening?ref=sp_br&jobPos=7&pref=sp_br",
+      "time": "2026-09-22T05:09:38.413Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Director, Enterprise Sales - Greater China Region",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8016652",
+      "time": "2026-09-22T05:09:51.418Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Uni Club - Partnerships Program Manager - Business Development",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733907/screening?ref=sp_br&jobPos=5&pref=sp_br",
+      "time": "2026-09-22T05:09:52.443Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amazon - Senior Program Manager - Financial Risk Mitigation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=6&jobId=1732829&pref=sp_br",
+      "time": "2026-09-22T05:10:01.936Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intercom",
+      "title": "Director of Solutions Marketing",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8172406",
+      "time": "2026-09-22T05:10:36.236Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Product Manager, Data Governance",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8066887",
+      "time": "2026-09-22T05:10:50.096Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Braze",
+      "title": "Director Specialist Sales, AMER",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8220920",
+      "time": "2026-09-22T05:10:51.087Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Datadog",
+      "title": "Principal Partner Program Manager - Datadog Reseller Program",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/7984983",
+      "time": "2026-09-22T05:10:52.901Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alixpartners",
+      "title": "CPG/Retail Senior Vice President",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/6605140003",
+      "time": "2026-09-22T05:11:02.234Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager, Frontier Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa",
+      "time": "2026-09-22T05:13:57.951Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Director of Commercial Sales",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/d81ac364-7b1c-48d2-a8b7-4bc7336c6be5",
+      "time": "2026-09-22T05:14:13.227Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Knock",
+      "title": "Director of Sales - Remote (anywhere in the US)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/knock/jobs/6202778004",
+      "time": "2026-09-22T05:14:13.573Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Product Manager, Agentic Orchestration & Automation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/8a690471-c33d-4283-a839-dfe3c6dbd014",
+      "time": "2026-09-22T05:14:27.743Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Revenue Enablement Program Manager - EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68",
+      "time": "2026-09-22T05:14:30.644Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,23 +4663,23 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2622,
+  "totalVerifiedInHistory": 2649,
   "portalBreakdown": {
-    "iimjobs": 21,
-    "naukri": 73,
+    "iimjobs": 36,
+    "naukri": 74,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1321,
+    "direct_portal_greenhouse": 1328,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 160,
-    "direct_portal_ashby": 428,
+    "direct_portal_ashby": 432,
     "ashby": 337,
     "workingnomads": 2
   },
-  "lastSyncedAt": "2026-09-22T05:06:47.842Z",
-  "lastUpdated": "22/9/2026, 10:36:47 am"
+  "lastSyncedAt": "2026-09-22T05:14:30.674Z",
+  "lastUpdated": "22/9/2026, 10:44:30 am"
 }
