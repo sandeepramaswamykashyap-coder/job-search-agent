@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 112,
-  "coldEmailsCount": 89,
+  "totalOutreachItems": 119,
+  "coldEmailsCount": 96,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 38,
-    "underEvaluation_3_4_days": 13,
-    "followUpEligible_5plus_days": 61
+    "initialWindow_0_2_days": 20,
+    "underEvaluation_3_4_days": 0,
+    "followUpEligible_5plus_days": 99
   },
-  "lastUpdated": "2026-08-30T02:30:21.648Z",
+  "lastUpdated": "2026-09-22T14:18:32.735Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -15,7 +15,7 @@
       "company": "Pricewater House Coopers Service Delivery Center Bangalore",
       "title": "FDD - Manager",
       "dispatchedAt": "2026-07-22T05:32:59.007Z",
-      "daysElapsed": 38,
+      "daysElapsed": 62,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -26,7 +26,7 @@
       "company": "Bean Hr Consulting",
       "title": "Workday Consultant / manager",
       "dispatchedAt": "2026-07-22T05:33:04.024Z",
-      "daysElapsed": 38,
+      "daysElapsed": 62,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -37,7 +37,7 @@
       "company": "Idexcel",
       "title": "Senior Product Manger",
       "dispatchedAt": "2026-07-22T05:33:14.435Z",
-      "daysElapsed": 38,
+      "daysElapsed": 62,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -48,7 +48,7 @@
       "company": "Leading Product Based Software Company (Prestigious Client of The Glove)",
       "title": "AI Project Manager",
       "dispatchedAt": "2026-07-22T05:33:25.553Z",
-      "daysElapsed": 38,
+      "daysElapsed": 62,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -59,7 +59,7 @@
       "company": "Yash Technologies",
       "title": "Yash Technologies is Hiring - Business Analyst - RPA BA",
       "dispatchedAt": "2026-07-22T12:41:17.459Z",
-      "daysElapsed": 38,
+      "daysElapsed": 62,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -70,7 +70,7 @@
       "company": "Nous Infosystems",
       "title": "Delivery Manager -with a CMMi level 5 company, BLR",
       "dispatchedAt": "2026-07-23T20:24:04.751Z",
-      "daysElapsed": 37,
+      "daysElapsed": 60,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -81,7 +81,7 @@
       "company": "Target Enterprise",
       "title": "Head of UAT & Quality Governance",
       "dispatchedAt": "2026-07-26T14:30:29.614Z",
-      "daysElapsed": 34,
+      "daysElapsed": 57,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -92,7 +92,7 @@
       "company": "Target Enterprise (Verified Hiring)",
       "title": "Transformation Program Manager",
       "dispatchedAt": "2026-07-26T14:30:36.295Z",
-      "daysElapsed": 34,
+      "daysElapsed": 57,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -103,7 +103,7 @@
       "company": "Resource Pro",
       "title": "Service Delivery Manager, India - Only P&C Experience",
       "dispatchedAt": "2026-07-29T14:30:54.527Z",
-      "daysElapsed": 31,
+      "daysElapsed": 54,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -114,7 +114,7 @@
       "company": "Foundit Partner",
       "title": "Managing Director - Operations",
       "dispatchedAt": "2026-08-06T17:15:29.146Z",
-      "daysElapsed": 23,
+      "daysElapsed": 46,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -125,7 +125,7 @@
       "company": "Visara Human Capital Services",
       "title": "Technical Program Manager Data Analytics",
       "dispatchedAt": "2026-08-10T15:19:13.002Z",
-      "daysElapsed": 19,
+      "daysElapsed": 42,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -136,7 +136,7 @@
       "company": "Diageo",
       "title": "Manager PTC",
       "dispatchedAt": "2026-08-12T06:00:15.661Z",
-      "daysElapsed": 17,
+      "daysElapsed": 41,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -147,7 +147,7 @@
       "company": "The Glove",
       "title": "Data Governance- Data And Analytics",
       "dispatchedAt": "2026-08-13T18:19:28.289Z",
-      "daysElapsed": 16,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -158,7 +158,7 @@
       "company": "Resource Pro",
       "title": "Assistant Manager, SDU",
       "dispatchedAt": "2026-08-14T04:49:48.086Z",
-      "daysElapsed": 15,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -169,7 +169,7 @@
       "company": "Siro Clinpharm",
       "title": "AI Program Manager",
       "dispatchedAt": "2026-08-19T05:18:18.624Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -180,7 +180,7 @@
       "company": "Omega Healthcare",
       "title": "Manager Transition Management Office",
       "dispatchedAt": "2026-08-19T05:18:30.599Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -191,7 +191,7 @@
       "company": "Accion Labs",
       "title": "Project Manager (Migrations projects)",
       "dispatchedAt": "2026-08-19T05:18:38.674Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -202,7 +202,7 @@
       "company": "Company",
       "title": "ServiceNow Platform Manager",
       "dispatchedAt": "2026-08-19T05:18:43.473Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -213,7 +213,7 @@
       "company": "New Era Technology",
       "title": "Senior IT Project Manager (Real Estate & Infrastructure Projects)",
       "dispatchedAt": "2026-08-19T05:18:49.403Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -224,7 +224,7 @@
       "company": "Orcapod Consulting Services",
       "title": "Business Analyst",
       "dispatchedAt": "2026-08-19T05:18:54.415Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -235,7 +235,7 @@
       "company": "Orcapod Consulting Services",
       "title": "Portfolio Services Manager _(PMO/Governance) -Risk Management",
       "dispatchedAt": "2026-08-19T05:18:59.405Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -246,7 +246,7 @@
       "company": "Veetechnologies",
       "title": "Operations Head Examination & Assessment Services",
       "dispatchedAt": "2026-08-19T05:19:05.261Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -257,7 +257,7 @@
       "company": "New Era Technology",
       "title": "CDET Manager",
       "dispatchedAt": "2026-08-19T05:19:10.787Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -268,7 +268,7 @@
       "company": "Foundit Partner",
       "title": "Program Manager",
       "dispatchedAt": "2026-08-19T05:19:16.365Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -279,7 +279,7 @@
       "company": "Allegis Global Solutions (AGS)",
       "title": "Specialist Business Risk- Controls Testing Or Internal Audit",
       "dispatchedAt": "2026-08-19T05:20:43.709Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -290,7 +290,7 @@
       "company": "Prodapt Solutions",
       "title": "BSS Business Analyst",
       "dispatchedAt": "2026-08-19T05:20:48.623Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -301,7 +301,7 @@
       "company": "PwC",
       "title": "Operations Manager",
       "dispatchedAt": "2026-08-19T05:20:53.982Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -312,7 +312,7 @@
       "company": "PwC",
       "title": "Qlikview Manager",
       "dispatchedAt": "2026-08-19T05:20:58.656Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -323,7 +323,7 @@
       "company": "Miratech",
       "title": "Remote Opportunity - UAT Engineer at Miratech",
       "dispatchedAt": "2026-08-19T05:21:03.506Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -334,7 +334,7 @@
       "company": "Sonata Software",
       "title": "One Identity Manager",
       "dispatchedAt": "2026-08-19T05:21:08.215Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -345,7 +345,7 @@
       "company": "Epam Systems",
       "title": "It Delivery Manager",
       "dispatchedAt": "2026-08-19T05:21:13.159Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -356,7 +356,7 @@
       "company": "NTT DATA",
       "title": "Hiring For Private Equity",
       "dispatchedAt": "2026-08-19T05:21:18.220Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -367,7 +367,7 @@
       "company": "MedPlus",
       "title": "Manager",
       "dispatchedAt": "2026-08-19T11:05:17.810Z",
-      "daysElapsed": 10,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -378,7 +378,7 @@
       "company": "IMC",
       "title": "Program Manager || Non IT Project Management || Bangalore",
       "dispatchedAt": "2026-08-20T14:28:14.514Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -389,7 +389,7 @@
       "company": "Crescendo Global Leadership Hiring India",
       "title": "Asset Management Product Owner",
       "dispatchedAt": "2026-08-21T08:45:35.515Z",
-      "daysElapsed": 8,
+      "daysElapsed": 32,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -400,7 +400,7 @@
       "company": "Resource Pro",
       "title": "Manager, Service Delivery",
       "dispatchedAt": "2026-08-21T12:11:46.264Z",
-      "daysElapsed": 8,
+      "daysElapsed": 32,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -411,7 +411,7 @@
       "company": "Crescendo Global",
       "title": "Data Analyst - Product Analysis -SQL/Power BI- 3 Years-Pune/Gurugram",
       "dispatchedAt": "2026-08-22T10:21:23.154Z",
-      "daysElapsed": 7,
+      "daysElapsed": 31,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -422,7 +422,7 @@
       "company": "Lords Mark Industries",
       "title": "Technical Product Manager",
       "dispatchedAt": "2026-08-22T19:46:50.223Z",
-      "daysElapsed": 7,
+      "daysElapsed": 30,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -433,10 +433,10 @@
       "company": "Deloitte India",
       "title": "Partner / Director — Enterprise Agility & HR Transformation",
       "dispatchedAt": "2026-08-26T03:19:07.534Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -444,10 +444,10 @@
       "company": "KPMG India",
       "title": "Head of Talent Acquisition — Digital & Technology Consulting",
       "dispatchedAt": "2026-08-26T03:19:17.202Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -455,10 +455,10 @@
       "company": "Ernst & Young (EY)",
       "title": "Talent Leader — Technology Enablement & Transformation",
       "dispatchedAt": "2026-08-26T03:19:28.846Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -466,10 +466,10 @@
       "company": "Cognizant",
       "title": "Transformation Program Manager — ServiceNow Practice",
       "dispatchedAt": "2026-08-26T03:19:40.268Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -477,10 +477,10 @@
       "company": "Infosys",
       "title": "Senior Manager Talent Acquisition — Enterprise Package Solutions",
       "dispatchedAt": "2026-08-26T03:19:52.248Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -488,10 +488,10 @@
       "company": "Wipro Technologies",
       "title": "General Manager — Enterprise Digital Operations & Transformation",
       "dispatchedAt": "2026-08-26T03:20:01.316Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -499,10 +499,10 @@
       "company": "Accenture India",
       "title": "Talent Acquisition Lead — ServiceNow Business Group",
       "dispatchedAt": "2026-08-26T03:20:11.522Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -510,10 +510,10 @@
       "company": "Genpact",
       "title": "Vice President — Transformation & Intelligent Automation",
       "dispatchedAt": "2026-08-26T03:20:20.863Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -521,10 +521,10 @@
       "company": "LTIMindtree",
       "title": "Head of Hiring — Cloud & Platform Services",
       "dispatchedAt": "2026-08-26T03:20:30.503Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -532,10 +532,10 @@
       "company": "Capgemini India",
       "title": "Director — Financial Services Transformation",
       "dispatchedAt": "2026-08-26T09:51:52.358Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -543,10 +543,10 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Lead Partner — BFSI Digital Transformation",
       "dispatchedAt": "2026-08-26T09:51:57.651Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -554,10 +554,10 @@
       "company": "HCLTech",
       "title": "Practice Head — ServiceNow & Enterprise Service Delivery",
       "dispatchedAt": "2026-08-26T09:52:04.107Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -565,424 +565,501 @@
       "company": "Tech Mahindra",
       "title": "Vice President — Enterprise Transformation & OCM",
       "dispatchedAt": "2026-08-26T09:52:09.383Z",
-      "daysElapsed": 3,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 27,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "arun.swaminathan@servicenow.com",
-      "company": "ServiceNow",
-      "title": "Director — Solutions Consulting & Enterprise Program Delivery",
-      "dispatchedAt": "2026-08-28T00:54:03.737Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "priyanka.roy@servicenow.com",
-      "company": "ServiceNow",
-      "title": "Senior Talent Acquisition Manager — Enterprise Practices",
-      "dispatchedAt": "2026-08-28T00:54:09.357Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "suresh.krishnamurthy@deloitte.com",
-      "company": "Deloitte",
-      "title": "Partner — ServiceNow & HR Transformation Practice",
-      "dispatchedAt": "2026-08-28T00:54:14.487Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "manish.sharma@pwc.com",
-      "company": "PwC",
-      "title": "Partner — Enterprise Delivery & Cloud Transformation",
-      "dispatchedAt": "2026-08-28T00:54:19.265Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "ritika.malhotra@pwc.com",
-      "company": "PwC",
-      "title": "Head of Talent Acquisition — Technology Consulting",
-      "dispatchedAt": "2026-08-28T00:54:24.494Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "abhishek.ganguly@ey.com",
-      "company": "Ernst & Young (EY)",
-      "title": "Partner / Practice Head — ServiceNow & Digital Operations",
-      "dispatchedAt": "2026-08-28T00:54:29.414Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "kriti.saxena@ey.com",
-      "company": "Ernst & Young (EY)",
-      "title": "Senior Talent Acquisition Specialist — Consulting & Strategy",
-      "dispatchedAt": "2026-08-28T00:54:37.721Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "sameer.joshi@kpmg.com",
-      "company": "KPMG",
-      "title": "Partner — Technology Enablement & Transformation",
-      "dispatchedAt": "2026-08-28T00:54:47.559Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "divya.nambiar@accenture.com",
-      "company": "Accenture",
-      "title": "Managing Director — Enterprise Platform Transformation & HRSD",
-      "dispatchedAt": "2026-08-28T00:54:55.725Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "rohit.verma@accenture.com",
-      "company": "Accenture",
-      "title": "Senior Manager — Talent Acquisition (Leadership & Executive Hiring)",
-      "dispatchedAt": "2026-08-28T00:55:02.393Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "gaurav.sen@cognizant.com",
-      "company": "Cognizant",
-      "title": "Vice President — Enterprise Applications & ServiceNow Delivery",
-      "dispatchedAt": "2026-08-28T00:55:09.381Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "ananya.kulkarni@infosys.com",
-      "company": "Infosys",
-      "title": "Associate Vice President — Cloud & Digital Experience Transformation",
-      "dispatchedAt": "2026-08-28T00:55:18.844Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "nikhil.agarwal@wipro.com",
-      "company": "Wipro",
-      "title": "Vice President & Global Head — ServiceNow Business Unit",
-      "dispatchedAt": "2026-08-28T00:55:25.695Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "pallavi.deshpande@tcs.com",
-      "company": "Tata Consultancy Services (TCS)",
-      "title": "Global Practice Leader — Enterprise Business Transformation",
-      "dispatchedAt": "2026-08-28T00:55:32.089Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "vikrant.kapoor@capgemini.com",
-      "company": "Capgemini",
-      "title": "Vice President & Practice Leader — ServiceNow & Enterprise Delivery",
-      "dispatchedAt": "2026-08-28T00:55:38.146Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "ritu.singhania@ltimindtree.com",
-      "company": "LTIMindtree",
-      "title": "Senior Director — Enterprise Transformation & Operations",
-      "dispatchedAt": "2026-08-28T00:55:43.192Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "karthik.ranganathan@genpact.com",
-      "company": "Genpact",
-      "title": "Global Head — Service Delivery & Intelligent Operations",
-      "dispatchedAt": "2026-08-28T00:55:47.969Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "siddharth.rao@hcl.com",
-      "company": "HCLTech",
-      "title": "Vice President — Digital Delivery & Business Transformation",
-      "dispatchedAt": "2026-08-28T00:55:53.209Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "deepika.nair@techmahindra.com",
-      "company": "Tech Mahindra",
-      "title": "Senior Vice President — Cloud & Platform Services Transformation",
-      "dispatchedAt": "2026-08-28T00:55:58.235Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "vikram.seth@servicenow.com",
-      "company": "ServiceNow",
-      "title": "Vice President — Global Delivery & Customer Outcomes",
-      "dispatchedAt": "2026-08-29T13:21:37.934Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "swati.khanna@servicenow.com",
-      "company": "ServiceNow",
-      "title": "Director of Talent Acquisition — Enterprise Solutions",
-      "dispatchedAt": "2026-08-29T13:21:43.372Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "anand.mahalingam@deloitte.com",
-      "company": "Deloitte",
-      "title": "Partner & Practice Leader — ServiceNow HRSD & Digital Workplaces",
-      "dispatchedAt": "2026-08-29T13:21:48.765Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "neha.agarwal@deloitte.com",
-      "company": "Deloitte",
-      "title": "Executive Talent Director — Enterprise Technology",
-      "dispatchedAt": "2026-08-29T13:21:54.826Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
       "recipient": "rajesh.nair@pwc.com",
       "company": "PwC",
       "title": "Partner — Business Transformation & Platform Delivery",
-      "dispatchedAt": "2026-08-29T13:22:00.784Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "dispatchedAt": "2026-08-30T04:19:04.067Z",
+      "daysElapsed": 23,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "sanjay.verma@ey.com",
-      "company": "Ernst & Young (EY)",
-      "title": "Partner — Digital Operations & Intelligent Transformation",
-      "dispatchedAt": "2026-08-29T13:22:06.360Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
       "recipient": "pooja.patel@ey.com",
       "company": "Ernst & Young (EY)",
       "title": "Head of Executive Sourcing — Global Delivery Services",
-      "dispatchedAt": "2026-08-29T13:22:11.968Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "dispatchedAt": "2026-08-30T04:19:15.474Z",
+      "daysElapsed": 23,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "megha.sharma@kpmg.com",
-      "company": "KPMG",
-      "title": "Talent Acquisition Lead — Management Consulting",
-      "dispatchedAt": "2026-08-29T13:22:17.081Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "pradeep.kumar@accenture.com",
-      "company": "Accenture",
-      "title": "Managing Director — Enterprise Platform Engineering & HRSD",
-      "dispatchedAt": "2026-08-29T13:22:22.350Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "deepak.menon@hsbc.com",
-      "company": "HSBC",
-      "title": "Global Practice Leader — Platform Modernization & Service Delivery",
-      "dispatchedAt": "2026-08-29T13:22:28.175Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "arvind.joshi@capgemini.com",
-      "company": "Capgemini",
-      "title": "Vice President & Practice Leader — ServiceNow & Enterprise Apps",
-      "dispatchedAt": "2026-08-29T13:22:33.289Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "sunil.bhatia@cognizant.com",
-      "company": "Cognizant",
-      "title": "Vice President — Enterprise Cloud & ServiceNow Delivery",
-      "dispatchedAt": "2026-08-29T13:22:38.463Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "manoj.singh@infosys.com",
-      "company": "Infosys",
-      "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
-      "dispatchedAt": "2026-08-29T13:22:43.242Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
       "recipient": "ramesh.iyer@wipro.com",
       "company": "Wipro",
       "title": "Vice President — Cloud & Platform Transformation Business Unit",
-      "dispatchedAt": "2026-08-29T13:22:48.157Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "dispatchedAt": "2026-08-30T04:19:50.795Z",
+      "daysElapsed": 23,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
       "recipient": "vandana.kulkarni@tcs.com",
       "company": "Tata Consultancy Services (TCS)",
       "title": "Global Head — Enterprise Platform Solutions",
-      "dispatchedAt": "2026-08-29T13:22:53.217Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "dispatchedAt": "2026-08-30T04:19:55.811Z",
+      "daysElapsed": 23,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
       "recipient": "sumit.rastogi@ltimindtree.com",
       "company": "LTIMindtree",
       "title": "Vice President — Enterprise Business Transformation",
-      "dispatchedAt": "2026-08-29T13:22:58.480Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "dispatchedAt": "2026-08-30T04:20:00.890Z",
+      "daysElapsed": 23,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
       "recipient": "ajay.saxena@hcl.com",
       "company": "HCLTech",
       "title": "Senior Vice President — Digital Platform Transformation",
-      "dispatchedAt": "2026-08-29T13:23:03.516Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "dispatchedAt": "2026-08-30T04:20:05.705Z",
+      "daysElapsed": 23,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
-    },
-    {
-      "type": "Cold Email",
-      "recipient": "nitin.chawla@genpact.com",
-      "company": "Genpact",
-      "title": "Global Leader — Intelligent Operations & Service Management",
-      "dispatchedAt": "2026-08-29T13:23:09.318Z",
-      "daysElapsed": 0,
-      "stage": "Initial Outreach Window (0-2 days)",
-      "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
       "recipient": "vivek.pandey@techmahindra.com",
       "company": "Tech Mahindra",
       "title": "Senior Vice President — Cloud & ServiceNow Practice",
-      "dispatchedAt": "2026-08-29T13:23:15.113Z",
+      "dispatchedAt": "2026-08-30T04:20:15.535Z",
+      "daysElapsed": 23,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "vikram.seth@servicenow.com",
+      "company": "ServiceNow",
+      "title": "Vice President — Global Delivery & Customer Outcomes",
+      "dispatchedAt": "2026-09-15T04:04:28.286Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "swati.khanna@servicenow.com",
+      "company": "ServiceNow",
+      "title": "Director of Talent Acquisition — Enterprise Solutions",
+      "dispatchedAt": "2026-09-15T04:04:34.432Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "anand.mahalingam@deloitte.com",
+      "company": "Deloitte",
+      "title": "Partner & Practice Leader — ServiceNow HRSD & Digital Workplaces",
+      "dispatchedAt": "2026-09-15T04:04:40.916Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "neha.agarwal@deloitte.com",
+      "company": "Deloitte",
+      "title": "Executive Talent Director — Enterprise Technology",
+      "dispatchedAt": "2026-09-15T04:04:46.693Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "shweta.sen@pwc.com",
+      "company": "PwC",
+      "title": "Director — Executive & Leadership Recruitment",
+      "dispatchedAt": "2026-09-15T04:04:52.487Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sanjay.verma@ey.com",
+      "company": "Ernst & Young (EY)",
+      "title": "Partner — Digital Operations & Intelligent Transformation",
+      "dispatchedAt": "2026-09-15T04:04:58.955Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "alok.gupta@kpmg.com",
+      "company": "KPMG",
+      "title": "Partner — Cloud Platforms & Enterprise Transformation",
+      "dispatchedAt": "2026-09-15T04:05:04.556Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "megha.sharma@kpmg.com",
+      "company": "KPMG",
+      "title": "Talent Acquisition Lead — Management Consulting",
+      "dispatchedAt": "2026-09-15T04:05:09.744Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pradeep.kumar@accenture.com",
+      "company": "Accenture",
+      "title": "Managing Director — Enterprise Platform Engineering & HRSD",
+      "dispatchedAt": "2026-09-15T04:05:15.625Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "smita.mishra@accenture.com",
+      "company": "Accenture",
+      "title": "Senior Talent Acquisition Manager — Leadership Hiring",
+      "dispatchedAt": "2026-09-15T04:05:20.758Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rahul.mehta@morganstanley.com",
+      "company": "Morgan Stanley",
+      "title": "Managing Director — Enterprise Operations & Technology Transformation",
+      "dispatchedAt": "2026-09-15T04:05:26.639Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "amitabh.das@jpmorgan.com",
+      "company": "JPMorgan Chase",
+      "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
+      "dispatchedAt": "2026-09-15T04:05:35.902Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "tarun.kapoor@barclays.com",
+      "company": "Barclays",
+      "title": "Head of Enterprise Transformation & Global Platforms",
+      "dispatchedAt": "2026-09-15T04:05:42.505Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "deepak.menon@hsbc.com",
+      "company": "HSBC",
+      "title": "Global Practice Leader — Platform Modernization & Service Delivery",
+      "dispatchedAt": "2026-09-15T04:05:48.757Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "arvind.joshi@capgemini.com",
+      "company": "Capgemini",
+      "title": "Vice President & Practice Leader — ServiceNow & Enterprise Apps",
+      "dispatchedAt": "2026-09-15T04:05:55.222Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sunil.bhatia@cognizant.com",
+      "company": "Cognizant",
+      "title": "Vice President — Enterprise Cloud & ServiceNow Delivery",
+      "dispatchedAt": "2026-09-15T04:06:01.855Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "manoj.singh@infosys.com",
+      "company": "Infosys",
+      "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
+      "dispatchedAt": "2026-09-15T04:06:08.656Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "nitin.chawla@genpact.com",
+      "company": "Genpact",
+      "title": "Global Leader — Intelligent Operations & Service Management",
+      "dispatchedAt": "2026-09-15T04:06:13.904Z",
+      "daysElapsed": 7,
+      "stage": "Follow-Up Eligible (5+ days)",
+      "status": "sent",
+      "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "arun.kumar@servicenow.com",
+      "company": "ServiceNow",
+      "title": "Director of Talent Acquisition",
+      "dispatchedAt": "2026-09-22T14:14:59.881Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pooja.sharma@servicenow.com",
+      "company": "ServiceNow",
+      "title": "Lead Executive Recruiter - APJ",
+      "dispatchedAt": "2026-09-22T14:15:06.857Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rohit.verma@databricks.com",
+      "company": "Databricks",
+      "title": "Senior Talent Acquisition Partner - India",
+      "dispatchedAt": "2026-09-22T14:15:14.228Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "neha.gupta@stripe.com",
+      "company": "Stripe",
+      "title": "Recruiting Lead - APAC Delivery",
+      "dispatchedAt": "2026-09-22T14:15:21.060Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ananya.roy@freshworks.com",
+      "company": "Freshworks",
+      "title": "Head of Talent Acquisition - Leadership Hiring",
+      "dispatchedAt": "2026-09-22T14:15:28.398Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "karthik.raman@uipath.com",
+      "company": "UiPath",
+      "title": "Senior Director - Global Talent Acquisition",
+      "dispatchedAt": "2026-09-22T14:15:35.410Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "siddharth.nair@celonis.com",
+      "company": "Celonis",
+      "title": "Talent Acquisition Partner - Process Mining",
+      "dispatchedAt": "2026-09-22T14:15:42.090Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "deepika.iyer@okta.com",
+      "company": "Okta",
+      "title": "Senior Lead Recruiter - APJ",
+      "dispatchedAt": "2026-09-22T14:15:49.786Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "vikas.rao@zscaler.com",
+      "company": "Zscaler",
+      "title": "Director - Global Executive Recruiting",
+      "dispatchedAt": "2026-09-22T14:15:56.489Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sowmya.murthy@tanium.com",
+      "company": "Tanium",
+      "title": "Senior Technical Recruiter - India",
+      "dispatchedAt": "2026-09-22T14:16:04.865Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "gaurav.bhatia@reddit.com",
+      "company": "Reddit",
+      "title": "Lead Recruiter - Emerging Markets",
+      "dispatchedAt": "2026-09-22T14:16:11.731Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "shweta.kulkarni@gusto.com",
+      "company": "Gusto",
+      "title": "Executive Talent Acquisition Lead",
+      "dispatchedAt": "2026-09-22T14:16:18.370Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "megha.sen@thoughtworks.com",
+      "company": "ThoughtWorks",
+      "title": "Lead Recruiter - Leadership & Program Management",
+      "dispatchedAt": "2026-09-22T14:16:25.419Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajesh.menon@accenture.com",
+      "company": "Accenture Strategy",
+      "title": "Managing Director - Technology Transformation",
+      "dispatchedAt": "2026-09-22T14:16:32.072Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "priya.sundaram@infosys.com",
+      "company": "Infosys BPM",
+      "title": "Senior Vice President - Operations & Delivery",
+      "dispatchedAt": "2026-09-22T14:16:38.999Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "alok.pandey@zycus.com",
+      "company": "Zycus Infotech",
+      "title": "Head of Global Talent Acquisition",
+      "dispatchedAt": "2026-09-22T14:16:46.155Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "naveen.krishnan@happiestminds.com",
+      "company": "Happiest Minds",
+      "title": "Vice President - Digital Business Services",
+      "dispatchedAt": "2026-09-22T14:16:52.543Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sunil.hegde@walmart.com",
+      "company": "Walmart Global Tech",
+      "title": "Director of Talent Acquisition - India",
+      "dispatchedAt": "2026-09-22T14:16:59.461Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "archana.patil@brillio.com",
+      "company": "Brillio",
+      "title": "Global Head of Talent Acquisition",
+      "dispatchedAt": "2026-09-22T14:17:06.081Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "manish.chawla@ericsson.com",
+      "company": "Ericsson",
+      "title": "Head of People & Operations - India",
+      "dispatchedAt": "2026-09-22T14:17:12.156Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
@@ -997,7 +1074,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sangram-guha-6ba27634/",
       "dispatchedAt": "2026-08-20T14:43:16.937Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1009,7 +1086,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/mohammad-shafeen-baba-779415175/",
       "dispatchedAt": "2026-08-20T14:44:37.398Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1021,7 +1098,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sunil-kumar-katthula-712173b0/",
       "dispatchedAt": "2026-08-20T14:46:02.968Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1033,7 +1110,7 @@
       "title": "Regional Director - Bengaluru at Sunstone",
       "profileUrl": "https://www.linkedin.com/in/devashish-pande-64028487/",
       "dispatchedAt": "2026-08-20T15:55:51.354Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1045,7 +1122,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/preetesh19/",
       "dispatchedAt": "2026-08-20T15:57:51.145Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1057,7 +1134,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/fouziakumar/",
       "dispatchedAt": "2026-08-20T16:01:10.113Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1069,7 +1146,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/ramu-p-563906b/",
       "dispatchedAt": "2026-08-20T16:03:22.444Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1081,7 +1158,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/pavan-kumar-majji-775a6570/",
       "dispatchedAt": "2026-08-20T16:04:28.654Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1093,7 +1170,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/shreeshkatti/",
       "dispatchedAt": "2026-08-20T16:06:40.969Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1105,7 +1182,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/curiousrachelmathew/",
       "dispatchedAt": "2026-08-20T16:09:58.257Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1117,7 +1194,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/kumargouravdakhinray/",
       "dispatchedAt": "2026-08-20T16:12:10.446Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1129,7 +1206,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/dvenkateshmurthy/",
       "dispatchedAt": "2026-08-20T16:14:21.417Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1141,7 +1218,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/subhra-chakraborty-08422161/",
       "dispatchedAt": "2026-08-20T16:16:34.031Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1153,7 +1230,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sushant-kumar-8b23a2225/",
       "dispatchedAt": "2026-08-20T16:17:39.749Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1165,7 +1242,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nancy-paul-527140155/",
       "dispatchedAt": "2026-08-20T16:20:56.653Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1177,7 +1254,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/rathore-lokendra/",
       "dispatchedAt": "2026-08-20T16:23:07.998Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1189,7 +1266,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/gopinath-dakshinamurthy-58b39a16/",
       "dispatchedAt": "2026-08-20T16:26:26.529Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1201,7 +1278,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nitesh-jain-6698762b/",
       "dispatchedAt": "2026-08-20T16:28:39.343Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1213,7 +1290,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/praveen-r-211a1a12a/",
       "dispatchedAt": "2026-08-20T16:31:56.789Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1225,7 +1302,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nikita-srivastava-5b328b65/",
       "dispatchedAt": "2026-08-20T16:35:15.296Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1237,7 +1314,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sanchari-chattaraj/",
       "dispatchedAt": "2026-08-20T16:38:34.282Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1249,7 +1326,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/isaacmasood/",
       "dispatchedAt": "2026-08-20T16:40:46.459Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1261,7 +1338,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/venkatesh-n-t-28bb5b2b/",
       "dispatchedAt": "2026-08-20T16:45:15.478Z",
-      "daysElapsed": 9,
+      "daysElapsed": 32,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
