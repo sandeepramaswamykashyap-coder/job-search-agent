@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 17706,
-  "applicationsSubmitted": 2751,
+  "jobsScanned": 17713,
+  "applicationsSubmitted": 2752,
   "appliedRolesList": [
-    {
-      "company": "Tavily",
-      "title": "Head of Forward Deployment Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tavily/jobs/4917731101",
-      "time": "2026-09-14T10:40:53.867Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Togetherai",
       "title": "Director, Data Center Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8222576",
       "time": "2026-09-22T17:33:13.176Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Global Head of Events",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/60be7108-c540-4839-87a8-41f19a75c1ce",
+      "time": "2026-09-22T17:37:15.100Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4663,7 +4663,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2751,
+  "totalVerifiedInHistory": 2752,
   "portalBreakdown": {
     "iimjobs": 104,
     "naukri": 81,
@@ -4676,11 +4676,11 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 160,
-    "direct_portal_ashby": 432,
+    "direct_portal_ashby": 433,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-22T17:33:13.203Z",
-  "lastUpdated": "22/9/2026, 11:03:13 pm"
+  "lastSyncedAt": "2026-09-22T17:37:15.135Z",
+  "lastUpdated": "22/9/2026, 11:07:15 pm"
 }
