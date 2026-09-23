@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 19159,
-  "applicationsSubmitted": 12,
+  "jobsScanned": 19194,
+  "applicationsSubmitted": 2764,
   "appliedRolesList": [
-    {
-      "company": "Make",
-      "title": "Head of AI Transformation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/make/jobs/7987790003",
-      "time": "2026-09-14T10:43:46.720Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Make",
-      "title": "Head of Brand",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/make/jobs/7799520003",
-      "time": "2026-09-14T10:44:08.379Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Vercel",
-      "title": "Director, Commercial Sales, EMEA",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/5974107004",
-      "time": "2026-09-14T10:45:06.589Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Vercel",
       "title": "Marketing Operations Manager",
@@ -4003,53 +3979,28 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-23T02:01:47.744Z"
+      "company": "Databricks",
+      "title": "Program Manager, Public Sector (Commercial Legal)",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8802705002",
+      "time": "2026-09-23T02:32:46.756Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "New Law Business Model",
-      "title": "Marketing Automation SaaS + Services Line of Business Owner",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-23T02:01:47.748Z"
+      "company": "Databricks",
+      "title": "Field Technical Program/Project Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8598531002",
+      "time": "2026-09-23T02:32:49.778Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Branding n beyond",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-23T02:01:47.751Z"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-23T02:01:47.754Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-23T02:01:47.758Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-23T02:01:47.761Z"
-    },
-    {
-      "company": "iMerit Technology",
-      "title": "AI Image Evaluation Analyst",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-23T02:01:47.764Z"
+      "company": "Lyft",
+      "title": "Program Manager, AV Operational Excellence",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/lyft/jobs/8827588002",
+      "time": "2026-09-23T02:32:50.616Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4712,13 +4663,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2761,
+  "totalVerifiedInHistory": 2764,
   "portalBreakdown": {
     "iimjobs": 104,
     "naukri": 81,
     "weworkremotely": 12,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1359,
+    "direct_portal_greenhouse": 1362,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4730,6 +4681,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-23T01:59:42.391Z",
-  "lastUpdated": "23/9/2026, 7:29:42 am"
+  "lastSyncedAt": "2026-09-23T02:32:50.652Z",
+  "lastUpdated": "23/9/2026, 8:02:50 am"
 }

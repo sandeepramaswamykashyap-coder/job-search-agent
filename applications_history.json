@@ -22086,5 +22086,29 @@
     "url": "https://job-boards.greenhouse.io/stripe/jobs/8203216",
     "time": "2026-09-23T01:59:42.357Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Program Manager, Public Sector (Commercial Legal)",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8802705002",
+    "time": "2026-09-23T02:32:46.756Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Databricks",
+    "title": "Field Technical Program/Project Manager",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/databricks/jobs/8598531002",
+    "time": "2026-09-23T02:32:49.778Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Lyft",
+    "title": "Program Manager, AV Operational Excellence",
+    "portal": "direct_portal_greenhouse",
+    "url": "https://job-boards.greenhouse.io/lyft/jobs/8827588002",
+    "time": "2026-09-23T02:32:50.616Z",
+    "status": "SUBMITTED"
   }
 ]
