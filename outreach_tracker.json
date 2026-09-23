@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 85
   },
-  "lastUpdated": "2026-09-23T04:20:58.673Z",
+  "lastUpdated": "2026-09-23T05:17:22.318Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -158,7 +158,7 @@
       "company": "Resource Pro",
       "title": "Assistant Manager, SDU",
       "dispatchedAt": "2026-08-14T04:49:48.086Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
