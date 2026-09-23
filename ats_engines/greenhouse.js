@@ -166,16 +166,22 @@ async function handleSecurityCodeChallenge(page, company) {
     'input[id*="security_code"]', 'input[name*="security_code"]',
     'input[placeholder*="security code" i]', 'input[placeholder*="verification code" i]',
     'input[aria-label*="security code" i]', 'input[id*="verification_code"]',
-    'input[name*="verification_code"]', 'input[name*="code"]', 'input[id*="code"]'
+    'input[name*="verification_code"]', 'input[name*="code"]', 'input[id*="code"]',
+    'input[type="text"][maxlength="8"]', 'input[autocomplete="one-time-code"]',
+    '[data-qa*="security-code"] input', '[data-qa*="verification"] input',
+    'input[placeholder*="code" i]'
   ];
 
   for (const frame of [page, ...page.frames()]) {
+    const frameBody = await frame.textContent('body').catch(() => '') || '';
+    const hasSecurityChallenge = /security\s*code|verification\s*code|enter\s*(?:the)?\s*code/i.test(frameBody);
+
     for (const sel of codeSelectors) {
       try {
         const input = frame.locator(sel).first();
-        if (await input.isVisible({ timeout: 1500 }).catch(() => false)) {
+        if (await input.isVisible({ timeout: hasSecurityChallenge ? 2500 : 1000 }).catch(() => false)) {
           console.log(`[Greenhouse] 🔐 Security code challenge detected (${sel})! Reading code from Gmail...`);
-          const code = await fetchLatestSecurityCode(company || 'Greenhouse', 35);
+          const code = await fetchLatestSecurityCode(company || '', 35);
           if (code) {
             console.log(`[Greenhouse] 🔑 Entering security code "${code}" into application form...`);
             await input.fill(code);
@@ -186,12 +192,12 @@ async function handleSecurityCodeChallenge(page, company) {
               'button[type="submit"]', 'input[type="submit"]',
               'button:has-text("Submit Application")', 'button:has-text("Submit application")',
               'button:has-text("Submit")', 'button:has-text("Verify")', 'button:has-text("Continue")',
-              '#submit_app', '#submit-button'
+              '#submit_app', '#submit-button', '[data-qa="btn-submit-app"]'
             ];
 
             for (const s of submitSelectors) {
               const btn = frame.locator(s).first();
-              if (await btn.isVisible({ timeout: 1000 }).catch(() => false)) {
+              if (await btn.isVisible({ timeout: 1500 }).catch(() => false)) {
                 await btn.click({ force: true });
                 console.log(`[Greenhouse] 🚀 Clicked submit after entering code via: ${s}`);
                 await page.waitForTimeout(4000);

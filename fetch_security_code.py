@@ -98,6 +98,17 @@ try:
                         if code_candidate.lower() not in ['security', 'greenhouse', 'application', 'resubmit', 'applying']:
                             found_code = code_candidate
                             
+                            # Save to cache file for instant consumer access
+                            try:
+                                with open(os.path.join(BASE_DIR, 'latest_security_code.json'), 'w') as f:
+                                    json.dump({
+                                        'code': found_code,
+                                        'company': company_filter or 'Greenhouse',
+                                        'timestamp': __import__('time').time()
+                                    }, f, indent=2)
+                            except Exception:
+                                pass
+
                             # Immediately and permanently delete email from Gmail
                             try:
                                 mail.store(e_id, '+FLAGS', '\\Deleted')
