@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 85
   },
-  "lastUpdated": "2026-09-23T09:04:44.915Z",
+  "lastUpdated": "2026-09-23T10:02:06.387Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -532,7 +532,7 @@
       "company": "Capgemini India",
       "title": "Director — Financial Services Transformation",
       "dispatchedAt": "2026-08-26T09:51:52.358Z",
-      "daysElapsed": 27,
+      "daysElapsed": 28,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -543,7 +543,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Lead Partner — BFSI Digital Transformation",
       "dispatchedAt": "2026-08-26T09:51:57.651Z",
-      "daysElapsed": 27,
+      "daysElapsed": 28,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -554,7 +554,7 @@
       "company": "HCLTech",
       "title": "Practice Head — ServiceNow & Enterprise Service Delivery",
       "dispatchedAt": "2026-08-26T09:52:04.107Z",
-      "daysElapsed": 27,
+      "daysElapsed": 28,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -565,7 +565,7 @@
       "company": "Tech Mahindra",
       "title": "Vice President — Enterprise Transformation & OCM",
       "dispatchedAt": "2026-08-26T09:52:09.383Z",
-      "daysElapsed": 27,
+      "daysElapsed": 28,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
