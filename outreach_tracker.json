@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 85
   },
-  "lastUpdated": "2026-09-23T03:32:56.751Z",
+  "lastUpdated": "2026-09-23T04:20:58.673Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -576,7 +576,7 @@
       "company": "PwC",
       "title": "Partner — Business Transformation & Platform Delivery",
       "dispatchedAt": "2026-08-30T04:19:04.067Z",
-      "daysElapsed": 23,
+      "daysElapsed": 24,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -587,7 +587,7 @@
       "company": "Ernst & Young (EY)",
       "title": "Head of Executive Sourcing — Global Delivery Services",
       "dispatchedAt": "2026-08-30T04:19:15.474Z",
-      "daysElapsed": 23,
+      "daysElapsed": 24,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -598,7 +598,7 @@
       "company": "Wipro",
       "title": "Vice President — Cloud & Platform Transformation Business Unit",
       "dispatchedAt": "2026-08-30T04:19:50.795Z",
-      "daysElapsed": 23,
+      "daysElapsed": 24,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -609,7 +609,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Global Head — Enterprise Platform Solutions",
       "dispatchedAt": "2026-08-30T04:19:55.811Z",
-      "daysElapsed": 23,
+      "daysElapsed": 24,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -620,7 +620,7 @@
       "company": "LTIMindtree",
       "title": "Vice President — Enterprise Business Transformation",
       "dispatchedAt": "2026-08-30T04:20:00.890Z",
-      "daysElapsed": 23,
+      "daysElapsed": 24,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -631,7 +631,7 @@
       "company": "HCLTech",
       "title": "Senior Vice President — Digital Platform Transformation",
       "dispatchedAt": "2026-08-30T04:20:05.705Z",
-      "daysElapsed": 23,
+      "daysElapsed": 24,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -642,7 +642,7 @@
       "company": "Tech Mahindra",
       "title": "Senior Vice President — Cloud & ServiceNow Practice",
       "dispatchedAt": "2026-08-30T04:20:15.535Z",
-      "daysElapsed": 23,
+      "daysElapsed": 24,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -653,7 +653,7 @@
       "company": "PwC",
       "title": "Director — Executive & Leadership Recruitment",
       "dispatchedAt": "2026-09-15T04:04:52.487Z",
-      "daysElapsed": 7,
+      "daysElapsed": 8,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -664,7 +664,7 @@
       "company": "Morgan Stanley",
       "title": "Managing Director — Enterprise Operations & Technology Transformation",
       "dispatchedAt": "2026-09-15T04:05:26.639Z",
-      "daysElapsed": 7,
+      "daysElapsed": 8,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -675,7 +675,7 @@
       "company": "JPMorgan Chase",
       "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
       "dispatchedAt": "2026-09-15T04:05:35.902Z",
-      "daysElapsed": 7,
+      "daysElapsed": 8,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -686,7 +686,7 @@
       "company": "Infosys",
       "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
       "dispatchedAt": "2026-09-15T04:06:08.656Z",
-      "daysElapsed": 7,
+      "daysElapsed": 8,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
