@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 19934,
-  "applicationsSubmitted": 22,
+  "jobsScanned": 20121,
+  "applicationsSubmitted": 30,
   "appliedRolesList": [
-    {
-      "company": "Cloudflare",
-      "title": "Sales Director, Majors (TOLA)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/7983529",
-      "time": "2026-09-14T10:53:37.287Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Asana",
-      "title": "Head of Marketing Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/asana/jobs/8164553",
-      "time": "2026-09-14T11:05:03.148Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Engineering Manager, Core Automation (Platform)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8124224",
-      "time": "2026-09-14T11:06:10.565Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Principal Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7815133003",
-      "time": "2026-09-14T11:08:01.710Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "HR M&A Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8000779",
-      "time": "2026-09-14T11:08:01.875Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fastly",
-      "title": "Senior Program Manager, Network Infrastructure",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fastly/jobs/8174531",
-      "time": "2026-09-14T11:08:36.162Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Executive, Finance Transformation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208429007",
-      "time": "2026-09-14T11:09:20.339Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mongodb",
       "title": "Senior Director, Partner Specialists",
@@ -4003,53 +3947,116 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Southern Electronics (bangalore)",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-southern-electronics-bangalore-bengaluru-5-to-7-years-100726006243?src=directSearch&sid=17901471116193801&xp=4&px=1",
+      "time": "2026-09-23T07:05:32.510Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nous Infosystems",
+      "title": "Servicenow CMDB Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-cmdb-manager-nous-infosystems-bengaluru-10-to-20-years-230926009815?src=directSearch&sid=17901471699752778&xp=1&px=1",
+      "time": "2026-09-23T07:06:24.193Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Three Across",
+      "title": "DEX-SIAM Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-dex-siam-manager-3across-bengaluru-8-to-13-years-220926041612?src=directSearch&sid=17901471699752778&xp=2&px=1",
+      "time": "2026-09-23T07:06:35.768Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Everforth Quinnox",
+      "title": "ServiceNow Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-delivery-manager-everforth-quinnox-bengaluru-10-to-15-years-080926010369?src=directSearch&sid=17901471699752778&xp=4&px=1",
+      "time": "2026-09-23T07:06:47.361Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "HighRadius - Senior Manager - Revenue Accounting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1735035&pref=sp_prm",
+      "time": "2026-09-23T07:07:24.179Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Hexaware - Senior Manager - Outbound Sales Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=6&jobId=1735033&pref=sp_br",
+      "time": "2026-09-23T07:07:37.860Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Senior Associate - Equities Operations Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=4&jobId=1735044&pref=sp_br",
+      "time": "2026-09-23T07:08:13.954Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-23T05:25:09.136Z"
+      "time": "2026-09-23T07:09:29.545Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-23T05:25:09.147Z"
+      "time": "2026-09-23T07:09:29.553Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-23T05:25:09.153Z"
+      "time": "2026-09-23T07:09:29.558Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-23T05:25:09.157Z"
+      "time": "2026-09-23T07:09:29.562Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-23T05:25:09.162Z"
+      "time": "2026-09-23T07:09:29.567Z"
     },
     {
       "company": "Proxify",
       "title": "Senior QA Automation Engineer",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-23T05:25:09.166Z"
+      "time": "2026-09-23T07:09:29.571Z"
     },
     {
       "company": "iMerit Technology",
       "title": "AI Image Evaluation Analyst",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-23T05:25:09.171Z"
+      "time": "2026-09-23T07:09:29.575Z"
+    },
+    {
+      "company": "Squarespace",
+      "title": "Senior Staff Operations Manager, Office of the President (PED)",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/squarespace-senior-staff-operations-manager-office-of-the-president-ped",
+      "time": "2026-09-23T07:32:52.167Z"
     }
   ],
   "failures": [
@@ -4709,13 +4716,21 @@
       "region": "Japan, Turkey, Vietnam, Mexico, Norway, France",
       "portal": "workingnomads",
       "scannedAt": "2026-09-13T14:09:56.183Z"
+    },
+    {
+      "title": "Senior Staff Operations Manager, Office of the President (PED)",
+      "company": "Squarespace",
+      "link": "https://weworkremotely.com/remote-jobs/squarespace-senior-staff-operations-manager-office-of-the-president-ped",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-09-23T07:32:52.167Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2771,
+  "totalVerifiedInHistory": 2778,
   "portalBreakdown": {
-    "iimjobs": 105,
-    "naukri": 81,
+    "iimjobs": 108,
+    "naukri": 85,
     "weworkremotely": 12,
     "remoteok": 5,
     "direct_portal_greenhouse": 1365,
@@ -4730,6 +4745,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-23T05:24:39.230Z",
-  "lastUpdated": "23/9/2026, 10:54:39 am"
+  "lastSyncedAt": "2026-09-23T07:08:13.984Z",
+  "lastUpdated": "23/9/2026, 12:38:13 pm"
 }
