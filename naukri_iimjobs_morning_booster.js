@@ -3,7 +3,7 @@
  * 
  * Aggressive Daily Indian Job Market Driver:
  * 1. NAUKRI:
- *    - Logs in via persistent session / credentials
+ *    - Uses persistent browser profile (with pre-authenticated session)
  *    - Re-uploads cleaned, pristine Sandeep_Kashyap.pdf (CV Boost: Catapults profile to #1 in recruiter Resdex searches)
  *    - Applies to Senior Manager, Operations Manager, Transformation Lead, Program Manager roles in Bengaluru
  * 2. IIMJOBS:
@@ -21,24 +21,24 @@ const { runNaukriE2E } = require('./portal_drivers/naukri_e2e');
 const { runIIMJobsE2E } = require('./portal_drivers/iimjobs_e2e');
 const { syncToGitHub } = require('./git_auto_pusher');
 
-const SESSION_DIR = path.join(__dirname, '.browser_session_naukri');
+const SESSION_DIR = path.join(__dirname, '.browser_session_visible');
 const lockPath = path.join(SESSION_DIR, 'SingletonLock');
 if (fs.existsSync(lockPath)) {
   try { fs.unlinkSync(lockPath); } catch (_) {}
 }
 
 async function runMorningBooster(options = {}) {
-  const isHeaded = options.headed || process.argv.includes('--headed');
+  const isHeadless = process.argv.includes('--headless');
   console.log('\n======================================================================');
   console.log('🇮🇳 [MORNING BOOSTER] LAUNCHING AGGRESSIVE NAUKRI & IIMJOBS OPTIMIZATION');
   console.log(`Timestamp: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' })} IST`);
-  console.log(`Display Mode: ${isHeaded ? 'Visible (Headed)' : 'Background (Headless)'}`);
+  console.log(`Display Mode: ${isHeadless ? 'Background (Headless)' : 'Visible (Headed)'}`);
   console.log('======================================================================');
 
   let browserContext = null;
   try {
     browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
-      headless: !isHeaded,
+      headless: isHeadless,
       viewport: { width: 1366, height: 850 },
       userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
       args: [
