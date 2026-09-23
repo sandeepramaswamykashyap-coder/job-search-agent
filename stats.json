@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 20871,
-  "applicationsSubmitted": 2787,
+  "jobsScanned": 20879,
+  "applicationsSubmitted": 2789,
   "appliedRolesList": [
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager Product Operations, FCM Ops",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8110496",
-      "time": "2026-09-14T11:17:22.447Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Gusto",
-      "title": "AI Operations Program Manager, Benefits",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/7899871",
-      "time": "2026-09-14T11:19:23.742Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cloudflare",
       "title": "Chief of Staff to Chief Strategy Officer",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/change-management-manager-organizational-transformation-1718737?ref=sp&jobPos=8",
       "time": "2026-09-23T12:00:36.534Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations Specialist | Procurement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+      "time": "2026-09-23T16:58:25.093Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zapier",
+      "title": "Automation Strategist, Customer Success",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/zapier/45b2c110-f8e0-497a-914c-72fddf447ed0",
+      "time": "2026-09-23T17:06:47.361Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2787,
+  "totalVerifiedInHistory": 2789,
   "portalBreakdown": {
     "iimjobs": 113,
     "naukri": 87,
@@ -4684,11 +4684,11 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 162,
-    "direct_portal_ashby": 438,
+    "direct_portal_ashby": 440,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-23T14:30:57.826Z",
-  "lastUpdated": "23/9/2026, 8:00:57 pm"
+  "lastSyncedAt": "2026-09-23T17:16:42.236Z",
+  "lastUpdated": "23/9/2026, 10:46:42 pm"
 }
