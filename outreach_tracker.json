@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 85
   },
-  "lastUpdated": "2026-09-23T13:47:56.666Z",
+  "lastUpdated": "2026-09-23T14:44:05.845Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -81,7 +81,7 @@
       "company": "Target Enterprise",
       "title": "Head of UAT & Quality Governance",
       "dispatchedAt": "2026-07-26T14:30:29.614Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -92,7 +92,7 @@
       "company": "Target Enterprise (Verified Hiring)",
       "title": "Transformation Program Manager",
       "dispatchedAt": "2026-07-26T14:30:36.295Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -103,7 +103,7 @@
       "company": "Resource Pro",
       "title": "Service Delivery Manager, India - Only P&C Experience",
       "dispatchedAt": "2026-07-29T14:30:54.527Z",
-      "daysElapsed": 55,
+      "daysElapsed": 56,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -378,7 +378,7 @@
       "company": "IMC",
       "title": "Program Manager || Non IT Project Management || Bangalore",
       "dispatchedAt": "2026-08-20T14:28:14.514Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -697,7 +697,7 @@
       "company": "Freshworks",
       "title": "Head of Talent Acquisition - Leadership Hiring",
       "dispatchedAt": "2026-09-22T14:15:28.398Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -708,7 +708,7 @@
       "company": "Infosys BPM",
       "title": "Senior Vice President - Operations & Delivery",
       "dispatchedAt": "2026-09-22T14:16:38.999Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -719,7 +719,7 @@
       "company": "Zycus Infotech",
       "title": "Head of Global Talent Acquisition",
       "dispatchedAt": "2026-09-22T14:16:46.155Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -730,7 +730,7 @@
       "company": "Happiest Minds",
       "title": "Vice President - Digital Business Services",
       "dispatchedAt": "2026-09-22T14:16:52.543Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -741,7 +741,7 @@
       "company": "Walmart Global Tech",
       "title": "Director of Talent Acquisition - India",
       "dispatchedAt": "2026-09-22T14:16:59.461Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -755,7 +755,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sangram-guha-6ba27634/",
       "dispatchedAt": "2026-08-20T14:43:16.937Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
