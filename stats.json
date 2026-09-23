@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 20663,
-  "applicationsSubmitted": 32,
+  "jobsScanned": 20855,
+  "applicationsSubmitted": 33,
   "appliedRolesList": [
-    {
-      "company": "Coinbase",
-      "title": "Senior IT Automation Engineer",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8054055",
-      "time": "2026-09-14T11:11:40.561Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Figure",
       "title": "Site Operations Manager",
@@ -4003,53 +3995,61 @@
       "status": "SUBMITTED"
     },
     {
+      "company": "Monzo",
+      "title": "Senior Fraud Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8225843",
+      "time": "2026-09-23T11:24:13.845Z",
+      "status": "SUBMITTED"
+    },
+    {
       "company": "Spiralyze",
       "title": "Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-09-23T09:02:58.620Z"
+      "time": "2026-09-23T11:24:44.451Z"
     },
     {
       "company": "New Law Business Model",
       "title": "Marketing Automation SaaS + Services Line of Business Owner",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
-      "time": "2026-09-23T09:02:58.628Z"
+      "time": "2026-09-23T11:24:44.458Z"
     },
     {
       "company": "Branding n beyond",
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-branding-n-beyond-1131672",
-      "time": "2026-09-23T09:02:58.634Z"
+      "time": "2026-09-23T11:24:44.464Z"
     },
     {
       "company": "Dreem Health",
       "title": "Digital Workplace & Automation Specialist",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-09-23T09:02:58.639Z"
+      "time": "2026-09-23T11:24:44.469Z"
     },
     {
       "company": "Benchling",
       "title": "Solutions Delivery Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-09-23T09:02:58.643Z"
+      "time": "2026-09-23T11:24:44.473Z"
     },
     {
       "company": "Proxify",
       "title": "Senior QA Automation Engineer",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1843242/",
-      "time": "2026-09-23T09:02:58.648Z"
+      "time": "2026-09-23T11:24:44.477Z"
     },
     {
       "company": "iMerit Technology",
       "title": "AI Image Evaluation Analyst",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/1837431/",
-      "time": "2026-09-23T09:02:58.653Z"
+      "time": "2026-09-23T11:24:44.482Z"
     }
   ],
   "failures": [
@@ -4720,13 +4720,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2781,
+  "totalVerifiedInHistory": 2782,
   "portalBreakdown": {
     "iimjobs": 110,
     "naukri": 85,
     "weworkremotely": 13,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1365,
+    "direct_portal_greenhouse": 1366,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4738,6 +4738,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-23T09:02:07.446Z",
-  "lastUpdated": "23/9/2026, 2:32:07 pm"
+  "lastSyncedAt": "2026-09-23T11:24:13.888Z",
+  "lastUpdated": "23/9/2026, 4:54:13 pm"
 }
