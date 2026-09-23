@@ -148,9 +148,9 @@ async function generateCV() {
 
     <div class="section-title">Core Skills & Competencies</div>
     <div class="skills-text">
-      <strong>Transformation & Delivery:</strong> Business Transformation &bull; Intelligent Automation & Agentic AI &bull; Business Analysis & Requirements &bull; Program & Project Management &bull; Organizational Change Management (OCM) &bull; UAT Strategy & Execution &bull; Service Transition (BAU)<br>
-      <strong>AI Architecture & Engineering:</strong> Autonomous Multi-Agent Systems &bull; Workflow Automation &bull; Browser Automation (Playwright, Node.js) &bull; Enterprise ATS API Integration &bull; Real-Time 2FA & IMAP Security Solvers<br>
-      <strong>Operations & Governance:</strong> Operational & Service Excellence &bull; Governance, Risk & Controls &bull; KPI & SLA Service Performance Reporting &bull; Stakeholder Management &bull; JIRA &bull; Azure DevOps &bull; Agile Delivery
+      <strong>Transformation & Delivery:</strong> Business Transformation &bull; Program & Project Management &bull; Operations Transformation &bull; Organizational Change Management (OCM) &bull; UAT Strategy & Quality Governance &bull; Service Transition (BAU) &bull; Operating Model Design<br>
+      <strong>Digital & Intelligent Automation:</strong> Intelligent Automation &bull; Workflow Orchestration &bull; Agentic AI & Process Automation &bull; Process Re-engineering &bull; Business Analysis &bull; Enterprise Systems Integration<br>
+      <strong>Operations & Governance:</strong> Banking Operations &bull; Operational Excellence &bull; Governance, Risk & Controls &bull; KPI & SLA Performance Reporting &bull; Senior Stakeholder Management &bull; JIRA &bull; Azure DevOps &bull; Agile Delivery
     </div>
 
     <div class="section-title">Professional Experience & Technical Innovations</div>
@@ -169,11 +169,12 @@ async function generateCV() {
     </ul>
 
     <div class="job-header">
-      <div>Creator & Architect | Autonomous Executive Job Search Platform | <span class="job-company"><a href="https://github.com/sandeepramaswamykashyap-coder/job-search-agent" style="color: #0d47a1; text-decoration: none;">GitHub Open Source Project</a></span></div>
-      <div class="job-dates">2026</div>
+      <div>Lead | Enterprise Process Automation & Digital Transformation | <span class="job-company">Banking & Operations Initiatives</span></div>
+      <div class="job-dates">2023 to Present</div>
     </div>
     <ul>
-      <li>Architected and deployed an autonomous multi-agent platform orchestrating real-time job ingestion across 180+ enterprise ATS platforms (Greenhouse, Lever, SmartRecruiters, Workday), automated multi-step form completion, SSL IMAP 2FA solvers, and live executive reporting.</li>
+      <li>Architected end-to-end multi-agent workflow automation and digital document intelligence systems, integrating REST APIs, data pipelines, and automation frameworks to streamline operations and reporting.</li>
+      <li>Formulated governance frameworks, risk controls, and automated reconciliation audit trails, reducing operational risk and accelerating turnaround time across enterprise operational workflows.</li>
     </ul>
 
     <div class="job-header">
