@@ -1,45 +1,9 @@
 [
   {
-    "name": "Vikram Seth",
-    "email": "vikram.seth@servicenow.com",
-    "company": "ServiceNow",
-    "title": "Vice President — Global Delivery & Customer Outcomes",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Swati Khanna",
-    "email": "swati.khanna@servicenow.com",
-    "company": "ServiceNow",
-    "title": "Director of Talent Acquisition — Enterprise Solutions",
-    "persona": "recruiter",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Anand Mahalingam",
-    "email": "anand.mahalingam@deloitte.com",
-    "company": "Deloitte",
-    "title": "Partner & Practice Leader — ServiceNow HRSD & Digital Workplaces",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Neha Agarwal",
-    "email": "neha.agarwal@deloitte.com",
-    "company": "Deloitte",
-    "title": "Executive Talent Director — Enterprise Technology",
-    "persona": "recruiter",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
     "name": "Rajesh Nair",
     "email": "rajesh.nair@pwc.com",
     "company": "PwC",
-    "title": "Partner — Business Transformation & Platform Delivery",
+    "title": "Partner \u2014 Business Transformation & Platform Delivery",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -48,17 +12,8 @@
     "name": "Shweta Sen",
     "email": "shweta.sen@pwc.com",
     "company": "PwC",
-    "title": "Director — Executive & Leadership Recruitment",
+    "title": "Director \u2014 Executive & Leadership Recruitment",
     "persona": "recruiter",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Sanjay Verma",
-    "email": "sanjay.verma@ey.com",
-    "company": "Ernst & Young (EY)",
-    "title": "Partner — Digital Operations & Intelligent Transformation",
-    "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
   },
@@ -66,43 +21,7 @@
     "name": "Pooja Patel",
     "email": "pooja.patel@ey.com",
     "company": "Ernst & Young (EY)",
-    "title": "Head of Executive Sourcing — Global Delivery Services",
-    "persona": "recruiter",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Alok Gupta",
-    "email": "alok.gupta@kpmg.com",
-    "company": "KPMG",
-    "title": "Partner — Cloud Platforms & Enterprise Transformation",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Megha Sharma",
-    "email": "megha.sharma@kpmg.com",
-    "company": "KPMG",
-    "title": "Talent Acquisition Lead — Management Consulting",
-    "persona": "recruiter",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Pradeep Kumar",
-    "email": "pradeep.kumar@accenture.com",
-    "company": "Accenture",
-    "title": "Managing Director — Enterprise Platform Engineering & HRSD",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Smita Mishra",
-    "email": "smita.mishra@accenture.com",
-    "company": "Accenture",
-    "title": "Senior Talent Acquisition Manager — Leadership Hiring",
+    "title": "Head of Executive Sourcing \u2014 Global Delivery Services",
     "persona": "recruiter",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -111,7 +30,7 @@
     "name": "Rahul Mehta",
     "email": "rahul.mehta@morganstanley.com",
     "company": "Morgan Stanley",
-    "title": "Managing Director — Enterprise Operations & Technology Transformation",
+    "title": "Managing Director \u2014 Enterprise Operations & Technology Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -120,43 +39,7 @@
     "name": "Amitabh Das",
     "email": "amitabh.das@jpmorgan.com",
     "company": "JPMorgan Chase",
-    "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Tarun Kapoor",
-    "email": "tarun.kapoor@barclays.com",
-    "company": "Barclays",
-    "title": "Head of Enterprise Transformation & Global Platforms",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Deepak Menon",
-    "email": "deepak.menon@hsbc.com",
-    "company": "HSBC",
-    "title": "Global Practice Leader — Platform Modernization & Service Delivery",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Arvind Joshi",
-    "email": "arvind.joshi@capgemini.com",
-    "company": "Capgemini",
-    "title": "Vice President & Practice Leader — ServiceNow & Enterprise Apps",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Sunil Bhatia",
-    "email": "sunil.bhatia@cognizant.com",
-    "company": "Cognizant",
-    "title": "Vice President — Enterprise Cloud & ServiceNow Delivery",
+    "title": "Managing Director & Global Head \u2014 Core Service Delivery & Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -165,7 +48,7 @@
     "name": "Manoj Singh",
     "email": "manoj.singh@infosys.com",
     "company": "Infosys",
-    "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
+    "title": "Senior Vice President & Head \u2014 Digital Experience & Cloud Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -174,7 +57,7 @@
     "name": "Ramesh Iyer",
     "email": "ramesh.iyer@wipro.com",
     "company": "Wipro",
-    "title": "Vice President — Cloud & Platform Transformation Business Unit",
+    "title": "Vice President \u2014 Cloud & Platform Transformation Business Unit",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -183,7 +66,7 @@
     "name": "Vandana Kulkarni",
     "email": "vandana.kulkarni@tcs.com",
     "company": "Tata Consultancy Services (TCS)",
-    "title": "Global Head — Enterprise Platform Solutions",
+    "title": "Global Head \u2014 Enterprise Platform Solutions",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -192,7 +75,7 @@
     "name": "Sumit Rastogi",
     "email": "sumit.rastogi@ltimindtree.com",
     "company": "LTIMindtree",
-    "title": "Vice President — Enterprise Business Transformation",
+    "title": "Vice President \u2014 Enterprise Business Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -201,16 +84,7 @@
     "name": "Ajay Saxena",
     "email": "ajay.saxena@hcl.com",
     "company": "HCLTech",
-    "title": "Senior Vice President — Digital Platform Transformation",
-    "persona": "hiring_manager",
-    "portal": "direct",
-    "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Nitin Chawla",
-    "email": "nitin.chawla@genpact.com",
-    "company": "Genpact",
-    "title": "Global Leader — Intelligent Operations & Service Management",
+    "title": "Senior Vice President \u2014 Digital Platform Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -219,46 +93,10 @@
     "name": "Vivek Pandey",
     "email": "vivek.pandey@techmahindra.com",
     "company": "Tech Mahindra",
-    "title": "Senior Vice President — Cloud & ServiceNow Practice",
+    "title": "Senior Vice President \u2014 Cloud & ServiceNow Practice",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
-  },
-  {
-    "name": "Arun Kumar",
-    "email": "arun.kumar@servicenow.com",
-    "company": "ServiceNow",
-    "title": "Director of Talent Acquisition",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:48.331Z"
-  },
-  {
-    "name": "Pooja Sharma",
-    "email": "pooja.sharma@servicenow.com",
-    "company": "ServiceNow",
-    "title": "Lead Executive Recruiter - APJ",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:48.488Z"
-  },
-  {
-    "name": "Rohit Verma",
-    "email": "rohit.verma@databricks.com",
-    "company": "Databricks",
-    "title": "Senior Talent Acquisition Partner - India",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:48.574Z"
-  },
-  {
-    "name": "Neha Gupta",
-    "email": "neha.gupta@stripe.com",
-    "company": "Stripe",
-    "title": "Recruiting Lead - APAC Delivery",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:48.635Z"
   },
   {
     "name": "Ananya Roy",
@@ -268,87 +106,6 @@
     "persona": "recruiter",
     "portal": "direct_directory",
     "extractedAt": "2026-09-22T14:14:48.856Z"
-  },
-  {
-    "name": "Karthik Raman",
-    "email": "karthik.raman@uipath.com",
-    "company": "UiPath",
-    "title": "Senior Director - Global Talent Acquisition",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:49.021Z"
-  },
-  {
-    "name": "Siddharth Nair",
-    "email": "siddharth.nair@celonis.com",
-    "company": "Celonis",
-    "title": "Talent Acquisition Partner - Process Mining",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.070Z"
-  },
-  {
-    "name": "Deepika Iyer",
-    "email": "deepika.iyer@okta.com",
-    "company": "Okta",
-    "title": "Senior Lead Recruiter - APJ",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.103Z"
-  },
-  {
-    "name": "Vikas Rao",
-    "email": "vikas.rao@zscaler.com",
-    "company": "Zscaler",
-    "title": "Director - Global Executive Recruiting",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.135Z"
-  },
-  {
-    "name": "Sowmya Murthy",
-    "email": "sowmya.murthy@tanium.com",
-    "company": "Tanium",
-    "title": "Senior Technical Recruiter - India",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.167Z"
-  },
-  {
-    "name": "Gaurav Bhatia",
-    "email": "gaurav.bhatia@reddit.com",
-    "company": "Reddit",
-    "title": "Lead Recruiter - Emerging Markets",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.203Z"
-  },
-  {
-    "name": "Shweta Kulkarni",
-    "email": "shweta.kulkarni@gusto.com",
-    "company": "Gusto",
-    "title": "Executive Talent Acquisition Lead",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.340Z"
-  },
-  {
-    "name": "Megha Sen",
-    "email": "megha.sen@thoughtworks.com",
-    "company": "ThoughtWorks",
-    "title": "Lead Recruiter - Leadership & Program Management",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.382Z"
-  },
-  {
-    "name": "Rajesh Menon",
-    "email": "rajesh.menon@accenture.com",
-    "company": "Accenture Strategy",
-    "title": "Managing Director - Technology Transformation",
-    "persona": "hiring_manager",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:50.432Z"
   },
   {
     "name": "Priya Sundaram",
@@ -385,23 +142,5 @@
     "persona": "recruiter",
     "portal": "direct_directory",
     "extractedAt": "2026-09-22T14:14:50.968Z"
-  },
-  {
-    "name": "Archana Patil",
-    "email": "archana.patil@brillio.com",
-    "company": "Brillio",
-    "title": "Global Head of Talent Acquisition",
-    "persona": "recruiter",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:51.131Z"
-  },
-  {
-    "name": "Manish Chawla",
-    "email": "manish.chawla@ericsson.com",
-    "company": "Ericsson",
-    "title": "Head of People & Operations - India",
-    "persona": "hiring_manager",
-    "portal": "direct_directory",
-    "extractedAt": "2026-09-22T14:14:51.470Z"
   }
 ]

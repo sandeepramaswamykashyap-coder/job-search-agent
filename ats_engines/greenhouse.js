@@ -158,14 +158,15 @@ async function apply(page, job) {
 
 /**
  * Handles Greenhouse email security code / OTP verification:
- * ABORT & SKIP immediately to guarantee candidate email inbox receives ZERO security code spam.
+ * Automatically reads the security code from Gmail via IMAP, permanently deletes
+ * the Greenhouse email so the inbox stays clean, enters the code, and submits the application.
  */
 async function handleSecurityCodeChallenge(page, company) {
   const codeSelectors = [
     'input[id*="security_code"]', 'input[name*="security_code"]',
     'input[placeholder*="security code" i]', 'input[placeholder*="verification code" i]',
     'input[aria-label*="security code" i]', 'input[id*="verification_code"]',
-    'input[name*="verification_code"]'
+    'input[name*="verification_code"]', 'input[name*="code"]', 'input[id*="code"]'
   ];
 
   for (const frame of [page, ...page.frames()]) {
@@ -173,7 +174,33 @@ async function handleSecurityCodeChallenge(page, company) {
       try {
         const input = frame.locator(sel).first();
         if (await input.isVisible({ timeout: 1500 }).catch(() => false)) {
-          console.log(`[Greenhouse] 🚫 Security code challenge detected (${sel})! Skipping application to guarantee ZERO email notification noise.`);
+          console.log(`[Greenhouse] 🔐 Security code challenge detected (${sel})! Reading code from Gmail...`);
+          const code = await fetchLatestSecurityCode(company || 'Greenhouse', 35);
+          if (code) {
+            console.log(`[Greenhouse] 🔑 Entering security code "${code}" into application form...`);
+            await input.fill(code);
+            await page.waitForTimeout(1200);
+
+            // Click submit / verify
+            const submitSelectors = [
+              'button[type="submit"]', 'input[type="submit"]',
+              'button:has-text("Submit Application")', 'button:has-text("Submit application")',
+              'button:has-text("Submit")', 'button:has-text("Verify")', 'button:has-text("Continue")',
+              '#submit_app', '#submit-button'
+            ];
+
+            for (const s of submitSelectors) {
+              const btn = frame.locator(s).first();
+              if (await btn.isVisible({ timeout: 1000 }).catch(() => false)) {
+                await btn.click({ force: true });
+                console.log(`[Greenhouse] 🚀 Clicked submit after entering code via: ${s}`);
+                await page.waitForTimeout(4000);
+                return true;
+              }
+            }
+          } else {
+            console.warn(`[Greenhouse] ⚠️ Could not fetch security code within timeout window.`);
+          }
           return false;
         }
       } catch (_) {}

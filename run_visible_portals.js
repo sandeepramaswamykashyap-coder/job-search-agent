@@ -396,6 +396,12 @@ async function main() {
         console.warn(`[VisibleRunner] Lead miner step notice: ${e.message}`);
       }
 
+      // 0b. Purge Undelivered / Bounced Cold Emails & Clean Mailbox
+      try {
+        const { purgeUndeliveredEmails } = require('./undelivered_email_cleaner');
+        await purgeUndeliveredEmails();
+      } catch (e) {}
+
       // 1. Naukri Profile Booster & Easy Apply
       try {
         page = await ensureActivePage();

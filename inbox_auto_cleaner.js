@@ -15,14 +15,15 @@ import imaplib
 USER = 'sandeepramaswamykashyap@gmail.com'
 PASS = 'lpxgkynvthwhkipt'
 
-PATTERNS_FROM = ['greenhouse-mail.io', 'greenhouse.io', 'lever.co', 'ashbyhq.com', 'smartrecruiters.com', 'myworkdayjobs.com', 'mg.gitlab.com', 'stripe.com']
-PATTERNS_SUBJ = ['Security code', 'verification code', 'Thank you for applying', 'Application received', 'Thanks for applying', 'Your application to', 'We have received your application']
+const PATTERNS_FROM = ['greenhouse-mail.io', 'greenhouse.io', 'lever.co', 'ashbyhq.com', 'smartrecruiters.com', 'myworkdayjobs.com', 'mg.gitlab.com', 'stripe.com', 'mailer-daemon', 'postmaster']
+PATTERNS_SUBJ = ['Security code', 'verification code', 'Thank you for applying', 'Application received', 'Thanks for applying', 'Your application to', 'We have received your application', 'Delivery Status Notification', 'Undeliverable:']
 
 try:
     mail = imaplib.IMAP4_SSL('imap.gmail.com')
     mail.login(USER, PASS)
     mail.select('inbox')
     status, messages = mail.search(None, 'ALL')
+    has_bounce = False
     if messages and messages[0]:
         ids = messages[0].split()
         cleaned = 0
@@ -32,26 +33,36 @@ try:
                 continue
             header = data[0][1].decode('utf-8', errors='ignore').lower()
             if any(p.lower() in header for p in PATTERNS_FROM) or any(s.lower() in header for s in PATTERNS_SUBJ):
-                mail.store(e_id, '+FLAGS', '\\\\Seen')
+                if 'mailer-daemon' in header or 'delivery status' in header or 'undeliverable' in header:
+                    has_bounce = True
+                mail.store(e_id, '+FLAGS', '\\\\Deleted')
                 mail.store(e_id, '-X-GM-LABELS', '\\\\Inbox')
                 mail.store(e_id, '+X-GM-LABELS', '\\\\Trash')
                 cleaned += 1
         if cleaned > 0:
             mail.expunge()
-            print(f'CLEANED:{cleaned}')
+            print(f'CLEANED:{cleaned}:BOUNCE:{1 if has_bounce else 0}')
     mail.logout()
 except Exception:
     pass
 "`;
 
+const { purgeUndeliveredEmails } = require('./undelivered_email_cleaner');
+
 async function loop() {
-  console.log('[InboxCleaner] 🛡️ Real-Time Background Inbox Noise Suppressor active.');
+  console.log('[InboxCleaner] 🛡️ Real-Time Background Inbox Noise Suppressor active (Auto-deleting Greenhouse codes & bounced emails).');
   while (true) {
     try {
       const { stdout } = await execPromise(CLEAN_CMD);
       if (stdout && stdout.includes('CLEANED:')) {
-        const count = stdout.split('CLEANED:')[1].trim();
-        console.log(`[InboxCleaner] 🧹 Silently intercepted & moved ${count} ATS notification/security emails to Trash.`);
+        const parts = stdout.split(':');
+        const count = parts[1] || '1';
+        const hasBounce = stdout.includes('BOUNCE:1');
+        console.log(`[InboxCleaner] 🧹 Intercepted & purged ${count} ATS security/notification emails.`);
+        if (hasBounce) {
+          console.log('[InboxCleaner] ⚠️ Delivery failure notice detected! Triggering undelivered email purge...');
+          await purgeUndeliveredEmails();
+        }
       }
     } catch (_) {}
     await new Promise(r => setTimeout(r, 15000));
