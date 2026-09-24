@@ -405,6 +405,8 @@ async function processOutreachQueue() {
       console.error(`[Outreach] ❌ Failed to send email to ${lead.email}: ${err.message}`);
       // Auto-blacklist email on bounce/SMTP rejection
     }
+  }
+
   try {
     const { purgeUndeliveredEmails } = require('./undelivered_email_cleaner');
     await purgeUndeliveredEmails();

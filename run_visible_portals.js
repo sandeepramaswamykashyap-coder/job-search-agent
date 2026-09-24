@@ -316,12 +316,14 @@ async function runVisibleCorporateGrind(page, context) {
 
   const matched = jobs.filter(j => {
     const t = (j.title || '').toLowerCase();
+    const loc = (j.location || '').toLowerCase();
     const isSenior = SENIOR_KEYWORDS.some(k => t.includes(k)) && !/intern|junior|graduate/i.test(t);
+    const isIndiaOrRemote = !loc || /india|bengaluru|bangalore|remote|anywhere|flexible/i.test(loc) && !/san francisco|new york|california|london|tokyo|berlin|sydney|seattle|austin|toronto/i.test(loc);
     const key = `${(j.company || '').toLowerCase().trim()}::${(j.title || '').toLowerCase().trim()}`;
-    return isSenior && !appliedKeys.has(key);
+    return isSenior && isIndiaOrRemote && !appliedKeys.has(key);
   });
 
-  console.log(`[DirectCorporate] ${matched.length} fresh unapplied senior leadership openings queued for visible automation.`);
+  console.log(`[DirectCorporate] ${matched.length} fresh unapplied senior leadership openings in India/Remote queued.`);
 
   for (const job of matched.slice(0, 5)) {
     console.log(`\n[VisibleApply] 🖥️ Processing: "${job.title}" @ ${job.company} (${job.atsType})`);
