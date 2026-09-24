@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20879,
-  "applicationsSubmitted": 2797,
+  "applicationsSubmitted": 2801,
   "appliedRolesList": [
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8154983",
-      "time": "2026-09-14T11:29:41.988Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Figma",
-      "title": "Senior Analyst, Revenue Transformation",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/6180170004",
-      "time": "2026-09-14T11:29:48.451Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "N26",
-      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/n26/jobs/8028183",
-      "time": "2026-09-14T11:35:00.021Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tavily",
-      "title": "Senior Product Manager, Agentic Search",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tavily/jobs/4845644101",
-      "time": "2026-09-14T11:35:00.705Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Transformation Architect - NEUR",
@@ -4001,6 +3969,38 @@
       "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8212368",
       "time": "2026-09-24T01:39:16.156Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Visteon",
+      "title": "Sr. Manager AI & Intelligent Automation (SW Lifecycle)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-manager-ai-intelligent-automation-sw-lifecycle-visteon-automotive-india-private-limited-bengaluru-14-to-20-years-270726504623?src=directSearch&sid=17902188231504383&xp=1&px=1",
+      "time": "2026-09-24T03:00:42.664Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Marketing Automation Manager, AI Journey",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/okta/jobs/8106012",
+      "time": "2026-09-24T03:03:36.626Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Credit Operations Manager",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8213951",
+      "time": "2026-09-24T03:32:26.495Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Credit Operations Manager",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8213951",
+      "time": "2026-09-24T03:32:26.694Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,24 +4671,24 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2797,
+  "totalVerifiedInHistory": 2801,
   "portalBreakdown": {
     "iimjobs": 116,
-    "naukri": 88,
+    "naukri": 89,
     "weworkremotely": 13,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1369,
+    "direct_portal_greenhouse": 1371,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 163,
+    "greenhouse": 164,
     "direct_portal_ashby": 440,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T02:30:58.009Z",
-  "lastUpdated": "24/9/2026, 8:00:58 am"
+  "lastSyncedAt": "2026-09-24T03:32:26.731Z",
+  "lastUpdated": "24/9/2026, 9:02:26 am"
 }
