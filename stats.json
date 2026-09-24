@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2820,
+  "applicationsSubmitted": 2823,
   "appliedRolesList": [
-    {
-      "company": "Tanium",
-      "title": "Director of Strategic Accounts - Local Governments (West Japan)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8118779",
-      "time": "2026-09-14T12:37:55.147Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior CS Enablement Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5203722007",
-      "time": "2026-09-14T12:38:00.382Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Enablement Program Manager, Support Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8128764",
-      "time": "2026-09-14T12:55:21.289Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cloudflare",
       "title": "Senior Director, R&D HR Business Partnering",
@@ -4001,6 +3977,30 @@
       "url": "https://job-boards.greenhouse.io/toast/jobs/8054004",
       "time": "2026-09-24T17:42:56.077Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Lead Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-lead-technical-program-manager-1735460?ref=sp_br&jobPos=3",
+      "time": "2026-09-24T18:38:21.227Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Cluster Head - Operations - API & Formulation Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cluster-head-operations-api-and-formulation-manufacturing-1735291?ref=sp_prm&jobPos=2",
+      "time": "2026-09-24T18:38:35.488Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Senior Associate - Tech Risk & Control - Technology Regulatory",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-senior-associate-tech-risk-and-control-technology-regulatory-change-management-1735464?ref=sp_br&jobPos=1",
+      "time": "2026-09-24T18:38:55.594Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2820,
+  "totalVerifiedInHistory": 2823,
   "portalBreakdown": {
-    "iimjobs": 124,
+    "iimjobs": 127,
     "naukri": 90,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,6 +4689,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T17:42:56.111Z",
-  "lastUpdated": "24/9/2026, 11:12:56 pm"
+  "lastSyncedAt": "2026-09-24T18:38:55.622Z",
+  "lastUpdated": "25/9/2026, 12:08:55 am"
 }
