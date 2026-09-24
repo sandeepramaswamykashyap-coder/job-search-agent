@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2811,
+  "applicationsSubmitted": 2814,
   "appliedRolesList": [
-    {
-      "company": "Zscaler",
-      "title": "Senior Director, Sales Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5230975007",
-      "time": "2026-09-14T12:16:38.257Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Engineering Manager - Agentic Service Platform",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8510921002",
-      "time": "2026-09-14T12:17:55.506Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Product Marketing Manager, Lakewatch & Agentic Apps",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8493857002",
-      "time": "2026-09-14T12:22:51.278Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Stripe",
       "title": "Program Manager, Executive Experiences",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1735370&pref=sp_prm",
       "time": "2026-09-24T06:49:03.210Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Corporate Treasury",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=1&jobId=1735484&pref=sp_prm",
+      "time": "2026-09-24T08:43:20.398Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - Global Mobility Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=2&jobId=1735472&pref=sp_prm",
+      "time": "2026-09-24T08:43:34.072Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Tech Risk & Controls Lead - Technology Regulatory Change Manag",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=1&jobId=1735462&pref=sp_br",
+      "time": "2026-09-24T08:44:23.140Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2811,
+  "totalVerifiedInHistory": 2814,
   "portalBreakdown": {
-    "iimjobs": 119,
+    "iimjobs": 122,
     "naukri": 90,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,6 +4689,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T07:09:52.902Z",
-  "lastUpdated": "24/9/2026, 12:39:52 pm"
+  "lastSyncedAt": "2026-09-24T08:44:23.182Z",
+  "lastUpdated": "24/9/2026, 2:14:23 pm"
 }
