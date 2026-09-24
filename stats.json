@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20879,
-  "applicationsSubmitted": 2801,
+  "applicationsSubmitted": 2802,
   "appliedRolesList": [
-    {
-      "company": "Zscaler",
-      "title": "Transformation Architect - NEUR",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5193810007",
-      "time": "2026-09-14T11:35:09.331Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Gusto",
       "title": "Head of Risk and Money Services",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/stripe/jobs/8213951",
       "time": "2026-09-24T03:32:26.694Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Swiggy - Senior Manager - Travel & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/swiggy-senior-manager-travel-and-operations-1735296?ref=sp_br&jobPos=3",
+      "time": "2026-09-24T03:57:49.018Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2801,
+  "totalVerifiedInHistory": 2802,
   "portalBreakdown": {
-    "iimjobs": 116,
+    "iimjobs": 117,
     "naukri": 89,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,6 +4689,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T03:32:26.731Z",
-  "lastUpdated": "24/9/2026, 9:02:26 am"
+  "lastSyncedAt": "2026-09-24T03:57:49.049Z",
+  "lastUpdated": "24/9/2026, 9:27:49 am"
 }
