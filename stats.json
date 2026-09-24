@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2815,
+  "applicationsSubmitted": 2816,
   "appliedRolesList": [
-    {
-      "company": "Zscaler",
-      "title": "Director of Data Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5217166007",
-      "time": "2026-09-14T12:23:52.696Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Togetherai",
       "title": "Director of Technical Accounting",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/job/1735502/screening?ref=sp_br&jobPos=4&pref=sp_br",
       "time": "2026-09-24T09:22:46.468Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "AB InBev - Senior Manager - Commercial Planning",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ab-inbev-senior-manager-commercial-planning-1735530?ref=sp_br_prm&jobPos=5",
+      "time": "2026-09-24T11:11:54.126Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2815,
+  "totalVerifiedInHistory": 2816,
   "portalBreakdown": {
-    "iimjobs": 123,
+    "iimjobs": 124,
     "naukri": 90,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,6 +4689,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T09:22:46.526Z",
-  "lastUpdated": "24/9/2026, 2:52:46 pm"
+  "lastSyncedAt": "2026-09-24T11:11:54.161Z",
+  "lastUpdated": "24/9/2026, 4:41:54 pm"
 }
