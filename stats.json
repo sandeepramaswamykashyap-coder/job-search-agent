@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20879,
-  "applicationsSubmitted": 2796,
+  "applicationsSubmitted": 2797,
   "appliedRolesList": [
-    {
-      "company": "Mongodb",
-      "title": "Senior Director, HR Business Partnering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/7858876",
-      "time": "2026-09-14T11:25:23.366Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Coinbase",
       "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/payoneer/jobs/8067187",
       "time": "2026-09-24T00:21:18.806Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Project Manager, Professional Services",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8212368",
+      "time": "2026-09-24T01:39:16.156Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,13 +4671,13 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2796,
+  "totalVerifiedInHistory": 2797,
   "portalBreakdown": {
     "iimjobs": 116,
     "naukri": 88,
     "weworkremotely": 13,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1368,
+    "direct_portal_greenhouse": 1369,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
@@ -4689,6 +4689,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T00:21:18.835Z",
-  "lastUpdated": "24/9/2026, 5:51:18 am"
+  "lastSyncedAt": "2026-09-24T01:39:16.187Z",
+  "lastUpdated": "24/9/2026, 7:09:16 am"
 }
