@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 20879,
-  "applicationsSubmitted": 2808,
+  "jobsScanned": 20887,
+  "applicationsSubmitted": 2811,
   "appliedRolesList": [
-    {
-      "company": "Vercel",
-      "title": "Head of Field Engineering Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/5979111004",
-      "time": "2026-09-14T12:01:40.494Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Growth Operations Manager - Temporary Position",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8067187",
-      "time": "2026-09-14T12:06:29.863Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Manager, Strategy & Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8482368002",
-      "time": "2026-09-14T12:07:43.904Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Senior Director, Sales Engineering",
@@ -4001,6 +3977,30 @@
       "url": "https://jobs.ashbyhq.com/ramp/baf0a4d2-e07e-4f76-af85-d85c91f479a4",
       "time": "2026-09-24T06:39:52.243Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "time": "2026-09-24T06:48:01.422Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Non-Tech Talent",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/212292c2-be87-4b1b-8074-20e3c9e1b627",
+      "time": "2026-09-24T06:48:33.547Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Conduent - Senior Manager - Business Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1735370&pref=sp_prm",
+      "time": "2026-09-24T06:49:03.210Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2808,
+  "totalVerifiedInHistory": 2811,
   "portalBreakdown": {
-    "iimjobs": 118,
+    "iimjobs": 119,
     "naukri": 90,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4684,11 +4684,11 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 164,
-    "direct_portal_ashby": 444,
+    "direct_portal_ashby": 446,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T06:39:52.279Z",
-  "lastUpdated": "24/9/2026, 12:09:52 pm"
+  "lastSyncedAt": "2026-09-24T06:58:36.100Z",
+  "lastUpdated": "24/9/2026, 12:28:36 pm"
 }
