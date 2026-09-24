@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 85
   },
-  "lastUpdated": "2026-09-24T14:05:15.536Z",
+  "lastUpdated": "2026-09-24T17:00:11.983Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -81,7 +81,7 @@
       "company": "Target Enterprise",
       "title": "Head of UAT & Quality Governance",
       "dispatchedAt": "2026-07-26T14:30:29.614Z",
-      "daysElapsed": 59,
+      "daysElapsed": 60,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -92,7 +92,7 @@
       "company": "Target Enterprise (Verified Hiring)",
       "title": "Transformation Program Manager",
       "dispatchedAt": "2026-07-26T14:30:36.295Z",
-      "daysElapsed": 59,
+      "daysElapsed": 60,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -103,7 +103,7 @@
       "company": "Resource Pro",
       "title": "Service Delivery Manager, India - Only P&C Experience",
       "dispatchedAt": "2026-07-29T14:30:54.527Z",
-      "daysElapsed": 56,
+      "daysElapsed": 57,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -125,7 +125,7 @@
       "company": "Visara Human Capital Services",
       "title": "Technical Program Manager Data Analytics",
       "dispatchedAt": "2026-08-10T15:19:13.002Z",
-      "daysElapsed": 44,
+      "daysElapsed": 45,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -378,7 +378,7 @@
       "company": "IMC",
       "title": "Program Manager || Non IT Project Management || Bangalore",
       "dispatchedAt": "2026-08-20T14:28:14.514Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -697,7 +697,7 @@
       "company": "Freshworks",
       "title": "Head of Talent Acquisition - Leadership Hiring",
       "dispatchedAt": "2026-09-22T14:15:28.398Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -708,7 +708,7 @@
       "company": "Infosys BPM",
       "title": "Senior Vice President - Operations & Delivery",
       "dispatchedAt": "2026-09-22T14:16:38.999Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -719,7 +719,7 @@
       "company": "Zycus Infotech",
       "title": "Head of Global Talent Acquisition",
       "dispatchedAt": "2026-09-22T14:16:46.155Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -730,7 +730,7 @@
       "company": "Happiest Minds",
       "title": "Vice President - Digital Business Services",
       "dispatchedAt": "2026-09-22T14:16:52.543Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -741,7 +741,7 @@
       "company": "Walmart Global Tech",
       "title": "Director of Talent Acquisition - India",
       "dispatchedAt": "2026-09-22T14:16:59.461Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -755,7 +755,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sangram-guha-6ba27634/",
       "dispatchedAt": "2026-08-20T14:43:16.937Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -767,7 +767,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/mohammad-shafeen-baba-779415175/",
       "dispatchedAt": "2026-08-20T14:44:37.398Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -779,7 +779,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sunil-kumar-katthula-712173b0/",
       "dispatchedAt": "2026-08-20T14:46:02.968Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -791,7 +791,7 @@
       "title": "Regional Director - Bengaluru at Sunstone",
       "profileUrl": "https://www.linkedin.com/in/devashish-pande-64028487/",
       "dispatchedAt": "2026-08-20T15:55:51.354Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -803,7 +803,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/preetesh19/",
       "dispatchedAt": "2026-08-20T15:57:51.145Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -815,7 +815,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/fouziakumar/",
       "dispatchedAt": "2026-08-20T16:01:10.113Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -827,7 +827,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/ramu-p-563906b/",
       "dispatchedAt": "2026-08-20T16:03:22.444Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -839,7 +839,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/pavan-kumar-majji-775a6570/",
       "dispatchedAt": "2026-08-20T16:04:28.654Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -851,7 +851,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/shreeshkatti/",
       "dispatchedAt": "2026-08-20T16:06:40.969Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -863,7 +863,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/curiousrachelmathew/",
       "dispatchedAt": "2026-08-20T16:09:58.257Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -875,7 +875,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/kumargouravdakhinray/",
       "dispatchedAt": "2026-08-20T16:12:10.446Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -887,7 +887,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/dvenkateshmurthy/",
       "dispatchedAt": "2026-08-20T16:14:21.417Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -899,7 +899,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/subhra-chakraborty-08422161/",
       "dispatchedAt": "2026-08-20T16:16:34.031Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -911,7 +911,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sushant-kumar-8b23a2225/",
       "dispatchedAt": "2026-08-20T16:17:39.749Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -923,7 +923,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nancy-paul-527140155/",
       "dispatchedAt": "2026-08-20T16:20:56.653Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -935,7 +935,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/rathore-lokendra/",
       "dispatchedAt": "2026-08-20T16:23:07.998Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -947,7 +947,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/gopinath-dakshinamurthy-58b39a16/",
       "dispatchedAt": "2026-08-20T16:26:26.529Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -959,7 +959,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nitesh-jain-6698762b/",
       "dispatchedAt": "2026-08-20T16:28:39.343Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -971,7 +971,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/praveen-r-211a1a12a/",
       "dispatchedAt": "2026-08-20T16:31:56.789Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -983,7 +983,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nikita-srivastava-5b328b65/",
       "dispatchedAt": "2026-08-20T16:35:15.296Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -995,7 +995,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sanchari-chattaraj/",
       "dispatchedAt": "2026-08-20T16:38:34.282Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1007,7 +1007,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/isaacmasood/",
       "dispatchedAt": "2026-08-20T16:40:46.459Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1019,7 +1019,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/venkatesh-n-t-28bb5b2b/",
       "dispatchedAt": "2026-08-20T16:45:15.478Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
