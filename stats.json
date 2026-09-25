@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2830,
+  "applicationsSubmitted": 2831,
   "appliedRolesList": [
-    {
-      "company": "Payoneer",
-      "title": "Automation Engineer",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8185468",
-      "time": "2026-09-14T14:59:07.552Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Samsara",
       "title": "Regional Sales Director, Strategic Enterprise - UK",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-acn-gn-song-c-s-commerce-ai-agentic-senior-manager-accenture-solutions-pvt-ltd-bengaluru-10-to-12-years-110826935035?src=directSearch&sid=1790313382588918&xp=5&px=1",
       "time": "2026-09-25T05:16:55.170Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cargill",
+      "title": "Plant Operations Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-plant-operations-director-cargill-business-services-india-private-limited-bengaluru-13-to-16-years-160926940106?src=directSearch&sid=17903197815243970&xp=3&px=1",
+      "time": "2026-09-25T07:03:41.695Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2830,
+  "totalVerifiedInHistory": 2831,
   "portalBreakdown": {
     "iimjobs": 127,
-    "naukri": 93,
+    "naukri": 94,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4689,6 +4689,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-25T05:16:55.195Z",
-  "lastUpdated": "25/9/2026, 10:46:55 am"
+  "lastSyncedAt": "2026-09-25T07:03:41.731Z",
+  "lastUpdated": "25/9/2026, 12:33:41 pm"
 }
