@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 85
   },
-  "lastUpdated": "2026-09-25T05:21:49.845Z",
+  "lastUpdated": "2026-09-25T05:48:49.489Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -15,7 +15,7 @@
       "company": "Pricewater House Coopers Service Delivery Center Bangalore",
       "title": "FDD - Manager",
       "dispatchedAt": "2026-07-22T05:32:59.007Z",
-      "daysElapsed": 64,
+      "daysElapsed": 65,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -26,7 +26,7 @@
       "company": "Bean Hr Consulting",
       "title": "Workday Consultant / manager",
       "dispatchedAt": "2026-07-22T05:33:04.024Z",
-      "daysElapsed": 64,
+      "daysElapsed": 65,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -37,7 +37,7 @@
       "company": "Idexcel",
       "title": "Senior Product Manger",
       "dispatchedAt": "2026-07-22T05:33:14.435Z",
-      "daysElapsed": 64,
+      "daysElapsed": 65,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -48,7 +48,7 @@
       "company": "Leading Product Based Software Company (Prestigious Client of The Glove)",
       "title": "AI Project Manager",
       "dispatchedAt": "2026-07-22T05:33:25.553Z",
-      "daysElapsed": 64,
+      "daysElapsed": 65,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
