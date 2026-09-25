@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2823,
+  "applicationsSubmitted": 2825,
   "appliedRolesList": [
-    {
-      "company": "Cloudflare",
-      "title": "Senior Director, R&D HR Business Partnering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8161890",
-      "time": "2026-09-14T12:55:21.541Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mongodb",
-      "title": "Regional Vice President, Enterprise, Acquisition",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8090745",
-      "time": "2026-09-14T13:06:54.019Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Head of Talent Agility",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/jp-morgan-chase-senior-associate-tech-risk-and-control-technology-regulatory-change-management-1735464?ref=sp_br&jobPos=1",
       "time": "2026-09-24T18:38:55.594Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Technical Program Manager, Engineering Onboarding",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7984707003",
+      "time": "2026-09-24T23:57:18.135Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Technical Program Manager, Engineering Onboarding",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7984707003",
+      "time": "2026-09-24T23:57:18.353Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,24 +4671,24 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2823,
+  "totalVerifiedInHistory": 2825,
   "portalBreakdown": {
     "iimjobs": 127,
     "naukri": 90,
     "weworkremotely": 13,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1373,
+    "direct_portal_greenhouse": 1374,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 166,
+    "greenhouse": 167,
     "direct_portal_ashby": 446,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T18:38:55.622Z",
-  "lastUpdated": "25/9/2026, 12:08:55 am"
+  "lastSyncedAt": "2026-09-24T23:57:18.384Z",
+  "lastUpdated": "25/9/2026, 5:27:18 am"
 }
