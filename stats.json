@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2827,
+  "applicationsSubmitted": 2828,
   "appliedRolesList": [
-    {
-      "company": "Mongodb",
-      "title": "Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8173798",
-      "time": "2026-09-14T14:41:37.022Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Toast",
       "title": "Manager Enablement, Sr. Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://job-boards.greenhouse.io/toast/jobs/8221509",
       "time": "2026-09-25T00:35:38.976Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "RPA Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-rpa-architect-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-040926020233?src=directSearch&sid=1790297184659949&xp=2&px=1",
+      "time": "2026-09-25T00:46:54.471Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2827,
+  "totalVerifiedInHistory": 2828,
   "portalBreakdown": {
     "iimjobs": 127,
-    "naukri": 90,
+    "naukri": 91,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4689,6 +4689,6 @@
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-25T00:35:39.012Z",
-  "lastUpdated": "25/9/2026, 6:05:39 am"
+  "lastSyncedAt": "2026-09-25T00:46:54.505Z",
+  "lastUpdated": "25/9/2026, 6:16:54 am"
 }
