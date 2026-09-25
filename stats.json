@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2825,
+  "applicationsSubmitted": 2827,
   "appliedRolesList": [
-    {
-      "company": "Zscaler",
-      "title": "Head of Talent Agility",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226578007",
-      "time": "2026-09-14T14:10:09.841Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior AI Transformation & Innovation Consultant",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7993837003",
-      "time": "2026-09-14T14:36:08.330Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mongodb",
       "title": "Project Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7984707003",
       "time": "2026-09-24T23:57:18.353Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Director, Product and Platform Security",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8221509",
+      "time": "2026-09-25T00:35:38.760Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Director, Product and Platform Security",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/toast/jobs/8221509",
+      "time": "2026-09-25T00:35:38.976Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,24 +4671,24 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2825,
+  "totalVerifiedInHistory": 2827,
   "portalBreakdown": {
     "iimjobs": 127,
     "naukri": 90,
     "weworkremotely": 13,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1374,
+    "direct_portal_greenhouse": 1375,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 167,
+    "greenhouse": 168,
     "direct_portal_ashby": 446,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1
   },
-  "lastSyncedAt": "2026-09-24T23:57:18.384Z",
-  "lastUpdated": "25/9/2026, 5:27:18 am"
+  "lastSyncedAt": "2026-09-25T00:35:39.012Z",
+  "lastUpdated": "25/9/2026, 6:05:39 am"
 }
