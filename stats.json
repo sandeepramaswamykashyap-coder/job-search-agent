@@ -1,71 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3075,
+  "applicationsSubmitted": 3083,
   "appliedRolesList": [
-    {
-      "company": "Databricks",
-      "title": "Senior Manager, Forward Deployed Engineering",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8439078002",
-      "time": "2026-09-18T02:16:45.713Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Director, Procurement Strategy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8208355",
-      "time": "2026-09-18T02:21:25.920Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Director, Procurement Strategy",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8208355",
-      "time": "2026-09-18T02:21:26.105Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Product Manager - Application Protection & Governance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8200670",
-      "time": "2026-09-18T05:06:29.630Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Instacart",
-      "title": "Knowledge Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/instacart/jobs/8205692",
-      "time": "2026-09-18T05:06:34.103Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Director of Production Engineering-Observability & Telemetry Platforms",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5237917007",
-      "time": "2026-09-18T05:06:41.038Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Armor - Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/armor-technical-program-manager-1719261?ref=sp&jobPos=4",
-      "time": "2026-09-18T05:30:17.824Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Senior Manager, Market Development",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8144160",
-      "time": "2026-09-18T06:30:25.983Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Senior Manager, Solutions Engineering, SLED",
@@ -4001,6 +3937,70 @@
       "url": "https://www.iimjobs.com/j/lead-operations-excellence-process-excellence-1734230?ref=sp&jobPos=12",
       "time": "2026-09-26T11:43:07.031Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "CMMI Level 5 IT Company - MNC",
+      "title": "SAP Project & AMS Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-project-ams-delivery-manager-consult-asia-bengaluru-10-to-15-years-250926907965?src=directSearch&sid=17904239162552153&xp=2&px=1",
+      "time": "2026-09-26T11:58:50.221Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CMMI Level 5 IT Company - MNC",
+      "title": "SAP Program Manager / SAP Service Delivery Manager (Cloud ALM)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-program-manager-sap-service-delivery-manager-cloud-alm-consult-asia-bengaluru-8-to-13-years-250926906531?src=directSearch&sid=17904239162552153&xp=3&px=1",
+      "time": "2026-09-26T11:59:01.594Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-tata-consultancy-services-bengaluru-10-to-15-years-250926036666?src=directSearch&sid=17904239162552153&xp=4&px=1",
+      "time": "2026-09-26T11:59:12.894Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Resource Pro",
+      "title": "Assistant Manager, Service Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-manager-service-delivery-resource-pro-bengaluru-8-to-13-years-240925027931?src=directSearch&sid=17904239162552153&xp=11&px=1",
+      "time": "2026-09-26T11:59:33.919Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Equinix",
+      "title": "Senior Program Manager, Corporate Real Estate Design & Delivery- APAC",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-program-manager-corporate-real-estate-design-delivery-apac-equinix-india-professional-services-private-limited-bengaluru-12-to-17-years-230926936631?src=directSearch&sid=17904239162552153&xp=12&px=1",
+      "time": "2026-09-26T11:59:45.234Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Operational Risk Manager - Treasury",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/operational-risk-manager-treasury-1733580?ref=sp&jobPos=13",
+      "time": "2026-09-26T12:01:58.535Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Consultant - Manufacturing Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/consultant-manufacturing-excellence-1733877?ref=sp&jobPos=14",
+      "time": "2026-09-26T12:02:04.654Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Wholesale Banking Operational Risk Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/wholesale-banking-operational-risk-manager-1733582?ref=sp&jobPos=15",
+      "time": "2026-09-26T12:02:10.718Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3075,
+  "totalVerifiedInHistory": 3083,
   "portalBreakdown": {
-    "iimjobs": 283,
-    "naukri": 181,
+    "iimjobs": 286,
+    "naukri": 186,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T11:43:07.062Z",
-  "lastUpdated": "26/9/2026, 5:13:07 pm"
+  "lastSyncedAt": "2026-09-26T12:02:10.744Z",
+  "lastUpdated": "26/9/2026, 5:32:10 pm"
 }
