@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3106,
+  "applicationsSubmitted": 3111,
   "appliedRolesList": [
-    {
-      "company": "Duolingo",
-      "title": "Senior Creative Director, Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/duolingo/jobs/8442932002",
-      "time": "2026-09-18T20:17:22.094Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Trust & Safety Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/9370b6c6-bb96-4f19-a5b3-53ec97f2c7c0",
-      "time": "2026-09-18T20:52:05.431Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Supply Chain Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8214726",
-      "time": "2026-09-18T22:09:15.318Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Engineering Manager, Okta Identity Governance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8107083",
-      "time": "2026-09-18T23:17:39.559Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director of Engineering, AI Takeoff Team",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8214882",
-      "time": "2026-09-19T00:32:05.948Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Databricks",
       "title": "Staff Product Operations Lead, Marketplace Operations",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/brand-manager-senior-brand-manager-group-brand-manager-d2c-personal-care-1736091?ref=sp&jobPos=8",
       "time": "2026-09-26T18:49:46.587Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Consulting Company",
+      "title": "SAP Ariba Procurement Transformation Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-ariba-procurement-transformation-lead-consult-asia-bengaluru-9-to-14-years-250926915864?src=directSearch&sid=17904493415106612&xp=1&px=1",
+      "time": "2026-09-26T19:02:35.517Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "VP - Finance Transformation (R2R / O2C)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vp-finance-transformation-r2r-o2c-golden-opportunities-pvt-ltd-hyderabad-chennai-bengaluru-16-to-25-years-210926909148?src=directSearch&sid=17904493415106612&xp=9&px=1",
+      "time": "2026-09-26T19:02:50.151Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Orkla India",
+      "title": "Manager - Operations Digital CoE Lead 1",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-operations-digital-coe-lead-1-orkla-india-bengaluru-5-to-10-years-300626006582?src=directSearch&sid=17904493415106612&xp=10&px=1",
+      "time": "2026-09-26T19:03:16.348Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Everforth Quinnox",
+      "title": "Lead AI Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-everforth-quinnox-bengaluru-7-to-10-years-290726011471?src=directSearch&sid=17904493415106612&xp=11&px=1",
+      "time": "2026-09-26T19:03:27.745Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Lead Technical Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-technical-architect-tata-consultancy-services-hyderabad-chennai-bengaluru-10-to-18-years-270826030572?src=directSearch&sid=17904493415106612&xp=12&px=1",
+      "time": "2026-09-26T19:03:39.039Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3106,
+  "totalVerifiedInHistory": 3111,
   "portalBreakdown": {
     "iimjobs": 302,
-    "naukri": 193,
+    "naukri": 198,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T18:49:46.616Z",
-  "lastUpdated": "27/9/2026, 12:19:46 am"
+  "lastSyncedAt": "2026-09-26T19:03:39.066Z",
+  "lastUpdated": "27/9/2026, 12:33:39 am"
 }
