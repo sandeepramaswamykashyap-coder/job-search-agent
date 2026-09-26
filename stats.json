@@ -1,87 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3065,
+  "applicationsSubmitted": 3075,
   "appliedRolesList": [
-    {
-      "company": "Zscaler",
-      "title": "Regional Vice President Sales - SLED West",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234918007",
-      "time": "2026-09-17T22:57:15.119Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Director, Customer Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8007189",
-      "time": "2026-09-17T22:57:15.861Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amazon - Program Manager II",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amazon-program-manager-ii-1728437?ref=sp_br&jobPos=3",
-      "time": "2026-09-18T01:22:24.519Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amazon - Program Manager - Quick Commerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amazon-program-manager-quick-commerce-1732045?ref=sp_br&jobPos=4",
-      "time": "2026-09-18T01:22:30.114Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ivy Mobility Solutions Ltd - Technical Program Manager - FMCG/CPG",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ivy-mobility-solutions-ltd-technical-program-manager-fmcg-cpg-1727476?ref=sp&jobPos=2",
-      "time": "2026-09-18T01:22:45.154Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ivy Mobility Solutions - Technical Program Manager - Artificial Intelligence/Mac",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ivy-mobility-solutions-technical-program-manager-artificial-intelligence-machine-learning-1727553?ref=sp&jobPos=3",
-      "time": "2026-09-18T01:22:50.838Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Tredence - Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/tredence-technical-program-manager-1723074?ref=sp_br&jobPos=4",
-      "time": "2026-09-18T01:22:56.411Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Program Manager, Customer Advocacy & Programs",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8181030",
-      "time": "2026-09-18T01:37:38.414Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Program Manager, Customer Advocacy & Programs",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8181030",
-      "time": "2026-09-18T01:37:38.602Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Senior Manager, Forward Deployed Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8439078002",
-      "time": "2026-09-18T02:16:45.522Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Databricks",
       "title": "Senior Manager, Forward Deployed Engineering",
@@ -4001,6 +3921,86 @@
       "url": "https://www.iimjobs.com/j/lead-operational-excellence-blue-collar-workforce-management-1726572?ref=sp&jobPos=9",
       "time": "2026-09-26T11:23:52.153Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Wabtec",
+      "title": "Human Resource Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-human-resource-operations-manager-wabtec-bengaluru-12-to-16-years-200926013992?src=directSearch&sid=17904225959071739&xp=10&px=1",
+      "time": "2026-09-26T11:37:02.581Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Client of Mancer",
+      "title": "Director Engineering",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-engineering-mancer-consulting-services-bengaluru-16-to-26-years-280826006149?src=directSearch&sid=17904226632338808&xp=5&px=1",
+      "time": "2026-09-26T11:37:57.187Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "AN MNC Data Center Company",
+      "title": "Director Projects",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-projects-rainbow-hr-consulting-services-noida-navi-mumbai-bengaluru-20-to-25-years-270126001304?src=directSearch&sid=17904226632338808&xp=6&px=1",
+      "time": "2026-09-26T11:38:08.546Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cyient",
+      "title": "Sales Director Automotive Electronics",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-director-automotive-electronics-cyient-bengaluru-15-to-20-years-260926001622?src=directSearch&sid=17904226632338808&xp=7&px=1",
+      "time": "2026-09-26T11:38:19.985Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Loadshare Networks",
+      "title": "AD/D- Program Management ( Central Operations)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ad-d-program-management-central-operations-loadshare-networks-bengaluru-4-to-9-years-240926030505?src=directSearch&sid=17904226632338808&xp=10&px=1",
+      "time": "2026-09-26T11:38:34.742Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "NetApp",
+      "title": "Director, Software Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-software-engineer-netapp-bengaluru-16-to-26-years-240926019130?src=directSearch&sid=17904226632338808&xp=11&px=1",
+      "time": "2026-09-26T11:38:46.077Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Indifi Technologies",
+      "title": "Associate Director - Business Development",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-business-development-indifi-technologies-mumbai-bengaluru-10-to-15-years-230926038592?src=directSearch&sid=17904226632338808&xp=13&px=1",
+      "time": "2026-09-26T11:39:00.648Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operational Excellence - Pharmaceuticals",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-operational-excellence-pharmaceuticals-1717519?ref=sp&jobPos=10",
+      "time": "2026-09-26T11:42:53.635Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operational Excellence & Lean - Textile& Apparel",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-operational-excellence-and-lean-textileand-apparel-1715466?ref=sp&jobPos=11",
+      "time": "2026-09-26T11:43:00.654Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lead - Operations Excellence/Process Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/lead-operations-excellence-process-excellence-1734230?ref=sp&jobPos=12",
+      "time": "2026-09-26T11:43:07.031Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3065,
+  "totalVerifiedInHistory": 3075,
   "portalBreakdown": {
-    "iimjobs": 280,
-    "naukri": 174,
+    "iimjobs": 283,
+    "naukri": 181,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T11:23:52.184Z",
-  "lastUpdated": "26/9/2026, 4:53:52 pm"
+  "lastSyncedAt": "2026-09-26T11:43:07.062Z",
+  "lastUpdated": "26/9/2026, 5:13:07 pm"
 }
