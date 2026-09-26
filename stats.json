@@ -1,119 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2911,
+  "applicationsSubmitted": 2925,
   "appliedRolesList": [
-    {
-      "company": "Stripe",
-      "title": "Benefits Program Manager, EMEA",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8202831",
-      "time": "2026-09-15T11:11:40.581Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Booking Holdings",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-booking-holdings-bengaluru-13-to-20-years-150926026345?src=directSearch&sid=17894737230341662&xp=4&px=1",
-      "time": "2026-09-15T12:02:51.512Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Senior Domain Operations Lead, Business Applications",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8185354",
-      "time": "2026-09-15T12:30:39.637Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Senior Domain Operations Lead, Business Applications",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8185354",
-      "time": "2026-09-15T12:30:39.820Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Program Manager, Scaled User Programs",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8806815002",
-      "time": "2026-09-15T12:54:55.305Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Program Manager, Scaled User Programs",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8806815002",
-      "time": "2026-09-15T12:54:55.482Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Technical Program Manager, UCP Commerce Operations and Configuration",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-ucp-commerce-operations-and-configuration-nvidia-bengaluru-8-to-10-years-300126506279?src=directSearch&sid=17894775934349211&xp=2&px=1",
-      "time": "2026-09-15T13:06:55.354Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Senior Director of People Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8195476",
-      "time": "2026-09-15T15:03:41.103Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monzo",
-      "title": "Senior Director of People Operations",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8195476",
-      "time": "2026-09-15T15:03:41.289Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Head of EMEA Sales",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/55de4d92-fd47-4a92-a3f5-fab2624f6015",
-      "time": "2026-09-15T15:54:18.992Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Supply Chain - Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7995992003",
-      "time": "2026-09-15T17:05:33.683Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "Supply Chain - Vice President",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7995992003",
-      "time": "2026-09-15T17:05:33.861Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Model Policy Manager, Agentic Safety",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
-      "time": "2026-09-15T23:18:40.635Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Director, Order to Revenue Compliance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8604585002",
-      "time": "2026-09-16T02:05:00.334Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Databricks",
       "title": "Director, Order to Revenue Compliance",
@@ -4001,6 +3889,118 @@
       "url": "https://www.iimjobs.com/job/1736073/screening?ref=sp&jobPos=18&pref=sp",
       "time": "2026-09-26T06:56:22.055Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Urban Company (UC)",
+      "title": "Category Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-category-operations-manager-urban-company-uc-bengaluru-1-to-3-years-210926023846?src=directSearch&sid=17904066553023961&xp=2&px=1",
+      "time": "2026-09-26T07:11:37.034Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Doodley Pets Ecosystem Private Limited",
+      "title": "Head Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-people-fraction-bengaluru-5-to-10-years-210926029245?src=directSearch&sid=17904066553023961&xp=3&px=1",
+      "time": "2026-09-26T07:11:48.348Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Operations Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-head-hindco-recruitment-consultants-bengaluru-10-to-20-years-220926919092?src=directSearch&sid=17904066553023961&xp=6&px=1",
+      "time": "2026-09-26T07:12:07.658Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lifebridge Group",
+      "title": "General Manager Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-general-manager-operations-lifebridge-group-bengaluru-15-to-20-years-220926036679?src=directSearch&sid=17904066553023961&xp=7&px=1",
+      "time": "2026-09-26T07:12:24.080Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Handiman Services",
+      "title": "Head Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-handiman-services-bengaluru-15-to-18-years-080426024229?src=directSearch&sid=17904066553023961&xp=8&px=1",
+      "time": "2026-09-26T07:12:35.409Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Antara Senior Care",
+      "title": "Lead Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-operations-antara-senior-care-chennai-bengaluru-10-to-18-years-230926021697?src=directSearch&sid=17904066553023961&xp=9&px=1",
+      "time": "2026-09-26T07:12:51.689Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Omega Healthcare",
+      "title": "Head of operations (RCM Coding)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-operations-rcm-coding-omega-healthcare-hyderabad-chennai-bengaluru-18-to-25-years-210926018203?src=directSearch&sid=17904066553023961&xp=10&px=1",
+      "time": "2026-09-26T07:13:03.076Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "AM-Resource management-end To end RMG",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-am-resource-management-end-to-end-rmg-ey-kochi-gurugram-bengaluru-7-to-12-years-230726035729?src=directSearch&sid=17904066553023961&xp=12&px=1",
+      "time": "2026-09-26T07:13:17.543Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Southern Electronics (bangalore)",
+      "title": "Head Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-southern-electronics-bangalore-bengaluru-10-to-15-years-190926016711?src=directSearch&sid=17904066553023961&xp=13&px=1",
+      "time": "2026-09-26T07:13:28.928Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SG Lottery India",
+      "title": "Business Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-analyst-sg-india-bengaluru-5-to-8-years-180926013260?src=directSearch&sid=17904068120167312&xp=1&px=1",
+      "time": "2026-09-26T07:13:46.006Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Bajaj Finance",
+      "title": "Unit Manager - AI Unit",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-unit-manager-ai-unit-bajaj-finance-limited-bengaluru-4-to-7-years-240926935364?src=directSearch&sid=17904068120167312&xp=10&px=1",
+      "time": "2026-09-26T07:14:03.723Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nasu Group",
+      "title": "Python (Manager / consultant)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-python-manager-consultant-nasugroup-bengaluru-12-to-16-years-240926927034?src=directSearch&sid=17904068120167312&xp=12&px=1",
+      "time": "2026-09-26T07:14:18.165Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Bajaj Finance",
+      "title": "Manager - Two Wheeler - South & West",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-two-wheeler-south-west-bajaj-finance-limited-kothamangalam-bengaluru-1-to-3-years-240926938417?src=directSearch&sid=17904068120167312&xp=13&px=1",
+      "time": "2026-09-26T07:14:29.541Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "QBurst",
+      "title": "Business Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-analyst-qburst-kochi-chennai-bengaluru-7-to-15-years-250926033098?src=directSearch&sid=17904068726468262&xp=4&px=1",
+      "time": "2026-09-26T07:14:52.959Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2911,
+  "totalVerifiedInHistory": 2925,
   "portalBreakdown": {
     "iimjobs": 165,
-    "naukri": 135,
+    "naukri": 149,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T06:56:22.098Z",
-  "lastUpdated": "26/9/2026, 12:26:22 pm"
+  "lastSyncedAt": "2026-09-26T07:14:52.989Z",
+  "lastUpdated": "26/9/2026, 12:44:52 pm"
 }
