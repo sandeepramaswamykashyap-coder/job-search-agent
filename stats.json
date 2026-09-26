@@ -1,103 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2950,
+  "applicationsSubmitted": 2962,
   "appliedRolesList": [
-    {
-      "company": "Togetherai",
-      "title": "Director of Brand",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238654007",
-      "time": "2026-09-17T07:11:45.593Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Neo4j",
-      "title": "Director, Field Engineering and Strategy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/neo4j/jobs/4711183006",
-      "time": "2026-09-17T07:21:33.258Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Finance & Strategy",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7948222",
-      "time": "2026-09-17T07:24:27.614Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Finance & Strategy",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7948222",
-      "time": "2026-09-17T07:24:27.816Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Braze",
-      "title": "Director, Applied AI Architects",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8197642",
-      "time": "2026-09-17T07:27:01.752Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Togetherai",
-      "title": "Head of Distribution Partnerships",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5171124007",
-      "time": "2026-09-17T07:27:47.586Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Institutional Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8023815",
-      "time": "2026-09-17T07:29:38.881Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Institutional Sales",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8023815",
-      "time": "2026-09-17T07:29:39.066Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Asana",
-      "title": "Head of Revenue Strategy & Execution - CX",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/asana/jobs/8191817",
-      "time": "2026-09-17T07:31:25.630Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Recruiting",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8051630",
-      "time": "2026-09-17T07:34:40.107Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Recruiting",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8051630",
-      "time": "2026-09-17T07:34:40.328Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Security Audit",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7997926",
-      "time": "2026-09-17T07:39:51.257Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Coinbase",
       "title": "Senior Manager, Security Audit",
@@ -4001,6 +3905,102 @@
       "url": "https://www.iimjobs.com/j/nextracker-lead-technical-program-manager-1710621?ref=sp_br&jobPos=14",
       "time": "2026-09-26T07:29:39.294Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Happiest Minds - Technical Program Manager - Data Engineering & Databricks",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/happiest-minds-technical-program-manager-data-engineering-and-databricks-1713712?ref=sp_br&jobPos=15",
+      "time": "2026-09-26T07:45:44.419Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager - Software Development",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/technical-program-manager-software-development-1732872?ref=sp&jobPos=16",
+      "time": "2026-09-26T07:45:50.595Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "General Manager - Technical Program Management - eCommerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/general-manager-technical-program-management-ecommerce-1731671?ref=sp&jobPos=17",
+      "time": "2026-09-26T07:45:56.667Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "General Manager - Technical Program Management - AI/Platform Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/general-manager-technical-program-management-ai-platform-transformation-1733396?ref=sp&jobPos=18",
+      "time": "2026-09-26T07:46:02.760Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "The Convergence Foundation - Head - Operations - NGO/Social Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/the-convergence-foundation-head-operations-ngo-social-services-1732671?ref=sp_br&jobPos=11",
+      "time": "2026-09-26T07:46:12.961Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "RLG Systems - Head - Business Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/rlg-systems-head-business-operations-1729264?ref=sp_br&jobPos=12",
+      "time": "2026-09-26T07:46:19.048Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "GVK EMRI - Head - IT Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/gvk-emri-head-it-operations-1728189?ref=sp_br&jobPos=13",
+      "time": "2026-09-26T07:46:25.210Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Meesho - Cluster Head - Last Mile Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/meesho-cluster-head-last-mile-operations-1734874?ref=sp_br&jobPos=14",
+      "time": "2026-09-26T07:46:31.327Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Medicover Hospitals - Center/Unit Head - Hospital Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/medicover-hospitals-center-unit-head-hospital-operations-1731230?ref=sp_br&jobPos=15",
+      "time": "2026-09-26T07:46:37.406Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "RLG Systems - Head - Business Operations - Logistics/Supply Chain Vertical",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/rlg-systems-head-business-operations-logistics-supply-chain-vertical-1731257?ref=sp_br&jobPos=16",
+      "time": "2026-09-26T07:46:43.597Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Zostel - Operations Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/zostel-operations-lead-1729648?ref=sp_br&jobPos=17",
+      "time": "2026-09-26T07:46:49.715Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "DailyObjects - Offline Expansion Head - Retail Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/dailyobjects-offline-expansion-head-retail-operations-1732554?ref=sp_br&jobPos=18",
+      "time": "2026-09-26T07:46:55.811Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2950,
+  "totalVerifiedInHistory": 2962,
   "portalBreakdown": {
-    "iimjobs": 179,
+    "iimjobs": 191,
     "naukri": 160,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T07:29:39.317Z",
-  "lastUpdated": "26/9/2026, 12:59:39 pm"
+  "lastSyncedAt": "2026-09-26T07:46:55.837Z",
+  "lastUpdated": "26/9/2026, 1:16:55 pm"
 }
