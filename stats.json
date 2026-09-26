@@ -1,95 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2962,
+  "applicationsSubmitted": 2973,
   "appliedRolesList": [
-    {
-      "company": "Coinbase",
-      "title": "Senior Manager, Security Audit",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/7997926",
-      "time": "2026-09-17T07:39:51.456Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mongodb",
-      "title": "Senior Director, Global AI Native & POD Program",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8092253",
-      "time": "2026-09-17T07:41:50.408Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Manager, Data Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8090065",
-      "time": "2026-09-17T07:44:50.608Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Manager, Data Engineering",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8090065",
-      "time": "2026-09-17T07:44:50.797Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Director, Product Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8196718",
-      "time": "2026-09-17T07:51:30.346Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director, Global Benefits",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8204491",
-      "time": "2026-09-17T07:51:32.261Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Marketing Operations Program Manager, APAC",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8176256",
-      "time": "2026-09-17T07:51:38.691Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Privacy Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8201051",
-      "time": "2026-09-17T07:51:39.977Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Manager, Sales Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075212",
-      "time": "2026-09-17T07:55:09.248Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Manager, Sales Operations",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8075212",
-      "time": "2026-09-17T07:55:09.478Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Figma",
-      "title": "Senior Manager, Enterprise Sales (London, United Kingdom)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/6124232004",
-      "time": "2026-09-17T07:59:59.637Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Figma",
       "title": "Senior Manager, Enterprise Sales (London, United Kingdom)",
@@ -4001,6 +3913,94 @@
       "url": "https://www.iimjobs.com/j/dailyobjects-offline-expansion-head-retail-operations-1732554?ref=sp_br&jobPos=18",
       "time": "2026-09-26T07:46:55.811Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IBM - Group Manager/Vice President - Transition & Transformation - BFSI Domain",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ibm-group-manager-vice-president-transition-and-transformation-bfsi-domain-1732770?ref=sp_br&jobPos=10",
+      "time": "2026-09-26T08:03:38.681Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Westbury Sportswear - Assistant Vice President - Operations & Warehouse Transfor",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/westbury-sportswear-assistant-vice-president-operations-and-warehouse-transformation-1730006?ref=sp_br&jobPos=11",
+      "time": "2026-09-26T08:03:44.783Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Vice President - Product Management - Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-product-management-transformation-1735441?ref=sp_br&jobPos=12",
+      "time": "2026-09-26T08:03:50.890Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Vice President - Product Management - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-product-management-digital-transformation-1734639?ref=sp_br&jobPos=13",
+      "time": "2026-09-26T08:03:56.959Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Fedbank Financial Services - Digital & Artificial Intelligence Lead - Digital Tr",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/fedbank-financial-services-digital-and-artificial-intelligence-lead-digital-transformation-1732067?ref=sp_br&jobPos=14",
+      "time": "2026-09-26T08:04:03.060Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "TE Connectivity - Manager - Procurement - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/te-connectivity-manager-procurement-digital-transformation-1734289?ref=sp&jobPos=15",
+      "time": "2026-09-26T08:04:09.231Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Leuwint Technologies - Transformation Office Governance Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/leuwint-technologies-transformation-office-governance-lead-1734262?ref=sp&jobPos=16",
+      "time": "2026-09-26T08:04:15.291Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Cloud Raptor - Senior Transformation Project Manager - IT & Systems",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cloud-raptor-senior-transformation-project-manager-it-and-systems-1736012?ref=sp&jobPos=17",
+      "time": "2026-09-26T08:04:21.421Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "PMO Manager - AI Transformation - Consulting Firm - Contractual",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pmo-manager-ai-transformation-consulting-firm-contractual-1734301?ref=sp&jobPos=18",
+      "time": "2026-09-26T08:04:27.597Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Product Management - eCommerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-product-management-ecommerce-1735789?ref=sp&jobPos=10",
+      "time": "2026-09-26T08:04:43.493Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Product Management - Platform",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-product-management-platform-1735796?ref=sp&jobPos=11",
+      "time": "2026-09-26T08:04:49.794Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2962,
+  "totalVerifiedInHistory": 2973,
   "portalBreakdown": {
-    "iimjobs": 191,
+    "iimjobs": 202,
     "naukri": 160,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T07:46:55.837Z",
-  "lastUpdated": "26/9/2026, 1:16:55 pm"
+  "lastSyncedAt": "2026-09-26T08:04:49.823Z",
+  "lastUpdated": "26/9/2026, 1:34:49 pm"
 }
