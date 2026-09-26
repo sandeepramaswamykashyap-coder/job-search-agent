@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3040,
+  "applicationsSubmitted": 3045,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Director, Global Tech Recruiting",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8212083",
-      "time": "2026-09-17T21:44:00.064Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. IT Project & Program Manager, Asset Management",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8209845",
-      "time": "2026-09-17T22:03:19.731Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "AU Small Finance Bank - Program Manager/Assistant Manager - Cross Sell & NTB Acq",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/au-small-finance-bank-program-manager-assistant-manager-cross-sell-and-ntb-acquisition-1732987?ref=sp_br_prm&jobPos=3",
-      "time": "2026-09-17T22:36:23.482Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "NetApp - Social Impact Program Manager - CSR & Employee Engagement",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/netapp-social-impact-program-manager-csr-and-employee-engagement-1731836?ref=sp_prm&jobPos=4",
-      "time": "2026-09-17T22:36:29.070Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Tracxn - Senior Technical Program Manager - Data Production - IIT/BITS",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/tracxn-senior-technical-program-manager-data-production-iit-bits-1725487?ref=sp_br&jobPos=2",
-      "time": "2026-09-17T22:36:43.878Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Pacewisdom - Technical Program Manager",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/india-sales-head-enterprise-integration-digital-transformation-1728738?ref=sp&jobPos=1",
       "time": "2026-09-26T10:10:51.066Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "MAS Financial Services - Head - Digital Transformation & Artificial Intelligence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mas-financial-services-head-digital-transformation-and-artificial-intelligence-1721566?ref=sp&jobPos=2",
+      "time": "2026-09-26T10:28:19.912Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Supply Chain Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-supply-chain-transformation-1715118?ref=sp&jobPos=3",
+      "time": "2026-09-26T10:28:26.144Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "F&A Transformation Leader & Head",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/fanda-transformation-leader-and-head-1715354?ref=sp&jobPos=4",
+      "time": "2026-09-26T10:28:32.329Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Sammaan Capital - IT Head - SAP Transformation Finance ERP - NBFC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/sammaan-capital-it-head-sap-transformation-finance-erp-nbfc-1715440?ref=sp_br&jobPos=5",
+      "time": "2026-09-26T10:28:38.484Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Record to Report Transformation - Finance/Accounting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-record-to-report-transformation-finance-accounting-1732190?ref=sp&jobPos=7",
+      "time": "2026-09-26T10:28:44.613Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3040,
+  "totalVerifiedInHistory": 3045,
   "portalBreakdown": {
-    "iimjobs": 261,
+    "iimjobs": 266,
     "naukri": 168,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T10:10:51.096Z",
-  "lastUpdated": "26/9/2026, 3:40:51 pm"
+  "lastSyncedAt": "2026-09-26T10:28:44.643Z",
+  "lastUpdated": "26/9/2026, 3:58:44 pm"
 }
