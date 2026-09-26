@@ -19,7 +19,12 @@ const IIM_KEYWORDS = [
   'operations-head',
   'transformation',
   'change-management',
-  'servicenow'
+  'servicenow',
+  'director-operations',
+  'business-transformation',
+  'uat-manager',
+  'head-transformation',
+  'operational-excellence'
 ];
 
 async function ensureIIMJobsLoggedIn(page) {
@@ -74,7 +79,7 @@ async function runIIMJobsE2E(page, context, maxApplications = 15) {
     console.log(`[IIMJobsE2E] Found ${jobCards.length} job cards for "${ikw}".`);
 
     const seenInKeyword = new Set();
-    for (const card of jobCards.slice(0, 8)) {
+    for (const card of jobCards.slice(0, 18)) {
       if (applicationsCount >= maxApplications) break;
 
       let childPage = null;

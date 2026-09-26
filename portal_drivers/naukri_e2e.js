@@ -20,7 +20,13 @@ const SENIOR_ROLES = [
   'transformation-lead',
   'operations-director',
   'servicenow-manager',
-  'intelligent-automation'
+  'intelligent-automation',
+  'director-operations',
+  'business-transformation-manager',
+  'head-operations',
+  'uat-manager',
+  'change-management-lead',
+  'delivery-manager'
 ];
 
 async function ensureNaukriLoggedIn(page) {
@@ -86,8 +92,8 @@ async function runNaukriE2E(page, context, maxApplications = 20) {
   for (const role of SENIOR_ROLES) {
     if (applicationsCount >= maxApplications) break;
 
-    console.log(`\n[NaukriE2E] 🔍 Searching: "${role}" in Bengaluru...`);
-    const searchUrl = `https://www.naukri.com/${role}-jobs-in-bengaluru`;
+    console.log(`\n[NaukriE2E] 🔍 Searching recent: "${role}" in Bengaluru...`);
+    const searchUrl = `https://www.naukri.com/${role}-jobs-in-bengaluru?jobAge=7`;
     await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
     await SLEEP(3500);
 
@@ -99,7 +105,7 @@ async function runNaukriE2E(page, context, maxApplications = 20) {
     console.log(`[NaukriE2E] Found ${jobCards.length} job cards for "${role}".`);
 
     const seenInRole = new Set();
-    for (const card of jobCards.slice(0, 10)) {
+    for (const card of jobCards.slice(0, 25)) {
       if (applicationsCount >= maxApplications) break;
 
       let childPage = null;

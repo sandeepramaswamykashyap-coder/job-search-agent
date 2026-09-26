@@ -1,287 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2841,
+  "applicationsSubmitted": 2876,
   "appliedRolesList": [
-    {
-      "company": "Heygen",
-      "title": "Revenue Operations Lead",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/heygen/jobs/5177667007",
-      "time": "2026-09-14T17:18:23.436Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Partner Director, HCL, Wipro & Cognizant",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/a51b521c-d3bf-4653-99c6-c9152827cfb8",
-      "time": "2026-09-14T17:51:05.372Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Automation Engineer - Influencers",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/5bcd3475-8e38-42f1-897a-fa010ee6f9bd",
-      "time": "2026-09-14T17:54:54.022Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Revenue Strategy & Operations - EMEA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/13dbc714-dc3e-4743-9c25-3400c23b6673",
-      "time": "2026-09-14T17:55:20.244Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Revenue Strategy & Operations - North America",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/b28719ff-833d-49b4-8286-f59082732186",
-      "time": "2026-09-14T17:55:49.205Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Revenue Strategy & Operations - APAC",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7",
-      "time": "2026-09-14T17:56:16.388Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "People AI & Automation Engineer",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316",
-      "time": "2026-09-14T17:56:49.009Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Vapi",
-      "title": "Member of Technical Staff, Agentic Developer Experience",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/vapi/0d4f1420-2590-4a38-aac4-3efda12eadb0",
-      "time": "2026-09-14T17:57:16.465Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Vapi",
-      "title": "Member of Technical Staff, Agentic Release Engineer",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/vapi/250ac759-97a6-46b8-ad7c-9bb4f223dd26",
-      "time": "2026-09-14T17:57:46.868Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Revenue Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/6d32aa11-ac93-4f90-8f62-bdeb79214ee5",
-      "time": "2026-09-14T18:07:14.649Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Revenue Strategy & Operations, Sr. Analyst",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/5fdfe98f-c926-4af8-891a-79610b52ff96",
-      "time": "2026-09-14T18:07:44.486Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Capacity Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/768bca5d-287f-405a-b677-605317607178",
-      "time": "2026-09-14T18:08:19.391Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
-      "time": "2026-09-14T18:08:48.190Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
-      "time": "2026-09-14T18:09:17.395Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
-      "time": "2026-09-14T18:09:49.805Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (Singapore)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
-      "time": "2026-09-14T18:10:21.688Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
-      "time": "2026-09-14T18:10:50.138Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pika",
-      "title": "Head of Engineer, Product",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/pika/99c13be0-3acc-40cb-b0f9-b546dbd7cf1f",
-      "time": "2026-09-15T03:48:26.297Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samsara",
-      "title": "Business Operations Manager I",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/8180371",
-      "time": "2026-09-15T03:49:41.220Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Program Manager, Extensibility",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8114397",
-      "time": "2026-09-15T04:04:14.056Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "MARG Business Transformations",
-      "title": "ERP Change Lead SAP Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-erp-change-lead-sap-transformation-vriddhi4u-hr-services-bengaluru-10-to-15-years-070926003595?src=directSearch&sid=1789445266445766&xp=1&px=1",
-      "time": "2026-09-15T04:07:59.505Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cushman & Wakefield",
-      "title": "Director - Central Operations Hub",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-central-operations-hub-cushman-wakefield-india-pvt-ltd-bengaluru-10-to-15-years-140926913833?src=directSearch&sid=17894453096391303&xp=2&px=1",
-      "time": "2026-09-15T04:08:53.002Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Benovymed Healthcare Private Limited",
-      "title": "AVP/ Director/ Regional Manager - Business Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-avp-director-regional-manager-business-operations-benovymed-healthcare-private-limited-mumbai-bengaluru-delhi-ncr-2-to-7-years-080926909935?src=directSearch&sid=17894453096391303&xp=3&px=1",
-      "time": "2026-09-15T04:09:11.533Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "NetApp - Manager - NGS Program",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/program-manager-jobs",
-      "time": "2026-09-15T04:09:33.732Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Absolute - Program Manager - BioTech - Founder's Office",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/program-manager-jobs",
-      "time": "2026-09-15T04:09:37.017Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Blinkit - Program Manager - Frozen Category",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/program-manager-jobs",
-      "time": "2026-09-15T04:09:40.241Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Lenskart - Program Manager - Customer Excellence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/program-manager-jobs",
-      "time": "2026-09-15T04:09:43.452Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Capco Technologies - Technical Architect/Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
-      "time": "2026-09-15T04:09:50.521Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Idfy - Technical Program Manager - Delivery",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
-      "time": "2026-09-15T04:09:53.749Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Blink Health - Senior Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
-      "time": "2026-09-15T04:09:56.976Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Myntra - Senior Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/technical-program-manager-jobs",
-      "time": "2026-09-15T04:10:00.235Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Partner Marketing Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8187570",
-      "time": "2026-09-15T04:15:57.887Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Partner Marketing Operations Manager",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8187570",
-      "time": "2026-09-15T04:15:58.057Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cribl",
-      "title": "Head of Corporate Events",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cribl/jobs/6181124004",
-      "time": "2026-09-15T05:01:35.598Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mercury",
-      "title": "Trading Operations Lead",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6192352004",
-      "time": "2026-09-15T05:08:24.620Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Senior Director, Product Management",
@@ -4001,6 +3721,286 @@
       "url": "https://www.iimjobs.com/j/oyo-capex-manager-germany-hotel-portfolio-1735961?ref=sp_br_prm&jobPos=3",
       "time": "2026-09-26T06:15:15.996Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pearl",
+      "title": "Senior Manager, Accounting",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-accounting-pearl-bengaluru-8-to-13-years-030926011206?src=directSearch&sid=17904039787639003&xp=2&px=1",
+      "time": "2026-09-26T06:26:41.012Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Consult Asia",
+      "title": "Manager / Sr Manager - Tech Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-sr-manager-tech-management-consult-asia-bengaluru-10-to-15-years-250926917023?src=directSearch&sid=17904039787639003&xp=5&px=1",
+      "time": "2026-09-26T06:26:58.709Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Senior Manager - Venue Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-venue-operations-happinesscue-mumbai-delhi-ncr-bengaluru-8-to-12-years-250926905658?src=directSearch&sid=17904039787639003&xp=6&px=1",
+      "time": "2026-09-26T06:27:10.000Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Omnichannel Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-omnichannel-senior-manager-happinesscue-hyderabad-chennai-bengaluru-9-to-13-years-250926905712?src=directSearch&sid=17904039787639003&xp=10&px=1",
+      "time": "2026-09-26T06:27:30.826Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Senior Manager - Retail Expansion",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-retail-expansion-happinesscue-hyderabad-chennai-bengaluru-8-to-12-years-250926905670?src=directSearch&sid=17904039787639003&xp=12&px=1",
+      "time": "2026-09-26T06:27:45.331Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Senior Manager - Contact Centre Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-contact-centre-operations-golden-opportunities-pvt-ltd-indore-hyderabad-bengaluru-14-to-22-years-210926909337?src=directSearch&sid=17904040718697893&xp=1&px=1",
+      "time": "2026-09-26T06:28:05.819Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Senior Manager - Payments Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-payments-operations-golden-opportunities-pvt-ltd-bengaluru-mysore-12-to-18-years-210926904765?src=directSearch&sid=17904040718697893&xp=6&px=1",
+      "time": "2026-09-26T06:28:26.695Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ABB",
+      "title": "Sales Support Specialist",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-support-specialist-abb-bengaluru-8-to-12-years-240926028511?src=directSearch&sid=17904040718697893&xp=12&px=1",
+      "time": "2026-09-26T06:29:05.486Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Adecco Group",
+      "title": "Program Manager Non Tech 3_18 Months contract_Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-non-tech-3-18-months-contract-bangalore-adecco-india-bengaluru-3-to-7-years-220926005550?src=directSearch&sid=17904041517536410&xp=5&px=1",
+      "time": "2026-09-26T06:29:46.794Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mastek",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-mastek-bengaluru-14-to-22-years-240926013557?src=directSearch&sid=17904041517536410&xp=7&px=1",
+      "time": "2026-09-26T06:30:01.256Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Algoleap Technologies",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-algoleap-technologies-bengaluru-8-to-12-years-240926017880?src=directSearch&sid=17904041517536410&xp=8&px=1",
+      "time": "2026-09-26T06:30:12.575Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Celebal Technologies",
+      "title": "Senior Technical Program Manager - Databricks",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-technical-program-manager-databricks-celebal-technologies-pune-bengaluru-8-to-13-years-250926023124?src=directSearch&sid=17904041517536410&xp=10&px=1",
+      "time": "2026-09-26T06:30:28.831Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Wabtec",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-wabtec-krishnagiri-bengaluru-8-to-13-years-210926022619?src=directSearch&sid=17904041517536410&xp=13&px=1",
+      "time": "2026-09-26T06:30:43.363Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tracxn",
+      "title": "Technical Program Manager - API Support (EMEA Shift)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-api-support-emea-shift-tracxn-bengaluru-4-to-8-years-220926002414?src=directSearch&sid=17904042464997537&xp=7&px=1",
+      "time": "2026-09-26T06:31:19.408Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tredence",
+      "title": "Technical Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-project-manager-tredence-pune-gurugram-bengaluru-14-to-18-years-210926017110",
+      "time": "2026-09-26T06:31:50.504Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "NetApp",
+      "title": "Business Systems Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-systems-analyst-netapp-bengaluru-8-to-12-years-250926005362?src=directSearch&sid=17904043168328715&xp=1&px=1",
+      "time": "2026-09-26T06:32:10.723Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nasu Group",
+      "title": "Lead Business Analyst – GenAI Projects",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-business-analyst-genai-projects-nasugroup-bengaluru-10-to-15-years-240926916398?src=directSearch&sid=17904043168328715&xp=4&px=1",
+      "time": "2026-09-26T06:32:28.347Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HashRoot",
+      "title": "The Investment Data Operations & Transformation Lead / Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-the-investment-data-operations-transformation-lead-project-manager-hashroot-pune-gurugram-bengaluru-10-to-15-years-230926044047?src=directSearch&sid=17904043168328715&xp=5&px=1",
+      "time": "2026-09-26T06:32:39.663Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Senior Manager - F&A Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-f-a-transformation-golden-opportunities-pvt-ltd-bengaluru-14-to-18-years-220926903265?src=directSearch&sid=17904043168328715&xp=6&px=1",
+      "time": "2026-09-26T06:32:50.945Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Hiring: Project Manager / Assurance Lead - Banking Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hiring-project-manager-assurance-lead-banking-transformation-capgemini-pune-bengaluru-8-to-13-years-230926038717?src=directSearch&sid=17904043168328715&xp=7&px=1",
+      "time": "2026-09-26T06:33:02.198Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Business Finance - Banking/Financial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=10&jobId=1735680&pref=sp_prm",
+      "time": "2026-09-26T06:33:19.532Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "HDFC Life Insurance - Senior Manager - Product Development",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=11&jobId=1735856&pref=sp_prm",
+      "time": "2026-09-26T06:33:28.862Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Product Manager - AI Automation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=13&jobId=1735651&pref=sp_prm",
+      "time": "2026-09-26T06:33:38.137Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ramco Systems - Senior Sales Manager - Payroll Solutions",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=14&jobId=1734680&pref=sp_prm",
+      "time": "2026-09-26T06:33:47.440Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Awfis - Senior Manager - Corporate Strategy & Analytics",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=15&jobId=1735704&pref=sp_br_prm",
+      "time": "2026-09-26T06:33:56.755Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "L'Oreal - Senior Manager - Legal",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=16&jobId=1733870&pref=sp_br",
+      "time": "2026-09-26T06:34:06.079Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Swiggy - Senior Manager - Growth - CREW",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1735280/screening?ref=sp_br&jobPos=17&pref=sp_br",
+      "time": "2026-09-26T06:34:17.652Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Urban Company - Senior Category Manager - Business Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1735921/screening?ref=sp_br&jobPos=9&pref=sp_br",
+      "time": "2026-09-26T06:34:31.262Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Morningstar - Senior Manager - Structured Finance - DBRS Credit Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1733399/screening?ref=sp_br&jobPos=12&pref=sp_br",
+      "time": "2026-09-26T06:34:40.833Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Blinkit - Site Lead/Assistant Site Lead/Senior Manager - Fulfillment Center",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=13&jobId=1728850&pref=sp_br",
+      "time": "2026-09-26T06:34:50.116Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Daxko - Senior Manager - Marketing Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=14&jobId=1735519&pref=sp",
+      "time": "2026-09-26T06:34:59.421Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "AquaExchange - Senior Manager - Operations Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=15&jobId=1734784&pref=sp",
+      "time": "2026-09-26T06:35:08.784Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Arcesium - Senior Manager - Trade Accounting & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1734864&pref=sp",
+      "time": "2026-09-26T06:35:18.036Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Emotorad - Senior Manager - International B2B Operations & Supply Chain",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1734495/screening?ref=sp&jobPos=17&pref=sp",
+      "time": "2026-09-26T06:35:27.783Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "RK Worldinfocom - Senior In-Stock Manager - SCM & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1735378/screening?ref=sp&jobPos=18&pref=sp",
+      "time": "2026-09-26T06:35:37.877Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2841,
+  "totalVerifiedInHistory": 2876,
   "portalBreakdown": {
-    "iimjobs": 135,
-    "naukri": 95,
+    "iimjobs": 150,
+    "naukri": 115,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T06:15:16.021Z",
-  "lastUpdated": "26/9/2026, 11:45:16 am"
+  "lastSyncedAt": "2026-09-26T06:35:37.919Z",
+  "lastUpdated": "26/9/2026, 12:05:37 pm"
 }
