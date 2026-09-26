@@ -1,79 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3094,
+  "applicationsSubmitted": 3103,
   "appliedRolesList": [
-    {
-      "company": "Intercom",
-      "title": "Senior Manager, Account Executives, Continental Europe (French/German)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/intercom/jobs/7939367",
-      "time": "2026-09-18T14:53:35.219Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Intercom",
-      "title": "Senior Manager, Account Executives, Continental Europe (French/German)",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/intercom/jobs/7939367",
-      "time": "2026-09-18T14:53:35.418Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Head of Sales, ANZ",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7985568003",
-      "time": "2026-09-18T15:44:12.894Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Head of GTM Strategy and Planning",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7997660003",
-      "time": "2026-09-18T16:17:08.958Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Regional Director, Commercial - Brazil",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5238613007",
-      "time": "2026-09-18T16:17:17.590Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Figma",
-      "title": "Director, Product Design - AI & Context",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/6199472004",
-      "time": "2026-09-18T16:41:34.199Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Intercom",
-      "title": "Senior Sales Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/intercom/jobs/8196135",
-      "time": "2026-09-18T17:00:03.650Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Gusto",
-      "title": "Head of Product, New Customer Experience",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8144242",
-      "time": "2026-09-18T17:00:10.072Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Director, Engineering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8034876",
-      "time": "2026-09-18T18:41:39.446Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Qualtrics",
       "title": "Senior Program Manager - Data Security & Information Governance",
@@ -4001,6 +3929,78 @@
       "url": "https://www.naukri.com/job-listings-senior-software-ai-automation-engineer-cgi-information-systems-and-management-consultants-bengaluru-9-to-12-years-220926908963?src=directSearch&sid=17904302416531847&xp=12&px=1",
       "time": "2026-09-26T13:45:59.784Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Inspirisys Solutions - Senior Sales Manager - IT Infrastructure Product",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/inspirisys-solutions-senior-sales-manager-it-infrastructure-product-1736101?ref=sp_prm&jobPos=15",
+      "time": "2026-09-26T18:30:15.686Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager - eCommerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/technical-program-manager-ecommerce-1726666?ref=sp&jobPos=18",
+      "time": "2026-09-26T18:30:40.518Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Wipro - Assistant Vice President - Location Delivery Head - F&A Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/wipro-assistant-vice-president-location-delivery-head-fanda-operations-1732813?ref=sp_br&jobPos=17",
+      "time": "2026-09-26T18:30:50.814Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Precast Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-precast-operations-1733145?ref=sp&jobPos=18",
+      "time": "2026-09-26T18:30:56.886Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Associate/Assistant Vice President - Change the Bank - Banking/Financial Service",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/associate-assistant-vice-president-change-the-bank-banking-financial-services-1736084?ref=sp&jobPos=8",
+      "time": "2026-09-26T18:31:40.839Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Adit - Director - Revenue Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/adit-director-revenue-operations-1734042?ref=sp&jobPos=8",
+      "time": "2026-09-26T18:31:55.288Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Moglix - Director - Strategy & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/moglix-director-strategy-and-operations-1720838?ref=sp_br&jobPos=16",
+      "time": "2026-09-26T18:32:01.588Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Celebal Technologies - Director - Sales Operations & Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/celebal-technologies-director-sales-operations-and-governance-1726136?ref=sp&jobPos=17",
+      "time": "2026-09-26T18:32:07.869Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Delhivery - Director - Regional Hub Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/delhivery-director-regional-hub-operations-1724134?ref=sp_br&jobPos=18",
+      "time": "2026-09-26T18:32:13.976Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3094,
+  "totalVerifiedInHistory": 3103,
   "portalBreakdown": {
-    "iimjobs": 290,
+    "iimjobs": 299,
     "naukri": 193,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T13:45:59.812Z",
-  "lastUpdated": "26/9/2026, 7:15:59 pm"
+  "lastSyncedAt": "2026-09-26T18:32:14.005Z",
+  "lastUpdated": "27/9/2026, 12:02:14 am"
 }
