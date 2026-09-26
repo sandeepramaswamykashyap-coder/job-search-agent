@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3033,
+  "applicationsSubmitted": 3040,
   "appliedRolesList": [
-    {
-      "company": "Okta",
-      "title": "Senior Manager, Solutions Engineering, Okta",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8094082",
-      "time": "2026-09-17T19:23:38.003Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fivetran",
-      "title": "Regional Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/fivetran/jobs/7991106003",
-      "time": "2026-09-17T19:32:09.697Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Instacart",
-      "title": "Director of Product, Logistics",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/instacart/jobs/8198284",
-      "time": "2026-09-17T19:32:13.473Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Operations Manager, Stripe Delivery Centre",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8053011",
-      "time": "2026-09-17T19:54:07.664Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Business Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e",
-      "time": "2026-09-17T20:19:33.157Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mercury",
-      "title": "Head of Market & Liquidity Risk",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6199427004",
-      "time": "2026-09-17T21:19:49.901Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Regional Director, Enterprise",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5231506007",
-      "time": "2026-09-17T21:27:50.649Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Director, Global Tech Recruiting",
@@ -4001,6 +3945,62 @@
       "url": "https://www.iimjobs.com/j/account-manager-senior-manager-fmcg-sales-1736070?ref=sp&jobPos=12",
       "time": "2026-09-26T09:52:56.799Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Engagement - Renewable Energy",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-engagement-renewable-energy-1733166?ref=sp&jobPos=13",
+      "time": "2026-09-26T10:10:10.367Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Financial Planning & Analysis",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-planning-and-analysis-1731539?ref=sp&jobPos=14",
+      "time": "2026-09-26T10:10:16.513Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Relationship Manager/Assistant Relationship Manager/Senior Relationship Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/relationship-manager-assistant-relationship-manager-senior-relationship-manager-corporate-coverage-banking-1733691?ref=sp&jobPos=15",
+      "time": "2026-09-26T10:10:22.740Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Facultative Reinsurance - General Insurance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-facultative-reinsurance-general-insurance-1734888?ref=sp&jobPos=16",
+      "time": "2026-09-26T10:10:28.835Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "General Manager/Deputy General Manager/Assistant General Manager - HEMM Maintena",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/general-manager-deputy-general-manager-assistant-general-manager-hemm-maintenance-1733272?ref=sp&jobPos=17",
+      "time": "2026-09-26T10:10:34.916Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Business Finance - FMCG - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-business-finance-fmcg-ca-1734409?ref=sp&jobPos=18",
+      "time": "2026-09-26T10:10:41.008Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "India Sales Head - Enterprise Integration/Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/india-sales-head-enterprise-integration-digital-transformation-1728738?ref=sp&jobPos=1",
+      "time": "2026-09-26T10:10:51.066Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3033,
+  "totalVerifiedInHistory": 3040,
   "portalBreakdown": {
-    "iimjobs": 254,
+    "iimjobs": 261,
     "naukri": 168,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T09:52:56.830Z",
-  "lastUpdated": "26/9/2026, 3:22:56 pm"
+  "lastSyncedAt": "2026-09-26T10:10:51.096Z",
+  "lastUpdated": "26/9/2026, 3:40:51 pm"
 }
