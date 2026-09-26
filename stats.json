@@ -1,207 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 2925,
+  "applicationsSubmitted": 2950,
   "appliedRolesList": [
-    {
-      "company": "Databricks",
-      "title": "Director, Order to Revenue Compliance",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8604585002",
-      "time": "2026-09-16T02:05:00.534Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Large Enterprise - Tokyo",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/18f58952-c242-4562-8732-073a0ae8029e",
-      "time": "2026-09-16T02:40:38.555Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Large Enterprise - Tokyo",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/18f58952-c242-4562-8732-073a0ae8029e",
-      "time": "2026-09-16T02:40:38.726Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celsior Technologies",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-pyramid-it-consulting-noida-hyderabad-bengaluru-12-to-22-years-160926012287?src=directSearch&sid=17895395746118336&xp=2&px=1",
-      "time": "2026-09-16T06:20:04.068Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Revenue Enablement Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5",
-      "time": "2026-09-16T06:43:08.467Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Engineering Director, Security Products",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8195695",
-      "time": "2026-09-16T07:45:40.328Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Engineering Director, Security Products",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8195695",
-      "time": "2026-09-16T07:45:40.516Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Shadowfax Technologies",
-      "title": "Director - Darkstore Operations (Hyperlocal)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-darkstore-operations-hyperlocal-shadowfax-technologies-bengaluru-7-to-12-years-160926043845?src=directSearch&sid=17895629836876855&xp=2&px=1",
-      "time": "2026-09-16T12:50:12.988Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Program Manager, Employee Giving and Volunteering",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8054452",
-      "time": "2026-09-16T16:31:02.640Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Program Manager, Employee Giving and Volunteering",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8054452",
-      "time": "2026-09-16T16:31:02.844Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior Director, Celonis Services EMEA Center of Excellence",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7818825003",
-      "time": "2026-09-16T16:35:50.780Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Celonis",
-      "title": "Senior Director, Celonis Services EMEA Center of Excellence",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7818825003",
-      "time": "2026-09-16T16:35:50.948Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Director of Paid Media",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8209123",
-      "time": "2026-09-16T20:45:04.672Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Director of Paid Media",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8209123",
-      "time": "2026-09-16T20:45:04.873Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Director, Strategic Initiatives - Office of the CEO",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/c6a51171-efe3-46de-8466-2c2f151f321d",
-      "time": "2026-09-16T21:23:23.522Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Loadshare Networks",
-      "title": "Associate Director - Operation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-operation-loadshare-networks-bengaluru-4-to-8-years-070926029083?src=directSearch&sid=17896277267333902&xp=1&px=1",
-      "time": "2026-09-17T06:48:59.093Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pendo",
-      "title": "Chief of Staff, CEO",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pendo/jobs/8730493002",
-      "time": "2026-09-17T06:49:45.629Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Head of Marketing APJ (Singapore based)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8209901",
-      "time": "2026-09-17T06:51:30.834Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, Global Partner Program Design & Scale",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5232012007",
-      "time": "2026-09-17T06:52:04.780Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Order to Cash Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/fcb3d139-7e8f-41f7-853d-02372f786f1d",
-      "time": "2026-09-17T06:52:48.875Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Creative Operations Lead, Business Marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/6ff654e4-fd45-4cac-a76f-30249e14292c",
-      "time": "2026-09-17T06:53:03.712Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sofi",
-      "title": "Lifecycle Technical Project Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/sofi/jobs/7993321003",
-      "time": "2026-09-17T06:57:25.911Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Program Manager,  Extensibility",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/7778643",
-      "time": "2026-09-17T07:01:54.253Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Senior Director, ANZ Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/klaviyo/jobs/7985568003",
-      "time": "2026-09-17T07:01:59.225Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Newrelic",
-      "title": "Senior Revenue Operations Manager - GTM Business Planning",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5418504008",
-      "time": "2026-09-17T07:03:38.583Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Togetherai",
       "title": "Director of Brand",
@@ -4001,6 +3801,206 @@
       "url": "https://www.naukri.com/job-listings-business-analyst-qburst-kochi-chennai-bengaluru-7-to-15-years-250926033098?src=directSearch&sid=17904068726468262&xp=4&px=1",
       "time": "2026-09-26T07:14:52.959Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Business Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-analyst-eurofins-bengaluru-8-to-12-years-260926002074?src=directSearch&sid=17904074158671684&xp=6&px=1",
+      "time": "2026-09-26T07:23:56.196Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Jconnect Infotech",
+      "title": "Change Management Lead (C2H)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-change-management-lead-c2h-jconnect-infotech-bengaluru-6-to-10-years-190926016309?src=directSearch&sid=17904074158671684&xp=11&px=1",
+      "time": "2026-09-26T07:24:36.794Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Delivery Manager - .NET/Java",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-net-java-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926017429?src=directSearch&sid=17904074862457402&xp=1&px=1",
+      "time": "2026-09-26T07:25:14.984Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "IT Delivery Manager - Java/.NET",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-delivery-manager-java-net-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926021975?src=directSearch&sid=17904074862457402&xp=2&px=1",
+      "time": "2026-09-26T07:25:41.115Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Delivery Manager - Cloud",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-cloud-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926000298?src=directSearch&sid=17904074862457402&xp=3&px=1",
+      "time": "2026-09-26T07:26:07.247Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pattonlabs INC",
+      "title": "It Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-delivery-manager-pattonlabs-inc-hyderabad-chennai-bengaluru-12-to-20-years-240926039938?src=directSearch&sid=17904074862457402&xp=4&px=1",
+      "time": "2026-09-26T07:26:18.573Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Service Delivery Manager - HPC & ITIL/ITSM",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-hpc-itil-itsm-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926021509?src=directSearch&sid=17904074862457402&xp=5&px=1",
+      "time": "2026-09-26T07:26:44.642Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Apexon",
+      "title": "Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-apexon-bengaluru-11-to-15-years-250926030694?src=directSearch&sid=17904074862457402&xp=6&px=1",
+      "time": "2026-09-26T07:27:10.770Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Hexaware Technologies",
+      "title": "Project /Delivery Manager - Dynamics CRM - Immediate Joiners",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-delivery-manager-dynamics-crm-immediate-joiners-hexaware-technologies-noida-chennai-bengaluru-12-to-20-years-230926039726?src=directSearch&sid=17904074862457402&xp=7&px=1",
+      "time": "2026-09-26T07:27:22.048Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HUCON Solutions",
+      "title": "Client Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-client-delivery-manager-hucon-solutions-hyderabad-chennai-bengaluru-8-to-13-years-310826007904?src=directSearch&sid=17904074862457402&xp=9&px=1",
+      "time": "2026-09-26T07:27:36.545Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Resource Pro",
+      "title": "Operations / Service Delivery Manager - BPO",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-service-delivery-manager-bpo-resource-pro-bengaluru-12-to-21-years-250526030879?src=directSearch&sid=17904074862457402&xp=10&px=1",
+      "time": "2026-09-26T07:27:47.828Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IndoSpace - Manager/Senior Manager - Company Secretarial & Compliance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/indospace-manager-senior-manager-company-secretarial-and-compliance-1732180?ref=sp_prm&jobPos=12",
+      "time": "2026-09-26T07:28:01.752Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Infineon - Senior Manager - Product Management & Marketing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/infineon-senior-manager-product-management-and-marketing-1734057?ref=sp_prm&jobPos=13",
+      "time": "2026-09-26T07:28:07.818Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Crompton - Senior Product Manager - B2B Outdoor Lighting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/crompton-senior-product-manager-b2b-outdoor-lighting-1734781?ref=sp_br_prm&jobPos=14",
+      "time": "2026-09-26T07:28:13.948Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "EY GDS - Senior Manager - Regulatory Compliance - CSV/QA Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ey-gds-senior-manager-regulatory-compliance-csv-qa-lead-1733402?ref=sp_prm&jobPos=15",
+      "time": "2026-09-26T07:28:20.131Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ralph Lauren - Senior Tax Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ralph-lauren-senior-tax-manager-1734435?ref=sp_br&jobPos=18",
+      "time": "2026-09-26T07:28:26.214Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Service Delivery Manager - Oracle Fusion Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-service-delivery-manager-oracle-fusion-operations-1731309?ref=sp&jobPos=18",
+      "time": "2026-09-26T07:28:36.327Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Edgistify - Program Manager - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/edgistify-program-manager-operations-1735262?ref=sp&jobPos=16",
+      "time": "2026-09-26T07:28:46.453Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "AI Program Manager - IT Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ai-program-manager-it-services-1735247?ref=sp&jobPos=17",
+      "time": "2026-09-26T07:28:52.797Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "At Dawn Technologies - Program Manager - Professional Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/at-dawn-technologies-program-manager-professional-services-1735465?ref=sp&jobPos=18",
+      "time": "2026-09-26T07:28:58.874Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Cashfree - Technical Program Manager - IIM/ISB/SPJIMR/FMS/NITIE",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cashfree-technical-program-manager-iim-isb-spjimr-fms-nitie-1715947?ref=sp&jobPos=10",
+      "time": "2026-09-26T07:29:14.810Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ergobite Tech Solutions - Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ergobite-tech-solutions-technical-program-manager-1711784?ref=sp&jobPos=11",
+      "time": "2026-09-26T07:29:20.936Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager - AI & Data Solutions",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/technical-program-manager-ai-and-data-solutions-1710468?ref=sp&jobPos=12",
+      "time": "2026-09-26T07:29:27.081Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Tekion - Senior Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/tekion-senior-technical-program-manager-1711073?ref=sp&jobPos=13",
+      "time": "2026-09-26T07:29:33.226Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Nextracker - Lead Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/nextracker-lead-technical-program-manager-1710621?ref=sp_br&jobPos=14",
+      "time": "2026-09-26T07:29:39.294Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 2925,
+  "totalVerifiedInHistory": 2950,
   "portalBreakdown": {
-    "iimjobs": 165,
-    "naukri": 149,
+    "iimjobs": 179,
+    "naukri": 160,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T07:14:52.989Z",
-  "lastUpdated": "26/9/2026, 12:44:52 pm"
+  "lastSyncedAt": "2026-09-26T07:29:39.317Z",
+  "lastUpdated": "26/9/2026, 12:59:39 pm"
 }
