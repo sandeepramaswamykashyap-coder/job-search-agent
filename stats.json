@@ -1,79 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3017,
+  "applicationsSubmitted": 3026,
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Immigration & Global Mobility Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/f859c941-4579-402a-aad5-a7bacbf33175",
-      "time": "2026-09-17T13:25:39.611Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Newrelic",
-      "title": "Senior Manager, Enterprise Sales ANZ(Acquisition)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5406388008",
-      "time": "2026-09-17T14:50:38.513Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Manager, APJ Field & Channel Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8208317",
-      "time": "2026-09-17T14:59:48.621Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Manager, APJ Field & Channel Marketing",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8208317",
-      "time": "2026-09-17T14:59:48.813Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Senior Manager, Compliance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8139062",
-      "time": "2026-09-17T15:47:09.272Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zoominfo",
-      "title": "Senior Manager, FP&A",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8568085002",
-      "time": "2026-09-17T15:48:54.258Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zoominfo",
-      "title": "Senior Manager, FP&A",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8568085002",
-      "time": "2026-09-17T15:48:54.451Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Payoneer",
-      "title": "Head of Product, PAYO Digital Bank",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/payoneer/jobs/8210296",
-      "time": "2026-09-17T16:13:44.117Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Multimodal",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/9b017213-6467-413f-b72c-59678c5d8bae",
-      "time": "2026-09-17T17:02:41.104Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cloudflare",
       "title": "Senior Manager, Customer Engineering, Northern Europe",
@@ -4001,6 +3929,78 @@
       "url": "https://www.iimjobs.com/j/senior-manager-transformation-consulting-1735096?ref=sp&jobPos=14",
       "time": "2026-09-26T09:17:14.231Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Customer Experience Transformation - IT/Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-customer-experience-transformation-it-digital-transformation-1731729?ref=sp&jobPos=15",
+      "time": "2026-09-26T09:34:11.775Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Digital Transformation Lead - Salesforce - IT",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/digital-transformation-lead-salesforce-it-1733741?ref=sp&jobPos=16",
+      "time": "2026-09-26T09:34:17.894Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Business Consultant - ITSM Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/business-consultant-itsm-transformation-1718316?ref=sp&jobPos=17",
+      "time": "2026-09-26T09:34:24.040Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Banking Transformation - Banking/Financial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-banking-transformation-banking-financial-services-1734223?ref=sp&jobPos=18",
+      "time": "2026-09-26T09:34:30.213Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Strategy Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-strategy-consulting-1734067?ref=sp&jobPos=1",
+      "time": "2026-09-26T09:34:40.140Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager/Manager - Business Development - IT Services/Solutions - West Reg",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-manager-business-development-it-services-solutions-west-region-1735872?ref=sp&jobPos=2",
+      "time": "2026-09-26T09:34:46.395Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Deputy Manager/Manager - Fashion Retail",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/deputy-manager-manager-fashion-retail-1735794?ref=sp&jobPos=3",
+      "time": "2026-09-26T09:34:52.480Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Indirect Procurement",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-indirect-procurement-1735537?ref=sp&jobPos=4",
+      "time": "2026-09-26T09:34:58.596Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager/Deputy General Manager - International Sales - Electronic",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-deputy-general-manager-international-sales-electronics-instrumentation-1735217?ref=sp&jobPos=5",
+      "time": "2026-09-26T09:35:04.762Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3017,
+  "totalVerifiedInHistory": 3026,
   "portalBreakdown": {
-    "iimjobs": 238,
+    "iimjobs": 247,
     "naukri": 168,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T09:17:14.260Z",
-  "lastUpdated": "26/9/2026, 2:47:14 pm"
+  "lastSyncedAt": "2026-09-26T09:35:04.792Z",
+  "lastUpdated": "26/9/2026, 3:05:04 pm"
 }
