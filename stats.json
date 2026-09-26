@@ -1,95 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3045,
+  "applicationsSubmitted": 3056,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Pacewisdom - Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/pacewisdom-technical-program-manager-1733389?ref=sp&jobPos=3",
-      "time": "2026-09-17T22:36:49.439Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vena Solutions - Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vena-solutions-technical-program-manager-1729935?ref=sp&jobPos=4",
-      "time": "2026-09-17T22:36:55.016Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zoominfo",
-      "title": "Director, Applied AI",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zoominfo/jobs/8800796002",
-      "time": "2026-09-17T22:45:19.919Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr Staff Technical Program Manager- Security",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8818577002",
-      "time": "2026-09-17T22:45:21.634Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Extended Workforce Program",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/194a69ed-d7a2-4af8-9bec-67a4b7b58451",
-      "time": "2026-09-17T22:47:27.529Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Financial Risk Management",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/1507068a-fe07-43e4-aaea-6fd1a00dc8d5",
-      "time": "2026-09-17T22:48:02.769Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Procurement Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/2006f284-96ff-42d9-bd40-8c71529b93ae",
-      "time": "2026-09-17T22:48:34.231Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Technical Revenue Accounting, Ads",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/8a50f878-5252-4f65-ad84-80ae2dc5637e",
-      "time": "2026-09-17T22:49:05.137Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Revenue Recognition - Strategic Deals",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/5b9cb831-673b-479d-a88a-dddf476b736f",
-      "time": "2026-09-17T22:49:39.167Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Revenue Accounting - Strategic Deals",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/5cfe7d92-83bb-4676-aeb4-dcb69fa3e095",
-      "time": "2026-09-17T22:50:12.829Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Order to Cash — AI Products & Cloud Partnerships",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755",
-      "time": "2026-09-17T22:50:58.957Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Senior Manager, Global Equity Administration",
@@ -4001,6 +3913,94 @@
       "url": "https://www.iimjobs.com/j/head-record-to-report-transformation-finance-accounting-1732190?ref=sp&jobPos=7",
       "time": "2026-09-26T10:28:44.613Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Gedu Services",
+      "title": "MetaCode Product Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-metacode-product-manager-gedu-services-noida-bengaluru-10-to-15-years-280726034698?src=directSearch&sid=17904192881175260&xp=3&px=1",
+      "time": "2026-09-26T10:41:45.155Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Royaloak Incorporation",
+      "title": "Walk-in || Assistant Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-manager-royaloak-incorporation-bengaluru-4-to-7-years-190926014159",
+      "time": "2026-09-26T10:42:11.195Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "Site reliability Engineer SRE/Incident Manager-Bangalore location",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-sre-incident-manager-bangalore-location-infosys-bengaluru-2-to-5-years-250926036383?src=directSearch&sid=17904192881175260&xp=8&px=1",
+      "time": "2026-09-26T10:42:22.601Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Input Zero Technologies",
+      "title": "Growth Marketing Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-growth-marketing-manager-input-zero-technologies-bengaluru-4-to-9-years-250926030131?src=directSearch&sid=17904192881175260&xp=9&px=1",
+      "time": "2026-09-26T10:42:34.101Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ACCTPRO",
+      "title": "Senior Technical Service Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-technical-service-manager-acctpro-bengaluru-10-to-12-years-250926018288?src=directSearch&sid=17904192881175260&xp=10&px=1",
+      "time": "2026-09-26T10:42:45.399Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mphasis",
+      "title": "Vendor Management Office (VMO) Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vendor-management-office-vmo-manager-mphasis-bengaluru-13-to-17-years-250926001642?src=directSearch&sid=17904192881175260&xp=11&px=1",
+      "time": "2026-09-26T10:42:56.756Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Transformation - GCC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-transformation-gcc-1724673?ref=sp&jobPos=8",
+      "time": "2026-09-26T10:47:28.859Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Finance Transformation Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/finance-transformation-manager-1728576?ref=sp&jobPos=14",
+      "time": "2026-09-26T10:47:35.059Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Digital Transformation Lead - Chemicals/Agriculture",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/digital-transformation-lead-chemicals-agriculture-1731426?ref=sp&jobPos=15",
+      "time": "2026-09-26T10:47:41.132Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lead - Digital Strategy & Transformation - IT",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/lead-digital-strategy-and-transformation-it-1733268?ref=sp&jobPos=16",
+      "time": "2026-09-26T10:47:47.333Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Finance/Digital Transformation Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/finance-digital-transformation-lead-1728447?ref=sp&jobPos=17",
+      "time": "2026-09-26T10:47:53.389Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3045,
+  "totalVerifiedInHistory": 3056,
   "portalBreakdown": {
-    "iimjobs": 266,
-    "naukri": 168,
+    "iimjobs": 271,
+    "naukri": 174,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-26T10:28:44.643Z",
-  "lastUpdated": "26/9/2026, 3:58:44 pm"
+  "lastSyncedAt": "2026-09-26T10:47:53.414Z",
+  "lastUpdated": "26/9/2026, 4:17:53 pm"
 }
