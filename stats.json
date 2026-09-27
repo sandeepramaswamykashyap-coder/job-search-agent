@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3123,
+  "applicationsSubmitted": 3127,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Prinicipal - Senior Manager - Transitions",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=1&jobId=1734198&pref=sp_br_prm",
-      "time": "2026-09-22T05:07:39.313Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Infineon - Senior Manager - Marketing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=2&jobId=1734056&pref=sp_prm",
-      "time": "2026-09-22T05:07:48.687Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Abbott - Senior National Sales Manager - eCommerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=3&jobId=1732612&pref=sp_br_prm",
-      "time": "2026-09-22T05:07:58.095Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Urban Company - Senior Operations Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733142/screening?ref=sp_br_prm&jobPos=4&pref=sp_br_prm",
-      "time": "2026-09-22T05:08:07.320Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "iDO Devices - Manager/Senior Manager - Human Resources",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-palantir-data-solution-architect-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-040926021988?src=directSearch&sid=17904717610246436&xp=6&px=1",
       "time": "2026-09-27T01:16:36.316Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Allianz - Associate Director - Insurance Transformation & Delivery",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1735579&pref=sp",
+      "time": "2026-09-27T03:24:53.686Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director/Vice President - Finance Transformation - Banking/Financial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1735684/screening?ref=sp&jobPos=18&pref=sp",
+      "time": "2026-09-27T03:25:03.517Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Wealth Management - Investment Bank",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=18&jobId=1733589&pref=sp",
+      "time": "2026-09-27T03:25:16.939Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Deputy General Manager/General Manager - Purchase - Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=18&jobId=1736094&pref=sp",
+      "time": "2026-09-27T03:25:51.955Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3123,
+  "totalVerifiedInHistory": 3127,
   "portalBreakdown": {
-    "iimjobs": 302,
+    "iimjobs": 306,
     "naukri": 210,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T01:16:36.355Z",
-  "lastUpdated": "27/9/2026, 6:46:36 am"
+  "lastSyncedAt": "2026-09-27T03:25:52.004Z",
+  "lastUpdated": "27/9/2026, 8:55:52 am"
 }
