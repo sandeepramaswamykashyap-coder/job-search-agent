@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3131,
+  "applicationsSubmitted": 3137,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "VFS Global - Senior Manager - Cyber Security Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=2&jobId=1731175&pref=sp_prm",
-      "time": "2026-09-22T05:08:59.440Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Urban Company - Senior Category Manager - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1731155/screening?ref=sp_br_prm&jobPos=3&pref=sp_br_prm",
-      "time": "2026-09-22T05:09:09.169Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Flipkart - Senior Operations Manager - Retail",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=4&jobId=1731224&pref=sp_br",
-      "time": "2026-09-22T05:09:18.594Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Nykaa - Senior Manager - Quick Commerce Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1731027/screening?ref=sp_br&jobPos=6&pref=sp_br",
-      "time": "2026-09-22T05:09:28.381Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Traya Health - Senior Manager - Quality Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1732862/screening?ref=sp_br&jobPos=7&pref=sp_br",
-      "time": "2026-09-22T05:09:38.413Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Director, Enterprise Sales - Greater China Region",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8016652",
-      "time": "2026-09-22T05:09:51.418Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Uni Club - Partnerships Program Manager - Business Development",
@@ -4001,6 +3953,54 @@
       "url": "https://www.iimjobs.com/j/analyst-asset-and-portfolio-management-1735281?ref=sp&jobPos=18",
       "time": "2026-09-27T04:00:28.240Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Head Warehouse Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-warehouse-operations-hindco-recruitment-consultants-bengaluru-10-to-18-years-220926925016?src=directSearch&sid=179048762423722&xp=1&px=1",
+      "time": "2026-09-27T05:40:38.240Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Olsen Spaces",
+      "title": "Head of Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-operations-olsen-spaces-bengaluru-5-to-10-years-200926014196?src=directSearch&sid=179048762423722&xp=6&px=1",
+      "time": "2026-09-27T05:40:52.931Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Macrocosm Commercials",
+      "title": "Operations Plant Head ( Sheet Metal & Electroplating)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-plant-head-sheet-metal-electroplating-macrocosm-commercials-bengaluru-8-to-12-years-230926025572?src=directSearch&sid=179048762423722&xp=8&px=1",
+      "time": "2026-09-27T05:41:04.280Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SCHUCO",
+      "title": "senior accoutant and purchase head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-accoutant-and-purchase-head-jurist-associates-bengaluru-8-to-13-years-280826005439?src=directSearch&sid=179048762423722&xp=9&px=1",
+      "time": "2026-09-27T05:41:15.592Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Shya Exports Private Limited",
+      "title": "International Sales Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-international-sales-head-shya-exports-bengaluru-delhi-ncr-mumbai-all-areas-10-to-15-years-260926001193?src=directSearch&sid=179048762423722&xp=11&px=1",
+      "time": "2026-09-27T05:41:27.200Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Head – Events",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-events-happinesscue-hyderabad-bengaluru-delhi-ncr-10-to-14-years-250926905967?src=directSearch&sid=179048762423722&xp=13&px=1",
+      "time": "2026-09-27T05:41:38.664Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3131,
+  "totalVerifiedInHistory": 3137,
   "portalBreakdown": {
     "iimjobs": 310,
-    "naukri": 210,
+    "naukri": 216,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T04:00:28.286Z",
-  "lastUpdated": "27/9/2026, 9:30:28 am"
+  "lastSyncedAt": "2026-09-27T05:41:38.819Z",
+  "lastUpdated": "27/9/2026, 11:11:38 am"
 }
