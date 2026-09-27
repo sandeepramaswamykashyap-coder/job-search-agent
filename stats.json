@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3137,
+  "applicationsSubmitted": 3141,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Uni Club - Partnerships Program Manager - Business Development",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733907/screening?ref=sp_br&jobPos=5&pref=sp_br",
-      "time": "2026-09-22T05:09:52.443Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amazon - Senior Program Manager - Financial Risk Mitigation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=6&jobId=1732829&pref=sp_br",
-      "time": "2026-09-22T05:10:01.936Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Intercom",
-      "title": "Director of Solutions Marketing",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/intercom/jobs/8172406",
-      "time": "2026-09-22T05:10:36.236Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Product Manager, Data Governance",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8066887",
-      "time": "2026-09-22T05:10:50.096Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Braze",
       "title": "Director Specialist Sales, AMER",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-head-events-happinesscue-hyderabad-bengaluru-delhi-ncr-10-to-14-years-250926905967?src=directSearch&sid=179048762423722&xp=13&px=1",
       "time": "2026-09-27T05:41:38.664Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "R1 RCM",
+      "title": "Program Manager - HR",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-hr-r1-rcm-global-private-limited-gurugram-chennai-bengaluru-11-to-18-years-210926923004?src=directSearch&sid=17904897426915448&xp=1&px=1",
+      "time": "2026-09-27T06:15:56.556Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GenBioCa",
+      "title": "Urgently Hiring - Senior Clinical Business Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-urgently-hiring-senior-clinical-business-analyst-swift-placements-pune-gurugram-bengaluru-7-to-9-years-270926001229?src=directSearch&sid=17904897426915448&xp=4&px=1",
+      "time": "2026-09-27T06:16:08.019Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Healthcare Industry",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-kornferry-hyderabad-bengaluru-9-to-14-years-260926003310?src=directSearch&sid=17904897426915448&xp=8&px=1",
+      "time": "2026-09-27T06:16:26.012Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC Service Delivery Center",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-pwc-service-delivery-center-bengaluru-8-to-12-years-250926031935?src=directSearch&sid=17904897426915448&xp=12&px=1",
+      "time": "2026-09-27T06:16:41.957Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3137,
+  "totalVerifiedInHistory": 3141,
   "portalBreakdown": {
     "iimjobs": 310,
-    "naukri": 216,
+    "naukri": 220,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T05:41:38.819Z",
-  "lastUpdated": "27/9/2026, 11:11:38 am"
+  "lastSyncedAt": "2026-09-27T06:16:41.991Z",
+  "lastUpdated": "27/9/2026, 11:46:41 am"
 }
