@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3130,
+  "applicationsSubmitted": 3131,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Jai Finance - Senior Finance Manager - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733103/screening?ref=sp_br_prm&jobPos=8&pref=sp_br_prm",
-      "time": "2026-09-22T05:08:45.749Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "VFS Global - Senior Manager - Cyber Security Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/job/1736200/screening?ref=sp&jobPos=18&pref=sp",
       "time": "2026-09-27T03:43:36.138Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Analyst - Asset & Portfolio Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/analyst-asset-and-portfolio-management-1735281?ref=sp&jobPos=18",
+      "time": "2026-09-27T04:00:28.240Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3130,
+  "totalVerifiedInHistory": 3131,
   "portalBreakdown": {
-    "iimjobs": 309,
+    "iimjobs": 310,
     "naukri": 210,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T03:43:36.183Z",
-  "lastUpdated": "27/9/2026, 9:13:36 am"
+  "lastSyncedAt": "2026-09-27T04:00:28.286Z",
+  "lastUpdated": "27/9/2026, 9:30:28 am"
 }
