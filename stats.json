@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3166,
+  "applicationsSubmitted": 3169,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "CRISIL LIMITED - Program Manager - Salesforce Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=7&jobId=1730112&pref=sp_br",
-      "time": "2026-09-22T06:39:53.283Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amazon Development Centre - Senior Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1729959/screening?ref=sp_br&jobPos=8&pref=sp_br",
-      "time": "2026-09-22T06:40:02.954Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1729750/screening?ref=sp&jobPos=2&pref=sp",
-      "time": "2026-09-22T06:40:16.558Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Associate Technical Program Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-lead-functional-consultant-sap-sd-is-retail-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926021695?src=directSearch&sid=17905491020052097&xp=13&px=1",
       "time": "2026-09-27T22:46:18.584Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "CONFIDETIAL",
+      "title": "HR Manager, HR Head, General Manager HR, Recruitment, Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hr-manager-hr-head-general-manager-hr-recruitment-operations-iplace-consultant-chennai-bengaluru-delhi-ncr-10-to-20-years-280926000241?src=directSearch&sid=17905501340491315&xp=8&px=1",
+      "time": "2026-09-27T23:02:31.289Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Freecharge Biz",
+      "title": "South Zonal Head-KN/TN/AP/TL - Micro LAP-Small Tickets-Open Market",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-south-zonal-head-kn-tn-ap-tl-micro-lap-small-tickets-open-market-freecharge-biz-hyderabad-coimbatore-bengaluru-10-to-16-years-270926002684?src=directSearch&sid=17905501340491315&xp=11&px=1",
+      "time": "2026-09-27T23:02:43.175Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Veeshan Labs",
+      "title": "Head Amazon & Flipkart Marketplace Sales | Health Products",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-amazon-flipkart-marketplace-sales-health-products-veeshan-labs-bengaluru-delhi-ncr-mumbai-all-areas-5-to-10-years-270926001157?src=directSearch&sid=17905501340491315&xp=12&px=1",
+      "time": "2026-09-27T23:02:54.670Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3166,
+  "totalVerifiedInHistory": 3169,
   "portalBreakdown": {
     "iimjobs": 315,
-    "naukri": 240,
+    "naukri": 243,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T22:46:18.629Z",
-  "lastUpdated": "28/9/2026, 4:16:18 am"
+  "lastSyncedAt": "2026-09-27T23:02:54.704Z",
+  "lastUpdated": "28/9/2026, 4:32:54 am"
 }
