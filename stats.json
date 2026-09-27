@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3157,
+  "applicationsSubmitted": 3158,
   "appliedRolesList": [
-    {
-      "company": "Alixpartners",
-      "title": "Investigations, Compliance & Privacy Director",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/7998697003",
-      "time": "2026-09-22T05:54:04.373Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Apex Group - Senior Manager - Treasury",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-program-manager-orangemantra-bengaluru-2-to-5-years-250926500354?src=directSearch&sid=1790536550411735&xp=8&px=1",
       "time": "2026-09-27T19:16:33.789Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Matrix HR Technologies",
+      "title": "Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-matrix-hr-technologies-bengaluru-15-to-24-years-210926019932?src=directSearch&sid=17905458151298144&xp=1&px=1",
+      "time": "2026-09-27T21:50:29.100Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3157,
+  "totalVerifiedInHistory": 3158,
   "portalBreakdown": {
     "iimjobs": 315,
-    "naukri": 231,
+    "naukri": 232,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T19:16:33.824Z",
-  "lastUpdated": "28/9/2026, 12:46:33 am"
+  "lastSyncedAt": "2026-09-27T21:50:29.192Z",
+  "lastUpdated": "28/9/2026, 3:20:29 am"
 }
