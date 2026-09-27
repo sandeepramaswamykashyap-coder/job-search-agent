@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3142,
+  "applicationsSubmitted": 3146,
   "appliedRolesList": [
-    {
-      "company": "Datadog",
-      "title": "Principal Partner Program Manager - Datadog Reseller Program",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/7984983",
-      "time": "2026-09-22T05:10:52.901Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alixpartners",
-      "title": "CPG/Retail Senior Vice President",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/alixpartners/jobs/6605140003",
-      "time": "2026-09-22T05:11:02.234Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Research Program Manager, Frontier Assurance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa",
-      "time": "2026-09-22T05:13:57.951Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Langchain",
-      "title": "Director of Commercial Sales",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/langchain/d81ac364-7b1c-48d2-a8b7-4bc7336c6be5",
-      "time": "2026-09-22T05:14:13.227Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Knock",
       "title": "Director of Sales - Remote (anywhere in the US)",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/strategic-hr-and-transformation-role-1731443?ref=sp&jobPos=18",
       "time": "2026-09-27T07:26:29.003Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Sigma Allied Services",
+      "title": "GCP Architect-Cloud - Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gcp-architect-cloud-senior-manager-sigma-allied-services-gurugram-bengaluru-mumbai-all-areas-14-to-21-years-260926007461?src=directSearch&sid=17905068752437993&xp=9&px=1",
+      "time": "2026-09-27T11:01:42.114Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Senior Manager – Store Performance",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-store-performance-happinesscue-hyderabad-bengaluru-delhi-ncr-8-to-12-years-250926906234?src=directSearch&sid=17905068752437993&xp=11&px=1",
+      "time": "2026-09-27T11:01:53.759Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Store Operations Manager – Beauty",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-store-operations-manager-beauty-happinesscue-hyderabad-bengaluru-delhi-ncr-6-to-10-years-250926906233?src=directSearch&sid=17905068752437993&xp=12&px=1",
+      "time": "2026-09-27T11:02:05.360Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Senior Manager - Corporate Events",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-corporate-events-happinesscue-mumbai-delhi-ncr-bengaluru-8-to-12-years-250926905728?src=directSearch&sid=17905068752437993&xp=13&px=1",
+      "time": "2026-09-27T11:02:16.780Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3142,
+  "totalVerifiedInHistory": 3146,
   "portalBreakdown": {
     "iimjobs": 311,
-    "naukri": 220,
+    "naukri": 224,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T07:26:29.049Z",
-  "lastUpdated": "27/9/2026, 12:56:29 pm"
+  "lastSyncedAt": "2026-09-27T11:02:16.816Z",
+  "lastUpdated": "27/9/2026, 4:32:16 pm"
 }
