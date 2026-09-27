@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3158,
+  "applicationsSubmitted": 3162,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Apex Group - Senior Manager - Treasury",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1731632&pref=sp_prm",
-      "time": "2026-09-22T06:38:28.419Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "HYDGEN - Manager/Senior Manager - Marketing & Communications Lead",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733096/screening?ref=sp_br_prm&jobPos=5&pref=sp_br_prm",
-      "time": "2026-09-22T06:38:38.096Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "GrayQuest - Senior Business Development Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733992/screening?ref=sp_prm&jobPos=6&pref=sp_prm",
-      "time": "2026-09-22T06:38:47.712Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Coromandel International - Senior Manager - Veterinary Category",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=7&jobId=1734469&pref=sp_prm",
-      "time": "2026-09-22T06:38:57.323Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Flipkart - Senior Manager - FK Data Ventures",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-director-matrix-hr-technologies-bengaluru-15-to-24-years-210926019932?src=directSearch&sid=17905458151298144&xp=1&px=1",
       "time": "2026-09-27T21:50:29.100Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Happinesscue",
+      "title": "Senior Manager – Integrated Marketing",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-integrated-marketing-happinesscue-mumbai-bengaluru-8-to-12-years-250926906100?src=directSearch&sid=17905467272762149&xp=13&px=1",
+      "time": "2026-09-27T22:06:01.174Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ecolab Global Services",
+      "title": "AI Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-manager-ecolab-global-services-private-limited-bengaluru-8-to-10-years-230926936664?src=directSearch&sid=17905468090092531&xp=1&px=1",
+      "time": "2026-09-27T22:07:22.772Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Lead/Senior Business Analyst- Asset Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-senior-business-analyst-asset-management-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926021341?src=directSearch&sid=17905468649989010&xp=1&px=1",
+      "time": "2026-09-27T22:08:13.833Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Lead Data Modeler",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-data-modeler-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926017859?src=directSearch&sid=17905470561353524&xp=10&px=1",
+      "time": "2026-09-27T22:11:34.707Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3158,
+  "totalVerifiedInHistory": 3162,
   "portalBreakdown": {
     "iimjobs": 315,
-    "naukri": 232,
+    "naukri": 236,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T21:50:29.192Z",
-  "lastUpdated": "28/9/2026, 3:20:29 am"
+  "lastSyncedAt": "2026-09-27T22:11:34.754Z",
+  "lastUpdated": "28/9/2026, 3:41:34 am"
 }
