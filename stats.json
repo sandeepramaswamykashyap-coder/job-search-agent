@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3127,
+  "applicationsSubmitted": 3130,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "iDO Devices - Manager/Senior Manager - Human Resources",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1734365/screening?ref=sp_br_prm&jobPos=5&pref=sp_br_prm",
-      "time": "2026-09-22T05:08:17.091Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "BrightChamps - Senior Legal Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=6&jobId=1731614&pref=sp_prm",
-      "time": "2026-09-22T05:08:26.605Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "BCG - Senior Manager - Finance Data Governance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=7&jobId=1733985&pref=sp_br_prm",
-      "time": "2026-09-22T05:08:36.117Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Jai Finance - Senior Finance Manager - CA",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=18&jobId=1736094&pref=sp",
       "time": "2026-09-27T03:25:51.955Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Sales Manager - Digital Transformation & Cloud Solutions",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1734984/screening?ref=sp&jobPos=18&pref=sp",
+      "time": "2026-09-27T03:42:47.697Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Regional Head - Wealth Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=18&jobId=1735145&pref=sp",
+      "time": "2026-09-27T03:43:01.096Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Finished Goods Store - Tyres",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1736200/screening?ref=sp&jobPos=18&pref=sp",
+      "time": "2026-09-27T03:43:36.138Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3127,
+  "totalVerifiedInHistory": 3130,
   "portalBreakdown": {
-    "iimjobs": 306,
+    "iimjobs": 309,
     "naukri": 210,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T03:25:52.004Z",
-  "lastUpdated": "27/9/2026, 8:55:52 am"
+  "lastSyncedAt": "2026-09-27T03:43:36.183Z",
+  "lastUpdated": "27/9/2026, 9:13:36 am"
 }
