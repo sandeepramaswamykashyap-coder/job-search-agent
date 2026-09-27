@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3118,
+  "applicationsSubmitted": 3122,
   "appliedRolesList": [
-    {
-      "company": "Careernet",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-careernet-bengaluru-13-to-18-years-170926031182?src=directSearch&sid=17900535278031064&xp=5&px=1",
-      "time": "2026-09-22T05:05:48.718Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Manager/Senior Manager - HRO Transformation Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-senior-manager-hro-transformation-lead-golden-opportunities-pvt-ltd-mumbai-thane-bengaluru-10-to-18-years-210926906838?src=directSearch&sid=17900535519353642&xp=4&px=1",
-      "time": "2026-09-22T05:06:06.194Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zycus Infotech",
-      "title": "Program Manager - ERP Implementation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-erp-implementation-zycus-infotech-mumbai-pune-bengaluru-10-to-15-years-210926024568?src=directSearch&sid=17900535786776070&xp=2&px=1",
-      "time": "2026-09-22T05:06:36.266Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IBU Consulting",
-      "title": "ServiceNow Product Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-product-manager-ibu-consulting-bengaluru-10-to-15-years-250626504222?src=directSearch&sid=17900535786776070&xp=3&px=1",
-      "time": "2026-09-22T05:06:47.819Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Resource Pro",
       "title": "Sr. Automation Manager, India",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-technical-program-manager-computer-vision-ai-ml-mobile-tiger-analytics-india-consulting-private-limited-hyderabad-chennai-bengaluru-15-to-20-years-200926010927?src=directSearch&sid=17904695197184059&xp=8&px=1",
       "time": "2026-09-27T00:39:25.102Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "ZettaMine Labs",
+      "title": "Squad Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-squad-lead-zettamine-labs-hyderabad-chennai-bengaluru-10-to-15-years-240926042293?src=directSearch&sid=17904706421092316&xp=9&px=1",
+      "time": "2026-09-27T00:57:45.706Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Recruitment Cell",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-recruitment-cell-bengaluru-8-to-16-years-250926004823?src=directSearch&sid=17904708088297400&xp=13&px=1",
+      "time": "2026-09-27T01:00:32.448Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Product Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-product-manager-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926020444?src=directSearch&sid=17904708355172456&xp=2&px=1",
+      "time": "2026-09-27T01:01:04.454Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Winning Edge",
+      "title": "AD -  HRBP | BPS / BPO / Contact Center",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ad-hrbp-bps-bpo-contact-center-edge-bengaluru-15-to-20-years-260926008918?src=directSearch&sid=17904708355172456&xp=13&px=1",
+      "time": "2026-09-27T01:01:34.982Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3118,
+  "totalVerifiedInHistory": 3122,
   "portalBreakdown": {
     "iimjobs": 302,
-    "naukri": 205,
+    "naukri": 209,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T00:39:25.153Z",
-  "lastUpdated": "27/9/2026, 6:09:25 am"
+  "lastSyncedAt": "2026-09-27T01:01:35.014Z",
+  "lastUpdated": "27/9/2026, 6:31:35 am"
 }
