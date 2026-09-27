@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3148,
+  "applicationsSubmitted": 3149,
   "appliedRolesList": [
-    {
-      "company": "Cohere",
-      "title": "Revenue Enablement Program Manager - EMEA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68",
-      "time": "2026-09-22T05:14:30.644Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ripple",
       "title": "Staff GRC Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-agile-coach-tanisha-systems-noida-gurugram-bengaluru-6-to-11-years-210926005628?src=directSearch&sid=17905212634433843&xp=11&px=1",
       "time": "2026-09-27T15:01:32.331Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pangloss Reimbursement Management",
+      "title": "Process Improvement Department Builder - Contract 4-6 Months",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-process-improvement-department-builder-contract-4-6-months-pangloss-reimbursement-management-bengaluru-delhi-ncr-mumbai-all-areas-12-to-22-years-270926003702?src=directSearch&sid=17905325986002426&xp=9&px=1",
+      "time": "2026-09-27T18:10:22.204Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3148,
+  "totalVerifiedInHistory": 3149,
   "portalBreakdown": {
     "iimjobs": 311,
-    "naukri": 226,
+    "naukri": 227,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-27T15:01:32.379Z",
-  "lastUpdated": "27/9/2026, 8:31:32 pm"
+  "lastSyncedAt": "2026-09-27T18:10:22.272Z",
+  "lastUpdated": "27/9/2026, 11:40:22 pm"
 }
