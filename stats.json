@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3185,
+  "applicationsSubmitted": 3188,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ralph Lauren - Application Development Analyst - Product Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=1&jobId=1734422&pref=sp_br_prm",
-      "time": "2026-09-22T08:20:12.538Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "WPP Media - Senior Vice President - Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=2&jobId=1734213&pref=sp_br_prm",
-      "time": "2026-09-22T08:20:21.964Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Databricks",
-      "title": "Technical Program Manager, FDE",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8648496002",
-      "time": "2026-09-22T08:28:01.405Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Director, Recruiting Enablement & Programs",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-benefits-and-leave-admin-analyst-team-lead-role-cognizant-bengaluru-6-to-10-years-280926004964?src=directSearch&sid=17905748697317958&xp=12&px=1",
       "time": "2026-09-28T05:55:21.630Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Commvault",
+      "title": "Senior Manager, Payroll",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-payroll-commvault-systems-india-private-limited-bengaluru-8-to-12-years-280926903703?src=directSearch&sid=17905758253943552&xp=10&px=1",
+      "time": "2026-09-28T06:10:56.558Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys BPM",
+      "title": "Lead - Client Operations & Services",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-client-operations-services-infosys-bpm-limited-bengaluru-12-to-18-years-280926903801?src=directSearch&sid=17905759721093779&xp=6&px=1",
+      "time": "2026-09-28T06:13:12.550Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sonata Software",
+      "title": "Sharepoint Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sharepoint-architect-sonata-software-ltd-hyderabad-bengaluru-12-to-18-years-280926904000?src=directSearch&sid=17905760067496342&xp=4&px=1",
+      "time": "2026-09-28T06:13:45.167Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3185,
+  "totalVerifiedInHistory": 3188,
   "portalBreakdown": {
     "iimjobs": 320,
-    "naukri": 254,
+    "naukri": 257,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T05:55:21.678Z",
-  "lastUpdated": "28/9/2026, 11:25:21 am"
+  "lastSyncedAt": "2026-09-28T06:13:45.259Z",
+  "lastUpdated": "28/9/2026, 11:43:45 am"
 }
