@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3213,
+  "applicationsSubmitted": 3215,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "BMC Software - Director - Mainframe Modernization & Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/bmc-software-director-mainframe-modernization-and-transformation-1734861?ref=sp_br_prm&jobPos=2",
-      "time": "2026-09-22T11:24:12.344Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Air India - Chief Manager - Revenue Strategy & Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/air-india-chief-manager-revenue-strategy-and-transformation-1733601?ref=sp_br&jobPos=4",
-      "time": "2026-09-22T11:24:18.428Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Magna International - Project Manager - Finance Transformation",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/ketto-product-manager-senior-product-manager-1736442?ref=sp_prm&jobPos=2",
       "time": "2026-09-28T10:48:50.790Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "66degrees",
+      "title": "Associate Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-delivery-manager-66degrees-bengaluru-7-to-12-years-010926012070?src=directSearch&sid=17905935536439126&xp=3&px=1",
+      "time": "2026-09-28T11:06:07.568Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "66degrees",
+      "title": "Senior Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-delivery-manager-66degrees-pune-bengaluru-10-to-20-years-200726008911?src=directSearch&sid=17905935536439126&xp=6&px=1",
+      "time": "2026-09-28T11:06:18.983Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3213,
+  "totalVerifiedInHistory": 3215,
   "portalBreakdown": {
     "iimjobs": 328,
-    "naukri": 274,
+    "naukri": 276,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T10:48:50.823Z",
-  "lastUpdated": "28/9/2026, 4:18:50 pm"
+  "lastSyncedAt": "2026-09-28T11:06:19.009Z",
+  "lastUpdated": "28/9/2026, 4:36:19 pm"
 }
