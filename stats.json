@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3225,
+  "applicationsSubmitted": 3230,
   "appliedRolesList": [
-    {
-      "company": "Zscaler",
-      "title": "Principal Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5236314007",
-      "time": "2026-09-22T12:39:42.757Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "DR Ravi Mehta Consultancy Services (opc)",
-      "title": "Unit Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-unit-head-dr-ravi-mehta-consultancy-services-opc-bengaluru-2-to-7-years-180926021262?src=directSearch&sid=17900817134963665&xp=2&px=1",
-      "time": "2026-09-22T12:55:27.768Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Everforth Quinnox",
-      "title": "ServiceNow Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-operations-manager-everforth-quinnox-bengaluru-13-to-20-years-080926011449?src=directSearch&sid=17900817344141246&xp=4&px=1",
-      "time": "2026-09-22T12:55:52.109Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Talent Management Lead - Performance Management - Manufacturing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/talent-management-lead-performance-management-manufacturing-1734050?ref=sp&jobPos=5",
-      "time": "2026-09-22T12:56:55.804Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vice President - Project Management/PMO - Legal/Compliance & Regulatory Change",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vice-president-project-management-pmo-legal-compliance-and-regulatory-change-1718245?ref=sp&jobPos=6",
-      "time": "2026-09-22T12:57:01.934Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Management Consultant",
@@ -4001,6 +3961,46 @@
       "url": "https://www.naukri.com/job-listings-manager-cushman-wakefield-india-pvt-ltd-bengaluru-1-to-6-years-280926920389?src=directSearch&sid=17905987345688939&xp=11&px=1",
       "time": "2026-09-28T12:32:41.200Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Deluxe Media",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-deluxe-media-bengaluru-8-to-12-years-150726018409?src=directSearch&sid=17905995862551495&xp=4&px=1",
+      "time": "2026-09-28T12:46:40.103Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perydot",
+      "title": "Program manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-perydot-bengaluru-8-to-12-years-280926501075?src=directSearch&sid=17905995862551495&xp=6&px=1",
+      "time": "2026-09-28T12:46:54.627Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "AMS / ADM Solution Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ams-adm-solution-architect-capgemini-technology-services-india-limited-bengaluru-12-to-16-years-280926919892?src=directSearch&sid=17905996521247972&xp=7&px=1",
+      "time": "2026-09-28T12:47:52.460Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CGI",
+      "title": "Azure Delivery Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-azure-delivery-consultant-cgi-information-systems-and-management-consultants-bengaluru-10-to-15-years-280926919738?src=directSearch&sid=17905996521247972&xp=9&px=1",
+      "time": "2026-09-28T12:48:06.949Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Solution Architect - Process Industry",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-solution-architect-process-industry-capgemini-technology-services-india-limited-bengaluru-12-to-18-years-280926920046?src=directSearch&sid=17905996521247972&xp=12&px=1",
+      "time": "2026-09-28T12:48:21.427Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3225,
+  "totalVerifiedInHistory": 3230,
   "portalBreakdown": {
     "iimjobs": 330,
-    "naukri": 284,
+    "naukri": 289,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T12:32:41.231Z",
-  "lastUpdated": "28/9/2026, 6:02:41 pm"
+  "lastSyncedAt": "2026-09-28T12:48:21.456Z",
+  "lastUpdated": "28/9/2026, 6:18:21 pm"
 }
