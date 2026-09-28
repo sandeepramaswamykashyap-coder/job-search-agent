@@ -1,71 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3239,
+  "applicationsSubmitted": 3247,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Aelum Consulting - ServiceNow Technical Architect",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/aelum-consulting-servicenow-technical-architect-1718784?ref=sp&jobPos=8",
-      "time": "2026-09-22T12:58:07.438Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Director, Professional Services & Consulting",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5192638007",
-      "time": "2026-09-22T12:58:32.253Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tanium",
-      "title": "Director, Product Partnerships - Frontier Labs & Strategic Partnerships",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/7739888",
-      "time": "2026-09-22T12:58:39.862Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Health & Safety Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8220226",
-      "time": "2026-09-22T13:17:28.854Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Impetus Technologies",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-impetus-technologies-pune-bengaluru-delhi-ncr-14-to-22-years-210926019841?src=directSearch&sid=17900868995238964&xp=1&px=1",
-      "time": "2026-09-22T14:21:53.829Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Genpact",
-      "title": "Technical Program Manager, Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-bangalore-genpact-bengaluru-15-to-22-years-270826029642?src=directSearch&sid=17900868995238964&xp=5&px=1",
-      "time": "2026-09-22T14:22:10.723Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Engineering Manager, Core AI Automation (Platform)",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8124224",
-      "time": "2026-09-22T15:48:19.682Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Global Alliance Director - Accenture",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5015984007",
-      "time": "2026-09-22T16:12:45.524Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Jones Lang LaSalle (JLL)",
       "title": "Senior Manager, Intelligent Automation",
@@ -4001,6 +3937,70 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-head-it-edufice-education-services-bengaluru-8-to-12-years-280926007838?src=directSearch&sid=17906068937996705&xp=13&px=1",
       "time": "2026-09-28T14:49:05.191Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tech Mahindra",
+      "title": "Payments Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-payments-program-manager-tech-mahindra-hyderabad-pune-bengaluru-13-to-23-years-280926031111?src=directSearch&sid=17906088089113956&xp=7&px=1",
+      "time": "2026-09-28T15:20:26.028Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte US-India Offices",
+      "title": "Zuora Billing- Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-zuora-billing-manager-deloitte-us-india-offices-hyderabad-bengaluru-delhi-ncr-10-to-15-years-290726016949?src=directSearch&sid=17906090149577868&xp=1&px=1",
+      "time": "2026-09-28T15:23:48.919Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Bread Financial",
+      "title": "Procurement Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-procurement-manager-bread-financial-global-solutions-india-llp-bengaluru-12-to-17-years-280926922448?src=directSearch&sid=17906090149577868&xp=4&px=1",
+      "time": "2026-09-28T15:24:06.598Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Project Manager ( Finance Domain)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-finance-domain-primestar-consulting-services-private-limited-op-c-bengaluru-10-to-15-years-280926902436?src=directSearch&sid=17906090149577868&xp=8&px=1",
+      "time": "2026-09-28T15:24:30.600Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Jade Global",
+      "title": "Oracle Fusion Technical Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-oracle-fusion-technical-project-manager-jade-global-hyderabad-pune-bengaluru-10-to-20-years-280926003960?src=directSearch&sid=17906090149577868&xp=9&px=1",
+      "time": "2026-09-28T15:24:56.734Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CMMI Level 5 IT Company - MNC",
+      "title": "Salesforce QA Manager / Salesforce Test Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-salesforce-qa-manager-salesforce-test-manager-consult-asia-bengaluru-12-to-20-years-250926912339?src=directSearch&sid=17906090149577868&xp=10&px=1",
+      "time": "2026-09-28T15:25:08.043Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Bounteous",
+      "title": "Technical Project Manager-BI-FCHDC",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-project-manager-bi-fchdc-bounteous-chennai-bengaluru-9-to-14-years-250926018555?src=directSearch&sid=17906090149577868&xp=11&px=1",
+      "time": "2026-09-28T15:25:44.041Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Omega Healthcare",
+      "title": "Manager - Oracle HCM Functional Support & HR Technology",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-oracle-hcm-functional-support-hr-technology-omega-healthcare-hyderabad-chennai-bengaluru-8-to-12-years-250926014709?src=directSearch&sid=17906090149577868&xp=12&px=1",
+      "time": "2026-09-28T15:25:55.340Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3239,
+  "totalVerifiedInHistory": 3247,
   "portalBreakdown": {
     "iimjobs": 330,
-    "naukri": 298,
+    "naukri": 306,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T14:49:05.221Z",
-  "lastUpdated": "28/9/2026, 8:19:05 pm"
+  "lastSyncedAt": "2026-09-28T15:25:55.371Z",
+  "lastUpdated": "28/9/2026, 8:55:55 pm"
 }
