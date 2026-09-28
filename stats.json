@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3183,
+  "applicationsSubmitted": 3185,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Head - Manager - Supply Chain/Operations - Beverages",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1731259/screening?ref=sp_prm&jobPos=7&pref=sp_prm",
-      "time": "2026-09-22T08:19:49.205Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Univest - Head - Broking Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1734612/screening?ref=sp_br&jobPos=8&pref=sp_br",
-      "time": "2026-09-22T08:19:58.897Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Ralph Lauren - Application Development Analyst - Product Transformation",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-construction-infrastructure-projects-manav-sansadhan-vikas-salaahkar-bengaluru-15-to-24-years-210926027930?src=directSearch&sid=17905736686412010&xp=13&px=1",
       "time": "2026-09-28T05:35:15.381Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tracxn",
+      "title": "Tracxn - Cybersecurity - Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tracxn-cybersecurity-technical-program-manager-tracxn-bengaluru-4-to-7-years-280926004439?src=directSearch&sid=17905748009774589&xp=7&px=1",
+      "time": "2026-09-28T05:53:51.022Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Benefits and Leave Admin Analyst  - Team Lead role",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-benefits-and-leave-admin-analyst-team-lead-role-cognizant-bengaluru-6-to-10-years-280926004964?src=directSearch&sid=17905748697317958&xp=12&px=1",
+      "time": "2026-09-28T05:55:21.630Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3183,
+  "totalVerifiedInHistory": 3185,
   "portalBreakdown": {
     "iimjobs": 320,
-    "naukri": 252,
+    "naukri": 254,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T05:35:15.412Z",
-  "lastUpdated": "28/9/2026, 11:05:15 am"
+  "lastSyncedAt": "2026-09-28T05:55:21.678Z",
+  "lastUpdated": "28/9/2026, 11:25:21 am"
 }
