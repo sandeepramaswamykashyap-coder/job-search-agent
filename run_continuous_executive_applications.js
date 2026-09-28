@@ -53,21 +53,24 @@ async function startContinuousExecutiveGrind() {
 
   clearLock();
 
-  let browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
-    channel: 'chrome',
-    headless: false,
-    viewport: { width: 1366, height: 850 },
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
-    args: ['--disable-blink-features=AutomationControlled']
-  });
-
   let cycle = 1;
 
   while (true) {
-    let page = browserContext.pages()[0] || await browserContext.newPage();
     console.log(`\n▶️ === STARTING CYCLE #${cycle} ===`);
+    clearLock();
 
+    let browserContext = null;
     try {
+      browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
+        channel: 'chrome',
+        headless: false,
+        viewport: { width: 1366, height: 850 },
+        userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        args: ['--disable-blink-features=AutomationControlled']
+      });
+
+      let page = browserContext.pages()[0] || await browserContext.newPage();
+
       // 1. NAUKRI
       console.log(`\n[Cycle #${cycle}] 🇮🇳 Running Naukri Executive Sweep...`);
       try {
@@ -95,6 +98,10 @@ async function startContinuousExecutiveGrind() {
       }
       await closeExtraTabs(browserContext, page);
 
+      // Close browser context cleanly to free 100% of memory
+      await browserContext.close().catch(() => {});
+      browserContext = null;
+
       // Sync progress
       syncToGitHub(`feat: executive runner completed cycle #${cycle}`);
 
@@ -104,17 +111,11 @@ async function startContinuousExecutiveGrind() {
 
     } catch (criticalErr) {
       console.error(`[Cycle #${cycle}] ❌ Critical error: ${criticalErr.message}`);
+      if (browserContext) {
+        await browserContext.close().catch(() => {});
+      }
+      clearLock();
       await sleep(15000);
-      try {
-        clearLock();
-        if (browserContext) await browserContext.close().catch(() => {});
-        browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
-          channel: 'chrome',
-          headless: false,
-          viewport: { width: 1366, height: 850 },
-          args: ['--disable-blink-features=AutomationControlled']
-        });
-      } catch (_) {}
     }
   }
 }
