@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3171,
+  "applicationsSubmitted": 3172,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Guidewire - Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=8&jobId=1710647&pref=sp",
-      "time": "2026-09-22T06:40:55.957Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Okta",
       "title": "Director, APJ Deal Strategy",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-ms-dynamics-delivery-manager-hexaware-technologies-hyderabad-chennai-bengaluru-9-to-14-years-220926002023?src=directSearch&sid=17905582903635278&xp=12&px=1",
       "time": "2026-09-28T01:18:27.712Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Relationship Manager/Senior Relationship Manager - Corporate Coverage - Bank",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/relationship-manager-senior-relationship-manager-corporate-coverage-bank-1736230?ref=sp&jobPos=10",
+      "time": "2026-09-28T03:20:58.680Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3171,
+  "totalVerifiedInHistory": 3172,
   "portalBreakdown": {
-    "iimjobs": 315,
+    "iimjobs": 316,
     "naukri": 245,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T01:18:27.753Z",
-  "lastUpdated": "28/9/2026, 6:48:27 am"
+  "lastSyncedAt": "2026-09-28T03:20:59.314Z",
+  "lastUpdated": "28/9/2026, 8:50:59 am"
 }
