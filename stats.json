@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3181,
+  "applicationsSubmitted": 3183,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Supply Chain Operations - Retail",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1731972/screening?ref=sp_prm&jobPos=5&pref=sp_prm",
-      "time": "2026-09-22T08:19:29.462Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Location HR Head - HR Operations - Manufacturing Firm",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733511/screening?ref=sp_prm&jobPos=6&pref=sp_prm",
-      "time": "2026-09-22T08:19:39.317Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Head - Manager - Supply Chain/Operations - Beverages",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/commercial-excellence-director-healthcare-iim-mdi-isb-1736271?ref=sp&jobPos=17",
       "time": "2026-09-28T05:24:00.771Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "Azure Databricks - Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-azure-databricks-senior-manager-pwc-kolkata-pune-bengaluru-14-to-19-years-210926024809?src=directSearch&sid=17905736686412010&xp=7&px=1",
+      "time": "2026-09-28T05:34:55.852Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "South Indian conglomerate spanning Education, Hospitality, Property and Agriculture.",
+      "title": "Senior Manager - Construction & Infrastructure Projects",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-construction-infrastructure-projects-manav-sansadhan-vikas-salaahkar-bengaluru-15-to-24-years-210926027930?src=directSearch&sid=17905736686412010&xp=13&px=1",
+      "time": "2026-09-28T05:35:15.381Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3181,
+  "totalVerifiedInHistory": 3183,
   "portalBreakdown": {
     "iimjobs": 320,
-    "naukri": 250,
+    "naukri": 252,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T05:24:00.811Z",
-  "lastUpdated": "28/9/2026, 10:54:00 am"
+  "lastSyncedAt": "2026-09-28T05:35:15.412Z",
+  "lastUpdated": "28/9/2026, 11:05:15 am"
 }
