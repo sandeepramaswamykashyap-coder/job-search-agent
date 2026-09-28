@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3230,
+  "applicationsSubmitted": 3231,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Management Consultant",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/management-consultant-1729106?ref=sp&jobPos=7",
-      "time": "2026-09-22T12:57:08.018Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager - Talent Management",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-solution-architect-process-industry-capgemini-technology-services-india-limited-bengaluru-12-to-18-years-280926920046?src=directSearch&sid=17905996521247972&xp=12&px=1",
       "time": "2026-09-28T12:48:21.427Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Jindal Aluminium",
+      "title": "IT Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-head-jindal-aluminium-bengaluru-12-to-15-years-280926027683?src=directSearch&sid=17906007653945371&xp=8&px=1",
+      "time": "2026-09-28T13:06:38.775Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3230,
+  "totalVerifiedInHistory": 3231,
   "portalBreakdown": {
     "iimjobs": 330,
-    "naukri": 289,
+    "naukri": 290,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T12:48:21.456Z",
-  "lastUpdated": "28/9/2026, 6:18:21 pm"
+  "lastSyncedAt": "2026-09-28T13:06:38.813Z",
+  "lastUpdated": "28/9/2026, 6:36:38 pm"
 }
