@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3175,
+  "applicationsSubmitted": 3177,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Clear - Program Manager - Strategy & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=7&jobId=1727751&pref=sp_br",
-      "time": "2026-09-22T08:18:13.952Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Technical Program Manager - Data Initiatives",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1711920/screening?ref=sp&jobPos=8&pref=sp",
-      "time": "2026-09-22T08:18:37.673Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manipal Business Solutions - Head - Operations",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-entry-level-manager-s3-engg-bengaluru-0-to-4-years-260926006831?src=directSearch&sid=17905697256991954&xp=12&px=1",
       "time": "2026-09-28T04:29:09.481Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Shriram Life Insurance",
+      "title": "Unit Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-unit-manager-shriram-life-insurance-bengaluru-0-to-5-years-280926001943?src=directSearch&sid=17905707787386895&xp=8&px=1",
+      "time": "2026-09-28T04:46:49.089Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Content Marketing & Creative Strategist",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-content-marketing-and-creative-strategist-1736258?ref=sp&jobPos=17",
+      "time": "2026-09-28T04:48:42.250Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3175,
+  "totalVerifiedInHistory": 3177,
   "portalBreakdown": {
-    "iimjobs": 316,
-    "naukri": 248,
+    "iimjobs": 317,
+    "naukri": 249,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T04:29:09.521Z",
-  "lastUpdated": "28/9/2026, 9:59:09 am"
+  "lastSyncedAt": "2026-09-28T04:48:42.297Z",
+  "lastUpdated": "28/9/2026, 10:18:42 am"
 }
