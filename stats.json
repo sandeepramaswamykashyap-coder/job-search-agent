@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3205,
+  "applicationsSubmitted": 3208,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Mondelez - Plant Digital Transformation Lead",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=6&jobId=1730511&pref=sp_br",
-      "time": "2026-09-22T09:51:05.977Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Chaayos - Product Manager - Operations Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1734222/screening?ref=sp_br&jobPos=7&pref=sp_br",
-      "time": "2026-09-22T09:51:15.700Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mongodb",
-      "title": "Head of Executive Operations - Office of CEO",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/mongodb/jobs/8103967",
-      "time": "2026-09-22T11:18:44.648Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Director, Threat Research Engagement",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-marketplace-business-happinesscue-hyderabad-chennai-bengaluru-8-to-12-years-280926914178?src=directSearch&sid=17905890050267476&xp=5&px=1",
       "time": "2026-09-28T09:50:28.510Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Sonata Software",
+      "title": "ServiceNow Techno-Functional Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-techno-functional-project-manager-sonata-software-hyderabad-chennai-bengaluru-13-to-20-years-280926015058?src=directSearch&sid=17905902045184321&xp=3&px=1",
+      "time": "2026-09-28T10:10:21.655Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lenskart - Program Manager - Business Operations & Retail Strategy",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/lenskart-program-manager-business-operations-and-retail-strategy-1736424?ref=sp_br&jobPos=14",
+      "time": "2026-09-28T10:13:37.686Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Regional HR Business Partner - Retail Fashion",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-regional-hr-business-partner-retail-fashion-1736429?ref=sp&jobPos=15",
+      "time": "2026-09-28T10:14:28.071Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3205,
+  "totalVerifiedInHistory": 3208,
   "portalBreakdown": {
-    "iimjobs": 324,
-    "naukri": 270,
+    "iimjobs": 326,
+    "naukri": 271,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T09:50:28.544Z",
-  "lastUpdated": "28/9/2026, 3:20:28 pm"
+  "lastSyncedAt": "2026-09-28T10:14:28.108Z",
+  "lastUpdated": "28/9/2026, 3:44:28 pm"
 }
