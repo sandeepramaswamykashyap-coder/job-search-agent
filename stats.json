@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3221,
+  "applicationsSubmitted": 3225,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Transformation Leader - Change Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-transformation-leader-change-management-1730367?ref=sp&jobPos=3",
-      "time": "2026-09-22T11:25:07.476Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Leader - Business Transformation - Change Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-leader-business-transformation-change-management-1733876?ref=sp&jobPos=4",
-      "time": "2026-09-22T11:25:13.576Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "N26",
-      "title": "ICT GRC – ICT Governance Senior Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/n26/jobs/8203566",
-      "time": "2026-09-22T11:38:43.664Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Managing Director, Financial Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8171829",
-      "time": "2026-09-22T12:01:52.895Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zscaler",
       "title": "Principal Program Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/meesho-senior-product-manager-1736511?ref=sp_br&jobPos=18",
       "time": "2026-09-28T12:15:58.772Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "Site Reliability Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-infosys-limited-bengaluru-11-to-20-years-280926920623?src=directSearch&sid=17905986051705692&xp=5&px=1",
+      "time": "2026-09-28T12:30:22.317Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Masai School",
+      "title": "Director Legal Counsel",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-legal-counsel-masai-school-bengaluru-10-to-12-years-280926025234?src=directSearch&sid=17905986350933362&xp=5&px=1",
+      "time": "2026-09-28T12:30:48.983Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Amazon",
+      "title": "Sales Operations Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-operations-leader-amazon-bengaluru-8-to-13-years-280926016732?src=directSearch&sid=17905986350933362&xp=6&px=1",
+      "time": "2026-09-28T12:31:24.976Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cushman & Wakefield",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-cushman-wakefield-india-pvt-ltd-bengaluru-1-to-6-years-280926920389?src=directSearch&sid=17905987345688939&xp=11&px=1",
+      "time": "2026-09-28T12:32:41.200Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3221,
+  "totalVerifiedInHistory": 3225,
   "portalBreakdown": {
     "iimjobs": 330,
-    "naukri": 280,
+    "naukri": 284,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T12:15:58.800Z",
-  "lastUpdated": "28/9/2026, 5:45:58 pm"
+  "lastSyncedAt": "2026-09-28T12:32:41.231Z",
+  "lastUpdated": "28/9/2026, 6:02:41 pm"
 }
