@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3200,
+  "applicationsSubmitted": 3201,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vantive - Consultant - ERP Finance Modernization & Transformation Lead",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=1&jobId=1734797&pref=sp_prm",
-      "time": "2026-09-22T09:50:18.568Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Hackett Group - Manager/Senior Consultant - Technology Transformation",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-gm-operation-india-randstad-bengaluru-delhi-ncr-20-to-25-years-180926028908?src=directSearch&sid=17905808084983719&xp=9&px=1",
       "time": "2026-09-28T07:33:53.905Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "MSM Global Education",
+      "title": "Senior Manager / Associate Director, Partnerships, MSM CampusOS",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-associate-director-partnerships-msm-campusos-msm-global-education-bengaluru-7-to-12-years-280926010231?src=directSearch&sid=17905816454501339&xp=12&px=1",
+      "time": "2026-09-28T07:48:04.816Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3200,
+  "totalVerifiedInHistory": 3201,
   "portalBreakdown": {
     "iimjobs": 322,
-    "naukri": 267,
+    "naukri": 268,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T07:33:53.932Z",
-  "lastUpdated": "28/9/2026, 1:03:53 pm"
+  "lastSyncedAt": "2026-09-28T07:48:04.848Z",
+  "lastUpdated": "28/9/2026, 1:18:04 pm"
 }
