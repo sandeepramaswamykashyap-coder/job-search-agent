@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3234,
+  "applicationsSubmitted": 3235,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Project Manager - ServiceNow Implementation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/project-manager-servicenow-implementation-1727557?ref=sp&jobPos=3",
-      "time": "2026-09-22T12:57:36.556Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Coforge - ServiceNow Solution Architect",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-nice-lead-business-transformation-architect-specialist-master-deloitte-us-india-offices-hyderabad-chennai-bengaluru-9-to-14-years-020726025927?src=directSearch&sid=17906037756525235&xp=4&px=1",
       "time": "2026-09-28T13:56:35.989Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "AM-Resource management-RMG/capacity planning/utilisation/Deployment",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-am-resource-management-rmg-capacity-planning-utilisation-deployment-ey-bangalore-rural-gurugram-8-to-13-years-280926030670?src=directSearch&sid=17906059191996388&xp=8&px=1",
+      "time": "2026-09-28T14:32:29.003Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3234,
+  "totalVerifiedInHistory": 3235,
   "portalBreakdown": {
     "iimjobs": 330,
-    "naukri": 293,
+    "naukri": 294,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T13:56:36.027Z",
-  "lastUpdated": "28/9/2026, 7:26:36 pm"
+  "lastSyncedAt": "2026-09-28T14:32:29.040Z",
+  "lastUpdated": "28/9/2026, 8:02:29 pm"
 }
