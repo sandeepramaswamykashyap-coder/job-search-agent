@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3201,
+  "applicationsSubmitted": 3204,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Hackett Group - Manager/Senior Consultant - Technology Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/hackett-group-manager-senior-consultant-technology-transformation-1730915?ref=sp_br_prm&jobPos=2",
-      "time": "2026-09-22T09:50:24.742Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Apex Group - Senior Vice President - Business Transformation - Finance/Investmen",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=3&jobId=1731497&pref=sp_prm",
-      "time": "2026-09-22T09:50:37.590Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "CMA CGM - Lead - Transition Manager - Global Transformation Office",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1731598&pref=sp_prm",
-      "time": "2026-09-22T09:50:47.078Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "JP Morgan Chase - Transformation Associate - Finance Data",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-associate-director-partnerships-msm-campusos-msm-global-education-bengaluru-7-to-12-years-280926010231?src=directSearch&sid=17905816454501339&xp=12&px=1",
       "time": "2026-09-28T07:48:04.816Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Eagleton The Golf Resort",
+      "title": "Director Marketing and Sales-DOSM",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-marketing-and-sales-dosm-eagleton-the-golf-resort-bengaluru-18-to-22-years-280926009640?src=directSearch&sid=17905838741155185&xp=5&px=1",
+      "time": "2026-09-28T08:24:48.125Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Celebal Technologies - Senior Technical Program Manager - Databricks",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/celebal-technologies-senior-technical-program-manager-databricks-1736379?ref=sp&jobPos=5",
+      "time": "2026-09-28T08:28:23.325Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Mindsprint - Supply Chain Planning Leader - Transformation/Business Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mindsprint-supply-chain-planning-leader-transformation-business-consulting-1736380?ref=sp_br&jobPos=8",
+      "time": "2026-09-28T08:28:49.404Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3201,
+  "totalVerifiedInHistory": 3204,
   "portalBreakdown": {
-    "iimjobs": 322,
-    "naukri": 268,
+    "iimjobs": 324,
+    "naukri": 269,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T07:48:04.848Z",
-  "lastUpdated": "28/9/2026, 1:18:04 pm"
+  "lastSyncedAt": "2026-09-28T08:28:49.439Z",
+  "lastUpdated": "28/9/2026, 1:58:49 pm"
 }
