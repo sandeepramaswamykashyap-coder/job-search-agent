@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3195,
+  "applicationsSubmitted": 3196,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Manager - Data Engineering",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=6&jobId=1734779&pref=sp_prm",
-      "time": "2026-09-22T09:49:00.941Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Amazon - Senior Program Manager - WW Easy Ship",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-delivery-manager-acuity-analytics-bengaluru-6-to-10-years-190826019314?src=directSearch&sid=17905789420843288&xp=4&px=1",
       "time": "2026-09-28T07:03:00.729Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Flipkart - Senior Manager - Strategic Partnerships",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/flipkart-senior-manager-strategic-partnerships-1736354?ref=sp_br_prm&jobPos=1",
+      "time": "2026-09-28T07:17:06.671Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3195,
+  "totalVerifiedInHistory": 3196,
   "portalBreakdown": {
-    "iimjobs": 321,
+    "iimjobs": 322,
     "naukri": 263,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T07:03:00.772Z",
-  "lastUpdated": "28/9/2026, 12:33:00 pm"
+  "lastSyncedAt": "2026-09-28T07:17:06.709Z",
+  "lastUpdated": "28/9/2026, 12:47:06 pm"
 }
