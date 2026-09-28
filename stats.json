@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3177,
+  "applicationsSubmitted": 3181,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manipal Business Solutions - Head - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=1&jobId=1734696&pref=sp_br_prm",
-      "time": "2026-09-22T08:18:50.987Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Zolostays - Head - Sales & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733044/screening?ref=sp_prm&jobPos=2&pref=sp_prm",
-      "time": "2026-09-22T08:19:00.767Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Operations - OSD & Injectables",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=3&jobId=1731081&pref=sp_prm",
-      "time": "2026-09-22T08:19:10.250Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Masters' Union - Head - Hostel Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=4&jobId=1733817&pref=sp_prm",
-      "time": "2026-09-22T08:19:19.685Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - Supply Chain Operations - Retail",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/manager-content-marketing-and-creative-strategist-1736258?ref=sp&jobPos=17",
       "time": "2026-09-28T04:48:42.250Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Colocacion Services",
+      "title": "Seniors Manager  Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-seniors-manager-operations-colocacion-services-bengaluru-8-to-13-years-280926002818?src=directSearch&sid=17905726100317955&xp=9&px=1",
+      "time": "2026-09-28T05:17:21.443Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "ParallelDots - Senior Project Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/paralleldots-senior-project-manager-1736265?ref=sp_br&jobPos=17",
+      "time": "2026-09-28T05:22:26.978Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant General Manager - Program Management - Healthcare",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-general-manager-program-management-healthcare-1735760?ref=sp_br&jobPos=12",
+      "time": "2026-09-28T05:22:42.646Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Commercial Excellence Director - Healthcare - IIM/MDI/ISB",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/commercial-excellence-director-healthcare-iim-mdi-isb-1736271?ref=sp&jobPos=17",
+      "time": "2026-09-28T05:24:00.771Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3177,
+  "totalVerifiedInHistory": 3181,
   "portalBreakdown": {
-    "iimjobs": 317,
-    "naukri": 249,
+    "iimjobs": 320,
+    "naukri": 250,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T04:48:42.297Z",
-  "lastUpdated": "28/9/2026, 10:18:42 am"
+  "lastSyncedAt": "2026-09-28T05:24:00.811Z",
+  "lastUpdated": "28/9/2026, 10:54:00 am"
 }
