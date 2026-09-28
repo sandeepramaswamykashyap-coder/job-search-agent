@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3235,
+  "applicationsSubmitted": 3239,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Coforge - ServiceNow Solution Architect",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/coforge-servicenow-solution-architect-1724441?ref=sp_br&jobPos=4",
-      "time": "2026-09-22T12:57:42.786Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "ServiceNow Project Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/servicenow-project-manager-1724640?ref=sp&jobPos=5",
-      "time": "2026-09-22T12:57:48.819Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Coforge - ServiceNow Business Analyst",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/coforge-servicenow-business-analyst-1724440?ref=sp_br&jobPos=6",
-      "time": "2026-09-22T12:57:54.882Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Advent Global Solutions - ServiceNow Technical Architect",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/advent-global-solutions-servicenow-technical-architect-1723614?ref=sp&jobPos=7",
-      "time": "2026-09-22T12:58:01.347Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Aelum Consulting - ServiceNow Technical Architect",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-am-resource-management-rmg-capacity-planning-utilisation-deployment-ey-bangalore-rural-gurugram-8-to-13-years-280926030670?src=directSearch&sid=17906059191996388&xp=8&px=1",
       "time": "2026-09-28T14:32:29.003Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "A leading Solar and Energy based manufacturing company",
+      "title": "Finance Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-finance-head-beerana-consultancy-bengaluru-peenya-6-to-11-years-300626011879?src=directSearch&sid=17906068937996705&xp=9&px=1",
+      "time": "2026-09-28T14:48:31.010Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Spinny",
+      "title": "City Network Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-city-network-head-spinny-bengaluru-4-to-8-years-280926030319?src=directSearch&sid=17906068937996705&xp=10&px=1",
+      "time": "2026-09-28T14:48:42.447Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "upGrad",
+      "title": "Sales Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-head-krezig-consultants-bengaluru-8-to-13-years-280926009477?src=directSearch&sid=17906068937996705&xp=12&px=1",
+      "time": "2026-09-28T14:48:53.826Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Edufice Education Services",
+      "title": "Senior Manager/Head - IT",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-head-it-edufice-education-services-bengaluru-8-to-12-years-280926007838?src=directSearch&sid=17906068937996705&xp=13&px=1",
+      "time": "2026-09-28T14:49:05.191Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3235,
+  "totalVerifiedInHistory": 3239,
   "portalBreakdown": {
     "iimjobs": 330,
-    "naukri": 294,
+    "naukri": 298,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-28T14:32:29.040Z",
-  "lastUpdated": "28/9/2026, 8:02:29 pm"
+  "lastSyncedAt": "2026-09-28T14:49:05.221Z",
+  "lastUpdated": "28/9/2026, 8:19:05 pm"
 }
