@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3267,
+  "applicationsSubmitted": 3271,
   "appliedRolesList": [
-    {
-      "company": "Datadog",
-      "title": "Regional Director - Enterprise Sales",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8210153",
-      "time": "2026-09-23T03:47:24.518Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ramco Systems - Manager/Senior Manager - Payroll Bureau",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ramco-systems-manager-senior-manager-payroll-bureau-1734941?ref=sp_prm&jobPos=2",
-      "time": "2026-09-23T05:14:14.210Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ripple",
-      "title": "Program Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/ripple/jobs/8224772",
-      "time": "2026-09-23T05:24:31.693Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tanium",
-      "title": "Director, Product Management - Data Platform",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8068531",
-      "time": "2026-09-23T05:24:39.203Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Southern Electronics (bangalore)",
       "title": "Program Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/great-learning-senior-manager-assistant-general-manager-analytics-and-automation-1736691?ref=sp_br_prm&jobPos=13",
       "time": "2026-09-29T07:29:36.616Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Bounteous",
+      "title": "Lead Platform Developer - Braze",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-platform-developer-braze-bounteous-gurugram-chennai-bengaluru-7-to-12-years-100726026211",
+      "time": "2026-09-29T07:43:31.681Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tavant",
+      "title": "ServiceNow - Associate Business Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-associate-business-architect-tavant-hyderabad-bengaluru-8-to-10-years-290926021539?src=directSearch&sid=17906678464392668&xp=2&px=1",
+      "time": "2026-09-29T07:44:23.458Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ketto - Product Manager/Senior Product Manager - MetaGO",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ketto-product-manager-senior-product-manager-metago-1736442?ref=sp_prm&jobPos=3",
+      "time": "2026-09-29T07:47:38.240Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Mindsprint - Supply Chain Planning Transformation Leader - Business Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mindsprint-supply-chain-planning-transformation-leader-business-consulting-1736380?ref=sp_br&jobPos=8",
+      "time": "2026-09-29T07:48:22.790Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3267,
+  "totalVerifiedInHistory": 3271,
   "portalBreakdown": {
-    "iimjobs": 335,
-    "naukri": 321,
+    "iimjobs": 337,
+    "naukri": 323,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T07:29:36.652Z",
-  "lastUpdated": "29/9/2026, 12:59:36 pm"
+  "lastSyncedAt": "2026-09-29T07:48:22.825Z",
+  "lastUpdated": "29/9/2026, 1:18:22 pm"
 }
