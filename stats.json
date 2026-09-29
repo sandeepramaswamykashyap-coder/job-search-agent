@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3322,
+  "applicationsSubmitted": 3323,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Senior Associate - Tech Risk & Control - Technology Regulatory",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-senior-associate-tech-risk-and-control-technology-regulatory-change-management-1735464?ref=sp_br&jobPos=1",
-      "time": "2026-09-24T18:38:55.594Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Affirm",
       "title": "Staff Technical Program Manager, Engineering Onboarding",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/mobikwik-senior-manager-regulatory-compliance-1736820?ref=sp_br_prm&jobPos=4",
       "time": "2026-09-29T11:54:08.005Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "GE VERNOVA",
+      "title": "AI Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-program-manager-ge-renewable-energy-technologies-private-limited-hyderabad-chennai-bengaluru-5-to-10-years-290926934218?src=directSearch&sid=17906846107911960&xp=8&px=1",
+      "time": "2026-09-29T12:23:44.825Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3322,
+  "totalVerifiedInHistory": 3323,
   "portalBreakdown": {
     "iimjobs": 346,
-    "naukri": 365,
+    "naukri": 366,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T11:54:08.040Z",
-  "lastUpdated": "29/9/2026, 5:24:08 pm"
+  "lastSyncedAt": "2026-09-29T12:23:44.859Z",
+  "lastUpdated": "29/9/2026, 5:53:44 pm"
 }
