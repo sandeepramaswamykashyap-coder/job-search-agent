@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3259,
+  "applicationsSubmitted": 3260,
   "appliedRolesList": [
-    {
-      "company": "Stripe",
-      "title": "Editorial Director, Brand & Creative Partnerships",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8203216",
-      "time": "2026-09-23T01:59:42.154Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Stripe",
       "title": "Editorial Director, Brand & Creative Partnerships",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-senior-product-manager-product-lead-managed-network-digital-connec-sify-chennai-bengaluru-8-to-13-years-280926016339",
       "time": "2026-09-29T01:01:21.902Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "Artificial Intelligence Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-artificial-intelligence-architect-pwc-bengaluru-10-to-15-years-290926014565?src=directSearch&sid=17906584740578945&xp=7&px=1",
+      "time": "2026-09-29T05:08:17.316Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3259,
+  "totalVerifiedInHistory": 3260,
   "portalBreakdown": {
     "iimjobs": 333,
-    "naukri": 315,
+    "naukri": 316,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T01:01:21.939Z",
-  "lastUpdated": "29/9/2026, 6:31:21 am"
+  "lastSyncedAt": "2026-09-29T05:08:17.355Z",
+  "lastUpdated": "29/9/2026, 10:38:17 am"
 }
