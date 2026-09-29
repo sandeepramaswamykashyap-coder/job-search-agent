@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3312,
+  "applicationsSubmitted": 3315,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Manager - Global Mobility Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=2&jobId=1735472&pref=sp_prm",
-      "time": "2026-09-24T08:43:34.072Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Tech Risk & Controls Lead - Technology Regulatory Change Manag",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=1&jobId=1735462&pref=sp_br",
-      "time": "2026-09-24T08:44:23.140Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amazon - Program Manager - Analytics & Automation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1735502/screening?ref=sp_br&jobPos=4&pref=sp_br",
-      "time": "2026-09-24T09:22:46.468Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "AB InBev - Senior Manager - Commercial Planning",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/senior-manager-manager-direct-taxation-manufacturing-ca-1736780?ref=sp&jobPos=8",
       "time": "2026-09-29T10:44:30.926Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Valuemomentum",
+      "title": "Fabric lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-fabric-lead-valuemomentum-hyderabad-pune-bengaluru-8-to-13-years-290926030829?src=directSearch&sid=17906794194242560&xp=12&px=1",
+      "time": "2026-09-29T10:57:50.825Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "ServiceNow CMDB Developer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-cmdb-developer-tata-consultancy-services-pune-chennai-bengaluru-5-to-10-years-280926019010?src=directSearch&sid=17906794927049042&xp=13&px=1",
+      "time": "2026-09-29T10:58:48.853Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Hilabs",
+      "title": "Automation Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-automation-lead-hilabs-bengaluru-6-to-10-years-290926031037?src=directSearch&sid=17906795320912006&xp=2&px=1",
+      "time": "2026-09-29T10:59:14.079Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3312,
+  "totalVerifiedInHistory": 3315,
   "portalBreakdown": {
     "iimjobs": 345,
-    "naukri": 356,
+    "naukri": 359,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T10:44:30.956Z",
-  "lastUpdated": "29/9/2026, 4:14:30 pm"
+  "lastSyncedAt": "2026-09-29T10:59:14.110Z",
+  "lastUpdated": "29/9/2026, 4:29:14 pm"
 }
