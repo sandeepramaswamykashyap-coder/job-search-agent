@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3265,
+  "applicationsSubmitted": 3267,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Global Transportation Programs, Senior Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/7d87459c-6085-4479-8e77-9255e6dd8329",
-      "time": "2026-09-23T03:17:03.786Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Product Operations Specialist | Travel",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/925fce22-61af-4d26-8f20-90696a3b6704",
-      "time": "2026-09-23T03:17:36.913Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Datadog",
       "title": "Regional Director - Enterprise Sales",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-associate-director-ai-adoption-and-governance-gurgaon-bangalore-acuity-analytics-gurugram-bengaluru-10-to-20-years-290926019368?src=directSearch&sid=17906646619342233&xp=3&px=1",
       "time": "2026-09-29T06:51:40.394Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "SAP Test Automation - Architect Manager (SAP, TOSCA & AI)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-test-automation-architect-manager-sap-tosca-ai-pwc-bengaluru-9-to-13-years-290926020368?src=directSearch&sid=17906667925282631&xp=10&px=1",
+      "time": "2026-09-29T07:27:02.227Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Great Learning - Senior Manager/Assistant General Manager - Analytics & Automati",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/great-learning-senior-manager-assistant-general-manager-analytics-and-automation-1736691?ref=sp_br_prm&jobPos=13",
+      "time": "2026-09-29T07:29:36.616Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3265,
+  "totalVerifiedInHistory": 3267,
   "portalBreakdown": {
-    "iimjobs": 334,
-    "naukri": 320,
+    "iimjobs": 335,
+    "naukri": 321,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T06:51:40.435Z",
-  "lastUpdated": "29/9/2026, 12:21:40 pm"
+  "lastSyncedAt": "2026-09-29T07:29:36.652Z",
+  "lastUpdated": "29/9/2026, 12:59:36 pm"
 }
