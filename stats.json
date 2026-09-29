@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3274,
+  "applicationsSubmitted": 3275,
   "appliedRolesList": [
-    {
-      "company": "Everforth Quinnox",
-      "title": "ServiceNow Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-delivery-manager-everforth-quinnox-bengaluru-10-to-15-years-080926010369?src=directSearch&sid=17901471699752778&xp=4&px=1",
-      "time": "2026-09-23T07:06:47.361Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "HighRadius - Senior Manager - Revenue Accounting",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/vashi-integrated-chief-technology-officer-digital-transformation-1736715?ref=sp&jobPos=14",
       "time": "2026-09-29T08:22:37.657Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Assistant Manager - Legal - NBFC/Fintech - LLB",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-assistant-manager-legal-nbfc-fintech-llb-1736730?ref=sp&jobPos=4",
+      "time": "2026-09-29T09:13:47.333Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3274,
+  "totalVerifiedInHistory": 3275,
   "portalBreakdown": {
-    "iimjobs": 338,
+    "iimjobs": 339,
     "naukri": 325,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T08:22:37.697Z",
-  "lastUpdated": "29/9/2026, 1:52:37 pm"
+  "lastSyncedAt": "2026-09-29T09:13:47.372Z",
+  "lastUpdated": "29/9/2026, 2:43:47 pm"
 }
