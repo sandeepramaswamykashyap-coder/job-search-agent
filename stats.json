@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3315,
+  "applicationsSubmitted": 3316,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "AB InBev - Senior Manager - Commercial Planning",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ab-inbev-senior-manager-commercial-planning-1735530?ref=sp_br_prm&jobPos=5",
-      "time": "2026-09-24T11:11:54.126Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Affirm",
       "title": "Director, Platform Sales",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-automation-lead-hilabs-bengaluru-6-to-10-years-290926031037?src=directSearch&sid=17906795320912006&xp=2&px=1",
       "time": "2026-09-29T10:59:14.079Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Celcom Solutions Global",
+      "title": "Ms Dynamics Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ms-dynamics-project-manager-celcom-solutions-global-hyderabad-chennai-bengaluru-10-to-20-years-290926031713?src=directSearch&sid=17906806247485846&xp=1&px=1",
+      "time": "2026-09-29T11:17:28.285Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3315,
+  "totalVerifiedInHistory": 3316,
   "portalBreakdown": {
     "iimjobs": 345,
-    "naukri": 359,
+    "naukri": 360,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T10:59:14.110Z",
-  "lastUpdated": "29/9/2026, 4:29:14 pm"
+  "lastSyncedAt": "2026-09-29T11:17:28.320Z",
+  "lastUpdated": "29/9/2026, 4:47:28 pm"
 }
