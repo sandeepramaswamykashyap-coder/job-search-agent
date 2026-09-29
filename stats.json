@@ -1,79 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3296,
+  "applicationsSubmitted": 3305,
   "appliedRolesList": [
-    {
-      "company": "Cloudflare",
-      "title": "Senior Project Manager, Professional Services",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8212368",
-      "time": "2026-09-24T01:39:16.156Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Visteon",
-      "title": "Sr. Manager AI & Intelligent Automation (SW Lifecycle)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-manager-ai-intelligent-automation-sw-lifecycle-visteon-automotive-india-private-limited-bengaluru-14-to-20-years-270726504623?src=directSearch&sid=17902188231504383&xp=1&px=1",
-      "time": "2026-09-24T03:00:42.664Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Marketing Automation Manager, AI Journey",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8106012",
-      "time": "2026-09-24T03:03:36.626Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Credit Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8213951",
-      "time": "2026-09-24T03:32:26.495Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Stripe",
-      "title": "Credit Operations Manager",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/stripe/jobs/8213951",
-      "time": "2026-09-24T03:32:26.694Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Swiggy - Senior Manager - Travel & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/swiggy-senior-manager-travel-and-operations-1735296?ref=sp_br&jobPos=3",
-      "time": "2026-09-24T03:57:49.018Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Prodapt Solutions",
-      "title": "Telecom Delivery lead/Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-telecom-delivery-lead-program-manager-prodapt-solutions-bengaluru-15-to-20-years-230926027762",
-      "time": "2026-09-24T05:51:05.089Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "D-Mart - Circle Head - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/d-mart-circle-head-operations-1735344?ref=sp_br&jobPos=6",
-      "time": "2026-09-24T05:52:43.472Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Head of Sourcing Enablement & Delivery",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0681fa01-76c2-47da-9ebd-b4677521e049",
-      "time": "2026-09-24T06:38:19.571Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Strategy & Operations Lead, UK",
@@ -4001,6 +3929,78 @@
       "url": "https://www.iimjobs.com/j/binocs-assistant-manager-due-diligence-and-ai-transformation-1736538?ref=sp&jobPos=16",
       "time": "2026-09-29T10:07:35.688Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Bct Consulting",
+      "title": "AI Automation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-automation-bct-consulting-bengaluru-3-to-4-years-250926005415",
+      "time": "2026-09-29T10:21:51.212Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EFS Facilities Services",
+      "title": "Assistant Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-operations-manager-efs-facilities-services-bengaluru-3-to-4-years-290926020279?src=directSearch&sid=17906773613586469&xp=10&px=1",
+      "time": "2026-09-29T10:22:58.446Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "WSNE Consulting",
+      "title": "Logistics Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-logistics-head-wsne-consulting-bengaluru-5-to-9-years-290926018030?src=directSearch&sid=17906773613586469&xp=11&px=1",
+      "time": "2026-09-29T10:23:09.780Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pugos Products",
+      "title": "CEO / Country HEAD - (Direct Selling & Network Marketing)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ceo-country-head-direct-selling-network-marketing-pugos-products-hyderabad-bengaluru-10-to-11-years-290926016539?src=directSearch&sid=17906773613586469&xp=12&px=1",
+      "time": "2026-09-29T10:23:21.138Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Service Management Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-management-lead-tata-consultancy-services-bengaluru-10-to-15-years-280926001018?src=directSearch&sid=17906774294144457&xp=3&px=1",
+      "time": "2026-09-29T10:24:09.471Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Contracts Management Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-contracts-management-lead-capgemini-bengaluru-7-to-12-years-080426030363?src=directSearch&sid=17906774294144457&xp=13&px=1",
+      "time": "2026-09-29T10:24:39.923Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Light Tracks Associates",
+      "title": "AV Project Manager  Onsite Project Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-av-project-manager-onsite-project-delivery-light-tracks-associates-noida-bengaluru-8-to-13-years-290926013957?src=directSearch&sid=17906774832017037&xp=2&px=1",
+      "time": "2026-09-29T10:24:56.993Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Chaayos - Manager/Senior Manager - Maintenance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/chaayos-manager-senior-manager-maintenance-1736763?ref=sp_br&jobPos=16",
+      "time": "2026-09-29T10:25:33.668Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Chubb - Strategy & Transformation Lead - Technology Strategy & Operations Office",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/chubb-strategy-and-transformation-lead-technology-strategy-and-operations-office-1736771?ref=sp_br_prm&jobPos=1",
+      "time": "2026-09-29T10:26:05.784Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3296,
+  "totalVerifiedInHistory": 3305,
   "portalBreakdown": {
-    "iimjobs": 340,
-    "naukri": 345,
+    "iimjobs": 342,
+    "naukri": 352,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T10:07:35.725Z",
-  "lastUpdated": "29/9/2026, 3:37:35 pm"
+  "lastSyncedAt": "2026-09-29T10:26:05.817Z",
+  "lastUpdated": "29/9/2026, 3:56:05 pm"
 }
