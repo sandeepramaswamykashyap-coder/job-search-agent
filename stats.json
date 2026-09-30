@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3375,
+  "applicationsSubmitted": 3380,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "RK Worldinfocom - Senior In-Stock Manager - SCM & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1735378/screening?ref=sp&jobPos=18&pref=sp",
-      "time": "2026-09-26T06:35:37.877Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CMMI Level 5 IT Company - MNC",
-      "title": "AI Testing & QE Transformation Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-testing-qe-transformation-lead-consult-asia-bengaluru-8-to-13-years-250926907376?src=directSearch&sid=17904052710197607&xp=9&px=1",
-      "time": "2026-09-26T06:48:14.520Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "Solution Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-solution-architect-tata-consultancy-services-bengaluru-8-to-12-years-250926036606?src=directSearch&sid=17904052710197607&xp=10&px=1",
-      "time": "2026-09-26T06:48:25.821Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Manager - HR Compliance and Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-hr-compliance-and-transformation-golden-opportunities-pvt-ltd-bengaluru-12-to-20-years-240926935397?src=directSearch&sid=17904052710197607&xp=12&px=1",
-      "time": "2026-09-26T06:48:37.124Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zepto",
-      "title": "Associate Director - Motherhub Ops",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-motherhub-ops-zepto-chennai-bengaluru-mumbai-all-areas-6-to-11-years-230926040539?src=directSearch&sid=17904053202156481&xp=3&px=1",
-      "time": "2026-09-26T06:49:00.544Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Systechcorp Inc",
       "title": "Business Operations Analyst",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/director-operations-bpo-1737113?ref=sp&jobPos=6",
       "time": "2026-09-30T11:06:09.371Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "S2R_EAIS_UI LEAD",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-s2r-eais-ui-lead-infosys-limited-bengaluru-5-to-7-years-300926927099?src=directSearch&sid=17907696832747467&xp=3&px=1",
+      "time": "2026-09-30T12:01:37.477Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "SR MGR GENERAL MANAGEMENT",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-mgr-general-management-te-connectivity-india-private-limited-bengaluru-10-to-15-years-300926926956?src=directSearch&sid=17907698385674186&xp=3&px=1",
+      "time": "2026-09-30T12:04:21.211Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Embarkgcc Services",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-embarkgcc-services-new-delhi-gurugram-bengaluru-5-to-10-years-300926030955?src=directSearch&sid=17907698743389946&xp=10&px=1",
+      "time": "2026-09-30T12:05:01.776Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ferns N Petals - Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ferns-n-petals-head-operations-1737127?ref=sp_br_prm&jobPos=2",
+      "time": "2026-09-30T12:06:45.322Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Change Management Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/change-management-lead-1737134?ref=sp&jobPos=3",
+      "time": "2026-09-30T12:07:11.687Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3375,
+  "totalVerifiedInHistory": 3380,
   "portalBreakdown": {
-    "iimjobs": 366,
-    "naukri": 386,
+    "iimjobs": 368,
+    "naukri": 389,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1381,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T11:06:09.408Z",
-  "lastUpdated": "30/9/2026, 4:36:09 pm"
+  "lastSyncedAt": "2026-09-30T12:07:11.718Z",
+  "lastUpdated": "30/9/2026, 5:37:11 pm"
 }
