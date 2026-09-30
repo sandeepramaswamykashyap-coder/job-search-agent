@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3329,
+  "applicationsSubmitted": 3330,
   "appliedRolesList": [
-    {
-      "company": "Accenture",
-      "title": "ACN GN - SONG - C&S - Commerce AI Agentic - Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-acn-gn-song-c-s-commerce-ai-agentic-senior-manager-accenture-solutions-pvt-ltd-bengaluru-10-to-12-years-110826935035?src=directSearch&sid=1790313382588918&xp=5&px=1",
-      "time": "2026-09-25T05:16:55.170Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cargill",
       "title": "Plant Operations Director",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-assistant-manager-chief-accounting-capital-office-axa-global-business-services-private-limited-bengaluru-4-to-8-years-290926934898?src=directSearch&sid=17907224198117630&xp=2&px=1",
       "time": "2026-09-29T22:53:56.910Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ashirvad Pipes",
+      "title": "Manager - GTM Applications",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-gtm-applications-ashirvad-pipes-bengaluru-10-to-12-years-300926001299?src=directSearch&sid=17907393785424417&xp=9&px=1",
+      "time": "2026-09-30T03:36:54.967Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3329,
+  "totalVerifiedInHistory": 3330,
   "portalBreakdown": {
     "iimjobs": 346,
-    "naukri": 372,
+    "naukri": 373,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1375,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-29T22:53:56.951Z",
-  "lastUpdated": "30/9/2026, 4:23:56 am"
+  "lastSyncedAt": "2026-09-30T03:36:55.008Z",
+  "lastUpdated": "30/9/2026, 9:06:55 am"
 }
