@@ -430,6 +430,13 @@ async function sendSessionReport(forcedSessionType = null) {
     }
   }
 
+  if (deliveredCount > 0) {
+    const todayStr = new Date().toDateString();
+    const sType = forcedSessionType || (windowInfo.sessionType || 'morning');
+    updateReportState(sType, todayStr);
+    console.log(`[Reporter] 💾 Updated report_state.json: marked ${sType} report for ${todayStr}.`);
+  }
+
   return deliveredCount > 0;
 }
 
@@ -441,5 +448,7 @@ module.exports = {
   buildSessionHtmlReport,
   sendSessionReport,
   sendDailyReport: sendSessionReport,
-  getSessionWindow
+  getSessionWindow,
+  getReportState,
+  updateReportState
 };

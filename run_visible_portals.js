@@ -36,9 +36,45 @@ const { runIndeedE2E } = require('./portal_drivers/indeed_e2e');
 const { runTimesJobsE2E } = require('./portal_drivers/timesjobs_e2e');
 const { runLinkedInNetworking } = require('./linkedin_networker');
 const { mineAndQueueRecruiterLeads } = require('./recruiter_lead_miner');
+const { sendSessionReport, getReportState, updateReportState } = require('./reporter');
 
 const CV_PATH = path.join(__dirname, 'Sandeep_Kashyap.pdf');
 const SESSION_DIR = path.join(__dirname, '.browser_session_visible');
+
+async function checkAndDispatchScheduledReport() {
+  const now = new Date();
+  const utcTime = now.getTime() + (now.getTimezoneOffset() * 60000);
+  const istTime = new Date(utcTime + (3600000 * 5.5));
+  const todayStr = istTime.toDateString();
+  const istHour = istTime.getHours();
+  const reportState = getReportState();
+
+  // Morning report window: 8:00 AM - 7:59 PM IST
+  if (istHour >= 8 && istHour < 20 && reportState.lastMorningReportDate !== todayStr) {
+    console.log('\n⏰ [VisibleRunner] Triggering 8:00 AM IST Executive Session Report...');
+    try {
+      const delivered = await sendSessionReport('morning');
+      if (delivered) {
+        console.log('✅ [VisibleRunner] 8:00 AM IST Morning Session Report dispatched successfully.');
+      }
+    } catch (err) {
+      console.warn(`[VisibleRunner] Morning report notice: ${err.message}`);
+    }
+  }
+
+  // Evening report window: 8:00 PM IST onwards through night
+  if ((istHour >= 20 || istHour < 4) && reportState.lastEveningReportDate !== todayStr) {
+    console.log('\n⏰ [VisibleRunner] Triggering 8:00 PM IST Executive Session Report...');
+    try {
+      const delivered = await sendSessionReport('evening');
+      if (delivered) {
+        console.log('✅ [VisibleRunner] 8:00 PM IST Evening Session Report dispatched successfully.');
+      }
+    } catch (err) {
+      console.warn(`[VisibleRunner] Evening report notice: ${err.message}`);
+    }
+  }
+}
 
 // Remove any lingering lock file
 const lockPath = path.join(SESSION_DIR, 'SingletonLock');
@@ -354,41 +390,58 @@ async function runVisibleCorporateGrind(page, context) {
 
 async function main() {
   console.log('======================================================================');
-  console.log('🖥️  LAUNCHING FULL VISIBLE HEADED RUNNER (Chrome Desktop Window)');
-  console.log(`Time: ${new Date().toLocaleString()}`);
+  console.log('🖥️  LAUNCHING FULL OMNI-PORTAL & EXECUTIVE REPORTING RUNNER');
+  console.log(`Started: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' })} IST`);
   console.log('======================================================================\n');
 
+  // 1. Start 24/7 background report scheduler (checks every 60s)
+  setInterval(checkAndDispatchScheduledReport, 60 * 1000);
+  await checkAndDispatchScheduledReport().catch(() => {});
+
   const isHeaded = process.argv.includes('--headed');
-  const browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
-    channel: 'chrome',
-    headless: !isHeaded, // Default to headless (minimized/silent background)
-    slowMo: isHeaded ? 120 : 0,
-    viewport: { width: 1280, height: 850 },
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
-    args: [
-      '--disable-blink-features=AutomationControlled'
-    ]
-  });
-
-  const pages = browserContext.pages();
-  let page = pages.length > 0 ? pages[0] : await browserContext.newPage();
-
-  async function ensureActivePage() {
-    try {
-      if (!page || page.isClosed()) {
-        const openPages = browserContext.pages().filter(p => !p.isClosed());
-        page = openPages.length > 0 ? openPages[0] : await browserContext.newPage();
-      }
-    } catch (_) {
-      page = await browserContext.newPage();
-    }
-    return page;
-  }
+  let cycle = 1;
 
   while (true) {
+    console.log(`\n======================================================================`);
+    console.log(`▶️  STARTING OMNI-PORTAL CYCLE #${cycle}`);
+    console.log(`Timestamp: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' })} IST`);
+    console.log(`======================================================================`);
+
+    // Remove any lingering lock file before launch
+    const lockPath = path.join(SESSION_DIR, 'SingletonLock');
+    if (fs.existsSync(lockPath)) {
+      try { fs.unlinkSync(lockPath); } catch (_) {}
+    }
+
+    let browserContext = null;
+    let page = null;
+
     try {
-      page = await ensureActivePage();
-      await closeAllExtraTabs(browserContext, page);
+      browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
+        channel: 'chrome',
+        headless: !isHeaded,
+        slowMo: isHeaded ? 100 : 0,
+        viewport: { width: 1280, height: 850 },
+        userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        args: [
+          '--disable-blink-features=AutomationControlled'
+        ]
+      });
+
+      const pages = browserContext.pages();
+      page = pages.length > 0 ? pages[0] : await browserContext.newPage();
+
+      async function getActivePage() {
+        try {
+          if (!page || page.isClosed()) {
+            const openPages = browserContext.pages().filter(p => !p.isClosed());
+            page = openPages.length > 0 ? openPages[0] : await browserContext.newPage();
+          }
+        } catch (_) {
+          page = await browserContext.newPage();
+        }
+        return page;
+      }
 
       // 0. Recruiter Lead Mining & Personalized Cold Emails
       try {
@@ -406,8 +459,8 @@ async function main() {
 
       // 1. Naukri Profile Booster & Easy Apply
       try {
-        page = await ensureActivePage();
-        await runNaukriE2E(page, browserContext, 15);
+        page = await getActivePage();
+        await runNaukriE2E(page, browserContext, 20);
       } catch (e) {
         console.warn(`[VisibleRunner] Naukri step notice: ${e.message}`);
       }
@@ -415,7 +468,7 @@ async function main() {
 
       // 2. IIMJobs Executive Applications
       try {
-        page = await ensureActivePage();
+        page = await getActivePage();
         await runIIMJobsE2E(page, browserContext, 15);
       } catch (e) {
         console.warn(`[VisibleRunner] IIMJobs step notice: ${e.message}`);
@@ -424,7 +477,7 @@ async function main() {
 
       // 3. LinkedIn Easy Apply & Executive Networking
       try {
-        page = await ensureActivePage();
+        page = await getActivePage();
         await runLinkedInE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] LinkedIn step notice: ${e.message}`);
@@ -433,7 +486,7 @@ async function main() {
 
       // 3b. LinkedIn Recruiter Networking & Personalized Connection Invites
       try {
-        page = await ensureActivePage();
+        page = await getActivePage();
         await runLinkedInNetworking(page, browserContext, 5);
       } catch (e) {
         console.warn(`[VisibleRunner] LinkedIn networking notice: ${e.message}`);
@@ -442,8 +495,8 @@ async function main() {
 
       // 4. Foundit Applications
       try {
-        page = await ensureActivePage();
-        await runFounditE2E(page, browserContext, 12);
+        page = await getActivePage();
+        await runFounditE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] Foundit step notice: ${e.message}`);
       }
@@ -451,8 +504,8 @@ async function main() {
 
       // 5. Instahyre Applications
       try {
-        page = await ensureActivePage();
-        await runInstahyreE2E(page, browserContext, 12);
+        page = await getActivePage();
+        await runInstahyreE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] Instahyre step notice: ${e.message}`);
       }
@@ -460,7 +513,7 @@ async function main() {
 
       // 6. Indeed Applications
       try {
-        page = await ensureActivePage();
+        page = await getActivePage();
         await runIndeedE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] Indeed step notice: ${e.message}`);
@@ -469,7 +522,7 @@ async function main() {
 
       // 7. TimesJobs Applications
       try {
-        page = await ensureActivePage();
+        page = await getActivePage();
         await runTimesJobsE2E(page, browserContext, 10);
       } catch (e) {
         console.warn(`[VisibleRunner] TimesJobs step notice: ${e.message}`);
@@ -477,20 +530,35 @@ async function main() {
       await closeAllExtraTabs(browserContext, page);
 
       // 8. Direct Tier-1 Corporate Applications
-      page = await ensureActivePage();
-      await runVisibleCorporateGrind(page, browserContext);
+      try {
+        page = await getActivePage();
+        await runVisibleCorporateGrind(page, browserContext);
+      } catch (e) {
+        console.warn(`[VisibleRunner] Corporate grind notice: ${e.message}`);
+      }
       await closeAllExtraTabs(browserContext, page);
+
+      // Close browser context cleanly to free 100% of memory
+      await browserContext.close().catch(() => {});
+      browserContext = null;
 
       // Sync to GitHub
-      syncToGitHub('feat: recorded visible omni-portal applications across all platforms');
+      syncToGitHub(`feat: recorded visible omni-portal applications cycle #${cycle}`);
 
-      console.log('\n[VisibleRunner] Full omni-portal cycle complete! Pausing 3 minutes before next sweep...');
-      await sleep(180 * 1000);
+      // Check scheduled report dispatch
+      await checkAndDispatchScheduledReport().catch(() => {});
+
+      console.log(`\n[VisibleRunner] ✅ Full omni-portal cycle #${cycle} complete! Pausing 2 minutes before next sweep...`);
+      cycle++;
+      await sleep(120 * 1000);
+
     } catch (err) {
       console.error(`[VisibleRunner] Auto-recovery: ${err.message}`);
-      await sleep(10000);
-    } finally {
-      await closeAllExtraTabs(browserContext, page);
+      if (browserContext) {
+        await browserContext.close().catch(() => {});
+        browserContext = null;
+      }
+      await sleep(15000);
     }
   }
 }
