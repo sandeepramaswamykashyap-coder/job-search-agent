@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3352,
+  "applicationsSubmitted": 3357,
   "appliedRolesList": [
-    {
-      "company": "Celebal Technologies",
-      "title": "Senior Technical Program Manager - Databricks",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-technical-program-manager-databricks-celebal-technologies-pune-bengaluru-8-to-13-years-250926023124?src=directSearch&sid=17904041517536410&xp=10&px=1",
-      "time": "2026-09-26T06:30:28.831Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Wabtec",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-wabtec-krishnagiri-bengaluru-8-to-13-years-210926022619?src=directSearch&sid=17904041517536410&xp=13&px=1",
-      "time": "2026-09-26T06:30:43.363Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tracxn",
-      "title": "Technical Program Manager - API Support (EMEA Shift)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-api-support-emea-shift-tracxn-bengaluru-4-to-8-years-220926002414?src=directSearch&sid=17904042464997537&xp=7&px=1",
-      "time": "2026-09-26T06:31:19.408Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tredence",
-      "title": "Technical Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-project-manager-tredence-pune-gurugram-bengaluru-14-to-18-years-210926017110",
-      "time": "2026-09-26T06:31:50.504Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "NetApp",
-      "title": "Business Systems Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-systems-analyst-netapp-bengaluru-8-to-12-years-250926005362?src=directSearch&sid=17904043168328715&xp=1&px=1",
-      "time": "2026-09-26T06:32:10.723Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Nasu Group",
       "title": "Lead Business Analyst – GenAI Projects",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/vice-president-finance-and-accounting-transformation-1736996?ref=sp&jobPos=14",
       "time": "2026-09-30T07:04:43.384Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Magicpin - Program Manager - Business Strategic Development & Sales",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/magicpin-program-manager-business-strategic-development-and-sales-1737020?ref=sp_br&jobPos=16",
+      "time": "2026-09-30T08:07:19.305Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Unisys - Associate - Principal Service Management - MIM/Problem/Change Managemen",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/unisys-associate-principal-service-management-mim-problem-change-management-1736960?ref=sp_br&jobPos=1",
+      "time": "2026-09-30T08:07:54.356Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Business Management - Specialty Chemicals",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-business-management-specialty-chemicals-1737022?ref=sp&jobPos=10",
+      "time": "2026-09-30T08:08:00.571Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Procurement Transformation - Consulting Firm",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-procurement-transformation-consulting-firm-1737023?ref=sp&jobPos=14",
+      "time": "2026-09-30T08:08:19.431Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Deputy Manager/Manager - Business Finance - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/deputy-manager-manager-business-finance-ca-1737005?ref=sp&jobPos=6",
+      "time": "2026-09-30T08:08:35.504Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3352,
+  "totalVerifiedInHistory": 3357,
   "portalBreakdown": {
-    "iimjobs": 355,
+    "iimjobs": 360,
     "naukri": 382,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T07:04:43.420Z",
-  "lastUpdated": "30/9/2026, 12:34:43 pm"
+  "lastSyncedAt": "2026-09-30T08:08:35.537Z",
+  "lastUpdated": "30/9/2026, 1:38:35 pm"
 }
