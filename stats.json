@@ -1,79 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3343,
+  "applicationsSubmitted": 3352,
   "appliedRolesList": [
-    {
-      "company": "Happinesscue",
-      "title": "Senior Manager - Venue Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-venue-operations-happinesscue-mumbai-delhi-ncr-bengaluru-8-to-12-years-250926905658?src=directSearch&sid=17904039787639003&xp=6&px=1",
-      "time": "2026-09-26T06:27:10.000Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happinesscue",
-      "title": "Omnichannel Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-omnichannel-senior-manager-happinesscue-hyderabad-chennai-bengaluru-9-to-13-years-250926905712?src=directSearch&sid=17904039787639003&xp=10&px=1",
-      "time": "2026-09-26T06:27:30.826Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happinesscue",
-      "title": "Senior Manager - Retail Expansion",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-retail-expansion-happinesscue-hyderabad-chennai-bengaluru-8-to-12-years-250926905670?src=directSearch&sid=17904039787639003&xp=12&px=1",
-      "time": "2026-09-26T06:27:45.331Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Senior Manager - Contact Centre Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-contact-centre-operations-golden-opportunities-pvt-ltd-indore-hyderabad-bengaluru-14-to-22-years-210926909337?src=directSearch&sid=17904040718697893&xp=1&px=1",
-      "time": "2026-09-26T06:28:05.819Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Senior Manager - Payments Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-payments-operations-golden-opportunities-pvt-ltd-bengaluru-mysore-12-to-18-years-210926904765?src=directSearch&sid=17904040718697893&xp=6&px=1",
-      "time": "2026-09-26T06:28:26.695Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ABB",
-      "title": "Sales Support Specialist",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sales-support-specialist-abb-bengaluru-8-to-12-years-240926028511?src=directSearch&sid=17904040718697893&xp=12&px=1",
-      "time": "2026-09-26T06:29:05.486Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Adecco Group",
-      "title": "Program Manager Non Tech 3_18 Months contract_Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-non-tech-3-18-months-contract-bangalore-adecco-india-bengaluru-3-to-7-years-220926005550?src=directSearch&sid=17904041517536410&xp=5&px=1",
-      "time": "2026-09-26T06:29:46.794Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mastek",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-mastek-bengaluru-14-to-22-years-240926013557?src=directSearch&sid=17904041517536410&xp=7&px=1",
-      "time": "2026-09-26T06:30:01.256Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Algoleap Technologies",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-algoleap-technologies-bengaluru-8-to-12-years-240926017880?src=directSearch&sid=17904041517536410&xp=8&px=1",
-      "time": "2026-09-26T06:30:12.575Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Celebal Technologies",
       "title": "Senior Technical Program Manager - Databricks",
@@ -4001,6 +3929,78 @@
       "url": "https://www.iimjobs.com/j/algoleap-servicenow-solution-architect-1736893?ref=sp&jobPos=2",
       "time": "2026-09-30T06:02:07.193Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tredence",
+      "title": "Senior Manager, Sales Development",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-sales-development-tredence-bengaluru-12-to-16-years-300926005581",
+      "time": "2026-09-30T06:56:24.656Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HR India Solutions",
+      "title": "PMO - Wealth Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-pmo-wealth-management-hr-india-solutions-bengaluru-4-to-9-years-300926906918?src=directSearch&sid=17907514933864665&xp=3&px=1",
+      "time": "2026-09-30T06:58:27.625Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading MNC in India",
+      "title": "Director - Data Center Operation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-data-center-operation-freelancer-pune-bengaluru-delhi-ncr-5-to-10-years-300926006054?src=directSearch&sid=17907515815428392&xp=13&px=1",
+      "time": "2026-09-30T07:00:02.526Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SG Analytics",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-sg-analytics-bengaluru-1-to-5-years-300926003922?src=directSearch&sid=17907516635543629&xp=11&px=1",
+      "time": "2026-09-30T07:01:56.707Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ashirvad Pipes",
+      "title": "Manager - IT",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-it-ashirvad-pipes-bengaluru-10-to-15-years-300926001177?src=directSearch&sid=17907517264715908&xp=6&px=1",
+      "time": "2026-09-30T07:02:44.106Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Capgemini - Senior Manager/Program Manager - Digital Sales/Marketing & Aftersale",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/capgemini-senior-manager-program-manager-digital-sales-marketing-and-aftersales-transformation-1736978?ref=sp_br_prm&jobPos=2",
+      "time": "2026-09-30T07:03:27.386Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Unisys - Senior Manager - Client Project Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/unisys-senior-manager-client-project-management-1736949?ref=sp_br&jobPos=18",
+      "time": "2026-09-30T07:03:33.713Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Lead Technical Program Manager - Commercial & Investment Bank",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-lead-technical-program-manager-commercial-and-investment-bank-technology-team-1736955?ref=sp_br&jobPos=13",
+      "time": "2026-09-30T07:03:48.267Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vice President - Finance & Accounting Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vice-president-finance-and-accounting-transformation-1736996?ref=sp&jobPos=14",
+      "time": "2026-09-30T07:04:43.384Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3343,
+  "totalVerifiedInHistory": 3352,
   "portalBreakdown": {
-    "iimjobs": 351,
-    "naukri": 377,
+    "iimjobs": 355,
+    "naukri": 382,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1377,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T06:02:07.223Z",
-  "lastUpdated": "30/9/2026, 11:32:07 am"
+  "lastSyncedAt": "2026-09-30T07:04:43.420Z",
+  "lastUpdated": "30/9/2026, 12:34:43 pm"
 }
