@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3380,
+  "applicationsSubmitted": 3382,
   "appliedRolesList": [
-    {
-      "company": "Systechcorp Inc",
-      "title": "Business Operations Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-operations-analyst-systechcorp-inc-bengaluru-3-to-5-years-220926010899?src=directSearch&sid=17904053202156481&xp=4&px=1",
-      "time": "2026-09-26T06:49:16.789Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Innominds Software",
-      "title": "Senior Data Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-data-analyst-innominds-software-hyderabad-bengaluru-8-to-13-years-220926019651?src=directSearch&sid=17904053202156481&xp=5&px=1",
-      "time": "2026-09-26T06:49:33.022Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Simplilearn",
       "title": "Associate Director Analytics",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/change-management-lead-1737134?ref=sp&jobPos=3",
       "time": "2026-09-30T12:07:11.687Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Movate Technologies",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-movate-technologies-pune-bengaluru-10-to-20-years-140826023264",
+      "time": "2026-09-30T14:04:21.064Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Omnicom Global Solutions",
+      "title": "Social - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-social-manager-omnicom-global-solutions-bengaluru-8-to-10-years-300926034325?src=directSearch&sid=1790777260004917&xp=9&px=1",
+      "time": "2026-09-30T14:08:26.560Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3380,
+  "totalVerifiedInHistory": 3382,
   "portalBreakdown": {
     "iimjobs": 368,
-    "naukri": 389,
+    "naukri": 391,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1381,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T13:52:30.371Z",
-  "lastUpdated": "30/9/2026, 7:22:30 pm"
+  "lastSyncedAt": "2026-09-30T14:30:31.024Z",
+  "lastUpdated": "30/9/2026, 8:00:31 pm"
 }
