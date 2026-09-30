@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3357,
+  "applicationsSubmitted": 3362,
   "appliedRolesList": [
-    {
-      "company": "Nasu Group",
-      "title": "Lead Business Analyst – GenAI Projects",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-business-analyst-genai-projects-nasugroup-bengaluru-10-to-15-years-240926916398?src=directSearch&sid=17904043168328715&xp=4&px=1",
-      "time": "2026-09-26T06:32:28.347Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HashRoot",
-      "title": "The Investment Data Operations & Transformation Lead / Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-the-investment-data-operations-transformation-lead-project-manager-hashroot-pune-gurugram-bengaluru-10-to-15-years-230926044047?src=directSearch&sid=17904043168328715&xp=5&px=1",
-      "time": "2026-09-26T06:32:39.663Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Senior Manager - F&A Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-f-a-transformation-golden-opportunities-pvt-ltd-bengaluru-14-to-18-years-220926903265?src=directSearch&sid=17904043168328715&xp=6&px=1",
-      "time": "2026-09-26T06:32:50.945Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Capgemini",
-      "title": "Hiring: Project Manager / Assurance Lead - Banking Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-project-manager-assurance-lead-banking-transformation-capgemini-pune-bengaluru-8-to-13-years-230926038717?src=directSearch&sid=17904043168328715&xp=7&px=1",
-      "time": "2026-09-26T06:33:02.198Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager - Business Finance - Banking/Financial Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=10&jobId=1735680&pref=sp_prm",
-      "time": "2026-09-26T06:33:19.532Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "HDFC Life Insurance - Senior Manager - Product Development",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/deputy-manager-manager-business-finance-ca-1737005?ref=sp&jobPos=6",
       "time": "2026-09-30T08:08:35.504Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tredence",
+      "title": "Senior Manager, Revenue Marketing | North America",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-revenue-marketing-north-america-tredence-bengaluru-12-to-16-years-300926005581",
+      "time": "2026-09-30T09:02:30.497Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Nation With Namo - Program Manager - Talent Development Initiatives",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/nation-with-namo-program-manager-talent-development-initiatives-1736897?ref=sp_prm&jobPos=4",
+      "time": "2026-09-30T09:08:05.934Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "98thPercentile - Head - Sales & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/98thpercentile-head-sales-and-operations-1737047?ref=sp&jobPos=17",
+      "time": "2026-09-30T09:08:32.307Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Knowledge Management - Law Firm",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-knowledge-management-law-firm-1737050?ref=sp&jobPos=11",
+      "time": "2026-09-30T09:08:58.639Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Valuation - Real Estate",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-valuation-real-estate-1737032?ref=sp&jobPos=2",
+      "time": "2026-09-30T09:09:21.443Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3357,
+  "totalVerifiedInHistory": 3362,
   "portalBreakdown": {
-    "iimjobs": 360,
-    "naukri": 382,
+    "iimjobs": 364,
+    "naukri": 383,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1377,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T08:08:35.537Z",
-  "lastUpdated": "30/9/2026, 1:38:35 pm"
+  "lastSyncedAt": "2026-09-30T09:09:21.476Z",
+  "lastUpdated": "30/9/2026, 2:39:21 pm"
 }
