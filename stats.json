@@ -1,79 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3334,
+  "applicationsSubmitted": 3343,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Leena AI - Senior Manager - Information Security",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/leena-ai-senior-manager-information-security-1734537?ref=sp_prm&jobPos=8",
-      "time": "2026-09-26T06:14:12.614Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Urban Company - Senior Manager - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/urban-company-senior-manager-operations-1735965?ref=sp_br&jobPos=3",
-      "time": "2026-09-26T06:14:22.793Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "RPO Program Manager - Talent Acquisition - Recruitment/Staffing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/rpo-program-manager-talent-acquisition-recruitment-staffing-1735730?ref=sp_prm&jobPos=1",
-      "time": "2026-09-26T06:14:33.086Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Park+ - Program Manager - Founder's Office",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/park-program-manager-founder039s-office-1736016?ref=sp_br&jobPos=6",
-      "time": "2026-09-26T06:14:39.337Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Operations - Paints Manufacturing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-operations-paints-manufacturing-1736100?ref=sp_prm&jobPos=1",
-      "time": "2026-09-26T06:14:59.611Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Koch Business Solutions - Procure To Pay Continuous Improvement & Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/koch-business-solutions-procure-to-pay-continuous-improvement-and-transformation-specialist-1735920?ref=sp_prm&jobPos=1",
-      "time": "2026-09-26T06:15:09.828Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "OYO - Capex Manager - Germany Hotel Portfolio",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/oyo-capex-manager-germany-hotel-portfolio-1735961?ref=sp_br_prm&jobPos=3",
-      "time": "2026-09-26T06:15:15.996Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pearl",
-      "title": "Senior Manager, Accounting",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-accounting-pearl-bengaluru-8-to-13-years-030926011206?src=directSearch&sid=17904039787639003&xp=2&px=1",
-      "time": "2026-09-26T06:26:41.012Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Consult Asia",
-      "title": "Manager / Sr Manager - Tech Management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-sr-manager-tech-management-consult-asia-bengaluru-10-to-15-years-250926917023?src=directSearch&sid=17904039787639003&xp=5&px=1",
-      "time": "2026-09-26T06:26:58.709Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happinesscue",
       "title": "Senior Manager - Venue Operations",
@@ -4001,6 +3929,78 @@
       "url": "https://job-boards.greenhouse.io/dropbox/jobs/8067367",
       "time": "2026-09-30T05:41:02.934Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "DIRECTOR - Service Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-service-delivery-happiest-minds-technologies-bengaluru-16-to-20-years-300926004472?src=directSearch&sid=17907476397377940&xp=9&px=1",
+      "time": "2026-09-30T05:54:49.208Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Sr Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-analyst-cognizant-bengaluru-5-to-8-years-300926002796?src=directSearch&sid=17907477719359974&xp=1&px=1",
+      "time": "2026-09-30T05:56:51.994Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "SM - General Securities Facilities",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sm-general-securities-facilities-golden-opportunities-pvt-ltd-hyderabad-bengaluru-14-to-20-years-300926903115?src=directSearch&sid=17907479215256552&xp=11&px=1",
+      "time": "2026-09-30T05:59:12.189Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "AI Product Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-product-analyst-tata-consultancy-services-bengaluru-6-to-8-years-300926005511?src=directSearch&sid=17907479553749584&xp=3&px=1",
+      "time": "2026-09-30T05:59:32.837Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ecolab - Senior Manager - Accounts Payable",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ecolab-senior-manager-accounts-payable-1736930?ref=sp_br_prm&jobPos=1",
+      "time": "2026-09-30T06:01:01.330Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Marketing Manager - Sports/Athletics/Lifestyle",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-marketing-manager-sports-athletics-lifestyle-1736910?ref=sp_prm&jobPos=4",
+      "time": "2026-09-30T06:01:07.538Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ecolab - Senior Manager - Record To Report",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ecolab-senior-manager-record-to-report-1736906?ref=sp_br_prm&jobPos=6",
+      "time": "2026-09-30T06:01:13.775Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ecolab - AP Transformation & Technology Lead - Finance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ecolab-ap-transformation-and-technology-lead-finance-1736916?ref=sp_br_prm&jobPos=1",
+      "time": "2026-09-30T06:01:46.687Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Algoleap - ServiceNow Solution Architect",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/algoleap-servicenow-solution-architect-1736893?ref=sp&jobPos=2",
+      "time": "2026-09-30T06:02:07.193Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3334,
+  "totalVerifiedInHistory": 3343,
   "portalBreakdown": {
-    "iimjobs": 346,
-    "naukri": 373,
+    "iimjobs": 351,
+    "naukri": 377,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1377,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T05:41:02.973Z",
-  "lastUpdated": "30/9/2026, 11:11:02 am"
+  "lastSyncedAt": "2026-09-30T06:02:07.223Z",
+  "lastUpdated": "30/9/2026, 11:32:07 am"
 }
