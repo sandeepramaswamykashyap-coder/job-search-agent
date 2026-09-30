@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3394,
+  "applicationsSubmitted": 3400,
   "appliedRolesList": [
-    {
-      "company": "ZettaMine Labs",
-      "title": "Senior Full Stack AI Developer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-full-stack-ai-developer-zettamine-labs-bengaluru-7-to-12-years-230926011974?src=directSearch&sid=17904055271879154&xp=13&px=1",
-      "time": "2026-09-26T06:53:10.841Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "A client of Classic Search",
-      "title": "Manager Project Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-project-operations-classic-search-bengaluru-8-to-12-years-240926031381?src=directSearch&sid=17904055939737179&xp=9&px=1",
-      "time": "2026-09-26T06:53:40.603Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "HighLevel - Senior Product Manager - Custom Objects",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_br_prm&jobPos=11&jobId=1735086&pref=sp_br_prm",
-      "time": "2026-09-26T06:53:57.693Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Manager - Incentive Compensation Administration",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=12&jobId=1735892&pref=sp_prm",
-      "time": "2026-09-26T06:54:08.221Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Watertec - Senior Manager - Raw Material Procurement",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp_prm&jobPos=13&jobId=1735516&pref=sp_prm",
-      "time": "2026-09-26T06:54:18.661Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Perfetti Van Melle - Senior Manager - Operational Excellence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1733894/screening?ref=sp_br_prm&jobPos=14&pref=sp_br_prm",
-      "time": "2026-09-26T06:54:28.357Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Amgen - Senior Manager - Procurement Category - Commercial & RWE Data",
@@ -4001,6 +3953,54 @@
       "url": "https://www.iimjobs.com/j/senior-director-technical-program-management-telecom-1733953?ref=sp&jobPos=18",
       "time": "2026-09-30T19:13:56.103Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "TVM Signalling And Transportaion Systems",
+      "title": "General Manager- Factory Operations/Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-general-manager-factory-operations-head-tvm-signalling-and-transportaion-systems-bengaluru-14-to-20-years-300926033726?src=directSearch&sid=17907991679456061&xp=2&px=1",
+      "time": "2026-09-30T20:13:02.217Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "T&N Business Services",
+      "title": "State Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-state-head-t-n-business-services-kolkata-hyderabad-bengaluru-8-to-13-years-300926927999?src=directSearch&sid=17907991679456061&xp=6&px=1",
+      "time": "2026-09-30T20:13:13.871Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Contact Center Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-contact-center-head-unison-international-consulting-pvt-ltd-gurugram-bengaluru-15-to-20-years-300926927634?src=directSearch&sid=17907991679456061&xp=7&px=1",
+      "time": "2026-09-30T20:13:25.410Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Fyndbridge Consulting Services",
+      "title": "GTM-Leader :US Market | Global Capability Centre & Enterprise Sales",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gtm-leader-us-market-global-capability-centre-enterprise-sales-fyndbridge-consulting-services-hyderabad-gurugram-bengaluru-8-to-13-years-250926008942",
+      "time": "2026-09-30T20:14:02.695Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "BNP Paribas",
+      "title": "Operations - Transaction Monitoring AML  Associate / AM",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-transaction-monitoring-aml-associate-am-bnp-paribas-chennai-bengaluru-mumbai-all-areas-3-to-8-years-300926033800?src=directSearch&sid=17907991679456061&xp=11&px=1",
+      "time": "2026-09-30T20:14:24.050Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Estuate Software",
+      "title": "Hr Operations Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hr-operations-analyst-estuate-software-bengaluru-1-to-2-years-300926003398?src=directSearch&sid=17907991679456061&xp=12&px=1",
+      "time": "2026-09-30T20:14:35.543Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3394,
+  "totalVerifiedInHistory": 3400,
   "portalBreakdown": {
     "iimjobs": 369,
-    "naukri": 400,
+    "naukri": 406,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1382,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T19:13:56.136Z",
-  "lastUpdated": "1/10/2026, 12:43:56 am"
+  "lastSyncedAt": "2026-09-30T20:14:35.574Z",
+  "lastUpdated": "1/10/2026, 1:44:35 am"
 }
