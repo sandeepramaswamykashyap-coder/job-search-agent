@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3382,
+  "applicationsSubmitted": 3388,
   "appliedRolesList": [
-    {
-      "company": "Simplilearn",
-      "title": "Associate Director Analytics",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-analytics-simplilearn-bengaluru-7-to-12-years-230926024903?src=directSearch&sid=17904053202156481&xp=6&px=1",
-      "time": "2026-09-26T06:49:44.286Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Amtech",
-      "title": "Manager- Platform Engineering",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-platform-engineering-amtech-bengaluru-12-to-18-years-220926051603?src=directSearch&sid=17904053202156481&xp=8&px=1",
-      "time": "2026-09-26T06:49:58.827Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "24 7 ai",
-      "title": "Director Network Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-network-operations-24-7-ai-bengaluru-12-to-22-years-160926041681?src=directSearch&sid=17904053202156481&xp=11&px=1",
-      "time": "2026-09-26T06:50:18.288Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Randstad Digital",
-      "title": "Project Coordinator( PMO specialist)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-coordinator-pmo-specialist-randstad-bengaluru-3-to-6-years-250926011487?src=directSearch&sid=17904053202156481&xp=12&px=1",
-      "time": "2026-09-26T06:50:29.606Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Assistant Director Business Forecasting Planning Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-director-business-forecasting-planning-operations-ey-bengaluru-10-to-15-years-220926006622?src=directSearch&sid=17904053202156481&xp=13&px=1",
-      "time": "2026-09-26T06:50:40.893Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "STL Digital",
-      "title": "Servicenow PM Required For client on STL Digital payroll",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-pm-required-for-client-on-stl-digital-payroll-stl-digital-bengaluru-10-to-20-years-250926035987?src=directSearch&sid=17904054440233165&xp=3&px=1",
-      "time": "2026-09-26T06:50:57.980Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Hitachi Energy",
       "title": "IT Application Manager",
@@ -4001,6 +3953,54 @@
       "url": "https://www.naukri.com/job-listings-social-manager-omnicom-global-solutions-bengaluru-8-to-10-years-300926034325?src=directSearch&sid=1790777260004917&xp=9&px=1",
       "time": "2026-09-30T14:08:26.560Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Director Clinical development operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-clinical-development-operations-syneos-health-hyderabad-delhi-ncr-bengaluru-15-to-28-years-300926035722?src=directSearch&sid=17907808497131619&xp=3&px=1",
+      "time": "2026-09-30T15:07:43.833Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Primesoft Solutions",
+      "title": "Business Development Manager - Digital Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-development-manager-digital-transformation-primesoft-solutions-mumbai-hyderabad-bengaluru-8-to-13-years-170826017484?src=directSearch&sid=1790780956970331&xp=10&px=1",
+      "time": "2026-09-30T15:09:50.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Shadowfax Technologies",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-shadowfax-technologies-bengaluru-mumbai-all-areas-4-to-9-years-300926034366?src=directSearch&sid=17907810227522605&xp=13&px=1",
+      "time": "2026-09-30T15:11:04.024Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "Workday Financials Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-workday-financials-delivery-manager-pwc-hyderabad-chennai-bengaluru-9-to-14-years-300926029711?src=directSearch&sid=17907810998934237&xp=13&px=1",
+      "time": "2026-09-30T15:12:11.339Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Operations Manager, ADGM",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8207241",
+      "time": "2026-09-30T15:44:51.812Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Operations Manager, ADGM",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8207241",
+      "time": "2026-09-30T15:44:52.047Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,25 +4671,25 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3382,
+  "totalVerifiedInHistory": 3388,
   "portalBreakdown": {
     "iimjobs": 368,
-    "naukri": 391,
+    "naukri": 395,
     "weworkremotely": 13,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1381,
+    "direct_portal_greenhouse": 1382,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 174,
+    "greenhouse": 175,
     "direct_portal_ashby": 446,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-09-30T14:30:31.024Z",
-  "lastUpdated": "30/9/2026, 8:00:31 pm"
+  "lastSyncedAt": "2026-09-30T15:44:52.084Z",
+  "lastUpdated": "30/9/2026, 9:14:52 pm"
 }
