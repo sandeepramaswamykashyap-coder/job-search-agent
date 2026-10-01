@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-01T04:20:12.949Z",
+  "lastUpdated": "2026-10-01T13:05:34.100Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -15,7 +15,7 @@
       "company": "Pricewater House Coopers Service Delivery Center Bangalore",
       "title": "FDD - Manager",
       "dispatchedAt": "2026-07-22T05:32:59.007Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -26,7 +26,7 @@
       "company": "Bean Hr Consulting",
       "title": "Workday Consultant / manager",
       "dispatchedAt": "2026-07-22T05:33:04.024Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -37,7 +37,7 @@
       "company": "Idexcel",
       "title": "Senior Product Manger",
       "dispatchedAt": "2026-07-22T05:33:14.435Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -48,7 +48,7 @@
       "company": "Leading Product Based Software Company (Prestigious Client of The Glove)",
       "title": "AI Project Manager",
       "dispatchedAt": "2026-07-22T05:33:25.553Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -59,7 +59,7 @@
       "company": "Yash Technologies",
       "title": "Yash Technologies is Hiring - Business Analyst - RPA BA",
       "dispatchedAt": "2026-07-22T12:41:17.459Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -136,7 +136,7 @@
       "company": "Diageo",
       "title": "Manager PTC",
       "dispatchedAt": "2026-08-12T06:00:15.661Z",
-      "daysElapsed": 49,
+      "daysElapsed": 50,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -158,7 +158,7 @@
       "company": "Resource Pro",
       "title": "Assistant Manager, SDU",
       "dispatchedAt": "2026-08-14T04:49:48.086Z",
-      "daysElapsed": 47,
+      "daysElapsed": 48,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -169,7 +169,7 @@
       "company": "Siro Clinpharm",
       "title": "AI Program Manager",
       "dispatchedAt": "2026-08-19T05:18:18.624Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -180,7 +180,7 @@
       "company": "Omega Healthcare",
       "title": "Manager Transition Management Office",
       "dispatchedAt": "2026-08-19T05:18:30.599Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -191,7 +191,7 @@
       "company": "Accion Labs",
       "title": "Project Manager (Migrations projects)",
       "dispatchedAt": "2026-08-19T05:18:38.674Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -202,7 +202,7 @@
       "company": "Company",
       "title": "ServiceNow Platform Manager",
       "dispatchedAt": "2026-08-19T05:18:43.473Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -213,7 +213,7 @@
       "company": "New Era Technology",
       "title": "Senior IT Project Manager (Real Estate & Infrastructure Projects)",
       "dispatchedAt": "2026-08-19T05:18:49.403Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -224,7 +224,7 @@
       "company": "Orcapod Consulting Services",
       "title": "Business Analyst",
       "dispatchedAt": "2026-08-19T05:18:54.415Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -235,7 +235,7 @@
       "company": "Orcapod Consulting Services",
       "title": "Portfolio Services Manager _(PMO/Governance) -Risk Management",
       "dispatchedAt": "2026-08-19T05:18:59.405Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -246,7 +246,7 @@
       "company": "Veetechnologies",
       "title": "Operations Head Examination & Assessment Services",
       "dispatchedAt": "2026-08-19T05:19:05.261Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -257,7 +257,7 @@
       "company": "New Era Technology",
       "title": "CDET Manager",
       "dispatchedAt": "2026-08-19T05:19:10.787Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -268,7 +268,7 @@
       "company": "Foundit Partner",
       "title": "Program Manager",
       "dispatchedAt": "2026-08-19T05:19:16.365Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -279,7 +279,7 @@
       "company": "Allegis Global Solutions (AGS)",
       "title": "Specialist Business Risk- Controls Testing Or Internal Audit",
       "dispatchedAt": "2026-08-19T05:20:43.709Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -290,7 +290,7 @@
       "company": "Prodapt Solutions",
       "title": "BSS Business Analyst",
       "dispatchedAt": "2026-08-19T05:20:48.623Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -301,7 +301,7 @@
       "company": "PwC",
       "title": "Operations Manager",
       "dispatchedAt": "2026-08-19T05:20:53.982Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -312,7 +312,7 @@
       "company": "PwC",
       "title": "Qlikview Manager",
       "dispatchedAt": "2026-08-19T05:20:58.656Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -323,7 +323,7 @@
       "company": "Miratech",
       "title": "Remote Opportunity - UAT Engineer at Miratech",
       "dispatchedAt": "2026-08-19T05:21:03.506Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -334,7 +334,7 @@
       "company": "Sonata Software",
       "title": "One Identity Manager",
       "dispatchedAt": "2026-08-19T05:21:08.215Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -345,7 +345,7 @@
       "company": "Epam Systems",
       "title": "It Delivery Manager",
       "dispatchedAt": "2026-08-19T05:21:13.159Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -356,7 +356,7 @@
       "company": "NTT DATA",
       "title": "Hiring For Private Equity",
       "dispatchedAt": "2026-08-19T05:21:18.220Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -367,7 +367,7 @@
       "company": "MedPlus",
       "title": "Manager",
       "dispatchedAt": "2026-08-19T11:05:17.810Z",
-      "daysElapsed": 42,
+      "daysElapsed": 43,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -389,7 +389,7 @@
       "company": "Crescendo Global Leadership Hiring India",
       "title": "Asset Management Product Owner",
       "dispatchedAt": "2026-08-21T08:45:35.515Z",
-      "daysElapsed": 40,
+      "daysElapsed": 41,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -400,7 +400,7 @@
       "company": "Resource Pro",
       "title": "Manager, Service Delivery",
       "dispatchedAt": "2026-08-21T12:11:46.264Z",
-      "daysElapsed": 40,
+      "daysElapsed": 41,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -411,7 +411,7 @@
       "company": "Crescendo Global",
       "title": "Data Analyst - Product Analysis -SQL/Power BI- 3 Years-Pune/Gurugram",
       "dispatchedAt": "2026-08-22T10:21:23.154Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -532,7 +532,7 @@
       "company": "Capgemini India",
       "title": "Director — Financial Services Transformation",
       "dispatchedAt": "2026-08-26T09:51:52.358Z",
-      "daysElapsed": 35,
+      "daysElapsed": 36,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -543,7 +543,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Lead Partner — BFSI Digital Transformation",
       "dispatchedAt": "2026-08-26T09:51:57.651Z",
-      "daysElapsed": 35,
+      "daysElapsed": 36,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -554,7 +554,7 @@
       "company": "HCLTech",
       "title": "Practice Head — ServiceNow & Enterprise Service Delivery",
       "dispatchedAt": "2026-08-26T09:52:04.107Z",
-      "daysElapsed": 35,
+      "daysElapsed": 36,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -565,7 +565,7 @@
       "company": "Tech Mahindra",
       "title": "Vice President — Enterprise Transformation & OCM",
       "dispatchedAt": "2026-08-26T09:52:09.383Z",
-      "daysElapsed": 35,
+      "daysElapsed": 36,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -642,7 +642,7 @@
       "company": "Tech Mahindra",
       "title": "Senior Vice President — Cloud & ServiceNow Practice",
       "dispatchedAt": "2026-08-30T04:20:15.535Z",
-      "daysElapsed": 31,
+      "daysElapsed": 32,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
