@@ -1,79 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3424,
+  "applicationsSubmitted": 3433,
   "appliedRolesList": [
-    {
-      "company": "QBurst",
-      "title": "Business Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-analyst-qburst-kochi-chennai-bengaluru-7-to-15-years-250926033098?src=directSearch&sid=17904068726468262&xp=4&px=1",
-      "time": "2026-09-26T07:14:52.959Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Eurofins",
-      "title": "Business Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-analyst-eurofins-bengaluru-8-to-12-years-260926002074?src=directSearch&sid=17904074158671684&xp=6&px=1",
-      "time": "2026-09-26T07:23:56.196Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Jconnect Infotech",
-      "title": "Change Management Lead (C2H)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-change-management-lead-c2h-jconnect-infotech-bengaluru-6-to-10-years-190926016309?src=directSearch&sid=17904074158671684&xp=11&px=1",
-      "time": "2026-09-26T07:24:36.794Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "Delivery Manager - .NET/Java",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-net-java-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926017429?src=directSearch&sid=17904074862457402&xp=1&px=1",
-      "time": "2026-09-26T07:25:14.984Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "IT Delivery Manager - Java/.NET",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-delivery-manager-java-net-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926021975?src=directSearch&sid=17904074862457402&xp=2&px=1",
-      "time": "2026-09-26T07:25:41.115Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "Delivery Manager - Cloud",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-cloud-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926000298?src=directSearch&sid=17904074862457402&xp=3&px=1",
-      "time": "2026-09-26T07:26:07.247Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pattonlabs INC",
-      "title": "It Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-delivery-manager-pattonlabs-inc-hyderabad-chennai-bengaluru-12-to-20-years-240926039938?src=directSearch&sid=17904074862457402&xp=4&px=1",
-      "time": "2026-09-26T07:26:18.573Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "Service Delivery Manager - HPC & ITIL/ITSM",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-delivery-manager-hpc-itil-itsm-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926021509?src=directSearch&sid=17904074862457402&xp=5&px=1",
-      "time": "2026-09-26T07:26:44.642Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Apexon",
-      "title": "Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-apexon-bengaluru-11-to-15-years-250926030694?src=directSearch&sid=17904074862457402&xp=6&px=1",
-      "time": "2026-09-26T07:27:10.770Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Hexaware Technologies",
       "title": "Project /Delivery Manager - Dynamics CRM - Immediate Joiners",
@@ -4001,6 +3929,78 @@
       "url": "https://job-boards.greenhouse.io/coinbase/jobs/8239099",
       "time": "2026-10-01T13:19:38.673Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Coforge",
+      "title": "Automation Test  Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-automation-test-engineer-coforge-bengaluru-6-to-10-years-300926020014?src=directSearch&sid=17908650963616106&xp=1&px=1",
+      "time": "2026-10-01T14:31:50.640Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "SAP test Automation(Tosca, S4 Hana, AI) Banglore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-test-automation-tosca-s4-hana-ai-banglore-pwc-bengaluru-8-to-13-years-300926008442?src=directSearch&sid=17908650963616106&xp=2&px=1",
+      "time": "2026-10-01T14:32:02.194Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Maximus",
+      "title": "IT Engineer - Automation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-engineer-automation-maximus-hyderabad-bengaluru-4-to-6-years-300926003297?src=directSearch&sid=17908650963616106&xp=3&px=1",
+      "time": "2026-10-01T14:32:39.441Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "LTM",
+      "title": "Oracle Automation Testing",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-oracle-automation-testing-ltm-bengaluru-10-to-20-years-290926041182?src=directSearch&sid=17908650963616106&xp=6&px=1",
+      "time": "2026-10-01T14:32:57.734Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Crescendo Global",
+      "title": "Business Analyst-  AI - UK Insurance Underwriting Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-analyst-ai-uk-insurance-underwriting-transformation-crescendo-global-leadership-hiring-india-pune-gurugram-bengaluru-5-to-9-years-300926036587?src=directSearch&sid=1790865203333137&xp=5&px=1",
+      "time": "2026-10-01T14:33:44.189Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sri Tech Solutions",
+      "title": "Business Development Manager _ IT Services Sales",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-development-manager-it-services-sales-sri-tech-solutions-noida-hyderabad-bengaluru-5-to-7-years-300926035495?src=directSearch&sid=1790865203333137&xp=7&px=1",
+      "time": "2026-10-01T14:33:55.733Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Learning & Change Transformation  - Manager - PC MENA",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-learning-change-transformation-manager-pc-mena-ey-kochi-bengaluru-10-to-15-years-300926005451?src=directSearch&sid=1790865203333137&xp=8&px=1",
+      "time": "2026-10-01T14:34:07.279Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Program Manager, Employee Experience",
+      "portal": "direct_portal_greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8234202",
+      "time": "2026-10-01T14:59:23.481Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Program Manager, Employee Experience",
+      "portal": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8234202",
+      "time": "2026-10-01T14:59:23.723Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,25 +4671,25 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3424,
+  "totalVerifiedInHistory": 3433,
   "portalBreakdown": {
     "iimjobs": 378,
-    "naukri": 419,
+    "naukri": 426,
     "weworkremotely": 13,
     "remoteok": 5,
-    "direct_portal_greenhouse": 1383,
+    "direct_portal_greenhouse": 1384,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
     "dailyremote": 219,
-    "greenhouse": 176,
+    "greenhouse": 177,
     "direct_portal_ashby": 446,
     "ashby": 337,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-01T13:19:38.702Z",
-  "lastUpdated": "1/10/2026, 6:49:38 pm"
+  "lastSyncedAt": "2026-10-01T14:59:23.762Z",
+  "lastUpdated": "1/10/2026, 8:29:23 pm"
 }
