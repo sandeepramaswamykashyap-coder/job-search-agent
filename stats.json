@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3449,
+  "applicationsSubmitted": 3451,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Nextracker - Lead Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/nextracker-lead-technical-program-manager-1710621?ref=sp_br&jobPos=14",
-      "time": "2026-09-26T07:29:39.294Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Happiest Minds - Technical Program Manager - Data Engineering & Databricks",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/happiest-minds-technical-program-manager-data-engineering-and-databricks-1713712?ref=sp_br&jobPos=15",
-      "time": "2026-09-26T07:45:44.419Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Technical Program Manager - Software Development",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/haleon-channel-program-manager-1737454?ref=sp_br_prm&jobPos=1",
       "time": "2026-10-02T04:16:06.384Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Miros Hotels & Resorts",
+      "title": "Assistant General Manager / Senior Manager - Corporate",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-general-manager-senior-manager-corporate-miros-hotels-resorts-bengaluru-10-to-20-years-011026936864?src=directSearch&sid=17909287952206605&xp=13&px=1",
+      "time": "2026-10-02T08:13:42.753Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Movate Technologies",
+      "title": "Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-movate-technologies-chennai-bengaluru-13-to-20-years-021026010392?src=directSearch&sid=17909288806839515&xp=3&px=1",
+      "time": "2026-10-02T08:15:13.628Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3449,
+  "totalVerifiedInHistory": 3451,
   "portalBreakdown": {
     "iimjobs": 380,
-    "naukri": 440,
+    "naukri": 442,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-02T04:16:06.423Z",
-  "lastUpdated": "2/10/2026, 9:46:06 am"
+  "lastSyncedAt": "2026-10-02T08:15:13.664Z",
+  "lastUpdated": "2/10/2026, 1:45:13 pm"
 }
