@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3451,
+  "applicationsSubmitted": 3452,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Technical Program Manager - Software Development",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/technical-program-manager-software-development-1732872?ref=sp&jobPos=16",
-      "time": "2026-09-26T07:45:50.595Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "General Manager - Technical Program Management - eCommerce",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-delivery-manager-movate-technologies-chennai-bengaluru-13-to-20-years-021026010392?src=directSearch&sid=17909288806839515&xp=3&px=1",
       "time": "2026-10-02T08:15:13.628Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "HR Analytics Lead - HR Transformation - FinTech",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/hr-analytics-lead-hr-transformation-fintech-1737484?ref=sp&jobPos=18",
+      "time": "2026-10-02T12:10:56.334Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3451,
+  "totalVerifiedInHistory": 3452,
   "portalBreakdown": {
-    "iimjobs": 380,
+    "iimjobs": 381,
     "naukri": 442,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-02T08:15:13.664Z",
-  "lastUpdated": "2/10/2026, 1:45:13 pm"
+  "lastSyncedAt": "2026-10-02T12:10:56.370Z",
+  "lastUpdated": "2/10/2026, 5:40:56 pm"
 }
