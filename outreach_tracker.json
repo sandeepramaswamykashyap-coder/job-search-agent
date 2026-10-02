@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-02T04:20:02.818Z",
+  "lastUpdated": "2026-10-02T05:11:01.427Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -158,7 +158,7 @@
       "company": "Resource Pro",
       "title": "Assistant Manager, SDU",
       "dispatchedAt": "2026-08-14T04:49:48.086Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -631,7 +631,7 @@
       "company": "HCLTech",
       "title": "Senior Vice President — Digital Platform Transformation",
       "dispatchedAt": "2026-08-30T04:20:05.705Z",
-      "daysElapsed": 32,
+      "daysElapsed": 33,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -642,7 +642,7 @@
       "company": "Tech Mahindra",
       "title": "Senior Vice President — Cloud & ServiceNow Practice",
       "dispatchedAt": "2026-08-30T04:20:15.535Z",
-      "daysElapsed": 32,
+      "daysElapsed": 33,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
