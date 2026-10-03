@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3452,
+  "applicationsSubmitted": 3454,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "General Manager - Technical Program Management - eCommerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/general-manager-technical-program-management-ecommerce-1731671?ref=sp&jobPos=17",
-      "time": "2026-09-26T07:45:56.667Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "General Manager - Technical Program Management - AI/Platform Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/general-manager-technical-program-management-ai-platform-transformation-1733396?ref=sp&jobPos=18",
-      "time": "2026-09-26T07:46:02.760Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "The Convergence Foundation - Head - Operations - NGO/Social Services",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/hr-analytics-lead-hr-transformation-fintech-1737484?ref=sp&jobPos=18",
       "time": "2026-10-02T12:10:56.334Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "GSPANN",
+      "title": "Technical Program Manager - Retail",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-retail-gspann-bengaluru-15-to-20-years-011026016436?src=directSearch&sid=17909989111408752&xp=11&px=1",
+      "time": "2026-10-03T03:42:25.191Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Han Digital Solution (P) Ltd",
+      "title": "Sales Director / Senior Director / AVP",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-director-senior-director-avp-han-digital-solution-hyderabad-bengaluru-14-to-20-years-011026038493?src=directSearch&sid=17909990995484663&xp=3&px=1",
+      "time": "2026-10-03T03:45:17.111Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3452,
+  "totalVerifiedInHistory": 3454,
   "portalBreakdown": {
     "iimjobs": 381,
-    "naukri": 442,
+    "naukri": 444,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-03T02:30:53.661Z",
-  "lastUpdated": "3/10/2026, 8:00:53 am"
+  "lastSyncedAt": "2026-10-03T04:21:50.614Z",
+  "lastUpdated": "3/10/2026, 9:51:50 am"
 }
