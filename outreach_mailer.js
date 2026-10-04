@@ -86,26 +86,26 @@ function generateCustomPitch(lead) {
   let domainBullets = [
     "**Standard Chartered Leadership**: 15+ years managing enterprise banking transformations, UAT delivery, and cross-functional program delivery.",
     "**Process & Program Governance**: Proven track record in Agile program execution, stakeholder alignment, and operational excellence.",
-    "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
+    "**Notice & Location**: Based in **Bengaluru**, serving a **15-day notice period (immediately available)**."
   ];
 
   if (t.includes('servicenow') || t.includes('hrsd')) {
     domainBullets = [
       "**ServiceNow & HRSD Expertise**: Spearheaded end-to-end ServiceNow HRSD workflow deployments, digital process automation, and platform governance at scale.",
       "**Standard Chartered Leadership**: 15+ years leading global banking transformations and enterprise platform rollouts.",
-      "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
+      "**Notice & Location**: Based in **Bengaluru**, serving a **15-day notice period (immediately available)**."
     ];
   } else if (t.includes('uat') || t.includes('testing') || t.includes('quality')) {
     domainBullets = [
       "**UAT Governance & Leadership**: Extensive experience leading global User Acceptance Testing (UAT) frameworks, quality gates, and business readiness for core banking systems.",
       "**Standard Chartered Leadership**: 15+ years experience managing multi-million-dollar program delivery and stakeholder engagement.",
-      "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
+      "**Notice & Location**: Based in **Bengaluru**, serving a **15-day notice period (immediately available)**."
     ];
   } else if (t.includes('change') || t.includes('ocm') || t.includes('transformation')) {
     domainBullets = [
       "**Business & OCM Transformation**: Proven expertise in Organizational Change Management (OCM), driving multi-region business transformations and operating model shifts.",
       "**Standard Chartered Leadership**: 15+ years leading complex transformation programs in banking and corporate functions.",
-      "**Notice & Location**: Based in **Bengaluru**, serving a **30-day notice period** (negotiable)."
+      "**Notice & Location**: Based in **Bengaluru**, serving a **15-day notice period (immediately available)**."
     ];
   }
 
@@ -210,7 +210,7 @@ Location: Bengaluru, India`;
 
   } else {
     // Recruiter Template: Executive Pitch & Candidate Profile Submission
-    subject = `Candidate Profile: ${title} - Sandeep Kashyap (15+ Yrs | 30 Days Notice)`;
+    subject = `Candidate Profile: ${title} - Sandeep Kashyap (15+ Yrs | 15 Days Notice)`;
     textBody = `${greeting}
 
 I am writing to express my interest in the ${title} role at ${company}.
@@ -222,7 +222,7 @@ Key Highlights of My Experience:
 * ${domainBullets[1].replace(/\*\*/g, '')}
 * ${domainBullets[2].replace(/\*\*/g, '')}
 
-I have attached my resume for your review. I am serving a 30-day notice period (Bengaluru / Global Remote) and would welcome an opportunity to discuss how my profile aligns with your hiring targets.
+I have attached my resume for your review. I am serving a 15-day notice period (Bengaluru / Immediate Joiner) and would welcome an opportunity to discuss how my profile aligns with your hiring targets.
 
 Best regards,
 
@@ -245,7 +245,7 @@ Location: Bengaluru, India`;
           <li>${domainBullets[2].replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}</li>
         </ul>
         
-        <p>I have attached my resume for your review. I am serving a 30-day notice period and look forward to connecting.</p>
+        <p>I have attached my resume for your review. I am serving a 15-day notice period (immediate joiner) and look forward to connecting.</p>
         
         <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;" />
         <p style="margin-bottom: 4px;"><strong>Sandeep Ramaswamy Kashyap</strong></p>
@@ -348,7 +348,15 @@ async function processOutreachQueue() {
     }
   });
 
+  let sentInThisBatch = 0;
+  const BATCH_LIMIT = 8;
+
   for (const lead of pendingLeads) {
+    if (sentInThisBatch >= BATCH_LIMIT) {
+      console.log(`[Outreach] ⏱️ Reached batch limit of ${BATCH_LIMIT} emails for this run. Next batch queued for next sweep.`);
+      break;
+    }
+
     const emailAddr = lead.email.toLowerCase().trim();
 
     // Stage 1-4 Real-Time Mailbox Existence Verification
@@ -401,6 +409,8 @@ async function processOutreachQueue() {
         dispatchedAt: new Date().toISOString()
       });
       fs.writeFileSync(emailedFile, JSON.stringify(emailed, null, 2), 'utf8');
+      sentInThisBatch++;
+      await new Promise(r => setTimeout(r, 3500));
     } catch (err) {
       console.error(`[Outreach] ❌ Failed to send email to ${lead.email}: ${err.message}`);
       // Auto-blacklist email on bounce/SMTP rejection

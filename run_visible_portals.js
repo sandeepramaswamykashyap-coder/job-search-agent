@@ -36,6 +36,7 @@ const { runIndeedE2E } = require('./portal_drivers/indeed_e2e');
 const { runTimesJobsE2E } = require('./portal_drivers/timesjobs_e2e');
 const { runLinkedInNetworking } = require('./linkedin_networker');
 const { mineAndQueueRecruiterLeads } = require('./recruiter_lead_miner');
+const { processOutreachQueue } = require('./outreach_mailer');
 const { sendSessionReport, getReportState, updateReportState } = require('./reporter');
 
 const CV_PATH = path.join(__dirname, 'Sandeep_Kashyap.pdf');
@@ -353,13 +354,14 @@ async function runVisibleCorporateGrind(page, context) {
   const matched = jobs.filter(j => {
     const t = (j.title || '').toLowerCase();
     const loc = (j.location || '').toLowerCase();
+    const isNotGreenhouse = (j.atsType || '').toLowerCase() !== 'greenhouse';
     const isSenior = SENIOR_KEYWORDS.some(k => t.includes(k)) && !/intern|junior|graduate/i.test(t);
     const isIndiaOrRemote = !loc || /india|bengaluru|bangalore|remote|anywhere|flexible/i.test(loc) && !/san francisco|new york|california|london|tokyo|berlin|sydney|seattle|austin|toronto/i.test(loc);
     const key = `${(j.company || '').toLowerCase().trim()}::${(j.title || '').toLowerCase().trim()}`;
-    return isSenior && isIndiaOrRemote && !appliedKeys.has(key);
+    return isNotGreenhouse && isSenior && isIndiaOrRemote && !appliedKeys.has(key);
   });
 
-  console.log(`[DirectCorporate] ${matched.length} fresh unapplied senior leadership openings in India/Remote queued.`);
+  console.log(`[DirectCorporate] ${matched.length} fresh unapplied senior leadership openings in India/Remote queued (Greenhouse excluded for fast responses).`);
 
   for (const job of matched.slice(0, 5)) {
     console.log(`\n[VisibleApply] 🖥️ Processing: "${job.title}" @ ${job.company} (${job.atsType})`);
@@ -447,6 +449,7 @@ async function main() {
       try {
         console.log('\n[VisibleRunner] 📧 Triggering autonomous recruiter lead mining & cold emails...');
         await mineAndQueueRecruiterLeads();
+        await processOutreachQueue();
       } catch (e) {
         console.warn(`[VisibleRunner] Lead miner step notice: ${e.message}`);
       }

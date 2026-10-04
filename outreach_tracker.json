@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 90,
-  "coldEmailsCount": 67,
+  "totalOutreachItems": 98,
+  "coldEmailsCount": 75,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 0,
+    "initialWindow_0_2_days": 8,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-04T07:07:47.342Z",
+  "lastUpdated": "2026-10-04T07:29:17.566Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -745,6 +745,94 @@
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sanjay.deshmukh@target.com",
+      "company": "Target India",
+      "title": "Director - Enterprise Transformation & Delivery",
+      "dispatchedAt": "2026-10-04T07:27:47.637Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "kavitha.rao@target.com",
+      "company": "Target India",
+      "title": "Lead Talent Acquisition Partner - Leadership",
+      "dispatchedAt": "2026-10-04T07:27:57.733Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "arunav.sengupta@walmart.com",
+      "company": "Walmart Global Tech",
+      "title": "Senior Director - Enterprise Program Management",
+      "dispatchedAt": "2026-10-04T07:28:07.427Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rashmi.nair@walmart.com",
+      "company": "Walmart Global Tech",
+      "title": "Staff Talent Acquisition Partner",
+      "dispatchedAt": "2026-10-04T07:28:16.693Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "vikram.sethi@gs.com",
+      "company": "Goldman Sachs India",
+      "title": "Managing Director - Operations & Governance",
+      "dispatchedAt": "2026-10-04T07:28:26.380Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pooja.kapoor@gs.com",
+      "company": "Goldman Sachs India",
+      "title": "Vice President - Human Capital Management",
+      "dispatchedAt": "2026-10-04T07:28:37.263Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "gaurav.mehra@jpmorgan.com",
+      "company": "JPMorgan Chase & Co",
+      "title": "Executive Director - Technology Program Delivery",
+      "dispatchedAt": "2026-10-04T07:28:46.109Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "swati.shenoy@jpmorgan.com",
+      "company": "JPMorgan Chase & Co",
+      "title": "Lead Recruiter - Executive Hiring India",
+      "dispatchedAt": "2026-10-04T07:28:54.839Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
     }
   ],
   "connectionsList": [

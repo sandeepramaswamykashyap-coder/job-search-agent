@@ -85,6 +85,11 @@ async function applyToPortal(page, context, job) {
 
   // Detect ATS
   const atsInfo = detectAtsFromUrl(url);
+  if (atsInfo.type === 'greenhouse' || url.includes('greenhouse')) {
+    console.log(`[PortalRouter] ⏭️ Skipping Greenhouse posting for "${job.title}" @ ${job.company} (De-prioritized for fast response channels).`);
+    return { success: false, reason: 'Greenhouse disabled per user directive' };
+  }
+
   console.log(`[PortalRouter] 🧭 Routing "${job.title}" @ ${job.company} → ${atsInfo.type.toUpperCase()} (${url.slice(0, 60)}...)`);
 
   const engine = ENGINES[atsInfo.type] || ENGINES.generic;

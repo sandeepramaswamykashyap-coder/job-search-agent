@@ -132,22 +132,9 @@ const SMARTRECRUITERS_COMPANIES = [
 ];
 
 async function fetchGreenhouseJobs(slug) {
-  try {
-    const data = await fetchJson(`https://boards-api.greenhouse.io/v1/boards/${slug}/jobs`);
-    if (!data || !Array.isArray(data.jobs)) return [];
-    
-    return data.jobs
-      .filter(j => matchesKeywords(j.title))
-      .map(j => ({
-        company: slug.charAt(0).toUpperCase() + slug.slice(1),
-        title: j.title.trim(),
-        applyUrl: `https://job-boards.greenhouse.io/${slug}/jobs/${j.id}`,
-        atsType: 'greenhouse',
-        location: j.location ? j.location.name : 'Remote'
-      }));
-  } catch (_) {
-    return [];
-  }
+  // Greenhouse disabled per user directive: Greenhouse applications are low-yield with slow response times.
+  // Bandwidth pivoted 100% to Indian Executive Portals (Naukri, IIMJobs, Instahyre) and Direct Recruiter Outreach.
+  return [];
 }
 
 async function fetchLeverJobs(slug) {
