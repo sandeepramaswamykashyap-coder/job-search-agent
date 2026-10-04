@@ -671,5 +671,117 @@
     "title": "Partner - Core Business Transformation",
     "status": "sent",
     "dispatchedAt": "2026-10-04T07:33:04.698Z"
+  },
+  {
+    "email": "meenakshi.sundaram@deloitte.com",
+    "company": "Deloitte USI",
+    "title": "Director - Executive & Lateral Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:12:08.899Z"
+  },
+  {
+    "email": "kunal.singhal@ey.com",
+    "company": "EY GDS",
+    "title": "Partner - Technology Consulting & Program Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:12:18.904Z"
+  },
+  {
+    "email": "tanvi.saxena@ey.com",
+    "company": "EY India",
+    "title": "Director - Executive Search & Hiring",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:12:27.421Z"
+  },
+  {
+    "email": "sameer.bhalla@kpmg.com",
+    "company": "KPMG India",
+    "title": "Partner - Business Transformation & Technology Advisory",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:12:35.882Z"
+  },
+  {
+    "email": "pallavi.joshi@kpmg.com",
+    "company": "KPMG Global Services",
+    "title": "Associate Director - Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:12:44.363Z"
+  },
+  {
+    "email": "siddharth.roy@accenture.com",
+    "company": "Accenture Technology & Operations",
+    "title": "Managing Director - Enterprise Platform Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:12:52.764Z"
+  },
+  {
+    "email": "bhavna.chadha@accenture.com",
+    "company": "Accenture India",
+    "title": "Lead Recruiter - Senior Leadership Hiring",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:13:01.480Z"
+  },
+  {
+    "email": "varun.grover@alvarezandmarsal.com",
+    "company": "Alvarez & Marsal India",
+    "title": "Managing Director - Corporate Performance Improvement",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:13:10.916Z"
+  },
+  {
+    "email": "virendra.singh@servicenow.com",
+    "company": "ServiceNow India",
+    "title": "Senior Director - Solution Consulting & Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:13:53.386Z"
+  },
+  {
+    "email": "nandini.das@servicenow.com",
+    "company": "ServiceNow India",
+    "title": "Principal Talent Acquisition Partner",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:14:02.024Z"
+  },
+  {
+    "email": "deepak.chopra@salesforce.com",
+    "company": "Salesforce India",
+    "title": "Senior Director - Professional Services Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:14:10.593Z"
+  },
+  {
+    "email": "madhavi.latha@workday.com",
+    "company": "Workday India",
+    "title": "Principal Recruiter - Enterprise Applications",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:14:19.361Z"
+  },
+  {
+    "email": "gautam.kumar@freshworks.com",
+    "company": "Freshworks",
+    "title": "Director - Global Program Management",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:14:27.987Z"
+  },
+  {
+    "email": "prashant.hegde@uipath.com",
+    "company": "UiPath India",
+    "title": "Vice President - Customer Success & Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:14:36.745Z"
+  },
+  {
+    "email": "ravi.shankar@infosys.com",
+    "company": "Infosys",
+    "title": "Executive Vice President - Enterprise Service Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:14:45.192Z"
+  },
+  {
+    "email": "kiran.mai@infosys.com",
+    "company": "Infosys BPM",
+    "title": "Associate Vice President - Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-10-04T08:14:54.241Z"
   }
 ]

@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3482,
+  "applicationsSubmitted": 3487,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Sales - SAP/ServiceNow",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-sales-sap-servicenow-1727621?ref=sp&jobPos=11",
-      "time": "2026-09-26T08:22:48.330Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Operations - Hospitality",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-operations-hospitality-1735221?ref=sp_prm&jobPos=1",
-      "time": "2026-09-26T08:22:58.561Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Onity Group - Director - Call Center Operations Control",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/onity-group-director-call-center-operations-control-1733643?ref=sp_br_prm&jobPos=2",
-      "time": "2026-09-26T08:23:04.840Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "K12 Techno Services",
-      "title": "Senior Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-operations-manager-k12-techno-services-bengaluru-4-to-8-years-220926039201?src=directSearch&sid=17904116363736689&xp=2&px=1",
-      "time": "2026-09-26T08:34:13.456Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happinesscue",
-      "title": "Senior Hotel Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-hotel-operations-manager-happinesscue-hyderabad-chennai-bengaluru-10-to-14-years-250926905723?src=directSearch&sid=17904116363736689&xp=3&px=1",
-      "time": "2026-09-26T08:34:24.785Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ConsultAsia",
       "title": "Senior Manager : Global Network Operations",
@@ -4001,6 +3961,46 @@
       "url": "https://jobs.ashbyhq.com/deepgram/51a459fc-29b7-48cd-934d-3459dd04b950",
       "time": "2026-10-04T08:09:52.810Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Key Account Manager/Engagement Manager - IT Solutions & Services - West Region",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/key-account-manager-engagement-manager-it-solutions-and-services-west-region-1737629?ref=sp&jobPos=15",
+      "time": "2026-10-04T08:23:54.986Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Circle",
+      "title": "Director of Strategic Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/circle/569f2f24-03ca-4cdb-80d5-0e28ba331580",
+      "time": "2026-10-04T08:50:54.247Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Circle",
+      "title": "Director of Strategic Partnerships",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/circle/569f2f24-03ca-4cdb-80d5-0e28ba331580",
+      "time": "2026-10-04T08:50:54.516Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Industry Practice Director, Healthcare Provider",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0772300d-b9cb-4dfd-a32e-2efecd1d6bb2",
+      "time": "2026-10-04T08:51:17.064Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Industry Practice Director, Healthcare Provider",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0772300d-b9cb-4dfd-a32e-2efecd1d6bb2",
+      "time": "2026-10-04T08:51:17.319Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3482,
+  "totalVerifiedInHistory": 3487,
   "portalBreakdown": {
-    "iimjobs": 393,
+    "iimjobs": 394,
     "naukri": 450,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4684,12 +4684,12 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 451,
-    "ashby": 342,
+    "direct_portal_ashby": 453,
+    "ashby": 344,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-04T08:09:52.844Z",
-  "lastUpdated": "4/10/2026, 1:39:52 pm"
+  "lastSyncedAt": "2026-10-04T08:51:17.352Z",
+  "lastUpdated": "4/10/2026, 2:21:17 pm"
 }
