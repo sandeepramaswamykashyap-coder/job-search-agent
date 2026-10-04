@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3490,
+  "applicationsSubmitted": 3493,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Zepto - Senior Director - Motherhub Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/zepto-senior-director-motherhub-operations-1734342?ref=sp_br&jobPos=3",
-      "time": "2026-09-26T08:40:50.146Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Kumar Stampings - Director - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/kumar-stampings-director-operations-1727639?ref=sp_br&jobPos=4",
-      "time": "2026-09-26T08:40:56.268Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Moglix - Associate Director - Plant Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/moglix-associate-director-plant-operations-1734254?ref=sp_br&jobPos=5",
-      "time": "2026-09-26T08:41:02.374Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "JP Morgan Chase - Executive Director - Fund Services NAV Operations - EMEA",
@@ -4001,6 +3977,30 @@
       "url": "https://jobs.ashbyhq.com/prefect/40af3189-c64d-4529-8170-2d57629f8e5a",
       "time": "2026-10-04T09:31:47.907Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Medical Coding Solutions Provider",
+      "title": "Medical Coding -Sr Manager For Ops/Delivery Quality For EM/HHC/HCC",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-medical-coding-sr-manager-for-ops-delivery-quality-for-em-hhc-hcc-bizopp-management-consultants-hyderabad-chennai-bengaluru-10-to-15-years-021026008966?src=directSearch&sid=17911110752188604&xp=10&px=1",
+      "time": "2026-10-04T10:51:52.364Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cherry Bekaert",
+      "title": "Service Help Desk - Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-help-desk-lead-cherry-bekaert-hyderabad-chennai-bengaluru-10-to-14-years-021026009536?src=directSearch&sid=17911110752188604&xp=12&px=1",
+      "time": "2026-10-04T10:52:03.963Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Quest Global",
+      "title": "Senior Talent Acquisition Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-talent-acquisition-consultant-quest-global-bengaluru-10-to-20-years-021026011429?src=directSearch&sid=17911110752188604&xp=13&px=1",
+      "time": "2026-10-04T10:52:15.493Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3490,
+  "totalVerifiedInHistory": 3493,
   "portalBreakdown": {
     "iimjobs": 394,
-    "naukri": 451,
+    "naukri": 454,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-04T09:31:47.944Z",
-  "lastUpdated": "4/10/2026, 3:01:47 pm"
+  "lastSyncedAt": "2026-10-04T10:52:15.525Z",
+  "lastUpdated": "4/10/2026, 4:22:15 pm"
 }
