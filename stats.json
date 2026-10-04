@@ -1,135 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3454,
+  "applicationsSubmitted": 3470,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "The Convergence Foundation - Head - Operations - NGO/Social Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/the-convergence-foundation-head-operations-ngo-social-services-1732671?ref=sp_br&jobPos=11",
-      "time": "2026-09-26T07:46:12.961Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "RLG Systems - Head - Business Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/rlg-systems-head-business-operations-1729264?ref=sp_br&jobPos=12",
-      "time": "2026-09-26T07:46:19.048Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "GVK EMRI - Head - IT Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/gvk-emri-head-it-operations-1728189?ref=sp_br&jobPos=13",
-      "time": "2026-09-26T07:46:25.210Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Meesho - Cluster Head - Last Mile Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/meesho-cluster-head-last-mile-operations-1734874?ref=sp_br&jobPos=14",
-      "time": "2026-09-26T07:46:31.327Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Medicover Hospitals - Center/Unit Head - Hospital Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/medicover-hospitals-center-unit-head-hospital-operations-1731230?ref=sp_br&jobPos=15",
-      "time": "2026-09-26T07:46:37.406Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "RLG Systems - Head - Business Operations - Logistics/Supply Chain Vertical",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/rlg-systems-head-business-operations-logistics-supply-chain-vertical-1731257?ref=sp_br&jobPos=16",
-      "time": "2026-09-26T07:46:43.597Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Zostel - Operations Lead",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/zostel-operations-lead-1729648?ref=sp_br&jobPos=17",
-      "time": "2026-09-26T07:46:49.715Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "DailyObjects - Offline Expansion Head - Retail Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/dailyobjects-offline-expansion-head-retail-operations-1732554?ref=sp_br&jobPos=18",
-      "time": "2026-09-26T07:46:55.811Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "IBM - Group Manager/Vice President - Transition & Transformation - BFSI Domain",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ibm-group-manager-vice-president-transition-and-transformation-bfsi-domain-1732770?ref=sp_br&jobPos=10",
-      "time": "2026-09-26T08:03:38.681Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Westbury Sportswear - Assistant Vice President - Operations & Warehouse Transfor",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/westbury-sportswear-assistant-vice-president-operations-and-warehouse-transformation-1730006?ref=sp_br&jobPos=11",
-      "time": "2026-09-26T08:03:44.783Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Vice President - Product Management - Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-product-management-transformation-1735441?ref=sp_br&jobPos=12",
-      "time": "2026-09-26T08:03:50.890Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Vice President - Product Management - Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-product-management-digital-transformation-1734639?ref=sp_br&jobPos=13",
-      "time": "2026-09-26T08:03:56.959Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Fedbank Financial Services - Digital & Artificial Intelligence Lead - Digital Tr",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/fedbank-financial-services-digital-and-artificial-intelligence-lead-digital-transformation-1732067?ref=sp_br&jobPos=14",
-      "time": "2026-09-26T08:04:03.060Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "TE Connectivity - Manager - Procurement - Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/te-connectivity-manager-procurement-digital-transformation-1734289?ref=sp&jobPos=15",
-      "time": "2026-09-26T08:04:09.231Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Leuwint Technologies - Transformation Office Governance Lead",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/leuwint-technologies-transformation-office-governance-lead-1734262?ref=sp&jobPos=16",
-      "time": "2026-09-26T08:04:15.291Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Cloud Raptor - Senior Transformation Project Manager - IT & Systems",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/cloud-raptor-senior-transformation-project-manager-it-and-systems-1736012?ref=sp&jobPos=17",
-      "time": "2026-09-26T08:04:21.421Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "PMO Manager - AI Transformation - Consulting Firm - Contractual",
@@ -4001,6 +3873,134 @@
       "url": "https://www.naukri.com/job-listings-sales-director-senior-director-avp-han-digital-solution-hyderabad-bengaluru-14-to-20-years-011026038493?src=directSearch&sid=17909990995484663&xp=3&px=1",
       "time": "2026-10-03T03:45:17.111Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IT Consulting",
+      "title": "Sr Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-manager-hr-india-solutions-bengaluru-10-to-14-years-300926907441?src=directSearch&sid=17910944431904059&xp=12&px=1",
+      "time": "2026-10-04T06:14:47.991Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Trigent Software",
+      "title": "Vice President Business Development Digital Manufacturing Data Offeri",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vice-president-business-development-digital-manufacturing-data-offeri-trigent-software-hyderabad-bengaluru-mumbai-all-areas-9-to-14-years-031026006725?src=directSearch&sid=17910945905803568&xp=11&px=1",
+      "time": "2026-10-04T06:16:59.475Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Axis Bank",
+      "title": "Hiring For Branch Operations Head @ Axis Bank, Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hiring-for-branch-operations-head-axis-bank-bangalore-axis-bank-bengaluru-5-to-10-years-031026006181?src=directSearch&sid=17910947597854310&xp=11&px=1",
+      "time": "2026-10-04T06:19:47.755Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Bonito Designs",
+      "title": "Design Operations Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-design-operations-head-bonito-designs-bengaluru-12-to-20-years-011026934272?src=directSearch&sid=17910947597854310&xp=13&px=1",
+      "time": "2026-10-04T06:19:59.342Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Brigade Hospitality (BHSL)",
+      "title": "CAFM Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-cafm-manager-tpc-hr-advisory-services-bengaluru-5-to-10-years-031026007761?src=directSearch&sid=17910948026452604&xp=12&px=1",
+      "time": "2026-10-04T06:20:23.711Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Senior/Lead Data Modeler",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-lead-data-modeler-epam-systems-bengaluru-10-to-19-years-031026003571?src=directSearch&sid=17910948301543495&xp=8&px=1",
+      "time": "2026-10-04T06:21:16.855Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Product Manager - Product Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-product-manager-product-operations-1737509?ref=sp_prm&jobPos=1",
+      "time": "2026-10-04T06:22:10.537Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Magenta EV Solutions - Strategy & Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/magenta-ev-solutions-strategy-and-program-manager-1736799?ref=sp&jobPos=15",
+      "time": "2026-10-04T06:22:21.023Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vetic - Program Manager - At-Home Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vetic-program-manager-at-home-services-1736734?ref=sp&jobPos=17",
+      "time": "2026-10-04T06:22:27.299Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Spyne.ai - Program & Analytics Manager - Process Excellence & Automation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/spyneai-program-and-analytics-manager-process-excellence-and-automation-1737395?ref=sp&jobPos=18",
+      "time": "2026-10-04T06:22:33.467Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager - SaaS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-saas-1736367?ref=sp&jobPos=17",
+      "time": "2026-10-04T06:22:49.828Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Project Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/technical-project-manager-1737312?ref=sp&jobPos=18",
+      "time": "2026-10-04T06:22:56.032Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-operations-1737521?ref=sp&jobPos=14",
+      "time": "2026-10-04T06:23:06.417Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Masters' Union - Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/masters039-union-head-operations-1737605?ref=sp&jobPos=15",
+      "time": "2026-10-04T06:23:12.576Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Business Head - Operations - Retail/Oil & Gas & Warehousing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/business-head-operations-retail-oil-and-gas-and-warehousing-1737568?ref=sp&jobPos=17",
+      "time": "2026-10-04T06:23:18.707Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Assistant Manager - Statutory Audit - BFSI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-assistant-manager-statutory-audit-bfsi-1737520?ref=sp&jobPos=4",
+      "time": "2026-10-04T06:24:07.675Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3454,
+  "totalVerifiedInHistory": 3470,
   "portalBreakdown": {
-    "iimjobs": 381,
-    "naukri": 444,
+    "iimjobs": 391,
+    "naukri": 450,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-03T04:21:50.614Z",
-  "lastUpdated": "3/10/2026, 9:51:50 am"
+  "lastSyncedAt": "2026-10-04T06:53:43.135Z",
+  "lastUpdated": "4/10/2026, 12:23:43 pm"
 }
