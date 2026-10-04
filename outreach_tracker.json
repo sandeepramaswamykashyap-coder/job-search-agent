@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-04T16:42:47.740Z",
+  "lastUpdated": "2026-10-04T17:18:18.315Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -114,7 +114,7 @@
       "company": "Foundit Partner",
       "title": "Managing Director - Operations",
       "dispatchedAt": "2026-08-06T17:15:29.146Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1591,7 +1591,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/venkatesh-n-t-28bb5b2b/",
       "dispatchedAt": "2026-08-20T16:45:15.478Z",
-      "daysElapsed": 44,
+      "daysElapsed": 45,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
