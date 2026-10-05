@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3534,
+  "applicationsSubmitted": 3538,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Financial Planning & Analysis",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-planning-and-analysis-1731539?ref=sp&jobPos=14",
-      "time": "2026-09-26T10:10:16.513Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Relationship Manager/Assistant Relationship Manager/Senior Relationship Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/relationship-manager-assistant-relationship-manager-senior-relationship-manager-corporate-coverage-banking-1733691?ref=sp&jobPos=15",
-      "time": "2026-09-26T10:10:22.740Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Facultative Reinsurance - General Insurance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-facultative-reinsurance-general-insurance-1734888?ref=sp&jobPos=16",
-      "time": "2026-09-26T10:10:28.835Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "General Manager/Deputy General Manager/Assistant General Manager - HEMM Maintena",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/general-manager-deputy-general-manager-assistant-general-manager-hemm-maintenance-1733272?ref=sp&jobPos=17",
-      "time": "2026-09-26T10:10:34.916Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - Business Finance - FMCG - CA",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/manager-saas-account-management-1737880?ref=sp&jobPos=17",
       "time": "2026-10-05T11:36:48.972Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Venpa Staffing Services",
+      "title": "TPRM Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tprm-manager-venpa-staffing-bengaluru-7-to-12-years-051026030058?src=directSearch&sid=17912012255868244&xp=13&px=1",
+      "time": "2026-10-05T11:54:31.058Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nagarro",
+      "title": "Principal Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-principal-consultant-nagarro-pune-gurugram-bengaluru-11-to-15-years-051026029514?src=directSearch&sid=17912014403354914&xp=8&px=1",
+      "time": "2026-10-05T11:57:47.736Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "The/Nudge Institute - Senior Manager - Program Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/the-nudge-institute-senior-manager-program-management-1737896?ref=sp&jobPos=16",
+      "time": "2026-10-05T11:59:23.192Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "The/Nudge Institute - Senior Manager - AI Program Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/the-nudge-institute-senior-manager-ai-program-management-1737895?ref=sp&jobPos=18",
+      "time": "2026-10-05T11:59:29.333Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3534,
+  "totalVerifiedInHistory": 3538,
   "portalBreakdown": {
-    "iimjobs": 408,
-    "naukri": 481,
+    "iimjobs": 410,
+    "naukri": 483,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-05T11:36:49.004Z",
-  "lastUpdated": "5/10/2026, 5:06:49 pm"
+  "lastSyncedAt": "2026-10-05T11:59:29.366Z",
+  "lastUpdated": "5/10/2026, 5:29:29 pm"
 }
