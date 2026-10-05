@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3521,
+  "applicationsSubmitted": 3522,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Strategy Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-strategy-consulting-1734067?ref=sp&jobPos=1",
-      "time": "2026-09-26T09:34:40.140Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Senior Manager/Manager - Business Development - IT Services/Solutions - West Reg",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-manager-miles-education-bengaluru-10-to-20-years-031026003145?src=directSearch&sid=17911853840075125&xp=11&px=1",
       "time": "2026-10-05T07:30:46.066Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior manager-FP&A-Strategic finance/Financial planning & Analysis",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-fp-a-strategic-finance-financial-planning-analysis-ey-bengaluru-14-to-23-years-230726034740?src=directSearch&sid=17911868355244377&xp=3&px=1",
+      "time": "2026-10-05T07:54:09.771Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3521,
+  "totalVerifiedInHistory": 3522,
   "portalBreakdown": {
     "iimjobs": 401,
-    "naukri": 475,
+    "naukri": 476,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-05T07:30:46.103Z",
-  "lastUpdated": "5/10/2026, 1:00:46 pm"
+  "lastSyncedAt": "2026-10-05T07:58:37.581Z",
+  "lastUpdated": "5/10/2026, 1:28:37 pm"
 }
