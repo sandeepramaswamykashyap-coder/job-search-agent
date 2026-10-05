@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-05T10:07:27.725Z",
+  "lastUpdated": "2026-10-05T10:30:26.547Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -411,7 +411,7 @@
       "company": "Crescendo Global",
       "title": "Data Analyst - Product Analysis -SQL/Power BI- 3 Years-Pune/Gurugram",
       "dispatchedAt": "2026-08-22T10:21:23.154Z",
-      "daysElapsed": 43,
+      "daysElapsed": 44,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
