@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3497,
+  "applicationsSubmitted": 3498,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Operations - Mining/Heavy Engineering",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-operations-mining-heavy-engineering-1732359?ref=sp&jobPos=10",
-      "time": "2026-09-26T08:41:33.241Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Cashfree - Associate Director - People Analytics & Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/capitalmind-senior-manager-marketing-iim-fms-mdi-xlri-1737646?ref=sp_prm&jobPos=11",
       "time": "2026-10-04T19:44:36.498Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Product Supplier Sales - Automotive/Defence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-product-supplier-sales-automotive-defence-1737651?ref=sp&jobPos=15",
+      "time": "2026-10-05T02:25:11.657Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3497,
+  "totalVerifiedInHistory": 3498,
   "portalBreakdown": {
-    "iimjobs": 396,
+    "iimjobs": 397,
     "naukri": 456,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-04T19:44:36.527Z",
-  "lastUpdated": "5/10/2026, 1:14:36 am"
+  "lastSyncedAt": "2026-10-05T02:30:29.503Z",
+  "lastUpdated": "5/10/2026, 8:00:29 am"
 }
