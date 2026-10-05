@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3512,
+  "applicationsSubmitted": 3517,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Project Manager - Strategic Initiatives & Business Transformation - Real Estate",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/project-manager-strategic-initiatives-and-business-transformation-real-estate-1735430?ref=sp&jobPos=10",
-      "time": "2026-09-26T09:16:49.520Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Lead HR Business Partner - Organisation Transformation - FMCG/Agri/eCommerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/lead-hr-business-partner-organisation-transformation-fmcg-agri-ecommerce-1728172?ref=sp&jobPos=11",
-      "time": "2026-09-26T09:16:55.689Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Transformation Lead - Enterprise Technology & Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/transformation-lead-enterprise-technology-and-digital-transformation-1733447?ref=sp&jobPos=12",
-      "time": "2026-09-26T09:17:01.742Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - HR Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-hr-transformation-1734474?ref=sp&jobPos=13",
-      "time": "2026-09-26T09:17:07.927Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager - Transformation - Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-transformation-consulting-1735096?ref=sp&jobPos=14",
-      "time": "2026-09-26T09:17:14.231Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - Customer Experience Transformation - IT/Digital Transformation",
@@ -4001,6 +3961,46 @@
       "url": "https://www.naukri.com/job-listings-senior-finance-lead-program-financial-controller-cgi-bengaluru-10-to-14-years-051026004450?src=directSearch&sid=17911825053371325&xp=6&px=1",
       "time": "2026-10-05T06:42:06.107Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Resource Pro",
+      "title": "Service Delivery Manager / Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-operations-manager-resource-pro-bengaluru-12-to-18-years-051026007517?src=directSearch&sid=17911837919883029&xp=7&px=1",
+      "time": "2026-10-05T07:03:26.284Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Mankind Pharma - Senior Manager - Distribution Planner - IIM/ISB/MDI/FMS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mankind-pharma-senior-manager-distribution-planner-iim-isb-mdi-fms-1737737?ref=sp_br_prm&jobPos=12",
+      "time": "2026-10-05T07:06:51.415Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Tata 1mg - Program Manager - AI & Customer Experience Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/tata-1mg-program-manager-ai-and-customer-experience-transformation-1737747?ref=sp_br&jobPos=12",
+      "time": "2026-10-05T07:07:06.001Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Mankind Pharma - Manager/Assistant Manager - Business Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mankind-pharma-manager-assistant-manager-business-transformation-1737739?ref=sp_br_prm&jobPos=2",
+      "time": "2026-10-05T07:07:30.938Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Quality & Process Excellence - BFSI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-quality-and-process-excellence-bfsi-1737749?ref=sp&jobPos=16",
+      "time": "2026-10-05T07:08:42.461Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3512,
+  "totalVerifiedInHistory": 3517,
   "portalBreakdown": {
-    "iimjobs": 397,
-    "naukri": 470,
+    "iimjobs": 401,
+    "naukri": 471,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-05T06:42:06.144Z",
-  "lastUpdated": "5/10/2026, 12:12:06 pm"
+  "lastSyncedAt": "2026-10-05T07:08:42.501Z",
+  "lastUpdated": "5/10/2026, 12:38:42 pm"
 }
