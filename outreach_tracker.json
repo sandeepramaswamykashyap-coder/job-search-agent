@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-05T14:24:06.825Z",
+  "lastUpdated": "2026-10-05T14:47:20.068Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -81,7 +81,7 @@
       "company": "Target Enterprise",
       "title": "Head of UAT & Quality Governance",
       "dispatchedAt": "2026-07-26T14:30:29.614Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -92,7 +92,7 @@
       "company": "Target Enterprise (Verified Hiring)",
       "title": "Transformation Program Manager",
       "dispatchedAt": "2026-07-26T14:30:36.295Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -103,7 +103,7 @@
       "company": "Resource Pro",
       "title": "Service Delivery Manager, India - Only P&C Experience",
       "dispatchedAt": "2026-07-29T14:30:54.527Z",
-      "daysElapsed": 67,
+      "daysElapsed": 68,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -378,7 +378,7 @@
       "company": "IMC",
       "title": "Program Manager || Non IT Project Management || Bangalore",
       "dispatchedAt": "2026-08-20T14:28:14.514Z",
-      "daysElapsed": 45,
+      "daysElapsed": 46,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1327,7 +1327,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sangram-guha-6ba27634/",
       "dispatchedAt": "2026-08-20T14:43:16.937Z",
-      "daysElapsed": 45,
+      "daysElapsed": 46,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1339,7 +1339,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/mohammad-shafeen-baba-779415175/",
       "dispatchedAt": "2026-08-20T14:44:37.398Z",
-      "daysElapsed": 45,
+      "daysElapsed": 46,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1351,7 +1351,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sunil-kumar-katthula-712173b0/",
       "dispatchedAt": "2026-08-20T14:46:02.968Z",
-      "daysElapsed": 45,
+      "daysElapsed": 46,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
