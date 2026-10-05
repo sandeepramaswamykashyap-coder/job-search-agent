@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3531,
+  "applicationsSubmitted": 3534,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager/Manager - Direct Taxation - Banking & Finance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-manager-direct-taxation-banking-and-finance-1735865?ref=sp&jobPos=11",
-      "time": "2026-09-26T09:52:50.573Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Account Manager/Senior Manager - FMCG Sales",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/account-manager-senior-manager-fmcg-sales-1736070?ref=sp&jobPos=12",
-      "time": "2026-09-26T09:52:56.799Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Engagement - Renewable Energy",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-engagement-renewable-energy-1733166?ref=sp&jobPos=13",
-      "time": "2026-09-26T10:10:10.367Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - Financial Planning & Analysis",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-it-program-manager-tekskills-bangalore-rural-bengaluru-10-to-15-years-051026027554?src=directSearch&sid=17911984860169521&xp=13&px=1",
       "time": "2026-10-05T11:08:39.875Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Logixhealth",
+      "title": "Senior Manager - Medical Coding (Business Transformation)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-medical-coding-business-transformation-logixhealth-bengaluru-13-to-18-years-051026029045?src=directSearch&sid=17911998042381527&xp=12&px=1",
+      "time": "2026-10-05T11:30:47.810Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operations - Project Execution - Real Estate",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-operations-project-execution-real-estate-1737867?ref=sp_br_prm&jobPos=1",
+      "time": "2026-10-05T11:36:22.303Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - SaaS Account Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-saas-account-management-1737880?ref=sp&jobPos=17",
+      "time": "2026-10-05T11:36:48.972Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3531,
+  "totalVerifiedInHistory": 3534,
   "portalBreakdown": {
-    "iimjobs": 406,
-    "naukri": 480,
+    "iimjobs": 408,
+    "naukri": 481,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-05T11:08:39.912Z",
-  "lastUpdated": "5/10/2026, 4:38:39 pm"
+  "lastSyncedAt": "2026-10-05T11:36:49.004Z",
+  "lastUpdated": "5/10/2026, 5:06:49 pm"
 }
