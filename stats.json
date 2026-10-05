@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3541,
+  "applicationsSubmitted": 3543,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Supply Chain Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-supply-chain-transformation-1715118?ref=sp&jobPos=3",
-      "time": "2026-09-26T10:28:26.144Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "F&A Transformation Leader & Head",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/fanda-transformation-leader-and-head-1715354?ref=sp&jobPos=4",
-      "time": "2026-09-26T10:28:32.329Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Sammaan Capital - IT Head - SAP Transformation Finance ERP - NBFC",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/coforge-senior-project-manager-1737918?ref=sp_br_prm&jobPos=1",
       "time": "2026-10-05T12:46:16.066Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Navi Limited",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-navi-limited-bengaluru-2-to-6-years-051026036607?src=directSearch&sid=17912055345141793&xp=2&px=1",
+      "time": "2026-10-05T13:05:48.769Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Foodland - Head - FMCG Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/foodland-head-fmcg-operations-1737919?ref=sp&jobPos=16",
+      "time": "2026-10-05T13:11:00.529Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3541,
+  "totalVerifiedInHistory": 3543,
   "portalBreakdown": {
-    "iimjobs": 412,
-    "naukri": 484,
+    "iimjobs": 413,
+    "naukri": 485,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-05T12:46:16.101Z",
-  "lastUpdated": "5/10/2026, 6:16:16 pm"
+  "lastSyncedAt": "2026-10-05T13:11:00.565Z",
+  "lastUpdated": "5/10/2026, 6:41:00 pm"
 }
