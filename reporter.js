@@ -56,24 +56,11 @@ function updateReportState(type, dateStr) {
 }
 
 function getSessionWindow(forcedSessionType = null) {
-  const now = new Date();
-  const istFormatter = new Intl.DateTimeFormat('en-US', {
-    timeZone: 'Asia/Kolkata',
-    hour: 'numeric',
-    hour12: false
-  });
-  const istHour = parseInt(istFormatter.format(now), 10);
-
-  let sessionType = forcedSessionType;
-  if (!sessionType) {
-    sessionType = (istHour >= 4 && istHour < 16) ? 'morning' : 'evening';
-  }
-
   return {
-    sessionType,
-    sessionName: sessionType === 'morning' ? 'Morning Brief (Overnight 8 PM – 8 AM IST)' : 'Evening Brief (Daytime 8 AM – 8 PM IST)',
-    sessionEmoji: sessionType === 'morning' ? '🌅' : '🌆',
-    reportTitle: sessionType === 'morning' ? '8:00 AM IST Executive Application & Outreach Report' : '8:00 PM IST Executive Application & Outreach Report'
+    sessionType: 'evening',
+    sessionName: 'Daily Master Brief (24-Hour Pipeline & Direct Outreach)',
+    sessionEmoji: '🌆',
+    reportTitle: 'Daily 8:00 PM IST Executive Application & Outreach Report'
   };
 }
 
@@ -310,7 +297,7 @@ function buildSessionHtmlReport(forcedSessionType = null) {
 
       <!-- FOOTER -->
       <div style="background: #f1f5f9; border-top: 1px solid #e2e8f0; padding: 16px; text-align: center; font-size: 12px; color: #64748b;">
-        Automated Executive Pipeline Brief • Single Recipient Delivery (${PRIMARY_RECIPIENT}) • Next Brief at ${windowInfo.sessionType === 'morning' ? '8:00 PM IST' : '8:00 AM IST'}
+        Automated Executive Pipeline Brief • Single Recipient Delivery (${PRIMARY_RECIPIENT}) • Delivered Daily at 8:00 PM IST
       </div>
 
     </div>
@@ -358,7 +345,7 @@ async function sendSessionReport(forcedSessionType = null) {
     timeZone: 'Asia/Kolkata'
   });
 
-  const subject = `📊 Executive Job Application & Outreach Report (${windowInfo.sessionType === 'morning' ? '8:00 AM' : '8:00 PM'} IST) — ${dateStr} [${analytics.totalApplications} Total]`;
+  const subject = `📊 Sandeep Kashyap — Daily Executive Pipeline & Outreach Brief (8:00 PM IST) — ${dateStr} [${analytics.totalApplications} Applications | ${analytics.outreachTotal} Pitches Sent]`;
 
   let sent = false;
   for (let attempt = 1; attempt <= 3; attempt++) {

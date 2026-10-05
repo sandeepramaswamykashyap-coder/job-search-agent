@@ -206,36 +206,18 @@ function scheduleDailyReport() {
     const istHour = istTime.getHours();
     const reportState = getReportState();
 
-    // 1. Morning 8:00 AM IST Report (Overnight Session)
-    if (istHour >= 8 && istHour < 12 && reportState.lastMorningReportDate !== todayStr) {
-      log("⏰ Triggering 8:00 AM IST Executive Session Report (Overnight Window)...");
-      try {
-        await processOutreachQueue().catch(() => {});
-        const { sendSessionReport } = require('./reporter');
-        const delivered = await sendSessionReport('morning');
-        if (delivered) {
-          log("✅ 8:00 AM IST Morning Session Report dispatched successfully.");
-          updateReportState('morning', todayStr);
-        } else {
-          log("⚠️ Morning Session Report failed to dispatch. Will retry on next check.");
-        }
-      } catch (err) {
-        log(`Failed to dispatch 8 AM report: ${err.message}`);
-      }
-    }
-
-    // 2. Evening 8:00 PM IST Report (Daytime Session)
+    // STRICT USER DIRECTIVE: Send ONLY 1 email daily to Sandeep at 8:00 PM IST
     if (istHour >= 20 && reportState.lastEveningReportDate !== todayStr) {
-      log("⏰ Triggering 8:00 PM IST Executive Session Report (Daytime Window)...");
+      log("⏰ Triggering Single Daily 8:00 PM IST Master Executive Report...");
       try {
         await processOutreachQueue().catch(() => {});
         const { sendSessionReport } = require('./reporter');
         const delivered = await sendSessionReport('evening');
         if (delivered) {
-          log("✅ 8:00 PM IST Evening Session Report dispatched successfully.");
+          log("✅ Single Daily 8:00 PM IST Executive Report dispatched successfully.");
           updateReportState('evening', todayStr);
         } else {
-          log("⚠️ Evening Session Report failed to dispatch. Will retry on next check.");
+          log("⚠️ Daily 8 PM Executive Report failed to dispatch. Will retry on next check.");
         }
       } catch (err) {
         log(`Failed to dispatch 8 PM report: ${err.message}`);
@@ -246,6 +228,6 @@ function scheduleDailyReport() {
 
 // Start the scheduler
 log("Google Antigravity Job Search & Application Agent Scheduler initialized.");
-log("24/7 service started with Bi-Daily Reporting (8:00 AM & 8:00 PM IST).");
+log("24/7 service started with Single Daily Reporting (8:00 PM IST only).");
 executeCycle();
 scheduleDailyReport();

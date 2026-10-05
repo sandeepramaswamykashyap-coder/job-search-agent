@@ -50,29 +50,18 @@ async function checkAndDispatchScheduledReport() {
   const istHour = istTime.getHours();
   const reportState = getReportState();
 
-  // Morning report window: 8:00 AM - 7:59 PM IST
-  if (istHour >= 8 && istHour < 20 && reportState.lastMorningReportDate !== todayStr) {
-    console.log('\n⏰ [VisibleRunner] Triggering 8:00 AM IST Executive Session Report...');
-    try {
-      const delivered = await sendSessionReport('morning');
-      if (delivered) {
-        console.log('✅ [VisibleRunner] 8:00 AM IST Morning Session Report dispatched successfully.');
-      }
-    } catch (err) {
-      console.warn(`[VisibleRunner] Morning report notice: ${err.message}`);
-    }
-  }
-
-  // Evening report window: 8:00 PM IST onwards through night
-  if ((istHour >= 20 || istHour < 4) && reportState.lastEveningReportDate !== todayStr) {
-    console.log('\n⏰ [VisibleRunner] Triggering 8:00 PM IST Executive Session Report...');
+  // STRICT USER DIRECTIVE: Send ONLY 1 email daily to Sandeep at 8:00 PM IST.
+  // Window: 8:00 PM IST (20:00) onwards until midnight
+  if (istHour >= 20 && reportState.lastEveningReportDate !== todayStr) {
+    console.log('\n⏰ [VisibleRunner] Triggering Single Daily 8:00 PM IST Executive Report...');
     try {
       const delivered = await sendSessionReport('evening');
       if (delivered) {
-        console.log('✅ [VisibleRunner] 8:00 PM IST Evening Session Report dispatched successfully.');
+        console.log('✅ [VisibleRunner] Single Daily 8:00 PM IST Executive Report dispatched successfully.');
+        updateReportState('evening', todayStr);
       }
     } catch (err) {
-      console.warn(`[VisibleRunner] Evening report notice: ${err.message}`);
+      console.warn(`[VisibleRunner] Daily 8 PM report notice: ${err.message}`);
     }
   }
 }
