@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3564,
+  "applicationsSubmitted": 3565,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Lead - Operational Excellence - Blue Collar Workforce Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/lead-operational-excellence-blue-collar-workforce-management-1726572?ref=sp&jobPos=9",
-      "time": "2026-09-26T11:23:52.153Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Wabtec",
       "title": "Human Resource Operations Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-supply-chain-transformation-manager-xpheno-bengaluru-10-to-19-years-061026002783?src=directSearch&sid=17912646577179946&xp=5&px=1",
       "time": "2026-10-06T05:31:18.565Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "PROJECT MANAGER - Project Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-project-management-happiest-minds-technologies-bengaluru-10-to-13-years-061026005239?src=directSearch&sid=17912670684354511&xp=12&px=1",
+      "time": "2026-10-06T06:11:57.914Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3564,
+  "totalVerifiedInHistory": 3565,
   "portalBreakdown": {
     "iimjobs": 415,
-    "naukri": 502,
+    "naukri": 503,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-06T05:31:18.601Z",
-  "lastUpdated": "6/10/2026, 11:01:18 am"
+  "lastSyncedAt": "2026-10-06T06:11:57.952Z",
+  "lastUpdated": "6/10/2026, 11:41:57 am"
 }
