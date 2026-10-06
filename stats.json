@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3635,
+  "applicationsSubmitted": 3636,
   "appliedRolesList": [
-    {
-      "company": "Shya Exports Private Limited",
-      "title": "International Sales Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-international-sales-head-shya-exports-bengaluru-delhi-ncr-mumbai-all-areas-10-to-15-years-260926001193?src=directSearch&sid=179048762423722&xp=11&px=1",
-      "time": "2026-09-27T05:41:27.200Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happinesscue",
       "title": "Head – Events",
@@ -4001,6 +3993,14 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRIRL1sAAAACZNieoQAJAQABPWdEWcAmAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRIRL1sAAAACZNieoQAJAQABPWdEWcAmAAA&from=page-two-signin",
       "time": "2026-10-06T18:11:59.967Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Mouser",
+      "title": "Talent Acquisition Specialist II",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-talent-acquisition-specialist-ii-mouser-bengaluru-4-to-5-years-061026009063",
+      "time": "2026-10-06T19:32:44.129Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3635,
+  "totalVerifiedInHistory": 3636,
   "portalBreakdown": {
     "iimjobs": 429,
-    "naukri": 543,
+    "naukri": 544,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 16
   },
-  "lastSyncedAt": "2026-10-06T18:12:00.035Z",
-  "lastUpdated": "6/10/2026, 11:42:00 pm"
+  "lastSyncedAt": "2026-10-06T19:32:44.170Z",
+  "lastUpdated": "7/10/2026, 1:02:44 am"
 }
