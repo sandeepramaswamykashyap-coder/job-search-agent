@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3603,
+  "applicationsSubmitted": 3610,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Assistant Manager/Manager/Senior Manager - Direct Tax - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/assistant-manager-manager-senior-manager-direct-tax-ca-1736209?ref=sp&jobPos=1",
-      "time": "2026-09-26T18:49:22.154Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Secretarial & Compliance - Banking/Financial Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-secretarial-and-compliance-banking-financial-services-1736196?ref=sp&jobPos=3",
-      "time": "2026-09-26T18:49:28.309Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Brand Manager/Senior Brand Manager/Group Brand Manager - D2C - Personal Care",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/brand-manager-senior-brand-manager-group-brand-manager-d2c-personal-care-1736091?ref=sp&jobPos=8",
-      "time": "2026-09-26T18:49:46.587Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Consulting Company",
-      "title": "SAP Ariba Procurement Transformation Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-ariba-procurement-transformation-lead-consult-asia-bengaluru-9-to-14-years-250926915864?src=directSearch&sid=17904493415106612&xp=1&px=1",
-      "time": "2026-09-26T19:02:35.517Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "VP - Finance Transformation (R2R / O2C)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vp-finance-transformation-r2r-o2c-golden-opportunities-pvt-ltd-hyderabad-chennai-bengaluru-16-to-25-years-210926909148?src=directSearch&sid=17904493415106612&xp=9&px=1",
-      "time": "2026-09-26T19:02:50.151Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Orkla India",
-      "title": "Manager - Operations Digital CoE Lead 1",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-operations-digital-coe-lead-1-orkla-india-bengaluru-5-to-10-years-300626006582?src=directSearch&sid=17904493415106612&xp=10&px=1",
-      "time": "2026-09-26T19:03:16.348Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Everforth Quinnox",
-      "title": "Lead AI Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-everforth-quinnox-bengaluru-7-to-10-years-290726011471?src=directSearch&sid=17904493415106612&xp=11&px=1",
-      "time": "2026-09-26T19:03:27.745Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Tata Consultancy Services",
       "title": "Lead Technical Architect",
@@ -4001,6 +3945,62 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&from=page-two-signin",
       "time": "2026-10-06T10:19:41.427Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Manager, Engineering",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-engineering-mongodb-software-india-private-limited-bengaluru-10-to-15-years-061026916602?src=directSearch&sid=17912822996176490&xp=10&px=1",
+      "time": "2026-10-06T10:25:33.633Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Photon",
+      "title": "Program Manager  -  Photon  |  Location - Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-photon-location-bangalore-photon-bengaluru-8-to-13-years-061026018064?src=directSearch&sid=17912823688773003&xp=12&px=1",
+      "time": "2026-10-06T10:26:41.447Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CGI",
+      "title": "Lead Data Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-data-engineer-cgi-information-systems-and-management-consultants-bengaluru-7-to-12-years-061026909631?src=directSearch&sid=17912824336241428&xp=9&px=1",
+      "time": "2026-10-06T10:27:40.974Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC India",
+      "title": "Change Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-change-manager-pwc-india-hyderabad-chennai-bengaluru-6-to-11-years-061026012636?src=directSearch&sid=17912826405333298&xp=2&px=1",
+      "time": "2026-10-06T10:31:03.070Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Black Box - Senior Account Manager - GCC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/black-box-senior-account-manager-gcc-1738101?ref=sp_prm&jobPos=6",
+      "time": "2026-10-06T10:32:00.115Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Black Box - Senior Account Manager - Technology Sector",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/black-box-senior-account-manager-technology-sector-1738100?ref=sp_prm&jobPos=8",
+      "time": "2026-10-06T10:32:06.347Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Accounts & Finance - NBFC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-accounts-and-finance-nbfc-1738089?ref=sp&jobPos=9",
+      "time": "2026-10-06T10:33:13.630Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3603,
+  "totalVerifiedInHistory": 3610,
   "portalBreakdown": {
-    "iimjobs": 421,
-    "naukri": 522,
+    "iimjobs": 424,
+    "naukri": 526,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 13
   },
-  "lastSyncedAt": "2026-10-06T10:19:41.489Z",
-  "lastUpdated": "6/10/2026, 3:49:41 pm"
+  "lastSyncedAt": "2026-10-06T10:33:13.669Z",
+  "lastUpdated": "6/10/2026, 4:03:13 pm"
 }
