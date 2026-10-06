@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-06T06:58:54.277Z",
+  "lastUpdated": "2026-10-06T07:37:51.269Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -752,7 +752,7 @@
       "company": "Target India",
       "title": "Director - Enterprise Transformation & Delivery",
       "dispatchedAt": "2026-10-04T07:27:47.637Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -763,7 +763,7 @@
       "company": "Target India",
       "title": "Lead Talent Acquisition Partner - Leadership",
       "dispatchedAt": "2026-10-04T07:27:57.733Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -774,7 +774,7 @@
       "company": "Walmart Global Tech",
       "title": "Senior Director - Enterprise Program Management",
       "dispatchedAt": "2026-10-04T07:28:07.427Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -785,7 +785,7 @@
       "company": "Walmart Global Tech",
       "title": "Staff Talent Acquisition Partner",
       "dispatchedAt": "2026-10-04T07:28:16.693Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -796,7 +796,7 @@
       "company": "Goldman Sachs India",
       "title": "Managing Director - Operations & Governance",
       "dispatchedAt": "2026-10-04T07:28:26.380Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -807,7 +807,7 @@
       "company": "Goldman Sachs India",
       "title": "Vice President - Human Capital Management",
       "dispatchedAt": "2026-10-04T07:28:37.263Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -818,7 +818,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Executive Director - Technology Program Delivery",
       "dispatchedAt": "2026-10-04T07:28:46.109Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -829,7 +829,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Lead Recruiter - Executive Hiring India",
       "dispatchedAt": "2026-10-04T07:28:54.839Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -840,7 +840,7 @@
       "company": "Morgan Stanley Advantage Services",
       "title": "Managing Director - Global Business Operations",
       "dispatchedAt": "2026-10-04T07:30:35.701Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -851,7 +851,7 @@
       "company": "Wells Fargo India",
       "title": "Head of Transformation & Operational Excellence",
       "dispatchedAt": "2026-10-04T07:30:44.098Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -862,7 +862,7 @@
       "company": "Wells Fargo India",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-04T07:30:52.519Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -873,7 +873,7 @@
       "company": "Fidelity Investments India",
       "title": "Vice President - Platform Architecture & Program Delivery",
       "dispatchedAt": "2026-10-04T07:31:01.198Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -884,7 +884,7 @@
       "company": "Fidelity Investments India",
       "title": "Senior Manager - Talent Acquisition",
       "dispatchedAt": "2026-10-04T07:31:09.716Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -895,7 +895,7 @@
       "company": "Cisco Systems India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-10-04T07:31:18.100Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -906,7 +906,7 @@
       "company": "Cisco Systems India",
       "title": "Senior Talent Acquisition Lead",
       "dispatchedAt": "2026-10-04T07:31:26.439Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -917,7 +917,7 @@
       "company": "Honeywell India",
       "title": "Senior Director - Global Program Governance",
       "dispatchedAt": "2026-10-04T07:31:34.883Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -928,7 +928,7 @@
       "company": "SAP Labs India",
       "title": "Director - Cloud Delivery & Partner Solutions",
       "dispatchedAt": "2026-10-04T07:32:04.242Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -939,7 +939,7 @@
       "company": "Dell Technologies India",
       "title": "Executive Director - Global Process & Program Management",
       "dispatchedAt": "2026-10-04T07:32:12.680Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -950,7 +950,7 @@
       "company": "Lowe's India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-10-04T07:32:21.495Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -961,7 +961,7 @@
       "company": "ANZ Global Services",
       "title": "Head of Banking Operations & Delivery",
       "dispatchedAt": "2026-10-04T07:32:30.328Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -972,7 +972,7 @@
       "company": "Societe Generale Global Solution Centre",
       "title": "Managing Director - Transformation & Digital Solutions",
       "dispatchedAt": "2026-10-04T07:32:39.367Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -983,7 +983,7 @@
       "company": "PwC India",
       "title": "Partner - Advisory & Platform Transformation",
       "dispatchedAt": "2026-10-04T07:32:47.722Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -994,7 +994,7 @@
       "company": "PwC India SDC",
       "title": "Talent Acquisition Lead - Transformation Services",
       "dispatchedAt": "2026-10-04T07:32:56.147Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1005,7 +1005,7 @@
       "company": "Deloitte India",
       "title": "Partner - Core Business Transformation",
       "dispatchedAt": "2026-10-04T07:33:04.698Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
