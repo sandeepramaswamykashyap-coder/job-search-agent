@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3591,
+  "applicationsSubmitted": 3596,
   "appliedRolesList": [
-    {
-      "company": "Empower",
-      "title": "Lead Engineer Automation Quality",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-engineer-automation-quality-empower-bengaluru-7-to-10-years-230926502653?src=directSearch&sid=17904302416531847&xp=6&px=1",
-      "time": "2026-09-26T13:45:30.660Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Jobaaj com",
-      "title": "AI Automation & Agentic Workflows Developer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-automation-agentic-workflows-developer-jobaaj-com-pune-gurugram-bengaluru-0-to-1-years-230926024129?src=directSearch&sid=17904302416531847&xp=7&px=1",
-      "time": "2026-09-26T13:45:42.031Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CGI",
-      "title": "Senior Software -AI Automation Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-software-ai-automation-engineer-cgi-information-systems-and-management-consultants-bengaluru-9-to-12-years-220926908963?src=directSearch&sid=17904302416531847&xp=12&px=1",
-      "time": "2026-09-26T13:45:59.784Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Inspirisys Solutions - Senior Sales Manager - IT Infrastructure Product",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/inspirisys-solutions-senior-sales-manager-it-infrastructure-product-1736101?ref=sp_prm&jobPos=15",
-      "time": "2026-09-26T18:30:15.686Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Technical Program Manager - eCommerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/technical-program-manager-ecommerce-1726666?ref=sp&jobPos=18",
-      "time": "2026-09-26T18:30:40.518Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Wipro - Assistant Vice President - Location Delivery Head - F&A Operations",
@@ -4001,6 +3961,46 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AAQAQEBBwD10DcSv-daVDEKewAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AAQAQEBBwD10DcSv-daVDEKewAA&from=page-two-signin",
       "time": "2026-10-06T08:49:38.731Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Latent Bridge - Technical Project/Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/latent-bridge-technical-project-program-manager-1738067?ref=sp&jobPos=16",
+      "time": "2026-10-06T09:07:56.759Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Info Edge - Technical Program Manager - Naukri.com - IIT/NIT/BITS/IIM/MDI/ISB",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/info-edge-technical-program-manager-naukricom-iit-nit-bits-iim-mdi-isb-1738060?ref=sp&jobPos=17",
+      "time": "2026-10-06T09:08:02.944Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Principal Enterprise Delivery Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRBSTJ4AAAACZRltmAAPAQAyM7FXMlBqkAVu3LZSAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRBSTJ4AAAACZRltmAAPAQAyM7FXMlBqkAVu3LZSAAA&from=page-two-signin",
+      "time": "2026-10-06T09:21:29.623Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Principal Technical Program Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRBYQRwAAAACZNieoQAIAQAA7kOSAZIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRBYQRwAAAACZNieoQAIAQAA7kOSAZIAAA&from=page-two-signin",
+      "time": "2026-10-06T09:33:27.655Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "Director, Support (Bengaluru)",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&from=page-two-signin",
+      "time": "2026-10-06T09:38:25.262Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3591,
+  "totalVerifiedInHistory": 3596,
   "portalBreakdown": {
-    "iimjobs": 419,
+    "iimjobs": 421,
     "naukri": 517,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 8
+    "indeed": 11
   },
-  "lastSyncedAt": "2026-10-06T08:49:38.789Z",
-  "lastUpdated": "6/10/2026, 2:19:38 pm"
+  "lastSyncedAt": "2026-10-06T09:38:25.327Z",
+  "lastUpdated": "6/10/2026, 3:08:25 pm"
 }
