@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3637,
+  "applicationsSubmitted": 3638,
   "appliedRolesList": [
-    {
-      "company": "R1 RCM",
-      "title": "Program Manager - HR",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-hr-r1-rcm-global-private-limited-gurugram-chennai-bengaluru-11-to-18-years-210926923004?src=directSearch&sid=17904897426915448&xp=1&px=1",
-      "time": "2026-09-27T06:15:56.556Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "GenBioCa",
       "title": "Urgently Hiring - Senior Clinical Business Analyst",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-servicenow-manager-bt-group-bengaluru-10-to-18-years-071026000345?src=directSearch&sid=17913172314063140&xp=4&px=1",
       "time": "2026-10-06T20:07:28.892Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Omnicom Global Solutions",
+      "title": "Project M",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-m-omnicom-global-solutions-bengaluru-7-to-11-years-061026028838",
+      "time": "2026-10-06T22:22:14.626Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3637,
+  "totalVerifiedInHistory": 3638,
   "portalBreakdown": {
     "iimjobs": 429,
-    "naukri": 545,
+    "naukri": 546,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 16
   },
-  "lastSyncedAt": "2026-10-06T20:07:28.928Z",
-  "lastUpdated": "7/10/2026, 1:37:28 am"
+  "lastSyncedAt": "2026-10-06T22:22:14.667Z",
+  "lastUpdated": "7/10/2026, 3:52:14 am"
 }
