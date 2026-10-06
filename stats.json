@@ -1,127 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3576,
+  "applicationsSubmitted": 3591,
   "appliedRolesList": [
-    {
-      "company": "CMMI Level 5 IT Company - MNC",
-      "title": "SAP Program Manager / SAP Service Delivery Manager (Cloud ALM)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-program-manager-sap-service-delivery-manager-cloud-alm-consult-asia-bengaluru-8-to-13-years-250926906531?src=directSearch&sid=17904239162552153&xp=3&px=1",
-      "time": "2026-09-26T11:59:01.594Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "Service Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-delivery-manager-tata-consultancy-services-bengaluru-10-to-15-years-250926036666?src=directSearch&sid=17904239162552153&xp=4&px=1",
-      "time": "2026-09-26T11:59:12.894Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Resource Pro",
-      "title": "Assistant Manager, Service Delivery",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-manager-service-delivery-resource-pro-bengaluru-8-to-13-years-240925027931?src=directSearch&sid=17904239162552153&xp=11&px=1",
-      "time": "2026-09-26T11:59:33.919Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Equinix",
-      "title": "Senior Program Manager, Corporate Real Estate Design & Delivery- APAC",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-program-manager-corporate-real-estate-design-delivery-apac-equinix-india-professional-services-private-limited-bengaluru-12-to-17-years-230926936631?src=directSearch&sid=17904239162552153&xp=12&px=1",
-      "time": "2026-09-26T11:59:45.234Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Operational Risk Manager - Treasury",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/operational-risk-manager-treasury-1733580?ref=sp&jobPos=13",
-      "time": "2026-09-26T12:01:58.535Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Consultant - Manufacturing Excellence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/consultant-manufacturing-excellence-1733877?ref=sp&jobPos=14",
-      "time": "2026-09-26T12:02:04.654Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Wholesale Banking Operational Risk Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/wholesale-banking-operational-risk-manager-1733582?ref=sp&jobPos=15",
-      "time": "2026-09-26T12:02:10.718Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Lead - Customer Excellence - Logistics & Supply Chain",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/lead-customer-excellence-logistics-and-supply-chain-1735945?ref=sp&jobPos=16",
-      "time": "2026-09-26T12:19:54.508Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Consultant - Process Excellence - Finance Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/consultant-process-excellence-finance-transformation-1732958?ref=sp&jobPos=17",
-      "time": "2026-09-26T12:20:00.660Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Business & Operational Strategy - Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-business-and-operational-strategy-consulting-1735168?ref=sp&jobPos=18",
-      "time": "2026-09-26T12:20:06.823Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Finance Transformation - Shared Services/GCC/Consulting/BPO",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-finance-transformation-shared-services-gcc-consulting-bpo-1718014?ref=sp&jobPos=18",
-      "time": "2026-09-26T12:55:11.689Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "o9 Solutions",
-      "title": "Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-o9-solutions-bengaluru-7-to-12-years-260926008410?src=directSearch&sid=17904282543352725&xp=1&px=1",
-      "time": "2026-09-26T13:11:07.311Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Experis",
-      "title": "Agentic AI & GenAI Test Automation Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-agentic-ai-genai-test-automation-engineer-experis-hyderabad-pune-bengaluru-7-to-12-years-250926006999?src=directSearch&sid=17904302416531847&xp=2&px=1",
-      "time": "2026-09-26T13:44:18.763Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bahwan CyberTek",
-      "title": "AI Automation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-automation-bct-consulting-bengaluru-3-to-4-years-250926005415?src=directSearch&sid=17904302416531847&xp=3&px=1",
-      "time": "2026-09-26T13:44:44.979Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Datamatics",
-      "title": "Automation Tester - Appium",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-automation-tester-appium-datamatics-bengaluru-mumbai-all-areas-1-to-4-years-240926017182?src=directSearch&sid=17904302416531847&xp=5&px=1",
-      "time": "2026-09-26T13:44:59.500Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Empower",
       "title": "Lead Engineer Automation Quality",
@@ -4001,6 +3881,126 @@
       "url": "https://www.iimjobs.com/j/zinnov-senior-manager-supply-chain-and-randd-operations-1738027?ref=sp_br&jobPos=13",
       "time": "2026-10-06T07:34:01.886Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tavant",
+      "title": "Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-tavant-bengaluru-10-to-15-years-061026012085?src=directSearch&sid=17912739155931175&xp=8&px=1",
+      "time": "2026-10-06T08:05:49.461Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Virtusa",
+      "title": "Program Manager-AI Implementation and Banking domain",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-ai-implementation-and-banking-domain-virtusa-hyderabad-chennai-bengaluru-12-to-19-years-061026011532?src=directSearch&sid=17912740010931832&xp=4&px=1",
+      "time": "2026-10-06T08:07:15.772Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mindteck",
+      "title": "Senior Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-technical-program-manager-mindteck-bengaluru-8-to-13-years-061026011962?src=directSearch&sid=17912740010931832&xp=7&px=1",
+      "time": "2026-10-06T08:07:27.359Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte Shared Services India",
+      "title": "Business Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-analyst-deloitte-shared-services-india-bangalore-rural-bengaluru-9-to-13-years-061026012500?src=directSearch&sid=17912741756726075&xp=2&px=1",
+      "time": "2026-10-06T08:09:49.812Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "General Manager - HC",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-general-manager-hc-cognizant-bengaluru-8-to-12-years-061026012668?src=directSearch&sid=17912742831486718&xp=6&px=1",
+      "time": "2026-10-06T08:12:03.158Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC India",
+      "title": "Change Manage",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-change-manage-pwc-india-hyderabad-chennai-bengaluru-6-to-11-years-061026012636?src=directSearch&sid=17912743487421592&xp=2&px=1",
+      "time": "2026-10-06T08:12:51.235Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Associate - Management Accounting - BFSI - ca",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/associate-management-accounting-bfsi-ca-1738051?ref=sp&jobPos=9",
+      "time": "2026-10-06T08:14:15.367Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Kennametal",
+      "title": "Manager Manufacturing",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
+      "time": "2026-10-06T08:29:42.020Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Indeed Employer",
+      "title": "Program Manager",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
+      "time": "2026-10-06T08:31:01.182Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Kennametal",
+      "title": "Manager - Manufacturing",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
+      "time": "2026-10-06T08:31:20.337Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cleo (India)",
+      "title": "Manager - Transaction Management and Monitoring",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
+      "time": "2026-10-06T08:31:39.500Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TechBiz Global GmbH",
+      "title": "Operations Manager",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
+      "time": "2026-10-06T08:32:58.667Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Testunity",
+      "title": "Program Manager – Strategy or Chief of Staff",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoQilQqsAAAACZNieoQAIAQAGg-nBINwAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoQilQqsAAAACZNieoQAIAQAGg-nBINwAAA&from=page-two-signin",
+      "time": "2026-10-06T08:33:52.066Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Sr Product Manager, Tech - Product",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoQ4rg7wAAAACZRltmAALAQAPlHXB-aAYnswAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoQ4rg7wAAAACZRltmAALAQAPlHXB-aAYnswAAA&from=page-two-signin",
+      "time": "2026-10-06T08:41:45.516Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deltek, Inc.",
+      "title": "Senior Principal, AI Transformation Lead",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AAQAQEBBwD10DcSv-daVDEKewAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AAQAQEBBwD10DcSv-daVDEKewAA&from=page-two-signin",
+      "time": "2026-10-06T08:49:38.731Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3576,
+  "totalVerifiedInHistory": 3591,
   "portalBreakdown": {
-    "iimjobs": 418,
-    "naukri": 511,
+    "iimjobs": 419,
+    "naukri": 517,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4688,8 +4688,9 @@
     "ashby": 346,
     "workingnomads": 2,
     "instahyre": 1,
-    "naukri_nvite": 1
+    "naukri_nvite": 1,
+    "indeed": 8
   },
-  "lastSyncedAt": "2026-10-06T07:34:01.922Z",
-  "lastUpdated": "6/10/2026, 1:04:01 pm"
+  "lastSyncedAt": "2026-10-06T08:49:38.789Z",
+  "lastUpdated": "6/10/2026, 2:19:38 pm"
 }
