@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3621,
+  "applicationsSubmitted": 3622,
   "appliedRolesList": [
-    {
-      "company": "Winning Edge",
-      "title": "AD -  HRBP | BPS / BPO / Contact Center",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ad-hrbp-bps-bpo-contact-center-edge-bengaluru-15-to-20-years-260926008918?src=directSearch&sid=17904708355172456&xp=13&px=1",
-      "time": "2026-09-27T01:01:34.982Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Epam Systems",
       "title": "Palantir Data Solution Architect",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-delivery-manager-brillio-pune-bengaluru-10-to-20-years-061026024673?src=directSearch&sid=17912888511963133&xp=2&px=1",
       "time": "2026-10-06T12:14:28.717Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Medical Coding Operations - Healthcare",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-medical-coding-operations-healthcare-1738158?ref=sp_prm&jobPos=2",
+      "time": "2026-10-06T12:48:47.902Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3621,
+  "totalVerifiedInHistory": 3622,
   "portalBreakdown": {
-    "iimjobs": 425,
+    "iimjobs": 426,
     "naukri": 536,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 13
   },
-  "lastSyncedAt": "2026-10-06T12:14:28.760Z",
-  "lastUpdated": "6/10/2026, 5:44:28 pm"
+  "lastSyncedAt": "2026-10-06T12:48:47.942Z",
+  "lastUpdated": "6/10/2026, 6:18:47 pm"
 }

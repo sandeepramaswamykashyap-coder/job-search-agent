@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-06T12:18:34.821Z",
+  "lastUpdated": "2026-10-06T12:52:00.990Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -59,7 +59,7 @@
       "company": "Yash Technologies",
       "title": "Yash Technologies is Hiring - Business Analyst - RPA BA",
       "dispatchedAt": "2026-07-22T12:41:17.459Z",
-      "daysElapsed": 75,
+      "daysElapsed": 76,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
