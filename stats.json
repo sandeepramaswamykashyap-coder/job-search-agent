@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3631,
+  "applicationsSubmitted": 3635,
   "appliedRolesList": [
-    {
-      "company": "Leading Client",
-      "title": "Head Warehouse Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-warehouse-operations-hindco-recruitment-consultants-bengaluru-10-to-18-years-220926925016?src=directSearch&sid=179048762423722&xp=1&px=1",
-      "time": "2026-09-27T05:40:38.240Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Olsen Spaces",
-      "title": "Head of Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-of-operations-olsen-spaces-bengaluru-5-to-10-years-200926014196?src=directSearch&sid=179048762423722&xp=6&px=1",
-      "time": "2026-09-27T05:40:52.931Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Macrocosm Commercials",
-      "title": "Operations Plant Head ( Sheet Metal & Electroplating)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operations-plant-head-sheet-metal-electroplating-macrocosm-commercials-bengaluru-8-to-12-years-230926025572?src=directSearch&sid=179048762423722&xp=8&px=1",
-      "time": "2026-09-27T05:41:04.280Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "SCHUCO",
-      "title": "senior accoutant and purchase head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-accoutant-and-purchase-head-jurist-associates-bengaluru-8-to-13-years-280826005439?src=directSearch&sid=179048762423722&xp=9&px=1",
-      "time": "2026-09-27T05:41:15.592Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Shya Exports Private Limited",
       "title": "International Sales Head",
@@ -4001,6 +3969,38 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRIRL1sAAAACZNieoQAIAQAGejSe1iYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRIRL1sAAAACZNieoQAIAQAGejSe1iYAAA&from=page-two-signin",
       "time": "2026-10-06T17:35:47.368Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Gilbarco Veeder Root",
+      "title": "Senior Manager - Contact Center operations opening",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-contact-center-operations-opening-gilbarco-veeder-root-bengaluru-12-to-20-years-061026031780?src=directSearch&sid=17913087525664935&xp=9&px=1",
+      "time": "2026-10-06T17:46:29.766Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "The HR Consultant",
+      "title": "Sr Manager Operation & Maintenance",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-manager-operation-maintenance-the-hr-consultants-bengaluru-10-to-20-years-061026031890?src=directSearch&sid=17913087525664935&xp=12&px=1",
+      "time": "2026-10-06T17:46:44.603Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager/Chief Manager - Treasury & Forex",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-chief-manager-treasury-and-forex-1738179?ref=sp&jobPos=1",
+      "time": "2026-10-06T17:53:06.341Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "Intermediate Technical Program Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRIRL1sAAAACZNieoQAJAQABPWdEWcAmAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRIRL1sAAAACZNieoQAJAQABPWdEWcAmAAA&from=page-two-signin",
+      "time": "2026-10-06T18:11:59.967Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3631,
+  "totalVerifiedInHistory": 3635,
   "portalBreakdown": {
-    "iimjobs": 428,
-    "naukri": 541,
+    "iimjobs": 429,
+    "naukri": 543,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 15
+    "indeed": 16
   },
-  "lastSyncedAt": "2026-10-06T17:35:47.433Z",
-  "lastUpdated": "6/10/2026, 11:05:47 pm"
+  "lastSyncedAt": "2026-10-06T18:12:00.035Z",
+  "lastUpdated": "6/10/2026, 11:42:00 pm"
 }
