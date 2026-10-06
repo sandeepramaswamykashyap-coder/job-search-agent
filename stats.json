@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3636,
+  "applicationsSubmitted": 3637,
   "appliedRolesList": [
-    {
-      "company": "Happinesscue",
-      "title": "Head – Events",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-events-happinesscue-hyderabad-bengaluru-delhi-ncr-10-to-14-years-250926905967?src=directSearch&sid=179048762423722&xp=13&px=1",
-      "time": "2026-09-27T05:41:38.664Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "R1 RCM",
       "title": "Program Manager - HR",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-talent-acquisition-specialist-ii-mouser-bengaluru-4-to-5-years-061026009063",
       "time": "2026-10-06T19:32:44.129Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "BT Group",
+      "title": "ServiceNow Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-manager-bt-group-bengaluru-10-to-18-years-071026000345?src=directSearch&sid=17913172314063140&xp=4&px=1",
+      "time": "2026-10-06T20:07:28.892Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3636,
+  "totalVerifiedInHistory": 3637,
   "portalBreakdown": {
     "iimjobs": 429,
-    "naukri": 544,
+    "naukri": 545,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 16
   },
-  "lastSyncedAt": "2026-10-06T19:32:44.170Z",
-  "lastUpdated": "7/10/2026, 1:02:44 am"
+  "lastSyncedAt": "2026-10-06T20:07:28.928Z",
+  "lastUpdated": "7/10/2026, 1:37:28 am"
 }
