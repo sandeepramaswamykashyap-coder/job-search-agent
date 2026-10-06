@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3622,
+  "applicationsSubmitted": 3625,
   "appliedRolesList": [
-    {
-      "company": "Epam Systems",
-      "title": "Palantir Data Solution Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-palantir-data-solution-architect-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-040926021988?src=directSearch&sid=17904717610246436&xp=6&px=1",
-      "time": "2026-09-27T01:16:36.316Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Allianz - Associate Director - Insurance Transformation & Delivery",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1735579&pref=sp",
-      "time": "2026-09-27T03:24:53.686Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director/Vice President - Finance Transformation - Banking/Financial Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1735684/screening?ref=sp&jobPos=18&pref=sp",
-      "time": "2026-09-27T03:25:03.517Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager - Wealth Management - Investment Bank",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/director-medical-coding-operations-healthcare-1738158?ref=sp_prm&jobPos=2",
       "time": "2026-10-06T12:48:47.902Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "CAW Tech",
+      "title": "DevSecOps Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-devsecops-program-manager-caw-tech-mumbai-hyderabad-bengaluru-5-to-8-years-061026922520?src=directSearch&sid=17912926124243730&xp=8&px=1",
+      "time": "2026-10-06T13:17:16.521Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dozee - Turtle Shell Technologies",
+      "title": "Founders Office - Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-founders-office-program-manager-dozee-turtle-shell-technologies-private-limited-bengaluru-3-to-5-years-061026505422?src=directSearch&sid=17912926124243730&xp=13&px=1",
+      "time": "2026-10-06T13:17:34.643Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Siemens Energy",
+      "title": "Principal Analyst - Fixed Assets",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AARAQAB1v4BZcvRSExvTdkMgR4AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AARAQAB1v4BZcvRSExvTdkMgR4AAA&from=page-two-signin",
+      "time": "2026-10-06T13:46:53.822Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3622,
+  "totalVerifiedInHistory": 3625,
   "portalBreakdown": {
     "iimjobs": 426,
-    "naukri": 536,
+    "naukri": 538,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 13
+    "indeed": 14
   },
-  "lastSyncedAt": "2026-10-06T12:48:47.942Z",
-  "lastUpdated": "6/10/2026, 6:18:47 pm"
+  "lastSyncedAt": "2026-10-06T13:46:53.882Z",
+  "lastUpdated": "6/10/2026, 7:16:53 pm"
 }
