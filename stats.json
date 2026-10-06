@@ -1,71 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3565,
+  "applicationsSubmitted": 3573,
   "appliedRolesList": [
-    {
-      "company": "Wabtec",
-      "title": "Human Resource Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-human-resource-operations-manager-wabtec-bengaluru-12-to-16-years-200926013992?src=directSearch&sid=17904225959071739&xp=10&px=1",
-      "time": "2026-09-26T11:37:02.581Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Client of Mancer",
-      "title": "Director Engineering",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-engineering-mancer-consulting-services-bengaluru-16-to-26-years-280826006149?src=directSearch&sid=17904226632338808&xp=5&px=1",
-      "time": "2026-09-26T11:37:57.187Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "AN MNC Data Center Company",
-      "title": "Director Projects",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-projects-rainbow-hr-consulting-services-noida-navi-mumbai-bengaluru-20-to-25-years-270126001304?src=directSearch&sid=17904226632338808&xp=6&px=1",
-      "time": "2026-09-26T11:38:08.546Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cyient",
-      "title": "Sales Director Automotive Electronics",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sales-director-automotive-electronics-cyient-bengaluru-15-to-20-years-260926001622?src=directSearch&sid=17904226632338808&xp=7&px=1",
-      "time": "2026-09-26T11:38:19.985Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Loadshare Networks",
-      "title": "AD/D- Program Management ( Central Operations)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ad-d-program-management-central-operations-loadshare-networks-bengaluru-4-to-9-years-240926030505?src=directSearch&sid=17904226632338808&xp=10&px=1",
-      "time": "2026-09-26T11:38:34.742Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "NetApp",
-      "title": "Director, Software Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-software-engineer-netapp-bengaluru-16-to-26-years-240926019130?src=directSearch&sid=17904226632338808&xp=11&px=1",
-      "time": "2026-09-26T11:38:46.077Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Indifi Technologies",
-      "title": "Associate Director - Business Development",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-business-development-indifi-technologies-mumbai-bengaluru-10-to-15-years-230926038592?src=directSearch&sid=17904226632338808&xp=13&px=1",
-      "time": "2026-09-26T11:39:00.648Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Operational Excellence - Pharmaceuticals",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-operational-excellence-pharmaceuticals-1717519?ref=sp&jobPos=10",
-      "time": "2026-09-26T11:42:53.635Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - Operational Excellence & Lean - Textile& Apparel",
@@ -4001,6 +3937,70 @@
       "url": "https://www.naukri.com/job-listings-project-manager-project-management-happiest-minds-technologies-bengaluru-10-to-13-years-061026005239?src=directSearch&sid=17912670684354511&xp=12&px=1",
       "time": "2026-10-06T06:11:57.914Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Kairos Technologies",
+      "title": "Servicenow Configuration Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-configuration-manager-kairos-technologies-bengaluru-10-to-15-years-061026002395?src=directSearch&sid=17912693940648442&xp=3&px=1",
+      "time": "2026-10-06T06:50:08.302Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Kyndryl",
+      "title": "Senior Associate II, ServiceNow Developer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-associate-ii-servicenow-developer-kyndryl-noida-hyderabad-bengaluru-4-to-6-years-011026012649",
+      "time": "2026-10-06T06:50:29.666Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC India",
+      "title": "Technical Project Manager - HR Systems - Successfactors / LMS tools",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-project-manager-hr-systems-successfactors-lms-tools-pwc-india-bengaluru-8-to-13-years-300926002739?src=directSearch&sid=17912693940648442&xp=11&px=1",
+      "time": "2026-10-06T06:50:52.871Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte Shared Services India",
+      "title": "Lead Business Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-business-analyst-deloitte-shared-services-india-bangalore-rural-bengaluru-10-to-13-years-061026008179?src=directSearch&sid=17912694592899630&xp=1&px=1",
+      "time": "2026-10-06T06:51:13.478Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "FIS",
+      "title": "Quality Analyst Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-quality-analyst-engineer-fis-global-business-solutions-india-pvt-ltd-chennai-bengaluru-7-to-12-years-061026905362?src=directSearch&sid=17912694592899630&xp=13&px=1",
+      "time": "2026-10-06T06:52:01.307Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CV Designer",
+      "title": "Vice President / Senior Vice President - Business Strategy & Growth",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vice-president-senior-vice-president-business-strategy-growth-cv-designer-chennai-bengaluru-delhi-ncr-15-to-20-years-061026907119?src=directSearch&sid=17912695825745800&xp=10&px=1",
+      "time": "2026-10-06T06:53:29.796Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Urban Company - Senior Category Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/urban-company-senior-category-manager-1737989?ref=sp_br_prm&jobPos=8",
+      "time": "2026-10-06T06:54:54.762Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Partner - Management Consulting - Consumer & Retail",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/partner-management-consulting-consumer-and-retail-1737992?ref=sp&jobPos=9",
+      "time": "2026-10-06T06:55:33.035Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3565,
+  "totalVerifiedInHistory": 3573,
   "portalBreakdown": {
-    "iimjobs": 415,
-    "naukri": 503,
+    "iimjobs": 417,
+    "naukri": 509,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,6 +4690,6 @@
     "instahyre": 1,
     "naukri_nvite": 1
   },
-  "lastSyncedAt": "2026-10-06T06:11:57.952Z",
-  "lastUpdated": "6/10/2026, 11:41:57 am"
+  "lastSyncedAt": "2026-10-06T06:55:33.078Z",
+  "lastUpdated": "6/10/2026, 12:25:33 pm"
 }
