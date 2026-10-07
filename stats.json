@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3654,
+  "applicationsSubmitted": 3656,
   "appliedRolesList": [
-    {
-      "company": "Careernet",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-careernet-bengaluru-11-to-18-years-220926044082?src=directSearch&sid=1790536550411735&xp=1&px=1",
-      "time": "2026-09-27T19:16:04.446Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pinkerton",
-      "title": "Executive Protection Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-executive-protection-program-manager-pinkerton-bengaluru-2-to-4-years-160726023425?src=directSearch&sid=1790536550411735&xp=2&px=1",
-      "time": "2026-09-27T19:16:15.920Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "OrangeMantra",
       "title": "Program Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/program-manager-erp-transformation-1738257?ref=sp&jobPos=17",
       "time": "2026-10-07T07:32:35.324Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - Finance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-manager-finance-1738273?ref=sp_prm&jobPos=2",
+      "time": "2026-10-07T08:05:51.971Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Program/Project Manager 4",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRSgcdwAAAACZTY8HQAIAQAtmu7MkRoAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRSgcdwAAAACZTY8HQAIAQAtmu7MkRoAAA&from=page-two-signin",
+      "time": "2026-10-07T08:23:41.618Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3654,
+  "totalVerifiedInHistory": 3656,
   "portalBreakdown": {
-    "iimjobs": 431,
+    "iimjobs": 432,
     "naukri": 558,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 18
+    "indeed": 19
   },
-  "lastSyncedAt": "2026-10-07T07:32:35.372Z",
-  "lastUpdated": "7/10/2026, 1:02:35 pm"
+  "lastSyncedAt": "2026-10-07T08:23:41.679Z",
+  "lastUpdated": "7/10/2026, 1:53:41 pm"
 }
