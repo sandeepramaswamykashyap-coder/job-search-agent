@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3677,
+  "applicationsSubmitted": 3678,
   "appliedRolesList": [
-    {
-      "company": "Colocacion Services",
-      "title": "Seniors Manager  Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-seniors-manager-operations-colocacion-services-bengaluru-8-to-13-years-280926002818?src=directSearch&sid=17905726100317955&xp=9&px=1",
-      "time": "2026-09-28T05:17:21.443Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "ParallelDots - Senior Project Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=21c75ee77959b2fe",
       "time": "2026-10-07T11:58:04.069Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EdgeVerve Systems",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-edgeverve-systems-pune-chennai-bengaluru-15-to-24-years-071026042320?src=directSearch&sid=17913770796074510&xp=13&px=1",
+      "time": "2026-10-07T12:45:10.436Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3677,
+  "totalVerifiedInHistory": 3678,
   "portalBreakdown": {
     "iimjobs": 438,
-    "naukri": 571,
+    "naukri": 572,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 21
   },
-  "lastSyncedAt": "2026-10-07T11:58:04.131Z",
-  "lastUpdated": "7/10/2026, 5:28:04 pm"
+  "lastSyncedAt": "2026-10-07T12:45:10.475Z",
+  "lastUpdated": "7/10/2026, 6:15:10 pm"
 }
