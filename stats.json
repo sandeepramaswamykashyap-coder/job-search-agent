@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3662,
+  "applicationsSubmitted": 3663,
   "appliedRolesList": [
-    {
-      "company": "Botree Software",
-      "title": "Assistant Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-manager-botree-software-bengaluru-7-to-12-years-210926006099",
-      "time": "2026-09-27T22:43:03.450Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Net Connect",
       "title": "Senior CSV Engineer",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/job/1738307/screening?ref=sp_br_prm&jobPos=10&pref=sp_br_prm",
       "time": "2026-10-07T09:24:26.080Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior General Manager - Operations - Healthcare Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1738331&pref=sp",
+      "time": "2026-10-07T09:58:21.845Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3662,
+  "totalVerifiedInHistory": 3663,
   "portalBreakdown": {
-    "iimjobs": 434,
+    "iimjobs": 435,
     "naukri": 561,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 20
   },
-  "lastSyncedAt": "2026-10-07T09:24:26.143Z",
-  "lastUpdated": "7/10/2026, 2:54:26 pm"
+  "lastSyncedAt": "2026-10-07T09:58:21.904Z",
+  "lastUpdated": "7/10/2026, 3:28:21 pm"
 }
