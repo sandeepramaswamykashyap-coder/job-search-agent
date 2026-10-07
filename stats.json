@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3644,
+  "applicationsSubmitted": 3648,
   "appliedRolesList": [
-    {
-      "company": "Happinesscue",
-      "title": "Store Operations Manager – Beauty",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-store-operations-manager-beauty-happinesscue-hyderabad-bengaluru-delhi-ncr-6-to-10-years-250926906233?src=directSearch&sid=17905068752437993&xp=12&px=1",
-      "time": "2026-09-27T11:02:05.360Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happinesscue",
-      "title": "Senior Manager - Corporate Events",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-corporate-events-happinesscue-mumbai-delhi-ncr-bengaluru-8-to-12-years-250926905728?src=directSearch&sid=17905068752437993&xp=13&px=1",
-      "time": "2026-09-27T11:02:16.780Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "Gen AI Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gen-ai-lead-infosys-limited-bengaluru-5-to-9-years-240926925270?src=directSearch&sid=17905212634433843&xp=9&px=1",
-      "time": "2026-09-27T15:01:17.563Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tanisha Systems",
-      "title": "Agile Coach",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-agile-coach-tanisha-systems-noida-gurugram-bengaluru-6-to-11-years-210926005628?src=directSearch&sid=17905212634433843&xp=11&px=1",
-      "time": "2026-09-27T15:01:32.331Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Pangloss Reimbursement Management",
       "title": "Process Improvement Department Builder - Contract 4-6 Months",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-sr-manager-manager-insurance-sales-operations-10-years-globiva-bengaluru-1-to-6-years-121225021748?src=directSearch&sid=17913516945372850&xp=5&px=1",
       "time": "2026-10-07T05:41:58.608Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Amazon",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-amazon-bengaluru-2-to-7-years-071026017987?src=directSearch&sid=17913537735159761&xp=3&px=1",
+      "time": "2026-10-07T06:16:53.554Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Business Analyst Lead - Manufacturing, Supply Chain, ERP, E-Commerce",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-analyst-lead-manufacturing-supply-chain-erp-e-commerce-happiest-minds-technologies-bengaluru-6-to-11-years-071026017295",
+      "time": "2026-10-07T06:18:15.370Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Resource Pro",
+      "title": "Service Delivery Manager, India - Only P&C Experience",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-india-only-p-c-experience-resource-pro-bengaluru-13-to-20-years-051224013514?src=directSearch&sid=17913539150202283&xp=5&px=1",
+      "time": "2026-10-07T06:18:55.832Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "EYP - IDD - CDD - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-eyp-idd-cdd-manager-ey-hyderabad-pune-bengaluru-7-to-12-years-071026017047?src=directSearch&sid=17913540740606877&xp=9&px=1",
+      "time": "2026-10-07T06:21:38.264Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3644,
+  "totalVerifiedInHistory": 3648,
   "portalBreakdown": {
     "iimjobs": 430,
-    "naukri": 549,
+    "naukri": 553,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 18
   },
-  "lastSyncedAt": "2026-10-07T05:41:58.651Z",
-  "lastUpdated": "7/10/2026, 11:11:58 am"
+  "lastSyncedAt": "2026-10-07T06:21:38.308Z",
+  "lastUpdated": "7/10/2026, 11:51:38 am"
 }
