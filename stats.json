@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3678,
+  "applicationsSubmitted": 3680,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "ParallelDots - Senior Project Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/paralleldots-senior-project-manager-1736265?ref=sp_br&jobPos=17",
-      "time": "2026-09-28T05:22:26.978Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Assistant General Manager - Program Management - Healthcare",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/assistant-general-manager-program-management-healthcare-1735760?ref=sp_br&jobPos=12",
-      "time": "2026-09-28T05:22:42.646Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Commercial Excellence Director - Healthcare - IIM/MDI/ISB",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-program-manager-edgeverve-systems-pune-chennai-bengaluru-15-to-24-years-071026042320?src=directSearch&sid=17913770796074510&xp=13&px=1",
       "time": "2026-10-07T12:45:10.436Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director of Engineering, Compute",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
+      "time": "2026-10-07T15:22:27.869Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director of Engineering, Compute",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
+      "time": "2026-10-07T15:22:28.240Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3678,
+  "totalVerifiedInHistory": 3680,
   "portalBreakdown": {
     "iimjobs": 438,
     "naukri": 572,
@@ -4684,13 +4684,13 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 455,
-    "ashby": 346,
+    "direct_portal_ashby": 456,
+    "ashby": 347,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 21
   },
-  "lastSyncedAt": "2026-10-07T14:30:22.024Z",
-  "lastUpdated": "7/10/2026, 8:00:22 pm"
+  "lastSyncedAt": "2026-10-07T15:22:28.310Z",
+  "lastUpdated": "7/10/2026, 8:52:28 pm"
 }
