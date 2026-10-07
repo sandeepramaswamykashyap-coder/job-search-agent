@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3641,
+  "applicationsSubmitted": 3643,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Strategic HR & Transformation Role",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/strategic-hr-and-transformation-role-1731443?ref=sp&jobPos=18",
-      "time": "2026-09-27T07:26:29.003Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sigma Allied Services",
-      "title": "GCP Architect-Cloud - Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gcp-architect-cloud-senior-manager-sigma-allied-services-gurugram-bengaluru-mumbai-all-areas-14-to-21-years-260926007461?src=directSearch&sid=17905068752437993&xp=9&px=1",
-      "time": "2026-09-27T11:01:42.114Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happinesscue",
       "title": "Senior Manager – Store Performance",
@@ -4001,6 +3985,22 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=f6e358b78fdb3822",
       "time": "2026-10-07T03:20:13.900Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Rhea Healthcare",
+      "title": "Assistant Manager - Customer Experience",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-manager-customer-experience-rhea-healthcare-bengaluru-8-to-12-years-071026012805?src=directSearch&sid=1791346012807996&xp=10&px=1",
+      "time": "2026-10-07T04:07:30.149Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Performance Excellence - Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-performance-excellence-manufacturing-1738191?ref=sp&jobPos=13",
+      "time": "2026-10-07T04:14:41.717Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3641,
+  "totalVerifiedInHistory": 3643,
   "portalBreakdown": {
-    "iimjobs": 429,
-    "naukri": 547,
+    "iimjobs": 430,
+    "naukri": 548,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 18
   },
-  "lastSyncedAt": "2026-10-07T03:20:13.960Z",
-  "lastUpdated": "7/10/2026, 8:50:13 am"
+  "lastSyncedAt": "2026-10-07T04:14:41.762Z",
+  "lastUpdated": "7/10/2026, 9:44:41 am"
 }

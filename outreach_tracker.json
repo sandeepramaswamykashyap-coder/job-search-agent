@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-07T03:42:31.263Z",
+  "lastUpdated": "2026-10-07T04:17:15.848Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -653,7 +653,7 @@
       "company": "PwC",
       "title": "Director — Executive & Leadership Recruitment",
       "dispatchedAt": "2026-09-15T04:04:52.487Z",
-      "daysElapsed": 21,
+      "daysElapsed": 22,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -664,7 +664,7 @@
       "company": "Morgan Stanley",
       "title": "Managing Director — Enterprise Operations & Technology Transformation",
       "dispatchedAt": "2026-09-15T04:05:26.639Z",
-      "daysElapsed": 21,
+      "daysElapsed": 22,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -675,7 +675,7 @@
       "company": "JPMorgan Chase",
       "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
       "dispatchedAt": "2026-09-15T04:05:35.902Z",
-      "daysElapsed": 21,
+      "daysElapsed": 22,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -686,7 +686,7 @@
       "company": "Infosys",
       "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
       "dispatchedAt": "2026-09-15T04:06:08.656Z",
-      "daysElapsed": 21,
+      "daysElapsed": 22,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
