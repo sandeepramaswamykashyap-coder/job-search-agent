@@ -3,11 +3,11 @@
   "coldEmailsCount": 119,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 28,
-    "underEvaluation_3_4_days": 24,
+    "initialWindow_0_2_days": 12,
+    "underEvaluation_3_4_days": 40,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-07T08:09:46.807Z",
+  "lastUpdated": "2026-10-07T08:49:47.005Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -389,7 +389,7 @@
       "company": "Crescendo Global Leadership Hiring India",
       "title": "Asset Management Product Owner",
       "dispatchedAt": "2026-08-21T08:45:35.515Z",
-      "daysElapsed": 46,
+      "daysElapsed": 47,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1016,10 +1016,10 @@
       "company": "Deloitte USI",
       "title": "Director - Executive & Lateral Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:12:08.899Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1027,10 +1027,10 @@
       "company": "EY GDS",
       "title": "Partner - Technology Consulting & Program Delivery",
       "dispatchedAt": "2026-10-04T08:12:18.904Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1038,10 +1038,10 @@
       "company": "EY India",
       "title": "Director - Executive Search & Hiring",
       "dispatchedAt": "2026-10-04T08:12:27.421Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1049,10 +1049,10 @@
       "company": "KPMG India",
       "title": "Partner - Business Transformation & Technology Advisory",
       "dispatchedAt": "2026-10-04T08:12:35.882Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1060,10 +1060,10 @@
       "company": "KPMG Global Services",
       "title": "Associate Director - Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:12:44.363Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1071,10 +1071,10 @@
       "company": "Accenture Technology & Operations",
       "title": "Managing Director - Enterprise Platform Delivery",
       "dispatchedAt": "2026-10-04T08:12:52.764Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1082,10 +1082,10 @@
       "company": "Accenture India",
       "title": "Lead Recruiter - Senior Leadership Hiring",
       "dispatchedAt": "2026-10-04T08:13:01.480Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1093,10 +1093,10 @@
       "company": "Alvarez & Marsal India",
       "title": "Managing Director - Corporate Performance Improvement",
       "dispatchedAt": "2026-10-04T08:13:10.916Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1104,10 +1104,10 @@
       "company": "ServiceNow India",
       "title": "Senior Director - Solution Consulting & Delivery",
       "dispatchedAt": "2026-10-04T08:13:53.386Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1115,10 +1115,10 @@
       "company": "ServiceNow India",
       "title": "Principal Talent Acquisition Partner",
       "dispatchedAt": "2026-10-04T08:14:02.024Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1126,10 +1126,10 @@
       "company": "Salesforce India",
       "title": "Senior Director - Professional Services Delivery",
       "dispatchedAt": "2026-10-04T08:14:10.593Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1137,10 +1137,10 @@
       "company": "Workday India",
       "title": "Principal Recruiter - Enterprise Applications",
       "dispatchedAt": "2026-10-04T08:14:19.361Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1148,10 +1148,10 @@
       "company": "Freshworks",
       "title": "Director - Global Program Management",
       "dispatchedAt": "2026-10-04T08:14:27.987Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1159,10 +1159,10 @@
       "company": "UiPath India",
       "title": "Vice President - Customer Success & Delivery",
       "dispatchedAt": "2026-10-04T08:14:36.745Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1170,10 +1170,10 @@
       "company": "Infosys",
       "title": "Executive Vice President - Enterprise Service Delivery",
       "dispatchedAt": "2026-10-04T08:14:45.192Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1181,10 +1181,10 @@
       "company": "Infosys BPM",
       "title": "Associate Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:14:54.241Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",

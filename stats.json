@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3656,
+  "applicationsSubmitted": 3659,
   "appliedRolesList": [
-    {
-      "company": "OrangeMantra",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-orangemantra-bengaluru-2-to-5-years-250926500354?src=directSearch&sid=1790536550411735&xp=8&px=1",
-      "time": "2026-09-27T19:16:33.789Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Matrix HR Technologies",
-      "title": "Director",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-matrix-hr-technologies-bengaluru-15-to-24-years-210926019932?src=directSearch&sid=17905458151298144&xp=1&px=1",
-      "time": "2026-09-27T21:50:29.100Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happinesscue",
-      "title": "Senior Manager – Integrated Marketing",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-integrated-marketing-happinesscue-mumbai-bengaluru-8-to-12-years-250926906100?src=directSearch&sid=17905467272762149&xp=13&px=1",
-      "time": "2026-09-27T22:06:01.174Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ecolab Global Services",
       "title": "AI Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRSgcdwAAAACZTY8HQAIAQAtmu7MkRoAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRSgcdwAAAACZTY8HQAIAQAtmu7MkRoAAA&from=page-two-signin",
       "time": "2026-10-07T08:23:41.618Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "A.P. Moller Maersk",
+      "title": "Senior Engineering Manager - Technology Operational Excellence",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-engineering-manager-technology-operational-excellence-maersk-global-service-centres-india-private-limited-pune-bengaluru-8-to-11-years-071026921164?src=directSearch&sid=17913624990617414&xp=7&px=1",
+      "time": "2026-10-07T08:41:59.920Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Treasury - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=2&jobId=1738284&pref=sp",
+      "time": "2026-10-07T08:46:36.937Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Bidgely, Inc",
+      "title": "Technical Delivery Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRSgcdwAAAACZTajmAAKAQABq7l5a2onAgAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRSgcdwAAAACZTajmAAKAQABq7l5a2onAgAA&from=page-two-signin",
+      "time": "2026-10-07T09:04:42.326Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3656,
+  "totalVerifiedInHistory": 3659,
   "portalBreakdown": {
-    "iimjobs": 432,
-    "naukri": 558,
+    "iimjobs": 433,
+    "naukri": 559,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 19
+    "indeed": 20
   },
-  "lastSyncedAt": "2026-10-07T08:23:41.679Z",
-  "lastUpdated": "7/10/2026, 1:53:41 pm"
+  "lastSyncedAt": "2026-10-07T09:04:42.391Z",
+  "lastUpdated": "7/10/2026, 2:34:42 pm"
 }
