@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3650,
+  "applicationsSubmitted": 3654,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Novac Tech - Senior Manager - Sales - Domestic/International Markets",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/novac-tech-senior-manager-sales-domestic-international-markets-1733073?ref=sp_prm&jobPos=15",
-      "time": "2026-09-27T18:45:53.983Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Nivoda - Senior Operations Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/nivoda-senior-operations-manager-1724668?ref=sp_br&jobPos=18",
-      "time": "2026-09-27T18:46:04.400Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Binocs.co - Assistant Manager - Due Diligence & AI Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/binocsco-assistant-manager-due-diligence-and-ai-transformation-1733423?ref=sp&jobPos=16",
-      "time": "2026-09-27T18:46:38.771Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Omega Healthcare Management Services - Enterprise Transformation Leader - ERP/AI",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/omega-healthcare-management-services-enterprise-transformation-leader-erp-ai-and-digital-transformation-1730012?ref=sp&jobPos=18",
-      "time": "2026-09-27T18:46:45.030Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Careernet",
       "title": "Program Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-project-manager-senja-technologies-bengaluru-8-to-12-years-071026019826?src=directSearch&sid=17913561735274697&xp=10&px=1",
       "time": "2026-10-07T06:56:50.421Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "A.P. Moller Maersk",
+      "title": "Senior Software Engineer, Network Operational Intelligence",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-software-engineer-network-operational-intelligence-maersk-global-service-centres-india-private-limited-bengaluru-8-to-13-years-071026921218?src=directSearch&sid=17913580897256446&xp=5&px=1",
+      "time": "2026-10-07T07:28:23.835Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "A.P. Moller Maersk",
+      "title": "Automation Excellence Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-automation-excellence-lead-maersk-global-service-centres-india-private-limited-pune-bengaluru-10-to-15-years-071026921000?src=directSearch&sid=17913580897256446&xp=6&px=1",
+      "time": "2026-10-07T07:28:35.458Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Clean Harbors",
+      "title": "US Onboarding Manager -  HR Shared Services - Hebbal - Bengaluru",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-us-onboarding-manager-hr-shared-services-hebbal-bengaluru-clean-harbors-bengaluru-10-to-15-years-310826009681?src=directSearch&sid=17913581832431525&xp=7&px=1",
+      "time": "2026-10-07T07:30:20.977Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager - ERP Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-erp-transformation-1738257?ref=sp&jobPos=17",
+      "time": "2026-10-07T07:32:35.324Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3650,
+  "totalVerifiedInHistory": 3654,
   "portalBreakdown": {
-    "iimjobs": 430,
-    "naukri": 555,
+    "iimjobs": 431,
+    "naukri": 558,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 18
   },
-  "lastSyncedAt": "2026-10-07T06:56:50.461Z",
-  "lastUpdated": "7/10/2026, 12:26:50 pm"
+  "lastSyncedAt": "2026-10-07T07:32:35.372Z",
+  "lastUpdated": "7/10/2026, 1:02:35 pm"
 }
