@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3648,
+  "applicationsSubmitted": 3650,
   "appliedRolesList": [
-    {
-      "company": "Pangloss Reimbursement Management",
-      "title": "Process Improvement Department Builder - Contract 4-6 Months",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-process-improvement-department-builder-contract-4-6-months-pangloss-reimbursement-management-bengaluru-delhi-ncr-mumbai-all-areas-12-to-22-years-270926003702?src=directSearch&sid=17905325986002426&xp=9&px=1",
-      "time": "2026-09-27T18:10:22.204Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "PwC",
-      "title": "OneStream Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-onestream-manager-pwc-hyderabad-bengaluru-8-to-13-years-230926023008?src=directSearch&sid=17905336251572390&xp=13&px=1",
-      "time": "2026-09-27T18:27:38.395Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Novac Tech - Senior Manager - Sales - Domestic/International Markets",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-eyp-idd-cdd-manager-ey-hyderabad-pune-bengaluru-7-to-12-years-071026017047?src=directSearch&sid=17913540740606877&xp=9&px=1",
       "time": "2026-10-07T06:21:38.264Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Globallogic",
+      "title": "Techno-Functional Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-techno-functional-lead-globallogic-noida-pune-bengaluru-10-to-15-years-071026018518?src=directSearch&sid=17913560107138272&xp=8&px=1",
+      "time": "2026-10-07T06:54:23.969Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Senja Technologies",
+      "title": "Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-senja-technologies-bengaluru-8-to-12-years-071026019826?src=directSearch&sid=17913561735274697&xp=10&px=1",
+      "time": "2026-10-07T06:56:50.421Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3648,
+  "totalVerifiedInHistory": 3650,
   "portalBreakdown": {
     "iimjobs": 430,
-    "naukri": 553,
+    "naukri": 555,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 18
   },
-  "lastSyncedAt": "2026-10-07T06:21:38.308Z",
-  "lastUpdated": "7/10/2026, 11:51:38 am"
+  "lastSyncedAt": "2026-10-07T06:56:50.461Z",
+  "lastUpdated": "7/10/2026, 12:26:50 pm"
 }
