@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3643,
+  "applicationsSubmitted": 3644,
   "appliedRolesList": [
-    {
-      "company": "Happinesscue",
-      "title": "Senior Manager – Store Performance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-store-performance-happinesscue-hyderabad-bengaluru-delhi-ncr-8-to-12-years-250926906234?src=directSearch&sid=17905068752437993&xp=11&px=1",
-      "time": "2026-09-27T11:01:53.759Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happinesscue",
       "title": "Store Operations Manager – Beauty",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/manager-performance-excellence-manufacturing-1738191?ref=sp&jobPos=13",
       "time": "2026-10-07T04:14:41.717Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Globiva",
+      "title": "Sr Manager/Manager- Insurance/sales Operations- 10 Years",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-manager-manager-insurance-sales-operations-10-years-globiva-bengaluru-1-to-6-years-121225021748?src=directSearch&sid=17913516945372850&xp=5&px=1",
+      "time": "2026-10-07T05:41:58.608Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3643,
+  "totalVerifiedInHistory": 3644,
   "portalBreakdown": {
     "iimjobs": 430,
-    "naukri": 548,
+    "naukri": 549,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 18
   },
-  "lastSyncedAt": "2026-10-07T04:14:41.762Z",
-  "lastUpdated": "7/10/2026, 9:44:41 am"
+  "lastSyncedAt": "2026-10-07T05:41:58.651Z",
+  "lastUpdated": "7/10/2026, 11:11:58 am"
 }
