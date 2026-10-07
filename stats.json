@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3663,
+  "applicationsSubmitted": 3664,
   "appliedRolesList": [
-    {
-      "company": "Net Connect",
-      "title": "Senior CSV Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-csv-engineer-net-connect-bengaluru-9-to-12-years-250926012829?src=directSearch&sid=17905491020052097&xp=10&px=1",
-      "time": "2026-09-27T22:45:25.536Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Isocrates",
       "title": "Technical Architect",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1738331&pref=sp",
       "time": "2026-10-07T09:58:21.845Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vashi - Vice President - AI & Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vashi-vice-president-ai-and-digital-transformation-1738343?ref=sp&jobPos=17",
+      "time": "2026-10-07T10:33:15.178Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3663,
+  "totalVerifiedInHistory": 3664,
   "portalBreakdown": {
-    "iimjobs": 435,
+    "iimjobs": 436,
     "naukri": 561,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 20
   },
-  "lastSyncedAt": "2026-10-07T09:58:21.904Z",
-  "lastUpdated": "7/10/2026, 3:28:21 pm"
+  "lastSyncedAt": "2026-10-07T10:33:15.214Z",
+  "lastUpdated": "7/10/2026, 4:03:15 pm"
 }
