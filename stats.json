@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3714,
+  "applicationsSubmitted": 3716,
   "appliedRolesList": [
-    {
-      "company": "66degrees",
-      "title": "Senior Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-delivery-manager-66degrees-pune-bengaluru-10-to-20-years-200726008911?src=directSearch&sid=17905935536439126&xp=6&px=1",
-      "time": "2026-09-28T11:06:18.983Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Selco Foundation",
-      "title": "Data Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-data-analyst-selco-foundation-bengaluru-3-to-5-years-170926013488",
-      "time": "2026-09-28T11:38:06.417Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "DIRECTOR ENGINEERING - Service Delivery",
@@ -4001,6 +3985,22 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=5f55d590489a0aa4",
       "time": "2026-10-08T10:43:49.468Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "CloudOps-Monitoring Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-cloudops-monitoring-lead-ey-bengaluru-1-to-4-years-081026013013?src=directSearch&sid=17914573198082445&xp=12&px=1",
+      "time": "2026-10-08T11:02:40.153Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading ITES Company",
+      "title": "SCM :S&P : Manager / Delivery Manager : Max 20 LPA : Apply Now",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-scm-s-p-manager-delivery-manager-max-20-lpa-apply-now-outpace-consulting-services-bengaluru-mumbai-all-areas-8-to-13-years-040926014233?src=directSearch&sid=17914573633311752&xp=13&px=1",
+      "time": "2026-10-08T11:03:16.566Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3714,
+  "totalVerifiedInHistory": 3716,
   "portalBreakdown": {
     "iimjobs": 445,
-    "naukri": 589,
+    "naukri": 591,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 29
   },
-  "lastSyncedAt": "2026-10-08T10:43:49.527Z",
-  "lastUpdated": "8/10/2026, 4:13:49 pm"
+  "lastSyncedAt": "2026-10-08T11:03:16.609Z",
+  "lastUpdated": "8/10/2026, 4:33:16 pm"
 }
