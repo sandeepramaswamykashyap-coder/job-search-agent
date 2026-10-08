@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3820,
+  "applicationsSubmitted": 3826,
   "appliedRolesList": [
-    {
-      "company": "Gleneagles BGS Hospital Kengeri",
-      "title": "Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operations-manager-gleneagles-bgs-hospital-kengeri-bengaluru-8-to-13-years-240726924343?src=directSearch&sid=17906827326862527&xp=11&px=1",
-      "time": "2026-09-29T11:52:36.195Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "MobiKwik - Senior Manager - Regulatory Compliance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/mobikwik-senior-manager-regulatory-compliance-1736820?ref=sp_br_prm&jobPos=4",
-      "time": "2026-09-29T11:54:08.005Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "GE VERNOVA",
-      "title": "AI Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-program-manager-ge-renewable-energy-technologies-private-limited-hyderabad-chennai-bengaluru-5-to-10-years-290926934218?src=directSearch&sid=17906846107911960&xp=8&px=1",
-      "time": "2026-09-29T12:23:44.825Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "Regional Manager - Infrastructure",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-regional-manager-infrastructure-infosys-limited-bengaluru-14-to-20-years-290926934877?src=directSearch&sid=17906867800013243&xp=12&px=1",
-      "time": "2026-09-29T13:00:06.794Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Xfactr",
-      "title": "Product Owner",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-product-owner-xfactr-ai-bengaluru-7-to-12-years-290926503571?src=directSearch&sid=17906879091907825&xp=9&px=1",
-      "time": "2026-09-29T13:19:05.398Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Everise India BPO Services",
-      "title": "Assistant Manager ServiceNow",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-manager-servicenow-everise-india-bpo-services-bengaluru-3-to-7-years-290926039986?src=directSearch&sid=17906898501782407&xp=10&px=1",
-      "time": "2026-09-29T13:51:16.724Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "TE Connectivity",
       "title": "Lead Management Analyst - Digital Platform & Operations",
@@ -4001,6 +3953,54 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474651472&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
       "time": "2026-10-08T23:02:14.174Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "Senior Manager - Engineering Innovation & Technology",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-engineering-innovation-technology-te-connectivity-india-private-limited-bengaluru-10-to-15-years-081026946861?src=directSearch&sid=17915018418972845&xp=9&px=1",
+      "time": "2026-10-08T23:24:41.172Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "MANAGER PROCUREMENT-DIGITAL TRANSFORMATION",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-procurement-digital-transformation-te-connectivity-india-private-limited-bengaluru-8-to-13-years-081026946699?src=directSearch&sid=17915019359295735&xp=9&px=1",
+      "time": "2026-10-08T23:25:58.752Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ADM",
+      "title": "Project Manager Finance (RTR) [T500-29798]\nProject Manager Finance (RTR) [T500-29798] with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4446581455&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T23:32:59.077Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Golden Opportunities",
+      "title": "Senior Manager - Business Analyst - GO/JC/4610/2026\nSenior Manager - Business Analyst - GO/JC/4610/2026 with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477166388&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T23:33:47.397Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pine Labs",
+      "title": "Senior Product Marketing Manager\nSenior Product Marketing Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4446581455&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T23:34:36.704Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Head of Business Solutions, Utilities\nHead of Business Solutions, Utilities with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472974125&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-10-08T23:36:01.428Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3820,
+  "totalVerifiedInHistory": 3826,
   "portalBreakdown": {
     "iimjobs": 450,
-    "naukri": 600,
+    "naukri": 602,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 90
+    "linkedin_easy_apply": 94
   },
-  "lastSyncedAt": "2026-10-08T23:02:14.218Z",
-  "lastUpdated": "9/10/2026, 4:32:14 am"
+  "lastSyncedAt": "2026-10-08T23:36:01.481Z",
+  "lastUpdated": "9/10/2026, 5:06:01 am"
 }
