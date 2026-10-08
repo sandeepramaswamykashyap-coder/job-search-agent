@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3808,
+  "applicationsSubmitted": 3809,
   "appliedRolesList": [
-    {
-      "company": "Omega Healthcare",
-      "title": "Lead Server Infrastructure",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-server-infrastructure-omega-healthcare-bengaluru-4-to-9-years-220926021404",
-      "time": "2026-09-29T10:42:27.880Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Rebel Foods - Senior Brand Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
       "time": "2026-10-08T20:41:56.818Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Amor Management Consultants - India’s Premiere Auto Talent Hiring Specialists",
+      "title": "Head of Strategy\nHead of Strategy",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472974125&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-10-08T21:16:53.107Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3808,
+  "totalVerifiedInHistory": 3809,
   "portalBreakdown": {
     "iimjobs": 450,
     "naukri": 598,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 80
+    "linkedin_easy_apply": 81
   },
-  "lastSyncedAt": "2026-10-08T20:41:56.859Z",
-  "lastUpdated": "9/10/2026, 2:11:56 am"
+  "lastSyncedAt": "2026-10-08T21:16:53.157Z",
+  "lastUpdated": "9/10/2026, 2:46:53 am"
 }
