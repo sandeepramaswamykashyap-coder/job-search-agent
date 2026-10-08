@@ -76,11 +76,11 @@ const CANDIDATE = {
   expectedSalaryLPA: '30',
   expectedSalaryK:   '3000',
   expectedSalaryRange: '₹25,00,000 - ₹35,00,000 INR / Annual',
-  noticePeriod:      '30',
-  noticePeriodText:  '30 Days (Negotiable)',
-  noticePeriodWeeks: '4',
-  availability:      'Available in 30 Days (Negotiable)',
-  joinDate:          new Date(Date.now() + 30*24*60*60*1000).toISOString().split('T')[0],
+  noticePeriod:      '15',
+  noticePeriodText:  '15 Days (Immediate / Negotiable)',
+  noticePeriodWeeks: '2',
+  availability:      'Available in 15 Days (Immediate / Negotiable)',
+  joinDate:          new Date(Date.now() + 15*24*60*60*1000).toISOString().split('T')[0],
 
   // Experience & Education (Strict Ground Truth)
   experienceYears:   '15',

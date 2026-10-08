@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3716,
+  "applicationsSubmitted": 3719,
   "appliedRolesList": [
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "DIRECTOR ENGINEERING - Service Delivery",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-engineering-service-delivery-happiest-minds-technologies-bengaluru-18-to-22-years-280926018953?src=directSearch&sid=179059559892349&xp=7&px=1",
-      "time": "2026-09-28T11:40:30.919Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Metaphor Infotech Mumbai",
-      "title": "EQCR Manager/ Sr Manager/ AD- Bangalore, Kolkata, Hyderabad",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-eqcr-manager-sr-manager-ad-bangalore-kolkata-hyderabad-metaphor-infotech-mumbai-kolkata-hyderabad-bengaluru-7-to-12-years-140726035545?src=directSearch&sid=17905974124234071&xp=2&px=1",
-      "time": "2026-09-28T12:10:29.516Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sonata Software",
-      "title": "ServiceNow  Project Manager | OM / OMT / SOMT",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-project-manager-om-omt-somt-sonata-software-hyderabad-chennai-bengaluru-13-to-20-years-280926015058?src=directSearch&sid=17905975508167237&xp=3&px=1",
-      "time": "2026-09-28T12:12:44.830Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Colliers - Manager/Senior Manager - Advisory Services",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-scm-s-p-manager-delivery-manager-max-20-lpa-apply-now-outpace-consulting-services-bengaluru-mumbai-all-areas-8-to-13-years-040926014233?src=directSearch&sid=17914573633311752&xp=13&px=1",
       "time": "2026-10-08T11:03:16.566Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager/Head - RPO",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-head-rpo-1738701?ref=sp&jobPos=16",
+      "time": "2026-10-08T11:37:34.417Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager - Retail Systems & POS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/technical-program-manager-retail-systems-and-pos-1738707?ref=sp&jobPos=11",
+      "time": "2026-10-08T11:37:50.677Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Nexdigm - Senior Manager - Assurance - CFO Services - Finance Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/nexdigm-senior-manager-assurance-cfo-services-finance-transformation-1738699?ref=sp_br_prm&jobPos=7",
+      "time": "2026-10-08T11:38:05.323Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3716,
+  "totalVerifiedInHistory": 3719,
   "portalBreakdown": {
-    "iimjobs": 445,
+    "iimjobs": 448,
     "naukri": 591,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 29
   },
-  "lastSyncedAt": "2026-10-08T11:03:16.609Z",
-  "lastUpdated": "8/10/2026, 4:33:16 pm"
+  "lastSyncedAt": "2026-10-08T11:38:05.361Z",
+  "lastUpdated": "8/10/2026, 5:08:05 pm"
 }

@@ -3,7 +3,7 @@
     "name": "Rajesh Nair",
     "email": "rajesh.nair@pwc.com",
     "company": "PwC",
-    "title": "Partner \u2014 Business Transformation & Platform Delivery",
+    "title": "Partner — Business Transformation & Platform Delivery",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -12,7 +12,7 @@
     "name": "Shweta Sen",
     "email": "shweta.sen@pwc.com",
     "company": "PwC",
-    "title": "Director \u2014 Executive & Leadership Recruitment",
+    "title": "Director — Executive & Leadership Recruitment",
     "persona": "recruiter",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -21,7 +21,7 @@
     "name": "Pooja Patel",
     "email": "pooja.patel@ey.com",
     "company": "Ernst & Young (EY)",
-    "title": "Head of Executive Sourcing \u2014 Global Delivery Services",
+    "title": "Head of Executive Sourcing — Global Delivery Services",
     "persona": "recruiter",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -30,7 +30,7 @@
     "name": "Rahul Mehta",
     "email": "rahul.mehta@morganstanley.com",
     "company": "Morgan Stanley",
-    "title": "Managing Director \u2014 Enterprise Operations & Technology Transformation",
+    "title": "Managing Director — Enterprise Operations & Technology Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -39,7 +39,7 @@
     "name": "Amitabh Das",
     "email": "amitabh.das@jpmorgan.com",
     "company": "JPMorgan Chase",
-    "title": "Managing Director & Global Head \u2014 Core Service Delivery & Transformation",
+    "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -48,7 +48,7 @@
     "name": "Manoj Singh",
     "email": "manoj.singh@infosys.com",
     "company": "Infosys",
-    "title": "Senior Vice President & Head \u2014 Digital Experience & Cloud Transformation",
+    "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -57,7 +57,7 @@
     "name": "Ramesh Iyer",
     "email": "ramesh.iyer@wipro.com",
     "company": "Wipro",
-    "title": "Vice President \u2014 Cloud & Platform Transformation Business Unit",
+    "title": "Vice President — Cloud & Platform Transformation Business Unit",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -66,7 +66,7 @@
     "name": "Vandana Kulkarni",
     "email": "vandana.kulkarni@tcs.com",
     "company": "Tata Consultancy Services (TCS)",
-    "title": "Global Head \u2014 Enterprise Platform Solutions",
+    "title": "Global Head — Enterprise Platform Solutions",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -75,7 +75,7 @@
     "name": "Sumit Rastogi",
     "email": "sumit.rastogi@ltimindtree.com",
     "company": "LTIMindtree",
-    "title": "Vice President \u2014 Enterprise Business Transformation",
+    "title": "Vice President — Enterprise Business Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -84,7 +84,7 @@
     "name": "Ajay Saxena",
     "email": "ajay.saxena@hcl.com",
     "company": "HCLTech",
-    "title": "Senior Vice President \u2014 Digital Platform Transformation",
+    "title": "Senior Vice President — Digital Platform Transformation",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -93,7 +93,7 @@
     "name": "Vivek Pandey",
     "email": "vivek.pandey@techmahindra.com",
     "company": "Tech Mahindra",
-    "title": "Senior Vice President \u2014 Cloud & ServiceNow Practice",
+    "title": "Senior Vice President — Cloud & ServiceNow Practice",
     "persona": "hiring_manager",
     "portal": "direct",
     "extractedAt": "2026-08-29T00:00:00.000Z"
@@ -610,5 +610,1193 @@
     "persona": "recruiter",
     "portal": "direct_directory",
     "extractedAt": "2026-10-04T07:27:42.003Z"
+  },
+  {
+    "name": "Anand Kumar",
+    "email": "anand.kumar@tesco.com",
+    "company": "Tesco Bengaluru",
+    "title": "Head of Technology Delivery & Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.666Z"
+  },
+  {
+    "name": "Sneha Roy",
+    "email": "sneha.roy@tesco.com",
+    "company": "Tesco Bengaluru",
+    "title": "Head of Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.668Z"
+  },
+  {
+    "name": "Karthik Raman",
+    "email": "karthik.raman@shell.com",
+    "company": "Shell Technology Centre",
+    "title": "General Manager - Digital Solutions & Program Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.701Z"
+  },
+  {
+    "name": "Priya Nambiar",
+    "email": "priya.nambiar@shell.com",
+    "company": "Shell India",
+    "title": "Talent Acquisition Lead - Executive Hiring",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.701Z"
+  },
+  {
+    "name": "Vivek Sharma",
+    "email": "vivek.sharma@boeing.com",
+    "company": "Boeing India",
+    "title": "Director - Global Operations & Engineering Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.745Z"
+  },
+  {
+    "name": "Sunil Menon",
+    "email": "sunil.menon@philips.com",
+    "company": "Philips Innovation Campus",
+    "title": "Senior Director - Digital Platforms & Program Governance",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.778Z"
+  },
+  {
+    "name": "Anjali Verma",
+    "email": "anjali.verma@philips.com",
+    "company": "Philips India",
+    "title": "Lead Talent Acquisition Partner",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.778Z"
+  },
+  {
+    "name": "Rajesh Subramanian",
+    "email": "rajesh.subramanian@schneider-electric.com",
+    "company": "Schneider Electric",
+    "title": "Vice President - Digital Transformation & IT Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.816Z"
+  },
+  {
+    "name": "Naveen George",
+    "email": "naveen.george@siemens.com",
+    "company": "Siemens Technology India",
+    "title": "Head of Enterprise Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.848Z"
+  },
+  {
+    "name": "Deepak Reddy",
+    "email": "deepak.reddy@abb.com",
+    "company": "ABB India",
+    "title": "Country Head - Digital Operations & Systems Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:55.946Z"
+  },
+  {
+    "name": "Manish Pandey",
+    "email": "manish.pandey@intuit.com",
+    "company": "Intuit India",
+    "title": "Director - Program Management & Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.048Z"
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha.gupta@intuit.com",
+    "company": "Intuit India",
+    "title": "Senior Talent Acquisition Manager",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.049Z"
+  },
+  {
+    "name": "Saurabh Sinha",
+    "email": "saurabh.sinha@adobe.com",
+    "company": "Adobe India",
+    "title": "Senior Director - Customer Operations & Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.142Z"
+  },
+  {
+    "name": "Kunal Sen",
+    "email": "kunal.sen@db.com",
+    "company": "Deutsche Bank India",
+    "title": "Managing Director - Global Technology Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.154Z"
+  },
+  {
+    "name": "Malini Rao",
+    "email": "malini.rao@db.com",
+    "company": "Deutsche Bank India",
+    "title": "Vice President - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.155Z"
+  },
+  {
+    "name": "Alok Mishra",
+    "email": "alok.mishra@bnpparibas.com",
+    "company": "BNP Paribas India Solutions",
+    "title": "Managing Director - Enterprise Operations Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.188Z"
+  },
+  {
+    "name": "Shalini Murthy",
+    "email": "shalini.murthy@bnpparibas.com",
+    "company": "BNP Paribas India Solutions",
+    "title": "Head of Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.189Z"
+  },
+  {
+    "name": "Rohit Khera",
+    "email": "rohit.khera@barclays.com",
+    "company": "Barclays Global Service Centre",
+    "title": "Managing Director - Chief Operations Office",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.230Z"
+  },
+  {
+    "name": "Megha Tandon",
+    "email": "megha.tandon@barclays.com",
+    "company": "Barclays India",
+    "title": "Head of Lateral & Leadership Hiring",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.230Z"
+  },
+  {
+    "name": "Venkatraman Swaminathan",
+    "email": "venkat.swaminathan@ubs.com",
+    "company": "UBS India",
+    "title": "Head of Group Technology Delivery India",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.271Z"
+  },
+  {
+    "name": "Ritu Agarwal",
+    "email": "ritu.agarwal@ubs.com",
+    "company": "UBS India",
+    "title": "Executive Director - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.271Z"
+  },
+  {
+    "name": "Ashok Iyer",
+    "email": "ashok.iyer@hsbc.co.in",
+    "company": "HSBC India",
+    "title": "Managing Director - Global Operations & Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.285Z"
+  },
+  {
+    "name": "Swarna Latha",
+    "email": "swarna.latha@hsbc.co.in",
+    "company": "HSBC India",
+    "title": "Senior Vice President - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.286Z"
+  },
+  {
+    "name": "Siddharth Kaul",
+    "email": "siddharth.kaul@northerntrust.com",
+    "company": "Northern Trust India",
+    "title": "Senior Vice President - Asset Servicing Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.316Z"
+  },
+  {
+    "name": "Pranita Rao",
+    "email": "pranita.rao@statestreet.com",
+    "company": "State Street India",
+    "title": "Vice President - Global Process Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.362Z"
+  },
+  {
+    "name": "Kishore Kumar",
+    "email": "kishore.kumar@novartis.com",
+    "company": "Novartis Healthcare",
+    "title": "Head of Digital Business Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.401Z"
+  },
+  {
+    "name": "Archana Vats",
+    "email": "archana.vats@astrazeneca.com",
+    "company": "AstraZeneca India",
+    "title": "Director - Global Operations & IT Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.414Z"
+  },
+  {
+    "name": "Sanjay Podder",
+    "email": "sanjay.podder@deloitte.com",
+    "company": "Deloitte India",
+    "title": "Partner - Enterprise Agility & Platform Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.465Z"
+  },
+  {
+    "name": "Subhankar Pal",
+    "email": "subhankar.pal@ey.com",
+    "company": "EY GDS",
+    "title": "Partner & Global Leader - Transformation Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.478Z"
+  },
+  {
+    "name": "Amit Jain",
+    "email": "amit.jain@kpmg.com",
+    "company": "KPMG India",
+    "title": "Partner - Financial Services Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.587Z"
+  },
+  {
+    "name": "Praveen Shankar",
+    "email": "praveen.shankar@accenture.com",
+    "company": "Accenture Strategy & Consulting",
+    "title": "Managing Director - Operations Excellence",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.597Z"
+  },
+  {
+    "name": "Abhijit Dey",
+    "email": "abhijit.dey@fticonsulting.com",
+    "company": "FTI Consulting India",
+    "title": "Senior Managing Director - Operational Excellence",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.611Z"
+  },
+  {
+    "name": "Girish Sharma",
+    "email": "girish.sharma@in.gt.com",
+    "company": "Grant Thornton Bharat",
+    "title": "Partner - Business Transformation Advisory",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.643Z"
+  },
+  {
+    "name": "Sunil Kumar",
+    "email": "sunil.kumar@bdo.in",
+    "company": "BDO India",
+    "title": "Partner & Head - Management Consulting",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.674Z"
+  },
+  {
+    "name": "Sachin Tayal",
+    "email": "sachin.tayal@protiviti.com",
+    "company": "Protiviti India",
+    "title": "Managing Director - Enterprise Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.713Z"
+  },
+  {
+    "name": "Sumeet Mathur",
+    "email": "sumeet.mathur@servicenow.com",
+    "company": "ServiceNow India",
+    "title": "Vice President & Managing Director - India Development Centre",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.800Z"
+  },
+  {
+    "name": "Ritu Arora",
+    "email": "ritu.arora@salesforce.com",
+    "company": "Salesforce India",
+    "title": "Senior Manager - Leadership Recruiting",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.841Z"
+  },
+  {
+    "name": "Kavita Shenoy",
+    "email": "kavita.shenoy@uipath.com",
+    "company": "UiPath India",
+    "title": "Lead Recruiter - Enterprise Delivery",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.884Z"
+  },
+  {
+    "name": "Dinesh Varadharajan",
+    "email": "dinesh.v@kissflow.com",
+    "company": "Kissflow",
+    "title": "Chief Product & Delivery Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.927Z"
+  },
+  {
+    "name": "Sankarson Banerjee",
+    "email": "sankarson.banerjee@pega.com",
+    "company": "Pegasystems India",
+    "title": "Managing Director - Client Delivery Excellence",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:56.971Z"
+  },
+  {
+    "name": "Vinay Kumar",
+    "email": "vinay.kumar@atlassian.com",
+    "company": "Atlassian India",
+    "title": "Head of Engineering Operations & Program Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.010Z"
+  },
+  {
+    "name": "Satish H C",
+    "email": "satish.hc@infosys.com",
+    "company": "Infosys",
+    "title": "Executive Vice President & Co-Head of Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.021Z"
+  },
+  {
+    "name": "K Krithivasan",
+    "email": "k.krithivasan@tcs.com",
+    "company": "Tata Consultancy Services (TCS)",
+    "title": "Chief Executive Officer & Managing Director",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.050Z"
+  },
+  {
+    "name": "Srinivas Pallia",
+    "email": "srinivas.pallia@wipro.com",
+    "company": "Wipro Limited",
+    "title": "Chief Executive Officer & Managing Director",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.110Z"
+  },
+  {
+    "name": "Jatin Dalal",
+    "email": "jatin.dalal@cognizant.com",
+    "company": "Cognizant",
+    "title": "Chief Financial Officer & Transformation Leader",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.122Z"
+  },
+  {
+    "name": "Ramachandran Sundararajan",
+    "email": "ram.s@hcl.com",
+    "company": "HCLTech",
+    "title": "Chief People Officer & Head of Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.213Z"
+  },
+  {
+    "name": "Richard Lobo",
+    "email": "richard.lobo@techmahindra.com",
+    "company": "Tech Mahindra",
+    "title": "Chief People Officer & Head of TA",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.225Z"
+  },
+  {
+    "name": "Balkrishan Kalra",
+    "email": "bk.kalra@genpact.com",
+    "company": "Genpact",
+    "title": "President & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.265Z"
+  },
+  {
+    "name": "Rohit Kapoor",
+    "email": "rohit.kapoor@exlservice.com",
+    "company": "EXL Service",
+    "title": "Vice Chairman & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.276Z"
+  },
+  {
+    "name": "Keshav R Murugesh",
+    "email": "keshav.murugesh@wns.com",
+    "company": "WNS Global Services",
+    "title": "Group Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.314Z"
+  },
+  {
+    "name": "Swaminathan Subramanian",
+    "email": "swaminathan.s@wns.com",
+    "company": "WNS Global Services",
+    "title": "Chief People Officer & Head TA",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.314Z"
+  },
+  {
+    "name": "Nitin Rakesh",
+    "email": "nitin.rakesh@mphasis.com",
+    "company": "Mphasis",
+    "title": "Chief Executive Officer & Managing Director",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.351Z"
+  },
+  {
+    "name": "Srikanth Karra",
+    "email": "srikanth.karra@mphasis.com",
+    "company": "Mphasis",
+    "title": "Chief Human Resources Officer",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.351Z"
+  },
+  {
+    "name": "Sandeep Kalra",
+    "email": "sandeep.kalra@persistent.com",
+    "company": "Persistent Systems",
+    "title": "Chief Executive Officer & Executive Director",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.412Z"
+  },
+  {
+    "name": "Yogesh Patgaonkar",
+    "email": "yogesh.patgaonkar@persistent.com",
+    "company": "Persistent Systems",
+    "title": "Chief People Officer",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.412Z"
+  },
+  {
+    "name": "Venkatraman Narayanan",
+    "email": "venkatraman.n@happiestminds.com",
+    "company": "Happiest Minds Technologies",
+    "title": "Managing Director & Chief Financial Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.477Z"
+  },
+  {
+    "name": "Joseph Sudheer",
+    "email": "joseph.sudheer@happiestminds.com",
+    "company": "Happiest Minds Technologies",
+    "title": "Senior Vice President - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.477Z"
+  },
+  {
+    "name": "Michael Godin",
+    "email": "michael.godin@cgi.com",
+    "company": "CGI India",
+    "title": "Senior Vice President & Business Unit Leader",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.524Z"
+  },
+  {
+    "name": "Nirbhay Lumde",
+    "email": "nirbhay.lumde@cgi.com",
+    "company": "CGI India",
+    "title": "Director - Corporate Talent & HR Programs",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.524Z"
+  },
+  {
+    "name": "Abhijit Dubey",
+    "email": "abhijit.dubey@nttdata.com",
+    "company": "NTT DATA",
+    "title": "Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.556Z"
+  },
+  {
+    "name": "Tanvir Singh",
+    "email": "tanvir.singh@nttdata.com",
+    "company": "NTT DATA India",
+    "title": "Senior Vice President - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.556Z"
+  },
+  {
+    "name": "Martin Schroeter",
+    "email": "martin.schroeter@kyndryl.com",
+    "company": "Kyndryl",
+    "title": "Chairman & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.588Z"
+  },
+  {
+    "name": "Lingraju Sawkar",
+    "email": "lingraju.sawkar@kyndryl.com",
+    "company": "Kyndryl India",
+    "title": "President - Kyndryl India",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.589Z"
+  },
+  {
+    "name": "Rajashree Nambiar",
+    "email": "rajashree.nambiar@kyndryl.com",
+    "company": "Kyndryl India",
+    "title": "Vice President & Head of Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.589Z"
+  },
+  {
+    "name": "Raul Fernandez",
+    "email": "raul.fernandez@dxc.com",
+    "company": "DXC Technology",
+    "title": "President & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.624Z"
+  },
+  {
+    "name": "Seema Ambastha",
+    "email": "seema.ambastha@dxc.com",
+    "company": "DXC Technology India",
+    "title": "Managing Director - India Delivery Centre",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.624Z"
+  },
+  {
+    "name": "Lokendra Sethi",
+    "email": "lokendra.sethi@dxc.com",
+    "company": "DXC Technology India",
+    "title": "Vice President - Human Resources & TA Lead",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.625Z"
+  },
+  {
+    "name": "Rajnish Kumar",
+    "email": "rajnish.kumar@capgemini.com",
+    "company": "Capgemini India",
+    "title": "Executive Vice President - Financial Services Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.636Z"
+  },
+  {
+    "name": "Pallavi Srivastava",
+    "email": "pallavi.srivastava@capgemini.com",
+    "company": "Capgemini India",
+    "title": "Vice President - Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.637Z"
+  },
+  {
+    "name": "Ashwin Yardi",
+    "email": "ashwin.yardi@capgemini.com",
+    "company": "Capgemini India",
+    "title": "Chief Executive Officer - India",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.637Z"
+  },
+  {
+    "name": "Bala Prasad",
+    "email": "bala.prasad@tcs.com",
+    "company": "Tata Consultancy Services",
+    "title": "Vice President - Global Head of AI & Automation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.637Z"
+  },
+  {
+    "name": "Srinivas Rao",
+    "email": "srinivas.rao@infosys.com",
+    "company": "Infosys Limited",
+    "title": "Vice President - Digital Workplace Services & ServiceNow",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.637Z"
+  },
+  {
+    "name": "Deepak Jain",
+    "email": "deepak.jain@wipro.com",
+    "company": "Wipro Limited",
+    "title": "Senior Vice President - Global Program Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.637Z"
+  },
+  {
+    "name": "Sanjay Dawar",
+    "email": "sanjay.dawar@accenture.com",
+    "company": "Accenture Strategy India",
+    "title": "Managing Director - Supply Chain & Operations Lead",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.637Z"
+  },
+  {
+    "name": "Virender Aggarwal",
+    "email": "virender.aggarwal@ramco.com",
+    "company": "Ramco Systems",
+    "title": "Chief Executive Officer & Transformation Head",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.677Z"
+  },
+  {
+    "name": "Girish Rowjee",
+    "email": "girish.rowjee@greytip.com",
+    "company": "GreytHR",
+    "title": "Co-Founder & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.719Z"
+  },
+  {
+    "name": "Sanjeev Bikhchandani",
+    "email": "sanjeev.bikhchandani@infoedge.com",
+    "company": "Info Edge India",
+    "title": "Founder & Executive Vice Chairman",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.822Z"
+  },
+  {
+    "name": "Hitesh Oberoi",
+    "email": "hitesh.oberoi@infoedge.com",
+    "company": "Info Edge India",
+    "title": "Managing Director & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.822Z"
+  },
+  {
+    "name": "Tarun Dua",
+    "email": "tarun.dua@e2enetworks.com",
+    "company": "E2E Networks",
+    "title": "Managing Director & Cloud Platform Leader",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.867Z"
+  },
+  {
+    "name": "Abidali Neemuchwala",
+    "email": "abidali.neemuchwala@wipro.com",
+    "company": "Wipro Enterprise",
+    "title": "Senior Strategic Advisor & Transformation Partner",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.867Z"
+  },
+  {
+    "name": "Naveen Tewari",
+    "email": "naveen.tewari@inmobi.com",
+    "company": "InMobi Group",
+    "title": "Founder & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.899Z"
+  },
+  {
+    "name": "Mohit Joshi",
+    "email": "mohit.joshi@techmahindra.com",
+    "company": "Tech Mahindra",
+    "title": "Chief Executive Officer & Managing Director",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:01:57.899Z"
+  },
+  {
+    "name": "Rohan Sharma",
+    "email": "rohan.sharma@mastercard.com",
+    "company": "Mastercard India",
+    "title": "Vice President - Operations & Transformation Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.285Z"
+  },
+  {
+    "name": "Anita Deshpande",
+    "email": "anita.deshpande@mastercard.com",
+    "company": "Mastercard India",
+    "title": "Director - Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.287Z"
+  },
+  {
+    "name": "Sameer Ratolikar",
+    "email": "sameer.ratolikar@visa.com",
+    "company": "Visa India",
+    "title": "Senior Director - Global Network Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.337Z"
+  },
+  {
+    "name": "Meenakshi Kaul",
+    "email": "meenakshi.kaul@visa.com",
+    "company": "Visa India",
+    "title": "Head of Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.337Z"
+  },
+  {
+    "name": "Sujith Nair",
+    "email": "sujith.nair@paypal.com",
+    "company": "PayPal India",
+    "title": "Director - Global Operations & Customer Excellence",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.369Z"
+  },
+  {
+    "name": "Namrata Rao",
+    "email": "namrata.rao@paypal.com",
+    "company": "PayPal India",
+    "title": "Senior Manager - Leadership Hiring",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.369Z"
+  },
+  {
+    "name": "Karthik Balakrishnan",
+    "email": "karthik.balakrishnan@fiserv.com",
+    "company": "Fiserv India",
+    "title": "Vice President - Enterprise Program Management & Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.402Z"
+  },
+  {
+    "name": "Sunita Shetty",
+    "email": "sunita.shetty@fiserv.com",
+    "company": "Fiserv India",
+    "title": "Director - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.402Z"
+  },
+  {
+    "name": "Shekhar Sanyal",
+    "email": "shekhar.sanyal@broadridge.com",
+    "company": "Broadridge India",
+    "title": "Managing Director - Global Client Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.448Z"
+  },
+  {
+    "name": "Arun Shenoy",
+    "email": "arun.shenoy@invesco.com",
+    "company": "Invesco India",
+    "title": "Head of Enterprise Transformation Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.763Z"
+  },
+  {
+    "name": "Gaurav Vohra",
+    "email": "gaurav.vohra@bnymellon.com",
+    "company": "BNY Mellon India",
+    "title": "Managing Director - Operations Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.810Z"
+  },
+  {
+    "name": "Pooja Mirchandani",
+    "email": "pooja.mirchandani@bnymellon.com",
+    "company": "BNY Mellon India",
+    "title": "Head of Lateral & Leadership TA",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.811Z"
+  },
+  {
+    "name": "Pradeep Goel",
+    "email": "pradeep.goel@synchrony.com",
+    "company": "Synchrony India",
+    "title": "Senior Vice President - Operations & PMO",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.902Z"
+  },
+  {
+    "name": "Divya Saxena",
+    "email": "divya.saxena@synchrony.com",
+    "company": "Synchrony India",
+    "title": "Vice President - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:18.902Z"
+  },
+  {
+    "name": "Siddharth Mallik",
+    "email": "siddharth.mallik@aexp.com",
+    "company": "American Express India",
+    "title": "Vice President - Global Service Delivery & Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.011Z"
+  },
+  {
+    "name": "Richa Bhalla",
+    "email": "richa.bhalla@aexp.com",
+    "company": "American Express India",
+    "title": "Director - Executive Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.012Z"
+  },
+  {
+    "name": "Anil Valluri",
+    "email": "anil.valluri@paloaltonetworks.com",
+    "company": "Palo Alto Networks India",
+    "title": "Vice President & Managing Director",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.115Z"
+  },
+  {
+    "name": "Kavita Pillai",
+    "email": "kavita.pillai@paloaltonetworks.com",
+    "company": "Palo Alto Networks India",
+    "title": "Senior Manager - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.115Z"
+  },
+  {
+    "name": "Sudip Banerjee",
+    "email": "sudip.banerjee@zscaler.com",
+    "company": "Zscaler India",
+    "title": "Director - Global Transformation & Cloud Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.162Z"
+  },
+  {
+    "name": "Radhika Nair",
+    "email": "radhika.nair@zscaler.com",
+    "company": "Zscaler India",
+    "title": "Head of Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.162Z"
+  },
+  {
+    "name": "Ravi Gururaj",
+    "email": "ravi.gururaj@crowdstrike.com",
+    "company": "CrowdStrike India",
+    "title": "Director - Customer Operations & Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.204Z"
+  },
+  {
+    "name": "Vishal Dhupar",
+    "email": "vishal.dhupar@nvidia.com",
+    "company": "NVIDIA India",
+    "title": "Managing Director - South Asia & India Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.239Z"
+  },
+  {
+    "name": "Bhavana Mohan",
+    "email": "bhavana.mohan@nvidia.com",
+    "company": "NVIDIA India",
+    "title": "Senior Talent Acquisition Lead",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.239Z"
+  },
+  {
+    "name": "Sanjay Rohatgi",
+    "email": "sanjay.rohatgi@netapp.com",
+    "company": "NetApp India",
+    "title": "Senior Vice President & General Manager",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.280Z"
+  },
+  {
+    "name": "Ruchi Shrivastava",
+    "email": "ruchi.shrivastava@netapp.com",
+    "company": "NetApp India",
+    "title": "Director - Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.280Z"
+  },
+  {
+    "name": "Ashish Dhawan",
+    "email": "ashish.dhawan@juniper.net",
+    "company": "Juniper Networks India",
+    "title": "Vice President - Global Services Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.292Z"
+  },
+  {
+    "name": "Deepali Sen",
+    "email": "deepali.sen@juniper.net",
+    "company": "Juniper Networks India",
+    "title": "Lead Recruiter - Executive Search",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.292Z"
+  },
+  {
+    "name": "Rajiv Ramaswami",
+    "email": "rajiv.ramaswami@nutanix.com",
+    "company": "Nutanix India",
+    "title": "President & Chief Executive Officer",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.327Z"
+  },
+  {
+    "name": "Sankalp Saxena",
+    "email": "sankalp.saxena@nutanix.com",
+    "company": "Nutanix India",
+    "title": "Senior Vice President & Managing Director - India",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.327Z"
+  },
+  {
+    "name": "Meenu Bagla",
+    "email": "meenu.bagla@nutanix.com",
+    "company": "Nutanix India",
+    "title": "Vice President - Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.327Z"
+  },
+  {
+    "name": "Anand Subbaraman",
+    "email": "anand.subbaraman@splunk.com",
+    "company": "Splunk India",
+    "title": "Vice President - Engineering Operations & Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.366Z"
+  },
+  {
+    "name": "Prasad Rai",
+    "email": "prasad.rai@oracle.com",
+    "company": "Oracle India",
+    "title": "Vice President - Global Business Unit Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.377Z"
+  },
+  {
+    "name": "Shubha Shetty",
+    "email": "shubha.shetty@oracle.com",
+    "company": "Oracle India",
+    "title": "Senior Director - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.378Z"
+  },
+  {
+    "name": "Ravi Krishnan",
+    "email": "ravi.krishnan@akamai.com",
+    "company": "Akamai Technologies India",
+    "title": "Director - Global Service Delivery & Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.471Z"
+  },
+  {
+    "name": "Kavita Murthy",
+    "email": "kavita.murthy@akamai.com",
+    "company": "Akamai Technologies India",
+    "title": "Head of Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.471Z"
+  },
+  {
+    "name": "Sumit Rai",
+    "email": "sumit.rai@optum.com",
+    "company": "Optum Global Solutions",
+    "title": "Senior Vice President - Health Care Delivery Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.512Z"
+  },
+  {
+    "name": "Vandana Suri",
+    "email": "vandana.suri@optum.com",
+    "company": "Optum Global Solutions",
+    "title": "Vice President - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.512Z"
+  },
+  {
+    "name": "Rajesh Nair",
+    "email": "rajesh.nair@carelon.com",
+    "company": "Carelon Global Solutions",
+    "title": "Chief Operating Officer & Head of Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.524Z"
+  },
+  {
+    "name": "Sujatha Das",
+    "email": "sujatha.das@carelon.com",
+    "company": "Carelon Global Solutions",
+    "title": "Director - Talent Acquisition India",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.525Z"
+  },
+  {
+    "name": "Amit Mookim",
+    "email": "amit.mookim@iqvia.com",
+    "company": "IQVIA India",
+    "title": "Managing Director - South Asia Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.560Z"
+  },
+  {
+    "name": "Rashmi Joseph",
+    "email": "rashmi.joseph@iqvia.com",
+    "company": "IQVIA India",
+    "title": "Head of Leadership Recruitment",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.560Z"
+  },
+  {
+    "name": "Sanjay Vyas",
+    "email": "sanjay.vyas@parexel.com",
+    "company": "Parexel India",
+    "title": "Senior Vice President & Global Head of Delivery Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.572Z"
+  },
+  {
+    "name": "Vikram Tandon",
+    "email": "vikram.tandon@target.com",
+    "company": "Target India",
+    "title": "Vice President - Global Capabilities & Operations",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.669Z"
+  },
+  {
+    "name": "Prashant Sharma",
+    "email": "prashant.sharma@walmart.com",
+    "company": "Walmart Global Tech",
+    "title": "Vice President - Retail Operations Platforms",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:19.707Z"
+  },
+  {
+    "name": "Ankur Mittal",
+    "email": "ankur.mittal@lowes.com",
+    "company": "Lowe's India",
+    "title": "Vice President - Technology & Operations Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:20.973Z"
+  },
+  {
+    "name": "Monika Gupta",
+    "email": "monika.gupta@lowes.com",
+    "company": "Lowe's India",
+    "title": "Director - Talent Acquisition",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:20.973Z"
+  },
+  {
+    "name": "Saurabh Srivastava",
+    "email": "saurabh.srivastava@levistrauss.com",
+    "company": "Levi Strauss India",
+    "title": "Head of Global GCC Delivery & Transformation",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:21.006Z"
+  },
+  {
+    "name": "Shreya Kapoor",
+    "email": "shreya.kapoor@levistrauss.com",
+    "company": "Levi Strauss India",
+    "title": "Senior Talent Acquisition Lead",
+    "persona": "recruiter",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:21.006Z"
+  },
+  {
+    "name": "Gautam Bali",
+    "email": "gautam.bali@nike.com",
+    "company": "Nike India Tech Center",
+    "title": "Senior Director - Enterprise Program Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:21.016Z"
+  },
+  {
+    "name": "Pallavi Rao",
+    "email": "pallavi.rao@lululemon.com",
+    "company": "Lululemon India GCC",
+    "title": "Director - Enterprise Operations & Technology Delivery",
+    "persona": "hiring_manager",
+    "portal": "direct_directory",
+    "extractedAt": "2026-10-08T12:02:21.050Z"
   }
 ]

@@ -77,9 +77,9 @@
     },
     "work_modes": ["remote", "hybrid", "onsite"],
     "notice_period": {
-      "days": 30,
-      "text": "30 Days (Negotiable)",
-      "serving_notice": false,
+      "days": 15,
+      "text": "15 Days (Immediate Negotiable)",
+      "serving_notice": true,
       "is_negotiable": true
     },
     "education": [

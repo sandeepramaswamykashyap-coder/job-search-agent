@@ -115,6 +115,26 @@ async function runNaukriE2E(page, context, maxApplications = 20) {
 
         if (!title || !company) continue;
 
+        const lowTitle = title.toLowerCase();
+        // Strict Executive Filter: Skip junior/mismatched roles for 15+ yr executive
+        const forbiddenJunior = ['analyst', 'developer', 'software engineer', 'specialist', 'technician', 'trainee', 'fresher', 'hvac', 'telecaller', 'telesales'];
+        if (forbiddenJunior.some(term => lowTitle.includes(term)) && !lowTitle.includes('director') && !lowTitle.includes('head') && !lowTitle.includes('vp')) {
+          console.log(`[NaukriE2E] ⏭️ Skipping junior/mismatched title: "${title}" @ ${company}`);
+          continue;
+        }
+
+        const expText = (await card.locator('.exp, [class*="exp"], .experience').first().textContent().catch(() => '')).trim();
+        if (expText) {
+          const match = expText.match(/(\d+)\s*(?:-|to)\s*(\d+)/i);
+          if (match) {
+            const maxExp = parseInt(match[2], 10);
+            if (maxExp < 8) {
+              console.log(`[NaukriE2E] ⏭️ Skipping low-seniority role (${expText}): "${title}" @ ${company}`);
+              continue;
+            }
+          }
+        }
+
         const key = `${company.toLowerCase().trim()}::${title.toLowerCase().trim()}`;
         if (seenInRole.has(key) || appliedKeys.has(key)) {
           if (!seenInRole.has(key)) {

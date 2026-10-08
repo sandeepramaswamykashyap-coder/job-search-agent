@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 142,
-  "coldEmailsCount": 119,
+  "totalOutreachItems": 150,
+  "coldEmailsCount": 127,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 0,
+    "initialWindow_0_2_days": 8,
     "underEvaluation_3_4_days": 52,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-08T11:07:18.273Z",
+  "lastUpdated": "2026-10-08T12:03:59.631Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1317,6 +1317,94 @@
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "anand.kumar@tesco.com",
+      "company": "Tesco Bengaluru",
+      "title": "Head of Technology Delivery & Transformation",
+      "dispatchedAt": "2026-10-08T12:02:36.359Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sneha.roy@tesco.com",
+      "company": "Tesco Bengaluru",
+      "title": "Head of Talent Acquisition India",
+      "dispatchedAt": "2026-10-08T12:02:45.828Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "karthik.raman@shell.com",
+      "company": "Shell Technology Centre",
+      "title": "General Manager - Digital Solutions & Program Delivery",
+      "dispatchedAt": "2026-10-08T12:02:54.873Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "priya.nambiar@shell.com",
+      "company": "Shell India",
+      "title": "Talent Acquisition Lead - Executive Hiring",
+      "dispatchedAt": "2026-10-08T12:03:04.115Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "vivek.sharma@boeing.com",
+      "company": "Boeing India",
+      "title": "Director - Global Operations & Engineering Delivery",
+      "dispatchedAt": "2026-10-08T12:03:13.110Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sunil.menon@philips.com",
+      "company": "Philips Innovation Campus",
+      "title": "Senior Director - Digital Platforms & Program Governance",
+      "dispatchedAt": "2026-10-08T12:03:22.426Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "anjali.verma@philips.com",
+      "company": "Philips India",
+      "title": "Lead Talent Acquisition Partner",
+      "dispatchedAt": "2026-10-08T12:03:31.699Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajesh.subramanian@schneider-electric.com",
+      "company": "Schneider Electric",
+      "title": "Vice President - Digital Transformation & IT Delivery",
+      "dispatchedAt": "2026-10-08T12:03:41.031Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
     }
   ],
   "connectionsList": [

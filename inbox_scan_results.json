@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-10-08T12:01:04.366Z",
+  "naukri": {
+    "loggedIn": true,
+    "unreadMessages": 0,
+    "recruiterMessages": [],
+    "notifications": []
+  },
+  "linkedin": {
+    "loggedIn": false,
+    "unreadMessages": 0,
+    "threads": []
+  },
+  "iimjobs": {
+    "loggedIn": true,
+    "messages": []
+  }
+}

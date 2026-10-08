@@ -95,6 +95,13 @@ async function runIIMJobsE2E(page, context, maxApplications = 15) {
             company = (await compLocator.innerText().catch(() => company)).trim() || company;
           }
 
+          const lowTitle = title.toLowerCase();
+          const forbiddenJunior = ['analyst', 'developer', 'software engineer', 'specialist', 'technician', 'trainee', 'fresher', 'hvac', 'telecaller', 'telesales'];
+          if (forbiddenJunior.some(term => lowTitle.includes(term)) && !lowTitle.includes('director') && !lowTitle.includes('head') && !lowTitle.includes('vp')) {
+            console.log(`[IIMJobsE2E] ⏭️ Skipping junior/mismatched title: "${title}" @ ${company}`);
+            continue;
+          }
+
           const key = `${company.toLowerCase().trim()}::${title.toLowerCase().trim()}`;
           if (seenInKeyword.has(key) || appliedKeys.has(key)) {
             if (!seenInKeyword.has(key)) {
