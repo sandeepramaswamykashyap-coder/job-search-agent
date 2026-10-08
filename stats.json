@@ -1,87 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3765,
+  "applicationsSubmitted": 3775,
   "appliedRolesList": [
-    {
-      "company": "PwC",
-      "title": "SAP Test Automation - Architect Manager (SAP, TOSCA & AI)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-test-automation-architect-manager-sap-tosca-ai-pwc-bengaluru-9-to-13-years-290926020368?src=directSearch&sid=17906667925282631&xp=10&px=1",
-      "time": "2026-09-29T07:27:02.227Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Great Learning - Senior Manager/Assistant General Manager - Analytics & Automati",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/great-learning-senior-manager-assistant-general-manager-analytics-and-automation-1736691?ref=sp_br_prm&jobPos=13",
-      "time": "2026-09-29T07:29:36.616Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bounteous",
-      "title": "Lead Platform Developer - Braze",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-platform-developer-braze-bounteous-gurugram-chennai-bengaluru-7-to-12-years-100726026211",
-      "time": "2026-09-29T07:43:31.681Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tavant",
-      "title": "ServiceNow - Associate Business Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-associate-business-architect-tavant-hyderabad-bengaluru-8-to-10-years-290926021539?src=directSearch&sid=17906678464392668&xp=2&px=1",
-      "time": "2026-09-29T07:44:23.458Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ketto - Product Manager/Senior Product Manager - MetaGO",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ketto-product-manager-senior-product-manager-metago-1736442?ref=sp_prm&jobPos=3",
-      "time": "2026-09-29T07:47:38.240Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Mindsprint - Supply Chain Planning Transformation Leader - Business Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/mindsprint-supply-chain-planning-transformation-leader-business-consulting-1736380?ref=sp_br&jobPos=8",
-      "time": "2026-09-29T07:48:22.790Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Resource Pro",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-resource-pro-ahmedabad-chennai-bengaluru-12-to-20-years-080926025928?src=directSearch&sid=1790668874824335&xp=9&px=1",
-      "time": "2026-09-29T08:01:38.267Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Talent Sketchers",
-      "title": "AI Manager (Senior Manager OR Architects)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-manager-senior-manager-or-architects-talent-sketchers-bengaluru-10-to-15-years-290926020848?src=directSearch&sid=17906697800093784&xp=4&px=1",
-      "time": "2026-09-29T08:16:37.367Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vashi Integrated - Chief Technology Officer - Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vashi-integrated-chief-technology-officer-digital-transformation-1736715?ref=sp&jobPos=14",
-      "time": "2026-09-29T08:22:37.657Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Assistant Manager - Legal - NBFC/Fintech - LLB",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-assistant-manager-legal-nbfc-fintech-llb-1736730?ref=sp&jobPos=4",
-      "time": "2026-09-29T09:13:47.333Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Botree Software",
       "title": "Senior Sales Manager",
@@ -4001,6 +3921,86 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455904782&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-08T14:46:59.107Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "bigbasket",
+      "title": "Chief of Staff (CEOs Office)\nChief of Staff (CEOs Office)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-08T15:26:42.042Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Manager - Business Consulting PI - TMT - CNS - BC - FINANCE - Bangalore\nSenior Manager - Business Consulting PI - TMT - CNS - BC - FINANCE - Bangalore with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-08T15:27:01.407Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ADLINK Technology",
+      "title": "India Country Manager\nIndia Country Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-08T15:27:51.227Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Activatr",
+      "title": "Program Manager - Strategy & Ops\nProgram Manager - Strategy & Ops",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-08T15:28:10.628Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Aviate",
+      "title": "Strategic Account Director (ID # 912)\nStrategic Account Director (ID # 912) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-08T15:29:00.830Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Visa",
+      "title": "Sr. Client Consulting Manager - Migration Practice (Implementation/ Cards Migration)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=25",
+      "time": "2026-10-08T15:29:20.501Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Golden Opportunities",
+      "title": "CEO - Luxury Automotive Operations - Bangalore - GO/JC/4514/2026\nCEO - Luxury Automotive Operations - Bangalore - GO/JC/4514/2026 with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=125",
+      "time": "2026-10-08T15:30:10.675Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Conviva",
+      "title": "Product Support Manager\nProduct Support Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476790319&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-08T15:30:49.798Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HPE Aruba Networking",
+      "title": "Technical Support Manager\nTechnical Support Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473226432&f_AL=true&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER",
+      "time": "2026-10-08T15:31:02.397Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dover India",
+      "title": "Saas Support Manager\nSaas Support Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476790319&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-08T15:31:22.400Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3765,
+  "totalVerifiedInHistory": 3775,
   "portalBreakdown": {
     "iimjobs": 450,
     "naukri": 595,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 40
+    "linkedin_easy_apply": 50
   },
-  "lastSyncedAt": "2026-10-08T14:46:59.163Z",
-  "lastUpdated": "8/10/2026, 8:16:59 pm"
+  "lastSyncedAt": "2026-10-08T15:31:22.434Z",
+  "lastUpdated": "8/10/2026, 9:01:22 pm"
 }
