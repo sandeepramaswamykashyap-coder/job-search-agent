@@ -58,7 +58,6 @@ async function checkAndDispatchScheduledReport() {
       const delivered = await sendSessionReport('evening');
       if (delivered) {
         console.log('✅ [VisibleRunner] Single Daily 8:00 PM IST Executive Report dispatched successfully.');
-        updateReportState('evening', todayStr);
       }
     } catch (err) {
       console.warn(`[VisibleRunner] Daily 8 PM report notice: ${err.message}`);
