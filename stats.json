@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3704,
+  "applicationsSubmitted": 3706,
   "appliedRolesList": [
-    {
-      "company": "Happinesscue",
-      "title": "Senior Manager - Marketplace Business",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-marketplace-business-happinesscue-hyderabad-chennai-bengaluru-8-to-12-years-280926914178?src=directSearch&sid=17905890050267476&xp=5&px=1",
-      "time": "2026-09-28T09:50:28.510Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sonata Software",
-      "title": "ServiceNow Techno-Functional Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-techno-functional-project-manager-sonata-software-hyderabad-chennai-bengaluru-13-to-20-years-280926015058?src=directSearch&sid=17905902045184321&xp=3&px=1",
-      "time": "2026-09-28T10:10:21.655Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Lenskart - Program Manager - Business Operations & Retail Strategy",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-technical-program-manager-hilabs-bengaluru-5-to-10-years-081026016207?src=directSearch&sid=17914454435463154&xp=4&px=1",
       "time": "2026-10-08T07:44:26.213Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amazon - Program Manager II - Quick Commerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amazon-program-manager-ii-quick-commerce-1738210?ref=sp_br&jobPos=4",
+      "time": "2026-10-08T08:17:58.058Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Z-Tech - Head - Food & Beverage Operations - Creative Parks",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/z-tech-head-food-and-beverage-operations-creative-parks-1738599?ref=sp_br&jobPos=13",
+      "time": "2026-10-08T08:18:18.581Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3704,
+  "totalVerifiedInHistory": 3706,
   "portalBreakdown": {
-    "iimjobs": 440,
+    "iimjobs": 442,
     "naukri": 587,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 26
   },
-  "lastSyncedAt": "2026-10-08T07:44:26.250Z",
-  "lastUpdated": "8/10/2026, 1:14:26 pm"
+  "lastSyncedAt": "2026-10-08T08:18:18.617Z",
+  "lastUpdated": "8/10/2026, 1:48:18 pm"
 }

@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 52,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-08T07:51:27.721Z",
+  "lastUpdated": "2026-10-08T08:21:49.561Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1016,7 +1016,7 @@
       "company": "Deloitte USI",
       "title": "Director - Executive & Lateral Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:12:08.899Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1027,7 +1027,7 @@
       "company": "EY GDS",
       "title": "Partner - Technology Consulting & Program Delivery",
       "dispatchedAt": "2026-10-04T08:12:18.904Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1038,7 +1038,7 @@
       "company": "EY India",
       "title": "Director - Executive Search & Hiring",
       "dispatchedAt": "2026-10-04T08:12:27.421Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1049,7 +1049,7 @@
       "company": "KPMG India",
       "title": "Partner - Business Transformation & Technology Advisory",
       "dispatchedAt": "2026-10-04T08:12:35.882Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1060,7 +1060,7 @@
       "company": "KPMG Global Services",
       "title": "Associate Director - Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:12:44.363Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1071,7 +1071,7 @@
       "company": "Accenture Technology & Operations",
       "title": "Managing Director - Enterprise Platform Delivery",
       "dispatchedAt": "2026-10-04T08:12:52.764Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1082,7 +1082,7 @@
       "company": "Accenture India",
       "title": "Lead Recruiter - Senior Leadership Hiring",
       "dispatchedAt": "2026-10-04T08:13:01.480Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1093,7 +1093,7 @@
       "company": "Alvarez & Marsal India",
       "title": "Managing Director - Corporate Performance Improvement",
       "dispatchedAt": "2026-10-04T08:13:10.916Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1104,7 +1104,7 @@
       "company": "ServiceNow India",
       "title": "Senior Director - Solution Consulting & Delivery",
       "dispatchedAt": "2026-10-04T08:13:53.386Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1115,7 +1115,7 @@
       "company": "ServiceNow India",
       "title": "Principal Talent Acquisition Partner",
       "dispatchedAt": "2026-10-04T08:14:02.024Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1126,7 +1126,7 @@
       "company": "Salesforce India",
       "title": "Senior Director - Professional Services Delivery",
       "dispatchedAt": "2026-10-04T08:14:10.593Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1137,7 +1137,7 @@
       "company": "Workday India",
       "title": "Principal Recruiter - Enterprise Applications",
       "dispatchedAt": "2026-10-04T08:14:19.361Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1148,7 +1148,7 @@
       "company": "Freshworks",
       "title": "Director - Global Program Management",
       "dispatchedAt": "2026-10-04T08:14:27.987Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1159,7 +1159,7 @@
       "company": "UiPath India",
       "title": "Vice President - Customer Success & Delivery",
       "dispatchedAt": "2026-10-04T08:14:36.745Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1170,7 +1170,7 @@
       "company": "Infosys",
       "title": "Executive Vice President - Enterprise Service Delivery",
       "dispatchedAt": "2026-10-04T08:14:45.192Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
@@ -1181,7 +1181,7 @@
       "company": "Infosys BPM",
       "title": "Associate Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:14:54.241Z",
-      "daysElapsed": 3,
+      "daysElapsed": 4,
       "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
       "followUpStatus": "Awaiting Recruiter Response"
