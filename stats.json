@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3706,
+  "applicationsSubmitted": 3708,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Lenskart - Program Manager - Business Operations & Retail Strategy",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/lenskart-program-manager-business-operations-and-retail-strategy-1736424?ref=sp_br&jobPos=14",
-      "time": "2026-09-28T10:13:37.686Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Regional HR Business Partner - Retail Fashion",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-regional-hr-business-partner-retail-fashion-1736429?ref=sp&jobPos=15",
-      "time": "2026-09-28T10:14:28.071Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Acuity Analytics",
       "title": "Delivery Manager- Financial Spreading",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/z-tech-head-food-and-beverage-operations-creative-parks-1738599?ref=sp_br&jobPos=13",
       "time": "2026-10-08T08:18:18.581Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IndiaFirst Life Insurance Company - Manager/Senior Manager - Product Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/indiafirst-life-insurance-company-manager-senior-manager-product-management-1738629?ref=sp_br_prm&jobPos=7",
+      "time": "2026-10-08T08:51:48.730Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Senior Engineering Manager, ITSM Operations",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=f6e358b78fdb3822",
+      "time": "2026-10-08T09:09:15.629Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3706,
+  "totalVerifiedInHistory": 3708,
   "portalBreakdown": {
-    "iimjobs": 442,
+    "iimjobs": 443,
     "naukri": 587,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 26
+    "indeed": 27
   },
-  "lastSyncedAt": "2026-10-08T08:18:18.617Z",
-  "lastUpdated": "8/10/2026, 1:48:18 pm"
+  "lastSyncedAt": "2026-10-08T09:09:15.689Z",
+  "lastUpdated": "8/10/2026, 2:39:15 pm"
 }
