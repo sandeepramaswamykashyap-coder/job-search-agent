@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 246,
-  "coldEmailsCount": 223,
+  "totalOutreachItems": 262,
+  "coldEmailsCount": 239,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 104,
+    "initialWindow_0_2_days": 120,
     "underEvaluation_3_4_days": 52,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-08T16:13:55.561Z",
+  "lastUpdated": "2026-10-08T16:58:35.399Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2461,6 +2461,182 @@
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "bhavana.mohan@nvidia.com",
+      "company": "NVIDIA India",
+      "title": "Senior Talent Acquisition Lead",
+      "dispatchedAt": "2026-10-08T16:36:51.254Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sanjay.rohatgi@netapp.com",
+      "company": "NetApp India",
+      "title": "Senior Vice President & General Manager",
+      "dispatchedAt": "2026-10-08T16:37:00.408Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ruchi.shrivastava@netapp.com",
+      "company": "NetApp India",
+      "title": "Director - Talent Acquisition India",
+      "dispatchedAt": "2026-10-08T16:37:10.048Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ashish.dhawan@juniper.net",
+      "company": "Juniper Networks India",
+      "title": "Vice President - Global Services Delivery",
+      "dispatchedAt": "2026-10-08T16:37:19.556Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "deepali.sen@juniper.net",
+      "company": "Juniper Networks India",
+      "title": "Lead Recruiter - Executive Search",
+      "dispatchedAt": "2026-10-08T16:37:28.802Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajiv.ramaswami@nutanix.com",
+      "company": "Nutanix India",
+      "title": "President & Chief Executive Officer",
+      "dispatchedAt": "2026-10-08T16:37:38.590Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sankalp.saxena@nutanix.com",
+      "company": "Nutanix India",
+      "title": "Senior Vice President & Managing Director - India",
+      "dispatchedAt": "2026-10-08T16:37:48.739Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "meenu.bagla@nutanix.com",
+      "company": "Nutanix India",
+      "title": "Vice President - Talent Acquisition India",
+      "dispatchedAt": "2026-10-08T16:37:58.656Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "anand.subbaraman@splunk.com",
+      "company": "Splunk India",
+      "title": "Vice President - Engineering Operations & Delivery",
+      "dispatchedAt": "2026-10-08T16:40:03.294Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "prasad.rai@oracle.com",
+      "company": "Oracle India",
+      "title": "Vice President - Global Business Unit Delivery",
+      "dispatchedAt": "2026-10-08T16:40:12.383Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "shubha.shetty@oracle.com",
+      "company": "Oracle India",
+      "title": "Senior Director - Talent Acquisition",
+      "dispatchedAt": "2026-10-08T16:40:21.621Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ravi.krishnan@akamai.com",
+      "company": "Akamai Technologies India",
+      "title": "Director - Global Service Delivery & Operations",
+      "dispatchedAt": "2026-10-08T16:40:30.463Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "kavita.murthy@akamai.com",
+      "company": "Akamai Technologies India",
+      "title": "Head of Talent Acquisition",
+      "dispatchedAt": "2026-10-08T16:40:39.350Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sumit.rai@optum.com",
+      "company": "Optum Global Solutions",
+      "title": "Senior Vice President - Health Care Delivery Operations",
+      "dispatchedAt": "2026-10-08T16:40:48.381Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "vandana.suri@optum.com",
+      "company": "Optum Global Solutions",
+      "title": "Vice President - Talent Acquisition",
+      "dispatchedAt": "2026-10-08T16:40:57.273Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajesh.nair@carelon.com",
+      "company": "Carelon Global Solutions",
+      "title": "Chief Operating Officer & Head of Delivery",
+      "dispatchedAt": "2026-10-08T16:41:05.965Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
     }
   ],
   "connectionsList": [
@@ -2603,7 +2779,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/dvenkateshmurthy/",
       "dispatchedAt": "2026-08-20T16:14:21.417Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2615,7 +2791,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/subhra-chakraborty-08422161/",
       "dispatchedAt": "2026-08-20T16:16:34.031Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2627,7 +2803,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sushant-kumar-8b23a2225/",
       "dispatchedAt": "2026-08-20T16:17:39.749Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2639,7 +2815,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nancy-paul-527140155/",
       "dispatchedAt": "2026-08-20T16:20:56.653Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2651,7 +2827,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/rathore-lokendra/",
       "dispatchedAt": "2026-08-20T16:23:07.998Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2663,7 +2839,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/gopinath-dakshinamurthy-58b39a16/",
       "dispatchedAt": "2026-08-20T16:26:26.529Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2675,7 +2851,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nitesh-jain-6698762b/",
       "dispatchedAt": "2026-08-20T16:28:39.343Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2687,7 +2863,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/praveen-r-211a1a12a/",
       "dispatchedAt": "2026-08-20T16:31:56.789Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2699,7 +2875,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nikita-srivastava-5b328b65/",
       "dispatchedAt": "2026-08-20T16:35:15.296Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2711,7 +2887,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sanchari-chattaraj/",
       "dispatchedAt": "2026-08-20T16:38:34.282Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2723,7 +2899,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/isaacmasood/",
       "dispatchedAt": "2026-08-20T16:40:46.459Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2735,7 +2911,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/venkatesh-n-t-28bb5b2b/",
       "dispatchedAt": "2026-08-20T16:45:15.478Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"

@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3781,
+  "applicationsSubmitted": 3788,
   "appliedRolesList": [
-    {
-      "company": "Cushman & Wakefield",
-      "title": "Program Manager Capital Projects",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-capital-projects-cushman-wakefield-india-pvt-ltd-bengaluru-5-to-10-years-290926917422?src=directSearch&sid=17906760349347802&xp=1&px=1",
-      "time": "2026-09-29T10:00:48.766Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Allegis Global Solutions (AGS)",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-allegis-global-solutions-ags-bengaluru-10-to-18-years-290926023600?src=directSearch&sid=17906760349347802&xp=2&px=1",
-      "time": "2026-09-29T10:01:00.122Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Varite",
-      "title": "Program Manager - Customer xperience and Campaign",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-customer-xperience-and-campaign-varite-bengaluru-india-5-to-10-years-290926019788?src=directSearch&sid=17906760349347802&xp=3&px=1",
-      "time": "2026-09-29T10:01:11.453Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HCLTech",
-      "title": "Product Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-product-manager-hcltech-bengaluru-12-to-20-years-290926000109",
-      "time": "2026-09-29T10:02:00.372Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Persistent",
-      "title": "Lead Software Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-software-engineer-persistent-hyderabad-pune-bengaluru-10-to-15-years-290926027995?src=directSearch&sid=17906761268344941&xp=12&px=1",
-      "time": "2026-09-29T10:02:33.333Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "B-informative It Services",
-      "title": "IAM Technical Lead / Architect (One Identity) Onsite",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-iam-technical-lead-architect-one-identity-onsite-b-informative-it-services-hyderabad-bengaluru-8-to-10-years-290926026744?src=directSearch&sid=17906761268344941&xp=13&px=1",
-      "time": "2026-09-29T10:02:44.648Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Saasvaap Techies",
-      "title": "ServiceNow Project Manager Chennai Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-project-manager-chennai-bangalore-saasvaap-techies-bengaluru-8-to-13-years-290926024450?src=directSearch&sid=17906761866144324&xp=3&px=1",
-      "time": "2026-09-29T10:03:23.576Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognizant",
       "title": "Major Incident Manager",
@@ -4001,6 +3945,62 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473226432&f_AL=true&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER",
       "time": "2026-10-08T16:12:58.415Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Aziro",
+      "title": "Social Impact Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-social-impact-program-manager-aziro-bengaluru-5-to-10-years-081026023456?src=directSearch&sid=17914779616222040&xp=4&px=1",
+      "time": "2026-10-08T16:46:15.906Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ZEISS India",
+      "title": "Head of Strategy and New Businesses\nHead of Strategy and New Businesses",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474069632&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-10-08T16:53:55.175Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "JLL",
+      "title": "Director, Specialist Advisory - Business Development\nDirector, Specialist Advisory - Business Development",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-08T16:54:14.458Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Navi",
+      "title": "Associate Manager II - Talent Acquisition (Strategy & Business Operations)\nAssociate Manager II - Talent Acquisition (Strategy & Business Operations) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474069632&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-10-08T16:55:04.652Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Education Centre of Australia",
+      "title": "Head of Marketing - Indian Branch Campus\nHead of Marketing - Indian Branch Campus with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4468685556&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T16:56:10.504Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HSBC",
+      "title": "Assistant Manager - Control Tower\nAssistant Manager - Control Tower with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474257666&f_AL=true&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T16:57:00.161Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Akron Intel",
+      "title": "Delivery Manager\nDelivery Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4468685556&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T16:57:48.666Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3781,
+  "totalVerifiedInHistory": 3788,
   "portalBreakdown": {
     "iimjobs": 450,
-    "naukri": 595,
+    "naukri": 596,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 56
+    "linkedin_easy_apply": 62
   },
-  "lastSyncedAt": "2026-10-08T16:12:58.453Z",
-  "lastUpdated": "8/10/2026, 9:42:58 pm"
+  "lastSyncedAt": "2026-10-08T16:57:48.718Z",
+  "lastUpdated": "8/10/2026, 10:27:48 pm"
 }
