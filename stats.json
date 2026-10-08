@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3709,
+  "applicationsSubmitted": 3711,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "ProgCap - Manager/Senior Manager - Compliance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/progcap-manager-senior-manager-compliance-1736430?ref=sp_br&jobPos=16",
-      "time": "2026-09-28T10:31:19.345Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Ethics - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ethics-manager-ey-bengaluru-7-to-12-years-280926016910?src=directSearch&sid=17905923097462300&xp=7&px=1",
-      "time": "2026-09-28T10:45:23.736Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Capgemini",
       "title": "SAP Service Delivery Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-business-development-manager-it-services-1738641?ref=sp&jobPos=13",
       "time": "2026-10-08T09:26:45.970Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Klm Axiva Finvest",
+      "title": "Operations Manager - Karnataka, Tamil Nadu, AP & TS",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-manager-karnataka-tamil-nadu-ap-ts-klm-axiva-finvest-madurai-nellore-bengaluru-5-to-10-years-081026026252?src=directSearch&sid=17914532717864368&xp=9&px=1",
+      "time": "2026-10-08T09:54:59.129Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "MPS - Senior Manager - Project Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mps-senior-manager-project-management-1738658?ref=sp_prm&jobPos=10",
+      "time": "2026-10-08T09:56:14.266Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3709,
+  "totalVerifiedInHistory": 3711,
   "portalBreakdown": {
-    "iimjobs": 444,
-    "naukri": 587,
+    "iimjobs": 445,
+    "naukri": 588,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 27
   },
-  "lastSyncedAt": "2026-10-08T09:26:46.023Z",
-  "lastUpdated": "8/10/2026, 2:56:46 pm"
+  "lastSyncedAt": "2026-10-08T09:56:14.312Z",
+  "lastUpdated": "8/10/2026, 3:26:14 pm"
 }
