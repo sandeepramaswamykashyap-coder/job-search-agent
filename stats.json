@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3708,
+  "applicationsSubmitted": 3709,
   "appliedRolesList": [
-    {
-      "company": "Acuity Analytics",
-      "title": "Delivery Manager- Financial Spreading",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-financial-spreading-acuity-analytics-bengaluru-8-to-13-years-280926015906?src=directSearch&sid=17905914219872095&xp=4&px=1",
-      "time": "2026-09-28T10:31:00.708Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "ProgCap - Manager/Senior Manager - Compliance",
@@ -4001,6 +3993,14 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=f6e358b78fdb3822",
       "time": "2026-10-08T09:09:15.629Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Business Development Manager - IT Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-business-development-manager-it-services-1738641?ref=sp&jobPos=13",
+      "time": "2026-10-08T09:26:45.970Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3708,
+  "totalVerifiedInHistory": 3709,
   "portalBreakdown": {
-    "iimjobs": 443,
+    "iimjobs": 444,
     "naukri": 587,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 27
   },
-  "lastSyncedAt": "2026-10-08T09:09:15.689Z",
-  "lastUpdated": "8/10/2026, 2:39:15 pm"
+  "lastSyncedAt": "2026-10-08T09:26:46.023Z",
+  "lastUpdated": "8/10/2026, 2:56:46 pm"
 }
