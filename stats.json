@@ -1,95 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3744,
+  "applicationsSubmitted": 3755,
   "appliedRolesList": [
-    {
-      "company": "CMMI Level 5 IT Company - MNC",
-      "title": "Salesforce QA Manager / Salesforce Test Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-salesforce-qa-manager-salesforce-test-manager-consult-asia-bengaluru-12-to-20-years-250926912339?src=directSearch&sid=17906090149577868&xp=10&px=1",
-      "time": "2026-09-28T15:25:08.043Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bounteous",
-      "title": "Technical Project Manager-BI-FCHDC",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-project-manager-bi-fchdc-bounteous-chennai-bengaluru-9-to-14-years-250926018555?src=directSearch&sid=17906090149577868&xp=11&px=1",
-      "time": "2026-09-28T15:25:44.041Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Omega Healthcare",
-      "title": "Manager - Oracle HCM Functional Support & HR Technology",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-oracle-hcm-functional-support-hr-technology-omega-healthcare-hyderabad-chennai-bengaluru-8-to-12-years-250926014709?src=directSearch&sid=17906090149577868&xp=12&px=1",
-      "time": "2026-09-28T15:25:55.340Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Constantinople",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-constantinople-bengaluru-7-to-11-years-280926502360?src=directSearch&sid=1790609990834633&xp=10&px=1",
-      "time": "2026-09-28T15:40:14.404Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Black Turtle",
-      "title": "Director/Sr Director, Delivery Operations, Medical Coding, 17+years",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-sr-director-delivery-operations-medical-coding-17-years-black-turtle-hyderabad-chennai-bengaluru-17-to-26-years-280926031325?src=directSearch&sid=17906100299494396&xp=4&px=1",
-      "time": "2026-09-28T15:40:43.963Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Capgemini",
-      "title": "Transformation Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-transformation-program-manager-capgemini-technology-services-india-limited-bengaluru-14-to-20-years-280926928723?src=directSearch&sid=17906110184718915&xp=1&px=1",
-      "time": "2026-09-28T15:57:12.399Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coffee Day Global",
-      "title": "Senior Manager - Services & Maintenance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-services-maintenance-coffee-day-global-bengaluru-8-to-12-years-210926004884",
-      "time": "2026-09-28T18:15:19.077Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Century Support Services",
-      "title": "Revenue Operations Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-revenue-operations-analyst-century-bengaluru-6-to-11-years-280926031826?src=directSearch&sid=17906205254115040&xp=10&px=1",
-      "time": "2026-09-28T18:35:52.179Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Operations - Organic Agritech",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-operations-organic-agritech-1732360?ref=sp&jobPos=18",
-      "time": "2026-09-28T18:38:19.629Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Product Management & Strategy - Manufacturing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-product-management-and-strategy-manufacturing-1736268?ref=sp&jobPos=18",
-      "time": "2026-09-28T18:38:39.694Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Assistant General Manager/General Manager - Business Development - BPO",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-assistant-general-manager-general-manager-business-development-bpo-1736540?ref=sp&jobPos=2",
-      "time": "2026-09-28T18:39:01.637Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zepto",
       "title": "Team Lead - Deputy Delivery Hub Manager",
@@ -4001,6 +3913,94 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4470172016&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-08T13:12:58.483Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Inmorphis Services",
+      "title": "Client Partner/Delivery Manager - Service Now- Noida/Banglore/Mumbai",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-client-partner-delivery-manager-service-now-noida-banglore-mumbai-inmorphis-services-noida-bengaluru-mumbai-all-areas-14-to-24-years-081026047627?src=directSearch&sid=17914671300605559&xp=5&px=1",
+      "time": "2026-10-08T13:45:50.810Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ujjivan Small Finance Bank",
+      "title": "National Manager - Accounts\nNational Manager - Accounts with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464872714&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:51:16.079Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mashreq",
+      "title": "Vice President - Technology Program Manager.TECH-Core Banking Program\nVice President - Technology Program Manager.TECH-Core Banking Program with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472711733&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:52:04.866Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Truworth Wellness",
+      "title": "Senior Manager / Manager – Business Development (EAP & Corporate Wellness)\nSenior Manager / Manager – Business Development (EAP & Corporate Wellness) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464872714&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:52:53.841Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead\nLegal Operations Team Lead with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472711733&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:53:42.219Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zepto",
+      "title": "Manager II - Program Management (Last Mile)\nManager II - Program Management (Last Mile) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472457582&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:54:38.888Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capco",
+      "title": "Senior PMO - DB\nSenior PMO - DB with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4443755339&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:55:28.060Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Golden Opportunities",
+      "title": "Senior Manager – Tower lead(L&D) - Bangalore - GO/JC/4522/2026\nSenior Manager – Tower lead(L&D) - Bangalore - GO/JC/4522/2026 with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472457582&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:56:17.146Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "A Global Consulting Firm",
+      "title": "Transformation Program Manager\nTransformation Program Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455900553&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:57:13.620Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Relanto",
+      "title": "Technical Program Manager\nTechnical Program Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4463429417&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-10-08T13:58:01.145Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HCLTech",
+      "title": "VLSI RTL DV Technical Project Manager/Program manager\nVLSI RTL DV Technical Project Manager/Program manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455900553&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-08T13:58:49.495Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3744,
+  "totalVerifiedInHistory": 3755,
   "portalBreakdown": {
     "iimjobs": 450,
-    "naukri": 594,
+    "naukri": 595,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 20
+    "linkedin_easy_apply": 30
   },
-  "lastSyncedAt": "2026-10-08T13:12:58.546Z",
-  "lastUpdated": "8/10/2026, 6:42:58 pm"
+  "lastSyncedAt": "2026-10-08T13:58:49.549Z",
+  "lastUpdated": "8/10/2026, 7:28:49 pm"
 }
