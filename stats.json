@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3698,
+  "applicationsSubmitted": 3700,
   "appliedRolesList": [
-    {
-      "company": "A1 Selectors",
-      "title": "Plant Manager/ Lead/Head- Beverages- Loc- Devanhalli, Banglore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-plant-manager-lead-head-beverages-loc-devanhalli-banglore-a1-selectors-wargal-hyderabad-bengaluru-12-to-20-years-090926034649?src=directSearch&sid=17905808084983719&xp=6&px=1",
-      "time": "2026-09-28T07:33:42.439Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Well known client of Randstad India",
-      "title": "GM Operation India",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gm-operation-india-randstad-bengaluru-delhi-ncr-20-to-25-years-180926028908?src=directSearch&sid=17905808084983719&xp=9&px=1",
-      "time": "2026-09-28T07:33:53.905Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "MSM Global Education",
       "title": "Senior Manager / Associate Director, Partnerships, MSM CampusOS",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/deepgram/be9f18f6-8851-40fb-be50-3c13d7457092",
       "time": "2026-10-08T05:02:21.454Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "KVP Business Solutions",
+      "title": "Salesforce Business Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-salesforce-business-analyst-kvp-business-solutions-bengaluru-2-to-5-years-081026013414?src=directSearch&sid=17914362612323174&xp=5&px=1",
+      "time": "2026-10-08T05:11:18.674Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Agara",
+      "title": "Senior Product Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&from=page-two-signin",
+      "time": "2026-10-08T05:36:14.172Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3698,
+  "totalVerifiedInHistory": 3700,
   "portalBreakdown": {
     "iimjobs": 439,
-    "naukri": 584,
+    "naukri": 585,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 24
+    "indeed": 25
   },
-  "lastSyncedAt": "2026-10-08T05:02:21.485Z",
-  "lastUpdated": "8/10/2026, 10:32:21 am"
+  "lastSyncedAt": "2026-10-08T05:36:14.243Z",
+  "lastUpdated": "8/10/2026, 11:06:14 am"
 }
