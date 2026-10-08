@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3693,
+  "applicationsSubmitted": 3698,
   "appliedRolesList": [
-    {
-      "company": "Idexcel",
-      "title": "Senior Analyst- SAP S/4 HANA EAM",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-analyst-sap-s-4-hana-eam-idexcel-bengaluru-8-to-12-years-280926007167?src=directSearch&sid=17905777411536394&xp=12&px=1",
-      "time": "2026-09-28T06:42:53.898Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Acuity Analytics",
-      "title": "Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-acuity-analytics-bengaluru-6-to-10-years-190826019314?src=directSearch&sid=17905789420843288&xp=4&px=1",
-      "time": "2026-09-28T07:03:00.729Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Flipkart - Senior Manager - Strategic Partnerships",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/flipkart-senior-manager-strategic-partnerships-1736354?ref=sp_br_prm&jobPos=1",
-      "time": "2026-09-28T07:17:06.671Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "First Advantage",
-      "title": "Excellent Opportunity- Salesforce Data Quality Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-excellent-opportunity-salesforce-data-quality-manager-first-advantage-bengaluru-9-to-12-years-280926010239?src=directSearch&sid=17905805670974268&xp=12&px=1",
-      "time": "2026-09-28T07:30:03.320Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cashfree Payments",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-cashfree-payments-bengaluru-3-to-6-years-080526032801?src=directSearch&sid=17905806255128801&xp=4&px=1",
-      "time": "2026-09-28T07:30:45.789Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "A1 Selectors",
       "title": "Plant Manager/ Lead/Head- Beverages- Loc- Devanhalli, Banglore",
@@ -4001,6 +3961,46 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&from=page-two-signin",
       "time": "2026-10-08T04:25:50.755Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Royal Cyber",
+      "title": "Delivery Agile Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-agile-lead-royal-cyber-bengaluru-8-to-13-years-071026037090",
+      "time": "2026-10-08T04:33:50.460Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Careernet",
+      "title": "Servicenow developer (Consultant/ Assistant manager)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-developer-consultant-assistant-manager-careernet-hyderabad-gurugram-bengaluru-4-to-9-years-081026012014?src=directSearch&sid=17914340970124129&xp=11&px=1",
+      "time": "2026-10-08T04:35:30.706Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Blinkit - Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/blinkit-program-manager-1738482?ref=sp_br&jobPos=3",
+      "time": "2026-10-08T04:38:32.974Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director of Product Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/be9f18f6-8851-40fb-be50-3c13d7457092",
+      "time": "2026-10-08T05:02:21.172Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director of Product Operations",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/be9f18f6-8851-40fb-be50-3c13d7457092",
+      "time": "2026-10-08T05:02:21.454Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3693,
+  "totalVerifiedInHistory": 3698,
   "portalBreakdown": {
-    "iimjobs": 438,
-    "naukri": 582,
+    "iimjobs": 439,
+    "naukri": 584,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4684,13 +4684,13 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 456,
-    "ashby": 347,
+    "direct_portal_ashby": 457,
+    "ashby": 348,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 24
   },
-  "lastSyncedAt": "2026-10-08T04:25:50.815Z",
-  "lastUpdated": "8/10/2026, 9:55:50 am"
+  "lastSyncedAt": "2026-10-08T05:02:21.485Z",
+  "lastUpdated": "8/10/2026, 10:32:21 am"
 }

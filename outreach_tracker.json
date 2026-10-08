@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 52,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-08T04:06:05.048Z",
+  "lastUpdated": "2026-10-08T04:42:19.742Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -576,7 +576,7 @@
       "company": "PwC",
       "title": "Partner — Business Transformation & Platform Delivery",
       "dispatchedAt": "2026-08-30T04:19:04.067Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -587,7 +587,7 @@
       "company": "Ernst & Young (EY)",
       "title": "Head of Executive Sourcing — Global Delivery Services",
       "dispatchedAt": "2026-08-30T04:19:15.474Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -598,7 +598,7 @@
       "company": "Wipro",
       "title": "Vice President — Cloud & Platform Transformation Business Unit",
       "dispatchedAt": "2026-08-30T04:19:50.795Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -609,7 +609,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Global Head — Enterprise Platform Solutions",
       "dispatchedAt": "2026-08-30T04:19:55.811Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -620,7 +620,7 @@
       "company": "LTIMindtree",
       "title": "Vice President — Enterprise Business Transformation",
       "dispatchedAt": "2026-08-30T04:20:00.890Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -631,7 +631,7 @@
       "company": "HCLTech",
       "title": "Senior Vice President — Digital Platform Transformation",
       "dispatchedAt": "2026-08-30T04:20:05.705Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -642,7 +642,7 @@
       "company": "Tech Mahindra",
       "title": "Senior Vice President — Cloud & ServiceNow Practice",
       "dispatchedAt": "2026-08-30T04:20:15.535Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -686,7 +686,7 @@
       "company": "Infosys",
       "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
       "dispatchedAt": "2026-09-15T04:06:08.656Z",
-      "daysElapsed": 22,
+      "daysElapsed": 23,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
