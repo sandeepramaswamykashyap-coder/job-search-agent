@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3702,
+  "applicationsSubmitted": 3704,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Celebal Technologies - Senior Technical Program Manager - Databricks",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/celebal-technologies-senior-technical-program-manager-databricks-1736379?ref=sp&jobPos=5",
-      "time": "2026-09-28T08:28:23.325Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Mindsprint - Supply Chain Planning Leader - Transformation/Business Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/mindsprint-supply-chain-planning-leader-transformation-business-consulting-1736380?ref=sp_br&jobPos=8",
-      "time": "2026-09-28T08:28:49.404Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happinesscue",
       "title": "Senior Manager - Marketplace Business",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/kreditbee-senior-manager-business-loans-operations-1738547?ref=sp_br&jobPos=7",
       "time": "2026-10-08T07:14:23.306Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Semi Government Organisation",
+      "title": "Senior Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-operations-manager-nautilus-consultants-bengaluru-10-to-20-years-081026018619?src=directSearch&sid=17914453840547453&xp=11&px=1",
+      "time": "2026-10-08T07:43:37.875Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Hilabs",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-hilabs-bengaluru-5-to-10-years-081026016207?src=directSearch&sid=17914454435463154&xp=4&px=1",
+      "time": "2026-10-08T07:44:26.213Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3702,
+  "totalVerifiedInHistory": 3704,
   "portalBreakdown": {
     "iimjobs": 440,
-    "naukri": 585,
+    "naukri": 587,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 26
   },
-  "lastSyncedAt": "2026-10-08T07:14:23.347Z",
-  "lastUpdated": "8/10/2026, 12:44:23 pm"
+  "lastSyncedAt": "2026-10-08T07:44:26.250Z",
+  "lastUpdated": "8/10/2026, 1:14:26 pm"
 }
