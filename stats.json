@@ -1,95 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3682,
+  "applicationsSubmitted": 3693,
   "appliedRolesList": [
-    {
-      "company": "South Indian conglomerate spanning Education, Hospitality, Property and Agriculture.",
-      "title": "Senior Manager - Construction & Infrastructure Projects",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-construction-infrastructure-projects-manav-sansadhan-vikas-salaahkar-bengaluru-15-to-24-years-210926027930?src=directSearch&sid=17905736686412010&xp=13&px=1",
-      "time": "2026-09-28T05:35:15.381Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tracxn",
-      "title": "Tracxn - Cybersecurity - Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tracxn-cybersecurity-technical-program-manager-tracxn-bengaluru-4-to-7-years-280926004439?src=directSearch&sid=17905748009774589&xp=7&px=1",
-      "time": "2026-09-28T05:53:51.022Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognizant",
-      "title": "Benefits and Leave Admin Analyst  - Team Lead role",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-benefits-and-leave-admin-analyst-team-lead-role-cognizant-bengaluru-6-to-10-years-280926004964?src=directSearch&sid=17905748697317958&xp=12&px=1",
-      "time": "2026-09-28T05:55:21.630Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Commvault",
-      "title": "Senior Manager, Payroll",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-payroll-commvault-systems-india-private-limited-bengaluru-8-to-12-years-280926903703?src=directSearch&sid=17905758253943552&xp=10&px=1",
-      "time": "2026-09-28T06:10:56.558Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys BPM",
-      "title": "Lead - Client Operations & Services",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-client-operations-services-infosys-bpm-limited-bengaluru-12-to-18-years-280926903801?src=directSearch&sid=17905759721093779&xp=6&px=1",
-      "time": "2026-09-28T06:13:12.550Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sonata Software",
-      "title": "Sharepoint Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sharepoint-architect-sonata-software-ltd-hyderabad-bengaluru-12-to-18-years-280926904000?src=directSearch&sid=17905760067496342&xp=4&px=1",
-      "time": "2026-09-28T06:13:45.167Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Omnicom Global Solutions",
-      "title": "Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-omnicom-global-solutions-bengaluru-10-to-14-years-140726025674",
-      "time": "2026-09-28T06:31:46.210Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Protiviti India",
-      "title": "Blue Prism Developer (RPA)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-blue-prism-developer-rpa-protiviti-india-bangalore-rural-bengaluru-3-to-6-years-280926006316?src=directSearch&sid=17905771415562718&xp=3&px=1",
-      "time": "2026-09-28T06:32:55.054Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TVS Motor",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-tvs-motor-bengaluru-5-to-10-years-280926007065?src=directSearch&sid=17905772759726313&xp=8&px=1",
-      "time": "2026-09-28T06:35:02.338Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Commercial Lending & Business Transformation - Banking/Financial Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-commercial-lending-and-business-transformation-banking-financial-services-1736330?ref=sp&jobPos=8",
-      "time": "2026-09-28T06:37:26.692Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Vbeyond Corporation",
-      "title": "Manager/ Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-senior-manager-vbeyond-corporation-gurugram-bengaluru-mumbai-all-areas-3-to-8-years-280926007267?src=directSearch&sid=17905775582884767&xp=5&px=1",
-      "time": "2026-09-28T06:39:41.719Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Idexcel",
       "title": "Senior Analyst- SAP S/4 HANA EAM",
@@ -4001,6 +3913,94 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReqtrQAAAACZS_8bQARAQAB1tqHYkgWew_lyeNXJi4AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReqtrQAAAACZS_8bQARAQAB1tqHYkgWew_lyeNXJi4AAA&from=page-two-signin",
       "time": "2026-10-08T03:36:49.244Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Senior Project Manager Data Engineering (Retail)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-project-manager-data-engineering-retail-happiest-minds-technologies-bengaluru-15-to-20-years-041026005570",
+      "time": "2026-10-08T03:54:14.020Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ETERNAL",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-eternal-gurugram-bengaluru-2-to-7-years-071026046838?src=directSearch&sid=17914317065157214&xp=7&px=1",
+      "time": "2026-10-08T03:55:49.369Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Jaquar Group",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-jaquar-group-hyderabad-bengaluru-8-to-19-years-071026047640?src=directSearch&sid=17914318200168833&xp=10&px=1",
+      "time": "2026-10-08T03:57:31.109Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Seikor Group",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-seikor-group-hyderabad-bengaluru-delhi-ncr-7-to-12-years-071026045882?src=directSearch&sid=17914318543679892&xp=3&px=1",
+      "time": "2026-10-08T03:57:51.836Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-pwc-bengaluru-delhi-ncr-7-to-12-years-071026047711?src=directSearch&sid=17914318543679892&xp=11&px=1",
+      "time": "2026-10-08T03:58:19.754Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Retail - Gold",
+      "title": "Head Operations | Jewellery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-jewellery-core-connect-hr-consultants-bengaluru-10-to-15-years-071026049726?src=directSearch&sid=17914319796543279&xp=11&px=1",
+      "time": "2026-10-08T04:00:06.974Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "Procurement Digital & Data Program Delivery Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-procurement-digital-data-program-delivery-lead-te-connectivity-india-private-limited-bengaluru-6-to-9-years-071026942252?src=directSearch&sid=17914320103022327&xp=4&px=1",
+      "time": "2026-10-08T04:00:33.071Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Axtria",
+      "title": "Manager - BIM",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-bim-axtria-india-private-limited-bengaluru-7-to-12-years-071026942367?src=directSearch&sid=17914320103022327&xp=12&px=1",
+      "time": "2026-10-08T04:00:54.643Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Artizent",
+      "title": "Delivery Manager Cloud & Managed Services",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-cloud-managed-services-nous-infosystems-hyderabad-coimbatore-bengaluru-10-to-20-years-061026008745?src=directSearch&sid=17914320898221873&xp=9&px=1",
+      "time": "2026-10-08T04:01:47.496Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TENARAI TECHNOLOGIES PRIVATE LIMITED",
+      "title": "Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-tenarai-technologies-private-limited-bangalore-rural-bengaluru-10-to-20-years-071026044875?src=directSearch&sid=17914320898221873&xp=12&px=1",
+      "time": "2026-10-08T04:01:59.067Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Rubrik Security Cloud",
+      "title": "Senior Project Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&from=page-two-signin",
+      "time": "2026-10-08T04:25:50.755Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3682,
+  "totalVerifiedInHistory": 3693,
   "portalBreakdown": {
     "iimjobs": 438,
-    "naukri": 572,
+    "naukri": 582,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 23
+    "indeed": 24
   },
-  "lastSyncedAt": "2026-10-08T03:36:49.322Z",
-  "lastUpdated": "8/10/2026, 9:06:49 am"
+  "lastSyncedAt": "2026-10-08T04:25:50.815Z",
+  "lastUpdated": "8/10/2026, 9:55:50 am"
 }
