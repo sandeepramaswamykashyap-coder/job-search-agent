@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3680,
+  "applicationsSubmitted": 3681,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Commercial Excellence Director - Healthcare - IIM/MDI/ISB",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/commercial-excellence-director-healthcare-iim-mdi-isb-1736271?ref=sp&jobPos=17",
-      "time": "2026-09-28T05:24:00.771Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "PwC",
       "title": "Azure Databricks - Senior Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
       "time": "2026-10-07T15:22:28.240Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Accellor",
+      "title": "Senior Delivery Manager / Delivery Lead",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRINYIMAAAACZS_8bQASAQACdt7LZK87HUcFyiabmGEiAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRINYIMAAAACZS_8bQASAQACdt7LZK87HUcFyiabmGEiAAA&from=page-two-signin",
+      "time": "2026-10-07T18:57:35.934Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3680,
+  "totalVerifiedInHistory": 3681,
   "portalBreakdown": {
     "iimjobs": 438,
     "naukri": 572,
@@ -4689,8 +4689,8 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 21
+    "indeed": 22
   },
-  "lastSyncedAt": "2026-10-07T15:22:28.310Z",
-  "lastUpdated": "7/10/2026, 8:52:28 pm"
+  "lastSyncedAt": "2026-10-07T18:57:35.999Z",
+  "lastUpdated": "8/10/2026, 12:27:35 am"
 }
