@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 198,
-  "coldEmailsCount": 175,
+  "totalOutreachItems": 214,
+  "coldEmailsCount": 191,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 56,
+    "initialWindow_0_2_days": 72,
     "underEvaluation_3_4_days": 52,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-08T13:59:36.756Z",
+  "lastUpdated": "2026-10-08T14:47:49.410Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -81,7 +81,7 @@
       "company": "Target Enterprise",
       "title": "Head of UAT & Quality Governance",
       "dispatchedAt": "2026-07-26T14:30:29.614Z",
-      "daysElapsed": 73,
+      "daysElapsed": 74,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -92,7 +92,7 @@
       "company": "Target Enterprise (Verified Hiring)",
       "title": "Transformation Program Manager",
       "dispatchedAt": "2026-07-26T14:30:36.295Z",
-      "daysElapsed": 73,
+      "daysElapsed": 74,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -103,7 +103,7 @@
       "company": "Resource Pro",
       "title": "Service Delivery Manager, India - Only P&C Experience",
       "dispatchedAt": "2026-07-29T14:30:54.527Z",
-      "daysElapsed": 70,
+      "daysElapsed": 71,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -378,7 +378,7 @@
       "company": "IMC",
       "title": "Program Manager || Non IT Project Management || Bangalore",
       "dispatchedAt": "2026-08-20T14:28:14.514Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -697,7 +697,7 @@
       "company": "Freshworks",
       "title": "Head of Talent Acquisition - Leadership Hiring",
       "dispatchedAt": "2026-09-22T14:15:28.398Z",
-      "daysElapsed": 15,
+      "daysElapsed": 16,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -708,7 +708,7 @@
       "company": "Infosys BPM",
       "title": "Senior Vice President - Operations & Delivery",
       "dispatchedAt": "2026-09-22T14:16:38.999Z",
-      "daysElapsed": 15,
+      "daysElapsed": 16,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -719,7 +719,7 @@
       "company": "Zycus Infotech",
       "title": "Head of Global Talent Acquisition",
       "dispatchedAt": "2026-09-22T14:16:46.155Z",
-      "daysElapsed": 15,
+      "daysElapsed": 16,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -730,7 +730,7 @@
       "company": "Happiest Minds",
       "title": "Vice President - Digital Business Services",
       "dispatchedAt": "2026-09-22T14:16:52.543Z",
-      "daysElapsed": 15,
+      "daysElapsed": 16,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -741,7 +741,7 @@
       "company": "Walmart Global Tech",
       "title": "Director of Talent Acquisition - India",
       "dispatchedAt": "2026-09-22T14:16:59.461Z",
-      "daysElapsed": 15,
+      "daysElapsed": 16,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1933,6 +1933,182 @@
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "joseph.sudheer@happiestminds.com",
+      "company": "Happiest Minds Technologies",
+      "title": "Senior Vice President - Talent Acquisition",
+      "dispatchedAt": "2026-10-08T14:22:49.697Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "michael.godin@cgi.com",
+      "company": "CGI India",
+      "title": "Senior Vice President & Business Unit Leader",
+      "dispatchedAt": "2026-10-08T14:22:59.184Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "nirbhay.lumde@cgi.com",
+      "company": "CGI India",
+      "title": "Director - Corporate Talent & HR Programs",
+      "dispatchedAt": "2026-10-08T14:23:08.243Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "abhijit.dubey@nttdata.com",
+      "company": "NTT DATA",
+      "title": "Chief Executive Officer",
+      "dispatchedAt": "2026-10-08T14:23:19.091Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "tanvir.singh@nttdata.com",
+      "company": "NTT DATA India",
+      "title": "Senior Vice President - Talent Acquisition",
+      "dispatchedAt": "2026-10-08T14:23:30.251Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "martin.schroeter@kyndryl.com",
+      "company": "Kyndryl",
+      "title": "Chairman & Chief Executive Officer",
+      "dispatchedAt": "2026-10-08T14:23:40.382Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "lingraju.sawkar@kyndryl.com",
+      "company": "Kyndryl India",
+      "title": "President - Kyndryl India",
+      "dispatchedAt": "2026-10-08T14:23:50.659Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajashree.nambiar@kyndryl.com",
+      "company": "Kyndryl India",
+      "title": "Vice President & Head of Talent Acquisition",
+      "dispatchedAt": "2026-10-08T14:24:12.276Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "raul.fernandez@dxc.com",
+      "company": "DXC Technology",
+      "title": "President & Chief Executive Officer",
+      "dispatchedAt": "2026-10-08T14:25:40.558Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "seema.ambastha@dxc.com",
+      "company": "DXC Technology India",
+      "title": "Managing Director - India Delivery Centre",
+      "dispatchedAt": "2026-10-08T14:25:50.502Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "lokendra.sethi@dxc.com",
+      "company": "DXC Technology India",
+      "title": "Vice President - Human Resources & TA Lead",
+      "dispatchedAt": "2026-10-08T14:25:59.197Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajnish.kumar@capgemini.com",
+      "company": "Capgemini India",
+      "title": "Executive Vice President - Financial Services Delivery",
+      "dispatchedAt": "2026-10-08T14:26:09.009Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pallavi.srivastava@capgemini.com",
+      "company": "Capgemini India",
+      "title": "Vice President - Talent Acquisition India",
+      "dispatchedAt": "2026-10-08T14:26:17.806Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ashwin.yardi@capgemini.com",
+      "company": "Capgemini India",
+      "title": "Chief Executive Officer - India",
+      "dispatchedAt": "2026-10-08T14:26:26.447Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "bala.prasad@tcs.com",
+      "company": "Tata Consultancy Services",
+      "title": "Vice President - Global Head of AI & Automation",
+      "dispatchedAt": "2026-10-08T14:26:36.142Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "srinivas.rao@infosys.com",
+      "company": "Infosys Limited",
+      "title": "Vice President - Digital Workplace Services & ServiceNow",
+      "dispatchedAt": "2026-10-08T14:26:44.712Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
     }
   ],
   "connectionsList": [
@@ -1943,7 +2119,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sangram-guha-6ba27634/",
       "dispatchedAt": "2026-08-20T14:43:16.937Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1955,7 +2131,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/mohammad-shafeen-baba-779415175/",
       "dispatchedAt": "2026-08-20T14:44:37.398Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1967,7 +2143,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sunil-kumar-katthula-712173b0/",
       "dispatchedAt": "2026-08-20T14:46:02.968Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
