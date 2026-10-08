@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3788,
+  "applicationsSubmitted": 3790,
   "appliedRolesList": [
-    {
-      "company": "Cognizant",
-      "title": "Major Incident Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-major-incident-manager-cognizant-hyderabad-chennai-bengaluru-6-to-10-years-280926032281?src=directSearch&sid=17906761866144324&xp=11&px=1",
-      "time": "2026-09-29T10:04:18.700Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Genpact",
-      "title": "ServiceNow Developer-ITOM (Service mapping)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-developer-itom-service-mapping-genpact-hyderabad-gurugram-bengaluru-5-to-10-years-280926031985?src=directSearch&sid=17906761866144324&xp=12&px=1",
-      "time": "2026-09-29T10:04:34.963Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Hitachi Energy",
       "title": "AI Automation Engineer",
@@ -4001,6 +3985,22 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4468685556&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-08T16:57:48.666Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC India",
+      "title": "Manager | Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-senior-manager-pwc-india-pune-bangalore-rural-bengaluru-9-to-14-years-081026051066?src=directSearch&sid=17914805620262048&xp=1&px=1",
+      "time": "2026-10-08T17:29:41.449Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SYConE CPMC Pvt Ltd",
+      "title": "Business head for Cost Management Vertical\nBusiness head for Cost Management Vertical with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472974125&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-08T17:38:27.116Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3788,
+  "totalVerifiedInHistory": 3790,
   "portalBreakdown": {
     "iimjobs": 450,
-    "naukri": 596,
+    "naukri": 597,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 62
+    "linkedin_easy_apply": 63
   },
-  "lastSyncedAt": "2026-10-08T16:57:48.718Z",
-  "lastUpdated": "8/10/2026, 10:27:48 pm"
+  "lastSyncedAt": "2026-10-08T17:38:27.173Z",
+  "lastUpdated": "8/10/2026, 11:08:27 pm"
 }

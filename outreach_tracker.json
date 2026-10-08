@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 262,
-  "coldEmailsCount": 239,
+  "totalOutreachItems": 274,
+  "coldEmailsCount": 251,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 120,
+    "initialWindow_0_2_days": 132,
     "underEvaluation_3_4_days": 52,
     "followUpEligible_5plus_days": 90
   },
-  "lastUpdated": "2026-10-08T16:58:35.399Z",
+  "lastUpdated": "2026-10-08T17:39:32.703Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -114,7 +114,7 @@
       "company": "Foundit Partner",
       "title": "Managing Director - Operations",
       "dispatchedAt": "2026-08-06T17:15:29.146Z",
-      "daysElapsed": 62,
+      "daysElapsed": 63,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2633,6 +2633,138 @@
       "company": "Carelon Global Solutions",
       "title": "Chief Operating Officer & Head of Delivery",
       "dispatchedAt": "2026-10-08T16:41:05.965Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sujatha.das@carelon.com",
+      "company": "Carelon Global Solutions",
+      "title": "Director - Talent Acquisition India",
+      "dispatchedAt": "2026-10-08T17:21:40.998Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "amit.mookim@iqvia.com",
+      "company": "IQVIA India",
+      "title": "Managing Director - South Asia Operations",
+      "dispatchedAt": "2026-10-08T17:21:50.421Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rashmi.joseph@iqvia.com",
+      "company": "IQVIA India",
+      "title": "Head of Leadership Recruitment",
+      "dispatchedAt": "2026-10-08T17:22:05.847Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sanjay.vyas@parexel.com",
+      "company": "Parexel India",
+      "title": "Senior Vice President & Global Head of Delivery Operations",
+      "dispatchedAt": "2026-10-08T17:22:23.465Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "vikram.tandon@target.com",
+      "company": "Target India",
+      "title": "Vice President - Global Capabilities & Operations",
+      "dispatchedAt": "2026-10-08T17:22:32.503Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "prashant.sharma@walmart.com",
+      "company": "Walmart Global Tech",
+      "title": "Vice President - Retail Operations Platforms",
+      "dispatchedAt": "2026-10-08T17:22:44.180Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ankur.mittal@lowes.com",
+      "company": "Lowe's India",
+      "title": "Vice President - Technology & Operations Delivery",
+      "dispatchedAt": "2026-10-08T17:22:53.178Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "monika.gupta@lowes.com",
+      "company": "Lowe's India",
+      "title": "Director - Talent Acquisition",
+      "dispatchedAt": "2026-10-08T17:23:02.738Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "saurabh.srivastava@levistrauss.com",
+      "company": "Levi Strauss India",
+      "title": "Head of Global GCC Delivery & Transformation",
+      "dispatchedAt": "2026-10-08T17:24:57.851Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "shreya.kapoor@levistrauss.com",
+      "company": "Levi Strauss India",
+      "title": "Senior Talent Acquisition Lead",
+      "dispatchedAt": "2026-10-08T17:25:06.835Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "gautam.bali@nike.com",
+      "company": "Nike India Tech Center",
+      "title": "Senior Director - Enterprise Program Delivery",
+      "dispatchedAt": "2026-10-08T17:25:16.553Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pallavi.rao@lululemon.com",
+      "company": "Lululemon India GCC",
+      "title": "Director - Enterprise Operations & Technology Delivery",
+      "dispatchedAt": "2026-10-08T17:25:25.138Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
