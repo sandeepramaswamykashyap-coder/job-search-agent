@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3701,
+  "applicationsSubmitted": 3702,
   "appliedRolesList": [
-    {
-      "company": "Eagleton The Golf Resort",
-      "title": "Director Marketing and Sales-DOSM",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-marketing-and-sales-dosm-eagleton-the-golf-resort-bengaluru-18-to-22-years-280926009640?src=directSearch&sid=17905838741155185&xp=5&px=1",
-      "time": "2026-09-28T08:24:48.125Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Celebal Technologies - Senior Technical Program Manager - Databricks",
@@ -4001,6 +3993,14 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReqtrQAAAACZS_8bQAQAQBDRdZTkpXRqwJo93_LeAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReqtrQAAAACZS_8bQAQAQBDRdZTkpXRqwJo93_LeAAA&from=page-two-signin",
       "time": "2026-10-08T05:59:53.360Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Kreditbee - Senior Manager - Business Loans Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/kreditbee-senior-manager-business-loans-operations-1738547?ref=sp_br&jobPos=7",
+      "time": "2026-10-08T07:14:23.306Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3701,
+  "totalVerifiedInHistory": 3702,
   "portalBreakdown": {
-    "iimjobs": 439,
+    "iimjobs": 440,
     "naukri": 585,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4691,6 +4691,6 @@
     "naukri_nvite": 1,
     "indeed": 26
   },
-  "lastSyncedAt": "2026-10-08T05:59:53.424Z",
-  "lastUpdated": "8/10/2026, 11:29:53 am"
+  "lastSyncedAt": "2026-10-08T07:14:23.347Z",
+  "lastUpdated": "8/10/2026, 12:44:23 pm"
 }
