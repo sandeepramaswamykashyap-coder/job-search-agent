@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3836,
+  "applicationsSubmitted": 3838,
   "appliedRolesList": [
-    {
-      "company": "Leading Client",
-      "title": "SM - General Securities Facilities",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sm-general-securities-facilities-golden-opportunities-pvt-ltd-hyderabad-bengaluru-14-to-20-years-300926903115?src=directSearch&sid=17907479215256552&xp=11&px=1",
-      "time": "2026-09-30T05:59:12.189Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "AI Product Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-product-analyst-tata-consultancy-services-bengaluru-6-to-8-years-300926005511?src=directSearch&sid=17907479553749584&xp=3&px=1",
-      "time": "2026-09-30T05:59:32.837Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Ecolab - Senior Manager - Accounts Payable",
@@ -4001,6 +3985,22 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4446581455&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-09T00:38:03.641Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "BigCity Promotions",
+      "title": "Head – Client Servicing (Loyalty Program)\nHead – Client Servicing (Loyalty Program) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4437242836&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-10-09T01:12:48.493Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Accenture in India",
+      "title": "GN-I&E CEO Advisory - Consultant\nGN-I&E CEO Advisory - Consultant with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-09T01:13:08.310Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3836,
+  "totalVerifiedInHistory": 3838,
   "portalBreakdown": {
     "iimjobs": 450,
     "naukri": 603,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 103
+    "linkedin_easy_apply": 105
   },
-  "lastSyncedAt": "2026-10-09T00:38:03.693Z",
-  "lastUpdated": "9/10/2026, 6:08:03 am"
+  "lastSyncedAt": "2026-10-09T01:13:08.348Z",
+  "lastUpdated": "9/10/2026, 6:43:08 am"
 }
