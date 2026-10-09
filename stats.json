@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3838,
+  "applicationsSubmitted": 3841,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ecolab - Senior Manager - Accounts Payable",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ecolab-senior-manager-accounts-payable-1736930?ref=sp_br_prm&jobPos=1",
-      "time": "2026-09-30T06:01:01.330Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Marketing Manager - Sports/Athletics/Lifestyle",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-marketing-manager-sports-athletics-lifestyle-1736910?ref=sp_prm&jobPos=4",
-      "time": "2026-09-30T06:01:07.538Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ecolab - Senior Manager - Record To Report",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ecolab-senior-manager-record-to-report-1736906?ref=sp_br_prm&jobPos=6",
-      "time": "2026-09-30T06:01:13.775Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Ecolab - AP Transformation & Technology Lead - Finance",
@@ -4001,6 +3977,30 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
       "time": "2026-10-09T01:13:08.310Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Job Seeks 4U Consultancy Services",
+      "title": "Hiring For Supply Chain - S&OP - Quote To Cash!!!",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hiring-for-supply-chain-s-op-quote-to-cash-seeks-4u-consultancy-services-pune-bengaluru-14-to-24-years-081026043302?src=directSearch&sid=17915093494672426&xp=11&px=1",
+      "time": "2026-10-09T01:29:40.311Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CodeGama",
+      "title": "Operations Executive\nOperations Executive",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464526621&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T01:37:27.430Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "State Street",
+      "title": "Global Head of Financing and Portfolio Solutions (FPS) Operations, Senior Managing Director\nGlobal Head of Financing and Portfolio Solutions (FPS) Operations, Senior Managing Director with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476140165&f_AL=true&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T01:38:16.278Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3838,
+  "totalVerifiedInHistory": 3841,
   "portalBreakdown": {
     "iimjobs": 450,
-    "naukri": 603,
+    "naukri": 604,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 105
+    "linkedin_easy_apply": 107
   },
-  "lastSyncedAt": "2026-10-09T01:13:08.348Z",
-  "lastUpdated": "9/10/2026, 6:43:08 am"
+  "lastSyncedAt": "2026-10-09T01:38:16.364Z",
+  "lastUpdated": "9/10/2026, 7:08:16 am"
 }
