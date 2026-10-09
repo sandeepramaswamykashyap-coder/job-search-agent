@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3882,
+  "applicationsSubmitted": 3884,
   "appliedRolesList": [
-    {
-      "company": "Syneos Health",
-      "title": "Director Clinical development operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-clinical-development-operations-syneos-health-hyderabad-delhi-ncr-bengaluru-15-to-28-years-300926035722?src=directSearch&sid=17907808497131619&xp=3&px=1",
-      "time": "2026-09-30T15:07:43.833Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Primesoft Solutions",
-      "title": "Business Development Manager - Digital Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-development-manager-digital-transformation-primesoft-solutions-mumbai-hyderabad-bengaluru-8-to-13-years-170826017484?src=directSearch&sid=1790780956970331&xp=10&px=1",
-      "time": "2026-09-30T15:09:50.680Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Shadowfax Technologies",
       "title": "Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
       "time": "2026-10-09T06:19:33.325Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amazon - Program Manager - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amazon-program-manager-data-governance-1738855?ref=sp_br&jobPos=4",
+      "time": "2026-10-09T07:03:38.882Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant Manager/Manager - Complex Valuation - Banking/Financial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-manager-manager-complex-valuation-banking-financial-services-1738849?ref=sp&jobPos=5",
+      "time": "2026-10-09T07:04:30.276Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3882,
+  "totalVerifiedInHistory": 3884,
   "portalBreakdown": {
-    "iimjobs": 454,
+    "iimjobs": 456,
     "naukri": 607,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 29,
     "linkedin_easy_apply": 141
   },
-  "lastSyncedAt": "2026-10-09T06:19:33.362Z",
-  "lastUpdated": "9/10/2026, 11:49:33 am"
+  "lastSyncedAt": "2026-10-09T07:04:30.322Z",
+  "lastUpdated": "9/10/2026, 12:34:30 pm"
 }
