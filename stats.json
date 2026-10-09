@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3901,
+  "applicationsSubmitted": 3903,
   "appliedRolesList": [
-    {
-      "company": "PwC",
-      "title": "Test Manager AI Architect / Manager (Bangalore)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-test-manager-ai-architect-manager-bangalore-pwc-bengaluru-9-to-14-years-030826003227?src=directSearch&sid=17908167358858323&xp=7&px=1",
-      "time": "2026-10-01T01:06:06.387Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Genpact",
-      "title": "Senior Technical Architect - Banking and Automation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-technical-architect-banking-and-automation-genpact-hyderabad-chennai-bengaluru-15-to-24-years-270826030203?src=directSearch&sid=17908167358858323&xp=13&px=1",
-      "time": "2026-10-01T01:06:32.903Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Computacenter",
       "title": "DLP and Microsoft Purview Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-accounts-payable-team-leader-supervisor-careernet-bengaluru-7-to-10-years-011026023933?src=directSearch&sid=17915494069408716&xp=13&px=1",
       "time": "2026-10-09T12:37:17.923Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "XYZ Corporation",
+      "title": "Urgent Opening | Data Delivery Manager | MNC",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-urgent-opening-data-delivery-manager-mnc-clarity-consulting-pune-bengaluru-delhi-ncr-12-to-20-years-091026033093?src=directSearch&sid=17915514004554110&xp=12&px=1",
+      "time": "2026-10-09T13:10:21.595Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Senior Program Leader, Global High-Risk Escalations",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSBuA_UAAAACZV3hMgALAQBtDDmCjKGCHsgAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSBuA_UAAAACZV3hMgALAQBtDDmCjKGCHsgAAA&from=page-two-signin",
+      "time": "2026-10-09T13:28:52.809Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3901,
+  "totalVerifiedInHistory": 3903,
   "portalBreakdown": {
     "iimjobs": 459,
-    "naukri": 614,
+    "naukri": 615,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 29,
+    "indeed": 30,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T12:37:17.968Z",
-  "lastUpdated": "9/10/2026, 6:07:17 pm"
+  "lastSyncedAt": "2026-10-09T13:28:52.873Z",
+  "lastUpdated": "9/10/2026, 6:58:52 pm"
 }
