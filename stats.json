@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3909,
+  "applicationsSubmitted": 3910,
   "appliedRolesList": [
-    {
-      "company": "ABB",
-      "title": "Head of Product Development For Industrial Digital Solutions, Motion",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-of-product-development-for-industrial-digital-solutions-motion-abb-india-limited-bengaluru-8-to-12-years-011026031029?src=directSearch&sid=17908594747329120&xp=2&px=1",
-      "time": "2026-10-01T12:58:27.735Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Capgemini",
       "title": "Test Lead/Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-resource-management-rmg-demand-plan-allocation-capacity-planning-ey-gurugram-bengaluru-7-to-12-years-091026036749?src=directSearch&sid=17915686048919315&xp=10&px=1",
       "time": "2026-10-09T17:57:09.237Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operations - Gold Processing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-operations-gold-processing-1732337?ref=sp&jobPos=18",
+      "time": "2026-10-09T18:31:51.347Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3909,
+  "totalVerifiedInHistory": 3910,
   "portalBreakdown": {
-    "iimjobs": 459,
+    "iimjobs": 460,
     "naukri": 619,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 32,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T17:57:09.282Z",
-  "lastUpdated": "9/10/2026, 11:27:09 pm"
+  "lastSyncedAt": "2026-10-09T18:31:51.397Z",
+  "lastUpdated": "10/10/2026, 12:01:51 am"
 }
