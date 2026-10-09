@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3887,
+  "applicationsSubmitted": 3894,
   "appliedRolesList": [
-    {
-      "company": "Coinbase",
-      "title": "Operations Manager, ADGM",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8207241",
-      "time": "2026-09-30T15:44:52.047Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Big 4",
-      "title": "It Program Manager/ BIG 4/ Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-program-manager-big-4-bangalore-hr-india-solutions-bengaluru-8-to-13-years-300926907606?src=directSearch&sid=17907844990388775&xp=1&px=1",
-      "time": "2026-09-30T16:08:33.260Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Technozis",
-      "title": "QA Manager - Servicenow CMDB (arun@technozis.com)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-qa-manager-servicenow-cmdb-arun-technozis-com-dream-jobs-staffing-solution-bengaluru-7-to-12-years-300926035986?src=directSearch&sid=17907846195238716&xp=9&px=1",
-      "time": "2026-09-30T16:10:40.318Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Crescendo Global",
-      "title": "Transformation Lead / AI Project Manager - GenAI, Change Adoption",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-transformation-lead-ai-project-manager-genai-change-adoption-crescendo-global-leadership-hiring-india-pune-gurugram-bengaluru-7-to-12-years-300926036362?src=directSearch&sid=17907882338818782&xp=3&px=1",
-      "time": "2026-09-30T17:10:48.050Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "STL Digital",
-      "title": "CMDB - Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-cmdb-project-manager-stl-digital-bengaluru-8-to-12-years-300926036952?src=directSearch&sid=17907953669662462&xp=6&px=1",
-      "time": "2026-09-30T19:09:41.285Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Associate Manager - M&A",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-manager-m-a-ey-kochi-bengaluru-delhi-ncr-6-to-8-years-300926036768?src=directSearch&sid=17907955061125207&xp=13&px=1",
-      "time": "2026-09-30T19:12:16.712Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Director - Technical Program Management - Telecom",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-director-technical-program-management-telecom-1733953?ref=sp&jobPos=18",
-      "time": "2026-09-30T19:13:56.103Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "TVM Signalling And Transportaion Systems",
       "title": "General Manager- Factory Operations/Head",
@@ -4001,6 +3945,62 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-control-life-insurance-ca-1738890?ref=sp&jobPos=6",
       "time": "2026-10-09T08:47:42.528Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EXL",
+      "title": "1848749-Senior Manager\n1848749-Senior Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475163729&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T09:35:31.059Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Entrust CFO Services",
+      "title": "Senior Manager - Insurance Operations\nSenior Manager - Insurance Operations",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471517849&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T09:36:28.171Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Northern Trust",
+      "title": "NTAM Invest Ops Blr, Sr Csltnt\nNTAM Invest Ops Blr, Sr Csltnt with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T09:37:17.556Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Time Hack Consulting",
+      "title": "Product Manager - PMS/AIF\nProduct Manager - PMS/AIF",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471517849&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T09:38:07.032Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Larsen & Toubro",
+      "title": "Program Leader\nProgram Leader with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T09:38:55.661Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "VMC Soft Technologies, Inc",
+      "title": "Technical Project Manager (Banking / Insurance / Wealth Management / Financial Services)\nTechnical Project Manager (Banking / Insurance / Wealth Management / Financial Services)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471517849&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T09:39:44.339Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "MUFG",
+      "title": "Assistant Vice President-BPR Process Excellence\nAssistant Vice President-BPR Process Excellence with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T09:40:33.428Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3887,
+  "totalVerifiedInHistory": 3894,
   "portalBreakdown": {
     "iimjobs": 458,
     "naukri": 608,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 141
+    "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T08:47:42.571Z",
-  "lastUpdated": "9/10/2026, 2:17:42 pm"
+  "lastSyncedAt": "2026-10-09T09:40:33.484Z",
+  "lastUpdated": "9/10/2026, 3:10:33 pm"
 }
