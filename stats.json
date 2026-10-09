@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3898,
+  "applicationsSubmitted": 3900,
   "appliedRolesList": [
-    {
-      "company": "BNP Paribas",
-      "title": "Operations - Transaction Monitoring AML  Associate / AM",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operations-transaction-monitoring-aml-associate-am-bnp-paribas-chennai-bengaluru-mumbai-all-areas-3-to-8-years-300926033800?src=directSearch&sid=17907991679456061&xp=11&px=1",
-      "time": "2026-09-30T20:14:24.050Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Estuate Software",
-      "title": "Hr Operations Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hr-operations-analyst-estuate-software-bengaluru-1-to-2-years-300926003398?src=directSearch&sid=17907991679456061&xp=12&px=1",
-      "time": "2026-09-30T20:14:35.543Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Randstad Digital",
       "title": "Project Coordinator",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-principal-r-d-product-dvl-engineer-te-connectivity-india-private-limited-bengaluru-12-to-17-years-081026947302?src=directSearch&sid=17915443700333195&xp=11&px=1",
       "time": "2026-10-09T11:13:31.030Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IT MNC",
+      "title": "Hiring Sr Manager Genesys",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hiring-sr-manager-genesys-sigma-allied-services-hyderabad-pune-bengaluru-14-to-22-years-091026028738?src=directSearch&sid=17915475484759051&xp=12&px=1",
+      "time": "2026-10-09T12:06:22.845Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alstom Transportation",
+      "title": "Project Planning Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-planning-manager-alstom-transport-india-ltd-bengaluru-10-to-12-years-091026928495?src=directSearch&sid=17915478146899167&xp=12&px=1",
+      "time": "2026-10-09T12:10:45.788Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3898,
+  "totalVerifiedInHistory": 3900,
   "portalBreakdown": {
     "iimjobs": 459,
-    "naukri": 611,
+    "naukri": 613,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 29,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T11:13:31.069Z",
-  "lastUpdated": "9/10/2026, 4:43:31 pm"
+  "lastSyncedAt": "2026-10-09T12:10:45.840Z",
+  "lastUpdated": "9/10/2026, 5:40:45 pm"
 }
