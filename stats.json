@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3884,
+  "applicationsSubmitted": 3885,
   "appliedRolesList": [
-    {
-      "company": "Shadowfax Technologies",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-shadowfax-technologies-bengaluru-mumbai-all-areas-4-to-9-years-300926034366?src=directSearch&sid=17907810227522605&xp=13&px=1",
-      "time": "2026-09-30T15:11:04.024Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "PwC",
       "title": "Workday Financials Delivery Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/assistant-manager-manager-complex-valuation-banking-financial-services-1738849?ref=sp&jobPos=5",
       "time": "2026-10-09T07:04:30.276Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Axtria",
+      "title": "DevSecOps Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-devsecops-manager-axtria-india-private-limited-bengaluru-5-to-10-years-081026947057?src=directSearch&sid=17915326214793317&xp=13&px=1",
+      "time": "2026-10-09T07:57:25.898Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3884,
+  "totalVerifiedInHistory": 3885,
   "portalBreakdown": {
     "iimjobs": 456,
-    "naukri": 607,
+    "naukri": 608,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 29,
     "linkedin_easy_apply": 141
   },
-  "lastSyncedAt": "2026-10-09T07:04:30.322Z",
-  "lastUpdated": "9/10/2026, 12:34:30 pm"
+  "lastSyncedAt": "2026-10-09T07:57:25.946Z",
+  "lastUpdated": "9/10/2026, 1:27:25 pm"
 }
