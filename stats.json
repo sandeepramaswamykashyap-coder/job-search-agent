@@ -1,95 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3841,
+  "applicationsSubmitted": 3852,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ecolab - AP Transformation & Technology Lead - Finance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ecolab-ap-transformation-and-technology-lead-finance-1736916?ref=sp_br_prm&jobPos=1",
-      "time": "2026-09-30T06:01:46.687Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Algoleap - ServiceNow Solution Architect",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/algoleap-servicenow-solution-architect-1736893?ref=sp&jobPos=2",
-      "time": "2026-09-30T06:02:07.193Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tredence",
-      "title": "Senior Manager, Sales Development",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-sales-development-tredence-bengaluru-12-to-16-years-300926005581",
-      "time": "2026-09-30T06:56:24.656Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HR India Solutions",
-      "title": "PMO - Wealth Management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-pmo-wealth-management-hr-india-solutions-bengaluru-4-to-9-years-300926906918?src=directSearch&sid=17907514933864665&xp=3&px=1",
-      "time": "2026-09-30T06:58:27.625Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading MNC in India",
-      "title": "Director - Data Center Operation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-data-center-operation-freelancer-pune-bengaluru-delhi-ncr-5-to-10-years-300926006054?src=directSearch&sid=17907515815428392&xp=13&px=1",
-      "time": "2026-09-30T07:00:02.526Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "SG Analytics",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-sg-analytics-bengaluru-1-to-5-years-300926003922?src=directSearch&sid=17907516635543629&xp=11&px=1",
-      "time": "2026-09-30T07:01:56.707Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ashirvad Pipes",
-      "title": "Manager - IT",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-it-ashirvad-pipes-bengaluru-10-to-15-years-300926001177?src=directSearch&sid=17907517264715908&xp=6&px=1",
-      "time": "2026-09-30T07:02:44.106Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Capgemini - Senior Manager/Program Manager - Digital Sales/Marketing & Aftersale",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/capgemini-senior-manager-program-manager-digital-sales-marketing-and-aftersales-transformation-1736978?ref=sp_br_prm&jobPos=2",
-      "time": "2026-09-30T07:03:27.386Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Unisys - Senior Manager - Client Project Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/unisys-senior-manager-client-project-management-1736949?ref=sp_br&jobPos=18",
-      "time": "2026-09-30T07:03:33.713Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Lead Technical Program Manager - Commercial & Investment Bank",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-lead-technical-program-manager-commercial-and-investment-bank-technology-team-1736955?ref=sp_br&jobPos=13",
-      "time": "2026-09-30T07:03:48.267Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vice President - Finance & Accounting Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vice-president-finance-and-accounting-transformation-1736996?ref=sp&jobPos=14",
-      "time": "2026-09-30T07:04:43.384Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Magicpin - Program Manager - Business Strategic Development & Sales",
@@ -4001,6 +3913,94 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476140165&f_AL=true&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-09T01:38:16.278Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Vayuz Technologies",
+      "title": "SAP SuccessFactors Technical Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-successfactors-technical-project-manager-vayuz-technologies-pune-gurugram-bengaluru-10-to-15-years-081026507436?src=directSearch&sid=17915135561321264&xp=13&px=1",
+      "time": "2026-10-09T02:40:00.479Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pegasystems",
+      "title": "Director of Consulting\nDirector of Consulting with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:44:36.497Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevation Capital",
+      "title": "Vice President of Product Management\nVice President of Product Management",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473217759&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:45:25.826Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Indegene",
+      "title": "Senior Operations Manager\nSenior Operations Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474249326&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:46:23.229Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Broadridge India",
+      "title": "Associate Vice President\nAssociate Vice President with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471847516&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:47:12.179Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Aceic Design Technologies",
+      "title": "Chief Technical Officer\nChief Technical Officer",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474249326&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:48:01.420Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Allegis Global Solutions",
+      "title": "Program Manager (MSP)\nProgram Manager (MSP) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:48:58.673Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SourcingXPress",
+      "title": "Program Manager\nProgram Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4463429417&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-10-09T02:49:47.568Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cyient Semiconductors",
+      "title": "Semiconductor Program Manager – SoC / ASIC Delivery\nSemiconductor Program Manager – SoC / ASIC Delivery",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:50:36.058Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Apexon",
+      "title": "Transformation Program Manager– Life Sciences\nTransformation Program Manager– Life Sciences with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455790925&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T02:51:33.693Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "QA Program Manager, Global Shared Services (GSS) Quality, Content & Learning (QCL)\nQA Program Manager, Global Shared Services (GSS) Quality, Content & Learning (QCL) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474443353&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-10-09T02:51:59.667Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3841,
+  "totalVerifiedInHistory": 3852,
   "portalBreakdown": {
     "iimjobs": 450,
-    "naukri": 604,
+    "naukri": 605,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 107
+    "linkedin_easy_apply": 117
   },
-  "lastSyncedAt": "2026-10-09T01:38:16.364Z",
-  "lastUpdated": "9/10/2026, 7:08:16 am"
+  "lastSyncedAt": "2026-10-09T02:51:59.704Z",
+  "lastUpdated": "9/10/2026, 8:21:59 am"
 }
