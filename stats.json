@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3894,
+  "applicationsSubmitted": 3895,
   "appliedRolesList": [
-    {
-      "company": "TVM Signalling And Transportaion Systems",
-      "title": "General Manager- Factory Operations/Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-general-manager-factory-operations-head-tvm-signalling-and-transportaion-systems-bengaluru-14-to-20-years-300926033726?src=directSearch&sid=17907991679456061&xp=2&px=1",
-      "time": "2026-09-30T20:13:02.217Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "T&N Business Services",
       "title": "State Head",
@@ -4001,6 +3993,14 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-09T09:40:33.428Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Supreme Consulting",
+      "title": "Python Engineer – Agentic AI LLMs, RAG architectures,",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-python-engineer-agentic-ai-llms-rag-architectures-supreme-consulting-hyderabad-bengaluru-8-to-12-years-091026924512?src=directSearch&sid=17915399549463654&xp=6&px=1",
+      "time": "2026-10-09T09:59:42.408Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3894,
+  "totalVerifiedInHistory": 3895,
   "portalBreakdown": {
     "iimjobs": 458,
-    "naukri": 608,
+    "naukri": 609,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 29,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T09:40:33.484Z",
-  "lastUpdated": "9/10/2026, 3:10:33 pm"
+  "lastSyncedAt": "2026-10-09T09:59:42.458Z",
+  "lastUpdated": "9/10/2026, 3:29:42 pm"
 }
