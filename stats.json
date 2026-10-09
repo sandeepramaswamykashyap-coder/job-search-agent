@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3852,
+  "applicationsSubmitted": 3859,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Magicpin - Program Manager - Business Strategic Development & Sales",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/magicpin-program-manager-business-strategic-development-and-sales-1737020?ref=sp_br&jobPos=16",
-      "time": "2026-09-30T08:07:19.305Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Unisys - Associate - Principal Service Management - MIM/Problem/Change Managemen",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/unisys-associate-principal-service-management-mim-problem-change-management-1736960?ref=sp_br&jobPos=1",
-      "time": "2026-09-30T08:07:54.356Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Business Management - Specialty Chemicals",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-business-management-specialty-chemicals-1737022?ref=sp&jobPos=10",
-      "time": "2026-09-30T08:08:00.571Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Procurement Transformation - Consulting Firm",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-procurement-transformation-consulting-firm-1737023?ref=sp&jobPos=14",
-      "time": "2026-09-30T08:08:19.431Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Deputy Manager/Manager - Business Finance - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/deputy-manager-manager-business-finance-ca-1737005?ref=sp&jobPos=6",
-      "time": "2026-09-30T08:08:35.504Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tredence",
-      "title": "Senior Manager, Revenue Marketing | North America",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-revenue-marketing-north-america-tredence-bengaluru-12-to-16-years-300926005581",
-      "time": "2026-09-30T09:02:30.497Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Nation With Namo - Program Manager - Talent Development Initiatives",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/nation-with-namo-program-manager-talent-development-initiatives-1736897?ref=sp_prm&jobPos=4",
-      "time": "2026-09-30T09:08:05.934Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "98thPercentile - Head - Sales & Operations",
@@ -4001,6 +3945,62 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474443353&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
       "time": "2026-10-09T02:51:59.667Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Flipkart",
+      "title": "Group Product Manager\nGroup Product Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T03:25:07.888Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Barclays",
+      "title": "Director\nDirector with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461968162&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T03:25:57.894Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Swiggy",
+      "title": "General Manager - Strategy & Investment\nGeneral Manager - Strategy & Investment with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472461322&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T03:26:56.418Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Awign",
+      "title": "General Manager Operations – AI Data Annotation Projects\nGeneral Manager Operations – AI Data Annotation Projects with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473847979&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T03:27:45.508Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Skild AI",
+      "title": "Program Manager - Data Collection & Annotation - India\nProgram Manager - Data Collection & Annotation - India",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455790925&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T03:28:43.303Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "BizEdge Retail",
+      "title": "Co-Founder & Business Head with Investment - FMCG (Organized Trade)\nCo-Founder & Business Head with Investment - FMCG (Organized Trade)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-10-09T03:29:49.623Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IndiVillage Tech Solutions",
+      "title": "AVP - Operations\nAVP - Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464872714&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T03:30:56.699Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3852,
+  "totalVerifiedInHistory": 3859,
   "portalBreakdown": {
     "iimjobs": 450,
     "naukri": 605,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 117
+    "linkedin_easy_apply": 124
   },
-  "lastSyncedAt": "2026-10-09T02:51:59.704Z",
-  "lastUpdated": "9/10/2026, 8:21:59 am"
+  "lastSyncedAt": "2026-10-09T03:30:56.752Z",
+  "lastUpdated": "9/10/2026, 9:00:56 am"
 }
