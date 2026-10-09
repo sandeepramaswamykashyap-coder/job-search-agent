@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3900,
+  "applicationsSubmitted": 3901,
   "appliedRolesList": [
-    {
-      "company": "Randstad Digital",
-      "title": "Project Coordinator",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-coordinator-randstad-bengaluru-2-to-7-years-120826041801?src=directSearch&sid=17908166862038071&xp=7&px=1",
-      "time": "2026-10-01T01:05:03.782Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "PwC",
       "title": "Test Manager AI Architect / Manager (Bangalore)",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-project-planning-manager-alstom-transport-india-ltd-bengaluru-10-to-12-years-091026928495?src=directSearch&sid=17915478146899167&xp=12&px=1",
       "time": "2026-10-09T12:10:45.788Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Careernet",
+      "title": "Accounts Payable Team Leader / Supervisor",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-accounts-payable-team-leader-supervisor-careernet-bengaluru-7-to-10-years-011026023933?src=directSearch&sid=17915494069408716&xp=13&px=1",
+      "time": "2026-10-09T12:37:17.923Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3900,
+  "totalVerifiedInHistory": 3901,
   "portalBreakdown": {
     "iimjobs": 459,
-    "naukri": 613,
+    "naukri": 614,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 29,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T12:10:45.840Z",
-  "lastUpdated": "9/10/2026, 5:40:45 pm"
+  "lastSyncedAt": "2026-10-09T12:37:17.968Z",
+  "lastUpdated": "9/10/2026, 6:07:17 pm"
 }
