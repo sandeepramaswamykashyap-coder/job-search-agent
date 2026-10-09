@@ -1,79 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3826,
+  "applicationsSubmitted": 3835,
   "appliedRolesList": [
-    {
-      "company": "TE Connectivity",
-      "title": "Lead Management Analyst - Digital Platform & Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-management-analyst-digital-platform-operations-te-connectivity-bengaluru-3-to-5-years-260826921836",
-      "time": "2026-09-29T14:26:04.452Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Commonwealth Bank of Australia, India",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-commonwealth-bank-of-australia-india-bengaluru-15-to-20-years-290926041728?src=directSearch&sid=17907190128611836&xp=12&px=1",
-      "time": "2026-09-29T21:57:29.094Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "AXA Global Business Services",
-      "title": "Assistant Manager, Chief Accounting & Capital Office",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-manager-chief-accounting-capital-office-axa-global-business-services-private-limited-bengaluru-4-to-8-years-290926934898?src=directSearch&sid=17907224198117630&xp=2&px=1",
-      "time": "2026-09-29T22:53:56.910Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ashirvad Pipes",
-      "title": "Manager - GTM Applications",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-gtm-applications-ashirvad-pipes-bengaluru-10-to-12-years-300926001299?src=directSearch&sid=17907393785424417&xp=9&px=1",
-      "time": "2026-09-30T03:36:54.967Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Legal Operations Manager, Vendor & Spend Management",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8129321",
-      "time": "2026-09-30T05:31:02.791Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Legal Operations Manager, Vendor & Spend Management",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8129321",
-      "time": "2026-09-30T05:31:03.048Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Vice President, Revenue Operations",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8067367",
-      "time": "2026-09-30T05:41:02.698Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Vice President, Revenue Operations",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8067367",
-      "time": "2026-09-30T05:41:02.934Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "DIRECTOR - Service Delivery",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-service-delivery-happiest-minds-technologies-bengaluru-16-to-20-years-300926004472?src=directSearch&sid=17907476397377940&xp=9&px=1",
-      "time": "2026-09-30T05:54:49.208Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognizant",
       "title": "Sr Analyst",
@@ -4001,6 +3929,78 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472974125&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
       "time": "2026-10-08T23:36:01.428Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Food Industry",
+      "title": "Head of Offline (Founder Mindset)- Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-offline-founder-mindset-bangalore-executives-corridor-bengaluru-10-to-16-years-071026027351?src=directSearch&sid=17915043225482875&xp=7&px=1",
+      "time": "2026-10-09T00:05:53.260Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "dAIgnostiX",
+      "title": "Head/AVP – Operations Excellence & Business Intelligence\nHead/AVP – Operations Excellence & Business Intelligence",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461068962&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T00:09:30.552Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "State Street",
+      "title": "Global Head of Cross-product Operations, Managing Director\nGlobal Head of Cross-product Operations, Managing Director with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472556438&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T00:10:20.387Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Refold AI",
+      "title": "Technical Program Manager\nTechnical Program Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473246375&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T00:11:17.011Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Networth Corp",
+      "title": "Technical Program Manager\nTechnical Program Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4458257468&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T00:12:14.751Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Senior Program Manager, APAC Doc Processing\nSenior Program Manager, APAC Doc Processing with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474443353&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-10-09T00:12:40.530Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Visa",
+      "title": "Director, Data Engineering",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4458257468&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=150",
+      "time": "2026-10-09T00:13:29.337Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cyient",
+      "title": "Program Manager - Medical Devices\nProgram Manager - Medical Devices with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474443353&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=50",
+      "time": "2026-10-09T00:13:55.412Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Freshworks",
+      "title": "Corporate Strategy Manager (Consulting & Strategy)\nCorporate Strategy Manager (Consulting & Strategy) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474651472&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
+      "time": "2026-10-09T00:14:36.582Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3826,
+  "totalVerifiedInHistory": 3835,
   "portalBreakdown": {
     "iimjobs": 450,
-    "naukri": 602,
+    "naukri": 603,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 94
+    "linkedin_easy_apply": 102
   },
-  "lastSyncedAt": "2026-10-08T23:36:01.481Z",
-  "lastUpdated": "9/10/2026, 5:06:01 am"
+  "lastSyncedAt": "2026-10-09T00:14:36.624Z",
+  "lastUpdated": "9/10/2026, 5:44:36 am"
 }
