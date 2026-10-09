@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3907,
+  "applicationsSubmitted": 3909,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Manager -P and U- AMI - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-p-and-u-ami-manager-ey-noida-kolkata-bengaluru-8-to-13-years-011026034940?src=directSearch&sid=17908594227941725&xp=2&px=1",
-      "time": "2026-10-01T12:57:20.245Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Business Transformation - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-transformation-manager-ey-bengaluru-8-to-13-years-200526043152?src=directSearch&sid=17908594227941725&xp=5&px=1",
-      "time": "2026-10-01T12:57:38.356Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ABB",
       "title": "Head of Product Development For Industrial Digital Solutions, Motion",
@@ -4001,6 +3985,22 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSFLZtsAAAACZV3hMgAQAQABX20gRY1Ll1hZxEWVCAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSFLZtsAAAACZV3hMgAQAQABX20gRY1Ll1hZxEWVCAAA&from=page-two-signin",
       "time": "2026-10-09T16:54:40.886Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Talent Corner Hr Services",
+      "title": "Senior manager - power market and operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-power-market-and-operations-talent-corner-hr-services-bengaluru-5-to-8-years-091026036651?src=directSearch&sid=17915683189185138&xp=5&px=1",
+      "time": "2026-10-09T17:52:40.291Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Resource management/RMG/Demand plan, allocation, capacity planning,",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-resource-management-rmg-demand-plan-allocation-capacity-planning-ey-gurugram-bengaluru-7-to-12-years-091026036749?src=directSearch&sid=17915686048919315&xp=10&px=1",
+      "time": "2026-10-09T17:57:09.237Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3907,
+  "totalVerifiedInHistory": 3909,
   "portalBreakdown": {
     "iimjobs": 459,
-    "naukri": 617,
+    "naukri": 619,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 32,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T16:54:40.940Z",
-  "lastUpdated": "9/10/2026, 10:24:40 pm"
+  "lastSyncedAt": "2026-10-09T17:57:09.282Z",
+  "lastUpdated": "9/10/2026, 11:27:09 pm"
 }
