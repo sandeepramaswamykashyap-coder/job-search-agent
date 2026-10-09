@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-09T16:38:37.331Z",
+  "lastUpdated": "2026-10-09T17:13:44.704Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2556,7 +2556,7 @@
       "company": "Splunk India",
       "title": "Vice President - Engineering Operations & Delivery",
       "dispatchedAt": "2026-10-08T16:40:03.294Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2567,7 +2567,7 @@
       "company": "Oracle India",
       "title": "Vice President - Global Business Unit Delivery",
       "dispatchedAt": "2026-10-08T16:40:12.383Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2578,7 +2578,7 @@
       "company": "Oracle India",
       "title": "Senior Director - Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:21.621Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2589,7 +2589,7 @@
       "company": "Akamai Technologies India",
       "title": "Director - Global Service Delivery & Operations",
       "dispatchedAt": "2026-10-08T16:40:30.463Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2600,7 +2600,7 @@
       "company": "Akamai Technologies India",
       "title": "Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:39.350Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2611,7 +2611,7 @@
       "company": "Optum Global Solutions",
       "title": "Senior Vice President - Health Care Delivery Operations",
       "dispatchedAt": "2026-10-08T16:40:48.381Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2622,7 +2622,7 @@
       "company": "Optum Global Solutions",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:57.273Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2633,7 +2633,7 @@
       "company": "Carelon Global Solutions",
       "title": "Chief Operating Officer & Head of Delivery",
       "dispatchedAt": "2026-10-08T16:41:05.965Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -3031,7 +3031,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/isaacmasood/",
       "dispatchedAt": "2026-08-20T16:40:46.459Z",
-      "daysElapsed": 49,
+      "daysElapsed": 50,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -3043,7 +3043,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/venkatesh-n-t-28bb5b2b/",
       "dispatchedAt": "2026-08-20T16:45:15.478Z",
-      "daysElapsed": 49,
+      "daysElapsed": 50,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
