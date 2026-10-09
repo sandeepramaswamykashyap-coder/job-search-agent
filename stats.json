@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3880,
+  "applicationsSubmitted": 3882,
   "appliedRolesList": [
-    {
-      "company": "Movate Technologies",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-movate-technologies-pune-bengaluru-10-to-20-years-140826023264",
-      "time": "2026-09-30T14:04:21.064Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Omnicom Global Solutions",
-      "title": "Social - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-social-manager-omnicom-global-solutions-bengaluru-8-to-10-years-300926034325?src=directSearch&sid=1790777260004917&xp=9&px=1",
-      "time": "2026-09-30T14:08:26.560Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Syneos Health",
       "title": "Director Clinical development operations",
@@ -4001,6 +3985,22 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4458257468&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-09T05:54:54.571Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Revspot",
+      "title": "Chief of Staff\nChief of Staff with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4437242836&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-09T06:19:14.060Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Consultant/Manager - Business Consulting PI - TMT - Bangalore/Hyderabad/Gurgaon\nSenior Consultant/Manager - Business Consulting PI - TMT - Bangalore/Hyderabad/Gurgaon with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-09T06:19:33.325Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3880,
+  "totalVerifiedInHistory": 3882,
   "portalBreakdown": {
     "iimjobs": 454,
     "naukri": 607,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 139
+    "linkedin_easy_apply": 141
   },
-  "lastSyncedAt": "2026-10-09T05:54:54.627Z",
-  "lastUpdated": "9/10/2026, 11:24:54 am"
+  "lastSyncedAt": "2026-10-09T06:19:33.362Z",
+  "lastUpdated": "9/10/2026, 11:49:33 am"
 }
