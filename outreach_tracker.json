@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 12,
     "followUpEligible_5plus_days": 130
   },
-  "lastUpdated": "2026-10-09T08:26:54.297Z",
+  "lastUpdated": "2026-10-09T08:50:06.336Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -389,7 +389,7 @@
       "company": "Crescendo Global Leadership Hiring India",
       "title": "Asset Management Product Owner",
       "dispatchedAt": "2026-08-21T08:45:35.515Z",
-      "daysElapsed": 48,
+      "daysElapsed": 49,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"

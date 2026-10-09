@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3885,
+  "applicationsSubmitted": 3887,
   "appliedRolesList": [
-    {
-      "company": "PwC",
-      "title": "Workday Financials Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-workday-financials-delivery-manager-pwc-hyderabad-chennai-bengaluru-9-to-14-years-300926029711?src=directSearch&sid=17907810998934237&xp=13&px=1",
-      "time": "2026-09-30T15:12:11.339Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Operations Manager, ADGM",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8207241",
-      "time": "2026-09-30T15:44:51.812Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Coinbase",
       "title": "Operations Manager, ADGM",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-devsecops-manager-axtria-india-private-limited-bengaluru-5-to-10-years-081026947057?src=directSearch&sid=17915326214793317&xp=13&px=1",
       "time": "2026-10-09T07:57:25.898Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Debt Advisory",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-debt-advisory-1738891?ref=sp&jobPos=2",
+      "time": "2026-10-09T08:47:36.232Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Financial Control - Life Insurance - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-control-life-insurance-ca-1738890?ref=sp&jobPos=6",
+      "time": "2026-10-09T08:47:42.528Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3885,
+  "totalVerifiedInHistory": 3887,
   "portalBreakdown": {
-    "iimjobs": 456,
+    "iimjobs": 458,
     "naukri": 608,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 29,
     "linkedin_easy_apply": 141
   },
-  "lastSyncedAt": "2026-10-09T07:57:25.946Z",
-  "lastUpdated": "9/10/2026, 1:27:25 pm"
+  "lastSyncedAt": "2026-10-09T08:47:42.571Z",
+  "lastUpdated": "9/10/2026, 2:17:42 pm"
 }
