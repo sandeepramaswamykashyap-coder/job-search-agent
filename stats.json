@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3906,
+  "applicationsSubmitted": 3907,
   "appliedRolesList": [
-    {
-      "company": "HCLTech",
-      "title": "Manager - ARM",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-arm-hcltech-chennai-bengaluru-16-to-20-years-140126012459",
-      "time": "2026-10-01T12:56:52.934Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Manager -P and U- AMI - Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-program-manager-lenskart-bengaluru-7-to-10-years-091026934877?src=directSearch&sid=1791560502381240&xp=9&px=1",
       "time": "2026-10-09T15:42:00.180Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Principal Technical Program Manager (Analytics or AI/ML Platform)",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSFLZtsAAAACZV3hMgAQAQABX20gRY1Ll1hZxEWVCAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSFLZtsAAAACZV3hMgAQAQABX20gRY1Ll1hZxEWVCAAA&from=page-two-signin",
+      "time": "2026-10-09T16:54:40.886Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3906,
+  "totalVerifiedInHistory": 3907,
   "portalBreakdown": {
     "iimjobs": 459,
     "naukri": 617,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 31,
+    "indeed": 32,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T15:42:00.219Z",
-  "lastUpdated": "9/10/2026, 9:12:00 pm"
+  "lastSyncedAt": "2026-10-09T16:54:40.940Z",
+  "lastUpdated": "9/10/2026, 10:24:40 pm"
 }
