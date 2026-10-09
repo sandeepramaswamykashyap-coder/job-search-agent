@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-09T15:13:59.484Z",
+  "lastUpdated": "2026-10-09T15:50:43.419Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -125,7 +125,7 @@
       "company": "Visara Human Capital Services",
       "title": "Technical Program Manager Data Analytics",
       "dispatchedAt": "2026-08-10T15:19:13.002Z",
-      "daysElapsed": 59,
+      "daysElapsed": 60,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2248,7 +2248,7 @@
       "company": "Visa India",
       "title": "Senior Director - Global Network Operations",
       "dispatchedAt": "2026-10-08T15:14:06.458Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2259,7 +2259,7 @@
       "company": "Visa India",
       "title": "Head of Talent Acquisition India",
       "dispatchedAt": "2026-10-08T15:14:16.648Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2270,7 +2270,7 @@
       "company": "PayPal India",
       "title": "Director - Global Operations & Customer Excellence",
       "dispatchedAt": "2026-10-08T15:14:25.479Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -2281,7 +2281,7 @@
       "company": "PayPal India",
       "title": "Senior Manager - Leadership Hiring",
       "dispatchedAt": "2026-10-08T15:14:34.509Z",
-      "daysElapsed": 0,
+      "daysElapsed": 1,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
