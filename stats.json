@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3865,
+  "applicationsSubmitted": 3867,
   "appliedRolesList": [
-    {
-      "company": "Toast",
-      "title": "Director, Customer Trust",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8221504",
-      "time": "2026-09-30T10:41:09.086Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toast",
-      "title": "Director, Customer Trust",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/toast/jobs/8221504",
-      "time": "2026-09-30T10:41:09.321Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Toast",
       "title": "Director, Security Assurance and Compliance",
@@ -4001,6 +3985,22 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464872714&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-09T03:58:55.287Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "GIVA",
+      "title": "Operations Executive\nOperations Executive",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4453097919&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T04:55:22.511Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EXL",
+      "title": "Assistant Vice President\nAssistant Vice President with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474257666&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-09T04:56:11.398Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3865,
+  "totalVerifiedInHistory": 3867,
   "portalBreakdown": {
     "iimjobs": 450,
     "naukri": 605,
@@ -4690,8 +4690,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 29,
-    "linkedin_easy_apply": 130
+    "linkedin_easy_apply": 132
   },
-  "lastSyncedAt": "2026-10-09T03:58:55.340Z",
-  "lastUpdated": "9/10/2026, 9:28:55 am"
+  "lastSyncedAt": "2026-10-09T04:56:11.456Z",
+  "lastUpdated": "9/10/2026, 10:26:11 am"
 }
