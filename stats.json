@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3910,
+  "applicationsSubmitted": 3912,
   "appliedRolesList": [
-    {
-      "company": "Capgemini",
-      "title": "Test Lead/Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-test-lead-manager-capgemini-bengaluru-8-to-13-years-011026014990?src=directSearch&sid=17908595177666900&xp=6&px=1",
-      "time": "2026-10-01T12:58:55.302Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Impelsys",
-      "title": "Technical Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-impelsys-bengaluru-12-to-20-years-011026024401?src=directSearch&sid=17908595872485235&xp=11&px=1",
-      "time": "2026-10-01T13:00:11.416Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Gratitude India",
       "title": "Delivery Manager - International Voice Operations",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/head-operations-gold-processing-1732337?ref=sp&jobPos=18",
       "time": "2026-10-09T18:31:51.347Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Livekit",
+      "title": "Senior Product Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
+      "time": "2026-10-09T21:45:44.140Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Livekit",
+      "title": "Senior Product Operations Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
+      "time": "2026-10-09T21:45:44.485Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3910,
+  "totalVerifiedInHistory": 3912,
   "portalBreakdown": {
     "iimjobs": 460,
     "naukri": 619,
@@ -4684,14 +4684,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 457,
-    "ashby": 348,
+    "direct_portal_ashby": 458,
+    "ashby": 349,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 32,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T18:31:51.397Z",
-  "lastUpdated": "10/10/2026, 12:01:51 am"
+  "lastSyncedAt": "2026-10-09T21:45:44.520Z",
+  "lastUpdated": "10/10/2026, 3:15:44 am"
 }
