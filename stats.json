@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3896,
+  "applicationsSubmitted": 3898,
   "appliedRolesList": [
-    {
-      "company": "Leading Client",
-      "title": "Contact Center Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-contact-center-head-unison-international-consulting-pvt-ltd-gurugram-bengaluru-15-to-20-years-300926927634?src=directSearch&sid=17907991679456061&xp=7&px=1",
-      "time": "2026-09-30T20:13:25.410Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fyndbridge Consulting Services",
-      "title": "GTM-Leader :US Market | Global Capability Centre & Enterprise Sales",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gtm-leader-us-market-global-capability-centre-enterprise-sales-fyndbridge-consulting-services-hyderabad-gurugram-bengaluru-8-to-13-years-250926008942",
-      "time": "2026-09-30T20:14:02.695Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "BNP Paribas",
       "title": "Operations - Transaction Monitoring AML  Associate / AM",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/lenskart-program-manager-backend-operations-process-compliance-and-ai-automation-1738911?ref=sp_br&jobPos=11",
       "time": "2026-10-09T10:25:08.660Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ascendion Engineering",
+      "title": "Solutions Architect(Cloud Solutions + Partner Alliance + GTM)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-solutions-architect-cloud-solutions-partner-alliance-gtm-ascendion-engineering-private-limited-hyderabad-chennai-bengaluru-15-to-20-years-091026021160?src=directSearch&sid=17915443700333195&xp=10&px=1",
+      "time": "2026-10-09T11:13:14.265Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "PRINCIPAL R&D/PRODUCT DVL ENGINEER",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-principal-r-d-product-dvl-engineer-te-connectivity-india-private-limited-bengaluru-12-to-17-years-081026947302?src=directSearch&sid=17915443700333195&xp=11&px=1",
+      "time": "2026-10-09T11:13:31.030Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3896,
+  "totalVerifiedInHistory": 3898,
   "portalBreakdown": {
     "iimjobs": 459,
-    "naukri": 609,
+    "naukri": 611,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 29,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T10:25:08.706Z",
-  "lastUpdated": "9/10/2026, 3:55:08 pm"
+  "lastSyncedAt": "2026-10-09T11:13:31.069Z",
+  "lastUpdated": "9/10/2026, 4:43:31 pm"
 }
