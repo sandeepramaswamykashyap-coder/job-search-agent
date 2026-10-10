@@ -1,12 +1,7 @@
 {
   "lastMorningReportDate": "Mon Oct 05 2026",
-  "lastEveningReportDate": "Fri Oct 09 2026",
+  "lastEveningReportDate": "Sat Oct 10 2026",
   "history": [
-    {
-      "type": "evening",
-      "date": "Tue Sep 22 2026",
-      "timestamp": "2026-09-22T14:31:27.065Z"
-    },
     {
       "type": "morning",
       "date": "Wed Sep 23 2026",
@@ -151,6 +146,11 @@
       "type": "evening",
       "date": "Fri Oct 09 2026",
       "timestamp": "2026-10-09T14:36:25.638Z"
+    },
+    {
+      "type": "evening",
+      "date": "Sat Oct 10 2026",
+      "timestamp": "2026-10-10T14:31:05.486Z"
     }
   ]
 }
