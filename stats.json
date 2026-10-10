@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3922,
+  "applicationsSubmitted": 3923,
   "appliedRolesList": [
-    {
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8239099",
-      "time": "2026-10-01T13:19:38.408Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Coinbase",
       "title": "Operations Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/amgen-senior-manager-hr-transformation-internal-consulting-1739044?ref=sp_prm&jobPos=4",
       "time": "2026-10-10T08:00:05.205Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Strategic Transformation Partner - Technology Sector",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/strategic-transformation-partner-technology-sector-1739050?ref=sp_br_prm&jobPos=4",
+      "time": "2026-10-10T09:09:26.170Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3922,
+  "totalVerifiedInHistory": 3923,
   "portalBreakdown": {
-    "iimjobs": 465,
+    "iimjobs": 466,
     "naukri": 621,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 35,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-10T08:00:05.243Z",
-  "lastUpdated": "10/10/2026, 1:30:05 pm"
+  "lastSyncedAt": "2026-10-10T09:09:26.212Z",
+  "lastUpdated": "10/10/2026, 2:39:26 pm"
 }
