@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3912,
+  "applicationsSubmitted": 3913,
   "appliedRolesList": [
-    {
-      "company": "Gratitude India",
-      "title": "Delivery Manager - International Voice Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-international-voice-operations-gratitude-india-kolkata-bengaluru-mumbai-all-areas-8-to-12-years-011026016453?src=directSearch&sid=17908595872485235&xp=12&px=1",
-      "time": "2026-10-01T13:00:22.979Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Paytm - Senior Manager - Growth Management",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
       "time": "2026-10-09T21:45:44.485Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "JumpCloud",
+      "title": "Director, Product Strategy and Operations -India",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSJSirUAAAACZWi9rwASAQACdw3vKEg0F4zR5jltHaogAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSJSirUAAAACZWi9rwASAQACdw3vKEg0F4zR5jltHaogAAA&from=page-two-signin",
+      "time": "2026-10-10T01:07:56.946Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3912,
+  "totalVerifiedInHistory": 3913,
   "portalBreakdown": {
     "iimjobs": 460,
     "naukri": 619,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 32,
+    "indeed": 33,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-09T21:45:44.520Z",
-  "lastUpdated": "10/10/2026, 3:15:44 am"
+  "lastSyncedAt": "2026-10-10T01:07:57.016Z",
+  "lastUpdated": "10/10/2026, 6:37:57 am"
 }
