@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-10T07:29:19.562Z",
+  "lastUpdated": "2026-10-10T08:03:34.552Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -840,7 +840,7 @@
       "company": "Morgan Stanley Advantage Services",
       "title": "Managing Director - Global Business Operations",
       "dispatchedAt": "2026-10-04T07:30:35.701Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -851,7 +851,7 @@
       "company": "Wells Fargo India",
       "title": "Head of Transformation & Operational Excellence",
       "dispatchedAt": "2026-10-04T07:30:44.098Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -862,7 +862,7 @@
       "company": "Wells Fargo India",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-04T07:30:52.519Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -873,7 +873,7 @@
       "company": "Fidelity Investments India",
       "title": "Vice President - Platform Architecture & Program Delivery",
       "dispatchedAt": "2026-10-04T07:31:01.198Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -884,7 +884,7 @@
       "company": "Fidelity Investments India",
       "title": "Senior Manager - Talent Acquisition",
       "dispatchedAt": "2026-10-04T07:31:09.716Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -895,7 +895,7 @@
       "company": "Cisco Systems India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-10-04T07:31:18.100Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -906,7 +906,7 @@
       "company": "Cisco Systems India",
       "title": "Senior Talent Acquisition Lead",
       "dispatchedAt": "2026-10-04T07:31:26.439Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -917,7 +917,7 @@
       "company": "Honeywell India",
       "title": "Senior Director - Global Program Governance",
       "dispatchedAt": "2026-10-04T07:31:34.883Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -928,7 +928,7 @@
       "company": "SAP Labs India",
       "title": "Director - Cloud Delivery & Partner Solutions",
       "dispatchedAt": "2026-10-04T07:32:04.242Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -939,7 +939,7 @@
       "company": "Dell Technologies India",
       "title": "Executive Director - Global Process & Program Management",
       "dispatchedAt": "2026-10-04T07:32:12.680Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -950,7 +950,7 @@
       "company": "Lowe's India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-10-04T07:32:21.495Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -961,7 +961,7 @@
       "company": "ANZ Global Services",
       "title": "Head of Banking Operations & Delivery",
       "dispatchedAt": "2026-10-04T07:32:30.328Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -972,7 +972,7 @@
       "company": "Societe Generale Global Solution Centre",
       "title": "Managing Director - Transformation & Digital Solutions",
       "dispatchedAt": "2026-10-04T07:32:39.367Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -983,7 +983,7 @@
       "company": "PwC India",
       "title": "Partner - Advisory & Platform Transformation",
       "dispatchedAt": "2026-10-04T07:32:47.722Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -994,7 +994,7 @@
       "company": "PwC India SDC",
       "title": "Talent Acquisition Lead - Transformation Services",
       "dispatchedAt": "2026-10-04T07:32:56.147Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1005,7 +1005,7 @@
       "company": "Deloitte India",
       "title": "Partner - Core Business Transformation",
       "dispatchedAt": "2026-10-04T07:33:04.698Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"

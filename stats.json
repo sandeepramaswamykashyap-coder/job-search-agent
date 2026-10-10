@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3920,
+  "applicationsSubmitted": 3922,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Associate - Operations Change Management - Trade & Working Cap",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-associate-operations-change-management-trade-and-working-capital-1737283?ref=sp_br&jobPos=1",
-      "time": "2026-10-01T13:02:04.398Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Urban Company - Associate Director - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/urban-company-associate-director-operations-1737343?ref=sp_br&jobPos=3",
-      "time": "2026-10-01T13:02:25.165Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Coinbase",
       "title": "Operations Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/senior-manager-business-development-1739036?ref=sp_br_prm&jobPos=6",
       "time": "2026-10-10T07:25:25.242Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Brand Strategist - RDBU Brand Marketing Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-brand-strategist-rdbu-brand-marketing-operations-1739043?ref=sp_prm&jobPos=2",
+      "time": "2026-10-10T07:59:30.507Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - HR Transformation - Internal Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-manager-hr-transformation-internal-consulting-1739044?ref=sp_prm&jobPos=4",
+      "time": "2026-10-10T08:00:05.205Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3920,
+  "totalVerifiedInHistory": 3922,
   "portalBreakdown": {
-    "iimjobs": 463,
+    "iimjobs": 465,
     "naukri": 621,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 35,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-10T07:25:25.282Z",
-  "lastUpdated": "10/10/2026, 12:55:25 pm"
+  "lastSyncedAt": "2026-10-10T08:00:05.243Z",
+  "lastUpdated": "10/10/2026, 1:30:05 pm"
 }
