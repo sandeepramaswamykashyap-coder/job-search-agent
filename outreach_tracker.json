@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-10T06:55:03.537Z",
+  "lastUpdated": "2026-10-10T07:29:19.562Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -752,7 +752,7 @@
       "company": "Target India",
       "title": "Director - Enterprise Transformation & Delivery",
       "dispatchedAt": "2026-10-04T07:27:47.637Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -763,7 +763,7 @@
       "company": "Target India",
       "title": "Lead Talent Acquisition Partner - Leadership",
       "dispatchedAt": "2026-10-04T07:27:57.733Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -774,7 +774,7 @@
       "company": "Walmart Global Tech",
       "title": "Senior Director - Enterprise Program Management",
       "dispatchedAt": "2026-10-04T07:28:07.427Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -785,7 +785,7 @@
       "company": "Walmart Global Tech",
       "title": "Staff Talent Acquisition Partner",
       "dispatchedAt": "2026-10-04T07:28:16.693Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -796,7 +796,7 @@
       "company": "Goldman Sachs India",
       "title": "Managing Director - Operations & Governance",
       "dispatchedAt": "2026-10-04T07:28:26.380Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -807,7 +807,7 @@
       "company": "Goldman Sachs India",
       "title": "Vice President - Human Capital Management",
       "dispatchedAt": "2026-10-04T07:28:37.263Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -818,7 +818,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Executive Director - Technology Program Delivery",
       "dispatchedAt": "2026-10-04T07:28:46.109Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -829,7 +829,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Lead Recruiter - Executive Hiring India",
       "dispatchedAt": "2026-10-04T07:28:54.839Z",
-      "daysElapsed": 5,
+      "daysElapsed": 6,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"

@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3919,
+  "applicationsSubmitted": 3920,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "L'Oreal - Organizational Transformation & Culture Specialist",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/l039oreal-organizational-transformation-and-culture-specialist-1737422?ref=sp_br&jobPos=6",
-      "time": "2026-10-01T13:01:47.564Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "JP Morgan Chase - Associate - Operations Change Management - Trade & Working Cap",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/dell-senior-technology-infrastructure-program-manager-1739018?ref=sp_br&jobPos=8",
       "time": "2026-10-10T06:16:55.719Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Business Development",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-business-development-1739036?ref=sp_br_prm&jobPos=6",
+      "time": "2026-10-10T07:25:25.242Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3919,
+  "totalVerifiedInHistory": 3920,
   "portalBreakdown": {
-    "iimjobs": 462,
+    "iimjobs": 463,
     "naukri": 621,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 35,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-10T06:16:55.761Z",
-  "lastUpdated": "10/10/2026, 11:46:55 am"
+  "lastSyncedAt": "2026-10-10T07:25:25.282Z",
+  "lastUpdated": "10/10/2026, 12:55:25 pm"
 }
