@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3923,
+  "applicationsSubmitted": 3924,
   "appliedRolesList": [
-    {
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/coinbase/jobs/8239099",
-      "time": "2026-10-01T13:19:38.673Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Coforge",
       "title": "Automation Test  Engineer",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/strategic-transformation-partner-technology-sector-1739050?ref=sp_br_prm&jobPos=4",
       "time": "2026-10-10T09:09:26.170Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "CareerNet Consulting",
+      "title": "Hirin For Program Manager RPO",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hirin-for-program-manager-rpo-careernet-bengaluru-12-to-20-years-101026012989?src=directSearch&sid=17916250946443936&xp=11&px=1",
+      "time": "2026-10-10T09:38:35.582Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3923,
+  "totalVerifiedInHistory": 3924,
   "portalBreakdown": {
     "iimjobs": 466,
-    "naukri": 621,
+    "naukri": 622,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 35,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-10T09:09:26.212Z",
-  "lastUpdated": "10/10/2026, 2:39:26 pm"
+  "lastSyncedAt": "2026-10-10T09:38:35.621Z",
+  "lastUpdated": "10/10/2026, 3:08:35 pm"
 }
