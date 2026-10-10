@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3924,
+  "applicationsSubmitted": 3925,
   "appliedRolesList": [
-    {
-      "company": "Coforge",
-      "title": "Automation Test  Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-coforge-bengaluru-6-to-10-years-300926020014?src=directSearch&sid=17908650963616106&xp=1&px=1",
-      "time": "2026-10-01T14:31:50.640Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "PwC",
       "title": "SAP test Automation(Tosca, S4 Hana, AI) Banglore",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-hirin-for-program-manager-rpo-careernet-bengaluru-12-to-20-years-101026012989?src=directSearch&sid=17916250946443936&xp=11&px=1",
       "time": "2026-10-10T09:38:35.582Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "FirstClub - City Operations Head",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/firstclub-city-operations-head-1739072?ref=sp&jobPos=13",
+      "time": "2026-10-10T15:48:06.278Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3924,
+  "totalVerifiedInHistory": 3925,
   "portalBreakdown": {
-    "iimjobs": 466,
+    "iimjobs": 467,
     "naukri": 622,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 35,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-10T14:30:49.636Z",
-  "lastUpdated": "10/10/2026, 8:00:49 pm"
+  "lastSyncedAt": "2026-10-10T15:48:06.321Z",
+  "lastUpdated": "10/10/2026, 9:18:06 pm"
 }
