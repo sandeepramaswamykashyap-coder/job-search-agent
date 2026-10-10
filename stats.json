@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3915,
+  "applicationsSubmitted": 3916,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "AbhiBus - Program Manager - Technology",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/abhibus-program-manager-technology-1737400?ref=sp_br&jobPos=5",
-      "time": "2026-10-01T13:01:04.084Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Technical Program Manager - Founder's Office",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-sap-service-delivery-manager-itc-infotech-bengaluru-8-to-12-years-061026025136?src=directSearch&sid=17915979187406392&xp=13&px=1",
       "time": "2026-10-10T02:05:43.149Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "McFadyen Digital",
+      "title": "Senior Project Manager - Remote",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSJK74gAAAACZWjrNAASAQEBBzyalgxp7NghsL27jhiVAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSJK74gAAAACZWjrNAASAQEBBzyalgxp7NghsL27jhiVAAA&from=page-two-signin",
+      "time": "2026-10-10T04:00:16.870Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3915,
+  "totalVerifiedInHistory": 3916,
   "portalBreakdown": {
     "iimjobs": 460,
     "naukri": 620,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 34,
+    "indeed": 35,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-10T02:05:43.200Z",
-  "lastUpdated": "10/10/2026, 7:35:43 am"
+  "lastSyncedAt": "2026-10-10T04:00:16.940Z",
+  "lastUpdated": "10/10/2026, 9:30:16 am"
 }
