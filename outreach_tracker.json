@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-10T12:27:07.019Z",
+  "lastUpdated": "2026-10-10T13:01:02.605Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -59,7 +59,7 @@
       "company": "Yash Technologies",
       "title": "Yash Technologies is Hiring - Business Analyst - RPA BA",
       "dispatchedAt": "2026-07-22T12:41:17.459Z",
-      "daysElapsed": 79,
+      "daysElapsed": 80,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1588,7 +1588,7 @@
       "company": "State Street India",
       "title": "Vice President - Global Process Delivery",
       "dispatchedAt": "2026-10-08T12:50:31.507Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1599,7 +1599,7 @@
       "company": "Novartis Healthcare",
       "title": "Head of Digital Business Operations",
       "dispatchedAt": "2026-10-08T12:50:41.277Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1610,7 +1610,7 @@
       "company": "AstraZeneca India",
       "title": "Director - Global Operations & IT Delivery",
       "dispatchedAt": "2026-10-08T12:50:51.140Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1621,7 +1621,7 @@
       "company": "Deloitte India",
       "title": "Partner - Enterprise Agility & Platform Transformation",
       "dispatchedAt": "2026-10-08T12:51:01.032Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1632,7 +1632,7 @@
       "company": "EY GDS",
       "title": "Partner & Global Leader - Transformation Delivery",
       "dispatchedAt": "2026-10-08T12:51:11.126Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1643,7 +1643,7 @@
       "company": "KPMG India",
       "title": "Partner - Financial Services Transformation",
       "dispatchedAt": "2026-10-08T12:51:21.161Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1654,7 +1654,7 @@
       "company": "Accenture Strategy & Consulting",
       "title": "Managing Director - Operations Excellence",
       "dispatchedAt": "2026-10-08T12:51:30.898Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1665,7 +1665,7 @@
       "company": "FTI Consulting India",
       "title": "Senior Managing Director - Operational Excellence",
       "dispatchedAt": "2026-10-08T12:51:40.410Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1676,7 +1676,7 @@
       "company": "Grant Thornton Bharat",
       "title": "Partner - Business Transformation Advisory",
       "dispatchedAt": "2026-10-08T12:52:59.343Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1687,7 +1687,7 @@
       "company": "BDO India",
       "title": "Partner & Head - Management Consulting",
       "dispatchedAt": "2026-10-08T12:53:09.101Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1698,7 +1698,7 @@
       "company": "Protiviti India",
       "title": "Managing Director - Enterprise Transformation",
       "dispatchedAt": "2026-10-08T12:53:18.410Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1709,7 +1709,7 @@
       "company": "ServiceNow India",
       "title": "Vice President & Managing Director - India Development Centre",
       "dispatchedAt": "2026-10-08T12:53:28.445Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1720,7 +1720,7 @@
       "company": "Salesforce India",
       "title": "Senior Manager - Leadership Recruiting",
       "dispatchedAt": "2026-10-08T12:53:37.765Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1731,7 +1731,7 @@
       "company": "UiPath India",
       "title": "Lead Recruiter - Enterprise Delivery",
       "dispatchedAt": "2026-10-08T12:53:47.779Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1742,7 +1742,7 @@
       "company": "Kissflow",
       "title": "Chief Product & Delivery Officer",
       "dispatchedAt": "2026-10-08T12:53:57.221Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1753,7 +1753,7 @@
       "company": "Pegasystems India",
       "title": "Managing Director - Client Delivery Excellence",
       "dispatchedAt": "2026-10-08T12:54:06.760Z",
-      "daysElapsed": 1,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
