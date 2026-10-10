@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-10T05:46:20.170Z",
+  "lastUpdated": "2026-10-10T06:20:41.067Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -136,7 +136,7 @@
       "company": "Diageo",
       "title": "Manager PTC",
       "dispatchedAt": "2026-08-12T06:00:15.661Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
