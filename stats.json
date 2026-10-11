@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3925,
+  "applicationsSubmitted": 3926,
   "appliedRolesList": [
-    {
-      "company": "PwC",
-      "title": "SAP test Automation(Tosca, S4 Hana, AI) Banglore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-test-automation-tosca-s4-hana-ai-banglore-pwc-bengaluru-8-to-13-years-300926008442?src=directSearch&sid=17908650963616106&xp=2&px=1",
-      "time": "2026-10-01T14:32:02.194Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Maximus",
       "title": "IT Engineer - Automation",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/firstclub-city-operations-head-1739072?ref=sp&jobPos=13",
       "time": "2026-10-10T15:48:06.278Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Syndigo",
+      "title": "Senior Customer Success Manager",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
+      "time": "2026-10-11T02:09:22.497Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3925,
+  "totalVerifiedInHistory": 3926,
   "portalBreakdown": {
     "iimjobs": 467,
     "naukri": 622,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 35,
+    "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-10T15:48:06.321Z",
-  "lastUpdated": "10/10/2026, 9:18:06 pm"
+  "lastSyncedAt": "2026-10-11T02:09:22.566Z",
+  "lastUpdated": "11/10/2026, 7:39:22 am"
 }
