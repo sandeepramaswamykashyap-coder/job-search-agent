@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3928,
+  "applicationsSubmitted": 3929,
   "appliedRolesList": [
-    {
-      "company": "Crescendo Global",
-      "title": "Business Analyst-  AI - UK Insurance Underwriting Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-analyst-ai-uk-insurance-underwriting-transformation-crescendo-global-leadership-hiring-india-pune-gurugram-bengaluru-5-to-9-years-300926036587?src=directSearch&sid=1790865203333137&xp=5&px=1",
-      "time": "2026-10-01T14:33:44.189Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Sri Tech Solutions",
       "title": "Business Development Manager _ IT Services Sales",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-manager-trademark-cognizant-bengaluru-8-to-12-years-111026003678?src=directSearch&sid=17917128110546257&xp=8&px=1",
       "time": "2026-10-11T10:01:01.029Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Broking Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-broking-operations-1731805?ref=sp&jobPos=18",
+      "time": "2026-10-11T18:42:38.241Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3928,
+  "totalVerifiedInHistory": 3929,
   "portalBreakdown": {
-    "iimjobs": 468,
+    "iimjobs": 469,
     "naukri": 623,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-11T14:30:52.509Z",
-  "lastUpdated": "11/10/2026, 8:00:52 pm"
+  "lastSyncedAt": "2026-10-11T18:42:38.289Z",
+  "lastUpdated": "12/10/2026, 12:12:38 am"
 }
