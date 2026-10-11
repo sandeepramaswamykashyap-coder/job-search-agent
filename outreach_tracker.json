@@ -3,11 +3,11 @@
   "coldEmailsCount": 251,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 92,
-    "underEvaluation_3_4_days": 40,
+    "initialWindow_0_2_days": 76,
+    "underEvaluation_3_4_days": 56,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-11T13:10:08.036Z",
+  "lastUpdated": "2026-10-11T13:43:12.398Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1764,10 +1764,10 @@
       "company": "Atlassian India",
       "title": "Head of Engineering Operations & Program Delivery",
       "dispatchedAt": "2026-10-08T13:36:46.697Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1775,10 +1775,10 @@
       "company": "Infosys",
       "title": "Executive Vice President & Co-Head of Delivery",
       "dispatchedAt": "2026-10-08T13:36:56.536Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1786,10 +1786,10 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Chief Executive Officer & Managing Director",
       "dispatchedAt": "2026-10-08T13:37:05.558Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1797,10 +1797,10 @@
       "company": "Wipro Limited",
       "title": "Chief Executive Officer & Managing Director",
       "dispatchedAt": "2026-10-08T13:37:15.553Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1808,10 +1808,10 @@
       "company": "Cognizant",
       "title": "Chief Financial Officer & Transformation Leader",
       "dispatchedAt": "2026-10-08T13:37:25.562Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1819,10 +1819,10 @@
       "company": "HCLTech",
       "title": "Chief People Officer & Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T13:37:34.996Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1830,10 +1830,10 @@
       "company": "Tech Mahindra",
       "title": "Chief People Officer & Head of TA",
       "dispatchedAt": "2026-10-08T13:37:44.302Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1841,10 +1841,10 @@
       "company": "Genpact",
       "title": "President & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T13:37:54.149Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1852,10 +1852,10 @@
       "company": "EXL Service",
       "title": "Vice Chairman & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T13:39:10.816Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1863,10 +1863,10 @@
       "company": "WNS Global Services",
       "title": "Group Chief Executive Officer",
       "dispatchedAt": "2026-10-08T13:39:20.145Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1874,10 +1874,10 @@
       "company": "WNS Global Services",
       "title": "Chief People Officer & Head TA",
       "dispatchedAt": "2026-10-08T13:39:30.006Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1885,10 +1885,10 @@
       "company": "Mphasis",
       "title": "Chief Executive Officer & Managing Director",
       "dispatchedAt": "2026-10-08T13:39:40.462Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1896,10 +1896,10 @@
       "company": "Mphasis",
       "title": "Chief Human Resources Officer",
       "dispatchedAt": "2026-10-08T13:39:50.219Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1907,10 +1907,10 @@
       "company": "Persistent Systems",
       "title": "Chief Executive Officer & Executive Director",
       "dispatchedAt": "2026-10-08T13:40:00.049Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1918,10 +1918,10 @@
       "company": "Persistent Systems",
       "title": "Chief People Officer",
       "dispatchedAt": "2026-10-08T13:40:09.327Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1929,10 +1929,10 @@
       "company": "Happiest Minds Technologies",
       "title": "Managing Director & Chief Financial Officer",
       "dispatchedAt": "2026-10-08T13:40:18.447Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
