@@ -3,11 +3,11 @@
   "coldEmailsCount": 251,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 119,
-    "underEvaluation_3_4_days": 13,
+    "initialWindow_0_2_days": 108,
+    "underEvaluation_3_4_days": 24,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-11T12:05:39.661Z",
+  "lastUpdated": "2026-10-11T12:47:20.468Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -59,7 +59,7 @@
       "company": "Yash Technologies",
       "title": "Yash Technologies is Hiring - Business Analyst - RPA BA",
       "dispatchedAt": "2026-07-22T12:41:17.459Z",
-      "daysElapsed": 80,
+      "daysElapsed": 81,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -400,7 +400,7 @@
       "company": "Resource Pro",
       "title": "Manager, Service Delivery",
       "dispatchedAt": "2026-08-21T12:11:46.264Z",
-      "daysElapsed": 50,
+      "daysElapsed": 51,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1467,10 +1467,10 @@
       "company": "Deutsche Bank India",
       "title": "Managing Director - Global Technology Delivery",
       "dispatchedAt": "2026-10-08T12:05:47.506Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1478,10 +1478,10 @@
       "company": "Deutsche Bank India",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T12:05:59.135Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1489,10 +1489,10 @@
       "company": "BNP Paribas India Solutions",
       "title": "Managing Director - Enterprise Operations Delivery",
       "dispatchedAt": "2026-10-08T12:06:08.450Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1500,10 +1500,10 @@
       "company": "BNP Paribas India Solutions",
       "title": "Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T12:07:21.261Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1511,10 +1511,10 @@
       "company": "Barclays Global Service Centre",
       "title": "Managing Director - Chief Operations Office",
       "dispatchedAt": "2026-10-08T12:07:30.467Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1522,10 +1522,10 @@
       "company": "Barclays India",
       "title": "Head of Lateral & Leadership Hiring",
       "dispatchedAt": "2026-10-08T12:07:39.322Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1533,10 +1533,10 @@
       "company": "UBS India",
       "title": "Head of Group Technology Delivery India",
       "dispatchedAt": "2026-10-08T12:07:48.077Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1544,10 +1544,10 @@
       "company": "UBS India",
       "title": "Executive Director - Talent Acquisition",
       "dispatchedAt": "2026-10-08T12:07:57.107Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1555,10 +1555,10 @@
       "company": "HSBC India",
       "title": "Managing Director - Global Operations & Transformation",
       "dispatchedAt": "2026-10-08T12:08:06.367Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1566,10 +1566,10 @@
       "company": "HSBC India",
       "title": "Senior Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T12:08:15.193Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1577,10 +1577,10 @@
       "company": "Northern Trust India",
       "title": "Senior Vice President - Asset Servicing Operations",
       "dispatchedAt": "2026-10-08T12:08:23.911Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
