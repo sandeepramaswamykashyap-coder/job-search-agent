@@ -3,11 +3,11 @@
   "coldEmailsCount": 251,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 108,
-    "underEvaluation_3_4_days": 24,
+    "initialWindow_0_2_days": 92,
+    "underEvaluation_3_4_days": 40,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-11T12:47:20.468Z",
+  "lastUpdated": "2026-10-11T13:10:08.036Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1588,10 +1588,10 @@
       "company": "State Street India",
       "title": "Vice President - Global Process Delivery",
       "dispatchedAt": "2026-10-08T12:50:31.507Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1599,10 +1599,10 @@
       "company": "Novartis Healthcare",
       "title": "Head of Digital Business Operations",
       "dispatchedAt": "2026-10-08T12:50:41.277Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1610,10 +1610,10 @@
       "company": "AstraZeneca India",
       "title": "Director - Global Operations & IT Delivery",
       "dispatchedAt": "2026-10-08T12:50:51.140Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1621,10 +1621,10 @@
       "company": "Deloitte India",
       "title": "Partner - Enterprise Agility & Platform Transformation",
       "dispatchedAt": "2026-10-08T12:51:01.032Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1632,10 +1632,10 @@
       "company": "EY GDS",
       "title": "Partner & Global Leader - Transformation Delivery",
       "dispatchedAt": "2026-10-08T12:51:11.126Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1643,10 +1643,10 @@
       "company": "KPMG India",
       "title": "Partner - Financial Services Transformation",
       "dispatchedAt": "2026-10-08T12:51:21.161Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1654,10 +1654,10 @@
       "company": "Accenture Strategy & Consulting",
       "title": "Managing Director - Operations Excellence",
       "dispatchedAt": "2026-10-08T12:51:30.898Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1665,10 +1665,10 @@
       "company": "FTI Consulting India",
       "title": "Senior Managing Director - Operational Excellence",
       "dispatchedAt": "2026-10-08T12:51:40.410Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1676,10 +1676,10 @@
       "company": "Grant Thornton Bharat",
       "title": "Partner - Business Transformation Advisory",
       "dispatchedAt": "2026-10-08T12:52:59.343Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1687,10 +1687,10 @@
       "company": "BDO India",
       "title": "Partner & Head - Management Consulting",
       "dispatchedAt": "2026-10-08T12:53:09.101Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1698,10 +1698,10 @@
       "company": "Protiviti India",
       "title": "Managing Director - Enterprise Transformation",
       "dispatchedAt": "2026-10-08T12:53:18.410Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1709,10 +1709,10 @@
       "company": "ServiceNow India",
       "title": "Vice President & Managing Director - India Development Centre",
       "dispatchedAt": "2026-10-08T12:53:28.445Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1720,10 +1720,10 @@
       "company": "Salesforce India",
       "title": "Senior Manager - Leadership Recruiting",
       "dispatchedAt": "2026-10-08T12:53:37.765Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1731,10 +1731,10 @@
       "company": "UiPath India",
       "title": "Lead Recruiter - Enterprise Delivery",
       "dispatchedAt": "2026-10-08T12:53:47.779Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1742,10 +1742,10 @@
       "company": "Kissflow",
       "title": "Chief Product & Delivery Officer",
       "dispatchedAt": "2026-10-08T12:53:57.221Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
@@ -1753,10 +1753,10 @@
       "company": "Pegasystems India",
       "title": "Managing Director - Client Delivery Excellence",
       "dispatchedAt": "2026-10-08T12:54:06.760Z",
-      "daysElapsed": 2,
-      "stage": "Initial Outreach Window (0-2 days)",
+      "daysElapsed": 3,
+      "stage": "Under Evaluation (3-4 days)",
       "status": "sent",
-      "followUpStatus": "Pending Initial Review"
+      "followUpStatus": "Awaiting Recruiter Response"
     },
     {
       "type": "Cold Email",
