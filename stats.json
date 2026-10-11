@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3926,
+  "applicationsSubmitted": 3927,
   "appliedRolesList": [
-    {
-      "company": "Maximus",
-      "title": "IT Engineer - Automation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-engineer-automation-maximus-hyderabad-bengaluru-4-to-6-years-300926003297?src=directSearch&sid=17908650963616106&xp=3&px=1",
-      "time": "2026-10-01T14:32:39.441Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "LTM",
       "title": "Oracle Automation Testing",
@@ -4001,6 +3993,14 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
       "time": "2026-10-11T02:09:22.497Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vice President - Portfolio Management - Investments",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vice-president-portfolio-management-investments-1739089?ref=sp&jobPos=14",
+      "time": "2026-10-11T04:00:22.037Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3926,
+  "totalVerifiedInHistory": 3927,
   "portalBreakdown": {
-    "iimjobs": 467,
+    "iimjobs": 468,
     "naukri": 622,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-11T02:09:22.566Z",
-  "lastUpdated": "11/10/2026, 7:39:22 am"
+  "lastSyncedAt": "2026-10-11T04:00:22.094Z",
+  "lastUpdated": "11/10/2026, 9:30:22 am"
 }
