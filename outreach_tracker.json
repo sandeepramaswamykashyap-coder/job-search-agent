@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 88,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-11T15:16:27.862Z",
+  "lastUpdated": "2026-10-11T15:46:58.237Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -125,7 +125,7 @@
       "company": "Visara Human Capital Services",
       "title": "Technical Program Manager Data Analytics",
       "dispatchedAt": "2026-08-10T15:19:13.002Z",
-      "daysElapsed": 61,
+      "daysElapsed": 62,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
