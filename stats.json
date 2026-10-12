@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3963,
+  "applicationsSubmitted": 3964,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Spyne.ai - Program & Analytics Manager - Process Excellence & Automation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/spyneai-program-and-analytics-manager-process-excellence-and-automation-1737395?ref=sp&jobPos=18",
-      "time": "2026-10-04T06:22:33.467Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Program Manager - SaaS",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/relationship-manager-wealth-management-1739263?ref=sp&jobPos=11",
       "time": "2026-10-12T11:11:46.837Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Varaha - Head - Revenue Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/varaha-head-revenue-operations-1739281?ref=sp&jobPos=12",
+      "time": "2026-10-12T11:44:31.166Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3963,
+  "totalVerifiedInHistory": 3964,
   "portalBreakdown": {
-    "iimjobs": 475,
+    "iimjobs": 476,
     "naukri": 651,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T11:11:46.985Z",
-  "lastUpdated": "12/10/2026, 4:41:46 pm"
+  "lastSyncedAt": "2026-10-12T11:44:31.205Z",
+  "lastUpdated": "12/10/2026, 5:14:31 pm"
 }
