@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3933,
+  "applicationsSubmitted": 3937,
   "appliedRolesList": [
-    {
-      "company": "Leading Client",
-      "title": "Lead – Operational Excellence",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-operational-excellence-unison-international-consulting-pvt-ltd-bengaluru-8-to-12-years-300926927661?src=directSearch&sid=17908765707702548&xp=7&px=1",
-      "time": "2026-10-01T17:43:08.323Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Solutions & Delivery Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-solutions-delivery-lead-unison-international-consulting-pvt-ltd-bengaluru-15-to-22-years-300926927648?src=directSearch&sid=17908765707702548&xp=8&px=1",
-      "time": "2026-10-01T17:43:19.853Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "Workflow Transformation Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-workflow-transformation-engineer-te-connectivity-india-private-limited-bengaluru-3-to-7-years-300926926928?src=directSearch&sid=17908765707702548&xp=12&px=1",
-      "time": "2026-10-01T17:43:43.166Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "SR AI TRANSFORMATION ENGINEER",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-ai-transformation-engineer-te-connectivity-india-private-limited-bengaluru-5-to-10-years-300926926871?src=directSearch&sid=17908765707702548&xp=13&px=1",
-      "time": "2026-10-01T17:43:59.825Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Anika Industries",
       "title": "Design Operations Head - BOM/BLR",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-it-service-delivery-manager-conduent-bengaluru-7-to-12-years-121026002001?src=directSearch&sid=17917808696646896&xp=7&px=1",
       "time": "2026-10-12T04:54:53.717Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "ABB",
+      "title": "800xA Lead Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-800xa-lead-engineer-abb-india-limited-bengaluru-8-to-12-years-121026003162?src=directSearch&sid=1791782880465770&xp=12&px=1",
+      "time": "2026-10-12T05:28:43.370Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte US-India Offices",
+      "title": "GITC Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gitc-manager-deloitte-us-india-offices-bengaluru-10-to-16-years-121026002605?src=directSearch&sid=17917831465107402&xp=4&px=1",
+      "time": "2026-10-12T05:32:40.705Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Growth",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-growth-1738996?ref=sp_br&jobPos=16",
+      "time": "2026-10-12T05:33:27.388Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "ServiceNow AI Architect - IT & Systems",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/servicenow-ai-architect-it-and-systems-1739140?ref=sp&jobPos=12",
+      "time": "2026-10-12T05:34:14.557Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3933,
+  "totalVerifiedInHistory": 3937,
   "portalBreakdown": {
-    "iimjobs": 469,
-    "naukri": 627,
+    "iimjobs": 471,
+    "naukri": 629,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T04:54:53.759Z",
-  "lastUpdated": "12/10/2026, 10:24:53 am"
+  "lastSyncedAt": "2026-10-12T05:34:14.596Z",
+  "lastUpdated": "12/10/2026, 11:04:14 am"
 }
