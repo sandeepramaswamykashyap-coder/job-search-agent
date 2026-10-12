@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3970,
+  "applicationsSubmitted": 3971,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - PMS Operations - Banking/Financial Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-pms-operations-banking-financial-services-1737513?ref=sp&jobPos=10",
-      "time": "2026-10-04T07:16:02.276Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - HR Business Partner - FMCG",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-automation-lead-andor-tech-bengaluru-7-to-14-years-121026032727?src=directSearch&sid=17918132611411240&xp=12&px=1",
       "time": "2026-10-12T13:54:51.846Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Horizon Hr Bangalore",
+      "title": "Director Operation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-operation-horizon-hr-bangalore-bengaluru-18-to-22-years-121026034941?src=directSearch&sid=17918152319853430&xp=10&px=1",
+      "time": "2026-10-12T14:27:36.166Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3970,
+  "totalVerifiedInHistory": 3971,
   "portalBreakdown": {
     "iimjobs": 476,
-    "naukri": 657,
+    "naukri": 658,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T13:54:51.886Z",
-  "lastUpdated": "12/10/2026, 7:24:51 pm"
+  "lastSyncedAt": "2026-10-12T14:30:56.897Z",
+  "lastUpdated": "12/10/2026, 8:00:56 pm"
 }
