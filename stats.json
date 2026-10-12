@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3956,
+  "applicationsSubmitted": 3963,
   "appliedRolesList": [
-    {
-      "company": "Axis Bank",
-      "title": "Hiring For Branch Operations Head @ Axis Bank, Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-for-branch-operations-head-axis-bank-bangalore-axis-bank-bengaluru-5-to-10-years-031026006181?src=directSearch&sid=17910947597854310&xp=11&px=1",
-      "time": "2026-10-04T06:19:47.755Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bonito Designs",
-      "title": "Design Operations Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-design-operations-head-bonito-designs-bengaluru-12-to-20-years-011026934272?src=directSearch&sid=17910947597854310&xp=13&px=1",
-      "time": "2026-10-04T06:19:59.342Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Brigade Hospitality (BHSL)",
-      "title": "CAFM Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-cafm-manager-tpc-hr-advisory-services-bengaluru-5-to-10-years-031026007761?src=directSearch&sid=17910948026452604&xp=12&px=1",
-      "time": "2026-10-04T06:20:23.711Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "Senior/Lead Data Modeler",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-lead-data-modeler-epam-systems-bengaluru-10-to-19-years-031026003571?src=directSearch&sid=17910948301543495&xp=8&px=1",
-      "time": "2026-10-04T06:21:16.855Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Product Manager - Product Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amgen-senior-product-manager-product-operations-1737509?ref=sp_prm&jobPos=1",
-      "time": "2026-10-04T06:22:10.537Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Magenta EV Solutions - Strategy & Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/magenta-ev-solutions-strategy-and-program-manager-1736799?ref=sp&jobPos=15",
-      "time": "2026-10-04T06:22:21.023Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vetic - Program Manager - At-Home Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vetic-program-manager-at-home-services-1736734?ref=sp&jobPos=17",
-      "time": "2026-10-04T06:22:27.299Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Spyne.ai - Program & Analytics Manager - Process Excellence & Automation",
@@ -4001,6 +3945,62 @@
       "url": "https://www.naukri.com/job-listings-ai-platform-customization-engineer-run-cognizant-kolkata-chennai-bengaluru-17-to-24-years-121026014033?src=directSearch&sid=17918012172962583&xp=11&px=1",
       "time": "2026-10-12T10:35:01.259Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Director, Website (AEM) Delivery & Implementation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-website-aem-delivery-implementation-labcorp-bengaluru-mumbai-all-areas-12-to-19-years-121026015193?src=directSearch&sid=17918031729906046&xp=11&px=1",
+      "time": "2026-10-12T11:06:33.963Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CV Designer",
+      "title": "Head of Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-operations-cv-designer-mumbai-bengaluru-20-to-30-years-121026916071?src=directSearch&sid=17918033305876208&xp=4&px=1",
+      "time": "2026-10-12T11:09:04.896Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading manufacturer and wholesaler of modular office, educational, and commercial furniture.",
+      "title": "Vice President Operations _Modular Office Furniture",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vice-president-operations-modular-office-furniture-platinum-support-services-bengaluru-15-to-22-years-101026011698?src=directSearch&sid=17918033305876208&xp=5&px=1",
+      "time": "2026-10-12T11:09:16.491Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SR TURBO",
+      "title": "AHP CHP Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ahp-chp-head-sr-turbo-raigarh-hyderabad-ahmedabad-chennai-bengaluru-delhi-ncr-15-to-24-years-101026011832?src=directSearch&sid=17918033305876208&xp=8&px=1",
+      "time": "2026-10-12T11:09:31.637Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SR TURBO",
+      "title": "BTG Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-btg-head-sr-turbo-raigarh-hyderabad-ahmedabad-chennai-bengaluru-delhi-ncr-15-to-24-years-101026011796?src=directSearch&sid=17918033305876208&xp=9&px=1",
+      "time": "2026-10-12T11:09:43.235Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Kantech Industrial solutions",
+      "title": "Furnace Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-furnace-head-kantech-industrial-solution-hosur-bengaluru-8-to-10-years-111026002950?src=directSearch&sid=17918033305876208&xp=13&px=1",
+      "time": "2026-10-12T11:09:54.969Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Relationship Manager - Wealth Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/relationship-manager-wealth-management-1739263?ref=sp&jobPos=11",
+      "time": "2026-10-12T11:11:46.837Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3956,
+  "totalVerifiedInHistory": 3963,
   "portalBreakdown": {
-    "iimjobs": 474,
-    "naukri": 645,
+    "iimjobs": 475,
+    "naukri": 651,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T10:35:01.295Z",
-  "lastUpdated": "12/10/2026, 4:05:01 pm"
+  "lastSyncedAt": "2026-10-12T11:11:46.985Z",
+  "lastUpdated": "12/10/2026, 4:41:46 pm"
 }
