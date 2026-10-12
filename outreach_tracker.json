@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 132,
     "followUpEligible_5plus_days": 142
   },
-  "lastUpdated": "2026-10-12T17:52:01.372Z",
+  "lastUpdated": "2026-10-12T18:25:50.122Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -147,7 +147,7 @@
       "company": "The Glove",
       "title": "Data Governance- Data And Analytics",
       "dispatchedAt": "2026-08-13T18:19:28.289Z",
-      "daysElapsed": 59,
+      "daysElapsed": 60,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
