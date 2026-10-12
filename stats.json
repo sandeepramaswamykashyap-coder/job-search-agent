@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3978,
+  "applicationsSubmitted": 3980,
   "appliedRolesList": [
-    {
-      "company": "Deepgram",
-      "title": "Infrastructure Partner Director",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/1aea5b12-330f-4d3c-b09c-048e5f5f4f3c",
-      "time": "2026-10-04T08:09:31.570Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Infrastructure Partner Director",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/1aea5b12-330f-4d3c-b09c-048e5f5f4f3c",
-      "time": "2026-10-04T08:09:31.826Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Deepgram",
       "title": "Director, People",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/program-manager-senior-program-manager-healthcare-operations-healthcare-medical-1739075?ref=sp&jobPos=18",
       "time": "2026-10-12T18:56:37.159Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ample Technologies",
+      "title": "Lead Manager  IT - Retail Operations & Marketing Technology",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-manager-it-retail-operations-marketing-technology-ample-technologies-bengaluru-8-to-12-years-131026000109?src=directSearch&sid=17918333619023650&xp=10&px=1",
+      "time": "2026-10-12T19:29:49.358Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior IT Professional - Governance/Transformation - Contractual",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-it-professional-governance-transformation-contractual-1738351?ref=sp&jobPos=18",
+      "time": "2026-10-12T19:31:41.112Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3978,
+  "totalVerifiedInHistory": 3980,
   "portalBreakdown": {
-    "iimjobs": 479,
-    "naukri": 662,
+    "iimjobs": 480,
+    "naukri": 663,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T18:56:37.196Z",
-  "lastUpdated": "13/10/2026, 12:26:37 am"
+  "lastSyncedAt": "2026-10-12T19:31:41.153Z",
+  "lastUpdated": "13/10/2026, 1:01:41 am"
 }
