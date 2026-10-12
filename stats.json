@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3953,
+  "applicationsSubmitted": 3956,
   "appliedRolesList": [
-    {
-      "company": "Han Digital Solution (P) Ltd",
-      "title": "Sales Director / Senior Director / AVP",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sales-director-senior-director-avp-han-digital-solution-hyderabad-bengaluru-14-to-20-years-011026038493?src=directSearch&sid=17909990995484663&xp=3&px=1",
-      "time": "2026-10-03T03:45:17.111Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IT Consulting",
-      "title": "Sr Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-manager-hr-india-solutions-bengaluru-10-to-14-years-300926907441?src=directSearch&sid=17910944431904059&xp=12&px=1",
-      "time": "2026-10-04T06:14:47.991Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Trigent Software",
-      "title": "Vice President Business Development Digital Manufacturing Data Offeri",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vice-president-business-development-digital-manufacturing-data-offeri-trigent-software-hyderabad-bengaluru-mumbai-all-areas-9-to-14-years-031026006725?src=directSearch&sid=17910945905803568&xp=11&px=1",
-      "time": "2026-10-04T06:16:59.475Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Axis Bank",
       "title": "Hiring For Branch Operations Head @ Axis Bank, Bangalore",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-planning-and-analysis-technology-internet-1739229?ref=sp&jobPos=4",
       "time": "2026-10-12T09:31:16.399Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Mphasis",
+      "title": "Walk-in || Transaction Processing Officer with Capital Market, Cash Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/myapply/walkInApply?strJobsarr=[121026014118]&applytype=single&resId=116831793&ApplyMode=1&id=92767393&src=h&logstr=----F-0-1--------F-0-1---&applySrc=----F-0-1---&multiApplyResp=%7B%22121026014118%22%3A203%7D&jobTitle=Transaction%20Processing%20Officer%20with%20Capital%20Market%2C%20Cash%20Management",
+      "time": "2026-10-12T10:32:10.850Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "AI Platform Adoption Engineer - Run",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-platform-adoption-engineer-run-cognizant-kolkata-chennai-bengaluru-17-to-24-years-121026014368?src=directSearch&sid=17918012172962583&xp=10&px=1",
+      "time": "2026-10-12T10:34:23.927Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "AI Platform Customization Engineer - Run",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-platform-customization-engineer-run-cognizant-kolkata-chennai-bengaluru-17-to-24-years-121026014033?src=directSearch&sid=17918012172962583&xp=11&px=1",
+      "time": "2026-10-12T10:35:01.259Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3953,
+  "totalVerifiedInHistory": 3956,
   "portalBreakdown": {
     "iimjobs": 474,
-    "naukri": 642,
+    "naukri": 645,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T09:31:16.441Z",
-  "lastUpdated": "12/10/2026, 3:01:16 pm"
+  "lastSyncedAt": "2026-10-12T10:35:01.295Z",
+  "lastUpdated": "12/10/2026, 4:05:01 pm"
 }
