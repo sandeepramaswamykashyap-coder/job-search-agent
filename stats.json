@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3932,
+  "applicationsSubmitted": 3933,
   "appliedRolesList": [
-    {
-      "company": "Dropbox",
-      "title": "Senior Program Manager, Employee Experience",
-      "portal": "greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8234202",
-      "time": "2026-10-01T14:59:23.723Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Leading Client",
       "title": "Lead – Operational Excellence",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-technical-delivery-manager-synechron-hyderabad-pune-bengaluru-12-to-22-years-111026004951?src=directSearch&sid=17917750504276972&xp=3&px=1",
       "time": "2026-10-12T03:18:13.661Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Conduent",
+      "title": "IT Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-service-delivery-manager-conduent-bengaluru-7-to-12-years-121026002001?src=directSearch&sid=17917808696646896&xp=7&px=1",
+      "time": "2026-10-12T04:54:53.717Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3932,
+  "totalVerifiedInHistory": 3933,
   "portalBreakdown": {
     "iimjobs": 469,
-    "naukri": 626,
+    "naukri": 627,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T03:18:13.707Z",
-  "lastUpdated": "12/10/2026, 8:48:13 am"
+  "lastSyncedAt": "2026-10-12T04:54:53.759Z",
+  "lastUpdated": "12/10/2026, 10:24:53 am"
 }
