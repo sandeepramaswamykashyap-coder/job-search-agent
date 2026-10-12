@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3971,
+  "applicationsSubmitted": 3972,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - HR Business Partner - FMCG",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-hr-business-partner-fmcg-1737522?ref=sp&jobPos=14",
-      "time": "2026-10-04T07:16:08.580Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Security Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-director-operation-horizon-hr-bangalore-bengaluru-18-to-22-years-121026034941?src=directSearch&sid=17918152319853430&xp=10&px=1",
       "time": "2026-10-12T14:27:36.166Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Netport Systems",
+      "title": "General Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-general-manager-netport-systems-bengaluru-12-to-18-years-121026035836?src=directSearch&sid=17918173538615264&xp=10&px=1",
+      "time": "2026-10-12T15:02:58.156Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3971,
+  "totalVerifiedInHistory": 3972,
   "portalBreakdown": {
     "iimjobs": 476,
-    "naukri": 658,
+    "naukri": 659,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T14:30:56.897Z",
-  "lastUpdated": "12/10/2026, 8:00:56 pm"
+  "lastSyncedAt": "2026-10-12T15:02:58.200Z",
+  "lastUpdated": "12/10/2026, 8:32:58 pm"
 }
