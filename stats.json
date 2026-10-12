@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3939,
+  "applicationsSubmitted": 3940,
   "appliedRolesList": [
-    {
-      "company": "Embarkgcc Services",
-      "title": "Director  FP&A",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-fp-a-embarkgcc-services-bengaluru-12-to-15-years-300926027901?src=directSearch&sid=17908848547138619&xp=7&px=1",
-      "time": "2026-10-01T20:01:23.848Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Embarkgcc Services",
       "title": "Senior Director  Property Accounting",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/plant-operations-head-1739148?ref=sp_prm&jobPos=1",
       "time": "2026-10-12T06:07:34.376Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "F&A Transformation Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-f-a-transformation-leader-golden-opportunities-pvt-ltd-bengaluru-14-to-18-years-121026905188?src=directSearch&sid=17917870185083885&xp=2&px=1",
+      "time": "2026-10-12T06:37:15.954Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3939,
+  "totalVerifiedInHistory": 3940,
   "portalBreakdown": {
     "iimjobs": 472,
-    "naukri": 630,
+    "naukri": 631,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T06:07:34.420Z",
-  "lastUpdated": "12/10/2026, 11:37:34 am"
+  "lastSyncedAt": "2026-10-12T06:37:15.995Z",
+  "lastUpdated": "12/10/2026, 12:07:15 pm"
 }
