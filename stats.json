@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3941,
+  "applicationsSubmitted": 3943,
   "appliedRolesList": [
-    {
-      "company": "Hexacorp Technical Services",
-      "title": "MLOps Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-mlops-manager-hexacorp-technical-services-bengaluru-8-to-12-years-300926032091?src=directSearch&sid=17908849534746180&xp=13&px=1",
-      "time": "2026-10-01T20:03:00.992Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "LTM",
-      "title": "Organizational Change Management Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-organizational-change-management-consultant-ltm-pune-bengaluru-mumbai-all-areas-7-to-12-years-290926041035?src=directSearch&sid=17908933681774148&xp=11&px=1",
-      "time": "2026-10-01T22:23:28.865Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Aster DM Healthcare - Senior Manager - Financial Planning & Analysis - CA",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-looking-for-delivery-manager-for-big-4-clarity-consulting-pune-gurugram-bengaluru-12-to-18-years-091026030610?src=directSearch&sid=17917892217208885&xp=1&px=1",
       "time": "2026-10-12T07:13:55.904Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "AMS",
+      "title": "Resource Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-resource-manager-ams-bengaluru-9-to-12-years-121026007857?src=directSearch&sid=17917910788664607&xp=11&px=1",
+      "time": "2026-10-12T07:45:03.154Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager/Manager - Procurement & Supply Chain - Textile/Home Furnishings",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-manager-procurement-and-supply-chain-textile-home-furnishings-1739202?ref=sp&jobPos=16",
+      "time": "2026-10-12T07:48:46.502Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3941,
+  "totalVerifiedInHistory": 3943,
   "portalBreakdown": {
-    "iimjobs": 472,
-    "naukri": 632,
+    "iimjobs": 473,
+    "naukri": 633,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T07:13:55.950Z",
-  "lastUpdated": "12/10/2026, 12:43:55 pm"
+  "lastSyncedAt": "2026-10-12T07:48:46.547Z",
+  "lastUpdated": "12/10/2026, 1:18:46 pm"
 }
