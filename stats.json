@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3980,
+  "applicationsSubmitted": 3981,
   "appliedRolesList": [
-    {
-      "company": "Deepgram",
-      "title": "Director, People",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/51a459fc-29b7-48cd-934d-3459dd04b950",
-      "time": "2026-10-04T08:09:52.482Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Deepgram",
       "title": "Director, People",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/senior-it-professional-governance-transformation-contractual-1738351?ref=sp&jobPos=18",
       "time": "2026-10-12T19:31:41.112Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Confidential",
+      "title": "Head of Business Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-business-operations-aarons-visions-mumbai-bengaluru-delhi-ncr-12-to-18-years-050123001291?src=directSearch&sid=17918353738024940&xp=2&px=1",
+      "time": "2026-10-12T20:03:11.273Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3980,
+  "totalVerifiedInHistory": 3981,
   "portalBreakdown": {
     "iimjobs": 480,
-    "naukri": 663,
+    "naukri": 664,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T19:31:41.153Z",
-  "lastUpdated": "13/10/2026, 1:01:41 am"
+  "lastSyncedAt": "2026-10-12T20:03:11.315Z",
+  "lastUpdated": "13/10/2026, 1:33:11 am"
 }
