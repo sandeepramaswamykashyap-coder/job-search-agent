@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3946,
+  "applicationsSubmitted": 3949,
   "appliedRolesList": [
-    {
-      "company": "Leading Client",
-      "title": "Senior Manager - HR Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-hr-operations-golden-opportunities-pvt-ltd-bengaluru-10-to-17-years-011026917387?src=directSearch&sid=17909052101333902&xp=11&px=1",
-      "time": "2026-10-02T01:40:50.676Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zensar",
-      "title": "Zensar Technologies hiring Technical Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-zensar-technologies-hiring-technical-delivery-manager-zensar-pune-bengaluru-12-to-18-years-011026030292?src=directSearch&sid=17909052570951388&xp=13&px=1",
-      "time": "2026-10-02T01:41:27.840Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Haleon - Channel Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/haleon-channel-program-manager-1737454?ref=sp_br_prm&jobPos=1",
-      "time": "2026-10-02T04:16:06.384Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Miros Hotels & Resorts",
       "title": "Assistant General Manager / Senior Manager - Corporate",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-director-delivery-management-epam-systems-hyderabad-chennai-bengaluru-20-to-30-years-040926019049?src=directSearch&sid=17917931200625850&xp=9&px=1",
       "time": "2026-10-12T08:19:16.440Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Product Manager- Financial Services",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-product-manager-financial-services-epam-systems-bengaluru-10-to-13-years-121026010008?src=directSearch&sid=17917950483008073&xp=1&px=1",
+      "time": "2026-10-12T08:51:17.944Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Business Consulting - P&C Commercial",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-consulting-p-c-commercial-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-121026009970?src=directSearch&sid=17917951195419863&xp=3&px=1",
+      "time": "2026-10-12T08:52:32.477Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Solution Architect - SAP MDM IS Retail",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-solution-architect-sap-mdm-is-retail-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-121026010338?src=directSearch&sid=17917951195419863&xp=8&px=1",
+      "time": "2026-10-12T08:53:02.973Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3946,
+  "totalVerifiedInHistory": 3949,
   "portalBreakdown": {
     "iimjobs": 473,
-    "naukri": 636,
+    "naukri": 639,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T08:19:16.478Z",
-  "lastUpdated": "12/10/2026, 1:49:16 pm"
+  "lastSyncedAt": "2026-10-12T08:53:03.008Z",
+  "lastUpdated": "12/10/2026, 2:23:03 pm"
 }
