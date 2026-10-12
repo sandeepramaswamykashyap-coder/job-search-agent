@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3943,
+  "applicationsSubmitted": 3946,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Aster DM Healthcare - Senior Manager - Financial Planning & Analysis - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/aster-dm-healthcare-senior-manager-financial-planning-and-analysis-ca-1737101?ref=sp_br_prm&jobPos=15",
-      "time": "2026-10-01T23:10:33.287Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "THE HOUSE OF ABHINANDAN LODHA (HOABL)",
-      "title": "Performance Enhancement Lead - MarTech & Data Analytics",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-performance-enhancement-lead-martech-data-analytics-the-house-of-abhinandan-lodha-hoabl-bengaluru-8-to-12-years-011026936842?src=directSearch&sid=17909049950493348&xp=4&px=1",
-      "time": "2026-10-02T01:36:49.282Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "A REPUTED CLEINT OF TEAMINNOVATIVE ( TOP TIER CONSULTING FIRM )",
-      "title": "FDD - Manager / AD",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-fdd-manager-ad-innovative-gurugram-bengaluru-mumbai-all-areas-4-to-9-years-230726000169?src=directSearch&sid=17909051828894037&xp=8&px=1",
-      "time": "2026-10-02T01:40:00.428Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Leading Client",
       "title": "Senior Manager - HR Operations",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/senior-manager-manager-procurement-and-supply-chain-textile-home-furnishings-1739202?ref=sp&jobPos=16",
       "time": "2026-10-12T07:48:46.502Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Lead Functional Consultant - SAP MDM IS Retail",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-functional-consultant-sap-mdm-is-retail-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-121026009219?src=directSearch&sid=17917930430347632&xp=8&px=1",
+      "time": "2026-10-12T08:18:05.944Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cerebra",
+      "title": "Oracle EBS AGIS Solution Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-oracle-ebs-agis-solution-architect-cerebra-hyderabad-chennai-bengaluru-8-to-12-years-121026002474?src=directSearch&sid=17917930430347632&xp=10&px=1",
+      "time": "2026-10-12T08:18:17.576Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Director - Delivery Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-delivery-management-epam-systems-hyderabad-chennai-bengaluru-20-to-30-years-040926019049?src=directSearch&sid=17917931200625850&xp=9&px=1",
+      "time": "2026-10-12T08:19:16.440Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3943,
+  "totalVerifiedInHistory": 3946,
   "portalBreakdown": {
     "iimjobs": 473,
-    "naukri": 633,
+    "naukri": 636,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T07:48:46.547Z",
-  "lastUpdated": "12/10/2026, 1:18:46 pm"
+  "lastSyncedAt": "2026-10-12T08:19:16.478Z",
+  "lastUpdated": "12/10/2026, 1:49:16 pm"
 }
