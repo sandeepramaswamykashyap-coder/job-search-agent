@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3940,
+  "applicationsSubmitted": 3941,
   "appliedRolesList": [
-    {
-      "company": "Embarkgcc Services",
-      "title": "Senior Director  Property Accounting",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-director-property-accounting-embarkgcc-services-bangalore-rural-12-to-15-years-300926023811?src=directSearch&sid=17908848547138619&xp=8&px=1",
-      "time": "2026-10-01T20:01:35.427Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Hexacorp Technical Services",
       "title": "MLOps Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-f-a-transformation-leader-golden-opportunities-pvt-ltd-bengaluru-14-to-18-years-121026905188?src=directSearch&sid=17917870185083885&xp=2&px=1",
       "time": "2026-10-12T06:37:15.954Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "MNC company",
+      "title": "Looking For Delivery Manager For Big 4",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-looking-for-delivery-manager-for-big-4-clarity-consulting-pune-gurugram-bengaluru-12-to-18-years-091026030610?src=directSearch&sid=17917892217208885&xp=1&px=1",
+      "time": "2026-10-12T07:13:55.904Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3940,
+  "totalVerifiedInHistory": 3941,
   "portalBreakdown": {
     "iimjobs": 472,
-    "naukri": 631,
+    "naukri": 632,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T06:37:15.995Z",
-  "lastUpdated": "12/10/2026, 12:07:15 pm"
+  "lastSyncedAt": "2026-10-12T07:13:55.950Z",
+  "lastUpdated": "12/10/2026, 12:43:55 pm"
 }
