@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3972,
+  "applicationsSubmitted": 3973,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Security Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0",
-      "time": "2026-10-04T08:08:29.714Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Security Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-general-manager-netport-systems-bengaluru-12-to-18-years-121026035836?src=directSearch&sid=17918173538615264&xp=10&px=1",
       "time": "2026-10-12T15:02:58.156Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Searchends",
+      "title": "Head of Administration and Facilities ( Multi location Operations)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-administration-and-facilities-multi-location-operations-search-advisers-services-guj-bengaluru-17-to-22-years-121026030361?src=directSearch&sid=17918193721449678&xp=7&px=1",
+      "time": "2026-10-12T15:36:45.256Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3972,
+  "totalVerifiedInHistory": 3973,
   "portalBreakdown": {
     "iimjobs": 476,
-    "naukri": 659,
+    "naukri": 660,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T15:02:58.200Z",
-  "lastUpdated": "12/10/2026, 8:32:58 pm"
+  "lastSyncedAt": "2026-10-12T15:36:45.299Z",
+  "lastUpdated": "12/10/2026, 9:06:45 pm"
 }
