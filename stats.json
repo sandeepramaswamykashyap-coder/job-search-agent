@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3968,
+  "applicationsSubmitted": 3969,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Business Head - Operations - Retail/Oil & Gas & Warehousing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/business-head-operations-retail-oil-and-gas-and-warehousing-1737568?ref=sp&jobPos=17",
-      "time": "2026-10-04T06:23:18.707Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Assistant Manager - Statutory Audit - BFSI",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-aep-lead-capgemini-technology-services-india-limited-bengaluru-6-to-11-years-121026918082?src=directSearch&sid=17918091843381951&xp=2&px=1",
       "time": "2026-10-12T12:46:38.604Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "SAP test Automation(Tosca, S4 Hana & AI : RAG & LLM) Banglore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-test-automation-tosca-s4-hana-ai-rag-llm-banglore-pwc-bengaluru-8-to-13-years-300926008442?src=directSearch&sid=1791811261125592&xp=13&px=1",
+      "time": "2026-10-12T13:21:31.865Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3968,
+  "totalVerifiedInHistory": 3969,
   "portalBreakdown": {
     "iimjobs": 476,
-    "naukri": 655,
+    "naukri": 656,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T12:46:38.651Z",
-  "lastUpdated": "12/10/2026, 6:16:38 pm"
+  "lastSyncedAt": "2026-10-12T13:21:31.906Z",
+  "lastUpdated": "12/10/2026, 6:51:31 pm"
 }
