@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3929,
+  "applicationsSubmitted": 3932,
   "appliedRolesList": [
-    {
-      "company": "Sri Tech Solutions",
-      "title": "Business Development Manager _ IT Services Sales",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-development-manager-it-services-sales-sri-tech-solutions-noida-hyderabad-bengaluru-5-to-7-years-300926035495?src=directSearch&sid=1790865203333137&xp=7&px=1",
-      "time": "2026-10-01T14:33:55.733Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Learning & Change Transformation  - Manager - PC MENA",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-learning-change-transformation-manager-pc-mena-ey-kochi-bengaluru-10-to-15-years-300926005451?src=directSearch&sid=1790865203333137&xp=8&px=1",
-      "time": "2026-10-01T14:34:07.279Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Program Manager, Employee Experience",
-      "portal": "direct_portal_greenhouse",
-      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8234202",
-      "time": "2026-10-01T14:59:23.481Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Dropbox",
       "title": "Senior Program Manager, Employee Experience",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/head-broking-operations-1731805?ref=sp&jobPos=18",
       "time": "2026-10-11T18:42:38.241Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Confidential",
+      "title": "Head Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-aarons-visions-pune-chennai-bengaluru-10-to-18-years-050123000279?src=directSearch&sid=17917749396002072&xp=10&px=1",
+      "time": "2026-10-12T03:16:07.091Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Taggd",
+      "title": "Manager Talent Acquisition",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-talent-acquisition-talent-hired-the-store-bengaluru-10-to-16-years-101026013311?src=directSearch&sid=17917749396002072&xp=13&px=1",
+      "time": "2026-10-12T03:16:39.336Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Synechron",
+      "title": "Technical Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-synechron-hyderabad-pune-bengaluru-12-to-22-years-111026004951?src=directSearch&sid=17917750504276972&xp=3&px=1",
+      "time": "2026-10-12T03:18:13.661Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3929,
+  "totalVerifiedInHistory": 3932,
   "portalBreakdown": {
     "iimjobs": 469,
-    "naukri": 623,
+    "naukri": 626,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-11T18:42:38.289Z",
-  "lastUpdated": "12/10/2026, 12:12:38 am"
+  "lastSyncedAt": "2026-10-12T03:18:13.707Z",
+  "lastUpdated": "12/10/2026, 8:48:13 am"
 }
