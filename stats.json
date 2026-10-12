@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3974,
+  "applicationsSubmitted": 3978,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Vendor Security Technical Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3ae71c21-60dd-42b2-a913-58df05988976",
-      "time": "2026-10-04T08:08:49.690Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Vendor Security Technical Program Manager",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3ae71c21-60dd-42b2-a913-58df05988976",
-      "time": "2026-10-04T08:08:49.926Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Privacy Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/1fea22ce-2438-44cb-b28f-2c0109f2f78a",
-      "time": "2026-10-04T08:09:10.594Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Privacy Operations Lead",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/1fea22ce-2438-44cb-b28f-2c0109f2f78a",
-      "time": "2026-10-04T08:09:10.850Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Deepgram",
       "title": "Infrastructure Partner Director",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-director-of-consulting-pegasystems-worldwide-india-pvt-ltd-bengaluru-15-to-20-years-121026924915?src=directSearch&sid=17918250850453764&xp=9&px=1",
       "time": "2026-10-12T17:11:52.309Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Confidential",
+      "title": "Senior Team Manager Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-team-manager-operations-aarons-visions-hyderabad-chennai-bengaluru-8-to-13-years-261122004284?src=directSearch&sid=1791831044620628&xp=11&px=1",
+      "time": "2026-10-12T18:51:12.122Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Chalo - Program Manager - Government Project & Technology Implementation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/chalo-program-manager-government-project-and-technology-implementation-1739085?ref=sp&jobPos=18",
+      "time": "2026-10-12T18:56:14.749Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager - Operations - Quick Commerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-operations-quick-commerce-1738404?ref=sp&jobPos=16",
+      "time": "2026-10-12T18:56:30.966Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager/Senior Program Manager - Healthcare Operations - Healthcare/Medi",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-senior-program-manager-healthcare-operations-healthcare-medical-1739075?ref=sp&jobPos=18",
+      "time": "2026-10-12T18:56:37.159Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3974,
+  "totalVerifiedInHistory": 3978,
   "portalBreakdown": {
-    "iimjobs": 476,
-    "naukri": 661,
+    "iimjobs": 479,
+    "naukri": 662,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T17:11:52.349Z",
-  "lastUpdated": "12/10/2026, 10:41:52 pm"
+  "lastSyncedAt": "2026-10-12T18:56:37.196Z",
+  "lastUpdated": "13/10/2026, 12:26:37 am"
 }
