@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3937,
+  "applicationsSubmitted": 3939,
   "appliedRolesList": [
-    {
-      "company": "Anika Industries",
-      "title": "Design Operations Head - BOM/BLR",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-design-operations-head-bom-blr-anika-industries-bengaluru-12-to-20-years-011026935862?src=directSearch&sid=17908820917936114&xp=13&px=1",
-      "time": "2026-10-01T19:15:19.262Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Axis Services",
-      "title": "Medical Coding  Associate Director / Manager / Assistant Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-medical-coding-associate-director-manager-assistant-manager-axis-services-hyderabad-navi-mumbai-bengaluru-10-to-19-years-300926031253?src=directSearch&sid=17908848547138619&xp=6&px=1",
-      "time": "2026-10-01T20:01:12.271Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Embarkgcc Services",
       "title": "Director  FP&A",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/servicenow-ai-architect-it-and-systems-1739140?ref=sp&jobPos=12",
       "time": "2026-10-12T05:34:14.557Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Alstom Transportation",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-121026904471?src=directSearch&sid=17917849609095918&xp=7&px=1",
+      "time": "2026-10-12T06:02:55.105Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Plant Operations Head",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/plant-operations-head-1739148?ref=sp_prm&jobPos=1",
+      "time": "2026-10-12T06:07:34.376Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3937,
+  "totalVerifiedInHistory": 3939,
   "portalBreakdown": {
-    "iimjobs": 471,
-    "naukri": 629,
+    "iimjobs": 472,
+    "naukri": 630,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 36,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-12T05:34:14.596Z",
-  "lastUpdated": "12/10/2026, 11:04:14 am"
+  "lastSyncedAt": "2026-10-12T06:07:34.420Z",
+  "lastUpdated": "12/10/2026, 11:37:34 am"
 }
