@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4010,
+  "applicationsSubmitted": 4013,
   "appliedRolesList": [
-    {
-      "company": "Urban Company (UC)",
-      "title": "Associate Director - Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-operations-urban-company-uc-hyderabad-bengaluru-6-to-8-years-051026004852?src=directSearch&sid=17911823319804200&xp=2&px=1",
-      "time": "2026-10-05T06:39:31.900Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CGI",
-      "title": "Senior Finance Lead (Program Financial Controller)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-finance-lead-program-financial-controller-cgi-bengaluru-10-to-14-years-051026004450?src=directSearch&sid=17911825053371325&xp=6&px=1",
-      "time": "2026-10-05T06:42:06.107Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Resource Pro",
-      "title": "Service Delivery Manager / Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-delivery-manager-operations-manager-resource-pro-bengaluru-12-to-18-years-051026007517?src=directSearch&sid=17911837919883029&xp=7&px=1",
-      "time": "2026-10-05T07:03:26.284Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Mankind Pharma - Senior Manager - Distribution Planner - IIM/ISB/MDI/FMS",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-data-analytics-and-automation-fmcg-1739548?ref=sp&jobPos=11",
       "time": "2026-10-13T10:20:34.516Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "ERM Placement Services",
+      "title": "Manager - Senior Manager Regulatory Compliance & Monitoring",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-senior-manager-regulatory-compliance-monitoring-erm-placement-services-hyderabad-bengaluru-delhi-ncr-12-to-18-years-131026037179?src=directSearch&sid=17918905338739785&xp=7&px=1",
+      "time": "2026-10-13T11:22:31.631Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Rhea Healthcare",
+      "title": "Center Head/Facility Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-center-head-facility-director-rhea-healthcare-bengaluru-10-to-15-years-131026917251?src=directSearch&sid=17918907670857593&xp=4&px=1",
+      "time": "2026-10-13T11:26:24.554Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TechBiz Global GmbH",
+      "title": "Senior Program Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZV3hMgAJAQAIvGtfFUO4AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZV3hMgAJAQAIvGtfFUO4AAA&from=page-two-signin",
+      "time": "2026-10-13T11:47:24.666Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4010,
+  "totalVerifiedInHistory": 4013,
   "portalBreakdown": {
     "iimjobs": 498,
-    "naukri": 674,
+    "naukri": 676,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 37,
+    "indeed": 38,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T10:20:34.565Z",
-  "lastUpdated": "13/10/2026, 3:50:34 pm"
+  "lastSyncedAt": "2026-10-13T11:47:24.729Z",
+  "lastUpdated": "13/10/2026, 5:17:24 pm"
 }
