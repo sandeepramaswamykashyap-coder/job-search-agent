@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4034,
+  "applicationsSubmitted": 4036,
   "appliedRolesList": [
-    {
-      "company": "Venpa Staffing Services",
-      "title": "TPRM Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tprm-manager-venpa-staffing-bengaluru-7-to-12-years-051026030058?src=directSearch&sid=17912012255868244&xp=13&px=1",
-      "time": "2026-10-05T11:54:31.058Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Nagarro",
-      "title": "Principal Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-principal-consultant-nagarro-pune-gurugram-bengaluru-11-to-15-years-051026029514?src=directSearch&sid=17912014403354914&xp=8&px=1",
-      "time": "2026-10-05T11:57:47.736Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "The/Nudge Institute - Senior Manager - Program Management",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/temporal/ef2b1521-ebbd-45bc-98c8-2cc740c7207b",
       "time": "2026-10-13T21:50:57.734Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Corporate in B2C/B2B Recruitment Sector",
+      "title": "Test Manager - Pan India",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-test-manager-pan-india-tekskills-india-bengaluru-10-to-20-years-131026932977?src=directSearch&sid=17919287722799701&xp=1&px=1",
+      "time": "2026-10-13T21:59:46.497Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "NetApp - Program Manager - Sales Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/netapp-program-manager-sales-operations-1739626?ref=sp&jobPos=18",
+      "time": "2026-10-13T22:01:07.571Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4034,
+  "totalVerifiedInHistory": 4036,
   "portalBreakdown": {
-    "iimjobs": 504,
-    "naukri": 686,
+    "iimjobs": 505,
+    "naukri": 687,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 41,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T21:50:57.776Z",
-  "lastUpdated": "14/10/2026, 3:20:57 am"
+  "lastSyncedAt": "2026-10-13T22:01:07.619Z",
+  "lastUpdated": "14/10/2026, 3:31:07 am"
 }
