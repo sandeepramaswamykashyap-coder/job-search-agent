@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4025,
+  "applicationsSubmitted": 4026,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Consultant - Manufacturing Excellence - Manufacturing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/consultant-manufacturing-excellence-manufacturing-1737804?ref=sp&jobPos=13",
-      "time": "2026-10-05T08:55:43.618Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Aziro",
       "title": "Technical Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/head-operations-excellence-and-business-intelligence-1739630?ref=sp&jobPos=16",
       "time": "2026-10-13T13:14:34.498Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Intel",
+      "title": "AI/ML Technologist",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-ml-technologist-intel-technology-india-pvt-ltd-bengaluru-8-to-13-years-131026927265?src=directSearch&sid=17918991168793168&xp=10&px=1",
+      "time": "2026-10-13T13:45:50.949Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4025,
+  "totalVerifiedInHistory": 4026,
   "portalBreakdown": {
     "iimjobs": 504,
-    "naukri": 682,
+    "naukri": 683,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 38,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T13:14:34.543Z",
-  "lastUpdated": "13/10/2026, 6:44:34 pm"
+  "lastSyncedAt": "2026-10-13T13:45:50.996Z",
+  "lastUpdated": "13/10/2026, 7:15:50 pm"
 }
