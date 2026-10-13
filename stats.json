@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3988,
+  "applicationsSubmitted": 3990,
   "appliedRolesList": [
-    {
-      "company": "Prefect",
-      "title": "Director of Product",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/prefect/40af3189-c64d-4529-8170-2d57629f8e5a",
-      "time": "2026-10-04T09:31:47.668Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Prefect",
-      "title": "Director of Product",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/prefect/40af3189-c64d-4529-8170-2d57629f8e5a",
-      "time": "2026-10-04T09:31:47.907Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Medical Coding Solutions Provider",
       "title": "Medical Coding -Sr Manager For Ops/Delivery Quality For EM/HHC/HCC",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/head-hr-operations-and-technology-transformation-1739375?ref=sp&jobPos=2",
       "time": "2026-10-13T05:10:12.598Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Synectics  APAC",
+      "title": "Senior Manager Sales US Healthcare Cybersecurity",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-sales-us-healthcare-cybersecurity-synectics-apac-kochi-hyderabad-bengaluru-10-to-15-years-131026011268?src=directSearch&sid=17918698706133559&xp=6&px=1",
+      "time": "2026-10-13T05:38:08.466Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior IT Project Manager - HR Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-it-project-manager-hr-transformation-1739394?ref=sp&jobPos=12",
+      "time": "2026-10-13T05:44:50.049Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3988,
+  "totalVerifiedInHistory": 3990,
   "portalBreakdown": {
-    "iimjobs": 485,
-    "naukri": 665,
+    "iimjobs": 486,
+    "naukri": 666,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T05:10:12.646Z",
-  "lastUpdated": "13/10/2026, 10:40:12 am"
+  "lastSyncedAt": "2026-10-13T05:44:50.092Z",
+  "lastUpdated": "13/10/2026, 11:14:50 am"
 }
