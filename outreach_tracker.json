@@ -4,10 +4,10 @@
   "linkedInInvitesCount": 23,
   "responseFunnel": {
     "initialWindow_0_2_days": 0,
-    "underEvaluation_3_4_days": 76,
-    "followUpEligible_5plus_days": 198
+    "underEvaluation_3_4_days": 65,
+    "followUpEligible_5plus_days": 209
   },
-  "lastUpdated": "2026-10-13T13:52:30.990Z",
+  "lastUpdated": "2026-10-13T14:26:01.950Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -697,7 +697,7 @@
       "company": "Freshworks",
       "title": "Head of Talent Acquisition - Leadership Hiring",
       "dispatchedAt": "2026-09-22T14:15:28.398Z",
-      "daysElapsed": 20,
+      "daysElapsed": 21,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -708,7 +708,7 @@
       "company": "Infosys BPM",
       "title": "Senior Vice President - Operations & Delivery",
       "dispatchedAt": "2026-09-22T14:16:38.999Z",
-      "daysElapsed": 20,
+      "daysElapsed": 21,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -719,7 +719,7 @@
       "company": "Zycus Infotech",
       "title": "Head of Global Talent Acquisition",
       "dispatchedAt": "2026-09-22T14:16:46.155Z",
-      "daysElapsed": 20,
+      "daysElapsed": 21,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -730,7 +730,7 @@
       "company": "Happiest Minds",
       "title": "Vice President - Digital Business Services",
       "dispatchedAt": "2026-09-22T14:16:52.543Z",
-      "daysElapsed": 20,
+      "daysElapsed": 21,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -741,7 +741,7 @@
       "company": "Walmart Global Tech",
       "title": "Director of Talent Acquisition - India",
       "dispatchedAt": "2026-09-22T14:16:59.461Z",
-      "daysElapsed": 20,
+      "daysElapsed": 21,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1940,10 +1940,10 @@
       "company": "Happiest Minds Technologies",
       "title": "Senior Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T14:22:49.697Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -1951,10 +1951,10 @@
       "company": "CGI India",
       "title": "Senior Vice President & Business Unit Leader",
       "dispatchedAt": "2026-10-08T14:22:59.184Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -1962,10 +1962,10 @@
       "company": "CGI India",
       "title": "Director - Corporate Talent & HR Programs",
       "dispatchedAt": "2026-10-08T14:23:08.243Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -1973,10 +1973,10 @@
       "company": "NTT DATA",
       "title": "Chief Executive Officer",
       "dispatchedAt": "2026-10-08T14:23:19.091Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -1984,10 +1984,10 @@
       "company": "NTT DATA India",
       "title": "Senior Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T14:23:30.251Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -1995,10 +1995,10 @@
       "company": "Kyndryl",
       "title": "Chairman & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T14:23:40.382Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2006,10 +2006,10 @@
       "company": "Kyndryl India",
       "title": "President - Kyndryl India",
       "dispatchedAt": "2026-10-08T14:23:50.659Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2017,10 +2017,10 @@
       "company": "Kyndryl India",
       "title": "Vice President & Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T14:24:12.276Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2028,10 +2028,10 @@
       "company": "DXC Technology",
       "title": "President & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T14:25:40.558Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2039,10 +2039,10 @@
       "company": "DXC Technology India",
       "title": "Managing Director - India Delivery Centre",
       "dispatchedAt": "2026-10-08T14:25:50.502Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2050,10 +2050,10 @@
       "company": "DXC Technology India",
       "title": "Vice President - Human Resources & TA Lead",
       "dispatchedAt": "2026-10-08T14:25:59.197Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",

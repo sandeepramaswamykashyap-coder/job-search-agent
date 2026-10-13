@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4026,
+  "applicationsSubmitted": 4028,
   "appliedRolesList": [
-    {
-      "company": "Aziro",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-aziro-bengaluru-8-to-12-years-051026018085?src=directSearch&sid=17911943339484663&xp=13&px=1",
-      "time": "2026-10-05T09:59:21.388Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Maveric",
-      "title": "Service Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-delivery-manager-maveric-pune-chennai-bengaluru-15-to-20-years-051026017767?src=directSearch&sid=17911945626623987&xp=8&px=1",
-      "time": "2026-10-05T10:03:03.721Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "TVS Credit Services Ltd",
       "title": "Senior Program Manager - Product Portfolio & Digital Transformation",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-ai-ml-technologist-intel-technology-india-pvt-ltd-bengaluru-8-to-13-years-131026927265?src=directSearch&sid=17918991168793168&xp=10&px=1",
       "time": "2026-10-13T13:45:50.949Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Hitachi Energy",
+      "title": "SCM Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-scm-delivery-manager-hitachi-energy-india-limited-bengaluru-15-to-20-years-131026927600?src=directSearch&sid=17919013431305520&xp=2&px=1",
+      "time": "2026-10-13T14:22:37.399Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Tcs hiring For Service Desk Service Delivery manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tcs-hiring-for-service-desk-service-delivery-manager-tata-consultancy-services-bengaluru-15-to-20-years-131026043997?src=directSearch&sid=17919013431305520&xp=5&px=1",
+      "time": "2026-10-13T14:22:52.338Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4026,
+  "totalVerifiedInHistory": 4028,
   "portalBreakdown": {
     "iimjobs": 504,
-    "naukri": 683,
+    "naukri": 685,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 38,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T13:45:50.996Z",
-  "lastUpdated": "13/10/2026, 7:15:50 pm"
+  "lastSyncedAt": "2026-10-13T14:30:58.887Z",
+  "lastUpdated": "13/10/2026, 8:00:58 pm"
 }
