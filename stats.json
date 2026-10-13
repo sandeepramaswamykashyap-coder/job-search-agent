@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3991,
+  "applicationsSubmitted": 3993,
   "appliedRolesList": [
-    {
-      "company": "Cherry Bekaert",
-      "title": "Service Help Desk - Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-help-desk-lead-cherry-bekaert-hyderabad-chennai-bengaluru-10-to-14-years-021026009536?src=directSearch&sid=17911110752188604&xp=12&px=1",
-      "time": "2026-10-04T10:52:03.963Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Quest Global",
-      "title": "Senior Talent Acquisition Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-talent-acquisition-consultant-quest-global-bengaluru-10-to-20-years-021026011429?src=directSearch&sid=17911110752188604&xp=13&px=1",
-      "time": "2026-10-04T10:52:15.493Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Well-reputed Client",
       "title": "Operations Manager / Head",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-hr-business-partner-it-1739412?ref=sp&jobPos=8",
       "time": "2026-10-13T06:19:10.154Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Genpact",
+      "title": "Forward Deployed Engineer- Insurance Domain",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-forward-deployed-engineer-insurance-domain-genpact-hyderabad-bengaluru-delhi-ncr-10-to-20-years-170926034119?src=directSearch&sid=17918741678886919&xp=1&px=1",
+      "time": "2026-10-13T06:49:47.250Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ola Electric Mobility - Head - Sales & Operations Planning",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ola-electric-mobility-head-sales-and-operations-planning-1739443?ref=sp_br_prm&jobPos=3",
+      "time": "2026-10-13T06:53:20.284Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3991,
+  "totalVerifiedInHistory": 3993,
   "portalBreakdown": {
-    "iimjobs": 487,
-    "naukri": 666,
+    "iimjobs": 488,
+    "naukri": 667,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T06:19:10.201Z",
-  "lastUpdated": "13/10/2026, 11:49:10 am"
+  "lastSyncedAt": "2026-10-13T06:53:20.325Z",
+  "lastUpdated": "13/10/2026, 12:23:20 pm"
 }
