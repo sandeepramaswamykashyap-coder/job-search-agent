@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3990,
+  "applicationsSubmitted": 3991,
   "appliedRolesList": [
-    {
-      "company": "Medical Coding Solutions Provider",
-      "title": "Medical Coding -Sr Manager For Ops/Delivery Quality For EM/HHC/HCC",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-medical-coding-sr-manager-for-ops-delivery-quality-for-em-hhc-hcc-bizopp-management-consultants-hyderabad-chennai-bengaluru-10-to-15-years-021026008966?src=directSearch&sid=17911110752188604&xp=10&px=1",
-      "time": "2026-10-04T10:51:52.364Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cherry Bekaert",
       "title": "Service Help Desk - Lead",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/senior-it-project-manager-hr-transformation-1739394?ref=sp&jobPos=12",
       "time": "2026-10-13T05:44:50.049Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - HR Business Partner - IT",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-hr-business-partner-it-1739412?ref=sp&jobPos=8",
+      "time": "2026-10-13T06:19:10.154Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3990,
+  "totalVerifiedInHistory": 3991,
   "portalBreakdown": {
-    "iimjobs": 486,
+    "iimjobs": 487,
     "naukri": 666,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T05:44:50.092Z",
-  "lastUpdated": "13/10/2026, 11:14:50 am"
+  "lastSyncedAt": "2026-10-13T06:19:10.201Z",
+  "lastUpdated": "13/10/2026, 11:49:10 am"
 }
