@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4031,
+  "applicationsSubmitted": 4032,
   "appliedRolesList": [
-    {
-      "company": "Logixhealth",
-      "title": "Senior Manager - Medical Coding (Business Transformation)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-medical-coding-business-transformation-logixhealth-bengaluru-13-to-18-years-051026029045?src=directSearch&sid=17911998042381527&xp=12&px=1",
-      "time": "2026-10-05T11:30:47.810Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - Operations - Project Execution - Real Estate",
@@ -4001,6 +3993,14 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoTD1AUgAAAACZYnkfAAOAQAAw6c7hhjDPJYoqzQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoTD1AUgAAAACZYnkfAAOAQAAw6c7hhjDPJYoqzQAAA&from=page-two-signin",
       "time": "2026-10-13T18:19:07.043Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Nutanix",
+      "title": "Services Sales Program Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZZUECgAJAQAIur-0dFNUAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZZUECgAJAQAIur-0dFNUAAA&from=page-two-signin",
+      "time": "2026-10-13T18:49:56.271Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4031,
+  "totalVerifiedInHistory": 4032,
   "portalBreakdown": {
     "iimjobs": 504,
     "naukri": 686,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 40,
+    "indeed": 41,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T18:19:07.141Z",
-  "lastUpdated": "13/10/2026, 11:49:07 pm"
+  "lastSyncedAt": "2026-10-13T18:49:56.349Z",
+  "lastUpdated": "14/10/2026, 12:19:56 am"
 }
