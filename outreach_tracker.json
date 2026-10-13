@@ -4,10 +4,10 @@
   "linkedInInvitesCount": 23,
   "responseFunnel": {
     "initialWindow_0_2_days": 0,
-    "underEvaluation_3_4_days": 60,
-    "followUpEligible_5plus_days": 214
+    "underEvaluation_3_4_days": 44,
+    "followUpEligible_5plus_days": 230
   },
-  "lastUpdated": "2026-10-13T14:59:49.995Z",
+  "lastUpdated": "2026-10-13T15:34:13.055Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -125,7 +125,7 @@
       "company": "Visara Human Capital Services",
       "title": "Technical Program Manager Data Analytics",
       "dispatchedAt": "2026-08-10T15:19:13.002Z",
-      "daysElapsed": 63,
+      "daysElapsed": 64,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2116,10 +2116,10 @@
       "company": "Wipro Limited",
       "title": "Senior Vice President - Global Program Delivery",
       "dispatchedAt": "2026-10-08T15:10:44.125Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2127,10 +2127,10 @@
       "company": "Accenture Strategy India",
       "title": "Managing Director - Supply Chain & Operations Lead",
       "dispatchedAt": "2026-10-08T15:10:53.324Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2138,10 +2138,10 @@
       "company": "Ramco Systems",
       "title": "Chief Executive Officer & Transformation Head",
       "dispatchedAt": "2026-10-08T15:11:02.207Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2149,10 +2149,10 @@
       "company": "GreytHR",
       "title": "Co-Founder & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T15:11:11.930Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2160,10 +2160,10 @@
       "company": "Info Edge India",
       "title": "Founder & Executive Vice Chairman",
       "dispatchedAt": "2026-10-08T15:11:20.999Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2171,10 +2171,10 @@
       "company": "Info Edge India",
       "title": "Managing Director & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T15:11:29.893Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2182,10 +2182,10 @@
       "company": "E2E Networks",
       "title": "Managing Director & Cloud Platform Leader",
       "dispatchedAt": "2026-10-08T15:11:40.030Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2193,10 +2193,10 @@
       "company": "Wipro Enterprise",
       "title": "Senior Strategic Advisor & Transformation Partner",
       "dispatchedAt": "2026-10-08T15:11:48.971Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2204,10 +2204,10 @@
       "company": "InMobi Group",
       "title": "Founder & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T15:13:29.753Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2215,10 +2215,10 @@
       "company": "Tech Mahindra",
       "title": "Chief Executive Officer & Managing Director",
       "dispatchedAt": "2026-10-08T15:13:39.086Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2226,10 +2226,10 @@
       "company": "Mastercard India",
       "title": "Vice President - Operations & Transformation Delivery",
       "dispatchedAt": "2026-10-08T15:13:48.328Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2237,10 +2237,10 @@
       "company": "Mastercard India",
       "title": "Director - Talent Acquisition India",
       "dispatchedAt": "2026-10-08T15:13:57.332Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2248,10 +2248,10 @@
       "company": "Visa India",
       "title": "Senior Director - Global Network Operations",
       "dispatchedAt": "2026-10-08T15:14:06.458Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2259,10 +2259,10 @@
       "company": "Visa India",
       "title": "Head of Talent Acquisition India",
       "dispatchedAt": "2026-10-08T15:14:16.648Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2270,10 +2270,10 @@
       "company": "PayPal India",
       "title": "Director - Global Operations & Customer Excellence",
       "dispatchedAt": "2026-10-08T15:14:25.479Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2281,10 +2281,10 @@
       "company": "PayPal India",
       "title": "Senior Manager - Leadership Hiring",
       "dispatchedAt": "2026-10-08T15:14:34.509Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
