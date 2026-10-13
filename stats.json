@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4006,
+  "applicationsSubmitted": 4008,
   "appliedRolesList": [
-    {
-      "company": "MNC Group",
-      "title": "Plant Head-Garments-Inner Wear  - MNC-Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-plant-head-garments-inner-wear-mnc-bangalore-vesat-management-bengaluru-15-to-24-years-031026002665?src=directSearch&sid=17911809899948866&xp=2&px=1",
-      "time": "2026-10-05T06:16:49.323Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Milestone Technologies",
-      "title": "Senior Business Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-business-analyst-milestone-technologies-kochi-hyderabad-bengaluru-7-to-10-years-051026004851?src=directSearch&sid=17911810577142890&xp=1&px=1",
-      "time": "2026-10-05T06:17:51.770Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Gratitude India",
       "title": "Delivery Manager - Voice",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-business-finance-financial-planning-and-analysis-manufacturing-ca-1739510?ref=sp&jobPos=15",
       "time": "2026-10-13T08:37:54.400Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spot Your Leaders",
+      "title": "HR Analytics Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hr-analytics-senior-manager-spot-your-leaders-bengaluru-12-to-18-years-131026024767?src=directSearch&sid=17918823337637747&xp=4&px=1",
+      "time": "2026-10-13T09:05:51.329Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Acuity Analytics",
+      "title": "Associate Director/ Director- Programme Management Office(PMO)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-director-programme-management-office-pmo-acuity-analytics-gurugram-bengaluru-delhi-ncr-10-to-15-years-131026027774?src=directSearch&sid=17918825403327227&xp=9&px=1",
+      "time": "2026-10-13T09:09:56.880Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4006,
+  "totalVerifiedInHistory": 4008,
   "portalBreakdown": {
     "iimjobs": 497,
-    "naukri": 671,
+    "naukri": 673,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T08:37:54.443Z",
-  "lastUpdated": "13/10/2026, 2:07:54 pm"
+  "lastSyncedAt": "2026-10-13T09:09:56.918Z",
+  "lastUpdated": "13/10/2026, 2:39:56 pm"
 }
