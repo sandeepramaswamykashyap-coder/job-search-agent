@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4000,
+  "applicationsSubmitted": 4006,
   "appliedRolesList": [
-    {
-      "company": "Aparna Constructions And Estates",
-      "title": "Senior Sales Manager -Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-sales-manager-bangalore-aparna-constructions-and-estates-bengaluru-12-to-14-years-300926026112?src=directSearch&sid=17911792699668565&xp=12&px=1",
-      "time": "2026-10-05T05:48:50.410Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Head Site Operations(Formulation Prod. Mfg. Co.)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-site-operations-formulation-prod-mfg-co-atharv-consultants-bengaluru-15-to-24-years-011026931632?src=directSearch&sid=17911795749558480&xp=5&px=1",
-      "time": "2026-10-05T05:53:09.181Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Hyvision System",
-      "title": "Machining - General Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-machining-general-manager-hyvision-system-devanahalli-bengaluru-10-to-15-years-090626027782?src=directSearch&sid=17911795749558480&xp=6&px=1",
-      "time": "2026-10-05T05:53:20.868Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Reputed PEB (Pre Engineered Company in Bellary in Karnataka)",
-      "title": "Head Plant Operations - PEB (Pre Engineered Building) Bellary",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-plant-operations-peb-pre-engineered-building-bellary-axmiyan-hr-solution-ballari-chennai-bengaluru-15-to-20-years-011026012133?src=directSearch&sid=17911795749558480&xp=9&px=1",
-      "time": "2026-10-05T05:53:32.421Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Eleprof Karnataka",
-      "title": "Plant Head And Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-plant-head-and-operations-manager-eleprof-karnataka-bengaluru-19-to-27-years-031026009810?src=directSearch&sid=17911795749558480&xp=11&px=1",
-      "time": "2026-10-05T05:53:44.065Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "GK House Of Edtech",
-      "title": "Director of Placements & Career Advancement",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-of-placements-career-advancement-house-of-edtech-bengaluru-8-to-13-years-051026005129?src=directSearch&sid=17911807857148325&xp=12&px=1",
-      "time": "2026-10-05T06:13:46.093Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "MNC Group",
       "title": "Plant Head-Garments-Inner Wear  - MNC-Bangalore",
@@ -4001,6 +3953,54 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-digital-marketing-real-estate-1739499?ref=sp&jobPos=5",
       "time": "2026-10-13T08:02:39.329Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "EYP-IDD-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-eyp-idd-manager-ey-hyderabad-pune-bengaluru-8-to-13-years-131026024962?src=directSearch&sid=17918802938668646&xp=10&px=1",
+      "time": "2026-10-13T08:32:07.830Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ABB",
+      "title": "Local Business and Project Controller, India",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-local-business-and-project-controller-india-abb-india-limited-bengaluru-8-to-12-years-131026024536?src=directSearch&sid=17918804335028211&xp=9&px=1",
+      "time": "2026-10-13T08:34:42.897Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "NetApp",
+      "title": "Sales Operations BI & Reporting Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-operations-bi-reporting-manager-netapp-bengaluru-5-to-8-years-131026023398?src=directSearch&sid=17918805084514772&xp=4&px=1",
+      "time": "2026-10-13T08:35:22.765Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "CheQ - Senior Manager - Finance - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cheq-senior-manager-finance-ca-1739503?ref=sp_prm&jobPos=2",
+      "time": "2026-10-13T08:36:41.281Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Cialfo - Head - Operations - Student Placement",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cialfo-head-operations-student-placement-1739520?ref=sp&jobPos=15",
+      "time": "2026-10-13T08:37:17.175Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Business Finance/Financial Planning & Analysis - Manufa",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-business-finance-financial-planning-and-analysis-manufacturing-ca-1739510?ref=sp&jobPos=15",
+      "time": "2026-10-13T08:37:54.400Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4000,
+  "totalVerifiedInHistory": 4006,
   "portalBreakdown": {
-    "iimjobs": 494,
-    "naukri": 668,
+    "iimjobs": 497,
+    "naukri": 671,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T08:02:39.371Z",
-  "lastUpdated": "13/10/2026, 1:32:39 pm"
+  "lastSyncedAt": "2026-10-13T08:37:54.443Z",
+  "lastUpdated": "13/10/2026, 2:07:54 pm"
 }
