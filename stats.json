@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4023,
+  "applicationsSubmitted": 4025,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "MobiKwik - Senior Product Manager - Broking",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/mobikwik-senior-product-manager-broking-1737812?ref=sp_br_prm&jobPos=7",
-      "time": "2026-10-05T08:53:59.505Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Transformation Leader - Business Transformation - Banking/Financial Servi",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-transformation-leader-business-transformation-banking-financial-services-1737795?ref=sp&jobPos=9",
-      "time": "2026-10-05T08:55:07.167Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Consultant - Manufacturing Excellence - Manufacturing",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/beiersdorf-senior-quality-and-regulatory-manager-1739615?ref=sp_br_prm&jobPos=10",
       "time": "2026-10-13T12:39:41.012Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "LTM",
+      "title": "Service Delivery Manager (ADM projects)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-adm-projects-ltm-chennai-bengaluru-14-to-20-years-131026044200?src=directSearch&sid=1791897210376414&xp=10&px=1",
+      "time": "2026-10-13T13:13:51.349Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operations Excellence & Business Intelligence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-operations-excellence-and-business-intelligence-1739630?ref=sp&jobPos=16",
+      "time": "2026-10-13T13:14:34.498Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4023,
+  "totalVerifiedInHistory": 4025,
   "portalBreakdown": {
-    "iimjobs": 503,
-    "naukri": 681,
+    "iimjobs": 504,
+    "naukri": 682,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 38,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T12:39:41.053Z",
-  "lastUpdated": "13/10/2026, 6:09:41 pm"
+  "lastSyncedAt": "2026-10-13T13:14:34.543Z",
+  "lastUpdated": "13/10/2026, 6:44:34 pm"
 }
