@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3996,
+  "applicationsSubmitted": 4000,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Capitalmind - Senior Manager - Marketing - IIM/FMS/MDI/XLRI",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/capitalmind-senior-manager-marketing-iim-fms-mdi-xlri-1737646?ref=sp_prm&jobPos=11",
-      "time": "2026-10-04T19:44:36.498Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Product Supplier Sales - Automotive/Defence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-product-supplier-sales-automotive-defence-1737651?ref=sp&jobPos=15",
-      "time": "2026-10-05T02:25:11.657Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uno Bank",
-      "title": "Senior Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-project-manager-uno-bank-bengaluru-10-to-15-years-300926032722?src=directSearch&sid=17911792699668565&xp=10&px=1",
-      "time": "2026-10-05T05:48:27.237Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Life Insurance",
-      "title": "Senior Branch Manager Sourcing Agency - Life Insurance Co",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-branch-manager-sourcing-agency-life-insurance-co-rbg-hr-services-llp-hyderabad-chennai-bengaluru-10-to-20-years-300926032600?src=directSearch&sid=17911792699668565&xp=11&px=1",
-      "time": "2026-10-05T05:48:38.840Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Aparna Constructions And Estates",
       "title": "Senior Sales Manager -Bangalore",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-assistant-general-manager-legal-telecom-llb-1739457?ref=sp&jobPos=1",
       "time": "2026-10-13T07:28:16.712Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "66degrees - Senior Manager - Sales",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/66degrees-senior-manager-sales-1739476?ref=sp_prm&jobPos=1",
+      "time": "2026-10-13T08:01:19.630Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "RSM - Technology Performance Manager - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/rsm-technology-performance-manager-digital-transformation-1739486?ref=sp_br_prm&jobPos=8",
+      "time": "2026-10-13T08:01:58.546Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Data Management Lead - HR Strategic Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-data-management-lead-hr-strategic-transformation-1739480?ref=sp_br&jobPos=12",
+      "time": "2026-10-13T08:02:06.046Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Digital Marketing - Real Estate",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-digital-marketing-real-estate-1739499?ref=sp&jobPos=5",
+      "time": "2026-10-13T08:02:39.329Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3996,
+  "totalVerifiedInHistory": 4000,
   "portalBreakdown": {
-    "iimjobs": 490,
+    "iimjobs": 494,
     "naukri": 668,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T07:28:16.756Z",
-  "lastUpdated": "13/10/2026, 12:58:16 pm"
+  "lastSyncedAt": "2026-10-13T08:02:39.371Z",
+  "lastUpdated": "13/10/2026, 1:32:39 pm"
 }
