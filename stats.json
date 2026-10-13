@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4020,
+  "applicationsSubmitted": 4023,
   "appliedRolesList": [
-    {
-      "company": "Miles Education",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-miles-education-bengaluru-10-to-20-years-031026003145?src=directSearch&sid=17911853840075125&xp=11&px=1",
-      "time": "2026-10-05T07:30:46.066Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior manager-FP&A-Strategic finance/Financial planning & Analysis",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-fp-a-strategic-finance-financial-planning-analysis-ey-bengaluru-14-to-23-years-230726034740?src=directSearch&sid=17911868355244377&xp=3&px=1",
-      "time": "2026-10-05T07:54:09.771Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "KPMG - Senior Manager - SAP Finance Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/kpmg-senior-manager-sap-finance-transformation-1737784?ref=sp_br&jobPos=8",
-      "time": "2026-10-05T08:31:26.771Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "MobiKwik - Senior Product Manager - Broking",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/net-revenue-management-lead-revenue-growth-management-consulting-1739605?ref=sp&jobPos=8",
       "time": "2026-10-13T12:06:39.344Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Brandtouch & Analytics",
+      "title": "Sr. BTL Operations Manager- Bengaluru",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-btl-operations-manager-bengaluru-brandtouch-analytics-bengaluru-4-to-9-years-090926028439?src=directSearch&sid=17918948545406393&xp=11&px=1",
+      "time": "2026-10-13T12:34:45.435Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "ABAP Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-abap-manager-pwc-kolkata-hyderabad-bengaluru-9-to-14-years-131026043653?src=directSearch&sid=17918949207387210&xp=12&px=1",
+      "time": "2026-10-13T12:35:58.115Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Beiersdorf - Senior Quality & Regulatory Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/beiersdorf-senior-quality-and-regulatory-manager-1739615?ref=sp_br_prm&jobPos=10",
+      "time": "2026-10-13T12:39:41.012Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4020,
+  "totalVerifiedInHistory": 4023,
   "portalBreakdown": {
-    "iimjobs": 502,
-    "naukri": 679,
+    "iimjobs": 503,
+    "naukri": 681,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 38,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T12:06:39.385Z",
-  "lastUpdated": "13/10/2026, 5:36:39 pm"
+  "lastSyncedAt": "2026-10-13T12:39:41.053Z",
+  "lastUpdated": "13/10/2026, 6:09:41 pm"
 }
