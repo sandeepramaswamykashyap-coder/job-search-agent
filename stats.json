@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3993,
+  "applicationsSubmitted": 3996,
   "appliedRolesList": [
-    {
-      "company": "Well-reputed Client",
-      "title": "Operations Manager / Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operations-manager-head-head-hunters-bengaluru-14-to-18-years-041026004249?src=directSearch&sid=17911137134533931&xp=13&px=1",
-      "time": "2026-10-04T11:35:40.888Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Shanvi Staffing Services",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-shanvi-staffing-services-bengaluru-6-to-11-years-010926018444?src=directSearch&sid=17911427771781294&xp=12&px=1",
-      "time": "2026-10-04T19:40:07.923Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Manager - Commercial Forecasting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amgen-senior-manager-commercial-forecasting-1737645?ref=sp_prm&jobPos=9",
-      "time": "2026-10-04T19:44:30.368Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Capitalmind - Senior Manager - Marketing - IIM/FMS/MDI/XLRI",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/ola-electric-mobility-head-sales-and-operations-planning-1739443?ref=sp_br_prm&jobPos=3",
       "time": "2026-10-13T06:53:20.284Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Program Manager - Hospital Compliance",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-hospital-compliance-shree-hr-consultancy-services-bengaluru-10-to-15-years-131026915992?src=directSearch&sid=1791876130151362&xp=7&px=1",
+      "time": "2026-10-13T07:22:27.780Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager - Automotive",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-automotive-1738940?ref=sp&jobPos=18",
+      "time": "2026-10-13T07:27:35.958Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager/Assistant General Manager - Legal - Telecom - LLB",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-assistant-general-manager-legal-telecom-llb-1739457?ref=sp&jobPos=1",
+      "time": "2026-10-13T07:28:16.712Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3993,
+  "totalVerifiedInHistory": 3996,
   "portalBreakdown": {
-    "iimjobs": 488,
-    "naukri": 667,
+    "iimjobs": 490,
+    "naukri": 668,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T06:53:20.325Z",
-  "lastUpdated": "13/10/2026, 12:23:20 pm"
+  "lastSyncedAt": "2026-10-13T07:28:16.756Z",
+  "lastUpdated": "13/10/2026, 12:58:16 pm"
 }
