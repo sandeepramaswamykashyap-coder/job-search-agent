@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4029,
+  "applicationsSubmitted": 4031,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager - Digital Business - eCommerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-digital-business-ecommerce-1737847?ref=sp_prm&jobPos=12",
-      "time": "2026-10-05T10:49:41.187Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tekskills",
-      "title": "It Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-program-manager-tekskills-bangalore-rural-bengaluru-10-to-15-years-051026027554?src=directSearch&sid=17911984860169521&xp=13&px=1",
-      "time": "2026-10-05T11:08:39.875Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Logixhealth",
       "title": "Senior Manager - Medical Coding (Business Transformation)",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-senior-engineering-manager-merchant-fulfillment-uber-india-research-and-development-private-limited-bengaluru-12-to-17-years-131026928550?src=directSearch&sid=1791903259541166&xp=5&px=1",
       "time": "2026-10-13T14:54:37.235Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "TGBPL TP India - IBU",
+      "title": "Senior Manager - Talent Excellence|International|03112025",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0V60sAAAACZX4KHAAQAQEBBwTWJ3kWKO-E_rghwwAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0V60sAAAACZX4KHAAQAQEBBwTWJ3kWKO-E_rghwwAA&from=page-two-signin",
+      "time": "2026-10-13T18:02:59.974Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Siemens Energy",
+      "title": "Sr Payments Analyst",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoTD1AUgAAAACZYnkfAAOAQAAw6c7hhjDPJYoqzQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoTD1AUgAAAACZYnkfAAOAQAAw6c7hhjDPJYoqzQAAA&from=page-two-signin",
+      "time": "2026-10-13T18:19:07.043Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4029,
+  "totalVerifiedInHistory": 4031,
   "portalBreakdown": {
     "iimjobs": 504,
     "naukri": 686,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 38,
+    "indeed": 40,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T14:54:37.281Z",
-  "lastUpdated": "13/10/2026, 8:24:37 pm"
+  "lastSyncedAt": "2026-10-13T18:19:07.141Z",
+  "lastUpdated": "13/10/2026, 11:49:07 pm"
 }

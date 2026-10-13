@@ -4,10 +4,10 @@
   "linkedInInvitesCount": 23,
   "responseFunnel": {
     "initialWindow_0_2_days": 0,
-    "underEvaluation_3_4_days": 12,
-    "followUpEligible_5plus_days": 262
+    "underEvaluation_3_4_days": 0,
+    "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-13T17:18:53.887Z",
+  "lastUpdated": "2026-10-13T17:53:12.416Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2644,10 +2644,10 @@
       "company": "Carelon Global Solutions",
       "title": "Director - Talent Acquisition India",
       "dispatchedAt": "2026-10-08T17:21:40.998Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2655,10 +2655,10 @@
       "company": "IQVIA India",
       "title": "Managing Director - South Asia Operations",
       "dispatchedAt": "2026-10-08T17:21:50.421Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2666,10 +2666,10 @@
       "company": "IQVIA India",
       "title": "Head of Leadership Recruitment",
       "dispatchedAt": "2026-10-08T17:22:05.847Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2677,10 +2677,10 @@
       "company": "Parexel India",
       "title": "Senior Vice President & Global Head of Delivery Operations",
       "dispatchedAt": "2026-10-08T17:22:23.465Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2688,10 +2688,10 @@
       "company": "Target India",
       "title": "Vice President - Global Capabilities & Operations",
       "dispatchedAt": "2026-10-08T17:22:32.503Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2699,10 +2699,10 @@
       "company": "Walmart Global Tech",
       "title": "Vice President - Retail Operations Platforms",
       "dispatchedAt": "2026-10-08T17:22:44.180Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2710,10 +2710,10 @@
       "company": "Lowe's India",
       "title": "Vice President - Technology & Operations Delivery",
       "dispatchedAt": "2026-10-08T17:22:53.178Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2721,10 +2721,10 @@
       "company": "Lowe's India",
       "title": "Director - Talent Acquisition",
       "dispatchedAt": "2026-10-08T17:23:02.738Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2732,10 +2732,10 @@
       "company": "Levi Strauss India",
       "title": "Head of Global GCC Delivery & Transformation",
       "dispatchedAt": "2026-10-08T17:24:57.851Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2743,10 +2743,10 @@
       "company": "Levi Strauss India",
       "title": "Senior Talent Acquisition Lead",
       "dispatchedAt": "2026-10-08T17:25:06.835Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2754,10 +2754,10 @@
       "company": "Nike India Tech Center",
       "title": "Senior Director - Enterprise Program Delivery",
       "dispatchedAt": "2026-10-08T17:25:16.553Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     },
     {
       "type": "Cold Email",
@@ -2765,10 +2765,10 @@
       "company": "Lululemon India GCC",
       "title": "Director - Enterprise Operations & Technology Delivery",
       "dispatchedAt": "2026-10-08T17:25:25.138Z",
-      "daysElapsed": 4,
-      "stage": "Under Evaluation (3-4 days)",
+      "daysElapsed": 5,
+      "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
-      "followUpStatus": "Awaiting Recruiter Response"
+      "followUpStatus": "Follow-Up Email 1 Due"
     }
   ],
   "connectionsList": [
