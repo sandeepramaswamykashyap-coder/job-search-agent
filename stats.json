@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 3983,
+  "applicationsSubmitted": 3985,
   "appliedRolesList": [
-    {
-      "company": "Circle",
-      "title": "Director of Strategic Partnerships",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/circle/569f2f24-03ca-4cdb-80d5-0e28ba331580",
-      "time": "2026-10-04T08:50:54.247Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Circle",
-      "title": "Director of Strategic Partnerships",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/circle/569f2f24-03ca-4cdb-80d5-0e28ba331580",
-      "time": "2026-10-04T08:50:54.516Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Uipath",
       "title": "Senior Industry Practice Director, Healthcare Provider",
@@ -4001,6 +3985,22 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZV3hMgAKAQALsfpkQZO-XAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZV3hMgAKAQALsfpkQZO-XAAA&from=page-two-signin",
       "time": "2026-10-13T02:02:18.560Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Marketing Manager - Brand Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/marketing-manager-brand-management-1739358?ref=sp&jobPos=9",
+      "time": "2026-10-13T04:35:22.784Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager/Manager - Finance & Accounts - Real Estate - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-manager-finance-and-accounts-real-estate-ca-1739356?ref=sp&jobPos=5",
+      "time": "2026-10-13T04:35:51.290Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 3983,
+  "totalVerifiedInHistory": 3985,
   "portalBreakdown": {
-    "iimjobs": 480,
+    "iimjobs": 482,
     "naukri": 665,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 37,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T02:02:18.626Z",
-  "lastUpdated": "13/10/2026, 7:32:18 am"
+  "lastSyncedAt": "2026-10-13T04:35:51.326Z",
+  "lastUpdated": "13/10/2026, 10:05:51 am"
 }
