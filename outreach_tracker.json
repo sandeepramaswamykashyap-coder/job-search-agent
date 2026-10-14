@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-14T08:14:02.869Z",
+  "lastUpdated": "2026-10-14T08:44:21.120Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1126,7 +1126,7 @@
       "company": "Salesforce India",
       "title": "Senior Director - Professional Services Delivery",
       "dispatchedAt": "2026-10-04T08:14:10.593Z",
-      "daysElapsed": 9,
+      "daysElapsed": 10,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1137,7 +1137,7 @@
       "company": "Workday India",
       "title": "Principal Recruiter - Enterprise Applications",
       "dispatchedAt": "2026-10-04T08:14:19.361Z",
-      "daysElapsed": 9,
+      "daysElapsed": 10,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1148,7 +1148,7 @@
       "company": "Freshworks",
       "title": "Director - Global Program Management",
       "dispatchedAt": "2026-10-04T08:14:27.987Z",
-      "daysElapsed": 9,
+      "daysElapsed": 10,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1159,7 +1159,7 @@
       "company": "UiPath India",
       "title": "Vice President - Customer Success & Delivery",
       "dispatchedAt": "2026-10-04T08:14:36.745Z",
-      "daysElapsed": 9,
+      "daysElapsed": 10,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1170,7 +1170,7 @@
       "company": "Infosys",
       "title": "Executive Vice President - Enterprise Service Delivery",
       "dispatchedAt": "2026-10-04T08:14:45.192Z",
-      "daysElapsed": 9,
+      "daysElapsed": 10,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1181,7 +1181,7 @@
       "company": "Infosys BPM",
       "title": "Associate Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:14:54.241Z",
-      "daysElapsed": 9,
+      "daysElapsed": 10,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
