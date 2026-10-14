@@ -1,119 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4093,
+  "applicationsSubmitted": 4107,
   "appliedRolesList": [
-    {
-      "company": "Atlassian",
-      "title": "Principal Enterprise Delivery Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRBSTJ4AAAACZRltmAAPAQAyM7FXMlBqkAVu3LZSAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRBSTJ4AAAACZRltmAAPAQAyM7FXMlBqkAVu3LZSAAA&from=page-two-signin",
-      "time": "2026-10-06T09:21:29.623Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Atlassian",
-      "title": "Principal Technical Program Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRBYQRwAAAACZNieoQAIAQAA7kOSAZIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRBYQRwAAAACZNieoQAIAQAA7kOSAZIAAA&from=page-two-signin",
-      "time": "2026-10-06T09:33:27.655Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "GitLab",
-      "title": "Director, Support (Bengaluru)",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&from=page-two-signin",
-      "time": "2026-10-06T09:38:25.262Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Defsys Solutions",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-defsys-solutions-bengaluru-14-to-20-years-061026015555?src=directSearch&sid=17912800094842415&xp=5&px=1",
-      "time": "2026-10-06T09:47:06.993Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Chamundi Die Cast Pvt",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-chamundi-die-cast-pvt-bengaluru-13-to-17-years-061026006966?src=directSearch&sid=17912800094842415&xp=7&px=1",
-      "time": "2026-10-06T09:47:18.589Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Everforth Quinnox",
-      "title": "Program Manager- Everforth Quinnox",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-everforth-quinnox-everforth-quinnox-bengaluru-15-to-20-years-061026013634?src=directSearch&sid=1791280093518973&xp=7&px=1",
-      "time": "2026-10-06T09:48:37.518Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Han Digital Solution",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-han-digital-solution-hyderabad-bengaluru-12-to-18-years-061026016039?src=directSearch&sid=1791280093518973&xp=13&px=1",
-      "time": "2026-10-06T09:48:58.938Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tavant",
-      "title": "ServiceNow Technical Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-technical-architect-tavant-technologies-india-pvt-ltd-hyderabad-bengaluru-10-to-13-years-061026015885?src=directSearch&sid=17912802480105488&xp=10&px=1",
-      "time": "2026-10-06T09:51:21.825Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Kaleyra",
-      "title": "Program Quality & Process Excellence Manager (Remote) #272",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRBYQRwAAAACZNieoQAIAQAA7kOSAZIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRBYQRwAAAACZNieoQAIAQAA7kOSAZIAAA&from=page-two-signin",
-      "time": "2026-10-06T10:13:42.931Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "INOPTRA DIGITAL",
-      "title": "Director – IT Infrastructure Services (Managed Services)",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AASAQEBBzDUJSq7-RLlybY9uhizAAA&from=page-two-signin",
-      "time": "2026-10-06T10:19:41.427Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mongodb",
-      "title": "Senior Manager, Engineering",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-engineering-mongodb-software-india-private-limited-bengaluru-10-to-15-years-061026916602?src=directSearch&sid=17912822996176490&xp=10&px=1",
-      "time": "2026-10-06T10:25:33.633Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Photon",
-      "title": "Program Manager  -  Photon  |  Location - Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-photon-location-bangalore-photon-bengaluru-8-to-13-years-061026018064?src=directSearch&sid=17912823688773003&xp=12&px=1",
-      "time": "2026-10-06T10:26:41.447Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CGI",
-      "title": "Lead Data Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-data-engineer-cgi-information-systems-and-management-consultants-bengaluru-7-to-12-years-061026909631?src=directSearch&sid=17912824336241428&xp=9&px=1",
-      "time": "2026-10-06T10:27:40.974Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "PwC India",
-      "title": "Change Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-change-manager-pwc-india-hyderabad-chennai-bengaluru-6-to-11-years-061026012636?src=directSearch&sid=17912826405333298&xp=2&px=1",
-      "time": "2026-10-06T10:31:03.070Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Black Box - Senior Account Manager - GCC",
@@ -4001,6 +3889,118 @@
       "url": "https://www.naukri.com/job-listings-rc-regulatory-compliance-csv-mes-manager-ernst-young-llp-bengaluru-8-to-13-years-141026929281?src=directSearch&sid=17919840933651742&xp=9&px=1",
       "time": "2026-10-14T13:22:23.978Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Tech S and T-Solution Architect-SM-GDSN04",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tech-s-and-t-solution-architect-sm-gdsn04-ernst-young-llp-bengaluru-9-to-14-years-141026930880?src=directSearch&sid=17919860305159998&xp=10&px=1",
+      "time": "2026-10-14T13:54:17.990Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "SAP Scrum Master - Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-scrum-master-project-manager-ernst-young-llp-bengaluru-8-to-13-years-141026929148?src=directSearch&sid=17919860305159998&xp=11&px=1",
+      "time": "2026-10-14T13:54:29.616Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "IT Service Owner - EY Global Delivery Services",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-service-owner-ey-global-delivery-services-ernst-young-llp-bengaluru-9-to-12-years-141026931362?src=directSearch&sid=17919860728127540&xp=1&px=1",
+      "time": "2026-10-14T13:54:46.999Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Popo Ventures",
+      "title": "Head Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-popo-ventures-bengaluru-10-to-12-years-141026036029?src=directSearch&sid=17919860728127540&xp=7&px=1",
+      "time": "2026-10-14T13:55:08.507Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior - Finacle Techno-Functional",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-finacle-techno-functional-ernst-young-llp-bengaluru-5-to-10-years-141026931464?src=directSearch&sid=1791986112118327&xp=1&px=1",
+      "time": "2026-10-14T13:55:26.136Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior - Fraud and Financial Crime",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-fraud-and-financial-crime-ernst-young-llp-bengaluru-6-to-11-years-141026928854?src=directSearch&sid=1791986112118327&xp=6&px=1",
+      "time": "2026-10-14T13:55:37.818Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Digi SC-Planning-Kinaxis-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-digi-sc-planning-kinaxis-manager-ernst-young-llp-bengaluru-8-to-13-years-141026928813?src=directSearch&sid=1791986112118327&xp=11&px=1",
+      "time": "2026-10-14T13:55:52.759Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Wesprime  Business Solutions Pvt Ltd",
+      "title": "Project Manager - odoo ERP",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-odoo-erp-wesprime-business-solutions-pvt-ltd-ernakulam-kozhikode-bengaluru-7-to-11-years-141026021575?src=directSearch&sid=1791986112118327&xp=12&px=1",
+      "time": "2026-10-14T13:56:04.321Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Supervising Associate - Resource Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-supervising-associate-resource-management-ernst-young-llp-bengaluru-12-to-14-years-141026933966?src=directSearch&sid=17919861676337456&xp=4&px=1",
+      "time": "2026-10-14T13:56:25.128Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Orcapod Consulting Services",
+      "title": "Delivery Lead/ Delivery Manager, Tech Staffing _Remote",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-delivery-manager-tech-staffing-remote-orcapod-consulting-services-bengaluru-8-to-12-years-300326009049?src=directSearch&sid=17919862049054215&xp=12&px=1",
+      "time": "2026-10-14T13:57:02.594Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Marketing Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/09192de4-81c0-4da5-b632-e240637bf02b",
+      "time": "2026-10-14T14:22:28.824Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Marketing Operations",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/09192de4-81c0-4da5-b632-e240637bf02b",
+      "time": "2026-10-14T14:22:29.123Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Global Deal Desk",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
+      "time": "2026-10-14T14:22:52.621Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Global Deal Desk",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
+      "time": "2026-10-14T14:22:52.901Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4093,
+  "totalVerifiedInHistory": 4107,
   "portalBreakdown": {
     "iimjobs": 519,
-    "naukri": 728,
+    "naukri": 738,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4684,14 +4684,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 459,
-    "ashby": 350,
+    "direct_portal_ashby": 461,
+    "ashby": 352,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 43,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T13:22:24.020Z",
-  "lastUpdated": "14/10/2026, 6:52:24 pm"
+  "lastSyncedAt": "2026-10-14T14:22:52.943Z",
+  "lastUpdated": "14/10/2026, 7:52:52 pm"
 }
