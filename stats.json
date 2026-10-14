@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4058,
+  "applicationsSubmitted": 4060,
   "appliedRolesList": [
-    {
-      "company": "Infosys",
-      "title": "Google CCAI Developer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-google-ccai-developer-infosys-limited-bengaluru-9-to-14-years-051026930618?src=directSearch&sid=17912362298487495&xp=13&px=1",
-      "time": "2026-10-05T21:37:56.721Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "EY - Manager/Senior Manager - Human Resource Transformation - IIM/FMS/MDI/XLRI",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ey-manager-senior-manager-human-resource-transformation-iim-fms-mdi-xlri-1737944?ref=sp_prm&jobPos=3",
-      "time": "2026-10-06T04:19:09.342Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Xpheno",
       "title": "Project Lead",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-manager-gbs-non-fs-finance-commercial-ernst-young-llp-bengaluru-10-to-15-years-131026946230?src=directSearch&sid=17919391686777248&xp=10&px=1",
       "time": "2026-10-14T00:53:16.202Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Titan - Senior Strategic Account Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/titan-senior-strategic-account-manager-1739658?ref=sp_br_prm&jobPos=11",
+      "time": "2026-10-14T04:38:20.070Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vice President - Operations & Profit Center Head - LT/MV/HT Cables",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vice-president-operations-and-profit-center-head-lt-mv-ht-cables-1739660?ref=sp_prm&jobPos=4",
+      "time": "2026-10-14T04:38:49.052Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4058,
+  "totalVerifiedInHistory": 4060,
   "portalBreakdown": {
-    "iimjobs": 505,
+    "iimjobs": 507,
     "naukri": 708,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 42,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T00:53:16.243Z",
-  "lastUpdated": "14/10/2026, 6:23:16 am"
+  "lastSyncedAt": "2026-10-14T04:38:49.091Z",
+  "lastUpdated": "14/10/2026, 10:08:49 am"
 }
