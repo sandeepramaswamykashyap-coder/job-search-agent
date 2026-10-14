@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4068,
+  "applicationsSubmitted": 4070,
   "appliedRolesList": [
-    {
-      "company": "Deloitte Shared Services India",
-      "title": "Lead Business Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-business-analyst-deloitte-shared-services-india-bangalore-rural-bengaluru-10-to-13-years-061026008179?src=directSearch&sid=17912694592899630&xp=1&px=1",
-      "time": "2026-10-06T06:51:13.478Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "FIS",
-      "title": "Quality Analyst Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-quality-analyst-engineer-fis-global-business-solutions-india-pvt-ltd-chennai-bengaluru-7-to-12-years-061026905362?src=directSearch&sid=17912694592899630&xp=13&px=1",
-      "time": "2026-10-06T06:52:01.307Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "CV Designer",
       "title": "Vice President / Senior Vice President - Business Strategy & Growth",
@@ -4001,6 +3985,22 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZaQ5zQAEAQACPAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZaQ5zQAEAQACPAAA&from=page-two-signin",
       "time": "2026-10-14T10:56:46.203Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Morningstar - Manager - AI Solutions Engineering & Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/morningstar-manager-ai-solutions-engineering-and-transformation-1739848?ref=sp_br_prm&jobPos=5",
+      "time": "2026-10-14T11:17:14.540Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "President - Development Management - Education/Teaching/Training",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/president-development-management-education-teaching-training-1739849?ref=sp&jobPos=11",
+      "time": "2026-10-14T11:17:25.035Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4068,
+  "totalVerifiedInHistory": 4070,
   "portalBreakdown": {
-    "iimjobs": 514,
+    "iimjobs": 516,
     "naukri": 708,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 43,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T10:56:46.272Z",
-  "lastUpdated": "14/10/2026, 4:26:46 pm"
+  "lastSyncedAt": "2026-10-14T11:17:25.075Z",
+  "lastUpdated": "14/10/2026, 4:47:25 pm"
 }
