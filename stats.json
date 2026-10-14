@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4053,
+  "applicationsSubmitted": 4058,
   "appliedRolesList": [
-    {
-      "company": "Capgemini",
-      "title": "Java Full Stack Architect -GENAI - Cloud-Native",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-java-full-stack-architect-genai-cloud-native-capgemini-technology-services-india-limited-bengaluru-12-to-17-years-051026930985?src=directSearch&sid=17912305977944701&xp=12&px=1",
-      "time": "2026-10-05T20:03:57.037Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "Payments and Cards Testing Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-payments-and-cards-testing-consultant-infosys-limited-bengaluru-9-to-14-years-051026931885?src=directSearch&sid=17912333655469580&xp=6&px=1",
-      "time": "2026-10-05T20:49:49.653Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "AI Strategic Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-strategic-consultant-infosys-limited-bengaluru-15-to-20-years-051026932126?src=directSearch&sid=17912334505962024&xp=12&px=1",
-      "time": "2026-10-05T20:51:37.392Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "Financial Services Business Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-financial-services-business-consultant-infosys-limited-bengaluru-12-to-15-years-051026932607?src=directSearch&sid=17912361432605986&xp=7&px=1",
-      "time": "2026-10-05T21:36:07.322Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Capgemini",
-      "title": "QE Solution Architect - Pre-Sales & Solution Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-qe-solution-architect-pre-sales-solution-lead-capgemini-technology-services-india-limited-chennai-gurugram-bengaluru-9-to-12-years-051026932672?src=directSearch&sid=17912361432605986&xp=8&px=1",
-      "time": "2026-10-05T21:36:18.871Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Infosys",
       "title": "Google CCAI Developer",
@@ -4001,6 +3961,46 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZZUECgAIAQAtm5xHFEgAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZZUECgAIAQAtm5xHFEgAAA&from=page-two-signin",
       "time": "2026-10-14T00:36:55.169Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Client Technology -Senior Product Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-client-technology-senior-product-delivery-manager-ernst-young-llp-bengaluru-11-to-12-years-131026946766?src=directSearch&sid=17919389169226448&xp=4&px=1",
+      "time": "2026-10-14T00:48:51.295Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "New-Tech Risk Cross Sector Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-new-tech-risk-cross-sector-manager-ernst-young-llp-bengaluru-7-to-12-years-131026946388?src=directSearch&sid=17919389169226448&xp=7&px=1",
+      "time": "2026-10-14T00:49:03.038Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior SAP Solution Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-sap-solution-architect-ernst-young-llp-bengaluru-15-to-20-years-131026946763?src=directSearch&sid=17919391135746572&xp=7&px=1",
+      "time": "2026-10-14T00:52:14.586Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "UST",
+      "title": "Talent Acquisition Manager - Semiconductor",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-talent-acquisition-manager-semiconductor-ust-bengaluru-10-to-15-years-141026000662?src=directSearch&sid=17919391135746572&xp=12&px=1",
+      "time": "2026-10-14T00:52:26.388Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Manager-GBS-NON FS FINANCE-COMMERCIAL",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-gbs-non-fs-finance-commercial-ernst-young-llp-bengaluru-10-to-15-years-131026946230?src=directSearch&sid=17919391686777248&xp=10&px=1",
+      "time": "2026-10-14T00:53:16.202Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4053,
+  "totalVerifiedInHistory": 4058,
   "portalBreakdown": {
     "iimjobs": 505,
-    "naukri": 703,
+    "naukri": 708,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 42,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T00:36:55.234Z",
-  "lastUpdated": "14/10/2026, 6:06:55 am"
+  "lastSyncedAt": "2026-10-14T00:53:16.243Z",
+  "lastUpdated": "14/10/2026, 6:23:16 am"
 }
