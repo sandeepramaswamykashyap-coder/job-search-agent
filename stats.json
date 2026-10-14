@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4107,
+  "applicationsSubmitted": 4109,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Black Box - Senior Account Manager - GCC",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/black-box-senior-account-manager-gcc-1738101?ref=sp_prm&jobPos=6",
-      "time": "2026-10-06T10:32:00.115Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Black Box - Senior Account Manager - Technology Sector",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/black-box-senior-account-manager-technology-sector-1738100?ref=sp_prm&jobPos=8",
-      "time": "2026-10-06T10:32:06.347Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager - Accounts & Finance - NBFC",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
       "time": "2026-10-14T14:22:52.901Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "BCD Travel",
+      "title": "Director, Service Delivery, Asia Pacific",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=16bf9d8848d2a3c2",
+      "time": "2026-10-14T16:42:37.136Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Principal Consultant",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZamvdgANAQAD_r8E81DT8NlJeAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZamvdgANAQAD_r8E81DT8NlJeAAA&from=page-two-signin",
+      "time": "2026-10-14T16:47:29.721Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4107,
+  "totalVerifiedInHistory": 4109,
   "portalBreakdown": {
     "iimjobs": 519,
     "naukri": 738,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 43,
+    "indeed": 45,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T14:30:01.278Z",
-  "lastUpdated": "14/10/2026, 8:00:01 pm"
+  "lastSyncedAt": "2026-10-14T16:47:29.789Z",
+  "lastUpdated": "14/10/2026, 10:17:29 pm"
 }
