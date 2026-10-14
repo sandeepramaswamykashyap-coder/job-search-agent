@@ -1,103 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4041,
+  "applicationsSubmitted": 4053,
   "appliedRolesList": [
-    {
-      "company": "Navi Limited",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-navi-limited-bengaluru-2-to-6-years-051026036607?src=directSearch&sid=17912055345141793&xp=2&px=1",
-      "time": "2026-10-05T13:05:48.769Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Foodland - Head - FMCG Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/foodland-head-fmcg-operations-1737919?ref=sp&jobPos=16",
-      "time": "2026-10-05T13:11:00.529Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Simple Energy",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-simple-energy-bengaluru-7-to-18-years-051026039561?src=directSearch&sid=17912069104798433&xp=1&px=1",
-      "time": "2026-10-05T13:28:44.741Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "PwC",
-      "title": "AI/ Gen AI Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-gen-ai-senior-manager-pwc-hyderabad-bengaluru-15-to-20-years-051026039770?src=directSearch&sid=17912082574862060&xp=5&px=1",
-      "time": "2026-10-05T13:51:18.336Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Nous Infosystems",
-      "title": "Technical Project Manager--with a CMMi level 5 company",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-project-manager-with-a-cmmi-level-5-company-artizent-infosolutions-private-limited-bengaluru-12-to-16-years-180926017073?src=directSearch&sid=17912085912332657&xp=12&px=1",
-      "time": "2026-10-05T13:57:14.872Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Legal Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/191bba6f-c66d-4ac0-8ddd-300b272046e0",
-      "time": "2026-10-05T14:09:51.481Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Legal Operations Lead",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/191bba6f-c66d-4ac0-8ddd-300b272046e0",
-      "time": "2026-10-05T14:09:51.748Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager/Chief Manager - Data Science - Insurance - IIT/NIT/IIM/FMS/MDI",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-chief-manager-data-science-insurance-iit-nit-iim-fms-mdi-1737934?ref=sp&jobPos=12",
-      "time": "2026-10-05T15:30:34.585Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "24 7 ai",
-      "title": "Director - Network Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-network-operations-24-7-ai-bengaluru-16-to-19-years-120826043816?src=directSearch&sid=17912194815512355&xp=3&px=1",
-      "time": "2026-10-05T16:58:21.017Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "LTM",
-      "title": "Delivery Manager(AI)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-ai-ltm-bengaluru-15-to-18-years-051026042934?src=directSearch&sid=17912238890554213&xp=2&px=1",
-      "time": "2026-10-05T18:11:46.572Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tiger Analytics",
-      "title": "Senior Manager - Business Development",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-business-development-tiger-analytics-bengaluru-8-to-13-years-060826009909?src=directSearch&sid=17912276928058207&xp=11&px=1",
-      "time": "2026-10-05T19:15:52.518Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Capgemini",
-      "title": "SAP JVA Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-jva-lead-capgemini-technology-services-india-limited-gandhinagar-pune-bengaluru-9-to-14-years-051026931021?src=directSearch&sid=17912305977944701&xp=11&px=1",
-      "time": "2026-10-05T20:03:45.437Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Capgemini",
       "title": "Java Full Stack Architect -GENAI - Cloud-Native",
@@ -4001,6 +3905,102 @@
       "url": "https://www.naukri.com/job-listings-senior-financial-crime-consultant-ernst-young-llp-bengaluru-6-to-11-years-131026945757?src=directSearch&sid=17919348504755967&xp=8&px=1",
       "time": "2026-10-13T23:41:34.622Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "GyroHR Consulting",
+      "title": "Senior Manager  Sales & Revenue Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-sales-revenue-operations-gyrohr-bengaluru-12-to-14-years-131026044332?src=directSearch&sid=17919366418195665&xp=6&px=1",
+      "time": "2026-10-14T00:10:56.173Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "BTS_Manager_Trust Returns (1041)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-bts-manager-trust-returns-1041-ernst-young-llp-bengaluru-8-to-13-years-131026945882?src=directSearch&sid=17919366418195665&xp=11&px=1",
+      "time": "2026-10-14T00:11:14.415Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "GMx Transition Manager Tax",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gmx-transition-manager-tax-ernst-young-llp-bengaluru-10-to-15-years-131026946018?src=directSearch&sid=17919367190416907&xp=6&px=1",
+      "time": "2026-10-14T00:12:23.258Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "RC - REGULATORY COMPLIANCE - Clinical - CA - Veeva - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-rc-regulatory-compliance-clinical-ca-veeva-manager-ernst-young-llp-bengaluru-8-to-12-years-131026946095?src=directSearch&sid=17919367190416907&xp=7&px=1",
+      "time": "2026-10-14T00:12:34.879Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "BC Sector - Lifescience - BAT-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-bc-sector-lifescience-bat-manager-ernst-young-llp-bengaluru-9-to-14-years-131026946156?src=directSearch&sid=17919367190416907&xp=8&px=1",
+      "time": "2026-10-14T00:12:46.460Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "SAP BDC-DSP-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-bdc-dsp-manager-ernst-young-llp-bengaluru-9-to-14-years-131026945991?src=directSearch&sid=17919367190416907&xp=12&px=1",
+      "time": "2026-10-14T00:13:07.924Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "BTS - GTRS - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-bts-gtrs-manager-ernst-young-llp-bengaluru-9-to-14-years-131026946465?src=directSearch&sid=17919367910081098&xp=5&px=1",
+      "time": "2026-10-14T00:13:25.393Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tekskills",
+      "title": "ServiceNow Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-program-manager-tekskills-bengaluru-10-to-15-years-131026926622?src=directSearch&sid=17919368249298936&xp=2&px=1",
+      "time": "2026-10-14T00:13:59.171Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Tax ACR - RTR - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tax-acr-rtr-manager-ernst-young-llp-bengaluru-10-to-15-years-131026946345?src=directSearch&sid=17919368249298936&xp=9&px=1",
+      "time": "2026-10-14T00:14:24.035Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Actimize Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-actimize-consultant-ernst-young-llp-bengaluru-5-to-8-years-131026946079?src=directSearch&sid=1791936970025625&xp=8&px=1",
+      "time": "2026-10-14T00:16:30.981Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Financial Crime AI Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-financial-crime-ai-consultant-ernst-young-llp-bengaluru-6-to-11-years-131026945867?src=directSearch&sid=1791936970025625&xp=10&px=1",
+      "time": "2026-10-14T00:16:42.555Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nutanix",
+      "title": "Global Services Sales Program Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZZUECgAIAQAtm5xHFEgAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZZUECgAIAQAtm5xHFEgAAA&from=page-two-signin",
+      "time": "2026-10-14T00:36:55.169Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4041,
+  "totalVerifiedInHistory": 4053,
   "portalBreakdown": {
     "iimjobs": 505,
-    "naukri": 692,
+    "naukri": 703,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 41,
+    "indeed": 42,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-13T23:41:34.659Z",
-  "lastUpdated": "14/10/2026, 5:11:34 am"
+  "lastSyncedAt": "2026-10-14T00:36:55.234Z",
+  "lastUpdated": "14/10/2026, 6:06:55 am"
 }
