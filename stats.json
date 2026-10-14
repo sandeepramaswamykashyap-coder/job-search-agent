@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4061,
+  "applicationsSubmitted": 4064,
   "appliedRolesList": [
-    {
-      "company": "Han Digital Solution (P) Ltd",
-      "title": "Senior Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-delivery-manager-han-digital-solution-bengaluru-12-to-18-years-061026002778?src=directSearch&sid=17912626031154271&xp=9&px=1",
-      "time": "2026-10-06T04:57:03.982Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "NetApp",
-      "title": "Technical Software Program Mgr",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-software-program-mgr-netapp-bengaluru-8-to-12-years-061026004191?src=directSearch&sid=17912645916921324&xp=5&px=1",
-      "time": "2026-10-06T05:30:06.017Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Xpheno",
-      "title": "Supply Chain Transformation Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-supply-chain-transformation-manager-xpheno-bengaluru-10-to-19-years-061026002783?src=directSearch&sid=17912646577179946&xp=5&px=1",
-      "time": "2026-10-06T05:31:18.565Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "PROJECT MANAGER - Project Management",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/cuemath-director-senior-director-us-business-and-operations-1739706?ref=sp_br&jobPos=2",
       "time": "2026-10-14T06:11:00.822Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "EY - HR Transformation Role - GCC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ey-hr-transformation-role-gcc-1739754?ref=sp_prm&jobPos=2",
+      "time": "2026-10-14T07:10:38.233Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Executive Director - KYC/AML Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-executive-director-kyc-aml-operations-1739751?ref=sp_br&jobPos=7",
+      "time": "2026-10-14T07:10:56.973Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Advertising Sales - India CTV",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-advertising-sales-india-ctv-1739748?ref=sp&jobPos=13",
+      "time": "2026-10-14T07:11:17.705Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4061,
+  "totalVerifiedInHistory": 4064,
   "portalBreakdown": {
-    "iimjobs": 508,
+    "iimjobs": 511,
     "naukri": 708,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 42,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T06:11:00.866Z",
-  "lastUpdated": "14/10/2026, 11:41:00 am"
+  "lastSyncedAt": "2026-10-14T07:11:17.747Z",
+  "lastUpdated": "14/10/2026, 12:41:17 pm"
 }
