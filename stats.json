@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4066,
+  "applicationsSubmitted": 4068,
   "appliedRolesList": [
-    {
-      "company": "Kyndryl",
-      "title": "Senior Associate II, ServiceNow Developer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-associate-ii-servicenow-developer-kyndryl-noida-hyderabad-bengaluru-4-to-6-years-011026012649",
-      "time": "2026-10-06T06:50:29.666Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "PwC India",
-      "title": "Technical Project Manager - HR Systems - Successfactors / LMS tools",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-project-manager-hr-systems-successfactors-lms-tools-pwc-india-bengaluru-8-to-13-years-300926002739?src=directSearch&sid=17912693940648442&xp=11&px=1",
-      "time": "2026-10-06T06:50:52.871Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Deloitte Shared Services India",
       "title": "Lead Business Analyst",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/zebra-technologies-senior-manager-technical-program-management-1739787?ref=sp&jobPos=1",
       "time": "2026-10-14T08:40:43.434Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "FAMY Group - Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/famy-group-head-operations-1739836?ref=sp_prm&jobPos=5",
+      "time": "2026-10-14T10:39:54.668Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Program Manager I, Tech (QA Automation)",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZaQ5zQAEAQACPAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZaQ5zQAEAQACPAAA&from=page-two-signin",
+      "time": "2026-10-14T10:56:46.203Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4066,
+  "totalVerifiedInHistory": 4068,
   "portalBreakdown": {
-    "iimjobs": 513,
+    "iimjobs": 514,
     "naukri": 708,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 42,
+    "indeed": 43,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T08:40:43.486Z",
-  "lastUpdated": "14/10/2026, 2:10:43 pm"
+  "lastSyncedAt": "2026-10-14T10:56:46.272Z",
+  "lastUpdated": "14/10/2026, 4:26:46 pm"
 }
