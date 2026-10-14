@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4064,
+  "applicationsSubmitted": 4065,
   "appliedRolesList": [
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "PROJECT MANAGER - Project Management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-project-management-happiest-minds-technologies-bengaluru-10-to-13-years-061026005239?src=directSearch&sid=17912670684354511&xp=12&px=1",
-      "time": "2026-10-06T06:11:57.914Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Kairos Technologies",
       "title": "Servicenow Configuration Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/manager-advertising-sales-india-ctv-1739748?ref=sp&jobPos=13",
       "time": "2026-10-14T07:11:17.705Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "CACTUS - Program/Project Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cactus-program-project-manager-1739768?ref=sp_br&jobPos=2",
+      "time": "2026-10-14T08:10:20.208Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4064,
+  "totalVerifiedInHistory": 4065,
   "portalBreakdown": {
-    "iimjobs": 511,
+    "iimjobs": 512,
     "naukri": 708,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 42,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-14T07:11:17.747Z",
-  "lastUpdated": "14/10/2026, 12:41:17 pm"
+  "lastSyncedAt": "2026-10-14T08:10:20.253Z",
+  "lastUpdated": "14/10/2026, 1:40:20 pm"
 }
