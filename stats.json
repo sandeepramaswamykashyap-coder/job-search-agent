@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4146,
+  "applicationsSubmitted": 4147,
   "appliedRolesList": [
-    {
-      "company": "Resource Pro",
-      "title": "Service Delivery Manager, India - Only P&C Experience",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-delivery-manager-india-only-p-c-experience-resource-pro-bengaluru-13-to-20-years-051224013514?src=directSearch&sid=17913539150202283&xp=5&px=1",
-      "time": "2026-10-07T06:18:55.832Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "EYP - IDD - CDD - Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/gharsoaps-head-operations-1739836?ref=sp_prm&jobPos=5",
       "time": "2026-10-15T08:38:07.517Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Kira Diam",
+      "title": "Spirulina Project Lead / Operations Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-spirulina-project-lead-operations-head-kira-diam-mumbai-delhi-ncr-bengaluru-20-to-25-years-151026919988?src=directSearch&sid=17920553637291390&xp=13&px=1",
+      "time": "2026-10-15T09:09:44.717Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4146,
+  "totalVerifiedInHistory": 4147,
   "portalBreakdown": {
     "iimjobs": 532,
-    "naukri": 760,
+    "naukri": 761,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T08:38:07.561Z",
-  "lastUpdated": "15/10/2026, 2:08:07 pm"
+  "lastSyncedAt": "2026-10-15T09:09:44.763Z",
+  "lastUpdated": "15/10/2026, 2:39:44 pm"
 }
