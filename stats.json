@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4169,
+  "applicationsSubmitted": 4173,
   "appliedRolesList": [
-    {
-      "company": "Kriyalogic Technologies",
-      "title": "Servicenow Configuration Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-configuration-manager-kriyalogic-technologies-mumbai-delhi-ncr-bengaluru-10-to-15-years-071026929258?src=directSearch&sid=17913710492312310&xp=3&px=1",
-      "time": "2026-10-07T11:04:35.017Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ABB",
-      "title": "Structured Data Product IT Manager – ESG",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-structured-data-product-it-manager-esg-abb-india-limited-bengaluru-8-to-12-years-071026027435?src=directSearch&sid=17913711751777140&xp=3&px=1",
-      "time": "2026-10-07T11:06:51.395Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Betatest Solutions",
-      "title": "Business Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-analyst-betatest-solutions-bengaluru-3-to-6-years-071026027891?src=directSearch&sid=17913712213084572&xp=1&px=1",
-      "time": "2026-10-07T11:07:15.588Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Artizent",
-      "title": "Technical Project Manager--with a CMMi level 5 company",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-project-manager-with-a-cmmi-level-5-company-artizent-infosolutions-private-limited-bengaluru-12-to-16-years-180926017073?src=directSearch&sid=17913712520737778&xp=11&px=1",
-      "time": "2026-10-07T11:08:06.134Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Photon",
       "title": "Delivery Manager   |  Photon   -   Location :  Bangalore",
@@ -4001,6 +3969,38 @@
       "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
       "time": "2026-10-15T13:11:56.880Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Metaphor Infotech Mumbai",
+      "title": "Business Transformation Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-transformation-manager-metaphor-infotech-mumbai-bengaluru-10-to-14-years-151026031829?src=directSearch&sid=17920703284584072&xp=2&px=1",
+      "time": "2026-10-15T13:19:02.713Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Manager - PTP - Finance Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-ptp-finance-operations-ernst-young-llp-bengaluru-15-to-20-years-141026928575?src=directSearch&sid=17920703787064189&xp=6&px=1",
+      "time": "2026-10-15T13:20:02.944Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Forward Eye Technologies",
+      "title": "SAP RTR Process Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-rtr-process-lead-forward-eye-technologies-bengaluru-15-to-20-years-151026919411?src=directSearch&sid=17920703787064189&xp=9&px=1",
+      "time": "2026-10-15T13:20:14.568Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Tech S And T-Technical Architect-Manager-GDSN04",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tech-s-and-t-technical-architect-manager-gdsn04-ernst-young-llp-bengaluru-8-to-13-years-141026933902?src=directSearch&sid=17920703787064189&xp=13&px=1",
+      "time": "2026-10-15T13:20:32.728Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4169,
+  "totalVerifiedInHistory": 4173,
   "portalBreakdown": {
     "iimjobs": 537,
-    "naukri": 776,
+    "naukri": 780,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T13:11:56.918Z",
-  "lastUpdated": "15/10/2026, 6:41:56 pm"
+  "lastSyncedAt": "2026-10-15T13:20:32.770Z",
+  "lastUpdated": "15/10/2026, 6:50:32 pm"
 }
