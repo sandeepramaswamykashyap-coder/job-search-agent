@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4121,
+  "applicationsSubmitted": 4128,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Medical Coding Operations - Healthcare",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-medical-coding-operations-healthcare-1738158?ref=sp_prm&jobPos=2",
-      "time": "2026-10-06T12:48:47.902Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CAW Tech",
-      "title": "DevSecOps Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-devsecops-program-manager-caw-tech-mumbai-hyderabad-bengaluru-5-to-8-years-061026922520?src=directSearch&sid=17912926124243730&xp=8&px=1",
-      "time": "2026-10-06T13:17:16.521Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dozee - Turtle Shell Technologies",
-      "title": "Founders Office - Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-founders-office-program-manager-dozee-turtle-shell-technologies-private-limited-bengaluru-3-to-5-years-061026505422?src=directSearch&sid=17912926124243730&xp=13&px=1",
-      "time": "2026-10-06T13:17:34.643Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Siemens Energy",
-      "title": "Principal Analyst - Fixed Assets",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRA4Rq0AAAACZSCg6AARAQAB1v4BZcvRSExvTdkMgR4AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRA4Rq0AAAACZSCg6AARAQAB1v4BZcvRSExvTdkMgR4AAA&from=page-two-signin",
-      "time": "2026-10-06T13:46:53.822Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dozee",
-      "title": "Founders Office - Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-founders-office-program-manager-dozee-bengaluru-3-to-5-years-061026505338?src=directSearch&sid=17912948162319998&xp=4&px=1",
-      "time": "2026-10-06T13:53:50.502Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Multinational Company",
-      "title": "Opening For CMM5 ITES  Sales Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-opening-for-cmm5-ites-sales-transformation-staffing-services-bengaluru-10-to-14-years-061026923956?src=directSearch&sid=17912948724856010&xp=8&px=1",
-      "time": "2026-10-06T13:55:00.147Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Multinational Company",
-      "title": "Opening For CMM5 ITES   Business Transformation Assoc Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-opening-for-cmm5-ites-business-transformation-assoc-manager-staffing-services-bengaluru-10-to-15-years-061026923848?src=directSearch&sid=17912950256718795&xp=6&px=1",
-      "time": "2026-10-06T13:57:29.998Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - Alternative Investment Funds Operations",
@@ -4001,6 +3945,62 @@
       "url": "https://www.iimjobs.com/j/sagility-senior-manager-company-secretary-1739956?ref=sp_prm&jobPos=10",
       "time": "2026-10-15T04:14:05.551Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Okta",
+      "title": "Digital Solutions Manager (Recruiting Tech & Learning Platforms)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-digital-solutions-manager-recruiting-tech-learning-platforms-okta-identity-india-private-limited-bengaluru-4-to-8-years-141026930013?src=directSearch&sid=179204119791791&xp=4&px=1",
+      "time": "2026-10-15T05:13:32.074Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Manager - OTC - Finance Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-otc-finance-operations-ernst-young-llp-bengaluru-12-to-16-years-141026929012?src=directSearch&sid=179204119791791&xp=5&px=1",
+      "time": "2026-10-15T05:13:43.717Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Careernet",
+      "title": "SAP Solution Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-solution-manager-careernet-hyderabad-chennai-bengaluru-6-to-11-years-141026036918?src=directSearch&sid=179204119791791&xp=11&px=1",
+      "time": "2026-10-15T05:14:01.930Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "LeadSquared - Business/Revenue Operations Professional",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/leadsquared-business-revenue-operations-professional-1739991?ref=sp_br&jobPos=16",
+      "time": "2026-10-15T05:14:46.870Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager - Retail Technology",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/technical-program-manager-retail-technology-1739986?ref=sp&jobPos=11",
+      "time": "2026-10-15T05:15:03.331Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant Director - Operations - SCM & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-director-operations-scm-and-operations-1739996?ref=sp&jobPos=8",
+      "time": "2026-10-15T05:15:30.425Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Chief Manager - Operational Risk Management - Insurance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/chief-manager-operational-risk-management-insurance-1739969?ref=sp&jobPos=9",
+      "time": "2026-10-15T05:16:11.352Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4121,
+  "totalVerifiedInHistory": 4128,
   "portalBreakdown": {
-    "iimjobs": 520,
-    "naukri": 748,
+    "iimjobs": 524,
+    "naukri": 751,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 46,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T04:14:05.592Z",
-  "lastUpdated": "15/10/2026, 9:44:05 am"
+  "lastSyncedAt": "2026-10-15T05:16:11.394Z",
+  "lastUpdated": "15/10/2026, 10:46:11 am"
 }

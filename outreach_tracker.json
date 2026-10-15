@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-15T04:49:50.041Z",
+  "lastUpdated": "2026-10-15T05:18:48.407Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -169,7 +169,7 @@
       "company": "Siro Clinpharm",
       "title": "AI Program Manager",
       "dispatchedAt": "2026-08-19T05:18:18.624Z",
-      "daysElapsed": 56,
+      "daysElapsed": 57,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -180,7 +180,7 @@
       "company": "Omega Healthcare",
       "title": "Manager Transition Management Office",
       "dispatchedAt": "2026-08-19T05:18:30.599Z",
-      "daysElapsed": 56,
+      "daysElapsed": 57,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -191,7 +191,7 @@
       "company": "Accion Labs",
       "title": "Project Manager (Migrations projects)",
       "dispatchedAt": "2026-08-19T05:18:38.674Z",
-      "daysElapsed": 56,
+      "daysElapsed": 57,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -202,7 +202,7 @@
       "company": "Company",
       "title": "ServiceNow Platform Manager",
       "dispatchedAt": "2026-08-19T05:18:43.473Z",
-      "daysElapsed": 56,
+      "daysElapsed": 57,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
