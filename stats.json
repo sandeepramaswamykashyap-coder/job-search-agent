@@ -1,71 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4153,
+  "applicationsSubmitted": 4161,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Program Manager - ERP Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/program-manager-erp-transformation-1738257?ref=sp&jobPos=17",
-      "time": "2026-10-07T07:32:35.324Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Manager - Finance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amgen-senior-manager-finance-1738273?ref=sp_prm&jobPos=2",
-      "time": "2026-10-07T08:05:51.971Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Lam Research",
-      "title": "Program/Project Manager 4",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRSgcdwAAAACZTY8HQAIAQAtmu7MkRoAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRSgcdwAAAACZTY8HQAIAQAtmu7MkRoAAA&from=page-two-signin",
-      "time": "2026-10-07T08:23:41.618Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "A.P. Moller Maersk",
-      "title": "Senior Engineering Manager - Technology Operational Excellence",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-engineering-manager-technology-operational-excellence-maersk-global-service-centres-india-private-limited-pune-bengaluru-8-to-11-years-071026921164?src=directSearch&sid=17913624990617414&xp=7&px=1",
-      "time": "2026-10-07T08:41:59.920Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Treasury - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=2&jobId=1738284&pref=sp",
-      "time": "2026-10-07T08:46:36.937Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bidgely, Inc",
-      "title": "Technical Delivery Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRSgcdwAAAACZTajmAAKAQABq7l5a2onAgAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRSgcdwAAAACZTajmAAKAQABq7l5a2onAgAA&from=page-two-signin",
-      "time": "2026-10-07T09:04:42.326Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tredence",
-      "title": "Senior Manager/Gen AI Senior Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-gen-ai-senior-architect-tredence-hyderabad-pune-bengaluru-11-to-19-years-071026023621?src=directSearch&sid=17913646315975787&xp=6&px=1",
-      "time": "2026-10-07T09:17:59.671Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "VIATRIS",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-viatris-bengaluru-3-to-6-years-071026027100",
-      "time": "2026-10-07T09:20:55.348Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Senior Manager - Business Development - BPO",
@@ -4001,6 +3937,70 @@
       "url": "https://www.naukri.com/job-listings-technical-delivery-manager-data-ai-impelsys-india-pvt-ltd-bengaluru-12-to-17-years-151026503773?src=directSearch&sid=17920623106932969&xp=13&px=1",
       "time": "2026-10-15T11:05:25.184Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Steady Rabbit",
+      "title": "IT Technical Program Manager (Point of Sale)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-technical-program-manager-point-of-sale-steady-rabbit-bengaluru-10-to-14-years-151026017091?src=directSearch&sid=17920641330102610&xp=4&px=1",
+      "time": "2026-10-15T11:35:50.681Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Benovymed Healthcare Private Limited",
+      "title": "Founding Leadership Member/ Director/ Sr. Consultant-Medical Operation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-founding-leadership-member-director-sr-consultant-medical-operation-benovymed-healthcare-private-limited-bengaluru-5-to-10-years-141026914021?src=directSearch&sid=17920641929482098&xp=4&px=1",
+      "time": "2026-10-15T11:36:47.296Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Benovymed Healthcare Private Limited",
+      "title": "Director/Senior Consultant -  Medical Operation/Medical Affairs",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-senior-consultant-medical-operation-medical-affairs-benovymed-healthcare-private-limited-bengaluru-5-to-10-years-141026913816?src=directSearch&sid=17920641929482098&xp=5&px=1",
+      "time": "2026-10-15T11:36:58.919Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Confidential",
+      "title": "Secretary To Managing Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-secretary-to-managing-director-aarons-visions-bengaluru-delhi-ncr-mumbai-all-areas-3-to-8-years-280426921811?src=directSearch&sid=17920641929482098&xp=9&px=1",
+      "time": "2026-10-15T11:37:10.562Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "5 star hotel",
+      "title": "Director Projects in Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-projects-in-bangalore-hector-and-streak-consulting-guwahati-bengaluru-15-to-24-years-231025016863?src=directSearch&sid=17920641929482098&xp=10&px=1",
+      "time": "2026-10-15T11:37:22.183Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Benovymed Healthcare Private Ltd",
+      "title": "AVP /Director/General Manager/Mgr - Product Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-avp-director-general-manager-mgr-product-management-benovymed-healthcare-private-ltd-bengaluru-4-to-9-years-151026918568?src=directSearch&sid=17920641929482098&xp=11&px=1",
+      "time": "2026-10-15T11:37:33.840Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Benovymed Healthcare Private Ltd",
+      "title": "Assistant Vice President/Director/General Mgr/Mgr - Product Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-vice-president-director-general-mgr-mgr-product-management-benovymed-healthcare-private-ltd-bengaluru-4-to-9-years-151026918429?src=directSearch&sid=17920641929482098&xp=12&px=1",
+      "time": "2026-10-15T11:37:45.385Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Supply Chain Management - Industrial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-supply-chain-management-industrial-services-1740005?ref=sp&jobPos=18",
+      "time": "2026-10-15T11:40:49.291Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4153,
+  "totalVerifiedInHistory": 4161,
   "portalBreakdown": {
-    "iimjobs": 534,
-    "naukri": 765,
+    "iimjobs": 535,
+    "naukri": 772,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T11:05:25.230Z",
-  "lastUpdated": "15/10/2026, 4:35:25 pm"
+  "lastSyncedAt": "2026-10-15T11:40:49.341Z",
+  "lastUpdated": "15/10/2026, 5:10:49 pm"
 }
