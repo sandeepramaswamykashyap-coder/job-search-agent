@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4138,
+  "applicationsSubmitted": 4141,
   "appliedRolesList": [
-    {
-      "company": "GE VERNOVA",
-      "title": "AI Product Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-product-manager-ge-renewable-energy-technologies-private-limited-bengaluru-10-to-15-years-061026916439?src=directSearch&sid=1791331522600861&xp=1&px=1",
-      "time": "2026-10-07T00:05:36.799Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Atlassian",
-      "title": "Senior Product Manager - IT Operations",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRINYIMAAAACZS_8bQAVAQEBCBXJzByMObGw8_tC_I1eH4ByAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRINYIMAAAACZS_8bQAVAQEBCBXJzByMObGw8_tC_I1eH4ByAAA&from=page-two-signin",
-      "time": "2026-10-07T01:00:37.763Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Wrike",
-      "title": "Scale Customer Success Manager",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=f6e358b78fdb3822",
-      "time": "2026-10-07T03:20:13.900Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Rhea Healthcare",
       "title": "Assistant Manager - Customer Experience",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-agm-dgm-business-finance-manager-financial-planning-and-analysis-bpo-ites-kpo-1740027?ref=sp&jobPos=4",
       "time": "2026-10-15T06:54:31.350Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Biocon Biologics Limited",
+      "title": "Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-biocon-biologics-limited-bengaluru-14-to-17-years-141026028160?src=directSearch&sid=17920489088603775&xp=4&px=1",
+      "time": "2026-10-15T07:22:11.783Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Corporate Finance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-corporate-finance-1740060?ref=sp_prm&jobPos=3",
+      "time": "2026-10-15T07:26:02.485Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IntraEdge - Director - Security Engineering & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/intraedge-director-security-engineering-and-operations-1740048?ref=sp&jobPos=9",
+      "time": "2026-10-15T07:26:48.705Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4138,
+  "totalVerifiedInHistory": 4141,
   "portalBreakdown": {
-    "iimjobs": 529,
-    "naukri": 756,
+    "iimjobs": 531,
+    "naukri": 757,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 46,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T06:54:31.408Z",
-  "lastUpdated": "15/10/2026, 12:24:31 pm"
+  "lastSyncedAt": "2026-10-15T07:26:48.755Z",
+  "lastUpdated": "15/10/2026, 12:56:48 pm"
 }
