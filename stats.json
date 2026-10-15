@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4144,
+  "applicationsSubmitted": 4146,
   "appliedRolesList": [
-    {
-      "company": "Amazon",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-amazon-bengaluru-2-to-7-years-071026017987?src=directSearch&sid=17913537735159761&xp=3&px=1",
-      "time": "2026-10-07T06:16:53.554Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "Business Analyst Lead - Manufacturing, Supply Chain, ERP, E-Commerce",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-analyst-lead-manufacturing-supply-chain-erp-e-commerce-happiest-minds-technologies-bengaluru-6-to-11-years-071026017295",
-      "time": "2026-10-07T06:18:15.370Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Resource Pro",
       "title": "Service Delivery Manager, India - Only P&C Experience",
@@ -4001,6 +3985,22 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoT3VsEEAAAACZbZbDwAOAQAFWlyXkv25lRr0tJQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoT3VsEEAAAACZbZbDwAOAQAFWlyXkv25lRr0tJQAAA&from=page-two-signin",
       "time": "2026-10-15T08:19:11.236Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Bizacuity Solutions",
+      "title": "Technical Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-bizacuity-bengaluru-8-to-13-years-151026919243?src=directSearch&sid=1792053413410359&xp=11&px=1",
+      "time": "2026-10-15T08:37:17.595Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "GharSoaps - Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/gharsoaps-head-operations-1739836?ref=sp_prm&jobPos=5",
+      "time": "2026-10-15T08:38:07.517Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4144,
+  "totalVerifiedInHistory": 4146,
   "portalBreakdown": {
-    "iimjobs": 531,
-    "naukri": 759,
+    "iimjobs": 532,
+    "naukri": 760,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T08:19:11.307Z",
-  "lastUpdated": "15/10/2026, 1:49:11 pm"
+  "lastSyncedAt": "2026-10-15T08:38:07.561Z",
+  "lastUpdated": "15/10/2026, 2:08:07 pm"
 }
