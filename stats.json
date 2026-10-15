@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4128,
+  "applicationsSubmitted": 4133,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Alternative Investment Funds Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-alternative-investment-funds-operations-1738168?ref=sp&jobPos=4",
-      "time": "2026-10-06T14:35:23.556Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Joveo - Associate Program Manager - Strategic Initiatives",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/joveo-associate-program-manager-strategic-initiatives-1738175?ref=sp&jobPos=17",
-      "time": "2026-10-06T17:16:08.768Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "SITA Switzerland Sarl",
-      "title": "Associate Project Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRIRL1sAAAACZNieoQAIAQAGejSe1iYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRIRL1sAAAACZNieoQAIAQAGejSe1iYAAA&from=page-two-signin",
-      "time": "2026-10-06T17:35:47.368Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Gilbarco Veeder Root",
-      "title": "Senior Manager - Contact Center operations opening",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-contact-center-operations-opening-gilbarco-veeder-root-bengaluru-12-to-20-years-061026031780?src=directSearch&sid=17913087525664935&xp=9&px=1",
-      "time": "2026-10-06T17:46:29.766Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "The HR Consultant",
-      "title": "Sr Manager Operation & Maintenance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-manager-operation-maintenance-the-hr-consultants-bengaluru-10-to-20-years-061026031890?src=directSearch&sid=17913087525664935&xp=12&px=1",
-      "time": "2026-10-06T17:46:44.603Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager/Chief Manager - Treasury & Forex",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/chief-manager-operational-risk-management-insurance-1739969?ref=sp&jobPos=9",
       "time": "2026-10-15T05:16:11.352Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Kumar Organic Products",
+      "title": "GM Operations/ SITE HEAD",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gm-operations-site-head-kumar-organic-products-bharuch-bengaluru-vadodara-20-to-30-years-190926014587?src=directSearch&sid=17920432327289341&xp=4&px=1",
+      "time": "2026-10-15T05:47:27.018Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ABC Consultants",
+      "title": "Head/VICE President /Genral Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-vice-president-genral-manager-abc-consultants-kolkata-hyderabad-bengaluru-19-to-27-years-151026013755?src=directSearch&sid=17920432327289341&xp=10&px=1",
+      "time": "2026-10-15T05:47:42.021Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ion Exchange - Manager/Senior Manager - HR Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ion-exchange-manager-senior-manager-hr-operations-1740004?ref=sp_br_prm&jobPos=1",
+      "time": "2026-10-15T05:48:27.925Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Site Head - Manufacturing Operations - Chemicals",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/site-head-manufacturing-operations-chemicals-1740003?ref=sp&jobPos=16",
+      "time": "2026-10-15T05:48:57.083Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Operations Excellence - Retail",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-operations-excellence-retail-1739999?ref=sp&jobPos=9",
+      "time": "2026-10-15T05:49:54.828Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4128,
+  "totalVerifiedInHistory": 4133,
   "portalBreakdown": {
-    "iimjobs": 524,
-    "naukri": 751,
+    "iimjobs": 527,
+    "naukri": 753,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 46,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T05:16:11.394Z",
-  "lastUpdated": "15/10/2026, 10:46:11 am"
+  "lastSyncedAt": "2026-10-15T05:49:54.927Z",
+  "lastUpdated": "15/10/2026, 11:19:54 am"
 }
