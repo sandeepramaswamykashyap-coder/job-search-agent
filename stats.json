@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4151,
+  "applicationsSubmitted": 4153,
   "appliedRolesList": [
-    {
-      "company": "A.P. Moller Maersk",
-      "title": "Automation Excellence Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-automation-excellence-lead-maersk-global-service-centres-india-private-limited-pune-bengaluru-10-to-15-years-071026921000?src=directSearch&sid=17913580897256446&xp=6&px=1",
-      "time": "2026-10-07T07:28:35.458Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Clean Harbors",
-      "title": "US Onboarding Manager -  HR Shared Services - Hebbal - Bengaluru",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-us-onboarding-manager-hr-shared-services-hebbal-bengaluru-clean-harbors-bengaluru-10-to-15-years-310826009681?src=directSearch&sid=17913581832431525&xp=7&px=1",
-      "time": "2026-10-07T07:30:20.977Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Program Manager - ERP Transformation",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-deputy-manager-statutory-audit-consulting-firm-ca-1740106?ref=sp&jobPos=7",
       "time": "2026-10-15T10:33:44.434Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Paytm",
+      "title": "KAM Lead - Online-Enterprise 6683",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-kam-lead-online-enterprise-6683-paytm-payments-services-limited-bengaluru-10-to-15-years-151026503719?src=directSearch&sid=17920620896848858&xp=13&px=1",
+      "time": "2026-10-15T11:02:04.419Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Impelsys",
+      "title": "Technical Delivery Manager - Data & AI",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-data-ai-impelsys-india-pvt-ltd-bengaluru-12-to-17-years-151026503773?src=directSearch&sid=17920623106932969&xp=13&px=1",
+      "time": "2026-10-15T11:05:25.184Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4151,
+  "totalVerifiedInHistory": 4153,
   "portalBreakdown": {
     "iimjobs": 534,
-    "naukri": 763,
+    "naukri": 765,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T10:33:44.488Z",
-  "lastUpdated": "15/10/2026, 4:03:44 pm"
+  "lastSyncedAt": "2026-10-15T11:05:25.230Z",
+  "lastUpdated": "15/10/2026, 4:35:25 pm"
 }
