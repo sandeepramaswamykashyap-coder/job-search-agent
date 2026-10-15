@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4147,
+  "applicationsSubmitted": 4148,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "EYP - IDD - CDD - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-eyp-idd-cdd-manager-ey-hyderabad-pune-bengaluru-7-to-12-years-071026017047?src=directSearch&sid=17913540740606877&xp=9&px=1",
-      "time": "2026-10-07T06:21:38.264Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Globallogic",
       "title": "Techno-Functional Lead",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-spirulina-project-lead-operations-head-kira-diam-mumbai-delhi-ncr-bengaluru-20-to-25-years-151026919988?src=directSearch&sid=17920553637291390&xp=13&px=1",
       "time": "2026-10-15T09:09:44.717Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Deputy Manager - Statutory Audit - Non BFSI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-deputy-manager-statutory-audit-non-bfsi-1740106?ref=sp&jobPos=4",
+      "time": "2026-10-15T10:00:10.746Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4147,
+  "totalVerifiedInHistory": 4148,
   "portalBreakdown": {
-    "iimjobs": 532,
+    "iimjobs": 533,
     "naukri": 761,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T09:09:44.763Z",
-  "lastUpdated": "15/10/2026, 2:39:44 pm"
+  "lastSyncedAt": "2026-10-15T10:00:10.809Z",
+  "lastUpdated": "15/10/2026, 3:30:10 pm"
 }
