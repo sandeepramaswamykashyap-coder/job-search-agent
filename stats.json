@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4161,
+  "applicationsSubmitted": 4163,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager - Business Development - BPO",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1738307/screening?ref=sp_br_prm&jobPos=10&pref=sp_br_prm",
-      "time": "2026-10-07T09:24:26.080Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior General Manager - Operations - Healthcare Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1738331&pref=sp",
-      "time": "2026-10-07T09:58:21.845Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Vashi - Vice President - AI & Digital Transformation",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/head-supply-chain-management-industrial-services-1740005?ref=sp&jobPos=18",
       "time": "2026-10-15T11:40:49.291Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Prodigy Technovations",
+      "title": "Hardware Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hardware-program-manager-prodigy-technovations-bengaluru-5-to-10-years-151026029082?src=directSearch&sid=17920661709906259&xp=5&px=1",
+      "time": "2026-10-15T12:09:55.163Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Delhivery - Director - International Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/delhivery-director-international-operations-1740171?ref=sp_br&jobPos=2",
+      "time": "2026-10-15T12:14:20.737Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4161,
+  "totalVerifiedInHistory": 4163,
   "portalBreakdown": {
-    "iimjobs": 535,
-    "naukri": 772,
+    "iimjobs": 536,
+    "naukri": 773,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T11:40:49.341Z",
-  "lastUpdated": "15/10/2026, 5:10:49 pm"
+  "lastSyncedAt": "2026-10-15T12:14:20.782Z",
+  "lastUpdated": "15/10/2026, 5:44:20 pm"
 }
