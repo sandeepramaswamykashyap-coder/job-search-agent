@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4141,
+  "applicationsSubmitted": 4144,
   "appliedRolesList": [
-    {
-      "company": "Rhea Healthcare",
-      "title": "Assistant Manager - Customer Experience",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-manager-customer-experience-rhea-healthcare-bengaluru-8-to-12-years-071026012805?src=directSearch&sid=1791346012807996&xp=10&px=1",
-      "time": "2026-10-07T04:07:30.149Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Performance Excellence - Manufacturing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-performance-excellence-manufacturing-1738191?ref=sp&jobPos=13",
-      "time": "2026-10-07T04:14:41.717Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Globiva",
-      "title": "Sr Manager/Manager- Insurance/sales Operations- 10 Years",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-manager-manager-insurance-sales-operations-10-years-globiva-bengaluru-1-to-6-years-121225021748?src=directSearch&sid=17913516945372850&xp=5&px=1",
-      "time": "2026-10-07T05:41:58.608Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Amazon",
       "title": "Program Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/intraedge-director-security-engineering-and-operations-1740048?ref=sp&jobPos=9",
       "time": "2026-10-15T07:26:48.705Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "ABC Consultants",
+      "title": "Manager Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-senior-manager-abc-consultants-hyderabad-bengaluru-mumbai-all-areas-13-to-21-years-151026017981?src=directSearch&sid=17920509039819689&xp=6&px=1",
+      "time": "2026-10-15T07:55:21.585Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "TechOps - CloudOps - DevOps Engineer - Senior",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-techops-cloudops-devops-engineer-senior-ernst-young-llp-bengaluru-7-to-12-years-141026933864?src=directSearch&sid=17920511208595641&xp=13&px=1",
+      "time": "2026-10-15T07:59:05.241Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Strategic Commodity Manager, Program Lead",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoT3VsEEAAAACZbZbDwAOAQAFWlyXkv25lRr0tJQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoT3VsEEAAAACZbZbDwAOAQAFWlyXkv25lRr0tJQAAA&from=page-two-signin",
+      "time": "2026-10-15T08:19:11.236Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4141,
+  "totalVerifiedInHistory": 4144,
   "portalBreakdown": {
     "iimjobs": 531,
-    "naukri": 757,
+    "naukri": 759,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 46,
+    "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T07:26:48.755Z",
-  "lastUpdated": "15/10/2026, 12:56:48 pm"
+  "lastSyncedAt": "2026-10-15T08:19:11.307Z",
+  "lastUpdated": "15/10/2026, 1:49:11 pm"
 }
