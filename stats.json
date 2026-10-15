@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4119,
+  "applicationsSubmitted": 4121,
   "appliedRolesList": [
-    {
-      "company": "Rhea Healthcare",
-      "title": "Assistant General Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-general-manager-rhea-healthcare-bengaluru-10-to-20-years-061026025010?src=directSearch&sid=17912887478499967&xp=13&px=1",
-      "time": "2026-10-06T12:13:06.984Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Brillio",
-      "title": "Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-brillio-pune-bengaluru-10-to-20-years-061026024673?src=directSearch&sid=17912888511963133&xp=2&px=1",
-      "time": "2026-10-06T12:14:28.717Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Director - Medical Coding Operations - Healthcare",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-sap-service-delivery-manager-ntt-data-business-solutions-hyderabad-pune-bengaluru-10-to-15-years-091026036515",
       "time": "2026-10-15T03:40:58.969Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ecolab Global Services",
+      "title": "AI Engineering Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-engineering-manager-ecolab-global-services-private-limited-bengaluru-10-to-15-years-151026909141?src=directSearch&sid=17920375097757194&xp=8&px=1",
+      "time": "2026-10-15T04:12:31.493Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Sagility - Senior Manager - Company Secretary",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/sagility-senior-manager-company-secretary-1739956?ref=sp_prm&jobPos=10",
+      "time": "2026-10-15T04:14:05.551Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4119,
+  "totalVerifiedInHistory": 4121,
   "portalBreakdown": {
-    "iimjobs": 519,
-    "naukri": 747,
+    "iimjobs": 520,
+    "naukri": 748,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 46,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T03:40:59.008Z",
-  "lastUpdated": "15/10/2026, 9:10:59 am"
+  "lastSyncedAt": "2026-10-15T04:14:05.592Z",
+  "lastUpdated": "15/10/2026, 9:44:05 am"
 }
