@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4163,
+  "applicationsSubmitted": 4169,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vashi - Vice President - AI & Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vashi-vice-president-ai-and-digital-transformation-1738343?ref=sp&jobPos=17",
-      "time": "2026-10-07T10:33:15.178Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "NetApp",
-      "title": "Senior Technical Program Mgr",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-technical-program-mgr-netapp-bengaluru-8-to-12-years-071026028569?src=directSearch&sid=17913708908399764&xp=4&px=1",
-      "time": "2026-10-07T11:01:45.172Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognizant",
-      "title": "Program Manager / Director",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-director-cognizant-bengaluru-12-to-14-years-071026028079?src=directSearch&sid=17913708908399764&xp=6&px=1",
-      "time": "2026-10-07T11:02:22.501Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Avanseus",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-avanseus-bengaluru-12-to-16-years-071026926298?src=directSearch&sid=17913708908399764&xp=7&px=1",
-      "time": "2026-10-07T11:02:34.127Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CGI",
-      "title": "Technical Program Manager- DevOps-Cloud Platform Engineering(12+Years)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-devops-cloud-platform-engineering-12-years-cgi-hyderabad-pune-bengaluru-12-to-22-years-071026031343?src=directSearch&sid=17913709672089776&xp=5&px=1",
-      "time": "2026-10-07T11:03:04.732Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Kriyalogic",
-      "title": "Servicenow Configuration Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-configuration-manager-kriyalogic-mumbai-delhi-ncr-bengaluru-10-to-15-years-071026929599?src=directSearch&sid=17913710492312310&xp=2&px=1",
-      "time": "2026-10-07T11:04:23.459Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Kriyalogic Technologies",
       "title": "Servicenow Configuration Manager",
@@ -4001,6 +3953,54 @@
       "url": "https://www.iimjobs.com/j/delhivery-director-international-operations-1740171?ref=sp_br&jobPos=2",
       "time": "2026-10-15T12:14:20.737Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "K12 Techno Services",
+      "title": "Senior Operations Manager(Sahakarnagar)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-operations-manager-sahakarnagar-k12-techno-services-bengaluru-4-to-8-years-220926039201?src=directSearch&sid=179206814684338&xp=6&px=1",
+      "time": "2026-10-15T12:42:41.090Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Logixhealth",
+      "title": "Senior Manager - RCM Operations (Epic Resolute PB)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-rcm-operations-epic-resolute-pb-logixhealth-bengaluru-10-to-17-years-151026029635?src=directSearch&sid=179206814684338&xp=9&px=1",
+      "time": "2026-10-15T12:42:52.748Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Search Advisers Services Guj",
+      "title": "Procurement Transformation Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-procurement-transformation-leader-search-advisers-services-guj-bengaluru-15-to-22-years-151026031180?src=directSearch&sid=17920682340997156&xp=11&px=1",
+      "time": "2026-10-15T12:44:30.576Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Procucev - Consulting Partner - Procurement Transformation & aiCEV Advisory",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/procucev-consulting-partner-procurement-transformation-and-aicev-advisory-1740176?ref=sp_br&jobPos=16",
+      "time": "2026-10-15T12:48:01.448Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
+      "time": "2026-10-15T13:11:56.574Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
+      "time": "2026-10-15T13:11:56.880Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4163,
+  "totalVerifiedInHistory": 4169,
   "portalBreakdown": {
-    "iimjobs": 536,
-    "naukri": 773,
+    "iimjobs": 537,
+    "naukri": 776,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4684,14 +4684,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 461,
-    "ashby": 352,
+    "direct_portal_ashby": 462,
+    "ashby": 353,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 47,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T12:14:20.782Z",
-  "lastUpdated": "15/10/2026, 5:44:20 pm"
+  "lastSyncedAt": "2026-10-15T13:11:56.918Z",
+  "lastUpdated": "15/10/2026, 6:41:56 pm"
 }
