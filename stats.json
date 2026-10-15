@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4173,
+  "applicationsSubmitted": 4174,
   "appliedRolesList": [
-    {
-      "company": "Photon",
-      "title": "Delivery Manager   |  Photon   -   Location :  Bangalore",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-photon-location-bangalore-photon-bengaluru-16-to-22-years-071026029864?src=directSearch&sid=17913712928075115&xp=11&px=1",
-      "time": "2026-10-07T11:08:42.417Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "PGP Glass - Manager - Digital Transformation/MES",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-tech-s-and-t-technical-architect-manager-gdsn04-ernst-young-llp-bengaluru-8-to-13-years-141026933902?src=directSearch&sid=17920703787064189&xp=13&px=1",
       "time": "2026-10-15T13:20:32.728Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "MatrixCare",
+      "title": "Director, Quality Engineering",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUBrMBEAAAACZb5jdQAPAQAA-5XsBxtxcDaBRuxoAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUBrMBEAAAACZb5jdQAPAQAA-5XsBxtxcDaBRuxoAAA&from=page-two-signin",
+      "time": "2026-10-15T18:40:30.210Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4173,
+  "totalVerifiedInHistory": 4174,
   "portalBreakdown": {
     "iimjobs": 537,
     "naukri": 780,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 47,
+    "indeed": 48,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T14:30:41.128Z",
-  "lastUpdated": "15/10/2026, 8:00:41 pm"
+  "lastSyncedAt": "2026-10-15T18:40:30.308Z",
+  "lastUpdated": "16/10/2026, 12:10:30 am"
 }
