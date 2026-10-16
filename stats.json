@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4231,
+  "applicationsSubmitted": 4232,
   "appliedRolesList": [
-    {
-      "company": "Wipfli India",
-      "title": "Manager - AI Democratization & Upskilling",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-ai-democratization-upskilling-wipfli-india-bengaluru-8-to-13-years-081026044050?src=directSearch&sid=17914645217621156&xp=5&px=1",
-      "time": "2026-10-08T13:02:22.671Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Senior Manager - Plant HR - Manufacturing",
@@ -4001,6 +3993,14 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoURDQwYAAAACZamvdgAKAQABqULraIRaaAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoURDQwYAAAACZamvdgAKAQABqULraIRaaAAA&from=page-two-signin",
       "time": "2026-10-16T15:28:01.881Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "AtkinsRéalis",
+      "title": "Lead - HR Service Delivery",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUWTXOcAAAACZcuizAAQAQEBBgOdYBTtKdCFOTXvdAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUWTXOcAAAACZcuizAAQAQEBBgOdYBTtKdCFOTXvdAAA&from=page-two-signin",
+      "time": "2026-10-16T18:08:56.558Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4231,
+  "totalVerifiedInHistory": 4232,
   "portalBreakdown": {
     "iimjobs": 556,
     "naukri": 815,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 51,
+    "indeed": 52,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T15:28:01.941Z",
-  "lastUpdated": "16/10/2026, 8:58:01 pm"
+  "lastSyncedAt": "2026-10-16T18:08:56.634Z",
+  "lastUpdated": "16/10/2026, 11:38:56 pm"
 }
