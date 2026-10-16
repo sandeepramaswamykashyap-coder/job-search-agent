@@ -1,119 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4188,
+  "applicationsSubmitted": 4202,
   "appliedRolesList": [
-    {
-      "company": "TE Connectivity",
-      "title": "Procurement Digital & Data Program Delivery Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-procurement-digital-data-program-delivery-lead-te-connectivity-india-private-limited-bengaluru-6-to-9-years-071026942252?src=directSearch&sid=17914320103022327&xp=4&px=1",
-      "time": "2026-10-08T04:00:33.071Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Axtria",
-      "title": "Manager - BIM",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-bim-axtria-india-private-limited-bengaluru-7-to-12-years-071026942367?src=directSearch&sid=17914320103022327&xp=12&px=1",
-      "time": "2026-10-08T04:00:54.643Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Artizent",
-      "title": "Delivery Manager Cloud & Managed Services",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-cloud-managed-services-nous-infosystems-hyderabad-coimbatore-bengaluru-10-to-20-years-061026008745?src=directSearch&sid=17914320898221873&xp=9&px=1",
-      "time": "2026-10-08T04:01:47.496Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TENARAI TECHNOLOGIES PRIVATE LIMITED",
-      "title": "Service Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-delivery-manager-tenarai-technologies-private-limited-bangalore-rural-bengaluru-10-to-20-years-071026044875?src=directSearch&sid=17914320898221873&xp=12&px=1",
-      "time": "2026-10-08T04:01:59.067Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Rubrik Security Cloud",
-      "title": "Senior Project Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&from=page-two-signin",
-      "time": "2026-10-08T04:25:50.755Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Royal Cyber",
-      "title": "Delivery Agile Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-agile-lead-royal-cyber-bengaluru-8-to-13-years-071026037090",
-      "time": "2026-10-08T04:33:50.460Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Careernet",
-      "title": "Servicenow developer (Consultant/ Assistant manager)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-developer-consultant-assistant-manager-careernet-hyderabad-gurugram-bengaluru-4-to-9-years-081026012014?src=directSearch&sid=17914340970124129&xp=11&px=1",
-      "time": "2026-10-08T04:35:30.706Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Blinkit - Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/blinkit-program-manager-1738482?ref=sp_br&jobPos=3",
-      "time": "2026-10-08T04:38:32.974Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Director of Product Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/be9f18f6-8851-40fb-be50-3c13d7457092",
-      "time": "2026-10-08T05:02:21.172Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Director of Product Operations",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/be9f18f6-8851-40fb-be50-3c13d7457092",
-      "time": "2026-10-08T05:02:21.454Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "KVP Business Solutions",
-      "title": "Salesforce Business Analyst",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-salesforce-business-analyst-kvp-business-solutions-bengaluru-2-to-5-years-081026013414?src=directSearch&sid=17914362612323174&xp=5&px=1",
-      "time": "2026-10-08T05:11:18.674Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Agara",
-      "title": "Senior Product Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReX4AgAAAACZTY8HQASAQEBBgDtOBOaa3TjlQ_usSAIAAA&from=page-two-signin",
-      "time": "2026-10-08T05:36:14.172Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Atlassian",
-      "title": "Senior Onboarding Success Manager, TWC",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReqtrQAAAACZS_8bQAQAQBDRdZTkpXRqwJo93_LeAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReqtrQAAAACZS_8bQAQAQBDRdZTkpXRqwJo93_LeAAA&from=page-two-signin",
-      "time": "2026-10-08T05:59:53.360Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Kreditbee - Senior Manager - Business Loans Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/kreditbee-senior-manager-business-loans-operations-1738547?ref=sp_br&jobPos=7",
-      "time": "2026-10-08T07:14:23.306Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Leading Semi Government Organisation",
       "title": "Senior Operations Manager",
@@ -4001,6 +3889,118 @@
       "url": "https://www.naukri.com/job-listings-gcc-bpo-program-manager-talentbridge-bengaluru-9-to-14-years-161026007250?src=directSearch&sid=17921238700572001&xp=7&px=1",
       "time": "2026-10-16T04:11:34.241Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte Shared Services India",
+      "title": "VAPT - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vapt-manager-deloitte-shared-services-india-bengaluru-8-to-13-years-151026034051?src=directSearch&sid=17921258991855619&xp=13&px=1",
+      "time": "2026-10-16T04:45:36.594Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HCLTech",
+      "title": "Senior MLOps Technical Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-mlops-technical-lead-hcltech-hyderabad-chennai-bengaluru-7-to-10-years-141026040040",
+      "time": "2026-10-16T04:46:00.767Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Colt Technology Services",
+      "title": "Technical Lead, Network Transformation Engineering (OTN/DWDM)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-lead-network-transformation-engineering-otn-dwdm-colt-technology-services-gurugram-bengaluru-5-to-10-years-091026024252?src=directSearch&sid=1792125939860328&xp=6&px=1",
+      "time": "2026-10-16T04:46:12.471Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Synamedia",
+      "title": "Lead Technical Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-technical-project-manager-synamedia-bengaluru-7-to-12-years-290926019479?src=directSearch&sid=1792125939860328&xp=7&px=1",
+      "time": "2026-10-16T04:46:24.051Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Orcapod Consulting Services",
+      "title": "SAP FI Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-fi-lead-orcapod-consulting-services-bengaluru-6-to-11-years-290826006017?src=directSearch&sid=1792125939860328&xp=8&px=1",
+      "time": "2026-10-16T04:46:35.631Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Aspire Systems",
+      "title": "AI/ML Engineer - Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-ml-engineer-lead-aspire-systems-kochi-chennai-bengaluru-5-to-10-years-290726016779?src=directSearch&sid=1792125939860328&xp=9&px=1",
+      "time": "2026-10-16T04:46:47.204Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cloud Raptor",
+      "title": "Technical Recruiter Team Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-recruiter-team-lead-cloud-raptor-hyderabad-chennai-bengaluru-8-to-13-years-270826008550?src=directSearch&sid=1792125939860328&xp=10&px=1",
+      "time": "2026-10-16T04:46:58.856Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elpopulo Tech Solutions",
+      "title": "Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-manager-elpopulo-tech-solutions-bengaluru-15-to-23-years-151026028826?src=directSearch&sid=17921260221094443&xp=2&px=1",
+      "time": "2026-10-16T04:47:16.283Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "AECOM",
+      "title": "Associate Director - Rail (Deputy Head)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-rail-deputy-head-aecom-india-private-limited-bengaluru-15-to-20-years-161026908413?src=directSearch&sid=17921260221094443&xp=6&px=1",
+      "time": "2026-10-16T04:47:27.911Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "BRANDSPHERE MARKETING SERVICES",
+      "title": "Leadership Hiring Consultant  (Executive Search)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-leadership-hiring-consultant-executive-search-brandsphere-marketing-services-bengaluru-10-to-18-years-141026018078?src=directSearch&sid=17921260221094443&xp=8&px=1",
+      "time": "2026-10-16T04:47:42.833Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "GSPANN - Technical Program Manager - Retail",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/gspann-technical-program-manager-retail-1740220?ref=sp_prm&jobPos=1",
+      "time": "2026-10-16T04:50:31.958Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Business Head - Gems and Jewellery - North & Central India Region",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/business-head-gems-and-jewellery-north-and-central-india-region-1740227?ref=sp&jobPos=17",
+      "time": "2026-10-16T04:50:52.615Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Deloitte - Consultant/Senior Consultant - Organization Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/deloitte-consultant-senior-consultant-organization-transformation-1740232?ref=sp_br_prm&jobPos=1",
+      "time": "2026-10-16T04:51:02.806Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Wealth Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/wealth-manager-1740219?ref=sp&jobPos=13",
+      "time": "2026-10-16T04:51:35.798Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4188,
+  "totalVerifiedInHistory": 4202,
   "portalBreakdown": {
-    "iimjobs": 537,
-    "naukri": 792,
+    "iimjobs": 541,
+    "naukri": 802,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T04:11:34.286Z",
-  "lastUpdated": "16/10/2026, 9:41:34 am"
+  "lastSyncedAt": "2026-10-16T04:51:35.838Z",
+  "lastUpdated": "16/10/2026, 10:21:35 am"
 }
