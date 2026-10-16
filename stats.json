@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4220,
+  "applicationsSubmitted": 4224,
   "appliedRolesList": [
-    {
-      "company": "Growpreneur",
-      "title": "Head – Marketplace Growth & Delivery\nHead – Marketplace Growth & Delivery",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472457582&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T12:19:24.390Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Unisys",
-      "title": "Sr PM Client Project Management\nSr PM Client Project Management with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472806242&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T12:20:13.291Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Fam",
-      "title": "Senior Manager – Business Finance\nSenior Manager – Business Finance",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472457582&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T12:21:02.269Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "LSEG",
-      "title": "Senior Manager, Fixed Income Pricing Operations\nSenior Manager, Fixed Income Pricing Operations with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472806242&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T12:21:50.639Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Alchemy Job",
       "title": "GCC Leader\nGCC Leader with verification",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/logixhealth-manager-senior-manager-business-transformation-1740407?ref=sp&jobPos=5",
       "time": "2026-10-16T11:48:00.883Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Bread Financial",
+      "title": "Senior Manager - Cyber Security",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-cyber-security-bread-financial-global-solutions-india-llp-bengaluru-10-to-13-years-151026927412?src=directSearch&sid=17921529447917508&xp=13&px=1",
+      "time": "2026-10-16T12:16:15.712Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tan90 Thermal",
+      "title": "Head Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-tan90-thermal-bengaluru-15-to-24-years-161026024690?src=directSearch&sid=17921529788781050&xp=8&px=1",
+      "time": "2026-10-16T12:16:39.827Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Financial Planning & Analysis - NBFC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-planning-and-analysis-nbfc-1740431?ref=sp&jobPos=10",
+      "time": "2026-10-16T12:21:57.703Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Enterprise Risk Management - NBFC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-enterprise-risk-management-nbfc-1740424?ref=sp&jobPos=11",
+      "time": "2026-10-16T12:22:03.883Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4220,
+  "totalVerifiedInHistory": 4224,
   "portalBreakdown": {
-    "iimjobs": 551,
-    "naukri": 810,
+    "iimjobs": 553,
+    "naukri": 812,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T11:48:00.931Z",
-  "lastUpdated": "16/10/2026, 5:18:00 pm"
+  "lastSyncedAt": "2026-10-16T12:22:03.927Z",
+  "lastUpdated": "16/10/2026, 5:52:03 pm"
 }
