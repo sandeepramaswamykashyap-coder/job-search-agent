@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4208,
+  "applicationsSubmitted": 4210,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Business Development Manager - IT Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-business-development-manager-it-services-1738641?ref=sp&jobPos=13",
-      "time": "2026-10-08T09:26:45.970Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Klm Axiva Finvest",
-      "title": "Operations Manager - Karnataka, Tamil Nadu, AP & TS",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operations-manager-karnataka-tamil-nadu-ap-ts-klm-axiva-finvest-madurai-nellore-bengaluru-5-to-10-years-081026026252?src=directSearch&sid=17914532717864368&xp=9&px=1",
-      "time": "2026-10-08T09:54:59.129Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "MPS - Senior Manager - Project Management",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-recruitment-1740298?ref=sp&jobPos=15",
       "time": "2026-10-16T06:54:31.373Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "William O Neil Co",
+      "title": "Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-william-o-neil-co-bengaluru-10-to-20-years-161026014474?src=directSearch&sid=1792135395572899&xp=7&px=1",
+      "time": "2026-10-16T07:23:36.328Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "BrandTouch & Analytics - - Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/brandtouch-and-analytics-head-operations-1740306?ref=sp_prm&jobPos=2",
+      "time": "2026-10-16T07:27:37.864Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4208,
+  "totalVerifiedInHistory": 4210,
   "portalBreakdown": {
-    "iimjobs": 546,
-    "naukri": 803,
+    "iimjobs": 547,
+    "naukri": 804,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T06:54:31.425Z",
-  "lastUpdated": "16/10/2026, 12:24:31 pm"
+  "lastSyncedAt": "2026-10-16T07:27:37.909Z",
+  "lastUpdated": "16/10/2026, 12:57:37 pm"
 }
