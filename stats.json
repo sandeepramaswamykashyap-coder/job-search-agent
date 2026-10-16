@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4183,
+  "applicationsSubmitted": 4184,
   "appliedRolesList": [
-    {
-      "company": "ETERNAL",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-eternal-gurugram-bengaluru-2-to-7-years-071026046838?src=directSearch&sid=17914317065157214&xp=7&px=1",
-      "time": "2026-10-08T03:55:49.369Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Jaquar Group",
       "title": "Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-senior-commercial-management-consultant-ernst-young-llp-bengaluru-5-to-10-years-131026946085?src=directSearch&sid=17921097999774229&xp=8&px=1",
       "time": "2026-10-16T00:17:10.827Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "Databricks+Agentic AI - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-databricks-agentic-ai-manager-pwc-pune-gurugram-bengaluru-9-to-14-years-151026012341?src=directSearch&sid=17921117634471682&xp=13&px=1",
+      "time": "2026-10-16T00:49:47.785Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4183,
+  "totalVerifiedInHistory": 4184,
   "portalBreakdown": {
     "iimjobs": 537,
-    "naukri": 789,
+    "naukri": 790,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 48,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T00:17:10.870Z",
-  "lastUpdated": "16/10/2026, 5:47:10 am"
+  "lastSyncedAt": "2026-10-16T00:49:47.832Z",
+  "lastUpdated": "16/10/2026, 6:19:47 am"
 }
