@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4178,
+  "applicationsSubmitted": 4182,
   "appliedRolesList": [
-    {
-      "company": "Temporal",
-      "title": "Director of Engineering, Compute",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
-      "time": "2026-10-07T15:22:27.869Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Temporal",
-      "title": "Director of Engineering, Compute",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
-      "time": "2026-10-07T15:22:28.240Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Accellor",
-      "title": "Senior Delivery Manager / Delivery Lead",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoRINYIMAAAACZS_8bQASAQACdt7LZK87HUcFyiabmGEiAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoRINYIMAAAACZS_8bQASAQACdt7LZK87HUcFyiabmGEiAAA&from=page-two-signin",
-      "time": "2026-10-07T18:57:35.934Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Karat",
-      "title": "Principal Product Manager - Hiring Manager Experience (India)",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoReqtrQAAAACZS_8bQARAQAB1tqHYkgWew_lyeNXJi4AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoReqtrQAAAACZS_8bQARAQAB1tqHYkgWew_lyeNXJi4AAA&from=page-two-signin",
-      "time": "2026-10-08T03:36:49.244Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "Senior Project Manager Data Engineering (Retail)",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-head-centre-for-innovation-entrepreneurship-and-strategic-funding-manav-sansadhan-vikas-salaahkar-bengaluru-15-to-24-years-200926009493?src=directSearch&sid=17921058831988381&xp=13&px=1",
       "time": "2026-10-15T23:12:12.568Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "client of Forstaffing",
+      "title": "Business Delivery Manager - managed end user services",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-delivery-manager-managed-end-user-services-forstaffing-bengaluru-12-to-18-years-151026026909?src=directSearch&sid=17921079412994624&xp=6&px=1",
+      "time": "2026-10-15T23:45:55.652Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "LTM",
+      "title": "It Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-service-delivery-manager-ltm-chennai-bengaluru-12-to-16-years-151026013353?src=directSearch&sid=17921079412994624&xp=7&px=1",
+      "time": "2026-10-15T23:46:07.422Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Delivery Excellence -Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-excellence-manager-ernst-young-llp-bengaluru-10-to-15-years-141026931263?src=directSearch&sid=17921079412994624&xp=8&px=1",
+      "time": "2026-10-15T23:46:19.035Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Adecco",
+      "title": "Change Manager (Projects) - Program Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-change-manager-projects-program-delivery-adecco-india-bengaluru-12-to-15-years-141026030717?src=directSearch&sid=17921079412994624&xp=11&px=1",
+      "time": "2026-10-15T23:46:37.269Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4178,
+  "totalVerifiedInHistory": 4182,
   "portalBreakdown": {
     "iimjobs": 537,
-    "naukri": 784,
+    "naukri": 788,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 48,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T23:12:12.606Z",
-  "lastUpdated": "16/10/2026, 4:42:12 am"
+  "lastSyncedAt": "2026-10-15T23:46:37.309Z",
+  "lastUpdated": "16/10/2026, 5:16:37 am"
 }
