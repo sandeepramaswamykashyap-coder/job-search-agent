@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4207,
+  "applicationsSubmitted": 4208,
   "appliedRolesList": [
-    {
-      "company": "Atlassian",
-      "title": "Senior Engineering Manager, ITSM Operations",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=f6e358b78fdb3822",
-      "time": "2026-10-08T09:09:15.629Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager - Business Development Manager - IT Services",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-operational-excellence-manager-metaphor-infotech-mumbai-bengaluru-10-to-14-years-151026031829?src=directSearch&sid=17921314903314441&xp=5&px=1",
       "time": "2026-10-16T06:18:31.161Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Recruitment",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-recruitment-1740298?ref=sp&jobPos=15",
+      "time": "2026-10-16T06:54:31.373Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4207,
+  "totalVerifiedInHistory": 4208,
   "portalBreakdown": {
-    "iimjobs": 545,
+    "iimjobs": 546,
     "naukri": 803,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T06:18:31.207Z",
-  "lastUpdated": "16/10/2026, 11:48:31 am"
+  "lastSyncedAt": "2026-10-16T06:54:31.425Z",
+  "lastUpdated": "16/10/2026, 12:24:31 pm"
 }
