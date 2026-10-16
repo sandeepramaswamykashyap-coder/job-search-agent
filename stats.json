@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4182,
+  "applicationsSubmitted": 4183,
   "appliedRolesList": [
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "Senior Project Manager Data Engineering (Retail)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-project-manager-data-engineering-retail-happiest-minds-technologies-bengaluru-15-to-20-years-041026005570",
-      "time": "2026-10-08T03:54:14.020Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ETERNAL",
       "title": "Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-change-manager-projects-program-delivery-adecco-india-bengaluru-12-to-15-years-141026030717?src=directSearch&sid=17921079412994624&xp=11&px=1",
       "time": "2026-10-15T23:46:37.269Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Commercial Management Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-commercial-management-consultant-ernst-young-llp-bengaluru-5-to-10-years-131026946085?src=directSearch&sid=17921097999774229&xp=8&px=1",
+      "time": "2026-10-16T00:17:10.827Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4182,
+  "totalVerifiedInHistory": 4183,
   "portalBreakdown": {
     "iimjobs": 537,
-    "naukri": 788,
+    "naukri": 789,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 48,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-15T23:46:37.309Z",
-  "lastUpdated": "16/10/2026, 5:16:37 am"
+  "lastSyncedAt": "2026-10-16T00:17:10.870Z",
+  "lastUpdated": "16/10/2026, 5:47:10 am"
 }
