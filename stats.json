@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4206,
+  "applicationsSubmitted": 4207,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "IndiaFirst Life Insurance Company - Manager/Senior Manager - Product Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/indiafirst-life-insurance-company-manager-senior-manager-product-management-1738629?ref=sp_br_prm&jobPos=7",
-      "time": "2026-10-08T08:51:48.730Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Atlassian",
       "title": "Senior Engineering Manager, ITSM Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/head-warehouse-operations-1740235?ref=sp&jobPos=12",
       "time": "2026-10-16T05:47:07.609Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Metaphor Infotech Mumbai",
+      "title": "Operational Excellence Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operational-excellence-manager-metaphor-infotech-mumbai-bengaluru-10-to-14-years-151026031829?src=directSearch&sid=17921314903314441&xp=5&px=1",
+      "time": "2026-10-16T06:18:31.161Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4206,
+  "totalVerifiedInHistory": 4207,
   "portalBreakdown": {
     "iimjobs": 545,
-    "naukri": 802,
+    "naukri": 803,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T05:47:07.653Z",
-  "lastUpdated": "16/10/2026, 11:17:07 am"
+  "lastSyncedAt": "2026-10-16T06:18:31.207Z",
+  "lastUpdated": "16/10/2026, 11:48:31 am"
 }
