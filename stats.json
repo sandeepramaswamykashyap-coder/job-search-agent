@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4204,
+  "applicationsSubmitted": 4206,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amazon - Program Manager II - Quick Commerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amazon-program-manager-ii-quick-commerce-1738210?ref=sp_br&jobPos=4",
-      "time": "2026-10-08T08:17:58.058Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Z-Tech - Head - Food & Beverage Operations - Creative Parks",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/z-tech-head-food-and-beverage-operations-creative-parks-1738599?ref=sp_br&jobPos=13",
-      "time": "2026-10-08T08:18:18.581Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "IndiaFirst Life Insurance Company - Manager/Senior Manager - Product Management",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-program-management-engineering-manufacturing-1740242?ref=sp&jobPos=4",
       "time": "2026-10-16T05:14:43.875Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Medtronic - Senior Marketing Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/medtronic-senior-marketing-manager-1740256?ref=sp_prm&jobPos=2",
+      "time": "2026-10-16T05:46:38.246Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Warehouse Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-warehouse-operations-1740235?ref=sp&jobPos=12",
+      "time": "2026-10-16T05:47:07.609Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4204,
+  "totalVerifiedInHistory": 4206,
   "portalBreakdown": {
-    "iimjobs": 543,
+    "iimjobs": 545,
     "naukri": 802,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T05:14:43.917Z",
-  "lastUpdated": "16/10/2026, 10:44:43 am"
+  "lastSyncedAt": "2026-10-16T05:47:07.653Z",
+  "lastUpdated": "16/10/2026, 11:17:07 am"
 }
