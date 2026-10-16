@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4213,
+  "applicationsSubmitted": 4216,
   "appliedRolesList": [
-    {
-      "company": "Uber",
-      "title": "Senior Program Manager, APAC Doc Processing",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=5f55d590489a0aa4",
-      "time": "2026-10-08T10:43:49.468Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "CloudOps-Monitoring Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-cloudops-monitoring-lead-ey-bengaluru-1-to-4-years-081026013013?src=directSearch&sid=17914573198082445&xp=12&px=1",
-      "time": "2026-10-08T11:02:40.153Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading ITES Company",
-      "title": "SCM :S&P : Manager / Delivery Manager : Max 20 LPA : Apply Now",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-scm-s-p-manager-delivery-manager-max-20-lpa-apply-now-outpace-consulting-services-bengaluru-mumbai-all-areas-8-to-13-years-040926014233?src=directSearch&sid=17914573633311752&xp=13&px=1",
-      "time": "2026-10-08T11:03:16.566Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Program Manager/Head - RPO",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-senior-bid-manager-aecom-india-private-limited-bengaluru-7-to-12-years-161026908520?src=directSearch&sid=17921455334819534&xp=8&px=1",
       "time": "2026-10-16T10:12:52.573Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Han Digital Solution",
+      "title": "Technical Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-han-digital-solution-bengaluru-12-to-19-years-161026020432?src=directSearch&sid=17921476020345104&xp=11&px=1",
+      "time": "2026-10-16T10:47:02.998Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Mindsprint - Business Process Delivery Head - Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mindsprint-business-process-delivery-head-transformation-1740372?ref=sp_br_prm&jobPos=5",
+      "time": "2026-10-16T10:47:44.260Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "CMA CGM - Transformation Expert - Innovation & Simplification",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cma-cgm-transformation-expert-innovation-and-simplification-1740377?ref=sp_prm&jobPos=7",
+      "time": "2026-10-16T10:47:50.481Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4213,
+  "totalVerifiedInHistory": 4216,
   "portalBreakdown": {
-    "iimjobs": 547,
-    "naukri": 807,
+    "iimjobs": 549,
+    "naukri": 808,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T10:12:52.611Z",
-  "lastUpdated": "16/10/2026, 3:42:52 pm"
+  "lastSyncedAt": "2026-10-16T10:47:50.524Z",
+  "lastUpdated": "16/10/2026, 4:17:50 pm"
 }
