@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4210,
+  "applicationsSubmitted": 4211,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "MPS - Senior Manager - Project Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/mps-senior-manager-project-management-1738658?ref=sp_prm&jobPos=10",
-      "time": "2026-10-08T09:56:14.266Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "HVAC Solutions",
       "title": "Operations Manager ( HVAC)",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/brandtouch-and-analytics-head-operations-1740306?ref=sp_prm&jobPos=2",
       "time": "2026-10-16T07:27:37.864Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Embarkgcc Services",
+      "title": "Senior Consultant Workflow Automation & Agentic AI Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-consultant-workflow-automation-agentic-ai-consultant-embarkgcc-services-hyderabad-pune-bengaluru-8-to-12-years-161026017394?src=directSearch&sid=17921414653116091&xp=11&px=1",
+      "time": "2026-10-16T09:04:56.953Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4210,
+  "totalVerifiedInHistory": 4211,
   "portalBreakdown": {
     "iimjobs": 547,
-    "naukri": 804,
+    "naukri": 805,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T07:27:37.909Z",
-  "lastUpdated": "16/10/2026, 12:57:37 pm"
+  "lastSyncedAt": "2026-10-16T09:04:57.008Z",
+  "lastUpdated": "16/10/2026, 2:34:57 pm"
 }
