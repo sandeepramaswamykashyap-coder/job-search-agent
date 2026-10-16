@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4226,
+  "applicationsSubmitted": 4230,
   "appliedRolesList": [
-    {
-      "company": "Golden Opportunities",
-      "title": "Senior Manager - Tower Lead Rewards- Bangalore - GO/JC/4525/2026\nSenior Manager - Tower Lead Rewards- Bangalore - GO/JC/4525/2026 with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472457582&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T12:24:17.356Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Client Technology -Senior Product Delivery Manager\nClient Technology -Senior Product Delivery Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472806242&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T12:25:07.012Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Muthoot FinCorp ONE",
-      "title": "Program Manager-Platform Revenue\nProgram Manager-Platform Revenue",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455900553&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T12:26:04.744Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Program Manager, Buying Defects (RBS)\nSr. Program Manager, Buying Defects (RBS) with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4463429417&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
-      "time": "2026-10-08T12:26:52.546Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "ARCHITECT - END User Computing",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/head-manufacturing-operations-1740438?ref=sp&jobPos=13",
       "time": "2026-10-16T12:54:56.196Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Global It Family",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-global-it-family-bengaluru-10-to-20-years-161026025852?src=directSearch&sid=17921570495679112&xp=5&px=1",
+      "time": "2026-10-16T13:24:30.129Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "MNC Company",
+      "title": "Senior Director  Operations | US TITLE Insurance",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-director-operations-us-title-insurance-delights-bengaluru-15-to-24-years-161026026323?src=directSearch&sid=17921571088973080&xp=8&px=1",
+      "time": "2026-10-16T13:25:33.104Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Aeoru - Senior Project Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/aeoru-senior-project-manager-1740448?ref=sp_prm&jobPos=2",
+      "time": "2026-10-16T13:28:24.614Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Brand Partnerships - Advertising",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-brand-partnerships-advertising-1740443?ref=sp&jobPos=3",
+      "time": "2026-10-16T13:29:24.520Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4226,
+  "totalVerifiedInHistory": 4230,
   "portalBreakdown": {
-    "iimjobs": 554,
-    "naukri": 813,
+    "iimjobs": 556,
+    "naukri": 815,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 50,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T12:54:56.238Z",
-  "lastUpdated": "16/10/2026, 6:24:56 pm"
+  "lastSyncedAt": "2026-10-16T13:29:24.570Z",
+  "lastUpdated": "16/10/2026, 6:59:24 pm"
 }
