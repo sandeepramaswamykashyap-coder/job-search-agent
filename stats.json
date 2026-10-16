@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4184,
+  "applicationsSubmitted": 4185,
   "appliedRolesList": [
-    {
-      "company": "Jaquar Group",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-jaquar-group-hyderabad-bengaluru-8-to-19-years-071026047640?src=directSearch&sid=17914318200168833&xp=10&px=1",
-      "time": "2026-10-08T03:57:31.109Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Seikor Group",
       "title": "Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-databricks-agentic-ai-manager-pwc-pune-gurugram-bengaluru-9-to-14-years-151026012341?src=directSearch&sid=17921117634471682&xp=13&px=1",
       "time": "2026-10-16T00:49:47.785Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "CareerFit.ai",
+      "title": "Engagement Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-engagement-manager-skima-innovation-private-limited-bengaluru-7-to-12-years-151026026482?src=directSearch&sid=17921137292469113&xp=7&px=1",
+      "time": "2026-10-16T01:22:33.440Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4184,
+  "totalVerifiedInHistory": 4185,
   "portalBreakdown": {
     "iimjobs": 537,
-    "naukri": 790,
+    "naukri": 791,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 48,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-16T00:49:47.832Z",
-  "lastUpdated": "16/10/2026, 6:19:47 am"
+  "lastSyncedAt": "2026-10-16T01:22:33.481Z",
+  "lastUpdated": "16/10/2026, 6:52:33 am"
 }
