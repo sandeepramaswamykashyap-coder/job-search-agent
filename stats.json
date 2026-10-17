@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4246,
+  "applicationsSubmitted": 4247,
   "appliedRolesList": [
-    {
-      "company": "Mashreq",
-      "title": "Vice President - Technology Program Manager.TECH-Core Banking Program\nVice President - Technology Program Manager.TECH-Core Banking Program with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472711733&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T13:52:04.866Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Truworth Wellness",
       "title": "Senior Manager / Manager – Business Development (EAP & Corporate Wellness)\nSenior Manager / Manager – Business Development (EAP & Corporate Wellness) with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
       "time": "2026-10-17T09:28:26.683Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Azim Premji Foundation",
+      "title": "Program Manager - Hospital Compliances & Regulations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-hospital-compliances-regulations-azim-premji-foundation-bengaluru-8-to-13-years-171026011901?src=directSearch&sid=17922337088444251&xp=8&px=1",
+      "time": "2026-10-17T10:42:09.835Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4246,
+  "totalVerifiedInHistory": 4247,
   "portalBreakdown": {
     "iimjobs": 562,
-    "naukri": 820,
+    "naukri": 821,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 55,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-17T09:28:26.753Z",
-  "lastUpdated": "17/10/2026, 2:58:26 pm"
+  "lastSyncedAt": "2026-10-17T10:42:09.889Z",
+  "lastUpdated": "17/10/2026, 4:12:09 pm"
 }
