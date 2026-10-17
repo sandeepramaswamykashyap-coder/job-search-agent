@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4248,
+  "applicationsSubmitted": 4249,
   "appliedRolesList": [
-    {
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead\nLegal Operations Team Lead with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472711733&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T13:53:42.219Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zepto",
       "title": "Manager II - Program Management (Last Mile)\nManager II - Program Management (Last Mile) with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUlMUXsAAAACZamvdgALAQACPQpwiFjgqcQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUlMUXsAAAACZamvdgALAQACPQpwiFjgqcQAAA&from=page-two-signin",
       "time": "2026-10-17T12:05:08.591Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Confidential",
+      "title": "Senior Manager :  International Insurance Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-international-insurance-operations-workforce-management-consultancy-pune-bengaluru-12-to-18-years-171026015637?src=directSearch&sid=17922475236968946&xp=8&px=1",
+      "time": "2026-10-17T14:32:24.655Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4248,
+  "totalVerifiedInHistory": 4249,
   "portalBreakdown": {
     "iimjobs": 562,
-    "naukri": 821,
+    "naukri": 822,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 56,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-17T12:05:08.663Z",
-  "lastUpdated": "17/10/2026, 5:35:08 pm"
+  "lastSyncedAt": "2026-10-17T14:32:24.698Z",
+  "lastUpdated": "17/10/2026, 8:02:24 pm"
 }
