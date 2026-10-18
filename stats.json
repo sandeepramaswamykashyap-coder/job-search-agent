@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4253,
+  "applicationsSubmitted": 4254,
   "appliedRolesList": [
-    {
-      "company": "Relanto",
-      "title": "Technical Program Manager\nTechnical Program Manager",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4463429417&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
-      "time": "2026-10-08T13:58:01.145Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "HCLTech",
       "title": "VLSI RTL DV Technical Project Manager/Program manager\nVLSI RTL DV Technical Project Manager/Program manager with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/head-ict-projects-and-operations-education-edtech-1740556?ref=sp&jobPos=17",
       "time": "2026-10-18T08:22:13.470Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Sigmoid",
+      "title": "Senior Analytics Manager (Immediate Joiners)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-analytics-manager-immediate-joiners-sigmoid-bengaluru-10-to-13-years-181026003877?src=directSearch&sid=1792323300895117&xp=6&px=1",
+      "time": "2026-10-18T11:35:18.513Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4253,
+  "totalVerifiedInHistory": 4254,
   "portalBreakdown": {
     "iimjobs": 565,
-    "naukri": 823,
+    "naukri": 824,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 56,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-18T08:22:13.514Z",
-  "lastUpdated": "18/10/2026, 1:52:13 pm"
+  "lastSyncedAt": "2026-10-18T11:35:18.558Z",
+  "lastUpdated": "18/10/2026, 5:05:18 pm"
 }
