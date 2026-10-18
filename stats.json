@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4252,
+  "applicationsSubmitted": 4253,
   "appliedRolesList": [
-    {
-      "company": "A Global Consulting Firm",
-      "title": "Transformation Program Manager\nTransformation Program Manager",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455900553&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T13:57:13.620Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Relanto",
       "title": "Technical Program Manager\nTechnical Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/travash-software-solutions-director-enterprise-ai-adoption-and-business-transformation-1740544?ref=sp_prm&jobPos=11",
       "time": "2026-10-18T06:43:04.322Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - ICT Projects & Operations - Education/EdTech",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-ict-projects-and-operations-education-edtech-1740556?ref=sp&jobPos=17",
+      "time": "2026-10-18T08:22:13.470Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4252,
+  "totalVerifiedInHistory": 4253,
   "portalBreakdown": {
-    "iimjobs": 564,
+    "iimjobs": 565,
     "naukri": 823,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 56,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-18T06:43:04.361Z",
-  "lastUpdated": "18/10/2026, 12:13:04 pm"
+  "lastSyncedAt": "2026-10-18T08:22:13.514Z",
+  "lastUpdated": "18/10/2026, 1:52:13 pm"
 }
