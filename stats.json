@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4255,
+  "applicationsSubmitted": 4256,
   "appliedRolesList": [
-    {
-      "company": "Tata Consultancy Services",
-      "title": "HRO Delivery Head\nHRO Delivery Head with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471721896&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T14:39:08.621Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Apex Group Ltd (India Branch)",
       "title": "Portfolio Lead\nPortfolio Lead",
@@ -4001,6 +3993,14 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUk0yZwAAAACZb5jdQAPAQAHKoKZnHw6tYGSTTjuAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUk0yZwAAAACZb5jdQAPAQAHKoKZnHw6tYGSTTjuAAA&from=page-two-signin",
       "time": "2026-10-18T14:13:53.820Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "AECOM",
+      "title": "Associate Director- Energy(Primary Substation)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-energy-primary-substation-aecom-india-private-limited-bengaluru-15-to-20-years-151026930674?src=directSearch&sid=17923534406691926&xp=12&px=1",
+      "time": "2026-10-18T19:57:38.412Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4255,
+  "totalVerifiedInHistory": 4256,
   "portalBreakdown": {
     "iimjobs": 565,
-    "naukri": 824,
+    "naukri": 825,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 57,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-18T14:30:55.843Z",
-  "lastUpdated": "18/10/2026, 8:00:55 pm"
+  "lastSyncedAt": "2026-10-18T19:57:38.458Z",
+  "lastUpdated": "19/10/2026, 1:27:38 am"
 }
