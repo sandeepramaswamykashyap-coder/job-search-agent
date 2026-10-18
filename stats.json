@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4250,
+  "applicationsSubmitted": 4252,
   "appliedRolesList": [
-    {
-      "company": "Capco",
-      "title": "Senior PMO - DB\nSenior PMO - DB with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4443755339&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T13:55:28.060Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Golden Opportunities",
-      "title": "Senior Manager – Tower lead(L&D) - Bangalore - GO/JC/4522/2026\nSenior Manager – Tower lead(L&D) - Bangalore - GO/JC/4522/2026 with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472457582&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T13:56:17.146Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "A Global Consulting Firm",
       "title": "Transformation Program Manager\nTransformation Program Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-associate-director-site-budgeting-and-contracting-kornferry-bengaluru-15-to-24-years-161026016676?src=directSearch&sid=1792281764839796&xp=12&px=1",
       "time": "2026-10-18T00:03:12.375Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "GenAI Business Strategy & Transformation Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/genai-business-strategy-and-transformation-lead-1740545?ref=sp_prm&jobPos=9",
+      "time": "2026-10-18T06:42:57.945Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Travash Software Solutions - Director - Enterprise AI Adoption & Business Transf",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/travash-software-solutions-director-enterprise-ai-adoption-and-business-transformation-1740544?ref=sp_prm&jobPos=11",
+      "time": "2026-10-18T06:43:04.322Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4250,
+  "totalVerifiedInHistory": 4252,
   "portalBreakdown": {
-    "iimjobs": 562,
+    "iimjobs": 564,
     "naukri": 823,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 56,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-18T00:03:12.420Z",
-  "lastUpdated": "18/10/2026, 5:33:12 am"
+  "lastSyncedAt": "2026-10-18T06:43:04.361Z",
+  "lastUpdated": "18/10/2026, 12:13:04 pm"
 }
