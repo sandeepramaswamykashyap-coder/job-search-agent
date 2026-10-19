@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4264,
+  "applicationsSubmitted": 4267,
   "appliedRolesList": [
-    {
-      "company": "HCLTech",
-      "title": "Oracle Retail XStore POS Program Manager\nOracle Retail XStore POS Program Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455904782&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T14:46:59.107Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "bigbasket",
-      "title": "Chief of Staff (CEOs Office)\nChief of Staff (CEOs Office)",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
-      "time": "2026-10-08T15:26:42.042Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior Manager - Business Consulting PI - TMT - CNS - BC - FINANCE - Bangalore\nSenior Manager - Business Consulting PI - TMT - CNS - BC - FINANCE - Bangalore with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-08T15:27:01.407Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ADLINK Technology",
       "title": "India Country Manager\nIndia Country Manager with verification",
@@ -4001,6 +3977,30 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=8896164b88f25e59",
       "time": "2026-10-19T09:13:32.432Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Navi - Senior Product Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1740650/screening?ref=sp_br&jobPos=16&pref=sp_br",
+      "time": "2026-10-19T10:28:37.142Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "BHIVE Workspace - Head - Revenue Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1740641/screening?ref=sp&jobPos=13&pref=sp",
+      "time": "2026-10-19T10:29:13.313Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "HR Transformation Role - Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=10&jobId=1740646&pref=sp",
+      "time": "2026-10-19T10:30:21.539Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4264,
+  "totalVerifiedInHistory": 4267,
   "portalBreakdown": {
-    "iimjobs": 571,
+    "iimjobs": 574,
     "naukri": 825,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 59,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-19T09:13:32.499Z",
-  "lastUpdated": "19/10/2026, 2:43:32 pm"
+  "lastSyncedAt": "2026-10-19T10:30:21.601Z",
+  "lastUpdated": "19/10/2026, 4:00:21 pm"
 }
