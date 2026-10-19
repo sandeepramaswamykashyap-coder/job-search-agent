@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4259,
+  "applicationsSubmitted": 4260,
   "appliedRolesList": [
-    {
-      "company": "Accenture in India",
-      "title": "Strategic Programs Senior Manager\nStrategic Programs Senior Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4463429417&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
-      "time": "2026-10-08T14:42:47.852Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Tata Electronics",
       "title": "Program Manager - Enterprise Risk Management (ERM) & Business Continuity Planning (BCP)\nProgram Manager - Enterprise Risk Management (ERM) & Business Continuity Planning (BCP) with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/senior-manager-sales-transformation-fmcg-1740576?ref=sp&jobPos=9",
       "time": "2026-10-19T04:32:01.333Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "MobiKwik - Senior Collections Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mobikwik-senior-collections-manager-1740593?ref=sp_br_prm&jobPos=1",
+      "time": "2026-10-19T06:00:04.911Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4259,
+  "totalVerifiedInHistory": 4260,
   "portalBreakdown": {
-    "iimjobs": 567,
+    "iimjobs": 568,
     "naukri": 825,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 58,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-19T04:32:01.385Z",
-  "lastUpdated": "19/10/2026, 10:02:01 am"
+  "lastSyncedAt": "2026-10-19T06:00:04.957Z",
+  "lastUpdated": "19/10/2026, 11:30:04 am"
 }
