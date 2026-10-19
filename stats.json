@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4263,
+  "applicationsSubmitted": 4264,
   "appliedRolesList": [
-    {
-      "company": "Amazon",
-      "title": "Sr. Program Manager, RBS SPEG Automations\nSr. Program Manager, RBS SPEG Automations with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4463429417&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
-      "time": "2026-10-08T14:46:10.380Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "HCLTech",
       "title": "Oracle Retail XStore POS Program Manager\nOracle Retail XStore POS Program Manager with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/hr-strategy-and-transformation-lead-organization-development-and-transformation-consulting-1740617?ref=sp&jobPos=17",
       "time": "2026-10-19T07:59:46.793Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Monks",
+      "title": "Operations Director",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=8896164b88f25e59",
+      "time": "2026-10-19T09:13:32.432Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4263,
+  "totalVerifiedInHistory": 4264,
   "portalBreakdown": {
     "iimjobs": 571,
     "naukri": 825,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 58,
+    "indeed": 59,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-19T07:59:46.848Z",
-  "lastUpdated": "19/10/2026, 1:29:46 pm"
+  "lastSyncedAt": "2026-10-19T09:13:32.499Z",
+  "lastUpdated": "19/10/2026, 2:43:32 pm"
 }
