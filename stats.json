@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4256,
+  "applicationsSubmitted": 4257,
   "appliedRolesList": [
-    {
-      "company": "Apex Group Ltd (India Branch)",
-      "title": "Portfolio Lead\nPortfolio Lead",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471767484&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T14:39:57.296Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Applicantz",
       "title": "Senior Program Manager – Voice of Customer (VoC) Operations & Enablement\nSenior Program Manager – Voice of Customer (VoC) Operations & Enablement with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-associate-director-energy-primary-substation-aecom-india-private-limited-bengaluru-15-to-20-years-151026930674?src=directSearch&sid=17923534406691926&xp=12&px=1",
       "time": "2026-10-18T19:57:38.412Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "BCD",
+      "title": "Senior Manager- Information Security",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUgg_XQAAAACZZghEwASAQEBBi8ewqwLLY1Woc1XYq7SAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUgg_XQAAAACZZghEwASAQEBBi8ewqwLLY1Woc1XYq7SAAA&from=page-two-signin",
+      "time": "2026-10-19T01:34:34.691Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4256,
+  "totalVerifiedInHistory": 4257,
   "portalBreakdown": {
     "iimjobs": 565,
     "naukri": 825,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 57,
+    "indeed": 58,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-18T19:57:38.458Z",
-  "lastUpdated": "19/10/2026, 1:27:38 am"
+  "lastSyncedAt": "2026-10-19T01:34:34.759Z",
+  "lastUpdated": "19/10/2026, 7:04:34 am"
 }
