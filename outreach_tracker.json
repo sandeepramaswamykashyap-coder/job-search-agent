@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-19T11:33:15.094Z",
+  "lastUpdated": "2026-10-19T12:03:23.050Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1324,7 +1324,7 @@
       "company": "Tesco Bengaluru",
       "title": "Head of Technology Delivery & Transformation",
       "dispatchedAt": "2026-10-08T12:02:36.359Z",
-      "daysElapsed": 10,
+      "daysElapsed": 11,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1335,7 +1335,7 @@
       "company": "Tesco Bengaluru",
       "title": "Head of Talent Acquisition India",
       "dispatchedAt": "2026-10-08T12:02:45.828Z",
-      "daysElapsed": 10,
+      "daysElapsed": 11,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1346,7 +1346,7 @@
       "company": "Shell Technology Centre",
       "title": "General Manager - Digital Solutions & Program Delivery",
       "dispatchedAt": "2026-10-08T12:02:54.873Z",
-      "daysElapsed": 10,
+      "daysElapsed": 11,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1357,7 +1357,7 @@
       "company": "Shell India",
       "title": "Talent Acquisition Lead - Executive Hiring",
       "dispatchedAt": "2026-10-08T12:03:04.115Z",
-      "daysElapsed": 10,
+      "daysElapsed": 11,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1368,7 +1368,7 @@
       "company": "Boeing India",
       "title": "Director - Global Operations & Engineering Delivery",
       "dispatchedAt": "2026-10-08T12:03:13.110Z",
-      "daysElapsed": 10,
+      "daysElapsed": 11,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1379,7 +1379,7 @@
       "company": "Philips Innovation Campus",
       "title": "Senior Director - Digital Platforms & Program Governance",
       "dispatchedAt": "2026-10-08T12:03:22.426Z",
-      "daysElapsed": 10,
+      "daysElapsed": 11,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
