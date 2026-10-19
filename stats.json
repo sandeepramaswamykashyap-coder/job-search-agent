@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4281,
+  "applicationsSubmitted": 4284,
   "appliedRolesList": [
-    {
-      "company": "Aziro",
-      "title": "Social Impact Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-social-impact-program-manager-aziro-bengaluru-5-to-10-years-081026023456?src=directSearch&sid=17914779616222040&xp=4&px=1",
-      "time": "2026-10-08T16:46:15.906Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ZEISS India",
-      "title": "Head of Strategy and New Businesses\nHead of Strategy and New Businesses",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474069632&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
-      "time": "2026-10-08T16:53:55.175Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "JLL",
-      "title": "Director, Specialist Advisory - Business Development\nDirector, Specialist Advisory - Business Development",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-08T16:54:14.458Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Navi",
       "title": "Associate Manager II - Talent Acquisition (Strategy & Business Operations)\nAssociate Manager II - Talent Acquisition (Strategy & Business Operations) with verification",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/myapply/walkInApply?strJobsarr=[191026009163]&applytype=single&resId=116831793&ApplyMode=1&id=92767393&src=walkIn&logstr=--directSearch-9-F-0-1--17924171885462330----directSearch-9-F-0-1--17924171885462330-&applySrc=--directSearch-9-F-0-1--17924171885462330-&multiApplyResp=%7B%22191026009163%22%3A203%7D&jobTitle=It%20Delivery%20Manager",
       "time": "2026-10-19T13:40:34.696Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Experis",
+      "title": "Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-experis-hyderabad-chennai-bengaluru-12-to-18-years-191026004072?src=directSearch&sid=17924190635503815&xp=3&px=1",
+      "time": "2026-10-19T14:11:17.847Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "SAP Cloud ALM Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-cloud-alm-lead-capgemini-technology-services-india-limited-mumbai-gandhinagar-bengaluru-bengaluru-gandhinagar-mumbai-8-to-13-years-191026911062?src=directSearch&sid=17924191774442360&xp=5&px=1",
+      "time": "2026-10-19T14:13:21.554Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "SAP LeanIX Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-leanix-lead-capgemini-technology-services-india-limited-mumbai-gandhinagar-bengaluru-bengaluru-gandhinagar-mumbai-8-to-13-years-191026910888?src=directSearch&sid=17924191774442360&xp=7&px=1",
+      "time": "2026-10-19T14:13:33.242Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4281,
+  "totalVerifiedInHistory": 4284,
   "portalBreakdown": {
     "iimjobs": 576,
-    "naukri": 836,
+    "naukri": 839,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 60,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-19T13:40:34.739Z",
-  "lastUpdated": "19/10/2026, 7:10:34 pm"
+  "lastSyncedAt": "2026-10-19T14:30:02.444Z",
+  "lastUpdated": "19/10/2026, 8:00:02 pm"
 }

@@ -34246,5 +34246,29 @@
     "url": "https://www.naukri.com/myapply/walkInApply?strJobsarr=[191026009163]&applytype=single&resId=116831793&ApplyMode=1&id=92767393&src=walkIn&logstr=--directSearch-9-F-0-1--17924171885462330----directSearch-9-F-0-1--17924171885462330-&applySrc=--directSearch-9-F-0-1--17924171885462330-&multiApplyResp=%7B%22191026009163%22%3A203%7D&jobTitle=It%20Delivery%20Manager",
     "time": "2026-10-19T13:40:34.696Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Experis",
+    "title": "Project Manager",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-project-manager-experis-hyderabad-chennai-bengaluru-12-to-18-years-191026004072?src=directSearch&sid=17924190635503815&xp=3&px=1",
+    "time": "2026-10-19T14:11:17.847Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Capgemini",
+    "title": "SAP Cloud ALM Lead",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-sap-cloud-alm-lead-capgemini-technology-services-india-limited-mumbai-gandhinagar-bengaluru-bengaluru-gandhinagar-mumbai-8-to-13-years-191026911062?src=directSearch&sid=17924191774442360&xp=5&px=1",
+    "time": "2026-10-19T14:13:21.554Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Capgemini",
+    "title": "SAP LeanIX Lead",
+    "portal": "naukri",
+    "url": "https://www.naukri.com/job-listings-sap-leanix-lead-capgemini-technology-services-india-limited-mumbai-gandhinagar-bengaluru-bengaluru-gandhinagar-mumbai-8-to-13-years-191026910888?src=directSearch&sid=17924191774442360&xp=7&px=1",
+    "time": "2026-10-19T14:13:33.242Z",
+    "status": "SUBMITTED"
   }
 ]
