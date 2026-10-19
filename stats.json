@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4261,
+  "applicationsSubmitted": 4262,
   "appliedRolesList": [
-    {
-      "company": "GoComet",
-      "title": "Sr. Program Manager-Customer Delight Engine\nSr. Program Manager-Customer Delight Engine",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4463429417&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
-      "time": "2026-10-08T14:44:25.145Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Black Duck",
       "title": "Technical Program Manager\nTechnical Program Manager with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/manager-deputy-manager-internal-audit-general-and-technology-audit-ca-1740596?ref=sp&jobPos=7",
       "time": "2026-10-19T06:30:39.140Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Jabil - Technical Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=17&jobId=1740615&pref=sp",
+      "time": "2026-10-19T07:29:09.308Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4261,
+  "totalVerifiedInHistory": 4262,
   "portalBreakdown": {
-    "iimjobs": 569,
+    "iimjobs": 570,
     "naukri": 825,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 58,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-19T06:30:39.194Z",
-  "lastUpdated": "19/10/2026, 12:00:39 pm"
+  "lastSyncedAt": "2026-10-19T07:29:09.374Z",
+  "lastUpdated": "19/10/2026, 12:59:09 pm"
 }
