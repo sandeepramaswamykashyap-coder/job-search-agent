@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4300,
+  "applicationsSubmitted": 4301,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Associate Vice President-Business Consulting PI-TMT-CNS-BC-Marketing Sales & Service-Bangalore\nAssociate Vice President-Business Consulting PI-TMT-CNS-BC-Marketing Sales & Service-Bangalore with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-08T20:02:28.632Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Anaplan",
       "title": "Supply Chain (Manufacturing) Strategy and Transformation Director\nSupply Chain (Manufacturing) Strategy and Transformation Director with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
       "time": "2026-10-20T19:08:19.858Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Monks",
+      "title": "Senior Project Manager",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
+      "time": "2026-10-20T21:53:02.071Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4300,
+  "totalVerifiedInHistory": 4301,
   "portalBreakdown": {
     "iimjobs": 577,
     "naukri": 850,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 62,
+    "indeed": 63,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-20T19:08:19.924Z",
-  "lastUpdated": "21/10/2026, 12:38:19 am"
+  "lastSyncedAt": "2026-10-20T21:53:02.131Z",
+  "lastUpdated": "21/10/2026, 3:23:02 am"
 }
