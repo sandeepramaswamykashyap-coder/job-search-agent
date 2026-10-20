@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4294,
+  "applicationsSubmitted": 4295,
   "appliedRolesList": [
-    {
-      "company": "Delta Capita",
-      "title": "Quality Assurance Lead (Assistance Vice President)\nQuality Assurance Lead (Assistance Vice President) with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T18:50:00.482Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Resource Pro",
       "title": "Service Delivery Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-digital-transformation-lead-nvt-quality-lifestyle-estate-bengaluru-5-to-8-years-201026010440?src=directSearch&sid=17925031462182775&xp=5&px=1",
       "time": "2026-10-20T13:32:47.015Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Straive",
+      "title": "Engagement Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-engagement-manager-straive-hyderabad-gurugram-bengaluru-10-to-15-years-201026011223?src=directSearch&sid=17925079141452025&xp=13&px=1",
+      "time": "2026-10-20T14:52:35.291Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4294,
+  "totalVerifiedInHistory": 4295,
   "portalBreakdown": {
     "iimjobs": 576,
-    "naukri": 848,
+    "naukri": 849,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 61,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-20T14:30:05.049Z",
-  "lastUpdated": "20/10/2026, 8:00:05 pm"
+  "lastSyncedAt": "2026-10-20T14:52:35.342Z",
+  "lastUpdated": "20/10/2026, 8:22:35 pm"
 }
