@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4316,
+  "applicationsSubmitted": 4320,
   "appliedRolesList": [
-    {
-      "company": "Pronto Networks, Inc",
-      "title": "Director of Software Engineering\nDirector of Software Engineering with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4446581455&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T22:59:28.787Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "State Street",
-      "title": "Senior Business Analyst - Senior Manager\nSenior Business Analyst - Senior Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4467863989&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T23:00:18.217Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Zensciences",
-      "title": "Senior Account Manager – B2B Marketing Agency\nSenior Account Manager – B2B Marketing Agency with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4446581455&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-08T23:01:07.044Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Indegene",
-      "title": "Senior Manager Corporate Strategy\nSenior Manager Corporate Strategy with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474651472&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
-      "time": "2026-10-08T23:02:14.174Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "TE Connectivity",
       "title": "Senior Manager - Engineering Innovation & Technology",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-dx-proposal-lead-yokogawa-bengaluru-5-to-8-years-140926017721?src=directSearch&sid=17925642654226940&xp=5&px=1",
       "time": "2026-10-21T06:31:26.222Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Client of CareerPage",
+      "title": "Principal Consultant - Organisation Change Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-principal-consultant-organisation-change-management-career-page-consulting-bengaluru-10-to-20-years-211026004228?src=directSearch&sid=17925667723536343&xp=1&px=1",
+      "time": "2026-10-21T07:13:06.597Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "AWS Devops Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-aws-devops-lead-infosys-limited-bengaluru-5-to-9-years-290926933939?src=directSearch&sid=17925667723536343&xp=13&px=1",
+      "time": "2026-10-21T07:13:38.105Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Uni - Program Manager - Growth - IIT/NIT/BITS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/uni-program-manager-growth-iit-nit-bits-1740871?ref=sp_br&jobPos=4",
+      "time": "2026-10-21T07:14:13.491Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Cost Transformation Consultant",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cost-transformation-consultant-1740876?ref=sp_prm&jobPos=1",
+      "time": "2026-10-21T07:14:38.273Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4316,
+  "totalVerifiedInHistory": 4320,
   "portalBreakdown": {
-    "iimjobs": 583,
-    "naukri": 858,
+    "iimjobs": 585,
+    "naukri": 860,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-21T06:31:26.266Z",
-  "lastUpdated": "21/10/2026, 12:01:26 pm"
+  "lastSyncedAt": "2026-10-21T07:14:38.314Z",
+  "lastUpdated": "21/10/2026, 12:44:38 pm"
 }
