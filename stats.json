@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4337,
+  "applicationsSubmitted": 4341,
   "appliedRolesList": [
-    {
-      "company": "Accenture in India",
-      "title": "GN-I&E CEO Advisory - Consultant\nGN-I&E CEO Advisory - Consultant with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-09T01:13:08.310Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Job Seeks 4U Consultancy Services",
-      "title": "Hiring For Supply Chain - S&OP - Quote To Cash!!!",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-for-supply-chain-s-op-quote-to-cash-seeks-4u-consultancy-services-pune-bengaluru-14-to-24-years-081026043302?src=directSearch&sid=17915093494672426&xp=11&px=1",
-      "time": "2026-10-09T01:29:40.311Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CodeGama",
-      "title": "Operations Executive\nOperations Executive",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464526621&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T01:37:27.430Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "State Street",
-      "title": "Global Head of Financing and Portfolio Solutions (FPS) Operations, Senior Managing Director\nGlobal Head of Financing and Portfolio Solutions (FPS) Operations, Senior Managing Director with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476140165&f_AL=true&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T01:38:16.278Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Vayuz Technologies",
       "title": "SAP SuccessFactors Technical Project Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-manager-axtria-india-private-limited-bengaluru-7-to-12-years-211026919117?src=directSearch&sid=17925874489058739&xp=8&px=1",
       "time": "2026-10-21T12:57:53.109Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Hitachi Energy",
+      "title": "Global QCI Platform Owner - Digital Platforms",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-global-qci-platform-owner-digital-platforms-hitachi-energy-india-limited-bengaluru-bengaluru-15-to-20-years-191026910819?src=drecomm_dashboard_apply",
+      "time": "2026-10-21T14:10:21.335Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "Technical Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-architect-infosys-limited-bengaluru-9-to-14-years-191026901287?src=drecomm_dashboard_apply",
+      "time": "2026-10-21T14:11:33.060Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "TTT - PaPM - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ttt-papm-manager-ernst-young-llp-bengaluru-10-to-15-years-141026932210?src=drecomm_dashboard_apply",
+      "time": "2026-10-21T14:12:44.699Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Xoriant",
+      "title": "Performance Testing Engineer -AI",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-performance-testing-engineer-ai-xoriant-bengaluru-5-to-10-years-211026025144",
+      "time": "2026-10-21T14:18:10.503Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4337,
+  "totalVerifiedInHistory": 4341,
   "portalBreakdown": {
     "iimjobs": 594,
-    "naukri": 868,
+    "naukri": 872,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-21T12:57:53.157Z",
-  "lastUpdated": "21/10/2026, 6:27:53 pm"
+  "lastSyncedAt": "2026-10-21T14:30:11.091Z",
+  "lastUpdated": "21/10/2026, 8:00:11 pm"
 }
