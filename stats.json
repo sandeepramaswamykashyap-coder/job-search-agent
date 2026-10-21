@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4342,
+  "applicationsSubmitted": 4343,
   "appliedRolesList": [
-    {
-      "company": "Pegasystems",
-      "title": "Director of Consulting\nDirector of Consulting with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T02:44:36.497Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Elevation Capital",
       "title": "Vice President of Product Management\nVice President of Product Management",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-managing-director-operations-ptoe-global-solutions-bengaluru-10-to-15-years-211026026029?src=directSearch&sid=17925990748317040&xp=3&px=1",
       "time": "2026-10-21T16:11:32.351Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IT Cart",
+      "title": "Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-it-cart-bengaluru-12-to-19-years-211026006872?src=directSearch&sid=17926015549074744&xp=7&px=1",
+      "time": "2026-10-21T16:52:52.512Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4342,
+  "totalVerifiedInHistory": 4343,
   "portalBreakdown": {
     "iimjobs": 594,
-    "naukri": 873,
+    "naukri": 874,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-21T16:11:32.404Z",
-  "lastUpdated": "21/10/2026, 9:41:32 pm"
+  "lastSyncedAt": "2026-10-21T16:52:52.560Z",
+  "lastUpdated": "21/10/2026, 10:22:52 pm"
 }
