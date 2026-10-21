@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4327,
+  "applicationsSubmitted": 4330,
   "appliedRolesList": [
-    {
-      "company": "dAIgnostiX",
-      "title": "Head/AVP – Operations Excellence & Business Intelligence\nHead/AVP – Operations Excellence & Business Intelligence",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461068962&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T00:09:30.552Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "State Street",
-      "title": "Global Head of Cross-product Operations, Managing Director\nGlobal Head of Cross-product Operations, Managing Director with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472556438&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T00:10:20.387Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Refold AI",
-      "title": "Technical Program Manager\nTechnical Program Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473246375&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T00:11:17.011Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Networth Corp",
       "title": "Technical Program Manager\nTechnical Program Manager with verification",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/senior-manager-construction-management-1740900?ref=sp&jobPos=12",
       "time": "2026-10-21T09:11:36.487Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Siro Clinpharm",
+      "title": "SAP Project Manager-Proton Services (Remote Opportunity)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-project-manager-proton-services-remote-opportunity-siro-clinpharm-bengaluru-10-to-20-years-211026014425?src=directSearch&sid=17925760787936597&xp=1&px=1",
+      "time": "2026-10-21T09:48:13.010Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ifinsol Global",
+      "title": "Scope Lead (Gloss / Post-Trade)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-scope-lead-gloss-post-trade-ifinsol-global-hyderabad-bengaluru-9-to-14-years-211026013772?src=directSearch&sid=17925760998765860&xp=6&px=1",
+      "time": "2026-10-21T09:48:47.308Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "TETR - Senior Brand Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/tetr-senior-brand-manager-1740924?ref=sp_prm&jobPos=2",
+      "time": "2026-10-21T09:49:33.873Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4327,
+  "totalVerifiedInHistory": 4330,
   "portalBreakdown": {
-    "iimjobs": 589,
-    "naukri": 863,
+    "iimjobs": 590,
+    "naukri": 865,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-21T09:11:36.531Z",
-  "lastUpdated": "21/10/2026, 2:41:36 pm"
+  "lastSyncedAt": "2026-10-21T09:49:33.918Z",
+  "lastUpdated": "21/10/2026, 3:19:33 pm"
 }
