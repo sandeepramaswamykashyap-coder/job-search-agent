@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4320,
+  "applicationsSubmitted": 4322,
   "appliedRolesList": [
-    {
-      "company": "TE Connectivity",
-      "title": "Senior Manager - Engineering Innovation & Technology",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-engineering-innovation-technology-te-connectivity-india-private-limited-bengaluru-10-to-15-years-081026946861?src=directSearch&sid=17915018418972845&xp=9&px=1",
-      "time": "2026-10-08T23:24:41.172Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "MANAGER PROCUREMENT-DIGITAL TRANSFORMATION",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-procurement-digital-transformation-te-connectivity-india-private-limited-bengaluru-8-to-13-years-081026946699?src=directSearch&sid=17915019359295735&xp=9&px=1",
-      "time": "2026-10-08T23:25:58.752Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ADM",
       "title": "Project Manager Finance (RTR) [T500-29798]\nProject Manager Finance (RTR) [T500-29798] with verification",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/cost-transformation-consultant-1740876?ref=sp_prm&jobPos=1",
       "time": "2026-10-21T07:14:38.273Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Genpact",
+      "title": "Servicenow team Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-team-lead-genpact-pune-bengaluru-delhi-ncr-8-to-13-years-151026033301?src=directSearch&sid=17925690022558694&xp=13&px=1",
+      "time": "2026-10-21T07:50:38.274Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Enterprise AI Adoption & Business Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-enterprise-ai-adoption-and-business-transformation-1740544?ref=sp_prm&jobPos=9",
+      "time": "2026-10-21T07:54:00.881Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4320,
+  "totalVerifiedInHistory": 4322,
   "portalBreakdown": {
-    "iimjobs": 585,
-    "naukri": 860,
+    "iimjobs": 586,
+    "naukri": 861,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-21T07:14:38.314Z",
-  "lastUpdated": "21/10/2026, 12:44:38 pm"
+  "lastSyncedAt": "2026-10-21T07:54:00.927Z",
+  "lastUpdated": "21/10/2026, 1:24:00 pm"
 }
