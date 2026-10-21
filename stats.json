@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4341,
+  "applicationsSubmitted": 4342,
   "appliedRolesList": [
-    {
-      "company": "Vayuz Technologies",
-      "title": "SAP SuccessFactors Technical Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-successfactors-technical-project-manager-vayuz-technologies-pune-gurugram-bengaluru-10-to-15-years-081026507436?src=directSearch&sid=17915135561321264&xp=13&px=1",
-      "time": "2026-10-09T02:40:00.479Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Pegasystems",
       "title": "Director of Consulting\nDirector of Consulting with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-performance-testing-engineer-ai-xoriant-bengaluru-5-to-10-years-211026025144",
       "time": "2026-10-21T14:18:10.503Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ptoe Global Solutions",
+      "title": "Managing Director Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-managing-director-operations-ptoe-global-solutions-bengaluru-10-to-15-years-211026026029?src=directSearch&sid=17925990748317040&xp=3&px=1",
+      "time": "2026-10-21T16:11:32.351Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4341,
+  "totalVerifiedInHistory": 4342,
   "portalBreakdown": {
     "iimjobs": 594,
-    "naukri": 872,
+    "naukri": 873,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-21T14:30:11.091Z",
-  "lastUpdated": "21/10/2026, 8:00:11 pm"
+  "lastSyncedAt": "2026-10-21T16:11:32.404Z",
+  "lastUpdated": "21/10/2026, 9:41:32 pm"
 }
