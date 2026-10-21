@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-21T17:25:02.988Z",
+  "lastUpdated": "2026-10-21T18:03:03.736Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2743,7 +2743,7 @@
       "company": "Levi Strauss India",
       "title": "Senior Talent Acquisition Lead",
       "dispatchedAt": "2026-10-08T17:25:06.835Z",
-      "daysElapsed": 12,
+      "daysElapsed": 13,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2754,7 +2754,7 @@
       "company": "Nike India Tech Center",
       "title": "Senior Director - Enterprise Program Delivery",
       "dispatchedAt": "2026-10-08T17:25:16.553Z",
-      "daysElapsed": 12,
+      "daysElapsed": 13,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2765,7 +2765,7 @@
       "company": "Lululemon India GCC",
       "title": "Director - Enterprise Operations & Technology Delivery",
       "dispatchedAt": "2026-10-08T17:25:25.138Z",
-      "daysElapsed": 12,
+      "daysElapsed": 13,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
