@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4356,
+  "applicationsSubmitted": 4361,
   "appliedRolesList": [
-    {
-      "company": "Skild AI",
-      "title": "Program Manager - Data Collection & Annotation - India\nProgram Manager - Data Collection & Annotation - India",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455790925&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:28:43.303Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "BizEdge Retail",
-      "title": "Co-Founder & Business Head with Investment - FMCG (Organized Trade)\nCo-Founder & Business Head with Investment - FMCG (Organized Trade)",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
-      "time": "2026-10-09T03:29:49.623Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IndiVillage Tech Solutions",
-      "title": "AVP - Operations\nAVP - Operations with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464872714&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:30:56.699Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deluxe",
-      "title": "Senior Manager - Subtitling Coordination\nSenior Manager - Subtitling Coordination with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:53:55.320Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Swiggy",
-      "title": "Manager - Business Finance\nManager - Business Finance with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4453097919&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:54:53.586Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Senior Project Manager\nSenior Project Manager with verification",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/head-operations-fmcg-foods-and-beverage-1741091?ref=sp&jobPos=12",
       "time": "2026-10-22T05:58:11.386Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Confidential",
+      "title": "Operations Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-head-aarons-visions-bengaluru-delhi-ncr-mumbai-all-areas-8-to-12-years-160625001039?src=directSearch&sid=1792650892849988&xp=6&px=1",
+      "time": "2026-10-22T06:35:16.983Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Apexon",
+      "title": "IT Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-it-delivery-manager-apexon-bengaluru-10-to-15-years-221026014478?src=directSearch&sid=17926509686882772&xp=7&px=1",
+      "time": "2026-10-22T06:36:41.709Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Global Giant",
+      "title": "SAP BASIS-Client Delivery Manager (CDM) | SAP ECS / RISE -10+ Exp",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-basis-client-delivery-manager-cdm-sap-ecs-rise-10-exp-hucon-solutions-hyderabad-pune-bengaluru-10-to-18-years-040926013052?src=directSearch&sid=17926509686882772&xp=8&px=1",
+      "time": "2026-10-22T06:36:53.339Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Godrej Industries - Manager/Senior Manager - Rewards - IIM/MDI/ISB",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/godrej-industries-manager-senior-manager-rewards-iim-mdi-isb-1741094?ref=sp_prm&jobPos=7",
+      "time": "2026-10-22T06:37:08.408Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Employee Relations - Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-employee-relations-consulting-1741107?ref=sp&jobPos=3",
+      "time": "2026-10-22T06:38:14.251Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4356,
+  "totalVerifiedInHistory": 4361,
   "portalBreakdown": {
-    "iimjobs": 597,
-    "naukri": 884,
+    "iimjobs": 599,
+    "naukri": 887,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T05:58:11.430Z",
-  "lastUpdated": "22/10/2026, 11:28:11 am"
+  "lastSyncedAt": "2026-10-22T06:38:14.302Z",
+  "lastUpdated": "22/10/2026, 12:08:14 pm"
 }
