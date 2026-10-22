@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4349,
+  "applicationsSubmitted": 4351,
   "appliedRolesList": [
-    {
-      "company": "Cyient Semiconductors",
-      "title": "Semiconductor Program Manager – SoC / ASIC Delivery\nSemiconductor Program Manager – SoC / ASIC Delivery",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T02:50:36.058Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Apexon",
-      "title": "Transformation Program Manager– Life Sciences\nTransformation Program Manager– Life Sciences with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455790925&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T02:51:33.693Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Prime Video & Amazon MGM Studios",
       "title": "QA Program Manager, Global Shared Services (GSS) Quality, Content & Learning (QCL)\nQA Program Manager, Global Shared Services (GSS) Quality, Content & Learning (QCL) with verification",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-cyber-manager-a-p-moller-maersk-bengaluru-8-to-13-years-221026006436?src=directSearch&sid=17926374773686477&xp=9&px=1",
       "time": "2026-10-22T02:51:44.864Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Loyalty & Rewards - D2C",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-loyalty-and-rewards-d2c-1741050?ref=sp&jobPos=2",
+      "time": "2026-10-22T04:44:57.365Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Commercial Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-commercial-excellence-1741054?ref=sp&jobPos=7",
+      "time": "2026-10-22T04:45:24.215Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4349,
+  "totalVerifiedInHistory": 4351,
   "portalBreakdown": {
-    "iimjobs": 594,
+    "iimjobs": 596,
     "naukri": 880,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T02:51:44.907Z",
-  "lastUpdated": "22/10/2026, 8:21:44 am"
+  "lastSyncedAt": "2026-10-22T04:45:24.291Z",
+  "lastUpdated": "22/10/2026, 10:15:24 am"
 }
