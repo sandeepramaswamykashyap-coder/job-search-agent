@@ -1,87 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4361,
+  "applicationsSubmitted": 4371,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Senior Project Manager\nSenior Project Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475751884&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:55:43.708Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Emirates NBD",
-      "title": "Head of Site Management\nHead of Site Management with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464872714&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:57:16.360Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Navi",
-      "title": "Strategic Partnerships (Operations)\nStrategic Partnerships (Operations) with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471918380&f_AL=true&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:58:05.315Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Adbanana",
-      "title": "Customer Success Manager\nCustomer Success Manager",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4464872714&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T03:58:55.287Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "GIVA",
-      "title": "Operations Executive\nOperations Executive",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4453097919&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T04:55:22.511Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EXL",
-      "title": "Assistant Vice President\nAssistant Vice President with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474257666&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T04:56:11.398Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Talent Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-talent-management-1738777?ref=sp&jobPos=9",
-      "time": "2026-10-09T05:24:04.256Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Eternalight Infotech",
-      "title": "Associate Technical Program Manager\nAssociate Technical Program Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455790925&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
-      "time": "2026-10-09T05:26:23.362Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Kite",
-      "title": "Program Manager - SME - CC.\nProgram Manager - SME - CC.",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472151187&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
-      "time": "2026-10-09T05:27:11.905Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Our Client",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-arminus-software-bengaluru-6-to-10-years-091026011236?src=directSearch&sid=1791524641038169&xp=9&px=1",
-      "time": "2026-10-09T05:44:22.194Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Pi Square Technologies",
       "title": "Test Automation Architect",
@@ -4001,6 +3921,86 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-employee-relations-consulting-1741107?ref=sp&jobPos=3",
       "time": "2026-10-22T06:38:14.251Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ascendion Engineering",
+      "title": "Solution Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-solution-architect-ascendion-engineering-private-limited-chennai-bengaluru-india-16-to-25-years-260626024318?src=directSearch&sid=17926531254087148&xp=8&px=1",
+      "time": "2026-10-22T07:12:23.137Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "RC FS-BT INS-Sales - CRM transformation-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-rc-fs-bt-ins-sales-crm-transformation-manager-ernst-young-llp-bengaluru-10-to-12-years-221026915802?src=directSearch&sid=17926531254087148&xp=9&px=1",
+      "time": "2026-10-22T07:12:34.846Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Adecco India",
+      "title": "Associate Director - Sales Operations & Client Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-sales-operations-client-delivery-adecco-india-bengaluru-15-to-20-years-221026016636?src=directSearch&sid=17926531647892185&xp=4&px=1",
+      "time": "2026-10-22T07:13:17.769Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Tax ACR-RTR-RF-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tax-acr-rtr-rf-manager-ernst-young-llp-bengaluru-7-to-10-years-221026916022?src=directSearch&sid=17926532077256244&xp=6&px=1",
+      "time": "2026-10-22T07:13:59.976Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "DE-Fullstack-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-de-fullstack-manager-ernst-young-llp-bengaluru-3-to-8-years-221026915887?src=directSearch&sid=17926532077256244&xp=11&px=1",
+      "time": "2026-10-22T07:14:14.970Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "AI Strategic Consultant - Test Architect - PAN India",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-strategic-consultant-test-architect-pan-india-infosys-pune-chennai-bengaluru-8-to-13-years-070926026924?src=directSearch&sid=17926532583015687&xp=7&px=1",
+      "time": "2026-10-22T07:14:45.726Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "PAS-Tax Payroll-Senior",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-pas-tax-payroll-senior-ernst-young-llp-bengaluru-7-to-12-years-221026915835?src=directSearch&sid=17926533691236119&xp=4&px=1",
+      "time": "2026-10-22T07:16:29.948Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "GMx Manager-Delivery Improvement Design thinking",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gmx-manager-delivery-improvement-design-thinking-ernst-young-llp-bengaluru-9-to-14-years-221026915495?src=directSearch&sid=17926533691236119&xp=5&px=1",
+      "time": "2026-10-22T07:16:41.624Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - India Operations - IT Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-india-operations-it-services-1741120?ref=sp&jobPos=6",
+      "time": "2026-10-22T07:18:14.503Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "AlphaSense",
+      "title": "Senior Engineering Manager - Product Platforms",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoWHcdFMAAAACZamvdgARAQAM3_m6Sl1dWlZWwu7PIXYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoWHcdFMAAAACZamvdgARAQAM3_m6Sl1dWlZWwu7PIXYAAA&from=page-two-signin",
+      "time": "2026-10-22T07:38:58.893Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4361,
+  "totalVerifiedInHistory": 4371,
   "portalBreakdown": {
-    "iimjobs": 599,
-    "naukri": 887,
+    "iimjobs": 600,
+    "naukri": 895,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 64,
+    "indeed": 65,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T06:38:14.302Z",
-  "lastUpdated": "22/10/2026, 12:08:14 pm"
+  "lastSyncedAt": "2026-10-22T07:38:58.974Z",
+  "lastUpdated": "22/10/2026, 1:08:58 pm"
 }
