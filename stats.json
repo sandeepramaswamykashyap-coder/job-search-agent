@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4416,
+  "applicationsSubmitted": 4422,
   "appliedRolesList": [
-    {
-      "company": "Mouri Tech",
-      "title": "Senior Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-project-manager-mouri-tech-bengaluru-12-to-15-years-101026009741?src=directSearch&sid=17916106738691196&xp=10&px=1",
-      "time": "2026-10-10T05:38:27.843Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "True Credits - Senior Manager - Compliance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/true-credits-senior-manager-compliance-1739008?ref=sp_br_prm&jobPos=3",
-      "time": "2026-10-10T05:42:26.471Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Dell - Senior Technology/Infrastructure Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/dell-senior-technology-infrastructure-program-manager-1739018?ref=sp_br&jobPos=8",
-      "time": "2026-10-10T06:16:55.719Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager - Business Development",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-business-development-1739036?ref=sp_br_prm&jobPos=6",
-      "time": "2026-10-10T07:25:25.242Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Brand Strategist - RDBU Brand Marketing Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amgen-senior-brand-strategist-rdbu-brand-marketing-operations-1739043?ref=sp_prm&jobPos=2",
-      "time": "2026-10-10T07:59:30.507Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amgen - Senior Manager - HR Transformation - Internal Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amgen-senior-manager-hr-transformation-internal-consulting-1739044?ref=sp_prm&jobPos=4",
-      "time": "2026-10-10T08:00:05.205Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Strategic Transformation Partner - Technology Sector",
@@ -4001,6 +3953,54 @@
       "url": "https://www.naukri.com/job-listings-incident-managment-application-suppport-lead-itc-infotech-bengaluru-10-to-15-years-201026008380?src=drecomm_dashboard_apply",
       "time": "2026-10-22T16:53:48.410Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ecolab Global Services",
+      "title": "Sr Platform Engineer-ServiceNow",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-platform-engineer-servicenow-ecolab-global-services-private-limited-bengaluru-5-to-8-years-211026919221?src=directSearch&sid=17926904580772317&xp=13&px=1",
+      "time": "2026-10-22T17:35:09.591Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dry Fruit House",
+      "title": "Head Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-operations-dry-fruit-house-bengaluru-15-to-24-years-221026032353?src=directSearch&sid=17926905637076144&xp=1&px=1",
+      "time": "2026-10-22T17:36:17.969Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Layam",
+      "title": "Deputy Plant Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-deputy-plant-head-layam-bengaluru-kollar-15-to-24-years-171026011661",
+      "time": "2026-10-22T17:36:29.616Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Confidential",
+      "title": "Head Maintenance and Projects",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-maintenance-and-projects-aarons-visions-mumbai-chennai-bengaluru-6-to-11-years-261122005037?src=directSearch&sid=17926905637076144&xp=7&px=1",
+      "time": "2026-10-22T17:36:41.331Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Legal Services Company",
+      "title": "Human Resource Operations - Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-human-resource-operations-lead-talent-destination-bengaluru-5-to-8-years-240926039250?src=directSearch&sid=17926905637076144&xp=8&px=1",
+      "time": "2026-10-22T17:36:53.062Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "MAS Financial Services",
+      "title": "State Head - Commercial Vehicle Loans",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-state-head-commercial-vehicle-loans-mas-financial-services-bengaluru-10-to-20-years-221026034230?src=directSearch&sid=17926905637076144&xp=12&px=1",
+      "time": "2026-10-22T17:37:08.045Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4416,
+  "totalVerifiedInHistory": 4422,
   "portalBreakdown": {
     "iimjobs": 611,
-    "naukri": 926,
+    "naukri": 932,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 68,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T16:53:48.462Z",
-  "lastUpdated": "22/10/2026, 10:23:48 pm"
+  "lastSyncedAt": "2026-10-22T17:37:08.087Z",
+  "lastUpdated": "22/10/2026, 11:07:08 pm"
 }
