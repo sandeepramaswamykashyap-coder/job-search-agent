@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4345,
+  "applicationsSubmitted": 4347,
   "appliedRolesList": [
-    {
-      "company": "Broadridge India",
-      "title": "Associate Vice President\nAssociate Vice President with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471847516&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T02:47:12.179Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Aceic Design Technologies",
-      "title": "Chief Technical Officer\nChief Technical Officer",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474249326&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T02:48:01.420Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Allegis Global Solutions",
       "title": "Program Manager (MSP)\nProgram Manager (MSP) with verification",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-team-lead-crp-services-rolls-royce-plc-bengaluru-5-to-8-years-191026011227?src=directSearch&sid=17926282817228572&xp=9&px=1",
       "time": "2026-10-22T00:18:25.939Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Grid Dynamics",
+      "title": "Director Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-delivery-grid-dynamics-bengaluru-15-to-20-years-131025007395?src=directSearch&sid=17926328928325435&xp=8&px=1",
+      "time": "2026-10-22T01:35:13.775Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ICICI Life Insurance Limited",
+      "title": "Senior Manager - Group Business",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-group-business-icici-life-insurance-limited-bengaluru-5-to-10-years-290926030173?src=directSearch&sid=17926329426619075&xp=8&px=1",
+      "time": "2026-10-22T01:36:12.025Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4345,
+  "totalVerifiedInHistory": 4347,
   "portalBreakdown": {
     "iimjobs": 594,
-    "naukri": 876,
+    "naukri": 878,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 64,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T00:18:25.986Z",
-  "lastUpdated": "22/10/2026, 5:48:25 am"
+  "lastSyncedAt": "2026-10-22T01:36:12.068Z",
+  "lastUpdated": "22/10/2026, 7:06:12 am"
 }
