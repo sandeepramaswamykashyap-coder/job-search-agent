@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4402,
+  "applicationsSubmitted": 4403,
   "appliedRolesList": [
-    {
-      "company": "Uber",
-      "title": "Senior Program Leader, Global High-Risk Escalations",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSBuA_UAAAACZV3hMgALAQBtDDmCjKGCHsgAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSBuA_UAAAACZV3hMgALAQBtDDmCjKGCHsgAAA&from=page-two-signin",
-      "time": "2026-10-09T13:28:52.809Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Emeritus Institute of Management",
       "title": "Program Manager - Strategy & Growth",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/program-manager-founder039s-office-iit-nit-1741257?ref=sp&jobPos=18",
       "time": "2026-10-22T10:41:02.163Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Shared Services - Finance Transformation - Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-shared-services-finance-transformation-manufacturing-1741259?ref=sp&jobPos=5",
+      "time": "2026-10-22T11:19:22.253Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4402,
+  "totalVerifiedInHistory": 4403,
   "portalBreakdown": {
-    "iimjobs": 605,
+    "iimjobs": 606,
     "naukri": 920,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 66,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T10:41:02.211Z",
-  "lastUpdated": "22/10/2026, 4:11:02 pm"
+  "lastSyncedAt": "2026-10-22T11:19:22.301Z",
+  "lastUpdated": "22/10/2026, 4:49:22 pm"
 }
