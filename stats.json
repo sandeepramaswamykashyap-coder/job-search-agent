@@ -1,87 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4390,
+  "applicationsSubmitted": 4400,
   "appliedRolesList": [
-    {
-      "company": "Time Hack Consulting",
-      "title": "Product Manager - PMS/AIF\nProduct Manager - PMS/AIF",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471517849&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T09:38:07.032Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Larsen & Toubro",
-      "title": "Program Leader\nProgram Leader with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T09:38:55.661Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "VMC Soft Technologies, Inc",
-      "title": "Technical Project Manager (Banking / Insurance / Wealth Management / Financial Services)\nTechnical Project Manager (Banking / Insurance / Wealth Management / Financial Services)",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4471517849&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T09:39:44.339Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "MUFG",
-      "title": "Assistant Vice President-BPR Process Excellence\nAssistant Vice President-BPR Process Excellence with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T09:40:33.428Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Supreme Consulting",
-      "title": "Python Engineer – Agentic AI LLMs, RAG architectures,",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-python-engineer-agentic-ai-llms-rag-architectures-supreme-consulting-hyderabad-bengaluru-8-to-12-years-091026924512?src=directSearch&sid=17915399549463654&xp=6&px=1",
-      "time": "2026-10-09T09:59:42.408Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Lenskart - Program Manager - Backend Operations - Process Compliance & AI Automa",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/lenskart-program-manager-backend-operations-process-compliance-and-ai-automation-1738911?ref=sp_br&jobPos=11",
-      "time": "2026-10-09T10:25:08.660Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ascendion Engineering",
-      "title": "Solutions Architect(Cloud Solutions + Partner Alliance + GTM)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-solutions-architect-cloud-solutions-partner-alliance-gtm-ascendion-engineering-private-limited-hyderabad-chennai-bengaluru-15-to-20-years-091026021160?src=directSearch&sid=17915443700333195&xp=10&px=1",
-      "time": "2026-10-09T11:13:14.265Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "PRINCIPAL R&D/PRODUCT DVL ENGINEER",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-principal-r-d-product-dvl-engineer-te-connectivity-india-private-limited-bengaluru-12-to-17-years-081026947302?src=directSearch&sid=17915443700333195&xp=11&px=1",
-      "time": "2026-10-09T11:13:31.030Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IT MNC",
-      "title": "Hiring Sr Manager Genesys",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-sr-manager-genesys-sigma-allied-services-hyderabad-pune-bengaluru-14-to-22-years-091026028738?src=directSearch&sid=17915475484759051&xp=12&px=1",
-      "time": "2026-10-09T12:06:22.845Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alstom Transportation",
-      "title": "Project Planning Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-planning-manager-alstom-transport-india-ltd-bengaluru-10-to-12-years-091026928495?src=directSearch&sid=17915478146899167&xp=12&px=1",
-      "time": "2026-10-09T12:10:45.788Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Careernet",
       "title": "Accounts Payable Team Leader / Supervisor",
@@ -4001,6 +3921,86 @@
       "url": "https://www.iimjobs.com/j/aakash-institute-manager-senior-manager-strategy-iim-iit-1741179?ref=sp_prm&jobPos=6",
       "time": "2026-10-22T09:16:32.516Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "GDS Meetings and Events - M and E Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gds-meetings-and-events-m-and-e-program-manager-ernst-young-llp-bengaluru-bengaluru-10-to-18-years-221026921385?src=directSearch&sid=17926626349173880&xp=2&px=1",
+      "time": "2026-10-22T09:50:49.237Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Aveva",
+      "title": "Senior Manager, Workplace Experience",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-workplace-experience-aveva-solutions-india-llp-hyderabad-bengaluru-bengaluru-hyderabad-11-to-21-years-221026921783?src=directSearch&sid=17926626349173880&xp=7&px=1",
+      "time": "2026-10-22T09:51:14.575Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tiger Analytics",
+      "title": "Program Lead - Tech Consulting",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-lead-tech-consulting-tiger-analytics-hyderabad-chennai-bengaluru-8-to-13-years-221026022632?src=directSearch&sid=17926627069878140&xp=8&px=1",
+      "time": "2026-10-22T09:52:27.094Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "GMS-Transition Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gms-transition-manager-ernst-young-llp-bengaluru-bengaluru-10-to-17-years-221026921818?src=directSearch&sid=17926627571475130&xp=10&px=1",
+      "time": "2026-10-22T09:52:54.772Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "AI and DATA - Cloud Data Architect - Databricks - Executive Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-and-data-cloud-data-architect-databricks-executive-director-ernst-young-llp-bengaluru-bengaluru-15-to-20-years-221026921365?src=directSearch&sid=17926627571475130&xp=11&px=1",
+      "time": "2026-10-22T09:53:06.361Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Cyber Architecture- OT and Engineering-OT Security- Associate Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-cyber-architecture-ot-and-engineering-ot-security-associate-director-ernst-young-llp-bengaluru-bengaluru-17-to-20-years-221026921466?src=directSearch&sid=17926629100348848&xp=5&px=1",
+      "time": "2026-10-22T09:55:27.582Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "TMT - Media & Entertainment-Solution Architect - SM",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tmt-media-entertainment-solution-architect-sm-ernst-young-llp-bengaluru-bengaluru-10-to-19-years-221026921798?src=directSearch&sid=17926629311386956&xp=12&px=1",
+      "time": "2026-10-22T09:55:52.135Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tan90 Thermal",
+      "title": "Director- Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-operations-tan90-thermal-bengaluru-15-to-24-years-161026024690?src=directSearch&sid=1792662955381253&xp=12&px=1",
+      "time": "2026-10-22T09:56:13.059Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Jainam Broking - Senior Brand Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jainam-broking-senior-brand-manager-1741219?ref=sp_br&jobPos=17",
+      "time": "2026-10-22T09:57:08.544Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Sr Program Manager, Tech - Program Management (Tech)",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoV9JgAAAAAACZiA88QAQAQEBBwCxU5xpp-IUDWioxQAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoV9JgAAAAAACZiA88QAQAQEBBwCxU5xpp-IUDWioxQAA&from=page-two-signin",
+      "time": "2026-10-22T10:10:06.896Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4390,
+  "totalVerifiedInHistory": 4400,
   "portalBreakdown": {
-    "iimjobs": 603,
-    "naukri": 911,
+    "iimjobs": 604,
+    "naukri": 919,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 65,
+    "indeed": 66,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T09:16:32.564Z",
-  "lastUpdated": "22/10/2026, 2:46:32 pm"
+  "lastSyncedAt": "2026-10-22T10:10:06.978Z",
+  "lastUpdated": "22/10/2026, 3:40:06 pm"
 }
