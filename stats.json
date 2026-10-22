@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4422,
+  "applicationsSubmitted": 4425,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Strategic Transformation Partner - Technology Sector",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/strategic-transformation-partner-technology-sector-1739050?ref=sp_br_prm&jobPos=4",
-      "time": "2026-10-10T09:09:26.170Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CareerNet Consulting",
-      "title": "Hirin For Program Manager RPO",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hirin-for-program-manager-rpo-careernet-bengaluru-12-to-20-years-101026012989?src=directSearch&sid=17916250946443936&xp=11&px=1",
-      "time": "2026-10-10T09:38:35.582Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "FirstClub - City Operations Head",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/firstclub-city-operations-head-1739072?ref=sp&jobPos=13",
-      "time": "2026-10-10T15:48:06.278Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Syndigo",
       "title": "Senior Customer Success Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-state-head-commercial-vehicle-loans-mas-financial-services-bengaluru-10-to-20-years-221026034230?src=directSearch&sid=17926905637076144&xp=12&px=1",
       "time": "2026-10-22T17:37:08.045Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Consulting- Regulatory Compliance -Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-consulting-regulatory-compliance-senior-manager-ey-bengaluru-delhi-ncr-11-to-17-years-290726034949?src=directSearch&sid=17927084400704955&xp=6&px=1",
+      "time": "2026-10-22T22:34:27.568Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Apexon",
+      "title": "Marketing Sr. Manager / Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-marketing-sr-manager-manager-apexon-pune-ahmedabad-bengaluru-8-to-12-years-211026017227",
+      "time": "2026-10-22T22:34:54.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lytx",
+      "title": "Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-lytx-bengaluru-14-to-20-years-221026013113?src=directSearch&sid=17927084400704955&xp=10&px=1",
+      "time": "2026-10-22T22:35:09.589Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4422,
+  "totalVerifiedInHistory": 4425,
   "portalBreakdown": {
     "iimjobs": 611,
-    "naukri": 932,
+    "naukri": 935,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 68,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T17:37:08.087Z",
-  "lastUpdated": "22/10/2026, 11:07:08 pm"
+  "lastSyncedAt": "2026-10-22T22:35:09.629Z",
+  "lastUpdated": "23/10/2026, 4:05:09 am"
 }
