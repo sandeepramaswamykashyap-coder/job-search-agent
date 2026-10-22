@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4411,
+  "applicationsSubmitted": 4414,
   "appliedRolesList": [
-    {
-      "company": "Livekit",
-      "title": "Senior Product Operations Manager",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
-      "time": "2026-10-09T21:45:44.485Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "JumpCloud",
-      "title": "Director, Product Strategy and Operations -India",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSJSirUAAAACZWi9rwASAQACdw3vKEg0F4zR5jltHaogAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSJSirUAAAACZWi9rwASAQACdw3vKEg0F4zR5jltHaogAAA&from=page-two-signin",
-      "time": "2026-10-10T01:07:56.946Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Atlassian",
-      "title": "Senior Engineering Manager – TDP Insights and Data Resiliency",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoSJK74gAAAACZWjrNAAUAQAAocobwkDxKYnLK0vGYCMZ_dQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoSJK74gAAAACZWjrNAAUAQAAocobwkDxKYnLK0vGYCMZ_dQAAA&from=page-two-signin",
-      "time": "2026-10-10T01:39:20.929Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ITC Infotech",
       "title": "Sap Service Delivery Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-project-manager-capital-markets-financial-services-career-guideline-bengaluru-6-to-11-years-221026034065?src=directSearch&sid=17926770572973954&xp=9&px=1",
       "time": "2026-10-22T13:51:11.747Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Conduent",
+      "title": "Senior Manager, Business Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-business-operations-conduent-business-services-india-llp-bengaluru-7-to-12-years-221026931414?src=directSearch&sid=17926791903364264&xp=6&px=1",
+      "time": "2026-10-22T14:26:47.908Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Wipro",
+      "title": "Customer Journey Manager AI",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-customer-journey-manager-ai-wipro-hyderabad-chennai-bengaluru-8-to-13-years-221026034670?src=directSearch&sid=17926792973827729&xp=2&px=1",
+      "time": "2026-10-22T14:28:34.921Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Technical Program Manager Lead",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoV9JgAAAAAACZiA88QAQAQEBByG5EkP5H706QvxE0wAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoV9JgAAAAAACZiA88QAQAQEBByG5EkP5H706QvxE0wAA&from=page-two-signin",
+      "time": "2026-10-22T14:44:43.697Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4411,
+  "totalVerifiedInHistory": 4414,
   "portalBreakdown": {
     "iimjobs": 611,
-    "naukri": 922,
+    "naukri": 924,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 67,
+    "indeed": 68,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T13:51:11.793Z",
-  "lastUpdated": "22/10/2026, 7:21:11 pm"
+  "lastSyncedAt": "2026-10-22T14:44:43.765Z",
+  "lastUpdated": "22/10/2026, 8:14:43 pm"
 }
