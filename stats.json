@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4389,
+  "applicationsSubmitted": 4390,
   "appliedRolesList": [
-    {
-      "company": "Northern Trust",
-      "title": "NTAM Invest Ops Blr, Sr Csltnt\nNTAM Invest Ops Blr, Sr Csltnt with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T09:37:17.556Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Time Hack Consulting",
       "title": "Product Manager - PMS/AIF\nProduct Manager - PMS/AIF",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-management-consulting-power-sector-1741160?ref=sp&jobPos=6",
       "time": "2026-10-22T08:39:48.283Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Aakash Institute - Manager/Senior Manager - Strategy - IIM/IIT",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/aakash-institute-manager-senior-manager-strategy-iim-iit-1741179?ref=sp_prm&jobPos=6",
+      "time": "2026-10-22T09:16:32.516Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4389,
+  "totalVerifiedInHistory": 4390,
   "portalBreakdown": {
-    "iimjobs": 602,
+    "iimjobs": 603,
     "naukri": 911,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 65,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T08:39:48.332Z",
-  "lastUpdated": "22/10/2026, 2:09:48 pm"
+  "lastSyncedAt": "2026-10-22T09:16:32.564Z",
+  "lastUpdated": "22/10/2026, 2:46:32 pm"
 }
