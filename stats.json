@@ -1,143 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4371,
+  "applicationsSubmitted": 4388,
   "appliedRolesList": [
-    {
-      "company": "Pi Square Technologies",
-      "title": "Test Automation Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-test-automation-architect-pi-square-technologies-hyderabad-pune-bengaluru-12-to-15-years-091026014473?src=directSearch&sid=17915247469579837&xp=6&px=1",
-      "time": "2026-10-09T05:46:14.473Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amagi - Senior Manager - Ad Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amagi-senior-manager-ad-operations-1738799?ref=sp&jobPos=16",
-      "time": "2026-10-09T05:48:49.172Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Account Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/account-manager-1738806?ref=sp&jobPos=12",
-      "time": "2026-10-09T05:49:50.947Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Strategy - BFSI - IIT/IIM/NSIT",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-strategy-bfsi-iit-iim-nsit-1738813?ref=sp&jobPos=16",
-      "time": "2026-10-09T05:49:57.182Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Golden Opportunities",
-      "title": "Senior Manager - Payments Operations - GO/JC/4553/2026\nSenior Manager - Payments Operations - GO/JC/4553/2026 with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4453097919&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T05:51:29.448Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Nium",
-      "title": "Product Compliance Manager\nProduct Compliance Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T05:52:18.681Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bickert Management Inc.",
-      "title": "SaaS Implementation Project Management Lead\nSaaS Implementation Project Management Lead",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4453097919&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T05:53:08.582Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Executive Director - Customer Success\nExecutive Director - Customer Success with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476256543&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T05:53:57.458Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Esse India | Canada immigration consultants in delhi | visa consultant delhi",
-      "title": "Senior Program Manager\nSenior Program Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4458257468&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T05:54:54.571Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Revspot",
-      "title": "Chief of Staff\nChief of Staff with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4437242836&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
-      "time": "2026-10-09T06:19:14.060Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior Consultant/Manager - Business Consulting PI - TMT - Bangalore/Hyderabad/Gurgaon\nSenior Consultant/Manager - Business Consulting PI - TMT - Bangalore/Hyderabad/Gurgaon with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-09T06:19:33.325Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Amazon - Program Manager - Data Governance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/amazon-program-manager-data-governance-1738855?ref=sp_br&jobPos=4",
-      "time": "2026-10-09T07:03:38.882Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Assistant Manager/Manager - Complex Valuation - Banking/Financial Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/assistant-manager-manager-complex-valuation-banking-financial-services-1738849?ref=sp&jobPos=5",
-      "time": "2026-10-09T07:04:30.276Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Axtria",
-      "title": "DevSecOps Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-devsecops-manager-axtria-india-private-limited-bengaluru-5-to-10-years-081026947057?src=directSearch&sid=17915326214793317&xp=13&px=1",
-      "time": "2026-10-09T07:57:25.898Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Debt Advisory",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-debt-advisory-1738891?ref=sp&jobPos=2",
-      "time": "2026-10-09T08:47:36.232Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Financial Control - Life Insurance - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-control-life-insurance-ca-1738890?ref=sp&jobPos=6",
-      "time": "2026-10-09T08:47:42.528Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EXL",
-      "title": "1848749-Senior Manager\n1848749-Senior Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475163729&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-09T09:35:31.059Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Entrust CFO Services",
       "title": "Senior Manager - Insurance Operations\nSenior Manager - Insurance Operations",
@@ -4001,6 +3865,142 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoWHcdFMAAAACZamvdgARAQAM3_m6Sl1dWlZWwu7PIXYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoWHcdFMAAAACZamvdgARAQAM3_m6Sl1dWlZWwu7PIXYAAA&from=page-two-signin",
       "time": "2026-10-22T07:38:58.893Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "PROJECT MANAGER IV",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-iv-te-connectivity-india-private-limited-bengaluru-10-to-15-years-211026918928?src=drecomm_dashboard_apply",
+      "time": "2026-10-22T07:50:26.634Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "ST - Telco-Nokia Flow One-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-st-telco-nokia-flow-one-manager-ernst-young-llp-bengaluru-10-to-12-years-221026916069?src=directSearch&sid=17926556477647223&xp=5&px=1",
+      "time": "2026-10-22T07:54:28.556Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "TC-CS-AEET-Manager-ZT",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tc-cs-aeet-manager-zt-ernst-young-llp-bengaluru-8-to-12-years-221026916481?src=directSearch&sid=17926556477647223&xp=11&px=1",
+      "time": "2026-10-22T07:54:46.876Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Manager - Total Rewards Analytics",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-total-rewards-analytics-ernst-young-llp-bengaluru-8-to-12-years-221026916279?src=directSearch&sid=17926557191215119&xp=6&px=1",
+      "time": "2026-10-22T07:55:36.713Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "Python React Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-python-react-lead-infosys-limited-bengaluru-3-to-8-years-280926920759?src=directSearch&sid=17926557468078901&xp=5&px=1",
+      "time": "2026-10-22T07:56:00.985Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Global investment Bank",
+      "title": "Lead Finance Control Assurance(Internal Audit, L2 ControlTesting &Acct",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-finance-control-assurance-internal-audit-l2-controltesting-acct-allegis-global-solutions-ags-bengaluru-6-to-10-years-250926029492?src=directSearch&sid=17926557468078901&xp=6&px=1",
+      "time": "2026-10-22T07:56:12.616Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Associate Director - Global Real Estate Services Operations Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-global-real-estate-services-operations-lead-ernst-young-llp-bengaluru-12-to-17-years-221026916617?src=directSearch&sid=17926557468078901&xp=8&px=1",
+      "time": "2026-10-22T07:56:24.245Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Next Frontier Quantum Lead - Innovation and Data Office",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-next-frontier-quantum-lead-innovation-and-data-office-ernst-young-llp-bengaluru-12-to-15-years-221026916467?src=directSearch&sid=17926557468078901&xp=9&px=1",
+      "time": "2026-10-22T07:56:35.814Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "GDS Executive Director - Finance, Digital & Business Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gds-executive-director-finance-digital-business-transformation-ernst-young-llp-bengaluru-5-to-9-years-221026916197?src=directSearch&sid=17926557468078901&xp=10&px=1",
+      "time": "2026-10-22T07:56:47.452Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Wipro",
+      "title": "TECHNICAL LEAD L1",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-lead-l1-wipro-limited-bengaluru-7-to-12-years-221026011107?src=directSearch&sid=17926557468078901&xp=12&px=1",
+      "time": "2026-10-22T07:56:59.217Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "International BPO/KPO",
+      "title": "Associate Director Sales Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-sales-operations-adecco-india-bengaluru-14-to-24-years-221026017044?src=directSearch&sid=17926558224795359&xp=7&px=1",
+      "time": "2026-10-22T07:57:35.669Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "TTT - Servicenow+AI - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ttt-servicenow-ai-manager-ernst-young-llp-bengaluru-6-to-11-years-221026916478?src=directSearch&sid=17926558590311439&xp=4&px=1",
+      "time": "2026-10-22T07:57:59.817Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "GDS Cyber-AI Driven IAM-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gds-cyber-ai-driven-iam-manager-ernst-young-llp-bengaluru-7-to-12-years-221026916344?src=directSearch&sid=17926558590311439&xp=6&px=1",
+      "time": "2026-10-22T07:58:14.726Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HCLTech",
+      "title": "Solution SME(RPA)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-solution-sme-rpa-hcltech-bengaluru-7-to-12-years-290526009410?src=directSearch&sid=17926559013828736&xp=9&px=1",
+      "time": "2026-10-22T07:58:42.339Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "BC Sector O and G-Cognite-Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-bc-sector-o-and-g-cognite-manager-ernst-young-llp-bengaluru-10-to-15-years-221026916544?src=directSearch&sid=17926559575045405&xp=8&px=1",
+      "time": "2026-10-22T07:59:35.135Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Director - SaT - TMT - SaT - S&E - Corporate Strategy",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-sat-tmt-sat-s-e-corporate-strategy-ernst-young-llp-bengaluru-10-to-15-years-221026916186?src=directSearch&sid=17926559845226434&xp=7&px=1",
+      "time": "2026-10-22T08:00:12.138Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Valuations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-valuations-1740862?ref=sp&jobPos=13",
+      "time": "2026-10-22T08:01:47.272Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4371,
+  "totalVerifiedInHistory": 4388,
   "portalBreakdown": {
-    "iimjobs": 600,
-    "naukri": 895,
+    "iimjobs": 601,
+    "naukri": 911,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 65,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T07:38:58.974Z",
-  "lastUpdated": "22/10/2026, 1:08:58 pm"
+  "lastSyncedAt": "2026-10-22T08:01:47.318Z",
+  "lastUpdated": "22/10/2026, 1:31:47 pm"
 }
