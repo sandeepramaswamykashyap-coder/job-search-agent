@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4458,
+  "applicationsSubmitted": 4460,
   "appliedRolesList": [
-    {
-      "company": "Leading manufacturer and wholesaler of modular office, educational, and commercial furniture.",
-      "title": "Vice President Operations _Modular Office Furniture",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vice-president-operations-modular-office-furniture-platinum-support-services-bengaluru-15-to-22-years-101026011698?src=directSearch&sid=17918033305876208&xp=5&px=1",
-      "time": "2026-10-12T11:09:16.491Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "SR TURBO",
-      "title": "AHP CHP Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ahp-chp-head-sr-turbo-raigarh-hyderabad-ahmedabad-chennai-bengaluru-delhi-ncr-15-to-24-years-101026011832?src=directSearch&sid=17918033305876208&xp=8&px=1",
-      "time": "2026-10-12T11:09:31.637Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "SR TURBO",
       "title": "BTG Head",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-general-manager-operations-texport-overseas-bengaluru-20-to-25-years-050326020732?src=directSearch&sid=17927523558117128&xp=6&px=1",
       "time": "2026-10-23T10:46:10.193Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "ACL Digital",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-acl-digital-bengaluru-14-to-24-years-130826017033?src=directSearch&sid=17927536547407283&xp=12&px=1",
+      "time": "2026-10-23T11:08:05.409Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Uni Club - Business Development/Partnerships Program Manager - IIT/NIT/BITS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/uni-club-business-development-partnerships-program-manager-iit-nit-bits-1740871?ref=sp_br&jobPos=12",
+      "time": "2026-10-23T11:11:10.777Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4458,
+  "totalVerifiedInHistory": 4460,
   "portalBreakdown": {
-    "iimjobs": 619,
-    "naukri": 958,
+    "iimjobs": 620,
+    "naukri": 959,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T10:46:10.237Z",
-  "lastUpdated": "23/10/2026, 4:16:10 pm"
+  "lastSyncedAt": "2026-10-23T11:11:10.822Z",
+  "lastUpdated": "23/10/2026, 4:41:10 pm"
 }

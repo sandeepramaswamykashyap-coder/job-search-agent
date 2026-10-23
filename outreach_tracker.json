@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-23T10:51:13.728Z",
+  "lastUpdated": "2026-10-23T11:14:59.438Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -367,7 +367,7 @@
       "company": "MedPlus",
       "title": "Manager",
       "dispatchedAt": "2026-08-19T11:05:17.810Z",
-      "daysElapsed": 64,
+      "daysElapsed": 65,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
