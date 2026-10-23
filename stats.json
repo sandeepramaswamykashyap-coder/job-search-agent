@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4427,
+  "applicationsSubmitted": 4428,
   "appliedRolesList": [
-    {
-      "company": "Cognizant",
-      "title": "Manager - Trademark",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-trademark-cognizant-bengaluru-8-to-12-years-111026003678?src=directSearch&sid=17917128110546257&xp=8&px=1",
-      "time": "2026-10-11T10:01:01.029Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - Broking Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-manager-gds-ethics-office-ernst-young-llp-bengaluru-bengaluru-8-to-10-years-221026921684?src=directSearch&sid=17927143184776791&xp=5&px=1",
       "time": "2026-10-23T00:12:24.406Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Rolls-Royce",
+      "title": "People Partner - Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-people-partner-bangalore-rolls-royce-plc-bengaluru-12-to-20-years-231026003693?src=directSearch&sid=17927199328117093&xp=13&px=1",
+      "time": "2026-10-23T01:45:47.317Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4427,
+  "totalVerifiedInHistory": 4428,
   "portalBreakdown": {
     "iimjobs": 611,
-    "naukri": 937,
+    "naukri": 938,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 68,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T00:12:24.441Z",
-  "lastUpdated": "23/10/2026, 5:42:24 am"
+  "lastSyncedAt": "2026-10-23T01:45:47.364Z",
+  "lastUpdated": "23/10/2026, 7:15:47 am"
 }
