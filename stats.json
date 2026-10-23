@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4464,
+  "applicationsSubmitted": 4467,
   "appliedRolesList": [
-    {
-      "company": "Prop Solutions4u",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-prop-solutions4u-bengaluru-6-to-11-years-121026004808?src=directSearch&sid=17918071652679544&xp=7&px=1",
-      "time": "2026-10-12T12:13:09.532Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Resource Algorithm",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-resource-algorithm-chennai-bengaluru-10-to-20-years-101026010785?src=directSearch&sid=17918071652679544&xp=8&px=1",
-      "time": "2026-10-12T12:13:21.154Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Honda Logistics",
-      "title": "Senior Logistics Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-logistics-operations-manager-honda-logistics-kolar-bangalore-rural-18-to-24-years-121026018888?src=directSearch&sid=17918072045106010&xp=12&px=1",
-      "time": "2026-10-12T12:13:45.530Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Capgemini",
       "title": "AEP Lead",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/antino-client-partner-and-delivery-head-technology-and-digital-transformation-1741423?ref=sp&jobPos=6",
       "time": "2026-10-23T12:15:48.956Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "orcapod",
+      "title": "VP/AVP/Sr Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vp-avp-sr-manager-orcapod-consulting-services-bengaluru-10-to-20-years-060426012407?src=directSearch&sid=17927612721979385&xp=6&px=1",
+      "time": "2026-10-23T13:14:53.198Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alstom Transportation",
+      "title": "TPM Domain Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tpm-domain-leader-alstom-transport-india-ltd-bengaluru-7-to-12-years-231026929891?src=directSearch&sid=17927613542537426&xp=13&px=1",
+      "time": "2026-10-23T13:16:18.526Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Adecco Group",
+      "title": "Modern Workplace Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-modern-workplace-manager-adecco-india-bengaluru-15-to-20-years-231026031657?src=directSearch&sid=179276146149859&xp=11&px=1",
+      "time": "2026-10-23T13:18:14.732Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4464,
+  "totalVerifiedInHistory": 4467,
   "portalBreakdown": {
     "iimjobs": 622,
-    "naukri": 961,
+    "naukri": 964,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T12:15:49.020Z",
-  "lastUpdated": "23/10/2026, 5:45:49 pm"
+  "lastSyncedAt": "2026-10-23T13:18:14.782Z",
+  "lastUpdated": "23/10/2026, 6:48:14 pm"
 }
