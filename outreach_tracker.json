@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-23T12:18:41.315Z",
+  "lastUpdated": "2026-10-23T12:50:41.432Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -59,7 +59,7 @@
       "company": "Yash Technologies",
       "title": "Yash Technologies is Hiring - Business Analyst - RPA BA",
       "dispatchedAt": "2026-07-22T12:41:17.459Z",
-      "daysElapsed": 92,
+      "daysElapsed": 93,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1588,7 +1588,7 @@
       "company": "State Street India",
       "title": "Vice President - Global Process Delivery",
       "dispatchedAt": "2026-10-08T12:50:31.507Z",
-      "daysElapsed": 14,
+      "daysElapsed": 15,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1599,7 +1599,7 @@
       "company": "Novartis Healthcare",
       "title": "Head of Digital Business Operations",
       "dispatchedAt": "2026-10-08T12:50:41.277Z",
-      "daysElapsed": 14,
+      "daysElapsed": 15,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
