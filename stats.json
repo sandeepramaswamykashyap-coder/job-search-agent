@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4457,
+  "applicationsSubmitted": 4458,
   "appliedRolesList": [
-    {
-      "company": "CV Designer",
-      "title": "Head of Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-of-operations-cv-designer-mumbai-bengaluru-20-to-30-years-121026916071?src=directSearch&sid=17918033305876208&xp=4&px=1",
-      "time": "2026-10-12T11:09:04.896Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Leading manufacturer and wholesaler of modular office, educational, and commercial furniture.",
       "title": "Vice President Operations _Modular Office Furniture",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/namhya-foods-senior-operations-manager-d2c-business-1741533?ref=sp&jobPos=14",
       "time": "2026-10-23T10:14:39.861Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Texport Overseas",
+      "title": "General Manager Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-general-manager-operations-texport-overseas-bengaluru-20-to-25-years-050326020732?src=directSearch&sid=17927523558117128&xp=6&px=1",
+      "time": "2026-10-23T10:46:10.193Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4457,
+  "totalVerifiedInHistory": 4458,
   "portalBreakdown": {
     "iimjobs": 619,
-    "naukri": 957,
+    "naukri": 958,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T10:14:39.912Z",
-  "lastUpdated": "23/10/2026, 3:44:39 pm"
+  "lastSyncedAt": "2026-10-23T10:46:10.237Z",
+  "lastUpdated": "23/10/2026, 4:16:10 pm"
 }
