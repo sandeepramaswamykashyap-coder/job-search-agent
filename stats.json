@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4429,
+  "applicationsSubmitted": 4435,
   "appliedRolesList": [
-    {
-      "company": "Confidential",
-      "title": "Head Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-operations-aarons-visions-pune-chennai-bengaluru-10-to-18-years-050123000279?src=directSearch&sid=17917749396002072&xp=10&px=1",
-      "time": "2026-10-12T03:16:07.091Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Taggd",
-      "title": "Manager Talent Acquisition",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-talent-acquisition-talent-hired-the-store-bengaluru-10-to-16-years-101026013311?src=directSearch&sid=17917749396002072&xp=13&px=1",
-      "time": "2026-10-12T03:16:39.336Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Synechron",
-      "title": "Technical Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-synechron-hyderabad-pune-bengaluru-12-to-22-years-111026004951?src=directSearch&sid=17917750504276972&xp=3&px=1",
-      "time": "2026-10-12T03:18:13.661Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Conduent",
-      "title": "IT Service Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-service-delivery-manager-conduent-bengaluru-7-to-12-years-121026002001?src=directSearch&sid=17917808696646896&xp=7&px=1",
-      "time": "2026-10-12T04:54:53.717Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ABB",
-      "title": "800xA Lead Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-800xa-lead-engineer-abb-india-limited-bengaluru-8-to-12-years-121026003162?src=directSearch&sid=1791782880465770&xp=12&px=1",
-      "time": "2026-10-12T05:28:43.370Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deloitte US-India Offices",
-      "title": "GITC Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gitc-manager-deloitte-us-india-offices-bengaluru-10-to-16-years-121026002605?src=directSearch&sid=17917831465107402&xp=4&px=1",
-      "time": "2026-10-12T05:32:40.705Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Senior Manager - Growth",
@@ -4001,6 +3953,54 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoV9JgAAAAAACZiA88QARAQEBBy2Em8ydC7TfmCh_3jEAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoV9JgAAAAAACZiA88QARAQEBBy2Em8ydC7TfmCh_3jEAAA&from=page-two-signin",
       "time": "2026-10-23T03:36:01.106Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Coffee Day Global",
+      "title": "Talent Acquisition Manager/ Sr. Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-talent-acquisition-manager-sr-manager-coffee-day-global-bengaluru-10-to-14-years-231026011339",
+      "time": "2026-10-23T04:53:22.742Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Aster DM Healthcare",
+      "title": "Senior Manager FPA",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-fpa-aster-dm-healthcare-kozhikode-bengaluru-4-to-8-years-220926050966?src=directSearch&sid=17927311751487562&xp=12&px=1",
+      "time": "2026-10-23T04:53:37.780Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Digitalization and IT Operation Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-digitalization-and-it-operation-lead-happiest-minds-technologies-indore-nashik-bengaluru-15-to-24-years-211026009003",
+      "time": "2026-10-23T04:55:01.898Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vysoftinc",
+      "title": "PEGA CLSA (Certified Pega Lead System Architect)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-pega-clsa-certified-pega-lead-system-architect-vysoftinc-bengaluru-6-to-10-years-231026000904?src=directSearch&sid=17927312721344526&xp=8&px=1",
+      "time": "2026-10-23T04:55:13.675Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nest Digital",
+      "title": "Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-nest-digital-bengaluru-thiruvananthapuram-14-to-22-years-221026034991?src=directSearch&sid=17927314218864265&xp=5&px=1",
+      "time": "2026-10-23T04:57:19.612Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TRIPLEDART DIGITAL",
+      "title": "Project & Creative Operations Lead",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoV9NTeUAAAACZi7REQAJAQA9GaSrtVx6AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoV9NTeUAAAACZi7REQAJAQA9GaSrtVx6AAA&from=page-two-signin",
+      "time": "2026-10-23T05:16:40.113Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4429,
+  "totalVerifiedInHistory": 4435,
   "portalBreakdown": {
     "iimjobs": 611,
-    "naukri": 938,
+    "naukri": 943,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 69,
+    "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T03:36:01.183Z",
-  "lastUpdated": "23/10/2026, 9:06:01 am"
+  "lastSyncedAt": "2026-10-23T05:16:40.181Z",
+  "lastUpdated": "23/10/2026, 10:46:40 am"
 }
