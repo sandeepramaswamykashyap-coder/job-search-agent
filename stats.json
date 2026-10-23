@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4425,
+  "applicationsSubmitted": 4427,
   "appliedRolesList": [
-    {
-      "company": "Syndigo",
-      "title": "Senior Customer Success Manager",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=d8be35fc28904316",
-      "time": "2026-10-11T02:09:22.497Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vice President - Portfolio Management - Investments",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vice-president-portfolio-management-investments-1739089?ref=sp&jobPos=14",
-      "time": "2026-10-11T04:00:22.037Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognizant",
       "title": "Manager - Trademark",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-lytx-bengaluru-14-to-20-years-221026013113?src=directSearch&sid=17927084400704955&xp=10&px=1",
       "time": "2026-10-22T22:35:09.589Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Assistant Director Strategic Finance & Business Insights",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-director-strategic-finance-business-insights-ernst-young-llp-bengaluru-bengaluru-8-to-11-years-221026921796?src=directSearch&sid=17927143184776791&xp=2&px=1",
+      "time": "2026-10-23T00:12:12.770Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Manager - GDS Ethics Office",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-gds-ethics-office-ernst-young-llp-bengaluru-bengaluru-8-to-10-years-221026921684?src=directSearch&sid=17927143184776791&xp=5&px=1",
+      "time": "2026-10-23T00:12:24.406Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4425,
+  "totalVerifiedInHistory": 4427,
   "portalBreakdown": {
     "iimjobs": 611,
-    "naukri": 935,
+    "naukri": 937,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 68,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-22T22:35:09.629Z",
-  "lastUpdated": "23/10/2026, 4:05:09 am"
+  "lastSyncedAt": "2026-10-23T00:12:24.441Z",
+  "lastUpdated": "23/10/2026, 5:42:24 am"
 }
