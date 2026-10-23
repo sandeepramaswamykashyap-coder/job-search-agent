@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4447,
+  "applicationsSubmitted": 4451,
   "appliedRolesList": [
-    {
-      "company": "Epam Systems",
-      "title": "Business Consulting - P&C Commercial",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-consulting-p-c-commercial-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-121026009970?src=directSearch&sid=17917951195419863&xp=3&px=1",
-      "time": "2026-10-12T08:52:32.477Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "Solution Architect - SAP MDM IS Retail",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-solution-architect-sap-mdm-is-retail-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-121026010338?src=directSearch&sid=17917951195419863&xp=8&px=1",
-      "time": "2026-10-12T08:53:02.973Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "Product Manager - Settlement Platform",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-product-manager-settlement-platform-epam-systems-bengaluru-10-to-13-years-121026012219?src=directSearch&sid=1791797104738915&xp=12&px=1",
-      "time": "2026-10-12T09:25:41.329Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Epam Systems",
-      "title": "Senior Application Transition Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-application-transition-manager-epam-systems-hyderabad-chennai-bengaluru-18-to-20-years-121026010584?src=directSearch&sid=17917972147763722&xp=4&px=1",
-      "time": "2026-10-12T09:27:24.513Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Talworx",
       "title": "SAP BPA",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/assistant-manager-manager-senior-manager-model-validation-market-risk-models-1741387?ref=sp&jobPos=1",
       "time": "2026-10-23T06:36:13.420Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Virtuoso Staffing Solutions",
+      "title": "Tax Technology and Transformation Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-tax-technology-and-transformation-senior-manager-virtuoso-staffing-solutions-bengaluru-delhi-ncr-mumbai-all-areas-10-to-16-years-231026015799?src=directSearch&sid=17927389714875293&xp=13&px=1",
+      "time": "2026-10-23T07:03:19.271Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "PARTNER CONSULTANT - deployment",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-partner-consultant-deployment-happiest-minds-technologies-bengaluru-16-to-25-years-231026018488?src=directSearch&sid=17927391327949527&xp=9&px=1",
+      "time": "2026-10-23T07:06:02.678Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Puma Energy - Manager - Finance Digitalization/Finance Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/puma-energy-manager-finance-digitalization-finance-transformation-1741422?ref=sp_prm&jobPos=12",
+      "time": "2026-10-23T07:07:24.729Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Client Partner & Delivery Head - Technology & Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/client-partner-and-delivery-head-technology-and-digital-transformation-1741423?ref=sp&jobPos=6",
+      "time": "2026-10-23T07:08:07.754Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4447,
+  "totalVerifiedInHistory": 4451,
   "portalBreakdown": {
-    "iimjobs": 613,
-    "naukri": 953,
+    "iimjobs": 615,
+    "naukri": 955,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T06:36:13.466Z",
-  "lastUpdated": "23/10/2026, 12:06:13 pm"
+  "lastSyncedAt": "2026-10-23T07:08:07.797Z",
+  "lastUpdated": "23/10/2026, 12:38:07 pm"
 }
