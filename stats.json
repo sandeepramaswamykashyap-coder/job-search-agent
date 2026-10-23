@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4456,
+  "applicationsSubmitted": 4457,
   "appliedRolesList": [
-    {
-      "company": "Labcorp",
-      "title": "Director, Website (AEM) Delivery & Implementation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-website-aem-delivery-implementation-labcorp-bengaluru-mumbai-all-areas-12-to-19-years-121026015193?src=directSearch&sid=17918031729906046&xp=11&px=1",
-      "time": "2026-10-12T11:06:33.963Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "CV Designer",
       "title": "Head of Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/general-manager-deputy-general-manager-treasury-hospitality-1741531?ref=sp&jobPos=10",
       "time": "2026-10-23T09:44:26.613Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Namhya Foods - Senior Operations Manager - D2C Business",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/namhya-foods-senior-operations-manager-d2c-business-1741533?ref=sp&jobPos=14",
+      "time": "2026-10-23T10:14:39.861Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4456,
+  "totalVerifiedInHistory": 4457,
   "portalBreakdown": {
-    "iimjobs": 618,
+    "iimjobs": 619,
     "naukri": 957,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T09:44:26.665Z",
-  "lastUpdated": "23/10/2026, 3:14:26 pm"
+  "lastSyncedAt": "2026-10-23T10:14:39.912Z",
+  "lastUpdated": "23/10/2026, 3:44:39 pm"
 }
