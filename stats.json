@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4461,
+  "applicationsSubmitted": 4464,
   "appliedRolesList": [
-    {
-      "company": "Kantech Industrial solutions",
-      "title": "Furnace Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-furnace-head-kantech-industrial-solution-hosur-bengaluru-8-to-10-years-111026002950?src=directSearch&sid=17918033305876208&xp=13&px=1",
-      "time": "2026-10-12T11:09:54.969Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Relationship Manager - Wealth Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/relationship-manager-wealth-management-1739263?ref=sp&jobPos=11",
-      "time": "2026-10-12T11:11:46.837Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Varaha - Head - Revenue Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/varaha-head-revenue-operations-1739281?ref=sp&jobPos=12",
-      "time": "2026-10-12T11:44:31.166Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Prop Solutions4u",
       "title": "Senior Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-mgr-technical-account-management-3-netapp-bengaluru-8-to-12-years-231026028376?src=directSearch&sid=17927556214831714&xp=4&px=1",
       "time": "2026-10-23T11:40:42.417Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Operational Excellence - Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operational-excellence-head-golden-opportunities-pvt-ltd-bengaluru-14-to-18-years-231026929443?src=directSearch&sid=17927575794132917&xp=12&px=1",
+      "time": "2026-10-23T12:13:27.092Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lead - Asset Management - NBFC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/lead-asset-management-nbfc-1741583?ref=sp&jobPos=9",
+      "time": "2026-10-23T12:15:09.900Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Antino - Client Partner & Delivery Head - Technology & Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/antino-client-partner-and-delivery-head-technology-and-digital-transformation-1741423?ref=sp&jobPos=6",
+      "time": "2026-10-23T12:15:48.956Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4461,
+  "totalVerifiedInHistory": 4464,
   "portalBreakdown": {
-    "iimjobs": 620,
-    "naukri": 960,
+    "iimjobs": 622,
+    "naukri": 961,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T11:40:42.464Z",
-  "lastUpdated": "23/10/2026, 5:10:42 pm"
+  "lastSyncedAt": "2026-10-23T12:15:49.020Z",
+  "lastUpdated": "23/10/2026, 5:45:49 pm"
 }
