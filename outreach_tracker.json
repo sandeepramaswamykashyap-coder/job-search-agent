@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-23T07:42:09.404Z",
+  "lastUpdated": "2026-10-23T08:13:00.479Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1016,7 +1016,7 @@
       "company": "Deloitte USI",
       "title": "Director - Executive & Lateral Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:12:08.899Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1027,7 +1027,7 @@
       "company": "EY GDS",
       "title": "Partner - Technology Consulting & Program Delivery",
       "dispatchedAt": "2026-10-04T08:12:18.904Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1038,7 +1038,7 @@
       "company": "EY India",
       "title": "Director - Executive Search & Hiring",
       "dispatchedAt": "2026-10-04T08:12:27.421Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1049,7 +1049,7 @@
       "company": "KPMG India",
       "title": "Partner - Business Transformation & Technology Advisory",
       "dispatchedAt": "2026-10-04T08:12:35.882Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1060,7 +1060,7 @@
       "company": "KPMG Global Services",
       "title": "Associate Director - Talent Acquisition",
       "dispatchedAt": "2026-10-04T08:12:44.363Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1071,7 +1071,7 @@
       "company": "Accenture Technology & Operations",
       "title": "Managing Director - Enterprise Platform Delivery",
       "dispatchedAt": "2026-10-04T08:12:52.764Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
