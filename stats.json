@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4453,
+  "applicationsSubmitted": 4454,
   "appliedRolesList": [
-    {
-      "company": "Mphasis",
-      "title": "Walk-in || Transaction Processing Officer with Capital Market, Cash Management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/myapply/walkInApply?strJobsarr=[121026014118]&applytype=single&resId=116831793&ApplyMode=1&id=92767393&src=h&logstr=----F-0-1--------F-0-1---&applySrc=----F-0-1---&multiApplyResp=%7B%22121026014118%22%3A203%7D&jobTitle=Transaction%20Processing%20Officer%20with%20Capital%20Market%2C%20Cash%20Management",
-      "time": "2026-10-12T10:32:10.850Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognizant",
       "title": "AI Platform Adoption Engineer - Run",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/tuta-insurance-brokerage-head-operations-cashless-claims-integration-1741470?ref=sp&jobPos=13",
       "time": "2026-10-23T08:40:22.133Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Phastar",
+      "title": "FSP Manager -R Programming",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-fsp-manager-r-programming-phastar-bengaluru-12-to-20-years-250826032179?src=directSearch&sid=17927465203938141&xp=13&px=1",
+      "time": "2026-10-23T09:09:11.254Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4453,
+  "totalVerifiedInHistory": 4454,
   "portalBreakdown": {
     "iimjobs": 617,
-    "naukri": 955,
+    "naukri": 956,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T08:40:22.178Z",
-  "lastUpdated": "23/10/2026, 2:10:22 pm"
+  "lastSyncedAt": "2026-10-23T09:09:11.298Z",
+  "lastUpdated": "23/10/2026, 2:39:11 pm"
 }
