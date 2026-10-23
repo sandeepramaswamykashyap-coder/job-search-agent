@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4454,
+  "applicationsSubmitted": 4456,
   "appliedRolesList": [
-    {
-      "company": "Cognizant",
-      "title": "AI Platform Adoption Engineer - Run",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-platform-adoption-engineer-run-cognizant-kolkata-chennai-bengaluru-17-to-24-years-121026014368?src=directSearch&sid=17918012172962583&xp=10&px=1",
-      "time": "2026-10-12T10:34:23.927Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognizant",
-      "title": "AI Platform Customization Engineer - Run",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-platform-customization-engineer-run-cognizant-kolkata-chennai-bengaluru-17-to-24-years-121026014033?src=directSearch&sid=17918012172962583&xp=11&px=1",
-      "time": "2026-10-12T10:35:01.259Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Labcorp",
       "title": "Director, Website (AEM) Delivery & Implementation",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-fsp-manager-r-programming-phastar-bengaluru-12-to-20-years-250826032179?src=directSearch&sid=17927465203938141&xp=13&px=1",
       "time": "2026-10-23T09:09:11.254Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Kroll",
+      "title": "Senior Manager - IGA Architect, Cyber Technology Consulting",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-iga-architect-cyber-technology-consulting-kroll-llc-bengaluru-10-to-15-years-231026923056?src=directSearch&sid=17927483834716678&xp=11&px=1",
+      "time": "2026-10-23T09:40:11.177Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "General Manager/Deputy General Manager - Treasury - Hospitality",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/general-manager-deputy-general-manager-treasury-hospitality-1741531?ref=sp&jobPos=10",
+      "time": "2026-10-23T09:44:26.613Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4454,
+  "totalVerifiedInHistory": 4456,
   "portalBreakdown": {
-    "iimjobs": 617,
-    "naukri": 956,
+    "iimjobs": 618,
+    "naukri": 957,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 70,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T09:09:11.298Z",
-  "lastUpdated": "23/10/2026, 2:39:11 pm"
+  "lastSyncedAt": "2026-10-23T09:44:26.665Z",
+  "lastUpdated": "23/10/2026, 3:14:26 pm"
 }
