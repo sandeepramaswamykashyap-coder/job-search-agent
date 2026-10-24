@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4474,
+  "applicationsSubmitted": 4478,
   "appliedRolesList": [
-    {
-      "company": "Confidential",
-      "title": "Senior Team Manager Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-team-manager-operations-aarons-visions-hyderabad-chennai-bengaluru-8-to-13-years-261122004284?src=directSearch&sid=1791831044620628&xp=11&px=1",
-      "time": "2026-10-12T18:51:12.122Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Chalo - Program Manager - Government Project & Technology Implementation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/chalo-program-manager-government-project-and-technology-implementation-1739085?ref=sp&jobPos=18",
-      "time": "2026-10-12T18:56:14.749Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Program Manager - Operations - Quick Commerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/program-manager-operations-quick-commerce-1738404?ref=sp&jobPos=16",
-      "time": "2026-10-12T18:56:30.966Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Program Manager/Senior Program Manager - Healthcare Operations - Healthcare/Medi",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/program-manager-senior-program-manager-healthcare-operations-healthcare-medical-1739075?ref=sp&jobPos=18",
-      "time": "2026-10-12T18:56:37.159Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ample Technologies",
       "title": "Lead Manager  IT - Retail Operations & Marketing Technology",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-transportation-logistics-capgemini-gurugram-bengaluru-10-to-18-years-231026026400?src=directSearch&sid=17927824188469850&xp=11&px=1",
       "time": "2026-10-23T19:08:09.671Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director, Demand Generation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/0b1faa0d-242d-409f-8efb-5f8d9db407da",
+      "time": "2026-10-24T01:13:10.643Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director, Demand Generation",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/0b1faa0d-242d-409f-8efb-5f8d9db407da",
+      "time": "2026-10-24T01:13:10.997Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Events & Field Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
+      "time": "2026-10-24T01:13:32.050Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Events & Field Marketing",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
+      "time": "2026-10-24T01:13:32.387Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4474,
+  "totalVerifiedInHistory": 4478,
   "portalBreakdown": {
     "iimjobs": 622,
     "naukri": 970,
@@ -4684,14 +4684,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 463,
-    "ashby": 354,
+    "direct_portal_ashby": 465,
+    "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 71,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-23T19:08:09.716Z",
-  "lastUpdated": "24/10/2026, 12:38:09 am"
+  "lastSyncedAt": "2026-10-24T01:13:32.424Z",
+  "lastUpdated": "24/10/2026, 6:43:32 am"
 }
