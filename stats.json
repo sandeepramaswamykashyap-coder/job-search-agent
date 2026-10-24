@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4478,
+  "applicationsSubmitted": 4480,
   "appliedRolesList": [
-    {
-      "company": "Ample Technologies",
-      "title": "Lead Manager  IT - Retail Operations & Marketing Technology",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-manager-it-retail-operations-marketing-technology-ample-technologies-bengaluru-8-to-12-years-131026000109?src=directSearch&sid=17918333619023650&xp=10&px=1",
-      "time": "2026-10-12T19:29:49.358Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior IT Professional - Governance/Transformation - Contractual",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-it-professional-governance-transformation-contractual-1738351?ref=sp&jobPos=18",
-      "time": "2026-10-12T19:31:41.112Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Confidential",
       "title": "Head of Business Operations",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
       "time": "2026-10-24T01:13:32.387Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Flexi Careers India",
+      "title": "Senior QA Mobile Automation Testing",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-qa-mobile-automation-testing-flexi-careers-india-bengaluru-5-to-10-years-221026013291?src=directSearch&sid=17928086404213737&xp=5&px=1",
+      "time": "2026-10-24T02:24:18.032Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coforge",
+      "title": "Plc Automation Engineer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-plc-automation-engineer-coforge-bengaluru-5-to-10-years-201026008505?src=directSearch&sid=17928086404213737&xp=10&px=1",
+      "time": "2026-10-24T02:24:33.054Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4478,
+  "totalVerifiedInHistory": 4480,
   "portalBreakdown": {
     "iimjobs": 622,
-    "naukri": 970,
+    "naukri": 972,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 71,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-24T01:13:32.424Z",
-  "lastUpdated": "24/10/2026, 6:43:32 am"
+  "lastSyncedAt": "2026-10-24T02:24:33.101Z",
+  "lastUpdated": "24/10/2026, 7:54:33 am"
 }
