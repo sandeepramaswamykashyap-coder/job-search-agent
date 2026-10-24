@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4484,
+  "applicationsSubmitted": 4485,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager/Manager - Finance & Accounts - Real Estate - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-manager-finance-and-accounts-real-estate-ca-1739356?ref=sp&jobPos=5",
-      "time": "2026-10-13T04:35:51.290Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Scymes - Vice President - Operations - US Healthcare RCM",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-assistant-general-manager-accounts-and-finance-hiregenie-bengaluru-9-to-14-years-241026007791?src=directSearch&sid=17928378729926874&xp=12&px=1",
       "time": "2026-10-24T10:31:33.984Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Honeybee Tech Solutions",
+      "title": "Digital Integration Site Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-digital-integration-site-lead-honeybee-tech-solutions-private-limited-hyderabad-pune-bengaluru-15-to-18-years-231026932159?src=directSearch&sid=17928416704354594&xp=10&px=1",
+      "time": "2026-10-24T11:34:48.045Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4484,
+  "totalVerifiedInHistory": 4485,
   "portalBreakdown": {
     "iimjobs": 624,
-    "naukri": 973,
+    "naukri": 974,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 72,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-24T10:31:34.043Z",
-  "lastUpdated": "24/10/2026, 4:01:34 pm"
+  "lastSyncedAt": "2026-10-24T11:34:48.091Z",
+  "lastUpdated": "24/10/2026, 5:04:48 pm"
 }
