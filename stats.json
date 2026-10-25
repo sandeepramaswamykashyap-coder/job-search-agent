@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4489,
+  "applicationsSubmitted": 4492,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior IT Project Manager - HR Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-it-project-manager-hr-transformation-1739394?ref=sp&jobPos=12",
-      "time": "2026-10-13T05:44:50.049Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - HR Business Partner - IT",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-hr-business-partner-it-1739412?ref=sp&jobPos=8",
-      "time": "2026-10-13T06:19:10.154Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Genpact",
-      "title": "Forward Deployed Engineer- Insurance Domain",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-forward-deployed-engineer-insurance-domain-genpact-hyderabad-bengaluru-delhi-ncr-10-to-20-years-170926034119?src=directSearch&sid=17918741678886919&xp=1&px=1",
-      "time": "2026-10-13T06:49:47.250Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Ola Electric Mobility - Head - Sales & Operations Planning",
@@ -4001,6 +3977,30 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoXATHx0AAAACZkRMSAAQAQEBBgCEODjg3vsbaxmg8gAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoXATHx0AAAACZkRMSAAQAQEBBgCEODjg3vsbaxmg8gAA&from=page-two-signin",
       "time": "2026-10-25T18:04:49.081Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Associate Program Manager - Data",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-program-manager-data-happiest-minds-technologies-bengaluru-15-to-21-years-251026005625?src=directSearch&sid=17929538368587797&xp=11&px=1",
+      "time": "2026-10-25T18:44:52.832Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Jarvis Technology & Strategy Consulting - Associate Program Manager - IIT/IIM/MD",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jarvis-technology-and-strategy-consulting-associate-program-manager-iit-iim-mdi-isb-nit-bits-1741408?ref=sp&jobPos=18",
+      "time": "2026-10-25T18:48:33.448Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Technical Accounting - Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-technical-accounting-consulting-1741599?ref=sp&jobPos=18",
+      "time": "2026-10-25T18:48:49.761Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4489,
+  "totalVerifiedInHistory": 4492,
   "portalBreakdown": {
-    "iimjobs": 624,
-    "naukri": 975,
+    "iimjobs": 626,
+    "naukri": 976,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-25T18:04:49.155Z",
-  "lastUpdated": "25/10/2026, 11:34:49 pm"
+  "lastSyncedAt": "2026-10-25T18:48:49.805Z",
+  "lastUpdated": "26/10/2026, 12:18:49 am"
 }
