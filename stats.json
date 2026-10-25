@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4486,
+  "applicationsSubmitted": 4487,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Sales/Business Transformation Manager - Healthcare/MedTech - IIM/ISB/MDI/FMS",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/sales-business-transformation-manager-healthcare-medtech-iim-isb-mdi-fms-1739372?ref=sp&jobPos=8",
-      "time": "2026-10-13T05:09:58.061Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - HR Operations & Technology Transformation",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-project-manager-lumendata-bengaluru-8-to-12-years-241026008788?src=directSearch&sid=17928436241953948&xp=11&px=1",
       "time": "2026-10-24T12:07:21.966Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Kyndryl",
+      "title": "Managing Consultant Corporate Strategy & Development",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
+      "time": "2026-10-25T01:06:36.961Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4486,
+  "totalVerifiedInHistory": 4487,
   "portalBreakdown": {
     "iimjobs": 624,
     "naukri": 975,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 72,
+    "indeed": 73,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-24T14:30:22.685Z",
-  "lastUpdated": "24/10/2026, 8:00:22 pm"
+  "lastSyncedAt": "2026-10-25T01:06:37.035Z",
+  "lastUpdated": "25/10/2026, 6:36:37 am"
 }
