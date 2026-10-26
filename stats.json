@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4532,
+  "applicationsSubmitted": 4534,
   "appliedRolesList": [
-    {
-      "company": "Temporal",
-      "title": "Senior Director, Global Field Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/ef2b1521-ebbd-45bc-98c8-2cc740c7207b",
-      "time": "2026-10-13T21:50:57.367Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Temporal",
-      "title": "Senior Director, Global Field Operations",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/ef2b1521-ebbd-45bc-98c8-2cc740c7207b",
-      "time": "2026-10-13T21:50:57.734Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Corporate in B2C/B2B Recruitment Sector",
       "title": "Test Manager - Pan India",
@@ -4001,6 +3985,22 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=c5b3a4c32dea2731",
       "time": "2026-10-26T12:35:06.473Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Samvith Technologies",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-samvith-technologies-bengaluru-12-to-15-years-261026026673?src=directSearch&sid=17930188356999388&xp=8&px=1",
+      "time": "2026-10-26T12:47:39.935Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "LLMOps + MLOps - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-llmops-mlops-manager-pwc-hyderabad-chennai-bengaluru-8-to-13-years-261026026256?src=directSearch&sid=17930190198402928&xp=5&px=1",
+      "time": "2026-10-26T12:50:37.387Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4532,
+  "totalVerifiedInHistory": 4534,
   "portalBreakdown": {
     "iimjobs": 638,
-    "naukri": 1002,
+    "naukri": 1004,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 77,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T12:35:06.544Z",
-  "lastUpdated": "26/10/2026, 6:05:06 pm"
+  "lastSyncedAt": "2026-10-26T12:50:37.437Z",
+  "lastUpdated": "26/10/2026, 6:20:37 pm"
 }
