@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4509,
+  "applicationsSubmitted": 4512,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Data Analytics & Automation - FMCG",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-data-analytics-and-automation-fmcg-1739548?ref=sp&jobPos=11",
-      "time": "2026-10-13T10:20:34.516Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ERM Placement Services",
-      "title": "Manager - Senior Manager Regulatory Compliance & Monitoring",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-senior-manager-regulatory-compliance-monitoring-erm-placement-services-hyderabad-bengaluru-delhi-ncr-12-to-18-years-131026037179?src=directSearch&sid=17918905338739785&xp=7&px=1",
-      "time": "2026-10-13T11:22:31.631Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Rhea Healthcare",
-      "title": "Center Head/Facility Director",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-center-head-facility-director-rhea-healthcare-bengaluru-10-to-15-years-131026917251?src=directSearch&sid=17918907670857593&xp=4&px=1",
-      "time": "2026-10-13T11:26:24.554Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "TechBiz Global GmbH",
       "title": "Senior Program Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-manager-solutions-centric-global-hyderabad-chennai-bengaluru-5-to-8-years-261026010574?src=directSearch&sid=17930050926051543&xp=9&px=1",
       "time": "2026-10-26T08:58:30.253Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Huron",
+      "title": "Finance Operations COE - Senior Associate",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-finance-operations-coe-senior-associate-huron-bengaluru-6-to-8-years-261026005929?src=directSearch&sid=17930068207978106&xp=13&px=1",
+      "time": "2026-10-26T09:27:28.372Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Careernet",
+      "title": "Software Development Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-software-development-manager-careernet-bengaluru-10-to-15-years-261026009821?src=directSearch&sid=17930069120478859&xp=12&px=1",
+      "time": "2026-10-26T09:28:56.382Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Procurement Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-procurement-transformation-1741898?ref=sp&jobPos=17",
+      "time": "2026-10-26T09:31:56.037Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4509,
+  "totalVerifiedInHistory": 4512,
   "portalBreakdown": {
-    "iimjobs": 633,
-    "naukri": 986,
+    "iimjobs": 634,
+    "naukri": 988,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T08:58:30.304Z",
-  "lastUpdated": "26/10/2026, 2:28:30 pm"
+  "lastSyncedAt": "2026-10-26T09:31:56.094Z",
+  "lastUpdated": "26/10/2026, 3:01:56 pm"
 }
