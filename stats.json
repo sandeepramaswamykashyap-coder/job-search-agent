@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4492,
+  "applicationsSubmitted": 4497,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ola Electric Mobility - Head - Sales & Operations Planning",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ola-electric-mobility-head-sales-and-operations-planning-1739443?ref=sp_br_prm&jobPos=3",
-      "time": "2026-10-13T06:53:20.284Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Program Manager - Hospital Compliance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-hospital-compliance-shree-hr-consultancy-services-bengaluru-10-to-15-years-131026915992?src=directSearch&sid=1791876130151362&xp=7&px=1",
-      "time": "2026-10-13T07:22:27.780Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Program Manager - Automotive",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/program-manager-automotive-1738940?ref=sp&jobPos=18",
-      "time": "2026-10-13T07:27:35.958Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager/Assistant General Manager - Legal - Telecom - LLB",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-assistant-general-manager-legal-telecom-llb-1739457?ref=sp&jobPos=1",
-      "time": "2026-10-13T07:28:16.712Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "66degrees - Senior Manager - Sales",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/66degrees-senior-manager-sales-1739476?ref=sp_prm&jobPos=1",
-      "time": "2026-10-13T08:01:19.630Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "RSM - Technology Performance Manager - Digital Transformation",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/manager-technical-accounting-consulting-1741599?ref=sp&jobPos=18",
       "time": "2026-10-25T18:48:49.761Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Alstom Transportation",
+      "title": "Department Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-department-director-alstom-transport-india-ltd-bengaluru-15-to-20-years-231026923024?src=directSearch&sid=17929863571349636&xp=10&px=1",
+      "time": "2026-10-26T03:46:11.443Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Director - TAX - TMT - TAX - GCR - Global Compliance & Reporting",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-tax-tmt-tax-gcr-global-compliance-reporting-ernst-young-llp-bengaluru-bengaluru-12-to-15-years-221026921865?src=directSearch&sid=17929863571349636&xp=12&px=1",
+      "time": "2026-10-26T03:46:23.116Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Piramal - Senior Manager - Total Rewards",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/piramal-senior-manager-total-rewards-1741784?ref=sp_br_prm&jobPos=1",
+      "time": "2026-10-26T03:48:00.470Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Associate Director - Brand Marketing Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-associate-director-brand-marketing-operations-1741783?ref=sp_prm&jobPos=1",
+      "time": "2026-10-26T03:48:52.119Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Strategy & Business Excellence - Chemicals",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-strategy-and-business-excellence-chemicals-1741785?ref=sp&jobPos=11",
+      "time": "2026-10-26T03:49:39.091Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4492,
+  "totalVerifiedInHistory": 4497,
   "portalBreakdown": {
-    "iimjobs": 626,
-    "naukri": 976,
+    "iimjobs": 629,
+    "naukri": 978,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-25T18:48:49.805Z",
-  "lastUpdated": "26/10/2026, 12:18:49 am"
+  "lastSyncedAt": "2026-10-26T03:49:39.138Z",
+  "lastUpdated": "26/10/2026, 9:19:39 am"
 }
