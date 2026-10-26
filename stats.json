@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4553,
+  "applicationsSubmitted": 4554,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Client Technology -Senior Product Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-client-technology-senior-product-delivery-manager-ernst-young-llp-bengaluru-11-to-12-years-131026946766?src=directSearch&sid=17919389169226448&xp=4&px=1",
-      "time": "2026-10-14T00:48:51.295Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "New-Tech Risk Cross Sector Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoXaAgkkAAAACZlb5fQAOAQAFWlGEt8Qabx_dl9QAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoXaAgkkAAAACZlb5fQAOAQAFWlGEt8Qabx_dl9QAAA&from=page-two-signin",
       "time": "2026-10-26T18:41:28.353Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "BCL India",
+      "title": "Revenue Account Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-revenue-account-manager-bcl-india-hyderabad-serilingampally-bengaluru-7-to-9-years-261026011476?src=directSearch&sid=1793040789894445&xp=12&px=1",
+      "time": "2026-10-26T18:53:44.060Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4553,
+  "totalVerifiedInHistory": 4554,
   "portalBreakdown": {
     "iimjobs": 640,
-    "naukri": 1019,
+    "naukri": 1020,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 79,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T18:41:28.447Z",
-  "lastUpdated": "27/10/2026, 12:11:28 am"
+  "lastSyncedAt": "2026-10-26T18:53:44.133Z",
+  "lastUpdated": "27/10/2026, 12:23:44 am"
 }
