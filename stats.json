@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4543,
+  "applicationsSubmitted": 4547,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "GMx Transition Manager Tax",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gmx-transition-manager-tax-ernst-young-llp-bengaluru-10-to-15-years-131026946018?src=directSearch&sid=17919367190416907&xp=6&px=1",
-      "time": "2026-10-14T00:12:23.258Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "RC - REGULATORY COMPLIANCE - Clinical - CA - Veeva - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-rc-regulatory-compliance-clinical-ca-veeva-manager-ernst-young-llp-bengaluru-8-to-12-years-131026946095?src=directSearch&sid=17919367190416907&xp=7&px=1",
-      "time": "2026-10-14T00:12:34.879Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "BC Sector - Lifescience - BAT-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-bc-sector-lifescience-bat-manager-ernst-young-llp-bengaluru-9-to-14-years-131026946156?src=directSearch&sid=17919367190416907&xp=8&px=1",
-      "time": "2026-10-14T00:12:46.460Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "SAP BDC-DSP-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-bdc-dsp-manager-ernst-young-llp-bengaluru-9-to-14-years-131026945991?src=directSearch&sid=17919367190416907&xp=12&px=1",
-      "time": "2026-10-14T00:13:07.924Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "BTS - GTRS - Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-source-to-pay-solutions-senior-lead-intel-technology-india-pvt-ltd-bengaluru-14-to-19-years-261026920638?src=directSearch&sid=17930272940142965&xp=13&px=1",
       "time": "2026-10-26T15:08:41.681Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Consultbae",
+      "title": "Manager / Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-senior-manager-consultbae-bengaluru-4-to-9-years-261026916339?src=directSearch&sid=17930289562603009&xp=10&px=1",
+      "time": "2026-10-26T15:36:34.069Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys Limited",
+      "title": "Senior Technical Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-261026921950?src=directSearch&sid=17930291427576982&xp=9&px=1",
+      "time": "2026-10-26T15:39:36.757Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "R1 RCM Global Private Limited",
+      "title": "Program Manager - HR",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-261026922138?src=directSearch&sid=17930292343634357&xp=1&px=1",
+      "time": "2026-10-26T15:40:48.549Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Service Desk  Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-desk-service-delivery-manager-tata-consultancy-services-chennai-bengaluru-15-to-20-years-241026010028?src=directSearch&sid=17930293039626090&xp=11&px=1",
+      "time": "2026-10-26T15:42:04.916Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4543,
+  "totalVerifiedInHistory": 4547,
   "portalBreakdown": {
     "iimjobs": 639,
-    "naukri": 1011,
+    "naukri": 1015,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 78,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T15:08:41.729Z",
-  "lastUpdated": "26/10/2026, 8:38:41 pm"
+  "lastSyncedAt": "2026-10-26T15:42:04.970Z",
+  "lastUpdated": "26/10/2026, 9:12:04 pm"
 }
