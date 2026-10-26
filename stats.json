@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4540,
+  "applicationsSubmitted": 4543,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Senior Financial Crime Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-financial-crime-consultant-ernst-young-llp-bengaluru-6-to-11-years-131026945757?src=directSearch&sid=17919348504755967&xp=8&px=1",
-      "time": "2026-10-13T23:41:34.622Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "GyroHR Consulting",
-      "title": "Senior Manager  Sales & Revenue Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-sales-revenue-operations-gyrohr-bengaluru-12-to-14-years-131026044332?src=directSearch&sid=17919366418195665&xp=6&px=1",
-      "time": "2026-10-14T00:10:56.173Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "BTS_Manager_Trust Returns (1041)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-bts-manager-trust-returns-1041-ernst-young-llp-bengaluru-8-to-13-years-131026945882?src=directSearch&sid=17919366418195665&xp=11&px=1",
-      "time": "2026-10-14T00:11:14.415Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "GMx Transition Manager Tax",
@@ -4001,6 +3977,30 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoXZ6zkUAAAACZlNXSQAQAQEBBwCu_yZJoYvWFohzIwAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoXZ6zkUAAAACZlNXSQAQAQEBBwCu_yZJoYvWFohzIwAA&from=page-two-signin",
       "time": "2026-10-26T14:43:21.955Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys BPM",
+      "title": "Senior Practice Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-practice-lead-infosys-bpm-limited-bengaluru-8-to-13-years-261026920589?src=directSearch&sid=17930271335193057&xp=7&px=1",
+      "time": "2026-10-26T15:05:51.039Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Process Mining Manager (Celonis | Data Analytics | ETL)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-process-mining-manager-celonis-data-analytics-etl-ey-kochi-bengaluru-thiruvananthapuram-9-to-12-years-261026029852?src=directSearch&sid=17930271335193057&xp=10&px=1",
+      "time": "2026-10-26T15:06:09.234Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intel",
+      "title": "Source To Pay Solutions - Senior Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-source-to-pay-solutions-senior-lead-intel-technology-india-pvt-ltd-bengaluru-14-to-19-years-261026920638?src=directSearch&sid=17930272940142965&xp=13&px=1",
+      "time": "2026-10-26T15:08:41.681Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4540,
+  "totalVerifiedInHistory": 4543,
   "portalBreakdown": {
     "iimjobs": 639,
-    "naukri": 1008,
+    "naukri": 1011,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 78,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T14:43:22.041Z",
-  "lastUpdated": "26/10/2026, 8:13:22 pm"
+  "lastSyncedAt": "2026-10-26T15:08:41.729Z",
+  "lastUpdated": "26/10/2026, 8:38:41 pm"
 }
