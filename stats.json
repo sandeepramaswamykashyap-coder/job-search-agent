@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4538,
+  "applicationsSubmitted": 4539,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "PAS - Tax Payroll Implementation - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-pas-tax-payroll-implementation-manager-ernst-young-llp-bengaluru-5-to-10-years-131026945900?src=directSearch&sid=17919348504755967&xp=6&px=1",
-      "time": "2026-10-13T23:41:11.355Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "SAP PIPO Service Delivery Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-director-partner-technical-training-automation-anywhere-bengaluru-16-to-24-years-261026021724?src=directSearch&sid=17930209468158124&xp=12&px=1",
       "time": "2026-10-26T13:23:40.041Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "eBikeGo - Head - Retail Sales & Operations - Wellness Centres & Salons",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ebikego-head-retail-sales-and-operations-wellness-centres-and-salons-1742039?ref=sp_br&jobPos=8",
+      "time": "2026-10-26T13:58:48.288Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4538,
+  "totalVerifiedInHistory": 4539,
   "portalBreakdown": {
-    "iimjobs": 638,
+    "iimjobs": 639,
     "naukri": 1008,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 77,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T13:23:40.084Z",
-  "lastUpdated": "26/10/2026, 6:53:40 pm"
+  "lastSyncedAt": "2026-10-26T13:58:48.335Z",
+  "lastUpdated": "26/10/2026, 7:28:48 pm"
 }
