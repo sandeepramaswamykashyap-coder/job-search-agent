@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4500,
+  "applicationsSubmitted": 4501,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "EYP-IDD-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-eyp-idd-manager-ey-hyderabad-pune-bengaluru-8-to-13-years-131026024962?src=directSearch&sid=17918802938668646&xp=10&px=1",
-      "time": "2026-10-13T08:32:07.830Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ABB",
       "title": "Local Business and Project Controller, India",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-program-manager-it-services-digital-transformation-happiest-minds-technologies-bengaluru-15-to-20-years-251026005616?src=directSearch&sid=1792990144054960&xp=9&px=1",
       "time": "2026-10-26T04:50:04.290Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Compunnel",
+      "title": "MI / Reporting Engineer - Billing Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-mi-reporting-engineer-billing-transformation-compunnel-inc-bengaluru-7-to-12-years-261026003287?src=directSearch&sid=17929934506451481&xp=5&px=1",
+      "time": "2026-10-26T05:44:28.067Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4500,
+  "totalVerifiedInHistory": 4501,
   "portalBreakdown": {
     "iimjobs": 630,
-    "naukri": 980,
+    "naukri": 981,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T04:50:04.330Z",
-  "lastUpdated": "26/10/2026, 10:20:04 am"
+  "lastSyncedAt": "2026-10-26T05:44:28.115Z",
+  "lastUpdated": "26/10/2026, 11:14:28 am"
 }
