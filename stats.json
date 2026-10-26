@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4497,
+  "applicationsSubmitted": 4498,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "RSM - Technology Performance Manager - Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/rsm-technology-performance-manager-digital-transformation-1739486?ref=sp_br_prm&jobPos=8",
-      "time": "2026-10-13T08:01:58.546Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "JP Morgan Chase - Data Management Lead - HR Strategic Transformation",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/head-strategy-and-business-excellence-chemicals-1741785?ref=sp&jobPos=11",
       "time": "2026-10-26T03:49:39.091Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Sourcing Lead - Category Management - SCM & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/sourcing-lead-category-management-scm-and-operations-1741787?ref=sp&jobPos=18",
+      "time": "2026-10-26T04:20:51.543Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4497,
+  "totalVerifiedInHistory": 4498,
   "portalBreakdown": {
-    "iimjobs": 629,
+    "iimjobs": 630,
     "naukri": 978,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T03:49:39.138Z",
-  "lastUpdated": "26/10/2026, 9:19:39 am"
+  "lastSyncedAt": "2026-10-26T04:20:51.595Z",
+  "lastUpdated": "26/10/2026, 9:50:51 am"
 }
