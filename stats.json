@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4517,
+  "applicationsSubmitted": 4521,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Arcesium - Senior Manager - Financial Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/arcesium-senior-manager-financial-operations-1739604?ref=sp_prm&jobPos=13",
-      "time": "2026-10-13T12:05:49.249Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Opus - AI Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/opus-ai-program-manager-1739607?ref=sp&jobPos=17",
-      "time": "2026-10-13T12:06:10.239Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Net Revenue Management Lead - Revenue Growth Management - Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/net-revenue-management-lead-revenue-growth-management-consulting-1739605?ref=sp&jobPos=8",
-      "time": "2026-10-13T12:06:39.344Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Brandtouch & Analytics",
-      "title": "Sr. BTL Operations Manager- Bengaluru",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-btl-operations-manager-bengaluru-brandtouch-analytics-bengaluru-4-to-9-years-090926028439?src=directSearch&sid=17918948545406393&xp=11&px=1",
-      "time": "2026-10-13T12:34:45.435Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "PwC",
       "title": "ABAP Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/acko-general-insurance-senior-technical-program-manager-financial-accounting-and-reporting-domain-1741900?ref=sp_br_prm&jobPos=3",
       "time": "2026-10-26T10:03:54.573Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Hdfc Bank",
+      "title": "Project Management Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-management-lead-hdfc-bank-mumbai-bengaluru-8-to-13-years-261026014173?src=directSearch&sid=17930111105235284&xp=8&px=1",
+      "time": "2026-10-26T10:38:48.179Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Client of JOBPOINT",
+      "title": "Vice President  Procurement Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vice-president-procurement-transformation-metaphor-infotech-mumbai-gurugram-bengaluru-14-to-24-years-261026011527?src=directSearch&sid=17930111105235284&xp=9&px=1",
+      "time": "2026-10-26T10:38:59.864Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Intellics Global Services",
+      "title": "P2P Manager- Process SME Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-p2p-manager-process-sme-lead-intellics-global-services-hyderabad-pune-bengaluru-12-to-18-years-261026006065?src=directSearch&sid=17930111105235284&xp=10&px=1",
+      "time": "2026-10-26T10:39:11.461Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Atomberg - Manager - Loyalty Program & Trade Marketing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/atomberg-manager-loyalty-program-and-trade-marketing-1741936?ref=sp_br_prm&jobPos=3",
+      "time": "2026-10-26T10:41:54.715Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4517,
+  "totalVerifiedInHistory": 4521,
   "portalBreakdown": {
-    "iimjobs": 635,
-    "naukri": 992,
+    "iimjobs": 636,
+    "naukri": 995,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T10:03:54.628Z",
-  "lastUpdated": "26/10/2026, 3:33:54 pm"
+  "lastSyncedAt": "2026-10-26T10:41:54.766Z",
+  "lastUpdated": "26/10/2026, 4:11:54 pm"
 }
