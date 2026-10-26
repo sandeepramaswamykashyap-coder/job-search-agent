@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-26T02:47:43.980Z",
+  "lastUpdated": "2026-10-26T03:19:52.075Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -433,7 +433,7 @@
       "company": "Deloitte India",
       "title": "Partner / Director — Enterprise Agility & HR Transformation",
       "dispatchedAt": "2026-08-26T03:19:07.534Z",
-      "daysElapsed": 60,
+      "daysElapsed": 61,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -444,7 +444,7 @@
       "company": "KPMG India",
       "title": "Head of Talent Acquisition — Digital & Technology Consulting",
       "dispatchedAt": "2026-08-26T03:19:17.202Z",
-      "daysElapsed": 60,
+      "daysElapsed": 61,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -455,7 +455,7 @@
       "company": "Ernst & Young (EY)",
       "title": "Talent Leader — Technology Enablement & Transformation",
       "dispatchedAt": "2026-08-26T03:19:28.846Z",
-      "daysElapsed": 60,
+      "daysElapsed": 61,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -466,7 +466,7 @@
       "company": "Cognizant",
       "title": "Transformation Program Manager — ServiceNow Practice",
       "dispatchedAt": "2026-08-26T03:19:40.268Z",
-      "daysElapsed": 60,
+      "daysElapsed": 61,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
