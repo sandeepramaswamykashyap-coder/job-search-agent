@@ -1,39 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4534,
+  "applicationsSubmitted": 4538,
   "appliedRolesList": [
-    {
-      "company": "Corporate in B2C/B2B Recruitment Sector",
-      "title": "Test Manager - Pan India",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-test-manager-pan-india-tekskills-india-bengaluru-10-to-20-years-131026932977?src=directSearch&sid=17919287722799701&xp=1&px=1",
-      "time": "2026-10-13T21:59:46.497Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "NetApp - Program Manager - Sales Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/netapp-program-manager-sales-operations-1739626?ref=sp&jobPos=18",
-      "time": "2026-10-13T22:01:07.571Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior Manager – Business Acceleration",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-business-acceleration-ernst-young-llp-bengaluru-10-to-14-years-131026945800?src=directSearch&sid=17919345767412604&xp=3&px=1",
-      "time": "2026-10-13T23:36:34.412Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys BPM",
-      "title": "Services Head Client Operation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-services-head-client-operation-infosys-bpm-limited-bengaluru-15-to-20-years-131026934581?src=directSearch&sid=17919348295747007&xp=7&px=1",
-      "time": "2026-10-13T23:40:47.232Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "PAS - Tax Payroll Implementation - Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-llmops-mlops-manager-pwc-hyderabad-chennai-bengaluru-8-to-13-years-261026026256?src=directSearch&sid=17930190198402928&xp=5&px=1",
       "time": "2026-10-26T12:50:37.387Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "91 Springboard Business Hub",
+      "title": "Regional Facilities Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-regional-facilities-manager-91-springboard-business-hub-bengaluru-10-to-15-years-191026009934",
+      "time": "2026-10-26T13:22:41.141Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ConsultBae",
+      "title": "Director/VP Sales - AI Data Collection & Annotation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-vp-sales-ai-data-collection-annotation-consultbae-bengaluru-10-to-15-years-261026916273?src=directSearch&sid=17930209468158124&xp=9&px=1",
+      "time": "2026-10-26T13:23:03.269Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ConsultBae",
+      "title": "Director/VP - Sales - AI Data Collection & Annotation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-vp-sales-ai-data-collection-annotation-consultbae-bengaluru-10-to-20-years-261026916152?src=directSearch&sid=17930209468158124&xp=10&px=1",
+      "time": "2026-10-26T13:23:25.144Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Automation Anywhere",
+      "title": "Director Partner Technical Training",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-partner-technical-training-automation-anywhere-bengaluru-16-to-24-years-261026021724?src=directSearch&sid=17930209468158124&xp=12&px=1",
+      "time": "2026-10-26T13:23:40.041Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4534,
+  "totalVerifiedInHistory": 4538,
   "portalBreakdown": {
     "iimjobs": 638,
-    "naukri": 1004,
+    "naukri": 1008,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 77,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T12:50:37.437Z",
-  "lastUpdated": "26/10/2026, 6:20:37 pm"
+  "lastSyncedAt": "2026-10-26T13:23:40.084Z",
+  "lastUpdated": "26/10/2026, 6:53:40 pm"
 }
