@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4503,
+  "applicationsSubmitted": 4506,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "CheQ - Senior Manager - Finance - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/cheq-senior-manager-finance-ca-1739503?ref=sp_prm&jobPos=2",
-      "time": "2026-10-13T08:36:41.281Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Cialfo - Head - Operations - Student Placement",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/cialfo-head-operations-student-placement-1739520?ref=sp&jobPos=15",
-      "time": "2026-10-13T08:37:17.175Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Business Finance/Financial Planning & Analysis - Manufa",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-business-finance-financial-planning-and-analysis-manufacturing-ca-1739510?ref=sp&jobPos=15",
-      "time": "2026-10-13T08:37:54.400Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Spot Your Leaders",
       "title": "HR Analytics Senior Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-servicenow-practice-manager-wilco-source-hyderabad-chennai-bengaluru-10-to-20-years-261026004508",
       "time": "2026-10-26T06:17:12.905Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "HanDigital Solution",
+      "title": "Recruitment Sourcing Manager/Senior Manager -Client Delivery",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-recruitment-sourcing-manager-senior-manager-client-delivery-han-digital-solution-bengaluru-7-to-12-years-261026007815?src=directSearch&sid=17929991366315499&xp=10&px=1",
+      "time": "2026-10-26T07:19:17.632Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Johnson & Johnson - Senior Product Manager - Medtech Ethicon",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/johnson-and-johnson-senior-product-manager-medtech-ethicon-1741841?ref=sp_br_prm&jobPos=1",
+      "time": "2026-10-26T07:23:28.908Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "GoBoult - Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/goboult-program-manager-1741842?ref=sp_prm&jobPos=1",
+      "time": "2026-10-26T07:23:43.795Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4503,
+  "totalVerifiedInHistory": 4506,
   "portalBreakdown": {
-    "iimjobs": 630,
-    "naukri": 983,
+    "iimjobs": 632,
+    "naukri": 984,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T06:17:12.947Z",
-  "lastUpdated": "26/10/2026, 11:47:12 am"
+  "lastSyncedAt": "2026-10-26T07:23:43.840Z",
+  "lastUpdated": "26/10/2026, 12:53:43 pm"
 }
