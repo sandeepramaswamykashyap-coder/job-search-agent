@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4507,
+  "applicationsSubmitted": 4509,
   "appliedRolesList": [
-    {
-      "company": "Acuity Analytics",
-      "title": "Associate Director/ Director- Programme Management Office(PMO)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-director-programme-management-office-pmo-acuity-analytics-gurugram-bengaluru-delhi-ncr-10-to-15-years-131026027774?src=directSearch&sid=17918825403327227&xp=9&px=1",
-      "time": "2026-10-13T09:09:56.880Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "DMart",
-      "title": "Technical Project Manager/Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-project-manager-program-manager-dmart-coimbatore-bengaluru-7-to-10-years-131026030444?src=directSearch&sid=17918844788257636&xp=12&px=1",
-      "time": "2026-10-13T09:41:33.328Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - Data Analytics & Automation - FMCG",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-growth-and-digital-marketing-travel-hospitality-1741854?ref=sp&jobPos=10",
       "time": "2026-10-26T07:56:21.175Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Rhea Healthcare",
+      "title": "Assistant Manager Operations - Motherhood Hospital.",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-assistant-manager-operations-motherhood-hospital-rhea-healthcare-bengaluru-6-to-11-years-261026006486?src=directSearch&sid=1793005043094424&xp=10&px=1",
+      "time": "2026-10-26T08:57:37.418Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Solutions Centric Global",
+      "title": "Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-solutions-centric-global-hyderabad-chennai-bengaluru-5-to-8-years-261026010574?src=directSearch&sid=17930050926051543&xp=9&px=1",
+      "time": "2026-10-26T08:58:30.253Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4507,
+  "totalVerifiedInHistory": 4509,
   "portalBreakdown": {
     "iimjobs": 633,
-    "naukri": 984,
+    "naukri": 986,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T07:56:21.226Z",
-  "lastUpdated": "26/10/2026, 1:26:21 pm"
+  "lastSyncedAt": "2026-10-26T08:58:30.304Z",
+  "lastUpdated": "26/10/2026, 2:28:30 pm"
 }
