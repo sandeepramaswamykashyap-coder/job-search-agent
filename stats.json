@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4550,
+  "applicationsSubmitted": 4551,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Senior Actimize Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-actimize-consultant-ernst-young-llp-bengaluru-5-to-8-years-131026946079?src=directSearch&sid=1791936970025625&xp=8&px=1",
-      "time": "2026-10-14T00:16:30.981Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Senior Financial Crime AI Consultant",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/key-account-management-ecommerce-1742045?ref=sp&jobPos=13",
       "time": "2026-10-26T16:08:41.820Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Luxoft India LLP",
+      "title": "Principal PostgreSQL Database Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-261026925177?src=directSearch&sid=17930367223086045&xp=9&px=1",
+      "time": "2026-10-26T17:45:36.626Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4550,
+  "totalVerifiedInHistory": 4551,
   "portalBreakdown": {
     "iimjobs": 640,
-    "naukri": 1017,
+    "naukri": 1018,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 78,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T16:08:41.871Z",
-  "lastUpdated": "26/10/2026, 9:38:41 pm"
+  "lastSyncedAt": "2026-10-26T17:45:36.676Z",
+  "lastUpdated": "26/10/2026, 11:15:36 pm"
 }
