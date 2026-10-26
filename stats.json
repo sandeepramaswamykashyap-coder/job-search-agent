@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4529,
+  "applicationsSubmitted": 4532,
   "appliedRolesList": [
-    {
-      "company": "TGBPL TP India - IBU",
-      "title": "Senior Manager - Talent Excellence|International|03112025",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0V60sAAAACZX4KHAAQAQEBBwTWJ3kWKO-E_rghwwAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0V60sAAAACZX4KHAAQAQEBBwTWJ3kWKO-E_rghwwAA&from=page-two-signin",
-      "time": "2026-10-13T18:02:59.974Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Siemens Energy",
-      "title": "Sr Payments Analyst",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoTD1AUgAAAACZYnkfAAOAQAAw6c7hhjDPJYoqzQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoTD1AUgAAAACZYnkfAAOAQAAw6c7hhjDPJYoqzQAAA&from=page-two-signin",
-      "time": "2026-10-13T18:19:07.043Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Nutanix",
-      "title": "Services Sales Program Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZZUECgAJAQAIur-0dFNUAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZZUECgAJAQAIur-0dFNUAAA&from=page-two-signin",
-      "time": "2026-10-13T18:49:56.271Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Temporal",
       "title": "Senior Director, Global Field Operations",
@@ -4001,6 +3977,30 @@
       "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=c5b3a4c32dea2731",
       "time": "2026-10-26T12:00:42.361Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Tiger Analytics - Technical Program/Product Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/tiger-analytics-technical-program-product-manager-1742004?ref=sp_prm&jobPos=3",
+      "time": "2026-10-26T12:19:00.230Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Metalman Auto - Head - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/metalman-auto-head-operations-1742007?ref=sp&jobPos=9",
+      "time": "2026-10-26T12:19:26.734Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Phenomenex & Agela",
+      "title": "Order Management Associate",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=c5b3a4c32dea2731",
+      "time": "2026-10-26T12:35:06.473Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4529,
+  "totalVerifiedInHistory": 4532,
   "portalBreakdown": {
-    "iimjobs": 636,
+    "iimjobs": 638,
     "naukri": 1002,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 76,
+    "indeed": 77,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T12:00:42.434Z",
-  "lastUpdated": "26/10/2026, 5:30:42 pm"
+  "lastSyncedAt": "2026-10-26T12:35:06.544Z",
+  "lastUpdated": "26/10/2026, 6:05:06 pm"
 }
