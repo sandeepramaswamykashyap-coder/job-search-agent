@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4526,
+  "applicationsSubmitted": 4529,
   "appliedRolesList": [
-    {
-      "company": "Hitachi Energy",
-      "title": "SCM Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-scm-delivery-manager-hitachi-energy-india-limited-bengaluru-15-to-20-years-131026927600?src=directSearch&sid=17919013431305520&xp=2&px=1",
-      "time": "2026-10-13T14:22:37.399Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "Tcs hiring For Service Desk Service Delivery manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tcs-hiring-for-service-desk-service-delivery-manager-tata-consultancy-services-bengaluru-15-to-20-years-131026043997?src=directSearch&sid=17919013431305520&xp=5&px=1",
-      "time": "2026-10-13T14:22:52.338Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Engineering Manager - Merchant Fulfillment",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-engineering-manager-merchant-fulfillment-uber-india-research-and-development-private-limited-bengaluru-12-to-17-years-131026928550?src=directSearch&sid=1791903259541166&xp=5&px=1",
-      "time": "2026-10-13T14:54:37.235Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "TGBPL TP India - IBU",
       "title": "Senior Manager - Talent Excellence|International|03112025",
@@ -4001,6 +3977,30 @@
       "url": "https://www.naukri.com/job-listings-manager-doc-khandelia-oil-hyderabad-bengaluru-delhi-ncr-5-to-10-years-261026913987?src=directSearch&sid=17930131955048176&xp=11&px=1",
       "time": "2026-10-26T11:13:36.534Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Wipro",
+      "title": "Practice Manager - Data & Insights",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-practice-manager-data-insights-wipro-hyderabad-pune-bengaluru-16-to-26-years-261026019046?src=directSearch&sid=1793015093921379&xp=9&px=1",
+      "time": "2026-10-26T11:45:14.901Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HR Central",
+      "title": "SAP Project Manager / PMO - Devanahalli",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-project-manager-pmo-devanahalli-hr-central-bengaluru-8-to-12-years-261026018488?src=directSearch&sid=17930151216033394&xp=10&px=1",
+      "time": "2026-10-26T11:45:45.796Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Monks",
+      "title": "Operations Manager",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=c5b3a4c32dea2731",
+      "time": "2026-10-26T12:00:42.361Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4526,
+  "totalVerifiedInHistory": 4529,
   "portalBreakdown": {
     "iimjobs": 636,
-    "naukri": 1000,
+    "naukri": 1002,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 75,
+    "indeed": 76,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T11:13:36.581Z",
-  "lastUpdated": "26/10/2026, 4:43:36 pm"
+  "lastSyncedAt": "2026-10-26T12:00:42.434Z",
+  "lastUpdated": "26/10/2026, 5:30:42 pm"
 }
