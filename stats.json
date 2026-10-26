@@ -1,47 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4521,
+  "applicationsSubmitted": 4526,
   "appliedRolesList": [
-    {
-      "company": "PwC",
-      "title": "ABAP Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-abap-manager-pwc-kolkata-hyderabad-bengaluru-9-to-14-years-131026043653?src=directSearch&sid=17918949207387210&xp=12&px=1",
-      "time": "2026-10-13T12:35:58.115Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Beiersdorf - Senior Quality & Regulatory Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/beiersdorf-senior-quality-and-regulatory-manager-1739615?ref=sp_br_prm&jobPos=10",
-      "time": "2026-10-13T12:39:41.012Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "LTM",
-      "title": "Service Delivery Manager (ADM projects)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-delivery-manager-adm-projects-ltm-chennai-bengaluru-14-to-20-years-131026044200?src=directSearch&sid=1791897210376414&xp=10&px=1",
-      "time": "2026-10-13T13:13:51.349Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Operations Excellence & Business Intelligence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-operations-excellence-and-business-intelligence-1739630?ref=sp&jobPos=16",
-      "time": "2026-10-13T13:14:34.498Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Intel",
-      "title": "AI/ML Technologist",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-ml-technologist-intel-technology-india-pvt-ltd-bengaluru-8-to-13-years-131026927265?src=directSearch&sid=17918991168793168&xp=10&px=1",
-      "time": "2026-10-13T13:45:50.949Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Hitachi Energy",
       "title": "SCM Delivery Manager",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/atomberg-manager-loyalty-program-and-trade-marketing-1741936?ref=sp_br_prm&jobPos=3",
       "time": "2026-10-26T10:41:54.715Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "American Society Of Mechanical Engineers",
+      "title": "Group Engagement Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-group-engagement-manager-american-society-of-mechanical-engineers-bengaluru-10-to-18-years-261026013279?src=directSearch&sid=17930130053988964&xp=12&px=1",
+      "time": "2026-10-26T11:10:33.021Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Omnicom Global Solutions",
+      "title": "Delivery Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-project-manager-omnicom-global-solutions-bengaluru-8-to-13-years-261026008315?src=directSearch&sid=17930130053988964&xp=13&px=1",
+      "time": "2026-10-26T11:11:10.445Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tech Mahindra",
+      "title": "SAP Data and Analytics Architect (SAP BDC, BW, Datasphere)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-data-and-analytics-architect-sap-bdc-bw-datasphere-tech-mahindra-hyderabad-pune-bengaluru-16-to-25-years-231026025325?src=directSearch&sid=17930130736823113&xp=12&px=1",
+      "time": "2026-10-26T11:11:37.930Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "FIS",
+      "title": "Dotnet Architect (Cloud) - Capital Market Domain",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-dotnet-architect-cloud-capital-market-domain-fis-pune-bengaluru-10-to-17-years-261026018130?src=directSearch&sid=17930131551853511&xp=6&px=1",
+      "time": "2026-10-26T11:12:56.165Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Khandelia Oil And General Mills",
+      "title": "Manager DOC",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-doc-khandelia-oil-hyderabad-bengaluru-delhi-ncr-5-to-10-years-261026913987?src=directSearch&sid=17930131955048176&xp=11&px=1",
+      "time": "2026-10-26T11:13:36.534Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4521,
+  "totalVerifiedInHistory": 4526,
   "portalBreakdown": {
     "iimjobs": 636,
-    "naukri": 995,
+    "naukri": 1000,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T10:41:54.766Z",
-  "lastUpdated": "26/10/2026, 4:11:54 pm"
+  "lastSyncedAt": "2026-10-26T11:13:36.581Z",
+  "lastUpdated": "26/10/2026, 4:43:36 pm"
 }
