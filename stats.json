@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4498,
+  "applicationsSubmitted": 4500,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Data Management Lead - HR Strategic Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-data-management-lead-hr-strategic-transformation-1739480?ref=sp_br&jobPos=12",
-      "time": "2026-10-13T08:02:06.046Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Digital Marketing - Real Estate",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-digital-marketing-real-estate-1739499?ref=sp&jobPos=5",
-      "time": "2026-10-13T08:02:39.329Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "EYP-IDD-Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/sourcing-lead-category-management-scm-and-operations-1741787?ref=sp&jobPos=18",
       "time": "2026-10-26T04:20:51.543Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "MODULE LEAD - Data Modelling",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-module-lead-data-modelling-happiest-minds-technologies-bengaluru-5-to-8-years-261026001678?src=directSearch&sid=1792990144054960&xp=8&px=1",
+      "time": "2026-10-26T04:49:37.127Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Program Manager | IT Services & Digital Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-it-services-digital-transformation-happiest-minds-technologies-bengaluru-15-to-20-years-251026005616?src=directSearch&sid=1792990144054960&xp=9&px=1",
+      "time": "2026-10-26T04:50:04.290Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4498,
+  "totalVerifiedInHistory": 4500,
   "portalBreakdown": {
     "iimjobs": 630,
-    "naukri": 978,
+    "naukri": 980,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T04:20:51.595Z",
-  "lastUpdated": "26/10/2026, 9:50:51 am"
+  "lastSyncedAt": "2026-10-26T04:50:04.330Z",
+  "lastUpdated": "26/10/2026, 10:20:04 am"
 }
