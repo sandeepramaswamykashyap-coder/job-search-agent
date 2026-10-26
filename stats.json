@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4501,
+  "applicationsSubmitted": 4503,
   "appliedRolesList": [
-    {
-      "company": "ABB",
-      "title": "Local Business and Project Controller, India",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-local-business-and-project-controller-india-abb-india-limited-bengaluru-8-to-12-years-131026024536?src=directSearch&sid=17918804335028211&xp=9&px=1",
-      "time": "2026-10-13T08:34:42.897Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "NetApp",
-      "title": "Sales Operations BI & Reporting Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sales-operations-bi-reporting-manager-netapp-bengaluru-5-to-8-years-131026023398?src=directSearch&sid=17918805084514772&xp=4&px=1",
-      "time": "2026-10-13T08:35:22.765Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "CheQ - Senior Manager - Finance - CA",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-mi-reporting-engineer-billing-transformation-compunnel-inc-bengaluru-7-to-12-years-261026003287?src=directSearch&sid=17929934506451481&xp=5&px=1",
       "time": "2026-10-26T05:44:28.067Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Shadowfax Technologies",
+      "title": "Program Manager - Quick commerce (Devarabisanahalli, Bangalore)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-quick-commerce-devarabisanahalli-bangalore-shadowfax-technologies-bengaluru-3-to-8-years-261026004560?src=directSearch&sid=17929953328821041&xp=12&px=1",
+      "time": "2026-10-26T06:16:20.501Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Wilco Source",
+      "title": "Servicenow Practice Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-practice-manager-wilco-source-hyderabad-chennai-bengaluru-10-to-20-years-261026004508",
+      "time": "2026-10-26T06:17:12.905Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4501,
+  "totalVerifiedInHistory": 4503,
   "portalBreakdown": {
     "iimjobs": 630,
-    "naukri": 981,
+    "naukri": 983,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 75,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T05:44:28.115Z",
-  "lastUpdated": "26/10/2026, 11:14:28 am"
+  "lastSyncedAt": "2026-10-26T06:17:12.947Z",
+  "lastUpdated": "26/10/2026, 11:47:12 am"
 }
