@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4575,
+  "applicationsSubmitted": 4576,
   "appliedRolesList": [
-    {
-      "company": "Wipro",
-      "title": "People & Change Consultant / Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-people-change-consultant-senior-manager-wroots-global-pune-bengaluru-10-to-20-years-141026035450?src=directSearch&sid=17919836749544526&xp=9&px=1",
-      "time": "2026-10-14T13:15:19.148Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Altimetrik",
       "title": "Claude Information Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/group-product-manager-senior-product-manager-product-manager-ophthalmology-segment-pharma-1742204?ref=sp&jobPos=2",
       "time": "2026-10-27T10:33:46.842Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant Manager/Manager - Financial Reporting - Insurance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-manager-manager-financial-reporting-insurance-1742261?ref=sp&jobPos=3",
+      "time": "2026-10-27T12:35:06.930Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4575,
+  "totalVerifiedInHistory": 4576,
   "portalBreakdown": {
-    "iimjobs": 653,
+    "iimjobs": 654,
     "naukri": 1026,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 81,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T10:33:46.895Z",
-  "lastUpdated": "27/10/2026, 4:03:46 pm"
+  "lastSyncedAt": "2026-10-27T12:35:06.980Z",
+  "lastUpdated": "27/10/2026, 6:05:06 pm"
 }

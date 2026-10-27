@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-27T12:06:25.189Z",
+  "lastUpdated": "2026-10-27T12:38:01.284Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -400,7 +400,7 @@
       "company": "Resource Pro",
       "title": "Manager, Service Delivery",
       "dispatchedAt": "2026-08-21T12:11:46.264Z",
-      "daysElapsed": 66,
+      "daysElapsed": 67,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1500,7 +1500,7 @@
       "company": "BNP Paribas India Solutions",
       "title": "Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T12:07:21.261Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1511,7 +1511,7 @@
       "company": "Barclays Global Service Centre",
       "title": "Managing Director - Chief Operations Office",
       "dispatchedAt": "2026-10-08T12:07:30.467Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1522,7 +1522,7 @@
       "company": "Barclays India",
       "title": "Head of Lateral & Leadership Hiring",
       "dispatchedAt": "2026-10-08T12:07:39.322Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1533,7 +1533,7 @@
       "company": "UBS India",
       "title": "Head of Group Technology Delivery India",
       "dispatchedAt": "2026-10-08T12:07:48.077Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1544,7 +1544,7 @@
       "company": "UBS India",
       "title": "Executive Director - Talent Acquisition",
       "dispatchedAt": "2026-10-08T12:07:57.107Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1555,7 +1555,7 @@
       "company": "HSBC India",
       "title": "Managing Director - Global Operations & Transformation",
       "dispatchedAt": "2026-10-08T12:08:06.367Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1566,7 +1566,7 @@
       "company": "HSBC India",
       "title": "Senior Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T12:08:15.193Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1577,7 +1577,7 @@
       "company": "Northern Trust India",
       "title": "Senior Vice President - Asset Servicing Operations",
       "dispatchedAt": "2026-10-08T12:08:23.911Z",
-      "daysElapsed": 18,
+      "daysElapsed": 19,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
