@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4554,
+  "applicationsSubmitted": 4555,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "New-Tech Risk Cross Sector Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-new-tech-risk-cross-sector-manager-ernst-young-llp-bengaluru-7-to-12-years-131026946388?src=directSearch&sid=17919389169226448&xp=7&px=1",
-      "time": "2026-10-14T00:49:03.038Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Senior SAP Solution Architect",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-revenue-account-manager-bcl-india-hyderabad-serilingampally-bengaluru-7-to-9-years-261026011476?src=directSearch&sid=1793040789894445&xp=12&px=1",
       "time": "2026-10-26T18:53:44.060Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Senior Engineering Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoXpWt3EAAAACZlt3FAAOAQEBBxLxEaQGjqOXkb0AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoXpWt3EAAAACZlt3FAAOAQEBBxLxEaQGjqOXkb0AAA&from=page-two-signin",
+      "time": "2026-10-27T03:24:21.699Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,7 +4671,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4554,
+  "totalVerifiedInHistory": 4555,
   "portalBreakdown": {
     "iimjobs": 640,
     "naukri": 1020,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 79,
+    "indeed": 80,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-26T18:53:44.133Z",
-  "lastUpdated": "27/10/2026, 12:23:44 am"
+  "lastSyncedAt": "2026-10-27T03:24:21.767Z",
+  "lastUpdated": "27/10/2026, 8:54:21 am"
 }
