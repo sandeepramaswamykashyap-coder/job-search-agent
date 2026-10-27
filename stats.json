@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4557,
+  "applicationsSubmitted": 4560,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Manager-GBS-NON FS FINANCE-COMMERCIAL",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-gbs-non-fs-finance-commercial-ernst-young-llp-bengaluru-10-to-15-years-131026946230?src=directSearch&sid=17919391686777248&xp=10&px=1",
-      "time": "2026-10-14T00:53:16.202Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Titan - Senior Strategic Account Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/titan-senior-strategic-account-manager-1739658?ref=sp_br_prm&jobPos=11",
-      "time": "2026-10-14T04:38:20.070Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vice President - Operations & Profit Center Head - LT/MV/HT Cables",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vice-president-operations-and-profit-center-head-lt-mv-ht-cables-1739660?ref=sp_prm&jobPos=4",
-      "time": "2026-10-14T04:38:49.052Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Cuemath - Director/Senior Director - US Business & Operations",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/associate-director-logistics-operations-excellence-logistics-supply-chain-1742060?ref=sp&jobPos=7",
       "time": "2026-10-27T04:43:17.007Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Shopalyst - Senior Manager - Commercial Finance & Revenue Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/shopalyst-senior-manager-commercial-finance-and-revenue-operations-1742082?ref=sp_br_prm&jobPos=5",
+      "time": "2026-10-27T05:40:04.589Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "eBikeGo - Head - Retail Sales & Operations - Carlton Wellness",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ebikego-head-retail-sales-and-operations-carlton-wellness-1742039?ref=sp_br&jobPos=8",
+      "time": "2026-10-27T05:40:35.627Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant General Manager/General Manager - Investor Relations - BFSI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-general-manager-general-manager-investor-relations-bfsi-1742084?ref=sp&jobPos=18",
+      "time": "2026-10-27T05:41:18.957Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4557,
+  "totalVerifiedInHistory": 4560,
   "portalBreakdown": {
-    "iimjobs": 642,
+    "iimjobs": 645,
     "naukri": 1020,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 80,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T04:43:17.057Z",
-  "lastUpdated": "27/10/2026, 10:13:17 am"
+  "lastSyncedAt": "2026-10-27T05:41:19.002Z",
+  "lastUpdated": "27/10/2026, 11:11:19 am"
 }
