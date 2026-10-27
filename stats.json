@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4556,
+  "applicationsSubmitted": 4557,
   "appliedRolesList": [
-    {
-      "company": "UST",
-      "title": "Talent Acquisition Manager - Semiconductor",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-talent-acquisition-manager-semiconductor-ust-bengaluru-10-to-15-years-141026000662?src=directSearch&sid=17919391135746572&xp=12&px=1",
-      "time": "2026-10-14T00:52:26.388Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Manager-GBS-NON FS FINANCE-COMMERCIAL",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/product-manager-1742052?ref=sp&jobPos=9",
       "time": "2026-10-27T03:44:41.016Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Associate Director - Logistics Operations Excellence - Logistics/Supply Chain",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/associate-director-logistics-operations-excellence-logistics-supply-chain-1742060?ref=sp&jobPos=7",
+      "time": "2026-10-27T04:43:17.007Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4556,
+  "totalVerifiedInHistory": 4557,
   "portalBreakdown": {
-    "iimjobs": 641,
+    "iimjobs": 642,
     "naukri": 1020,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 80,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T03:44:41.075Z",
-  "lastUpdated": "27/10/2026, 9:14:41 am"
+  "lastSyncedAt": "2026-10-27T04:43:17.057Z",
+  "lastUpdated": "27/10/2026, 10:13:17 am"
 }
