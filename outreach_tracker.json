@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-27T20:22:54.009Z",
+  "lastUpdated": "2026-10-27T20:33:29.687Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -70,7 +70,7 @@
       "company": "Nous Infosystems",
       "title": "Delivery Manager -with a CMMi level 5 company, BLR",
       "dispatchedAt": "2026-07-23T20:24:04.751Z",
-      "daysElapsed": 95,
+      "daysElapsed": 96,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
