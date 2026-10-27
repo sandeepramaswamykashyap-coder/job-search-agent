@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4573,
+  "applicationsSubmitted": 4575,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Senior Manager - Generative AI",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-generative-ai-ernst-young-llp-bengaluru-11-to-14-years-141026933364?src=directSearch&sid=17919836749544526&xp=5&px=1",
-      "time": "2026-10-14T13:14:52.646Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior Manager - AI Governance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-ai-governance-ernst-young-llp-bengaluru-12-to-17-years-141026933427?src=directSearch&sid=17919836749544526&xp=7&px=1",
-      "time": "2026-10-14T13:15:07.535Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Wipro",
       "title": "People & Change Consultant / Senior Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-devops-manager-healthedge-bengaluru-10-to-13-years-261026011711?src=directSearch&sid=17930912649075838&xp=12&px=1",
       "time": "2026-10-27T08:54:57.581Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior General Manager - Automotive Logistics Operations & Supply Chain",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-general-manager-automotive-logistics-operations-and-supply-chain-1742209?ref=sp&jobPos=14",
+      "time": "2026-10-27T10:32:45.013Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Group Product Manager/Senior Product Manager/Product Manager - Ophthalmology Seg",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/group-product-manager-senior-product-manager-product-manager-ophthalmology-segment-pharma-1742204?ref=sp&jobPos=2",
+      "time": "2026-10-27T10:33:46.842Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4573,
+  "totalVerifiedInHistory": 4575,
   "portalBreakdown": {
-    "iimjobs": 651,
+    "iimjobs": 653,
     "naukri": 1026,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 81,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T08:54:57.625Z",
-  "lastUpdated": "27/10/2026, 2:24:57 pm"
+  "lastSyncedAt": "2026-10-27T10:33:46.895Z",
+  "lastUpdated": "27/10/2026, 4:03:46 pm"
 }
