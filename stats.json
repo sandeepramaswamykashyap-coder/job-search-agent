@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4560,
+  "applicationsSubmitted": 4566,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Cuemath - Director/Senior Director - US Business & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/cuemath-director-senior-director-us-business-and-operations-1739706?ref=sp_br&jobPos=2",
-      "time": "2026-10-14T06:11:00.822Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "EY - HR Transformation Role - GCC",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ey-hr-transformation-role-gcc-1739754?ref=sp_prm&jobPos=2",
-      "time": "2026-10-14T07:10:38.233Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Executive Director - KYC/AML Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-executive-director-kyc-aml-operations-1739751?ref=sp_br&jobPos=7",
-      "time": "2026-10-14T07:10:56.973Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Advertising Sales - India CTV",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-advertising-sales-india-ctv-1739748?ref=sp&jobPos=13",
-      "time": "2026-10-14T07:11:17.705Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "CACTUS - Program/Project Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/cactus-program-project-manager-1739768?ref=sp_br&jobPos=2",
-      "time": "2026-10-14T08:10:20.208Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Zebra Technologies - Senior Manager - Technical Program Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/zebra-technologies-senior-manager-technical-program-management-1739787?ref=sp&jobPos=1",
-      "time": "2026-10-14T08:40:43.434Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "FAMY Group - Head - Operations",
@@ -4001,6 +3953,54 @@
       "url": "https://www.iimjobs.com/j/assistant-general-manager-general-manager-investor-relations-bfsi-1742084?ref=sp&jobPos=18",
       "time": "2026-10-27T05:41:18.957Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Shopalyst Technologies",
+      "title": "Senior Manager (Commercial Finance & Revenue Operations)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-commercial-finance-revenue-operations-shopalyst-technologies-bengaluru-8-to-10-years-271026012204?src=directSearch&sid=17930813305917657&xp=13&px=1",
+      "time": "2026-10-27T06:09:21.425Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Statusneo Technology Consulting",
+      "title": "Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-statusneo-technology-consulting-gurugram-bengaluru-6-to-10-years-271026008972?src=directSearch&sid=1793081667273225&xp=5&px=1",
+      "time": "2026-10-27T06:14:41.628Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Coforge - Senior Project Manager - IT Projects",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/coforge-senior-project-manager-it-projects-1742097?ref=sp_br&jobPos=18",
+      "time": "2026-10-27T06:14:59.824Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Enphase Energy - Senior Manager - Sales Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/enphase-energy-senior-manager-sales-operations-1742091?ref=sp&jobPos=12",
+      "time": "2026-10-27T06:15:10.188Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Algoleap - Technical Program Manager - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/algoleap-technical-program-manager-operations-1742098?ref=sp&jobPos=4",
+      "time": "2026-10-27T06:15:30.585Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ERP League",
+      "title": "Part Time HRBP",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoXuiz9oAAAACZl75QgATAQEBBgixwys3YL3gigHg5w-VPAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoXuiz9oAAAACZl75QgATAQEBBgixwys3YL3gigHg5w-VPAAA&from=page-two-signin",
+      "time": "2026-10-27T06:36:54.637Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4560,
+  "totalVerifiedInHistory": 4566,
   "portalBreakdown": {
-    "iimjobs": 645,
-    "naukri": 1020,
+    "iimjobs": 648,
+    "naukri": 1022,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 80,
+    "indeed": 81,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T05:41:19.002Z",
-  "lastUpdated": "27/10/2026, 11:11:19 am"
+  "lastSyncedAt": "2026-10-27T06:36:54.718Z",
+  "lastUpdated": "27/10/2026, 12:06:54 pm"
 }
