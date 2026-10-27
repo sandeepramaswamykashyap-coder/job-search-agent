@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4576,
+  "applicationsSubmitted": 4582,
   "appliedRolesList": [
-    {
-      "company": "Altimetrik",
-      "title": "Claude Information Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-claude-information-manager-orcapod-consulting-services-bengaluru-8-to-12-years-141026036144?src=directSearch&sid=17919837289263891&xp=1&px=1",
-      "time": "2026-10-14T13:15:43.173Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Naukri Assist",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-naukri-assist-noida-bengaluru-15-to-20-years-141026024293?src=directSearch&sid=17919837597007578&xp=3&px=1",
-      "time": "2026-10-14T13:16:17.230Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Talent Bridge",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-talentbridge-bengaluru-8-to-13-years-141026021135?src=directSearch&sid=17919837597007578&xp=11&px=1",
-      "time": "2026-10-14T13:16:35.547Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Technology Sector (Semi Conductor) - Strategic Transformation Leader",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technology-sector-semi-conductor-strategic-transformation-leader-ernst-young-llp-bengaluru-3-to-8-years-141026933388?src=directSearch&sid=17919838310093259&xp=2&px=1",
-      "time": "2026-10-14T13:17:28.659Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Manager- Organization and Workforce Transformation (OWT)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-organization-and-workforce-transformation-owt-ernst-young-llp-bengaluru-12-to-16-years-141026933896?src=directSearch&sid=17919838310093259&xp=11&px=1",
-      "time": "2026-10-14T13:17:53.523Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "EY - S And O - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ey-s-and-o-manager-ernst-young-llp-bengaluru-8-to-12-years-141026931020?src=directSearch&sid=17919838310093259&xp=12&px=1",
-      "time": "2026-10-14T13:18:05.199Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Leading Client",
       "title": "VP - HRO Transformation",
@@ -4001,6 +3953,54 @@
       "url": "https://www.iimjobs.com/j/assistant-manager-manager-financial-reporting-insurance-1742261?ref=sp&jobPos=3",
       "time": "2026-10-27T12:35:06.930Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte Shared Services India",
+      "title": "Technical Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-deloitte-shared-services-india-bengaluru-delhi-ncr-mumbai-all-areas-12-to-20-years-271026024287?src=directSearch&sid=17931061811253963&xp=10&px=1",
+      "time": "2026-10-27T13:03:31.989Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Utthunga Technologies",
+      "title": "HR Operation Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hr-operation-manager-utthunga-technologies-pvt-ltd-bengaluru-8-to-12-years-271026021758?src=directSearch&sid=17931063701135481&xp=11&px=1",
+      "time": "2026-10-27T13:06:27.815Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "KEC International - Manager/Senior Manager - Human Resources",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/kec-international-manager-senior-manager-human-resources-1742285?ref=sp_br_prm&jobPos=6",
+      "time": "2026-10-27T13:07:46.241Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "inMorphis - Client Partner - ServiceNow",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/inmorphis-client-partner-servicenow-1742280?ref=sp&jobPos=3",
+      "time": "2026-10-27T13:08:34.270Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "inMorphis - Enterprise Solution Architect - ServiceNow GRC/IRM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/inmorphis-enterprise-solution-architect-servicenow-grc-irm-1742278?ref=sp&jobPos=4",
+      "time": "2026-10-27T13:08:40.845Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Delhivery - Director - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/delhivery-director-operations-1742276?ref=sp_br&jobPos=2",
+      "time": "2026-10-27T13:08:51.226Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4576,
+  "totalVerifiedInHistory": 4582,
   "portalBreakdown": {
-    "iimjobs": 654,
-    "naukri": 1026,
+    "iimjobs": 658,
+    "naukri": 1028,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 81,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T12:35:06.980Z",
-  "lastUpdated": "27/10/2026, 6:05:06 pm"
+  "lastSyncedAt": "2026-10-27T13:08:51.271Z",
+  "lastUpdated": "27/10/2026, 6:38:51 pm"
 }
