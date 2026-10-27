@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4582,
+  "applicationsSubmitted": 4583,
   "appliedRolesList": [
-    {
-      "company": "Leading Client",
-      "title": "VP - HRO Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vp-hro-transformation-golden-opportunities-pvt-ltd-pune-chennai-bengaluru-24-to-26-years-141026916070?src=directSearch&sid=17919838310093259&xp=13&px=1",
-      "time": "2026-10-14T13:18:16.770Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Bounteous",
       "title": "Director, Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/delhivery-director-operations-1742276?ref=sp_br&jobPos=2",
       "time": "2026-10-27T13:08:51.226Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Senior Manager - Q2C Delivery Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-q2c-delivery-leader-golden-opportunities-pvt-ltd-bengaluru-15-to-22-years-271026927027?src=directSearch&sid=17931081690662183&xp=9&px=1",
+      "time": "2026-10-27T13:36:42.879Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4582,
+  "totalVerifiedInHistory": 4583,
   "portalBreakdown": {
     "iimjobs": 658,
-    "naukri": 1028,
+    "naukri": 1029,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 81,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T13:08:51.271Z",
-  "lastUpdated": "27/10/2026, 6:38:51 pm"
+  "lastSyncedAt": "2026-10-27T13:36:42.926Z",
+  "lastUpdated": "27/10/2026, 7:06:42 pm"
 }
