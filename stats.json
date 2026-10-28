@@ -1,79 +1,7 @@
 {
-  "jobsScanned": 24881,
-  "applicationsSubmitted": 35,
+  "jobsScanned": 25056,
+  "applicationsSubmitted": 4792,
   "appliedRolesList": [
-    {
-      "company": "Capgemini",
-      "title": "SAP LeanIX Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-leanix-lead-capgemini-technology-services-india-limited-mumbai-gandhinagar-bengaluru-bengaluru-gandhinagar-mumbai-8-to-13-years-191026910888?src=directSearch&sid=17924191774442360&xp=7&px=1",
-      "time": "2026-10-19T14:13:33.242Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "m360 Research",
-      "title": "Project Assistant Supervisor",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoVZD8rcAAAACZfOxAQAIAQAGgo_aRxgAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoVZD8rcAAAACZfOxAQAIAQAGgo_aRxgAAA&from=page-two-signin",
-      "time": "2026-10-19T23:30:34.859Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Hitachi Energy",
-      "title": "AI Platform Services Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-platform-services-manager-hitachi-energy-india-limited-bengaluru-bengaluru-10-to-15-years-191026911061?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T03:20:43.829Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Corenza",
-      "title": "Chief Technology Officer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-chief-technology-officer-corenza-bengaluru-16-to-20-years-161026013873?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T03:24:22.719Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "SG Lottery India",
-      "title": "Senior Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-project-manager-sg-india-bengaluru-17-to-23-years-191026018654?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T03:25:04.377Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Careernet",
-      "title": "Cloud Migration Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-cloud-migration-project-manager-careernet-hyderabad-chennai-bengaluru-10-to-17-years-191026014629?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T04:42:23.793Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Job Seeks 4U Consultancy Services",
-      "title": "Hiring For Technical Project Manager - RPA, AI/ML - Bangalore & Pune !",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-for-technical-project-manager-rpa-ai-ml-bangalore-pune-seeks-4u-consultancy-services-pune-bengaluru-14-to-20-years-191026006881?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T04:43:38.772Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Firstsource",
-      "title": "Technical Program Manager (MarTech)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-martech-firstsource-hyderabad-10-to-15-years-191026006697?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T13:27:55.036Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CGI",
-      "title": "Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-cgi-bengaluru-10-to-18-years-151026030877?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T13:29:06.868Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Fractal Analytics",
       "title": "Sr. Technical Project Manager- 10+ years- India",
@@ -4003,25 +3931,76 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T21:21:47.661Z"
+      "company": "The Organic World",
+      "title": "Head of Ecommerce\nHead of Ecommerce",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:42:13.888Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T21:21:47.674Z"
+      "company": "Wells Fargo",
+      "title": "CIB Business Enablement Senior Manager\nCIB Business Enablement Senior Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476571121&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:43:01.324Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T21:21:47.683Z"
+      "company": "Mirafra Technologies",
+      "title": "DFT Practice Head\nDFT Practice Head with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:43:48.284Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Visa",
+      "title": "Senior Manager, Ecosystem Risk\nSenior Manager, Ecosystem Risk with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476571121&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:44:35.294Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "AARJAVAM POLYSQUARE PVT LTD (APPL)",
+      "title": "Customer Relations Manager\nCustomer Relations Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:45:22.867Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ZEISS India",
+      "title": "Program Manager\nProgram Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476571121&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:46:10.161Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Hey Sakhi",
+      "title": "Head of Growth\nHead of Growth",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477508514&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:47:10.383Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nordson Corporation",
+      "title": "Senior Manager, Program Management\nSenior Manager, Program Management with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475431487&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:47:58.963Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Vedak: Expert Network",
+      "title": "Client Services Manager\nClient Services Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477508514&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T21:48:49.025Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4783,
+  "totalVerifiedInHistory": 4792,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1050,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 178
+    "linkedin_easy_apply": 187
   },
-  "lastSyncedAt": "2026-10-28T21:21:13.021Z",
-  "lastUpdated": "29/10/2026, 2:51:13 am"
+  "lastSyncedAt": "2026-10-28T21:49:18.322Z",
+  "lastUpdated": "29/10/2026, 3:19:18 am"
 }
