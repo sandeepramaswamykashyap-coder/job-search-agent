@@ -1,143 +1,7 @@
 {
-  "jobsScanned": 20908,
-  "applicationsSubmitted": 4721,
+  "jobsScanned": 21076,
+  "applicationsSubmitted": 157,
   "appliedRolesList": [
-    {
-      "company": "Tan90 Thermal",
-      "title": "Head Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-operations-tan90-thermal-bengaluru-15-to-24-years-161026024690?src=directSearch&sid=17921529788781050&xp=8&px=1",
-      "time": "2026-10-16T12:16:39.827Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Financial Planning & Analysis - NBFC",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-financial-planning-and-analysis-nbfc-1740431?ref=sp&jobPos=10",
-      "time": "2026-10-16T12:21:57.703Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Enterprise Risk Management - NBFC",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-enterprise-risk-management-nbfc-1740424?ref=sp&jobPos=11",
-      "time": "2026-10-16T12:22:03.883Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sigma Allied Services",
-      "title": "Sr AI Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-ai-engineer-sigma-allied-services-bengaluru-5-to-10-years-220726003775?src=directSearch&sid=17921551172508404&xp=9&px=1",
-      "time": "2026-10-16T12:52:24.701Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Manufacturing Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-manufacturing-operations-1740438?ref=sp&jobPos=13",
-      "time": "2026-10-16T12:54:56.196Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Global It Family",
-      "title": "Technical Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-global-it-family-bengaluru-10-to-20-years-161026025852?src=directSearch&sid=17921570495679112&xp=5&px=1",
-      "time": "2026-10-16T13:24:30.129Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "MNC Company",
-      "title": "Senior Director  Operations | US TITLE Insurance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-director-operations-us-title-insurance-delights-bengaluru-15-to-24-years-161026026323?src=directSearch&sid=17921571088973080&xp=8&px=1",
-      "time": "2026-10-16T13:25:33.104Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Aeoru - Senior Project Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/aeoru-senior-project-manager-1740448?ref=sp_prm&jobPos=2",
-      "time": "2026-10-16T13:28:24.614Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Brand Partnerships - Advertising",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-brand-partnerships-advertising-1740443?ref=sp&jobPos=3",
-      "time": "2026-10-16T13:29:24.520Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EOS",
-      "title": "AV & Network Infrastructure Program Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoURDQwYAAAACZamvdgAKAQABqULraIRaaAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoURDQwYAAAACZamvdgAKAQABqULraIRaaAAA&from=page-two-signin",
-      "time": "2026-10-16T15:28:01.881Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "AtkinsRéalis",
-      "title": "Lead - HR Service Delivery",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUWTXOcAAAACZcuizAAQAQEBBgOdYBTtKdCFOTXvdAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUWTXOcAAAACZcuizAAQAQEBBgOdYBTtKdCFOTXvdAAA&from=page-two-signin",
-      "time": "2026-10-16T18:08:56.558Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "GitLab",
-      "title": "Technical Program Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUWRdicAAAACZamvdgALAQBtDP8Q82Mh1SoAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUWRdicAAAACZamvdgALAQBtDP8Q82Mh1SoAAA&from=page-two-signin",
-      "time": "2026-10-16T18:47:34.165Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Operations Excellence Consultant - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/operations-excellence-consultant-operations-1737236?ref=sp&jobPos=15",
-      "time": "2026-10-16T19:38:10.246Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Reliance Retail",
-      "title": "Walk-in || Hiring Department Managers@ Reliance Jewels , Jayanagar",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-department-managers-reliance-jewels-jayanagar-reliance-retail-bengaluru-3-to-8-years-141026011430",
-      "time": "2026-10-16T22:55:22.898Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Layam",
-      "title": "Section Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-section-head-layam-bengaluru-15-to-24-years-220726005617?src=directSearch&sid=17921952576256665&xp=12&px=1",
-      "time": "2026-10-17T00:01:12.098Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Salesforce Technical Architect - Consumer Goods Cloud",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-salesforce-technical-architect-consumer-goods-cloud-salesforce-hyderabad-pune-bengaluru-8-to-13-years-141026036160",
-      "time": "2026-10-17T00:02:17.656Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "Consultant, Data Engineering",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-consultant-data-engineering-dell-inc-bengaluru-12-to-15-years-161026027626?src=directSearch&sid=17922010580744304&xp=7&px=1",
-      "time": "2026-10-17T01:38:02.350Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Maveric",
       "title": "Project Manager - Onsite To Bahrain",
@@ -4001,6 +3865,170 @@
       "url": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
       "time": "2026-10-28T13:38:17.298Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Accounts Payable - Compute",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/dceb6d3d-65a7-4676-8d24-f0cf45776ef0",
+      "time": "2026-10-28T13:39:44.265Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Supplier MDM Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/395e9fe2-4d78-42dd-b3f7-603884915a59",
+      "time": "2026-10-28T13:40:47.407Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Account Manager, Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
+      "time": "2026-10-28T13:41:22.156Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations | General Builder (All Levels)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285",
+      "time": "2026-10-28T13:41:53.015Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Senior Manager, Support Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/2b5e1ac5-9709-4280-9ceb-51bff95328e3",
+      "time": "2026-10-28T13:42:46.685Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Partnerships Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/36b52143-1ed2-4e60-89c4-84e09d856658",
+      "time": "2026-10-28T13:43:17.956Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Internal Communications",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/deepgram/c79a2b89-5309-4af5-8cf4-ab8454a2ecbc",
+      "time": "2026-10-28T13:43:49.900Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Order Management Operations & Automation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/c4575cc8-ed78-47d7-8b53-637402e77d8d",
+      "time": "2026-10-28T13:44:17.522Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior manager, lifecycle & audience marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/bc619666-6bb6-4792-abd9-25131a58fda1",
+      "time": "2026-10-28T13:49:56.540Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Senior Manager, IT Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/b699e12d-06b5-48d4-b8fd-273696757b96",
+      "time": "2026-10-28T13:50:27.064Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Product Operations Specialist",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/a063f469-1ec5-44d1-8cc5-1da47a7b8783",
+      "time": "2026-10-28T13:51:04.382Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior RPA Developer",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/7eb9a1c3-a53e-4052-8ba8-da517476c929",
+      "time": "2026-10-28T13:51:39.815Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Global Marketing Automation & Marketo Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/1fc60bea-29b9-47c6-b325-ea4e404c2195",
+      "time": "2026-10-28T13:52:18.519Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Manager, ABM & Executive Programs – APJ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/c075a845-7bb3-4073-a6cd-f6d57781bf30",
+      "time": "2026-10-28T13:52:52.844Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Sales Engineer (Agentic AI Automation)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/400d1870-c403-4ec4-a165-7b054d0c7397",
+      "time": "2026-10-28T13:53:30.646Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Developer Advocacy (NAMER)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7",
+      "time": "2026-10-28T13:54:37.781Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alloy",
+      "title": "Senior Manager, GTM Systems",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/alloy/91a6d9c6-89d4-4d01-af29-b3f133fdfb9c",
+      "time": "2026-10-28T13:55:14.544Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-10-28T13:55:20.874Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-28T13:55:20.884Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-28T13:55:20.894Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-28T13:55:20.901Z"
     }
   ],
   "failures": [
@@ -4703,7 +4731,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4721,
+  "totalVerifiedInHistory": 4738,
   "portalBreakdown": {
     "iimjobs": 674,
     "naukri": 1041,
@@ -4716,7 +4744,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 572,
+    "direct_portal_ashby": 589,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4752,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:38:17.360Z",
-  "lastUpdated": "28/10/2026, 7:08:17 pm"
+  "lastSyncedAt": "2026-10-28T13:55:14.610Z",
+  "lastUpdated": "28/10/2026, 7:25:14 pm"
 }
