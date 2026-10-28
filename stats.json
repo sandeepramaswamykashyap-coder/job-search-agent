@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4591,
+  "applicationsSubmitted": 4592,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "WFM - Workforce Software (WFS) - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-wfm-workforce-software-wfs-manager-ernst-young-llp-bengaluru-12-to-16-years-141026933533?src=directSearch&sid=17919840933651742&xp=5&px=1",
-      "time": "2026-10-14T13:22:02.509Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "RC-REGULATORY COMPLIANCE-CSV - MES -Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/head-digital-hr-transformation-hr-consulting-1742426?ref=sp&jobPos=3",
       "time": "2026-10-28T06:38:55.685Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Digital HR Transformation Role",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/digital-hr-transformation-role-1740530?ref=sp&jobPos=15",
+      "time": "2026-10-28T07:45:53.235Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4591,
+  "totalVerifiedInHistory": 4592,
   "portalBreakdown": {
-    "iimjobs": 662,
+    "iimjobs": 663,
     "naukri": 1032,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T06:38:55.736Z",
-  "lastUpdated": "28/10/2026, 12:08:55 pm"
+  "lastSyncedAt": "2026-10-28T07:45:53.285Z",
+  "lastUpdated": "28/10/2026, 1:15:53 pm"
 }
