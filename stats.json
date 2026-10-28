@@ -1,143 +1,7 @@
 {
-  "jobsScanned": 20887,
-  "applicationsSubmitted": 4596,
+  "jobsScanned": 20894,
+  "applicationsSubmitted": 4613,
   "appliedRolesList": [
-    {
-      "company": "Popo Ventures",
-      "title": "Head Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-operations-popo-ventures-bengaluru-10-to-12-years-141026036029?src=directSearch&sid=17919860728127540&xp=7&px=1",
-      "time": "2026-10-14T13:55:08.507Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior - Finacle Techno-Functional",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-finacle-techno-functional-ernst-young-llp-bengaluru-5-to-10-years-141026931464?src=directSearch&sid=1791986112118327&xp=1&px=1",
-      "time": "2026-10-14T13:55:26.136Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior - Fraud and Financial Crime",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-fraud-and-financial-crime-ernst-young-llp-bengaluru-6-to-11-years-141026928854?src=directSearch&sid=1791986112118327&xp=6&px=1",
-      "time": "2026-10-14T13:55:37.818Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Digi SC-Planning-Kinaxis-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-digi-sc-planning-kinaxis-manager-ernst-young-llp-bengaluru-8-to-13-years-141026928813?src=directSearch&sid=1791986112118327&xp=11&px=1",
-      "time": "2026-10-14T13:55:52.759Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Wesprime  Business Solutions Pvt Ltd",
-      "title": "Project Manager - odoo ERP",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-odoo-erp-wesprime-business-solutions-pvt-ltd-ernakulam-kozhikode-bengaluru-7-to-11-years-141026021575?src=directSearch&sid=1791986112118327&xp=12&px=1",
-      "time": "2026-10-14T13:56:04.321Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Supervising Associate - Resource Management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-supervising-associate-resource-management-ernst-young-llp-bengaluru-12-to-14-years-141026933966?src=directSearch&sid=17919861676337456&xp=4&px=1",
-      "time": "2026-10-14T13:56:25.128Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Orcapod Consulting Services",
-      "title": "Delivery Lead/ Delivery Manager, Tech Staffing _Remote",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-lead-delivery-manager-tech-staffing-remote-orcapod-consulting-services-bengaluru-8-to-12-years-300326009049?src=directSearch&sid=17919862049054215&xp=12&px=1",
-      "time": "2026-10-14T13:57:02.594Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Temporal",
-      "title": "Director, Marketing Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/09192de4-81c0-4da5-b632-e240637bf02b",
-      "time": "2026-10-14T14:22:28.824Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Temporal",
-      "title": "Director, Marketing Operations",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/09192de4-81c0-4da5-b632-e240637bf02b",
-      "time": "2026-10-14T14:22:29.123Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Temporal",
-      "title": "Senior Manager, Global Deal Desk",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
-      "time": "2026-10-14T14:22:52.621Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Temporal",
-      "title": "Senior Manager, Global Deal Desk",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
-      "time": "2026-10-14T14:22:52.901Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "BCD Travel",
-      "title": "Director, Service Delivery, Asia Pacific",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=16bf9d8848d2a3c2",
-      "time": "2026-10-14T16:42:37.136Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "Principal Consultant",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0ZuOUAAAACZamvdgANAQAD_r8E81DT8NlJeAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0ZuOUAAAACZamvdgANAQAD_r8E81DT8NlJeAAA&from=page-two-signin",
-      "time": "2026-10-14T16:47:29.721Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cvent",
-      "title": "Senior Product Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoS0V60sAAAACZZghEwAQAQEBBgO_7nCCAR4T2emewAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoS0V60sAAAACZZghEwAQAQEBBgO_7nCCAR4T2emewAAA&from=page-two-signin",
-      "time": "2026-10-14T23:47:35.586Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Mphasis",
-      "title": "Application Solution Risk Review Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-application-solution-risk-review-lead-mphasis-bengaluru-15-to-20-years-081026015702",
-      "time": "2026-10-15T03:35:56.707Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Compliance Engineering - Solution Architect- Sr Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-compliance-engineering-solution-architect-sr-manager-ernst-young-llp-bengaluru-14-to-19-years-141026933923?src=directSearch&sid=1792035382630647&xp=5&px=1",
-      "time": "2026-10-15T03:36:43.486Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cargill",
-      "title": "Senior Consultant, Data & Analytics Reporting",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-consultant-data-analytics-reporting-cargill-business-services-india-private-limited-bengaluru-9-to-14-years-141026927509?src=directSearch&sid=17920354934779136&xp=1&px=1",
-      "time": "2026-10-15T03:38:53.429Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "EY - GDS Consulting - AI and DATA - Kafka Engineer - Manager",
@@ -4001,6 +3865,142 @@
       "url": "https://www.naukri.com/job-listings-sap-program-manager-infosys-limited-bengaluru-18-to-20-years-281026914143?src=directSearch&sid=17931929505584608&xp=3&px=1",
       "time": "2026-10-28T13:10:02.361Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Netlify",
+      "title": "Senior Marketing Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
+      "time": "2026-10-28T13:25:34.244Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Storyblok",
+      "title": "Marketing Automation Manager - Canada, Spain, India",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
+      "time": "2026-10-28T13:25:34.556Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Data Program Manager, Human Data",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213",
+      "time": "2026-10-28T13:26:09.734Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategy & Operations Lead — SEA & ANZ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/b1a5980d-1c52-4af5-8596-5951b584ca37",
+      "time": "2026-10-28T13:26:10.559Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Cyber",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e8cb6c67-0b73-4be8-a35c-775c99c1c638",
+      "time": "2026-10-28T13:26:15.036Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Financial Services Industry - Japan",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/570df8ac-dacb-4686-b59c-ef48eed0580c",
+      "time": "2026-10-28T13:26:15.762Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "GRC Technical Program Manager, Product Lifecycle Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
+      "time": "2026-10-28T13:26:28.007Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, Technology Capital Builds",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6351bb6b-992d-4c4e-983d-612d91ede046",
+      "time": "2026-10-28T13:26:28.402Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Financial Services",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/24ade569-b2eb-4879-b6d3-82407ac0efe7",
+      "time": "2026-10-28T13:26:31.636Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Operations Analyst, User Safety & Risk Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3",
+      "time": "2026-10-28T13:26:32.836Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategic Delivery Lead, Cyber",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/125db0ea-d5e1-4c49-bc1a-e6ffc8ea71ff",
+      "time": "2026-10-28T13:27:15.844Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, Government Trusted Access",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/f9c64ecf-d52a-44f0-9d9f-99575ae80d7f",
+      "time": "2026-10-28T13:27:19.626Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Global Programs — Applied AI Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/cd3c9c99-9527-4ba2-bea7-9f8f4892bc62",
+      "time": "2026-10-28T13:27:21.671Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategic Delivery Lead, Federal Civilian & State and Local Government",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2475c6c9-97c1-461b-8c73-0b9ce993860a",
+      "time": "2026-10-28T13:27:32.155Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Data Program Manager, Science",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2bdd1b8b-2883-40fb-b006-583959ad4c5f",
+      "time": "2026-10-28T13:27:33.821Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Pricing Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/9911c8fc-4cff-4d6b-9a11-07114ef0f6bf",
+      "time": "2026-10-28T13:27:36.848Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "UK Head of Strategic Engagement & Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e0f50751-123c-4200-adf2-aada78c3a6bb",
+      "time": "2026-10-28T13:27:53.217Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4668,14 +4668,46 @@
       "region": "Worldwide",
       "portal": "weworkremotely",
       "scannedAt": "2026-09-23T07:32:52.167Z"
+    },
+    {
+      "title": "Senior Marketing Operations Manager",
+      "company": "Netlify",
+      "link": "https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-10-28T13:25:34.243Z"
+    },
+    {
+      "title": "Marketing Automation Manager - Canada, Spain, India",
+      "company": "Storyblok",
+      "link": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-10-28T13:25:34.556Z"
+    },
+    {
+      "title": "Project Manager",
+      "company": "Spiralyze",
+      "link": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "region": "Worldwide",
+      "portal": "remoteok",
+      "scannedAt": "2026-10-28T13:25:34.856Z"
+    },
+    {
+      "title": "Senior QA Automation Engineer",
+      "company": "Proxify",
+      "link": "https://www.workingnomads.com/job/go/1925594/",
+      "region": "Time zone: CET (+/- 3 hours)",
+      "portal": "workingnomads",
+      "scannedAt": "2026-10-28T13:25:34.869Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4596,
+  "totalVerifiedInHistory": 4613,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1034,
-    "weworkremotely": 13,
+    "weworkremotely": 15,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
     "direct_portal_generic": 14,
@@ -4684,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 465,
+    "direct_portal_ashby": 480,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4692,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:10:02.405Z",
-  "lastUpdated": "28/10/2026, 6:40:02 pm"
+  "lastSyncedAt": "2026-10-28T13:27:53.335Z",
+  "lastUpdated": "28/10/2026, 6:57:53 pm"
 }
