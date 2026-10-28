@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 26183,
-  "applicationsSubmitted": 54,
+  "jobsScanned": 26190,
+  "applicationsSubmitted": 4803,
   "appliedRolesList": [
-    {
-      "company": "Omnicom Global Solutions",
-      "title": "CMS Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-cms-project-manager-omnicom-global-solutions-bengaluru-7-to-12-years-020926021634?src=directSearch&sid=17925416709055425&xp=12&px=1",
-      "time": "2026-10-21T00:15:11.125Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Capgemini",
       "title": "SAP WFS Professional",
@@ -4003,25 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T23:51:19.158Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T23:51:19.167Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T23:51:19.174Z"
+      "company": "Oaknorth",
+      "title": "Director, Credit Risk ���  Cash Flow Lending",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/4a592a46-80c2-4484-a76f-44cef33e7e4e",
+      "time": "2026-10-28T23:55:58.691Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4802,
+  "totalVerifiedInHistory": 4803,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1051,
@@ -4737,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 593,
+    "direct_portal_ashby": 594,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 196
   },
-  "lastSyncedAt": "2026-10-28T23:51:11.287Z",
-  "lastUpdated": "29/10/2026, 5:21:11 am"
+  "lastSyncedAt": "2026-10-28T23:55:58.778Z",
+  "lastUpdated": "29/10/2026, 5:25:58 am"
 }
