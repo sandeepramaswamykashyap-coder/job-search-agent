@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 25245,
-  "applicationsSubmitted": 45,
+  "jobsScanned": 25315,
+  "applicationsSubmitted": 4793,
   "appliedRolesList": [
     {
       "company": "NVT Quality Lifestyle Estate",
@@ -4001,27 +4001,6 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472964568&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
       "time": "2026-10-28T21:50:00.968Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T22:00:33.056Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T22:00:33.068Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T22:00:33.077Z"
     }
   ],
   "failures": [
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 188
   },
-  "lastSyncedAt": "2026-10-28T22:00:17.854Z",
-  "lastUpdated": "29/10/2026, 3:30:17 am"
+  "lastSyncedAt": "2026-10-28T22:18:26.941Z",
+  "lastUpdated": "29/10/2026, 3:48:26 am"
 }
