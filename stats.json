@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4590,
+  "applicationsSubmitted": 4591,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "BCM-FINACLE-Techno Functional-Manager-GDSF02",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-bcm-finacle-techno-functional-manager-gdsf02-ernst-young-llp-bengaluru-8-to-13-years-141026931013?src=directSearch&sid=17919840933651742&xp=2&px=1",
-      "time": "2026-10-14T13:21:50.796Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "WFM - Workforce Software (WFS) - Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/senior-business-consultant-organizational-change-management-1742329?ref=sp_prm&jobPos=1",
       "time": "2026-10-28T04:23:56.278Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Digital HR Transformation - HR Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-digital-hr-transformation-hr-consulting-1742426?ref=sp&jobPos=3",
+      "time": "2026-10-28T06:38:55.685Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,9 +4671,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4590,
+  "totalVerifiedInHistory": 4591,
   "portalBreakdown": {
-    "iimjobs": 661,
+    "iimjobs": 662,
     "naukri": 1032,
     "weworkremotely": 13,
     "remoteok": 5,
@@ -4692,6 +4692,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T04:23:56.332Z",
-  "lastUpdated": "28/10/2026, 9:53:56 am"
+  "lastSyncedAt": "2026-10-28T06:38:55.736Z",
+  "lastUpdated": "28/10/2026, 12:08:55 pm"
 }
