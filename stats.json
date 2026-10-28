@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 22872,
-  "applicationsSubmitted": 168,
+  "jobsScanned": 22921,
+  "applicationsSubmitted": 4751,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "GenAI Business Strategy & Transformation Lead",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/genai-business-strategy-and-transformation-lead-1740545?ref=sp_prm&jobPos=9",
-      "time": "2026-10-18T06:42:57.945Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Travash Software Solutions - Director - Enterprise AI Adoption & Business Transf",
@@ -4003,25 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T17:29:36.995Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T17:29:37.006Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T17:29:37.015Z"
+      "company": "Uipath",
+      "title": "Principal Product Management, Governance (Identity & Auth)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/bd2f849d-7704-4911-9b1c-81d826b5742b",
+      "time": "2026-10-28T17:42:20.631Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4750,
+  "totalVerifiedInHistory": 4751,
   "portalBreakdown": {
     "iimjobs": 674,
     "naukri": 1050,
@@ -4737,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 591,
+    "direct_portal_ashby": 592,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T17:29:03.911Z",
-  "lastUpdated": "28/10/2026, 10:59:03 pm"
+  "lastSyncedAt": "2026-10-28T17:42:20.680Z",
+  "lastUpdated": "28/10/2026, 11:12:20 pm"
 }
