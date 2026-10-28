@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4632,
+  "applicationsSubmitted": 4639,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Operations Excellence - Retail",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-operations-excellence-retail-1739999?ref=sp&jobPos=9",
-      "time": "2026-10-15T05:49:54.828Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Finance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-finance-1740011?ref=sp&jobPos=15",
-      "time": "2026-10-15T06:22:13.291Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Learning Links Foundation",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-learning-links-foundation-new-delhi-navi-mumbai-bengaluru-4-to-9-years-151026014252?src=directSearch&sid=17920469865402379&xp=4&px=1",
-      "time": "2026-10-15T06:50:03.950Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Inknowtech",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-inknowtech-bengaluru-8-to-10-years-151026016450?src=directSearch&sid=17920469865402379&xp=11&px=1",
-      "time": "2026-10-15T06:50:15.714Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Andor Tech",
-      "title": "Automation Engineer",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-automation-engineer-andor-tech-bengaluru-7-to-18-years-151026015828?src=directSearch&sid=17920471025017740&xp=10&px=1",
-      "time": "2026-10-15T06:52:03.493Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager/AGM/DGM - Business Finance Manager - Financial Planning &",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-agm-dgm-business-finance-manager-financial-planning-and-analysis-bpo-ites-kpo-1740027?ref=sp&jobPos=4",
-      "time": "2026-10-15T06:54:31.350Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Biocon Biologics Limited",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-biocon-biologics-limited-bengaluru-14-to-17-years-141026028160?src=directSearch&sid=17920489088603775&xp=4&px=1",
-      "time": "2026-10-15T07:22:11.783Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - Corporate Finance",
@@ -4001,6 +3945,62 @@
       "url": "https://jobs.ashbyhq.com/perplexity/fd64d88c-823e-4329-b133-f09754e0f4b8",
       "time": "2026-10-28T13:29:29.061Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Billing Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/702c7eb8-9908-407f-bcb5-647a227819d6",
+      "time": "2026-10-28T13:29:32.146Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Global Workplace Business Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/c5dcc0db-7fdc-4e09-86c7-b6618400df16",
+      "time": "2026-10-28T13:29:32.505Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Director of Events and Experiences",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b",
+      "time": "2026-10-28T13:29:37.086Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+      "time": "2026-10-28T13:29:49.176Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Analyst Relations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a3f31e70-e948-44d0-8ce3-f16b2979ff52",
+      "time": "2026-10-28T13:29:50.427Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/d0fece15-9e53-4539-a975-360e1a6fd257",
+      "time": "2026-10-28T13:29:50.884Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - US",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
+      "time": "2026-10-28T13:29:55.378Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4632,
+  "totalVerifiedInHistory": 4639,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1036,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 497,
+    "direct_portal_ashby": 504,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:29:29.116Z",
-  "lastUpdated": "28/10/2026, 6:59:29 pm"
+  "lastSyncedAt": "2026-10-28T13:29:55.475Z",
+  "lastUpdated": "28/10/2026, 6:59:55 pm"
 }

@@ -29,7 +29,8 @@
     "newrelic",
     "sumologic",
     "pagerduty",
-    "dataiku"
+    "dataiku",
+    "ramp"
   ],
   "lever": [
     "anyscale",
@@ -79,7 +80,8 @@
     "knock",
     "sentry",
     "incident",
-    "clerk"
+    "clerk",
+    "alloy"
   ],
   "smartrecruiters": []
 }
