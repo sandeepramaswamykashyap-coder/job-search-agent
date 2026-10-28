@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 25315,
-  "applicationsSubmitted": 4793,
+  "jobsScanned": 25546,
+  "applicationsSubmitted": 46,
   "appliedRolesList": [
-    {
-      "company": "NVT Quality Lifestyle Estate",
-      "title": "Digital Transformation Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-digital-transformation-lead-nvt-quality-lifestyle-estate-bengaluru-5-to-8-years-201026010440?src=directSearch&sid=17925031462182775&xp=5&px=1",
-      "time": "2026-10-20T13:32:47.015Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Straive",
       "title": "Engagement Manager",
@@ -4001,6 +3993,35 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472964568&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
       "time": "2026-10-28T21:50:00.968Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Bold and Beyond",
+      "title": "Senior Public Relations Manager\nSenior Public Relations Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T22:22:51.575Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-28T22:42:27.551Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-28T22:42:27.558Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-28T22:42:27.565Z"
     }
   ],
   "failures": [
@@ -4703,7 +4724,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4793,
+  "totalVerifiedInHistory": 4794,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1050,
@@ -4722,8 +4743,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 188
+    "linkedin_easy_apply": 189
   },
-  "lastSyncedAt": "2026-10-28T22:18:26.941Z",
-  "lastUpdated": "29/10/2026, 3:48:26 am"
+  "lastSyncedAt": "2026-10-28T22:41:40.849Z",
+  "lastUpdated": "29/10/2026, 4:11:40 am"
 }
