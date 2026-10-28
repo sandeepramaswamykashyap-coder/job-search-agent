@@ -1,55 +1,7 @@
 {
-  "jobsScanned": 21377,
-  "applicationsSubmitted": 4741,
+  "jobsScanned": 21538,
+  "applicationsSubmitted": 4747,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Principal Officer - Fund Management - Investment Management - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/principal-officer-fund-management-investment-management-ca-1740471?ref=sp&jobPos=7",
-      "time": "2026-10-17T04:51:40.605Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Traya Health - Senior Product Manager - Consumer App",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/traya-health-senior-product-manager-consumer-app-1740480?ref=sp_br_prm&jobPos=10",
-      "time": "2026-10-17T05:10:33.342Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Deputy General Manager/General Manager - Security - Manufacturing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/deputy-general-manager-general-manager-security-manufacturing-1740508?ref=sp&jobPos=9",
-      "time": "2026-10-17T07:43:10.505Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Talent Acquisition - Real Estate/Infrastructure/Consult",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-talent-acquisition-real-estate-infrastructure-consulting-1740522?ref=sp&jobPos=10",
-      "time": "2026-10-17T08:42:46.527Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "JoVE",
-      "title": "Senior Marketing Operations Manager",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
-      "time": "2026-10-17T09:28:26.683Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Azim Premji Foundation",
-      "title": "Program Manager - Hospital Compliances & Regulations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-hospital-compliances-regulations-azim-premji-foundation-bengaluru-8-to-13-years-171026011901?src=directSearch&sid=17922337088444251&xp=8&px=1",
-      "time": "2026-10-17T10:42:09.835Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Genpact",
       "title": "Lead Senior Project Manager",
@@ -4001,6 +3953,54 @@
       "url": "https://www.naukri.com/job-listings-principal-consultant-finance-transformation-pmo-lead-10-years-crescendo-global-leadership-hiring-india-pune-bengaluru-9-to-14-years-281026007433?src=directSearch&sid=17931963046811639&xp=7&px=1",
       "time": "2026-10-28T14:05:47.863Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "Senior Manager, Engineering Methodology & Tools",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-engineering-methodology-tools-te-connectivity-india-private-limited-bengaluru-10-to-15-years-281026925396?src=directSearch&sid=17931982091218847&xp=5&px=1",
+      "time": "2026-10-28T14:37:17.764Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Data Lead / Business Consultant (Framing)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-data-lead-business-consultant-framing-capgemini-bengaluru-9-to-14-years-300926032720?src=directSearch&sid=17931984931205778&xp=8&px=1",
+      "time": "2026-10-28T14:41:56.945Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DMart",
+      "title": "Product Support Lead; Application support Lead,L3",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-product-support-lead-application-support-lead-l3-dmart-coimbatore-bengaluru-7-to-12-years-300926021221?src=directSearch&sid=17931984931205778&xp=9&px=1",
+      "time": "2026-10-28T14:42:08.464Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DMart",
+      "title": "Application Support Engineer,production support, lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-application-support-engineer-production-support-lead-dmart-coimbatore-bengaluru-7-to-12-years-300926020200?src=directSearch&sid=17931984931205778&xp=10&px=1",
+      "time": "2026-10-28T14:42:19.987Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Altimetrik",
+      "title": "Application Support Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-application-support-lead-altimetrik-bengaluru-8-to-13-years-300926018498?src=directSearch&sid=17931984931205778&xp=11&px=1",
+      "time": "2026-10-28T14:42:51.351Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/927e7c35-316f-43eb-bcf4-637c525c0d58",
+      "time": "2026-10-28T14:56:47.414Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4741,
+  "totalVerifiedInHistory": 4747,
   "portalBreakdown": {
     "iimjobs": 674,
-    "naukri": 1044,
+    "naukri": 1049,
     "weworkremotely": 15,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 589,
+    "direct_portal_ashby": 590,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T14:35:58.829Z",
-  "lastUpdated": "28/10/2026, 8:05:58 pm"
+  "lastSyncedAt": "2026-10-28T14:56:47.470Z",
+  "lastUpdated": "28/10/2026, 8:26:47 pm"
 }
