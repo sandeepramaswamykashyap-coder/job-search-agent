@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 24202,
-  "applicationsSubmitted": 14,
+  "jobsScanned": 24321,
+  "applicationsSubmitted": 4765,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "HR Strategy & Transformation Lead - Organization Development & Transformation -",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/hr-strategy-and-transformation-lead-organization-development-and-transformation-consulting-1740617?ref=sp&jobPos=17",
-      "time": "2026-10-19T07:59:46.793Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monks",
-      "title": "Operations Director",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=8896164b88f25e59",
-      "time": "2026-10-19T09:13:32.432Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Navi - Senior Product Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/1740650/screening?ref=sp_br&jobPos=16&pref=sp_br",
-      "time": "2026-10-19T10:28:37.142Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "BHIVE Workspace - Head - Revenue Operations",
@@ -4003,25 +3979,28 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T20:07:10.656Z"
+      "company": "Infosys",
+      "title": "Lead\nLead with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481282100&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T20:22:51.475Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T20:07:10.670Z"
+      "company": "Fresenius Medical Care",
+      "title": "Senior Project Manager\nSenior Project Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473119554&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T20:23:39.188Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T20:07:10.680Z"
+      "company": "FRND",
+      "title": "Associate Manager - Strategy and Operations\nAssociate Manager - Strategy and Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481282100&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T20:24:27.137Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4762,
+  "totalVerifiedInHistory": 4765,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1050,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 158
+    "linkedin_easy_apply": 161
   },
-  "lastSyncedAt": "2026-10-28T20:06:22.561Z",
-  "lastUpdated": "29/10/2026, 1:36:22 am"
+  "lastSyncedAt": "2026-10-28T20:24:58.612Z",
+  "lastUpdated": "29/10/2026, 1:54:58 am"
 }
