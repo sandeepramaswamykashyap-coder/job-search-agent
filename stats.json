@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 23838,
-  "applicationsSubmitted": 4752,
+  "jobsScanned": 23859,
+  "applicationsSubmitted": 4,
   "appliedRolesList": [
     {
       "company": "IIMJobs Verified Employer",
@@ -4001,6 +4001,27 @@
       "url": "https://www.iimjobs.com/j/senior-manager-product-management-mutual-funds-fintech-1742555?ref=sp_prm&jobPos=15",
       "time": "2026-10-28T18:52:53.110Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-28T19:28:50.024Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-28T19:28:50.037Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-28T19:28:50.046Z"
     }
   ],
   "failures": [
