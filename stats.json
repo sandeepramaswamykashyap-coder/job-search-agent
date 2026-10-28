@@ -1,63 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4685,
+  "applicationsSubmitted": 4692,
   "appliedRolesList": [
-    {
-      "company": "Pixxel",
-      "title": "Associate Manager - SAP Digital Transformation (SAP S4 Hana)",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUG1Y64AAAACZb5jdQAQAQABXyM3V6UuOHG4jZ04IgAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUG1Y64AAAACZb5jdQAQAQABXyM3V6UuOHG4jZ04IgAA&from=page-two-signin",
-      "time": "2026-10-16T02:23:07.266Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "AtkinsRéalis",
-      "title": "Lead Environmental Consultant - Sustainability Certification & Design Senior",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUG1Y64AAAACZb5jdQARAQAB1ngvJm5Qt13khtXyR7YAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUG1Y64AAAACZb5jdQARAQAB1ngvJm5Qt13khtXyR7YAAA&from=page-two-signin",
-      "time": "2026-10-16T03:31:03.168Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Talent Bridge",
-      "title": "GCC / BPO Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gcc-bpo-program-manager-talentbridge-bengaluru-9-to-14-years-161026007250?src=directSearch&sid=17921238700572001&xp=7&px=1",
-      "time": "2026-10-16T04:11:34.241Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deloitte Shared Services India",
-      "title": "VAPT - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vapt-manager-deloitte-shared-services-india-bengaluru-8-to-13-years-151026034051?src=directSearch&sid=17921258991855619&xp=13&px=1",
-      "time": "2026-10-16T04:45:36.594Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HCLTech",
-      "title": "Senior MLOps Technical Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-mlops-technical-lead-hcltech-hyderabad-chennai-bengaluru-7-to-10-years-141026040040",
-      "time": "2026-10-16T04:46:00.767Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Colt Technology Services",
-      "title": "Technical Lead, Network Transformation Engineering (OTN/DWDM)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-lead-network-transformation-engineering-otn-dwdm-colt-technology-services-gurugram-bengaluru-5-to-10-years-091026024252?src=directSearch&sid=1792125939860328&xp=6&px=1",
-      "time": "2026-10-16T04:46:12.471Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Synamedia",
-      "title": "Lead Technical Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-technical-project-manager-synamedia-bengaluru-7-to-12-years-290926019479?src=directSearch&sid=1792125939860328&xp=7&px=1",
-      "time": "2026-10-16T04:46:24.051Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Orcapod Consulting Services",
       "title": "SAP FI Lead",
@@ -4001,6 +3945,62 @@
       "url": "https://jobs.ashbyhq.com/oaknorth/0e711e1c-41de-4087-a529-f5038039861c",
       "time": "2026-10-28T13:33:54.215Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cargill",
+      "title": "Pricing Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-pricing-lead-cargill-business-services-india-private-limited-bengaluru-8-to-13-years-281026912459?src=directSearch&sid=17931943943017656&xp=4&px=1",
+      "time": "2026-10-28T13:33:59.945Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Strategic Program Manager, Focus Accounts (DACH Region)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/37f0bb92-7a1b-4862-8ed6-e6549c9aae8e",
+      "time": "2026-10-28T13:34:07.972Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Associate Vice President - Financial Planning & Analysis",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/968efde1-77d7-4d4b-9ece-0b75a3f0cdf6",
+      "time": "2026-10-28T13:34:10.620Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager II",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0d2219cc-57ea-4c9e-885d-215b2469304a",
+      "time": "2026-10-28T13:34:11.368Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Chief of Staff, GTM Americas",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/b76c09fa-8eed-4d65-90e1-9a22f1b9daf8",
+      "time": "2026-10-28T13:34:15.241Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Customer Advocacy Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/4c030729-793e-4d70-84c5-c824c62c31ce",
+      "time": "2026-10-28T13:34:26.069Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, EMEA Sales Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/b8e8ea05-cb08-4d30-9c5e-63339611719c",
+      "time": "2026-10-28T13:34:30.599Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4685,
+  "totalVerifiedInHistory": 4692,
   "portalBreakdown": {
     "iimjobs": 665,
-    "naukri": 1039,
+    "naukri": 1040,
     "weworkremotely": 15,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 547,
+    "direct_portal_ashby": 553,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:33:54.268Z",
-  "lastUpdated": "28/10/2026, 7:03:54 pm"
+  "lastSyncedAt": "2026-10-28T13:34:30.650Z",
+  "lastUpdated": "28/10/2026, 7:04:30 pm"
 }
