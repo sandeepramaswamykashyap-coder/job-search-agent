@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 22084,
-  "applicationsSubmitted": 4748,
+  "jobsScanned": 22112,
+  "applicationsSubmitted": 167,
   "appliedRolesList": [
     {
       "company": "Confidential",
@@ -4001,6 +4001,34 @@
       "url": "https://www.naukri.com/job-listings-staff-project-manager-engineer-te-connectivity-india-private-limited-bengaluru-12-to-15-years-281026925364?src=directSearch&sid=17932004944211166&xp=12&px=1",
       "time": "2026-10-28T15:15:42.058Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
+      "time": "2026-10-28T16:02:38.898Z"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-28T16:02:38.910Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-28T16:02:38.919Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-28T16:02:38.927Z"
     }
   ],
   "failures": [
