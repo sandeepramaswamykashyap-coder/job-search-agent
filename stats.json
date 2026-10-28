@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 25896,
-  "applicationsSubmitted": 54,
+  "jobsScanned": 26071,
+  "applicationsSubmitted": 4802,
   "appliedRolesList": [
     {
       "company": "Omnicom Global Solutions",
@@ -4001,27 +4001,6 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-28T23:02:02.071Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T23:15:23.524Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T23:15:23.537Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T23:15:23.546Z"
     }
   ],
   "failures": [
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 196
   },
-  "lastSyncedAt": "2026-10-28T23:14:45.885Z",
-  "lastUpdated": "29/10/2026, 4:44:45 am"
+  "lastSyncedAt": "2026-10-28T23:41:52.493Z",
+  "lastUpdated": "29/10/2026, 5:11:52 am"
 }
