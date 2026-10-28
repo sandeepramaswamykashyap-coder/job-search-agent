@@ -1,167 +1,7 @@
 {
-  "jobsScanned": 20894,
-  "applicationsSubmitted": 4692,
+  "jobsScanned": 20901,
+  "applicationsSubmitted": 4712,
   "appliedRolesList": [
-    {
-      "company": "Orcapod Consulting Services",
-      "title": "SAP FI Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-fi-lead-orcapod-consulting-services-bengaluru-6-to-11-years-290826006017?src=directSearch&sid=1792125939860328&xp=8&px=1",
-      "time": "2026-10-16T04:46:35.631Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Aspire Systems",
-      "title": "AI/ML Engineer - Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-ml-engineer-lead-aspire-systems-kochi-chennai-bengaluru-5-to-10-years-290726016779?src=directSearch&sid=1792125939860328&xp=9&px=1",
-      "time": "2026-10-16T04:46:47.204Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cloud Raptor",
-      "title": "Technical Recruiter Team Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-recruiter-team-lead-cloud-raptor-hyderabad-chennai-bengaluru-8-to-13-years-270826008550?src=directSearch&sid=1792125939860328&xp=10&px=1",
-      "time": "2026-10-16T04:46:58.856Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elpopulo Tech Solutions",
-      "title": "Operations Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operations-manager-elpopulo-tech-solutions-bengaluru-15-to-23-years-151026028826?src=directSearch&sid=17921260221094443&xp=2&px=1",
-      "time": "2026-10-16T04:47:16.283Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "AECOM",
-      "title": "Associate Director - Rail (Deputy Head)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-rail-deputy-head-aecom-india-private-limited-bengaluru-15-to-20-years-161026908413?src=directSearch&sid=17921260221094443&xp=6&px=1",
-      "time": "2026-10-16T04:47:27.911Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "BRANDSPHERE MARKETING SERVICES",
-      "title": "Leadership Hiring Consultant  (Executive Search)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-leadership-hiring-consultant-executive-search-brandsphere-marketing-services-bengaluru-10-to-18-years-141026018078?src=directSearch&sid=17921260221094443&xp=8&px=1",
-      "time": "2026-10-16T04:47:42.833Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "GSPANN - Technical Program Manager - Retail",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/gspann-technical-program-manager-retail-1740220?ref=sp_prm&jobPos=1",
-      "time": "2026-10-16T04:50:31.958Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Business Head - Gems and Jewellery - North & Central India Region",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/business-head-gems-and-jewellery-north-and-central-india-region-1740227?ref=sp&jobPos=17",
-      "time": "2026-10-16T04:50:52.615Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Deloitte - Consultant/Senior Consultant - Organization Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/deloitte-consultant-senior-consultant-organization-transformation-1740232?ref=sp_br_prm&jobPos=1",
-      "time": "2026-10-16T04:51:02.806Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Wealth Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/wealth-manager-1740219?ref=sp&jobPos=13",
-      "time": "2026-10-16T04:51:35.798Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "SCM & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/scm-and-operations-1740235?ref=sp&jobPos=17",
-      "time": "2026-10-16T05:14:06.612Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Program Management - Engineering/Manufacturing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-program-management-engineering-manufacturing-1740242?ref=sp&jobPos=4",
-      "time": "2026-10-16T05:14:43.875Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Medtronic - Senior Marketing Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/medtronic-senior-marketing-manager-1740256?ref=sp_prm&jobPos=2",
-      "time": "2026-10-16T05:46:38.246Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Warehouse Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-warehouse-operations-1740235?ref=sp&jobPos=12",
-      "time": "2026-10-16T05:47:07.609Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Metaphor Infotech Mumbai",
-      "title": "Operational Excellence Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operational-excellence-manager-metaphor-infotech-mumbai-bengaluru-10-to-14-years-151026031829?src=directSearch&sid=17921314903314441&xp=5&px=1",
-      "time": "2026-10-16T06:18:31.161Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Recruitment",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-recruitment-1740298?ref=sp&jobPos=15",
-      "time": "2026-10-16T06:54:31.373Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "William O Neil Co",
-      "title": "Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-william-o-neil-co-bengaluru-10-to-20-years-161026014474?src=directSearch&sid=1792135395572899&xp=7&px=1",
-      "time": "2026-10-16T07:23:36.328Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "BrandTouch & Analytics - - Head - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/brandtouch-and-analytics-head-operations-1740306?ref=sp_prm&jobPos=2",
-      "time": "2026-10-16T07:27:37.864Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Embarkgcc Services",
-      "title": "Senior Consultant Workflow Automation & Agentic AI Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-consultant-workflow-automation-agentic-ai-consultant-embarkgcc-services-hyderabad-pune-bengaluru-8-to-12-years-161026017394?src=directSearch&sid=17921414653116091&xp=11&px=1",
-      "time": "2026-10-16T09:04:56.953Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "LanceSoft",
-      "title": "SAC and BPC Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sac-and-bpc-manager-lancesoft-bengaluru-9-to-14-years-161026016346?src=directSearch&sid=17921455334819534&xp=6&px=1",
-      "time": "2026-10-16T10:12:37.661Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "AECOM",
       "title": "Senior Bid Manager",
@@ -4001,6 +3841,166 @@
       "url": "https://jobs.ashbyhq.com/temporal/b8e8ea05-cb08-4d30-9c5e-63339611719c",
       "time": "2026-10-28T13:34:30.599Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Recruise India Consulting",
+      "title": "Supervisor - Customer Service",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-supervisor-customer-service-recruise-india-consulting-bengaluru-10-to-15-years-281026016528?src=directSearch&sid=17931943943017656&xp=11&px=1",
+      "time": "2026-10-28T13:34:45.691Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Director of Events Management",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/924f6258-65b1-4292-8799-a7c55ea3b618",
+      "time": "2026-10-28T13:35:37.804Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Developer Velocity",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/ad958934-fd89-4033-8b13-1a4871d8073c",
+      "time": "2026-10-28T13:35:38.657Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Omega Healthcare - Head - Autonomous Operations - BPO",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/omega-healthcare-head-autonomous-operations-bpo-1742466?ref=sp&jobPos=12",
+      "time": "2026-10-28T13:35:44.323Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of Business Development, LATAM",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/3a24a9a2-47e1-427c-ac76-81b5c59b638b",
+      "time": "2026-10-28T13:35:45.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, Partner Content & Storytelling",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/609cb338-a168-42c1-8e77-5837826136b1",
+      "time": "2026-10-28T13:35:46.016Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategy & Operations Lead - Japan",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/f76d120b-7d1b-4e80-aaf8-5d2c6b38a7ca",
+      "time": "2026-10-28T13:35:54.146Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Onity Group - Vice President - AI/Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/onity-group-vice-president-ai-digital-transformation-1742568?ref=sp_br_prm&jobPos=5",
+      "time": "2026-10-28T13:35:54.822Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, National Security Policy Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/3228eed1-9cb3-4330-82c3-19fb3dbb4408",
+      "time": "2026-10-28T13:35:55.958Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IBM - Group Manager - PTP Transformation SME",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ibm-group-manager-ptp-transformation-sme-1742492?ref=sp_br&jobPos=14",
+      "time": "2026-10-28T13:36:01.849Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Natives | MENA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2d91e925-7d2d-4a7d-b824-70678ce9453e",
+      "time": "2026-10-28T13:36:02.621Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Service Design Program Manager, Support",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/98cdff28-940d-48e8-b1d7-a0df38dd16d8",
+      "time": "2026-10-28T13:36:03.716Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Unisys - Senior Manager - Organizational Change Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/unisys-senior-manager-organizational-change-management-1742499?ref=sp_br&jobPos=2",
+      "time": "2026-10-28T13:36:12.193Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Occupancy Planning & Workplace Strategy",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5280c9d2-8090-47d1-a881-1fec37c90e64",
+      "time": "2026-10-28T13:36:14.544Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Vice President - Strategic Change Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-strategic-change-management-1742506?ref=sp_br&jobPos=3",
+      "time": "2026-10-28T13:36:18.822Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Compensation Programs & Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/d1e4178d-8eb6-4727-9601-e230cb96eeee",
+      "time": "2026-10-28T13:36:21.295Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of Enterprise Risk Management",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/db40bc4f-c7fb-47d5-a7cc-918fb8b1f815",
+      "time": "2026-10-28T13:36:22.091Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of AI Deployment & Partner Delivery (Paris)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/49bf96b2-b60b-4959-abe8-bb6714812e68",
+      "time": "2026-10-28T13:36:27.766Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Product Marketing, Core Products",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/512beff1-52d2-4f35-941a-825ba09b71f2",
+      "time": "2026-10-28T13:36:39.620Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Product Marketing, GTM",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/200838d9-5ca0-4e6a-ac1d-ee0537853d5b",
+      "time": "2026-10-28T13:36:39.942Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4692,
+  "totalVerifiedInHistory": 4712,
   "portalBreakdown": {
-    "iimjobs": 665,
-    "naukri": 1040,
+    "iimjobs": 670,
+    "naukri": 1041,
     "weworkremotely": 15,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 553,
+    "direct_portal_ashby": 567,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:34:30.650Z",
-  "lastUpdated": "28/10/2026, 7:04:30 pm"
+  "lastSyncedAt": "2026-10-28T13:36:39.983Z",
+  "lastUpdated": "28/10/2026, 7:06:39 pm"
 }
