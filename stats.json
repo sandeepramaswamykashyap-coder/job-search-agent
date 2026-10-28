@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4594,
+  "applicationsSubmitted": 4596,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "SAP Scrum Master - Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-scrum-master-project-manager-ernst-young-llp-bengaluru-8-to-13-years-141026929148?src=directSearch&sid=17919860305159998&xp=11&px=1",
-      "time": "2026-10-14T13:54:29.616Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "IT Service Owner - EY Global Delivery Services",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-service-owner-ey-global-delivery-services-ernst-young-llp-bengaluru-9-to-12-years-141026931362?src=directSearch&sid=17919860728127540&xp=1&px=1",
-      "time": "2026-10-14T13:54:46.999Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Popo Ventures",
       "title": "Head Operations",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/head-digital-hr-transformation-1742426?ref=sp&jobPos=3",
       "time": "2026-10-28T08:19:29.550Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cargill",
+      "title": "AI Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-program-manager-cargill-business-services-india-private-limited-bengaluru-5-to-10-years-281026914220?src=directSearch&sid=17931929505584608&xp=2&px=1",
+      "time": "2026-10-28T13:09:50.621Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "SAP Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-program-manager-infosys-limited-bengaluru-18-to-20-years-281026914143?src=directSearch&sid=17931929505584608&xp=3&px=1",
+      "time": "2026-10-28T13:10:02.361Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4594,
+  "totalVerifiedInHistory": 4596,
   "portalBreakdown": {
     "iimjobs": 665,
-    "naukri": 1032,
+    "naukri": 1034,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4692,6 +4692,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T08:19:29.603Z",
-  "lastUpdated": "28/10/2026, 1:49:29 pm"
+  "lastSyncedAt": "2026-10-28T13:10:02.405Z",
+  "lastUpdated": "28/10/2026, 6:40:02 pm"
 }
