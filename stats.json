@@ -1,31 +1,7 @@
 {
   "jobsScanned": 20887,
-  "applicationsSubmitted": 4585,
+  "applicationsSubmitted": 4588,
   "appliedRolesList": [
-    {
-      "company": "Carnation Infotech",
-      "title": "ServiceNow Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-program-manager-carnation-infotech-bengaluru-9-to-14-years-141026031578?src=directSearch&sid=17919839713327151&xp=2&px=1",
-      "time": "2026-10-14T13:19:45.563Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "CT Managed Services SNOW Product Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ct-managed-services-snow-product-lead-ernst-young-llp-bengaluru-15-to-20-years-141026933912?src=directSearch&sid=17919839713327151&xp=10&px=1",
-      "time": "2026-10-14T13:20:07.097Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "FINANCE OPERATIONS-SCO-Proc-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-finance-operations-sco-proc-manager-ernst-young-llp-bengaluru-11-to-16-years-141026933859?src=directSearch&sid=17919839713327151&xp=11&px=1",
-      "time": "2026-10-14T13:20:18.676Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Wissen Technology",
       "title": "Intelligent Automation Engineer",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/delivery-excellence-partner-hro-bpo-1742306?ref=sp&jobPos=10",
       "time": "2026-10-27T16:25:04.012Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pearson",
+      "title": "VMS Product Manager / VMS Product Owner",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vms-product-manager-vms-product-owner-pearson-bengaluru-5-to-9-years-271026031816?src=directSearch&sid=17931570486992275&xp=5&px=1",
+      "time": "2026-10-28T03:11:06.324Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "Scrum Master / Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-scrum-master-project-manager-infosys-bengaluru-10-to-16-years-281026000056?src=directSearch&sid=17931571954479264&xp=10&px=1",
+      "time": "2026-10-28T03:13:49.661Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "McFadyen Digital",
+      "title": "Marketing Operations and Systems Manager - Remote",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoX6XDrMAAAACZmn2wQAQAQEBBgCRdZaoioO5FdMLOgAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoX6XDrMAAAACZmn2wQAQAQEBBgCRdZaoioO5FdMLOgAA&from=page-two-signin",
+      "time": "2026-10-28T03:37:37.165Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4671,10 +4671,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4585,
+  "totalVerifiedInHistory": 4588,
   "portalBreakdown": {
     "iimjobs": 660,
-    "naukri": 1029,
+    "naukri": 1031,
     "weworkremotely": 13,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4689,9 +4689,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 81,
+    "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-27T16:25:04.079Z",
-  "lastUpdated": "27/10/2026, 9:55:04 pm"
+  "lastSyncedAt": "2026-10-28T03:37:37.233Z",
+  "lastUpdated": "28/10/2026, 9:07:37 am"
 }
