@@ -1,87 +1,7 @@
 {
-  "jobsScanned": 23859,
-  "applicationsSubmitted": 4,
+  "jobsScanned": 24076,
+  "applicationsSubmitted": 4762,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - ICT Projects & Operations - Education/EdTech",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-ict-projects-and-operations-education-edtech-1740556?ref=sp&jobPos=17",
-      "time": "2026-10-18T08:22:13.470Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sigmoid",
-      "title": "Senior Analytics Manager (Immediate Joiners)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-analytics-manager-immediate-joiners-sigmoid-bengaluru-10-to-13-years-181026003877?src=directSearch&sid=1792323300895117&xp=6&px=1",
-      "time": "2026-10-18T11:35:18.513Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Confidential",
-      "title": "NPD Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUk0yZwAAAACZb5jdQAPAQAHKoKZnHw6tYGSTTjuAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUk0yZwAAAACZb5jdQAPAQAHKoKZnHw6tYGSTTjuAAA&from=page-two-signin",
-      "time": "2026-10-18T14:13:53.820Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "AECOM",
-      "title": "Associate Director- Energy(Primary Substation)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-energy-primary-substation-aecom-india-private-limited-bengaluru-15-to-20-years-151026930674?src=directSearch&sid=17923534406691926&xp=12&px=1",
-      "time": "2026-10-18T19:57:38.412Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "BCD",
-      "title": "Senior Manager- Information Security",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUgg_XQAAAACZZghEwASAQEBBi8ewqwLLY1Woc1XYq7SAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUgg_XQAAAACZZghEwASAQEBBi8ewqwLLY1Woc1XYq7SAAA&from=page-two-signin",
-      "time": "2026-10-19T01:34:34.691Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vice President - GenAI Strategy & Business Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vice-president-genai-strategy-and-business-transformation-1740571?ref=sp&jobPos=13",
-      "time": "2026-10-19T04:31:46.562Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager - Sales Transformation - FMCG",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-sales-transformation-fmcg-1740576?ref=sp&jobPos=9",
-      "time": "2026-10-19T04:32:01.333Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "MobiKwik - Senior Collections Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/mobikwik-senior-collections-manager-1740593?ref=sp_br_prm&jobPos=1",
-      "time": "2026-10-19T06:00:04.911Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Deputy Manager - Internal Audit - General & Technology Audit - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-deputy-manager-internal-audit-general-and-technology-audit-ca-1740596?ref=sp&jobPos=7",
-      "time": "2026-10-19T06:30:39.140Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Jabil - Technical Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=17&jobId=1740615&pref=sp",
-      "time": "2026-10-19T07:29:09.308Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "HR Strategy & Transformation Lead - Organization Development & Transformation -",
@@ -4003,25 +3923,84 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T19:28:50.024Z"
+      "company": "Diligent",
+      "title": "Delivery Manager\nDelivery Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:43:05.525Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T19:28:50.037Z"
+      "company": "Deluxe",
+      "title": "Senior Manager - Operations\nSenior Manager - Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:43:53.834Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T19:28:50.046Z"
+      "company": "HCLSoftware",
+      "title": "Senior Product Manager\nSenior Product Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:44:41.524Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Handshake",
+      "title": "Manager, Strategic Projects\nManager, Strategic Projects with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:45:28.889Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Black Box",
+      "title": "Senior Account Manager - BFSI\nSenior Account Manager - BFSI with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:46:16.448Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Senior Business Execution Consultant\nSenior Business Execution Consultant with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:47:03.426Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Manager – Business Operations\nManager – Business Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481282100&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:47:59.398Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Visa",
+      "title": "Senior Manager Program Management VCA X, Visa Consulting & Analytics\nSenior Manager Program Management VCA X, Visa Consulting & Analytics with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4478414448&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:48:47.118Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Albertsons Companies India",
+      "title": "Senior Technical Program Management [T500-30280]\nSenior Technical Program Management [T500-30280]",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481282100&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:49:34.560Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Operations Manager, Amazon\nSenior Operations Manager, Amazon with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4478414448&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T19:50:21.918Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4752,
+  "totalVerifiedInHistory": 4762,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1050,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 148
+    "linkedin_easy_apply": 158
   },
-  "lastSyncedAt": "2026-10-28T19:28:04.007Z",
-  "lastUpdated": "29/10/2026, 12:58:04 am"
+  "lastSyncedAt": "2026-10-28T19:55:48.592Z",
+  "lastUpdated": "29/10/2026, 1:25:48 am"
 }
