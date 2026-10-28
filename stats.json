@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4641,
+  "applicationsSubmitted": 4642,
   "appliedRolesList": [
-    {
-      "company": "ABC Consultants",
-      "title": "Manager Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-senior-manager-abc-consultants-hyderabad-bengaluru-mumbai-all-areas-13-to-21-years-151026017981?src=directSearch&sid=17920509039819689&xp=6&px=1",
-      "time": "2026-10-15T07:55:21.585Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "TechOps - CloudOps - DevOps Engineer - Senior",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/cognition/84a2c042-6e1c-4093-a06b-39018ef89c4e",
       "time": "2026-10-28T13:30:14.994Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Legal Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/3ed4e7e4-1765-481b-a1aa-199d1d6d079c",
+      "time": "2026-10-28T13:30:18.590Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4641,
+  "totalVerifiedInHistory": 4642,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1036,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 506,
+    "direct_portal_ashby": 507,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:30:15.051Z",
-  "lastUpdated": "28/10/2026, 7:00:15 pm"
+  "lastSyncedAt": "2026-10-28T13:30:18.631Z",
+  "lastUpdated": "28/10/2026, 7:00:18 pm"
 }
