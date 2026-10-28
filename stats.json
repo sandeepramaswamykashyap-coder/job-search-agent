@@ -1,95 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4642,
+  "applicationsSubmitted": 4653,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "TechOps - CloudOps - DevOps Engineer - Senior",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-techops-cloudops-devops-engineer-senior-ernst-young-llp-bengaluru-7-to-12-years-141026933864?src=directSearch&sid=17920511208595641&xp=13&px=1",
-      "time": "2026-10-15T07:59:05.241Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Lam Research",
-      "title": "Strategic Commodity Manager, Program Lead",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoT3VsEEAAAACZbZbDwAOAQAFWlyXkv25lRr0tJQAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoT3VsEEAAAACZbZbDwAOAQAFWlyXkv25lRr0tJQAAA&from=page-two-signin",
-      "time": "2026-10-15T08:19:11.236Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bizacuity Solutions",
-      "title": "Technical Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-bizacuity-bengaluru-8-to-13-years-151026919243?src=directSearch&sid=1792053413410359&xp=11&px=1",
-      "time": "2026-10-15T08:37:17.595Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "GharSoaps - Head - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/gharsoaps-head-operations-1739836?ref=sp_prm&jobPos=5",
-      "time": "2026-10-15T08:38:07.517Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Kira Diam",
-      "title": "Spirulina Project Lead / Operations Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-spirulina-project-lead-operations-head-kira-diam-mumbai-delhi-ncr-bengaluru-20-to-25-years-151026919988?src=directSearch&sid=17920553637291390&xp=13&px=1",
-      "time": "2026-10-15T09:09:44.717Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Deputy Manager - Statutory Audit - Non BFSI",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-deputy-manager-statutory-audit-non-bfsi-1740106?ref=sp&jobPos=4",
-      "time": "2026-10-15T10:00:10.746Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tekskills",
-      "title": "Change management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-change-management-tekskills-bengaluru-6-to-11-years-131026920021?src=directSearch&sid=17920602880738460&xp=6&px=1",
-      "time": "2026-10-15T10:31:52.305Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Bristlecone",
-      "title": "Change Management Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-change-management-consultant-bristlecone-pune-gurugram-bengaluru-3-to-8-years-131026042355?src=directSearch&sid=17920602880738460&xp=8&px=1",
-      "time": "2026-10-15T10:32:07.258Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Deputy Manager - Statutory Audit - Consulting Firm - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-deputy-manager-statutory-audit-consulting-firm-ca-1740106?ref=sp&jobPos=7",
-      "time": "2026-10-15T10:33:44.434Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Paytm",
-      "title": "KAM Lead - Online-Enterprise 6683",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-kam-lead-online-enterprise-6683-paytm-payments-services-limited-bengaluru-10-to-15-years-151026503719?src=directSearch&sid=17920620896848858&xp=13&px=1",
-      "time": "2026-10-15T11:02:04.419Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Impelsys",
-      "title": "Technical Delivery Manager - Data & AI",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-data-ai-impelsys-india-pvt-ltd-bengaluru-12-to-17-years-151026503773?src=directSearch&sid=17920623106932969&xp=13&px=1",
-      "time": "2026-10-15T11:05:25.184Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Steady Rabbit",
       "title": "IT Technical Program Manager (Point of Sale)",
@@ -4001,6 +3913,94 @@
       "url": "https://jobs.ashbyhq.com/modal/3ed4e7e4-1765-481b-a1aa-199d1d6d079c",
       "time": "2026-10-28T13:30:18.590Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Head of IT",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/df9c593c-54db-4164-978c-deaea19536e7",
+      "time": "2026-10-28T13:30:26.371Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "EMEA Deal Strategy & Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1",
+      "time": "2026-10-28T13:30:36.675Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "GTM Enablement Program Manager, Systems & Product",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/f5217646-e988-4060-8363-49ab93ba9fe4",
+      "time": "2026-10-28T13:30:38.113Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of Support Engineering (US)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/bec10b58-7364-45f5-93fa-e031a289e630",
+      "time": "2026-10-28T13:30:39.348Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Incident",
+      "title": "VP of Sales, EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/incident/3a21d807-bf09-4017-8be8-08b69006dfa0",
+      "time": "2026-10-28T13:30:45.147Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "ITAM/Servicenow(Manager)SAM pro",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-itam-servicenow-manager-sam-pro-pwc-bengaluru-10-to-20-years-281026012414?src=directSearch&sid=17931942206557745&xp=10&px=1",
+      "time": "2026-10-28T13:30:45.473Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of Support Engineering (Paris)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/2e7d4bef-b948-4c98-99c7-475abb4dc91f",
+      "time": "2026-10-28T13:30:56.318Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of Solutions Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/a75f34ab-8c15-4f53-8f72-c565d6d58b5a",
+      "time": "2026-10-28T13:30:56.856Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Head of AI Native Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764",
+      "time": "2026-10-28T13:30:57.277Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Forward Deployed Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
+      "time": "2026-10-28T13:31:15.773Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Head of New Media",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/62dfb104-ae18-46ce-a9ef-836f024c3d6d",
+      "time": "2026-10-28T13:31:16.353Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4642,
+  "totalVerifiedInHistory": 4653,
   "portalBreakdown": {
     "iimjobs": 665,
-    "naukri": 1036,
+    "naukri": 1037,
     "weworkremotely": 15,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 507,
+    "direct_portal_ashby": 517,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:30:18.631Z",
-  "lastUpdated": "28/10/2026, 7:00:18 pm"
+  "lastSyncedAt": "2026-10-28T13:31:16.405Z",
+  "lastUpdated": "28/10/2026, 7:01:16 pm"
 }
