@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-10-28T13:40:07.476Z",
+  "lastUpdated": "2026-10-28T14:03:11.855Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1918,7 +1918,7 @@
       "company": "Persistent Systems",
       "title": "Chief People Officer",
       "dispatchedAt": "2026-10-08T13:40:09.327Z",
-      "daysElapsed": 19,
+      "daysElapsed": 20,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1929,7 +1929,7 @@
       "company": "Happiest Minds Technologies",
       "title": "Managing Director & Chief Financial Officer",
       "dispatchedAt": "2026-10-08T13:40:18.447Z",
-      "daysElapsed": 19,
+      "daysElapsed": 20,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"

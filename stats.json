@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 21076,
-  "applicationsSubmitted": 157,
+  "jobsScanned": 21146,
+  "applicationsSubmitted": 4741,
   "appliedRolesList": [
-    {
-      "company": "Maveric",
-      "title": "Project Manager - Onsite To Bahrain",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-onsite-to-bahrain-maveric-pune-chennai-bengaluru-10-to-12-years-080926010935?src=directSearch&sid=17922011752774990&xp=9&px=1",
-      "time": "2026-10-17T01:40:06.218Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Genpact",
-      "title": "Senior Project Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoUWLwwsAAAACZZghEwAQAQEBBgO_7mebGS3gtEWx9gAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoUWLwwsAAAACZZghEwAQAQEBBgO_7mebGS3gtEWx9gAA&from=page-two-signin",
-      "time": "2026-10-17T04:34:14.266Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Deloitte - Organization Transformation Role - IIM/FMS/MDI/XLRI",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/deloitte-organization-transformation-role-iim-fms-mdi-xlri-1740466?ref=sp_br_prm&jobPos=1",
-      "time": "2026-10-17T04:51:30.196Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Principal Officer - Fund Management - Investment Management - CA",
@@ -4003,32 +3979,28 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
-      "time": "2026-10-28T13:55:20.874Z"
+      "company": "MSA Global Technology And Engineering",
+      "title": "Hiring Sr. Manager - Operation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hiring-sr-manager-operation-msa-global-technology-and-engineering-bengaluru-15-to-20-years-271026025901?src=directSearch&sid=17931962271334189&xp=1&px=1",
+      "time": "2026-10-28T14:04:01.042Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T13:55:20.884Z"
+      "company": "Mindsprint",
+      "title": "SAP TRM - Transformation Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-trm-transformation-leader-mindsprint-chennai-bengaluru-15-to-22-years-281026005283?src=directSearch&sid=17931963046811639&xp=1&px=1",
+      "time": "2026-10-28T14:05:19.580Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T13:55:20.894Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T13:55:20.901Z"
+      "company": "Crescendo Global Leadership Hiring India",
+      "title": "Principal Consultant - Finance Transformation PMO Lead - 10+ Years",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-principal-consultant-finance-transformation-pmo-lead-10-years-crescendo-global-leadership-hiring-india-pune-bengaluru-9-to-14-years-281026007433?src=directSearch&sid=17931963046811639&xp=7&px=1",
+      "time": "2026-10-28T14:05:47.863Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4731,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4738,
+  "totalVerifiedInHistory": 4741,
   "portalBreakdown": {
     "iimjobs": 674,
-    "naukri": 1041,
+    "naukri": 1044,
     "weworkremotely": 15,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4752,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:55:14.610Z",
-  "lastUpdated": "28/10/2026, 7:25:14 pm"
+  "lastSyncedAt": "2026-10-28T14:07:47.461Z",
+  "lastUpdated": "28/10/2026, 7:37:47 pm"
 }
