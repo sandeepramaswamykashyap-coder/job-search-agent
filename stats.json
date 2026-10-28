@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 24405,
-  "applicationsSubmitted": 4773,
+  "jobsScanned": 24545,
+  "applicationsSubmitted": 25,
   "appliedRolesList": [
     {
       "company": "Infosys",
@@ -4001,6 +4001,27 @@
       "url": "https://jobs.ashbyhq.com/prefect/ad5b381a-aea7-4b82-bb19-3bdd62350b22",
       "time": "2026-10-28T20:35:02.544Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-28T20:49:19.318Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-28T20:49:19.329Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-28T20:49:19.338Z"
     }
   ],
   "failures": [
@@ -4724,6 +4745,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 168
   },
-  "lastSyncedAt": "2026-10-28T20:35:02.603Z",
-  "lastUpdated": "29/10/2026, 2:05:02 am"
+  "lastSyncedAt": "2026-10-28T20:48:44.543Z",
+  "lastUpdated": "29/10/2026, 2:18:44 am"
 }
