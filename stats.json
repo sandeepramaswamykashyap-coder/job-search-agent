@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 22592,
-  "applicationsSubmitted": 167,
+  "jobsScanned": 22620,
+  "applicationsSubmitted": 4750,
   "appliedRolesList": [
-    {
-      "company": "Confidential",
-      "title": "Senior Manager :  International Insurance Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-international-insurance-operations-workforce-management-consultancy-pune-bengaluru-12-to-18-years-171026015637?src=directSearch&sid=17922475236968946&xp=8&px=1",
-      "time": "2026-10-17T14:32:24.655Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Korn Ferry",
-      "title": "Associate Director, Site Budgeting and Contracting",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-site-budgeting-and-contracting-kornferry-bengaluru-15-to-24-years-161026016676?src=directSearch&sid=1792281764839796&xp=12&px=1",
-      "time": "2026-10-18T00:03:12.375Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "GenAI Business Strategy & Transformation Lead",
@@ -4007,28 +3991,16 @@
       "title": "Project Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-10-28T17:00:35.286Z"
+      "time": "2026-10-28T17:00:35.286Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T17:00:35.633Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T17:00:35.640Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T17:00:35.657Z"
+      "company": "Openai",
+      "title": "Support Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
+      "time": "2026-10-28T17:07:53.932Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4731,12 +4703,12 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4748,
+  "totalVerifiedInHistory": 4750,
   "portalBreakdown": {
     "iimjobs": 674,
     "naukri": 1050,
     "weworkremotely": 15,
-    "remoteok": 5,
+    "remoteok": 6,
     "direct_portal_greenhouse": 1384,
     "direct_portal_generic": 14,
     "direct_portal_workday": 4,
@@ -4744,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 590,
+    "direct_portal_ashby": 591,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4752,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T17:00:12.730Z",
-  "lastUpdated": "28/10/2026, 10:30:12 pm"
+  "lastSyncedAt": "2026-10-28T17:07:53.994Z",
+  "lastUpdated": "28/10/2026, 10:37:53 pm"
 }
