@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 23453,
-  "applicationsSubmitted": 3,
+  "jobsScanned": 23600,
+  "applicationsSubmitted": 4752,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Travash Software Solutions - Director - Enterprise AI Adoption & Business Transf",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/travash-software-solutions-director-enterprise-ai-adoption-and-business-transformation-1740544?ref=sp_prm&jobPos=11",
-      "time": "2026-10-18T06:43:04.322Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - ICT Projects & Operations - Education/EdTech",
@@ -4003,25 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-28T18:42:00.548Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-28T18:42:00.560Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-28T18:42:00.569Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Product Management - Mutual Funds - Fintech",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-product-management-mutual-funds-fintech-1742555?ref=sp_prm&jobPos=15",
+      "time": "2026-10-28T18:52:53.110Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,9 +4703,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4751,
+  "totalVerifiedInHistory": 4752,
   "portalBreakdown": {
-    "iimjobs": 674,
+    "iimjobs": 675,
     "naukri": 1050,
     "weworkremotely": 15,
     "remoteok": 6,
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T18:41:20.312Z",
-  "lastUpdated": "29/10/2026, 12:11:20 am"
+  "lastSyncedAt": "2026-10-28T18:59:34.790Z",
+  "lastUpdated": "29/10/2026, 12:29:34 am"
 }
