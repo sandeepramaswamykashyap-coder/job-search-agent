@@ -1,111 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4619,
+  "applicationsSubmitted": 4632,
   "appliedRolesList": [
-    {
-      "company": "Ecolab Global Services",
-      "title": "AI Engineering Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-engineering-manager-ecolab-global-services-private-limited-bengaluru-10-to-15-years-151026909141?src=directSearch&sid=17920375097757194&xp=8&px=1",
-      "time": "2026-10-15T04:12:31.493Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Sagility - Senior Manager - Company Secretary",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/sagility-senior-manager-company-secretary-1739956?ref=sp_prm&jobPos=10",
-      "time": "2026-10-15T04:14:05.551Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Digital Solutions Manager (Recruiting Tech & Learning Platforms)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-digital-solutions-manager-recruiting-tech-learning-platforms-okta-identity-india-private-limited-bengaluru-4-to-8-years-141026930013?src=directSearch&sid=179204119791791&xp=4&px=1",
-      "time": "2026-10-15T05:13:32.074Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Manager - OTC - Finance Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-otc-finance-operations-ernst-young-llp-bengaluru-12-to-16-years-141026929012?src=directSearch&sid=179204119791791&xp=5&px=1",
-      "time": "2026-10-15T05:13:43.717Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Careernet",
-      "title": "SAP Solution Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-solution-manager-careernet-hyderabad-chennai-bengaluru-6-to-11-years-141026036918?src=directSearch&sid=179204119791791&xp=11&px=1",
-      "time": "2026-10-15T05:14:01.930Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "LeadSquared - Business/Revenue Operations Professional",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/leadsquared-business-revenue-operations-professional-1739991?ref=sp_br&jobPos=16",
-      "time": "2026-10-15T05:14:46.870Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Technical Program Manager - Retail Technology",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/technical-program-manager-retail-technology-1739986?ref=sp&jobPos=11",
-      "time": "2026-10-15T05:15:03.331Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Assistant Director - Operations - SCM & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/assistant-director-operations-scm-and-operations-1739996?ref=sp&jobPos=8",
-      "time": "2026-10-15T05:15:30.425Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Chief Manager - Operational Risk Management - Insurance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/chief-manager-operational-risk-management-insurance-1739969?ref=sp&jobPos=9",
-      "time": "2026-10-15T05:16:11.352Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Kumar Organic Products",
-      "title": "GM Operations/ SITE HEAD",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gm-operations-site-head-kumar-organic-products-bharuch-bengaluru-vadodara-20-to-30-years-190926014587?src=directSearch&sid=17920432327289341&xp=4&px=1",
-      "time": "2026-10-15T05:47:27.018Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ABC Consultants",
-      "title": "Head/VICE President /Genral Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-vice-president-genral-manager-abc-consultants-kolkata-hyderabad-bengaluru-19-to-27-years-151026013755?src=directSearch&sid=17920432327289341&xp=10&px=1",
-      "time": "2026-10-15T05:47:42.021Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Ion Exchange - Manager/Senior Manager - HR Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ion-exchange-manager-senior-manager-hr-operations-1740004?ref=sp_br_prm&jobPos=1",
-      "time": "2026-10-15T05:48:27.925Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Site Head - Manufacturing Operations - Chemicals",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/site-head-manufacturing-operations-chemicals-1740003?ref=sp&jobPos=16",
-      "time": "2026-10-15T05:48:57.083Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager - Operations Excellence - Retail",
@@ -4001,6 +3897,110 @@
       "url": "https://jobs.ashbyhq.com/openai/cf29a76e-71a4-4e29-8a45-8cefdd301aca",
       "time": "2026-10-28T13:28:33.585Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Marketing Technology & Operations Lead, APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/a57bb806-0d67-48ba-96cc-695667eae41a",
+      "time": "2026-10-28T13:28:38.979Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Lab Infrastructure (Silicon & Systems)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/533659ff-2272-4683-87c9-b07d00feea4c",
+      "time": "2026-10-28T13:28:43.788Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Project Manager, Design and Construction - R&D/Lab Buildouts",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9",
+      "time": "2026-10-28T13:28:44.283Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GE VERNOVA",
+      "title": "GridBeats NPI Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gridbeats-npi-program-manager-ge-renewable-energy-technologies-private-limited-hyderabad-bengaluru-10-to-15-years-281026914144?src=directSearch&sid=17931940993919202&xp=7&px=1",
+      "time": "2026-10-28T13:28:45.936Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategy and Operations Lead, Creative Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/7b70517d-8c96-4c4a-8e4a-37859cf68747",
+      "time": "2026-10-28T13:28:56.451Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Tax Director, Tax Counsel",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
+      "time": "2026-10-28T13:28:56.977Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
+      "time": "2026-10-28T13:29:02.685Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Senior Technical Program Manager, AI Platform",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/278476b1-87c5-461f-ad7e-950cd31e5f31",
+      "time": "2026-10-28T13:29:13.371Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Director of Engineering, Platform (Runtime & Stateful Systems)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
+      "time": "2026-10-28T13:29:14.643Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Chief of Staff to Head of Talent",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/22034ea4-b563-425f-b5d2-8a113e6d172d",
+      "time": "2026-10-28T13:29:15.044Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Privacy Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/19b21930-d142-4dae-be23-751f5425b0af",
+      "time": "2026-10-28T13:29:17.908Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Trianz",
+      "title": "Strategic Program Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-strategic-program-lead-trianz-pune-bengaluru-8-to-12-years-281026015497?src=directSearch&sid=17931941372875079&xp=6&px=1",
+      "time": "2026-10-28T13:29:24.293Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Business Operations Manager, Marketing and Communications",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/perplexity/fd64d88c-823e-4329-b133-f09754e0f4b8",
+      "time": "2026-10-28T13:29:29.061Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4619,
+  "totalVerifiedInHistory": 4632,
   "portalBreakdown": {
     "iimjobs": 665,
-    "naukri": 1034,
+    "naukri": 1036,
     "weworkremotely": 15,
     "remoteok": 5,
     "direct_portal_greenhouse": 1384,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 486,
+    "direct_portal_ashby": 497,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:28:33.886Z",
-  "lastUpdated": "28/10/2026, 6:58:33 pm"
+  "lastSyncedAt": "2026-10-28T13:29:29.116Z",
+  "lastUpdated": "28/10/2026, 6:59:29 pm"
 }
