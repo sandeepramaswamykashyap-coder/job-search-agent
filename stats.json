@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4661,
+  "applicationsSubmitted": 4663,
   "appliedRolesList": [
-    {
-      "company": "Prodigy Technovations",
-      "title": "Hardware Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hardware-program-manager-prodigy-technovations-bengaluru-5-to-10-years-151026029082?src=directSearch&sid=17920661709906259&xp=5&px=1",
-      "time": "2026-10-15T12:09:55.163Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Delhivery - Director - International Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/delhivery-director-international-operations-1740171?ref=sp_br&jobPos=2",
-      "time": "2026-10-15T12:14:20.737Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "K12 Techno Services",
       "title": "Senior Operations Manager(Sahakarnagar)",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/writer/47b37af7-9753-4739-82d0-bc0c8c9a3d89",
       "time": "2026-10-28T13:32:11.168Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/d9ea8ca0-c837-4339-b48e-af69f0acefdd",
+      "time": "2026-10-28T13:32:14.710Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/eaa203c7-1bc5-41ca-952c-50e019effa36",
+      "time": "2026-10-28T13:32:15.126Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4661,
+  "totalVerifiedInHistory": 4663,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1037,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 525,
+    "direct_portal_ashby": 527,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:32:11.242Z",
-  "lastUpdated": "28/10/2026, 7:02:11 pm"
+  "lastSyncedAt": "2026-10-28T13:32:15.172Z",
+  "lastUpdated": "28/10/2026, 7:02:15 pm"
 }
