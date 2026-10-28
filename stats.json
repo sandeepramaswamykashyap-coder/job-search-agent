@@ -1,71 +1,7 @@
 {
-  "jobsScanned": 25567,
-  "applicationsSubmitted": 4794,
+  "jobsScanned": 25826,
+  "applicationsSubmitted": 4802,
   "appliedRolesList": [
-    {
-      "company": "Straive",
-      "title": "Engagement Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-engagement-manager-straive-hyderabad-gurugram-bengaluru-10-to-15-years-201026011223?src=directSearch&sid=17925079141452025&xp=13&px=1",
-      "time": "2026-10-20T14:52:35.291Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Director, GTM Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122",
-      "time": "2026-10-20T17:15:06.005Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Director, GTM Engineering",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122",
-      "time": "2026-10-20T17:15:06.343Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alstom Transportation",
-      "title": "IT Project Manager For Engineering",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-project-manager-for-engineering-alstom-transport-india-ltd-bengaluru-9-to-14-years-161026915220?src=drecomm_dashboard_apply",
-      "time": "2026-10-20T17:22:16.308Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Project & Program Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=17&jobId=1740263&pref=sp",
-      "time": "2026-10-20T18:51:43.496Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deltek, Inc.",
-      "title": "Sr. Recruiting Operations Specialist",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
-      "time": "2026-10-20T19:08:19.858Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monks",
-      "title": "Senior Project Manager",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
-      "time": "2026-10-20T21:53:02.071Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Thoucentric",
-      "title": "Zendesk Implementation Consultant",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoVeUieEAAAACZf822AARAQEBByJzy80oxQGe4O7tmKcAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoVeUieEAAAACZf822AARAQEBByJzy80oxQGe4O7tmKcAAA&from=page-two-signin",
-      "time": "2026-10-20T23:58:28.072Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Omnicom Global Solutions",
       "title": "CMS Project Manager",
@@ -4001,6 +3937,70 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-28T22:22:51.575Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Omnicom Global Solutions",
+      "title": "Media Investment - Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-media-investment-manager-omnicom-media-group-bengaluru-9-to-12-years-281026011569?src=directSearch&sid=17932278297419164&xp=10&px=1",
+      "time": "2026-10-28T22:51:08.534Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Navi",
+      "title": "AI Strategy & Operations\nAI Strategy & Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T22:56:35.356Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "State Street",
+      "title": "Business Process Management & Procedures - Assistant Vice President\nBusiness Process Management & Procedures - Assistant Vice President with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T22:57:22.728Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "BiteSpeed",
+      "title": "Customer Success Manager\nCustomer Success Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T22:58:10.509Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Standard Chartered India",
+      "title": "Senior Manager, CMS Supplier Management\nSenior Manager, CMS Supplier Management",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T22:58:58.802Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Radisson Hotel Group",
+      "title": "General Manager - Park Inn By Radisson, Electronic City, Bengaluru\nGeneral Manager - Park Inn By Radisson, Electronic City, Bengaluru with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T22:59:46.896Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sagility",
+      "title": "Director\nDirector with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-10-28T23:00:59.094Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "KUKA",
+      "title": "Chief of Staff – MD’s Office\nChief of Staff – MD’s Office",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-28T23:02:02.071Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4794,
+  "totalVerifiedInHistory": 4802,
   "portalBreakdown": {
     "iimjobs": 675,
-    "naukri": 1050,
+    "naukri": 1051,
     "weworkremotely": 15,
     "remoteok": 6,
     "direct_portal_greenhouse": 1384,
@@ -4722,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 189
+    "linkedin_easy_apply": 196
   },
-  "lastSyncedAt": "2026-10-28T22:45:44.150Z",
-  "lastUpdated": "29/10/2026, 4:15:44 am"
+  "lastSyncedAt": "2026-10-28T23:14:45.885Z",
+  "lastUpdated": "29/10/2026, 4:44:45 am"
 }
