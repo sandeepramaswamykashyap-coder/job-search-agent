@@ -1,55 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4676,
+  "applicationsSubmitted": 4682,
   "appliedRolesList": [
-    {
-      "company": "Mantras2Success Consultants",
-      "title": "Sales Head (GCC Consulting )",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sales-head-gcc-consulting-mantras2success-consultants-gandhinagar-ahmedabad-bengaluru-7-to-12-years-230726923123?src=directSearch&sid=17921058831988381&xp=12&px=1",
-      "time": "2026-10-15T23:12:00.957Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "A reputed group of educational institutions",
-      "title": "Head - Centre For Innovation, Entrepreneurship and Strategic Funding",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-centre-for-innovation-entrepreneurship-and-strategic-funding-manav-sansadhan-vikas-salaahkar-bengaluru-15-to-24-years-200926009493?src=directSearch&sid=17921058831988381&xp=13&px=1",
-      "time": "2026-10-15T23:12:12.568Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "client of Forstaffing",
-      "title": "Business Delivery Manager - managed end user services",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-delivery-manager-managed-end-user-services-forstaffing-bengaluru-12-to-18-years-151026026909?src=directSearch&sid=17921079412994624&xp=6&px=1",
-      "time": "2026-10-15T23:45:55.652Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "LTM",
-      "title": "It Service Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-it-service-delivery-manager-ltm-chennai-bengaluru-12-to-16-years-151026013353?src=directSearch&sid=17921079412994624&xp=7&px=1",
-      "time": "2026-10-15T23:46:07.422Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Delivery Excellence -Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-excellence-manager-ernst-young-llp-bengaluru-10-to-15-years-141026931263?src=directSearch&sid=17921079412994624&xp=8&px=1",
-      "time": "2026-10-15T23:46:19.035Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Adecco",
-      "title": "Change Manager (Projects) - Program Delivery",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-change-manager-projects-program-delivery-adecco-india-bengaluru-12-to-15-years-141026030717?src=directSearch&sid=17921079412994624&xp=11&px=1",
-      "time": "2026-10-15T23:46:37.269Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Senior Commercial Management Consultant",
@@ -4001,6 +3953,54 @@
       "url": "https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
       "time": "2026-10-28T13:33:12.466Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Model Governance Lead, Credit",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/e707566a-dad1-4afa-a3bd-bda5bc2bdcbe",
+      "time": "2026-10-28T13:33:16.337Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Director, Credit Risk –  Cash Flow Lending",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/4a592a46-80c2-4484-a76f-44cef33e7e4e",
+      "time": "2026-10-28T13:33:26.364Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Co-Head of Credit Risk – Real Estate",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/5871c314-97f0-4f03-bfe7-27e8585c6ead",
+      "time": "2026-10-28T13:33:29.952Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "SVP - Business Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/090243a8-2132-4d82-a28b-36805ad4a368",
+      "time": "2026-10-28T13:33:31.332Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "SVP - Technology Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/91bf5a66-89d7-4f1c-be71-916b617db7dd",
+      "time": "2026-10-28T13:33:31.747Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Senior Director/Director, Debt Finance - Structured Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/9b91380f-2609-4678-9341-fe8103ad314c",
+      "time": "2026-10-28T13:33:43.818Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4676,
+  "totalVerifiedInHistory": 4682,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1039,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 538,
+    "direct_portal_ashby": 544,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:33:12.546Z",
-  "lastUpdated": "28/10/2026, 7:03:12 pm"
+  "lastSyncedAt": "2026-10-28T13:33:43.872Z",
+  "lastUpdated": "28/10/2026, 7:03:43 pm"
 }
