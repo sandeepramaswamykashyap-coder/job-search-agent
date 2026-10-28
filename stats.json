@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4660,
+  "applicationsSubmitted": 4661,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Supply Chain Management - Industrial Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-supply-chain-management-industrial-services-1740005?ref=sp&jobPos=18",
-      "time": "2026-10-15T11:40:49.291Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Prodigy Technovations",
       "title": "Hardware Program Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/writer/1fb49091-1bab-4079-b958-c391dc2b94bc",
       "time": "2026-10-28T13:32:07.556Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/writer/47b37af7-9753-4739-82d0-bc0c8c9a3d89",
+      "time": "2026-10-28T13:32:11.168Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4660,
+  "totalVerifiedInHistory": 4661,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1037,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 524,
+    "direct_portal_ashby": 525,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:32:07.624Z",
-  "lastUpdated": "28/10/2026, 7:02:07 pm"
+  "lastSyncedAt": "2026-10-28T13:32:11.242Z",
+  "lastUpdated": "28/10/2026, 7:02:11 pm"
 }
