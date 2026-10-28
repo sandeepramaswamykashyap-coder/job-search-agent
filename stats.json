@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 22809,
-  "applicationsSubmitted": 4750,
+  "jobsScanned": 22872,
+  "applicationsSubmitted": 168,
   "appliedRolesList": [
     {
       "company": "IIMJobs Verified Employer",
@@ -4001,6 +4001,27 @@
       "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
       "time": "2026-10-28T17:07:53.932Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-28T17:29:36.995Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-28T17:29:37.006Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-28T17:29:37.015Z"
     }
   ],
   "failures": [
