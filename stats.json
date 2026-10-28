@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4683,
+  "applicationsSubmitted": 4685,
   "appliedRolesList": [
-    {
-      "company": "PwC",
-      "title": "Databricks+Agentic AI - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-databricks-agentic-ai-manager-pwc-pune-gurugram-bengaluru-9-to-14-years-151026012341?src=directSearch&sid=17921117634471682&xp=13&px=1",
-      "time": "2026-10-16T00:49:47.785Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "CareerFit.ai",
-      "title": "Engagement Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-engagement-manager-skima-innovation-private-limited-bengaluru-7-to-12-years-151026026482?src=directSearch&sid=17921137292469113&xp=7&px=1",
-      "time": "2026-10-16T01:22:33.440Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Pixxel",
       "title": "Associate Manager - SAP Digital Transformation (SAP S4 Hana)",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/oaknorth/3f8367c2-ad43-47e7-a2af-5058c6560f35",
       "time": "2026-10-28T13:33:46.914Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "AVP  - CRE- Credit Analytics",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/c0bc7401-8a59-4ee6-adc9-9c6975c9be2d",
+      "time": "2026-10-28T13:33:53.750Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Senior Director, Portfolio Monitoring - Real Estate",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/0e711e1c-41de-4087-a529-f5038039861c",
+      "time": "2026-10-28T13:33:54.215Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4683,
+  "totalVerifiedInHistory": 4685,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1039,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 545,
+    "direct_portal_ashby": 547,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:33:46.958Z",
-  "lastUpdated": "28/10/2026, 7:03:46 pm"
+  "lastSyncedAt": "2026-10-28T13:33:54.268Z",
+  "lastUpdated": "28/10/2026, 7:03:54 pm"
 }
