@@ -1,23 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4639,
+  "applicationsSubmitted": 4641,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Corporate Finance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-corporate-finance-1740060?ref=sp_prm&jobPos=3",
-      "time": "2026-10-15T07:26:02.485Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "IntraEdge - Director - Security Engineering & Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/intraedge-director-security-engineering-and-operations-1740048?ref=sp&jobPos=9",
-      "time": "2026-10-15T07:26:48.705Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ABC Consultants",
       "title": "Manager Senior Manager",
@@ -4001,6 +3985,22 @@
       "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
       "time": "2026-10-28T13:29:55.378Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Safety",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/43f38460-632b-4b0a-8b14-888d117b2e07",
+      "time": "2026-10-28T13:30:13.677Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director (LATAM)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/84a2c042-6e1c-4093-a06b-39018ef89c4e",
+      "time": "2026-10-28T13:30:14.994Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4639,
+  "totalVerifiedInHistory": 4641,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1036,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 504,
+    "direct_portal_ashby": 506,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:29:55.475Z",
-  "lastUpdated": "28/10/2026, 6:59:55 pm"
+  "lastSyncedAt": "2026-10-28T13:30:15.051Z",
+  "lastUpdated": "28/10/2026, 7:00:15 pm"
 }
