@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4682,
+  "applicationsSubmitted": 4683,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Senior Commercial Management Consultant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-commercial-management-consultant-ernst-young-llp-bengaluru-5-to-10-years-131026946085?src=directSearch&sid=17921097999774229&xp=8&px=1",
-      "time": "2026-10-16T00:17:10.827Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "PwC",
       "title": "Databricks+Agentic AI - Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/oaknorth/9b91380f-2609-4678-9341-fe8103ad314c",
       "time": "2026-10-28T13:33:43.818Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Associate Vice President - Credit Analytics",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/3f8367c2-ad43-47e7-a2af-5058c6560f35",
+      "time": "2026-10-28T13:33:46.914Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4682,
+  "totalVerifiedInHistory": 4683,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1039,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 544,
+    "direct_portal_ashby": 545,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:33:43.872Z",
-  "lastUpdated": "28/10/2026, 7:03:43 pm"
+  "lastSyncedAt": "2026-10-28T13:33:46.958Z",
+  "lastUpdated": "28/10/2026, 7:03:46 pm"
 }
