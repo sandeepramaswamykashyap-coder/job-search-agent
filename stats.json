@@ -1,15 +1,7 @@
 {
   "jobsScanned": 20894,
-  "applicationsSubmitted": 4618,
+  "applicationsSubmitted": 4619,
   "appliedRolesList": [
-    {
-      "company": "NTT DATA BUSINESS SOLUTIONS",
-      "title": "SAP Service Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-service-delivery-manager-ntt-data-business-solutions-hyderabad-pune-bengaluru-10-to-15-years-091026036515",
-      "time": "2026-10-15T03:40:58.969Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ecolab Global Services",
       "title": "AI Engineering Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/openai/5f094405-1b54-419b-88b2-df1d7eb16af0",
       "time": "2026-10-28T13:28:15.956Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Core Operations Lead, Community & Culture",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/cf29a76e-71a4-4e29-8a45-8cefdd301aca",
+      "time": "2026-10-28T13:28:33.585Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4618,
+  "totalVerifiedInHistory": 4619,
   "portalBreakdown": {
     "iimjobs": 665,
     "naukri": 1034,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 485,
+    "direct_portal_ashby": 486,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 148
   },
-  "lastSyncedAt": "2026-10-28T13:28:16.025Z",
-  "lastUpdated": "28/10/2026, 6:58:16 pm"
+  "lastSyncedAt": "2026-10-28T13:28:33.886Z",
+  "lastUpdated": "28/10/2026, 6:58:33 pm"
 }
