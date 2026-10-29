@@ -1,47 +1,7 @@
 {
-  "jobsScanned": 30957,
-  "applicationsSubmitted": 142,
+  "jobsScanned": 31059,
+  "applicationsSubmitted": 4895,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "GDS Meetings and Events - M and E Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gds-meetings-and-events-m-and-e-program-manager-ernst-young-llp-bengaluru-bengaluru-10-to-18-years-221026921385?src=directSearch&sid=17926626349173880&xp=2&px=1",
-      "time": "2026-10-22T09:50:49.237Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Aveva",
-      "title": "Senior Manager, Workplace Experience",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-workplace-experience-aveva-solutions-india-llp-hyderabad-bengaluru-bengaluru-hyderabad-11-to-21-years-221026921783?src=directSearch&sid=17926626349173880&xp=7&px=1",
-      "time": "2026-10-22T09:51:14.575Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tiger Analytics",
-      "title": "Program Lead - Tech Consulting",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-lead-tech-consulting-tiger-analytics-hyderabad-chennai-bengaluru-8-to-13-years-221026022632?src=directSearch&sid=17926627069878140&xp=8&px=1",
-      "time": "2026-10-22T09:52:27.094Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "GMS-Transition Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gms-transition-manager-ernst-young-llp-bengaluru-bengaluru-10-to-17-years-221026921818?src=directSearch&sid=17926627571475130&xp=10&px=1",
-      "time": "2026-10-22T09:52:54.772Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "AI and DATA - Cloud Data Architect - Databricks - Executive Director",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-and-data-cloud-data-architect-databricks-executive-director-ernst-young-llp-bengaluru-bengaluru-15-to-20-years-221026921365?src=directSearch&sid=17926627571475130&xp=11&px=1",
-      "time": "2026-10-22T09:53:06.361Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Cyber Architecture- OT and Engineering-OT Security- Associate Director",
@@ -4003,25 +3963,44 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T09:22:51.441Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Maxwell Energy Systems - Senior Technical Program Manager - Automotive Embedded",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/maxwell-energy-systems-senior-technical-program-manager-automotive-embedded-1742759?ref=sp&jobPos=5",
+      "time": "2026-10-29T09:35:23.606Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T09:22:51.453Z"
+      "company": "CW Hospitality LLP",
+      "title": "Catering Sales Manager\nCatering Sales Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481187976&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-29T09:38:05.993Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T09:22:51.462Z"
+      "company": "State Street Investment Management",
+      "title": "India Program Office, Vice President - State Street Investment Management\nIndia Program Office, Vice President - State Street Investment Management with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4426191587&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T09:38:56.338Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Esse India | Canada immigration consultants in delhi | visa consultant delhi",
+      "title": "Program Manager For Canada Opportunities\nProgram Manager For Canada Opportunities with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T09:40:01.651Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "QUEST Alliance",
+      "title": "Program Manager (Karnataka)\nProgram Manager (Karnataka)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4433964128&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
+      "time": "2026-10-29T09:40:34.003Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,9 +4703,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4890,
+  "totalVerifiedInHistory": 4895,
   "portalBreakdown": {
-    "iimjobs": 683,
+    "iimjobs": 684,
     "naukri": 1070,
     "weworkremotely": 15,
     "remoteok": 6,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 256
+    "linkedin_easy_apply": 260
   },
-  "lastSyncedAt": "2026-10-29T09:22:40.847Z",
-  "lastUpdated": "29/10/2026, 2:52:40 pm"
+  "lastSyncedAt": "2026-10-29T09:40:58.403Z",
+  "lastUpdated": "29/10/2026, 3:10:58 pm"
 }
