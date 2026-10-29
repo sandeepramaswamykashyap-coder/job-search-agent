@@ -1,39 +1,7 @@
 {
-  "jobsScanned": 26554,
-  "applicationsSubmitted": 4813,
+  "jobsScanned": 26806,
+  "applicationsSubmitted": 4817,
   "appliedRolesList": [
-    {
-      "company": "Zepto",
-      "title": "Senior Manager- MH Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-mh-operations-zepto-hosakote-bengaluru-3-to-8-years-201026008947?src=directSearch&sid=17925641880685527&xp=2&px=1",
-      "time": "2026-10-21T06:30:02.294Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Qwickly Venture",
-      "title": "Senior Manager - Warehouse Operation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-warehouse-operation-qwickly-ventures-navi-mumbai-bengaluru-10-to-15-years-191026005376?src=directSearch&sid=17925641880685527&xp=6&px=1",
-      "time": "2026-10-21T06:30:13.983Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Yokogawa",
-      "title": "Dx Proposal Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-dx-proposal-lead-yokogawa-bengaluru-5-to-8-years-140926017721?src=directSearch&sid=17925642654226940&xp=5&px=1",
-      "time": "2026-10-21T06:31:26.222Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Client of CareerPage",
-      "title": "Principal Consultant - Organisation Change Management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-principal-consultant-organisation-change-management-career-page-consulting-bengaluru-10-to-20-years-211026004228?src=directSearch&sid=17925667723536343&xp=1&px=1",
-      "time": "2026-10-21T07:13:06.597Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Infosys",
       "title": "AWS Devops Lead",
@@ -4001,6 +3969,38 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T00:15:16.770Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Navi",
+      "title": "Program Manager\nProgram Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4468685556&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T00:47:44.492Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Scapia",
+      "title": "Process Excellence & Experience Design\nProcess Excellence & Experience Design with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484478355&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T00:48:31.942Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "upGrad",
+      "title": "Director - Program Management | HigherEducation\nDirector - Program Management | HigherEducation with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T00:49:35.718Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Quess Corp Limited",
+      "title": "Technical Support Team Lead\nTechnical Support Team Lead with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484411937&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-29T00:50:45.356Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4813,
+  "totalVerifiedInHistory": 4817,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1051,
@@ -4722,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 206
+    "linkedin_easy_apply": 210
   },
-  "lastSyncedAt": "2026-10-29T00:37:20.415Z",
-  "lastUpdated": "29/10/2026, 6:07:20 am"
+  "lastSyncedAt": "2026-10-29T01:04:56.526Z",
+  "lastUpdated": "29/10/2026, 6:34:56 am"
 }
