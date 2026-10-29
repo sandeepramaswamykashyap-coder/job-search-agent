@@ -1,71 +1,7 @@
 {
-  "jobsScanned": 26855,
-  "applicationsSubmitted": 69,
+  "jobsScanned": 27058,
+  "applicationsSubmitted": 4825,
   "appliedRolesList": [
-    {
-      "company": "Infosys",
-      "title": "AWS Devops Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-aws-devops-lead-infosys-limited-bengaluru-5-to-9-years-290926933939?src=directSearch&sid=17925667723536343&xp=13&px=1",
-      "time": "2026-10-21T07:13:38.105Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Uni - Program Manager - Growth - IIT/NIT/BITS",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/uni-program-manager-growth-iit-nit-bits-1740871?ref=sp_br&jobPos=4",
-      "time": "2026-10-21T07:14:13.491Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Cost Transformation Consultant",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/cost-transformation-consultant-1740876?ref=sp_prm&jobPos=1",
-      "time": "2026-10-21T07:14:38.273Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Genpact",
-      "title": "Servicenow team Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-servicenow-team-lead-genpact-pune-bengaluru-delhi-ncr-8-to-13-years-151026033301?src=directSearch&sid=17925690022558694&xp=13&px=1",
-      "time": "2026-10-21T07:50:38.274Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Enterprise AI Adoption & Business Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-enterprise-ai-adoption-and-business-transformation-1740544?ref=sp_prm&jobPos=9",
-      "time": "2026-10-21T07:54:00.881Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "ReNew - Manager/Senior Manager - Manufacturing Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/renew-manager-senior-manager-manufacturing-operations-1740909?ref=sp_br&jobPos=18",
-      "time": "2026-10-21T08:32:27.298Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ascendion Engineering",
-      "title": "Global Head Digital Marketing",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-global-head-digital-marketing-ascendion-engineering-private-limited-bengaluru-16-to-25-years-110826016815?src=directSearch&sid=1792573667448248&xp=12&px=1",
-      "time": "2026-10-21T09:08:18.288Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Hirepro",
-      "title": "Business Transformation Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-business-transformation-manager-hirepro-bengaluru-10-to-20-years-211026012975?src=directSearch&sid=17925737174405487&xp=1&px=1",
-      "time": "2026-10-21T09:08:51.760Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Yes Bank - Manager - Technology & Data Transformation",
@@ -4003,25 +3939,68 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T01:05:38.270Z"
+      "company": "Prowebmatrix",
+      "title": "Personal Secretary\nPersonal Secretary with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477717372&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T01:23:23.982Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T01:05:38.276Z"
+      "company": "Mastercard",
+      "title": "Manager, Account Management\nManager, Account Management with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475764949&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T01:24:11.330Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T01:05:38.283Z"
+      "company": "Barclays",
+      "title": "BUK TESCO Bank IN - Colleague Product Owner - VP\nBUK TESCO Bank IN - Colleague Product Owner - VP with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4467063914&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-29T01:24:58.500Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Q2",
+      "title": "Manager, Operations Project Management\nManager, Operations Project Management with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475764949&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T01:25:45.829Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Emirates NBD",
+      "title": "Product Owner - Digital Channels\nProduct Owner - Digital Channels with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477717372&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T01:26:33.026Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Walmart",
+      "title": "Sr Manager, Business strategy & PMO\nSr Manager, Business strategy & PMO with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475764949&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T01:27:20.617Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "PhonePe",
+      "title": "CRM Manager\nCRM Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477717372&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T01:28:07.011Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Myntra",
+      "title": "Deputy Director - Marketplace\nDeputy Director - Marketplace with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475764949&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T01:28:54.671Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4817,
+  "totalVerifiedInHistory": 4825,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1051,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 210
+    "linkedin_easy_apply": 218
   },
-  "lastSyncedAt": "2026-10-29T01:04:56.526Z",
-  "lastUpdated": "29/10/2026, 6:34:56 am"
+  "lastSyncedAt": "2026-10-29T01:33:58.429Z",
+  "lastUpdated": "29/10/2026, 7:03:58 am"
 }
