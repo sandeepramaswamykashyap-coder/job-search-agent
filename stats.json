@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 29529,
-  "applicationsSubmitted": 4860,
+  "jobsScanned": 29634,
+  "applicationsSubmitted": 112,
   "appliedRolesList": [
     {
       "company": "IIMJobs Verified Employer",
@@ -4001,6 +4001,27 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475163729&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T06:11:13.386Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T06:31:04.969Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T06:31:04.977Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T06:31:04.986Z"
     }
   ],
   "failures": [
@@ -4724,6 +4745,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 247
   },
-  "lastSyncedAt": "2026-10-29T06:20:12.043Z",
-  "lastUpdated": "29/10/2026, 11:50:12 am"
+  "lastSyncedAt": "2026-10-29T06:30:40.595Z",
+  "lastUpdated": "29/10/2026, 12:00:40 pm"
 }
