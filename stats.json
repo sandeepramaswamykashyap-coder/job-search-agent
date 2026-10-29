@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 31659,
-  "applicationsSubmitted": 172,
+  "jobsScanned": 31761,
+  "applicationsSubmitted": 4927,
   "appliedRolesList": [
-    {
-      "company": "Leading Legal Services Company",
-      "title": "Human Resource Operations - Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-human-resource-operations-lead-talent-destination-bengaluru-5-to-8-years-240926039250?src=directSearch&sid=17926905637076144&xp=8&px=1",
-      "time": "2026-10-22T17:36:53.062Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "MAS Financial Services",
-      "title": "State Head - Commercial Vehicle Loans",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-state-head-commercial-vehicle-loans-mas-financial-services-bengaluru-10-to-20-years-221026034230?src=directSearch&sid=17926905637076144&xp=12&px=1",
-      "time": "2026-10-22T17:37:08.045Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Consulting- Regulatory Compliance -Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-consulting-regulatory-compliance-senior-manager-ey-bengaluru-delhi-ncr-11-to-17-years-290726034949?src=directSearch&sid=17927084400704955&xp=6&px=1",
-      "time": "2026-10-22T22:34:27.568Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Apexon",
-      "title": "Marketing Sr. Manager / Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-marketing-sr-manager-manager-apexon-pune-ahmedabad-bengaluru-8-to-12-years-211026017227",
-      "time": "2026-10-22T22:34:54.680Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Lytx",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-lytx-bengaluru-14-to-20-years-221026013113?src=directSearch&sid=17927084400704955&xp=10&px=1",
-      "time": "2026-10-22T22:35:09.589Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Assistant Director Strategic Finance & Business Insights",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-director-strategic-finance-business-insights-ernst-young-llp-bengaluru-bengaluru-8-to-11-years-221026921796?src=directSearch&sid=17927143184776791&xp=2&px=1",
-      "time": "2026-10-23T00:12:12.770Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Manager - GDS Ethics Office",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-gds-ethics-office-ernst-young-llp-bengaluru-bengaluru-8-to-10-years-221026921684?src=directSearch&sid=17927143184776791&xp=5&px=1",
-      "time": "2026-10-23T00:12:24.406Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Rolls-Royce",
       "title": "People Partner - Bangalore",
@@ -4003,25 +3947,60 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T11:17:28.592Z"
+      "company": "Talent Corner Hr Services",
+      "title": "General Manager Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-general-manager-operations-talent-corner-hr-services-bengaluru-15-to-20-years-271026025599?src=directSearch&sid=17932733478247023&xp=5&px=1",
+      "time": "2026-10-29T11:29:41.632Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T11:17:28.603Z"
+      "company": "Larsen & Toubro (L&T)",
+      "title": "Head Formwork For Project Site Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-formwork-for-project-site-operations-larsen-toubro-l-t-mumbai-hyderabad-bengaluru-15-to-20-years-281026033727?src=directSearch&sid=17932733478247023&xp=6&px=1",
+      "time": "2026-10-29T11:29:53.269Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T11:17:28.612Z"
+      "company": "Kosmoderma Skin Clinic",
+      "title": "Head of Operations Infrastructure  People & Governance",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-operations-infrastructure-people-governance-kosmoderma-skin-clinic-bengaluru-10-to-15-years-271026022084?src=directSearch&sid=17932733478247023&xp=7&px=1",
+      "time": "2026-10-29T11:30:04.693Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amadeus Labs - Senior Manager - Information Security",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amadeus-labs-senior-manager-information-security-1742832?ref=sp_br&jobPos=18",
+      "time": "2026-10-29T11:31:24.676Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amadeus - Principal Product Manager - Front Office/SECO Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amadeus-principal-product-manager-front-office-seco-transformation-1742831?ref=sp_br&jobPos=17",
+      "time": "2026-10-29T11:32:03.470Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Brand Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/brand-manager-1742836?ref=sp&jobPos=15",
+      "time": "2026-10-29T11:33:01.454Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "StepHub Properties",
+      "title": "Strategic Sales Consultant – Real Estate\nStrategic Sales Consultant – Real Estate",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4467063914&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T11:34:32.404Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4920,
+  "totalVerifiedInHistory": 4927,
   "portalBreakdown": {
-    "iimjobs": 688,
-    "naukri": 1077,
+    "iimjobs": 691,
+    "naukri": 1080,
     "weworkremotely": 15,
     "remoteok": 6,
     "direct_portal_greenhouse": 1384,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 84,
-    "linkedin_easy_apply": 271
+    "linkedin_easy_apply": 272
   },
-  "lastSyncedAt": "2026-10-29T11:17:12.430Z",
-  "lastUpdated": "29/10/2026, 4:47:12 pm"
+  "lastSyncedAt": "2026-10-29T11:35:22.851Z",
+  "lastUpdated": "29/10/2026, 5:05:22 pm"
 }
