@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 30687,
-  "applicationsSubmitted": 135,
+  "jobsScanned": 30861,
+  "applicationsSubmitted": 4890,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "GDS Cyber-AI Driven IAM-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gds-cyber-ai-driven-iam-manager-ernst-young-llp-bengaluru-7-to-12-years-221026916344?src=directSearch&sid=17926558590311439&xp=6&px=1",
-      "time": "2026-10-22T07:58:14.726Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HCLTech",
-      "title": "Solution SME(RPA)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-solution-sme-rpa-hcltech-bengaluru-7-to-12-years-290526009410?src=directSearch&sid=17926559013828736&xp=9&px=1",
-      "time": "2026-10-22T07:58:42.339Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "BC Sector O and G-Cognite-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-bc-sector-o-and-g-cognite-manager-ernst-young-llp-bengaluru-10-to-15-years-221026916544?src=directSearch&sid=17926559575045405&xp=8&px=1",
-      "time": "2026-10-22T07:59:35.135Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Director - SaT - TMT - SaT - S&E - Corporate Strategy",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-sat-tmt-sat-s-e-corporate-strategy-ernst-young-llp-bengaluru-10-to-15-years-221026916186?src=directSearch&sid=17926559845226434&xp=7&px=1",
-      "time": "2026-10-22T08:00:12.138Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Valuations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-valuations-1740862?ref=sp&jobPos=13",
-      "time": "2026-10-22T08:01:47.272Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Management Consulting - Power Sector",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-management-consulting-power-sector-1741160?ref=sp&jobPos=6",
-      "time": "2026-10-22T08:39:48.283Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Aakash Institute - Manager/Senior Manager - Strategy - IIM/IIT",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/aakash-institute-manager-senior-manager-strategy-iim-iit-1741179?ref=sp_prm&jobPos=6",
-      "time": "2026-10-22T09:16:32.516Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "GDS Meetings and Events - M and E Program Manager",
@@ -4003,25 +3947,60 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T08:44:57.121Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant Manager/Deputy Manager - Performance Management & Organizational Devel",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-manager-deputy-manager-performance-management-and-organizational-development-1742552?ref=sp&jobPos=7",
+      "time": "2026-10-29T08:59:10.111Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T08:44:57.133Z"
+      "company": "alt.f coworking",
+      "title": "Senior Sales Manager\nSenior Sales Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4465039236&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T09:00:44.354Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T08:44:57.143Z"
+      "company": "Deloitte",
+      "title": "Deloitte USI - Commercial and Contracts COE – Specialist Asst Manager | Bengaluru\nDeloitte USI - Commercial and Contracts COE – Specialist Asst Manager | Bengaluru with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T09:01:32.835Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ReSource Pro",
+      "title": "Manager, Service Delivery\nManager, Service Delivery",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4465039236&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T09:02:20.983Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Pivut",
+      "title": "Operations Associate\nOperations Associate",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455782865&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T09:03:24.218Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Program Manager, RBS Returns Reduction\nSr. Program Manager, RBS Returns Reduction with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4433949942&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
+      "time": "2026-10-29T09:03:55.545Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Biocon Biologics",
+      "title": "Program Manager\nProgram Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455782865&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T09:04:43.046Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,9 +4703,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4883,
+  "totalVerifiedInHistory": 4890,
   "portalBreakdown": {
-    "iimjobs": 682,
+    "iimjobs": 683,
     "naukri": 1070,
     "weworkremotely": 15,
     "remoteok": 6,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 250
+    "linkedin_easy_apply": 256
   },
-  "lastSyncedAt": "2026-10-29T08:44:17.184Z",
-  "lastUpdated": "29/10/2026, 2:14:17 pm"
+  "lastSyncedAt": "2026-10-29T09:12:12.393Z",
+  "lastUpdated": "29/10/2026, 2:42:12 pm"
 }
