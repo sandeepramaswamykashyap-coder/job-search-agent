@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 29039,
-  "applicationsSubmitted": 102,
+  "jobsScanned": 29053,
+  "applicationsSubmitted": 4850,
   "appliedRolesList": [
     {
       "company": "IIMJobs Verified Employer",
@@ -4001,27 +4001,6 @@
       "url": "https://www.iimjobs.com/j/amazon-manager-program-management-1742622?ref=sp_br&jobPos=6",
       "time": "2026-10-29T04:58:41.890Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T05:20:12.614Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T05:20:12.623Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T05:20:12.635Z"
     }
   ],
   "failures": [
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 240
   },
-  "lastSyncedAt": "2026-10-29T05:19:21.378Z",
-  "lastUpdated": "29/10/2026, 10:49:21 am"
+  "lastSyncedAt": "2026-10-29T05:23:22.654Z",
+  "lastUpdated": "29/10/2026, 10:53:22 am"
 }
