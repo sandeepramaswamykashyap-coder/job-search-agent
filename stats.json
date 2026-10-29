@@ -1,39 +1,7 @@
 {
-  "jobsScanned": 28437,
-  "applicationsSubmitted": 95,
+  "jobsScanned": 28563,
+  "applicationsSubmitted": 4847,
   "appliedRolesList": [
-    {
-      "company": "Crescendo Global",
-      "title": "Sr AVP Techops",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sr-avp-techops-crescendo-global-leadership-hiring-india-chennai-bengaluru-15-to-24-years-211026024741?src=drecomm_dashboard_apply",
-      "time": "2026-10-21T22:55:19.881Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Rolls-Royce",
-      "title": "Team Lead - CRP Services",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-team-lead-crp-services-rolls-royce-plc-bengaluru-5-to-8-years-191026011227?src=directSearch&sid=17926282817228572&xp=9&px=1",
-      "time": "2026-10-22T00:18:25.939Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Grid Dynamics",
-      "title": "Director Delivery",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-delivery-grid-dynamics-bengaluru-15-to-20-years-131025007395?src=directSearch&sid=17926328928325435&xp=8&px=1",
-      "time": "2026-10-22T01:35:13.775Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ICICI Life Insurance Limited",
-      "title": "Senior Manager - Group Business",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-group-business-icici-life-insurance-limited-bengaluru-5-to-10-years-290926030173?src=directSearch&sid=17926329426619075&xp=8&px=1",
-      "time": "2026-10-22T01:36:12.025Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mumba Technologies",
       "title": "Account Manager",
@@ -4003,25 +3971,36 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T04:08:46.972Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Legal & Contract Management - Hospital",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-legal-and-contract-management-hospital-1742603?ref=sp&jobPos=18",
+      "time": "2026-10-29T04:22:37.569Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T04:08:46.984Z"
+      "company": "Golden Opportunities",
+      "title": "Senior Manager/AGM/AVP- HRO Delivery - Bangalore - GO/JC/4587/2026\nSenior Manager/AGM/AVP- HRO Delivery - Bangalore - GO/JC/4587/2026 with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481206547&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T04:24:48.558Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T04:08:46.993Z"
+      "company": "JPMorganChase",
+      "title": "Associate - Process Manager\nAssociate - Process Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477720791&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T04:25:37.677Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Porter",
+      "title": "Manager- User growth\nManager- User growth with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481206547&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T04:26:26.391Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,9 +4703,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4843,
+  "totalVerifiedInHistory": 4847,
   "portalBreakdown": {
-    "iimjobs": 675,
+    "iimjobs": 676,
     "naukri": 1052,
     "weworkremotely": 15,
     "remoteok": 6,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 235
+    "linkedin_easy_apply": 238
   },
-  "lastSyncedAt": "2026-10-29T04:08:19.819Z",
-  "lastUpdated": "29/10/2026, 9:38:19 am"
+  "lastSyncedAt": "2026-10-29T04:26:38.582Z",
+  "lastUpdated": "29/10/2026, 9:56:38 am"
 }
