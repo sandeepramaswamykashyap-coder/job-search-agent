@@ -1,71 +1,7 @@
 {
-  "jobsScanned": 28115,
-  "applicationsSubmitted": 87,
+  "jobsScanned": 28311,
+  "applicationsSubmitted": 4843,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Vice President - Category Management - eCommerce/Fashion",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/vice-president-category-management-ecommerce-fashion-1740990?ref=sp&jobPos=17",
-      "time": "2026-10-21T12:23:02.568Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Axtria",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-axtria-india-private-limited-bengaluru-7-to-12-years-211026919117?src=directSearch&sid=17925874489058739&xp=8&px=1",
-      "time": "2026-10-21T12:57:53.109Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Hitachi Energy",
-      "title": "Global QCI Platform Owner - Digital Platforms",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-global-qci-platform-owner-digital-platforms-hitachi-energy-india-limited-bengaluru-bengaluru-15-to-20-years-191026910819?src=drecomm_dashboard_apply",
-      "time": "2026-10-21T14:10:21.335Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "Technical Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-architect-infosys-limited-bengaluru-9-to-14-years-191026901287?src=drecomm_dashboard_apply",
-      "time": "2026-10-21T14:11:33.060Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "TTT - PaPM - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ttt-papm-manager-ernst-young-llp-bengaluru-10-to-15-years-141026932210?src=drecomm_dashboard_apply",
-      "time": "2026-10-21T14:12:44.699Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Xoriant",
-      "title": "Performance Testing Engineer -AI",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-performance-testing-engineer-ai-xoriant-bengaluru-5-to-10-years-211026025144",
-      "time": "2026-10-21T14:18:10.503Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ptoe Global Solutions",
-      "title": "Managing Director Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-managing-director-operations-ptoe-global-solutions-bengaluru-10-to-15-years-211026026029?src=directSearch&sid=17925990748317040&xp=3&px=1",
-      "time": "2026-10-21T16:11:32.351Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IT Cart",
-      "title": "Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-it-cart-bengaluru-12-to-19-years-211026006872?src=directSearch&sid=17926015549074744&xp=7&px=1",
-      "time": "2026-10-21T16:52:52.512Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Crescendo Global",
       "title": "Sr AVP Techops",
@@ -4003,25 +3939,68 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T03:28:08.779Z"
+      "company": "Triomics",
+      "title": "Subject Matter Expert - Clinical Team\nSubject Matter Expert - Clinical Team with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:47:01.479Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T03:28:08.792Z"
+      "company": "Spot Your Leaders & Consulting",
+      "title": "SVP-Head of BFSI Solutions\nSVP-Head of BFSI Solutions",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:47:49.563Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T03:28:08.801Z"
+      "company": "Elliott Davis",
+      "title": "Regulatory Senior – BSA Compliance\nRegulatory Senior – BSA Compliance with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:48:36.972Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Zinier",
+      "title": "Support Lead\nSupport Lead with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476790319&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-29T03:49:35.798Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Accenture in India",
+      "title": "CET Movement - Manish Rathour - Infra Tech Support Practitioner\nCET Movement - Manish Rathour - Infra Tech Support Practitioner with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4480720035&f_AL=true&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER",
+      "time": "2026-10-29T03:49:47.979Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Moneyview",
+      "title": "Head - Training and Quality\nHead - Training and Quality with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:50:44.564Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Citi",
+      "title": "Business Analytics Grp Manager SVP\nBusiness Analytics Grp Manager SVP with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4478445157&f_AL=true&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:51:31.525Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "The Career Company | India",
+      "title": "AI Program Manager\nAI Program Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:52:19.512Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4835,
+  "totalVerifiedInHistory": 4843,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1052,
@@ -4743,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 227
+    "linkedin_easy_apply": 235
   },
-  "lastSyncedAt": "2026-10-29T03:28:05.876Z",
-  "lastUpdated": "29/10/2026, 8:58:05 am"
+  "lastSyncedAt": "2026-10-29T03:56:41.953Z",
+  "lastUpdated": "29/10/2026, 9:26:41 am"
 }
