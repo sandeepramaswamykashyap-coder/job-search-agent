@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 26806,
-  "applicationsSubmitted": 4817,
+  "jobsScanned": 26855,
+  "applicationsSubmitted": 69,
   "appliedRolesList": [
     {
       "company": "Infosys",
@@ -4001,6 +4001,27 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484411937&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
       "time": "2026-10-29T00:50:45.356Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T01:05:38.270Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T01:05:38.276Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T01:05:38.283Z"
     }
   ],
   "failures": [
