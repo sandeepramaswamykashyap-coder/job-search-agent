@@ -1,47 +1,7 @@
 {
-  "jobsScanned": 27807,
-  "applicationsSubmitted": 4830,
+  "jobsScanned": 28059,
+  "applicationsSubmitted": 4835,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Payoneer - Senior Business Development Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/payoneer-senior-business-development-manager-1740986?ref=sp_prm&jobPos=10",
-      "time": "2026-10-21T11:44:24.623Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Assistant Manager - Financial Planning & Analysis - SaaS",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-assistant-manager-financial-planning-and-analysis-saas-1740973?ref=sp&jobPos=7",
-      "time": "2026-10-21T11:45:31.414Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tif Labs",
-      "title": "STEM Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-stem-program-manager-tif-labs-bengaluru-4-to-9-years-211026017905?src=directSearch&sid=17925850800717459&xp=7&px=1",
-      "time": "2026-10-21T12:18:20.947Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Xpheno Pvt ltd",
-      "title": "COCO Head _Automobile Dealership",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-coco-head-automobile-dealership-xpheno-bengaluru-15-to-20-years-201026007112?src=directSearch&sid=17925852447488502&xp=6&px=1",
-      "time": "2026-10-21T12:20:59.027Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "EXL - Senior Manager - Reporting & Accounting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/exl-senior-manager-reporting-and-accounting-1740999?ref=sp_br_prm&jobPos=9",
-      "time": "2026-10-21T12:22:24.106Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Vice President - Category Management - eCommerce/Fashion",
@@ -4001,6 +3961,46 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T02:37:54.078Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Reach",
+      "title": "Key Account Manager\nKey Account Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:10:16.769Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Northern Trust",
+      "title": "Consultant, Risk\nConsultant, Risk with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:11:05.696Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mitigata™ - Full-Stack Cyber Resilience",
+      "title": "Associate Director - Delivery GRC\nAssociate Director - Delivery GRC",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:11:53.088Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "WhatsApp",
+      "title": "Product Manager, WhatsApp - India\nProduct Manager, WhatsApp - India with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:12:40.252Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Publicis Production",
+      "title": "Senior Product Manager\nSenior Product Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T03:13:27.524Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4830,
+  "totalVerifiedInHistory": 4835,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1052,
@@ -4722,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 222
+    "linkedin_easy_apply": 227
   },
-  "lastSyncedAt": "2026-10-29T02:59:13.894Z",
-  "lastUpdated": "29/10/2026, 8:29:13 am"
+  "lastSyncedAt": "2026-10-29T03:28:05.876Z",
+  "lastUpdated": "29/10/2026, 8:58:05 am"
 }
