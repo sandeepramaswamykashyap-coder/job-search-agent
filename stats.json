@@ -1,47 +1,7 @@
 {
-  "jobsScanned": 29053,
-  "applicationsSubmitted": 4850,
+  "jobsScanned": 29291,
+  "applicationsSubmitted": 4855,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Commercial Excellence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-commercial-excellence-1741054?ref=sp&jobPos=7",
-      "time": "2026-10-22T04:45:24.215Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Senior Manager- Technical AI project manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-technical-ai-project-manager-golden-opportunities-pvt-ltd-bengaluru-12-to-18-years-211026915361?src=drecomm_dashboard_apply",
-      "time": "2026-10-22T05:12:51.052Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sansera Engineering",
-      "title": "Manager Finance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-finance-sansera-engineering-limited-bengaluru-10-to-15-years-221026009286?src=directSearch&sid=17926461136615374&xp=13&px=1",
-      "time": "2026-10-22T05:15:41.114Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HR SOLUTIONS",
-      "title": "Enterprise sales Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-enterprise-sales-manager-hr-solutions-noida-chennai-bengaluru-10-to-20-years-221026012512?src=directSearch&sid=17926485634715816&xp=10&px=1",
-      "time": "2026-10-22T05:56:27.545Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Client of Connect HR",
-      "title": "Manufacturing Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manufacturing-head-connect-hr-hosur-bengaluru-12-to-18-years-211026024465?src=directSearch&sid=17926485634715816&xp=12&px=1",
-      "time": "2026-10-22T05:56:39.198Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Head - Operations - FMCG/Foods & Beverage",
@@ -4001,6 +3961,46 @@
       "url": "https://www.iimjobs.com/j/amazon-manager-program-management-1742622?ref=sp_br&jobPos=6",
       "time": "2026-10-29T04:58:41.890Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Moglix - Associate Director - BESS Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/moglix-associate-director-bess-operations-1742646?ref=sp_br&jobPos=4",
+      "time": "2026-10-29T05:31:34.523Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EXL",
+      "title": "3876839-Senior Manager\n3876839-Senior Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473662148&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T05:33:29.246Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Apex Growth Talent",
+      "title": "Chief of Staff (F&B / QSR / Hospitality Experience Preferred)\nChief of Staff (F&B / QSR / Hospitality Experience Preferred)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472974126&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-29T05:34:51.180Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "JLL",
+      "title": "Senior Director, Office Leasing Advisory\nSenior Director, Office Leasing Advisory",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4478842407&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-10-29T05:35:10.300Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Amor Management Consultants - India’s Premiere Auto Talent Hiring Specialists",
+      "title": "Chief Executive Officer\nChief Executive Officer",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472974126&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-10-29T05:35:58.492Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,9 +4703,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4850,
+  "totalVerifiedInHistory": 4855,
   "portalBreakdown": {
-    "iimjobs": 677,
+    "iimjobs": 678,
     "naukri": 1052,
     "weworkremotely": 15,
     "remoteok": 6,
@@ -4722,8 +4722,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 240
+    "linkedin_easy_apply": 244
   },
-  "lastSyncedAt": "2026-10-29T05:23:22.654Z",
-  "lastUpdated": "29/10/2026, 10:53:22 am"
+  "lastSyncedAt": "2026-10-29T05:51:04.277Z",
+  "lastUpdated": "29/10/2026, 11:21:04 am"
 }
