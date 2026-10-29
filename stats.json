@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 29781,
-  "applicationsSubmitted": 4865,
+  "jobsScanned": 29925,
+  "applicationsSubmitted": 117,
   "appliedRolesList": [
     {
       "company": "EY",
@@ -4001,6 +4001,27 @@
       "url": "https://www.naukri.com/job-listings-test-delivery-manager-test-yantra-bengaluru-8-to-10-years-281026011172?src=directSearch&sid=17932560926975213&xp=10&px=1",
       "time": "2026-10-29T06:42:35.651Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T06:59:48.798Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T06:59:48.811Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T06:59:48.820Z"
     }
   ],
   "failures": [
@@ -4724,6 +4745,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 247
   },
-  "lastSyncedAt": "2026-10-29T06:48:52.733Z",
-  "lastUpdated": "29/10/2026, 12:18:52 pm"
+  "lastSyncedAt": "2026-10-29T06:59:27.225Z",
+  "lastUpdated": "29/10/2026, 12:29:27 pm"
 }
