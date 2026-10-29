@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 30231,
-  "applicationsSubmitted": 4877,
+  "jobsScanned": 30441,
+  "applicationsSubmitted": 132,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Associate Director - Global Real Estate Services Operations Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-global-real-estate-services-operations-lead-ernst-young-llp-bengaluru-12-to-17-years-221026916617?src=directSearch&sid=17926557468078901&xp=8&px=1",
-      "time": "2026-10-22T07:56:24.245Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Next Frontier Quantum Lead - Innovation and Data Office",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-next-frontier-quantum-lead-innovation-and-data-office-ernst-young-llp-bengaluru-12-to-15-years-221026916467?src=directSearch&sid=17926557468078901&xp=9&px=1",
-      "time": "2026-10-22T07:56:35.814Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "GDS Executive Director - Finance, Digital & Business Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gds-executive-director-finance-digital-business-transformation-ernst-young-llp-bengaluru-5-to-9-years-221026916197?src=directSearch&sid=17926557468078901&xp=10&px=1",
-      "time": "2026-10-22T07:56:47.452Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Wipro",
       "title": "TECHNICAL LEAD L1",
@@ -4001,6 +3977,51 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T07:20:18.580Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Client of EDGE",
+      "title": "Principal Consultant- Financial Services",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-principal-consultant-financial-services-edge-executive-search-pune-bengaluru-mumbai-all-areas-15-to-24-years-291026012616?src=directSearch&sid=17932600486886995&xp=11&px=1",
+      "time": "2026-10-29T07:47:55.341Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "PharmEasy - Head - Operational Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pharmeasy-head-operational-excellence-1742721?ref=sp_br&jobPos=1",
+      "time": "2026-10-29T07:52:05.294Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tyroo",
+      "title": "Client Partner - Tyroo.TV\nClient Partner - Tyroo.TV with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475843316&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T07:53:26.427Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T08:11:46.729Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T08:11:46.742Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T08:11:46.751Z"
     }
   ],
   "failures": [
@@ -4703,10 +4724,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4877,
+  "totalVerifiedInHistory": 4880,
   "portalBreakdown": {
-    "iimjobs": 679,
-    "naukri": 1068,
+    "iimjobs": 680,
+    "naukri": 1069,
     "weworkremotely": 15,
     "remoteok": 6,
     "direct_portal_greenhouse": 1384,
@@ -4722,8 +4743,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 249
+    "linkedin_easy_apply": 250
   },
-  "lastSyncedAt": "2026-10-29T07:46:51.680Z",
-  "lastUpdated": "29/10/2026, 1:16:51 pm"
+  "lastSyncedAt": "2026-10-29T08:11:45.745Z",
+  "lastUpdated": "29/10/2026, 1:41:45 pm"
 }
