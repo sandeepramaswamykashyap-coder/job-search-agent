@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 30189,
-  "applicationsSubmitted": 129,
+  "jobsScanned": 30231,
+  "applicationsSubmitted": 4877,
   "appliedRolesList": [
     {
       "company": "EY",
@@ -4001,27 +4001,6 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T07:20:18.580Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T07:29:02.730Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T07:29:02.745Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T07:29:02.754Z"
     }
   ],
   "failures": [
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 249
   },
-  "lastSyncedAt": "2026-10-29T07:28:41.364Z",
-  "lastUpdated": "29/10/2026, 12:58:41 pm"
+  "lastSyncedAt": "2026-10-29T07:46:51.680Z",
+  "lastUpdated": "29/10/2026, 1:16:51 pm"
 }
