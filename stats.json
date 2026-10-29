@@ -1,63 +1,7 @@
 {
-  "jobsScanned": 26309,
-  "applicationsSubmitted": 4806,
+  "jobsScanned": 26540,
+  "applicationsSubmitted": 65,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Chief Manager - Actuarial - IFRS/IndAS - Life Insurance",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-chief-manager-actuarial-ifrs-indas-life-insurance-1740772?ref=sp&jobPos=1",
-      "time": "2026-10-21T04:08:43.983Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Finance Transformation & SAP S/4HANA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-finance-transformation-and-sap-s-4hana-1740760?ref=sp&jobPos=18",
-      "time": "2026-10-21T04:08:54.542Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Crescendo Global",
-      "title": "Director Software Engineering",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-software-engineering-crescendo-global-leadership-hiring-india-pune-gurugram-bengaluru-15-to-24-years-211026003906?src=directSearch&sid=17925577329246487&xp=13&px=1",
-      "time": "2026-10-21T04:42:43.722Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Associate Director - Business Process Transformation - SAP Signavio",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/associate-director-business-process-transformation-sap-signavio-1740774?ref=sp&jobPos=13",
-      "time": "2026-10-21T04:47:12.739Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Talent Acquisition",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-talent-acquisition-1740788?ref=sp&jobPos=1",
-      "time": "2026-10-21T04:47:28.935Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Veripark",
-      "title": "Project Manager - (Banking & MS Dynamics CRM)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-banking-ms-dynamics-crm-veripark-hyderabad-10-to-20-years-191026010681?src=drecomm_dashboard_apply",
-      "time": "2026-10-21T05:11:40.920Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager - Brand & Social Media - Quick Commerce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-brand-and-social-media-quick-commerce-1740799?ref=sp&jobPos=15",
-      "time": "2026-10-21T05:18:33.087Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Zepto",
       "title": "Senior Manager- MH Operations",
@@ -4001,6 +3945,83 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481371235&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T00:08:56.507Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Vialto",
+      "title": "Operational Excellence - Senior Manager - VVN India\nOperational Excellence - Senior Manager - VVN India with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4469450476&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T00:09:44.383Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Foundation for Science, Innovation and Development, IISc Bangalore",
+      "title": "Program Manager\nProgram Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T00:10:46.708Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Program Manager, RBS Brand Experience (BX)\nSenior Program Manager, RBS Brand Experience (BX) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
+      "time": "2026-10-29T00:11:33.561Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Movate",
+      "title": "Technical Program Manager\nTechnical Program Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T00:12:20.935Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Functional Quality Program Manager\nFunctional Quality Program Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
+      "time": "2026-10-29T00:13:09.001Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "LSEG",
+      "title": "Technical Delivery Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=150",
+      "time": "2026-10-29T00:13:56.587Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "YourDOST",
+      "title": "Chief Of Staff/ Entrepreneur in Residence\nChief Of Staff/ Entrepreneur in Residence with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T00:15:16.770Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T00:33:41.539Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T00:33:41.550Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T00:33:41.559Z"
     }
   ],
   "failures": [
@@ -4703,7 +4724,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4806,
+  "totalVerifiedInHistory": 4813,
   "portalBreakdown": {
     "iimjobs": 675,
     "naukri": 1051,
@@ -4722,8 +4743,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 199
+    "linkedin_easy_apply": 206
   },
-  "lastSyncedAt": "2026-10-29T00:09:34.187Z",
-  "lastUpdated": "29/10/2026, 5:39:34 am"
+  "lastSyncedAt": "2026-10-29T00:33:12.368Z",
+  "lastUpdated": "29/10/2026, 6:03:12 am"
 }
