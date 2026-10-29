@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 30015,
-  "applicationsSubmitted": 4875,
+  "jobsScanned": 30189,
+  "applicationsSubmitted": 129,
   "appliedRolesList": [
-    {
-      "company": "Infosys",
-      "title": "Python React Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-python-react-lead-infosys-limited-bengaluru-3-to-8-years-280926920759?src=directSearch&sid=17926557468078901&xp=5&px=1",
-      "time": "2026-10-22T07:56:00.985Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Global investment Bank",
-      "title": "Lead Finance Control Assurance(Internal Audit, L2 ControlTesting &Acct",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-finance-control-assurance-internal-audit-l2-controltesting-acct-allegis-global-solutions-ags-bengaluru-6-to-10-years-250926029492?src=directSearch&sid=17926557468078901&xp=6&px=1",
-      "time": "2026-10-22T07:56:12.616Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Associate Director - Global Real Estate Services Operations Lead",
@@ -4001,6 +3985,43 @@
       "url": "https://www.iimjobs.com/j/jp-morgan-chase-executive-director-global-confirmations-and-rco-data-exchange-operations-1742697?ref=sp_br&jobPos=7",
       "time": "2026-10-29T07:17:35.877Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Diya Ghar",
+      "title": "FUNDRAISING MANAGER (Retail & Institutional Partnerships)\nFUNDRAISING MANAGER (Retail & Institutional Partnerships) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4479511517&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T07:19:30.312Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "MANAGER PEOPLE PRACTICE - Compensation and Benefits\nMANAGER PEOPLE PRACTICE - Compensation and Benefits with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T07:20:18.580Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T07:29:02.730Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T07:29:02.745Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T07:29:02.754Z"
     }
   ],
   "failures": [
@@ -4703,7 +4724,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4875,
+  "totalVerifiedInHistory": 4877,
   "portalBreakdown": {
     "iimjobs": 679,
     "naukri": 1068,
@@ -4722,8 +4743,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 247
+    "linkedin_easy_apply": 249
   },
-  "lastSyncedAt": "2026-10-29T07:17:50.370Z",
-  "lastUpdated": "29/10/2026, 12:47:50 pm"
+  "lastSyncedAt": "2026-10-29T07:28:41.364Z",
+  "lastUpdated": "29/10/2026, 12:58:41 pm"
 }
