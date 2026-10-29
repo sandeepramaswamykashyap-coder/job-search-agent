@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 31059,
-  "applicationsSubmitted": 4895,
+  "jobsScanned": 31107,
+  "applicationsSubmitted": 149,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Cyber Architecture- OT and Engineering-OT Security- Associate Director",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-cyber-architecture-ot-and-engineering-ot-security-associate-director-ernst-young-llp-bengaluru-bengaluru-17-to-20-years-221026921466?src=directSearch&sid=17926629100348848&xp=5&px=1",
-      "time": "2026-10-22T09:55:27.582Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "TMT - Media & Entertainment-Solution Architect - SM",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tmt-media-entertainment-solution-architect-sm-ernst-young-llp-bengaluru-bengaluru-10-to-19-years-221026921798?src=directSearch&sid=17926629311386956&xp=12&px=1",
-      "time": "2026-10-22T09:55:52.135Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Tan90 Thermal",
       "title": "Director- Operations",
@@ -4001,6 +3985,43 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4433964128&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
       "time": "2026-10-29T09:40:34.003Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Airbus India Private Limited",
+      "title": "Senior Project Management Business Partner For Single Aisle Programme",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
+      "time": "2026-10-29T09:53:50.972Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Airbus India Private Limited",
+      "title": "Senior Project Management Business Partner - PM Method and Performance Specialist",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoYPu6KkAAAACZok2RQAQAQABXyL8hSoEglM1m-SDcgAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoYPu6KkAAAACZok2RQAQAQABXyL8hSoEglM1m-SDcgAA&from=page-two-signin",
+      "time": "2026-10-29T10:00:48.889Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T10:01:39.951Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T10:01:39.962Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T10:01:39.971Z"
     }
   ],
   "failures": [
@@ -4703,7 +4724,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4895,
+  "totalVerifiedInHistory": 4897,
   "portalBreakdown": {
     "iimjobs": 684,
     "naukri": 1070,
@@ -4721,9 +4742,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 82,
+    "indeed": 84,
     "linkedin_easy_apply": 260
   },
-  "lastSyncedAt": "2026-10-29T09:40:58.403Z",
-  "lastUpdated": "29/10/2026, 3:10:58 pm"
+  "lastSyncedAt": "2026-10-29T10:00:49.079Z",
+  "lastUpdated": "29/10/2026, 3:30:49 pm"
 }
