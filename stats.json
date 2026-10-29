@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 28801,
-  "applicationsSubmitted": 4849,
+  "jobsScanned": 29039,
+  "applicationsSubmitted": 102,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Loyalty & Rewards - D2C",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-loyalty-and-rewards-d2c-1741050?ref=sp&jobPos=2",
-      "time": "2026-10-22T04:44:57.365Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Director - Commercial Excellence",
@@ -4001,6 +3993,35 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481206547&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T04:28:01.040Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amazon - Manager - Program Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amazon-manager-program-management-1742622?ref=sp_br&jobPos=6",
+      "time": "2026-10-29T04:58:41.890Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T05:20:12.614Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T05:20:12.623Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T05:20:12.635Z"
     }
   ],
   "failures": [
@@ -4703,9 +4724,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4849,
+  "totalVerifiedInHistory": 4850,
   "portalBreakdown": {
-    "iimjobs": 676,
+    "iimjobs": 677,
     "naukri": 1052,
     "weworkremotely": 15,
     "remoteok": 6,
@@ -4724,6 +4745,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 240
   },
-  "lastSyncedAt": "2026-10-29T04:54:16.012Z",
-  "lastUpdated": "29/10/2026, 10:24:16 am"
+  "lastSyncedAt": "2026-10-29T05:19:21.378Z",
+  "lastUpdated": "29/10/2026, 10:49:21 am"
 }
