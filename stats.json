@@ -1,47 +1,7 @@
 {
-  "jobsScanned": 29634,
-  "applicationsSubmitted": 112,
+  "jobsScanned": 29781,
+  "applicationsSubmitted": 4865,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Employee Relations - Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-employee-relations-consulting-1741107?ref=sp&jobPos=3",
-      "time": "2026-10-22T06:38:14.251Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ascendion Engineering",
-      "title": "Solution Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-solution-architect-ascendion-engineering-private-limited-chennai-bengaluru-india-16-to-25-years-260626024318?src=directSearch&sid=17926531254087148&xp=8&px=1",
-      "time": "2026-10-22T07:12:23.137Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "RC FS-BT INS-Sales - CRM transformation-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-rc-fs-bt-ins-sales-crm-transformation-manager-ernst-young-llp-bengaluru-10-to-12-years-221026915802?src=directSearch&sid=17926531254087148&xp=9&px=1",
-      "time": "2026-10-22T07:12:34.846Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Adecco India",
-      "title": "Associate Director - Sales Operations & Client Delivery",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-sales-operations-client-delivery-adecco-india-bengaluru-15-to-20-years-221026016636?src=directSearch&sid=17926531647892185&xp=4&px=1",
-      "time": "2026-10-22T07:13:17.769Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Tax ACR-RTR-RF-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tax-acr-rtr-rf-manager-ernst-young-llp-bengaluru-7-to-10-years-221026916022?src=directSearch&sid=17926532077256244&xp=6&px=1",
-      "time": "2026-10-22T07:13:59.976Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "DE-Fullstack-Manager",
@@ -4003,25 +3963,44 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T06:31:04.969Z"
+      "company": "Larsen & Toubro (L&T)",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-larsen-toubro-l-t-bengaluru-8-to-13-years-291026006511?src=directSearch&sid=17932558585669422&xp=11&px=1",
+      "time": "2026-10-29T06:38:02.188Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T06:31:04.977Z"
+      "company": "Intellics Global Services",
+      "title": "ASIC Technical Program Manager (TPM)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-asic-technical-program-manager-tpm-intellics-global-services-pune-chennai-bengaluru-15-to-24-years-291026006581?src=directSearch&sid=17932558858228922&xp=8&px=1",
+      "time": "2026-10-29T06:38:29.242Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T06:31:04.986Z"
+      "company": "Orcapod Consulting Service s",
+      "title": "Hiring For Delivery and Account manager-WFH",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hiring-for-delivery-and-account-manager-wfh-orcapod-consulting-services-hyderabad-bengaluru-10-to-16-years-310826022569?src=directSearch&sid=17932560926975213&xp=1&px=1",
+      "time": "2026-10-29T06:41:46.532Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "KPI Partners",
+      "title": "Delivery Manager-Azure Data Engineering",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-azure-data-engineering-kpi-partners-hyderabad-pune-bengaluru-10-to-20-years-291026007775?src=directSearch&sid=17932560926975213&xp=4&px=1",
+      "time": "2026-10-29T06:42:17.785Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Test Yantra",
+      "title": "Test Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-test-delivery-manager-test-yantra-bengaluru-8-to-10-years-281026011172?src=directSearch&sid=17932560926975213&xp=10&px=1",
+      "time": "2026-10-29T06:42:35.651Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4860,
+  "totalVerifiedInHistory": 4865,
   "portalBreakdown": {
     "iimjobs": 678,
-    "naukri": 1054,
+    "naukri": 1059,
     "weworkremotely": 15,
     "remoteok": 6,
     "direct_portal_greenhouse": 1384,
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 247
   },
-  "lastSyncedAt": "2026-10-29T06:30:40.595Z",
-  "lastUpdated": "29/10/2026, 12:00:40 pm"
+  "lastSyncedAt": "2026-10-29T06:48:52.733Z",
+  "lastUpdated": "29/10/2026, 12:18:52 pm"
 }
