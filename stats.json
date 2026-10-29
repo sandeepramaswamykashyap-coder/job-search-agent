@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 30657,
-  "applicationsSubmitted": 4883,
+  "jobsScanned": 30687,
+  "applicationsSubmitted": 135,
   "appliedRolesList": [
     {
       "company": "EY",
@@ -4001,6 +4001,27 @@
       "url": "https://www.iimjobs.com/j/it-program-manager-digital-transformation-1742686?ref=sp&jobPos=16",
       "time": "2026-10-29T08:26:54.965Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T08:44:57.121Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T08:44:57.133Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T08:44:57.143Z"
     }
   ],
   "failures": [
