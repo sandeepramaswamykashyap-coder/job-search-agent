@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 32541,
-  "applicationsSubmitted": 4930,
+  "jobsScanned": 32559,
+  "applicationsSubmitted": 4931,
   "appliedRolesList": [
-    {
-      "company": "Aster DM Healthcare",
-      "title": "Senior Manager FPA",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-fpa-aster-dm-healthcare-kozhikode-bengaluru-4-to-8-years-220926050966?src=directSearch&sid=17927311751487562&xp=12&px=1",
-      "time": "2026-10-23T04:53:37.780Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "Digitalization and IT Operation Lead",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-general-manager-hrbp-yellow-box-hr-services-bengaluru-delhi-ncr-mumbai-all-areas-12-to-22-years-291026030356?src=directSearch&sid=17932777380295851&xp=10&px=1",
       "time": "2026-10-29T12:42:54.111Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of AI Deployment & Partner Delivery  (US)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/e207472f-b27e-4c6d-8806-ddb12038ebd0",
+      "time": "2026-10-29T14:51:00.689Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,7 +4703,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4930,
+  "totalVerifiedInHistory": 4931,
   "portalBreakdown": {
     "iimjobs": 691,
     "naukri": 1082,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 595,
+    "direct_portal_ashby": 596,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 85,
     "linkedin_easy_apply": 272
   },
-  "lastSyncedAt": "2026-10-29T14:10:31.289Z",
-  "lastUpdated": "29/10/2026, 7:40:31 pm"
+  "lastSyncedAt": "2026-10-29T14:51:00.750Z",
+  "lastUpdated": "29/10/2026, 8:21:00 pm"
 }
