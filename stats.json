@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 30447,
-  "applicationsSubmitted": 4880,
+  "jobsScanned": 30657,
+  "applicationsSubmitted": 4883,
   "appliedRolesList": [
-    {
-      "company": "Wipro",
-      "title": "TECHNICAL LEAD L1",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-lead-l1-wipro-limited-bengaluru-7-to-12-years-221026011107?src=directSearch&sid=17926557468078901&xp=12&px=1",
-      "time": "2026-10-22T07:56:59.217Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "International BPO/KPO",
-      "title": "Associate Director Sales Operations",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-director-sales-operations-adecco-india-bengaluru-14-to-24-years-221026017044?src=directSearch&sid=17926558224795359&xp=7&px=1",
-      "time": "2026-10-22T07:57:35.669Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "TTT - Servicenow+AI - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ttt-servicenow-ai-manager-ernst-young-llp-bengaluru-6-to-11-years-221026916478?src=directSearch&sid=17926558590311439&xp=4&px=1",
-      "time": "2026-10-22T07:57:59.817Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "GDS Cyber-AI Driven IAM-Manager",
@@ -4001,6 +3977,30 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475843316&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T07:53:26.427Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Linkterra Dynamics",
+      "title": "VP - US Mortgage (Title Operations)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-vp-us-mortgage-title-operations-linkterra-dynamics-bengaluru-11-to-18-years-291026014337?src=directSearch&sid=17932622531206195&xp=8&px=1",
+      "time": "2026-10-29T08:24:27.235Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Cvent - Senior Product Manager - Salesforce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cvent-senior-product-manager-salesforce-1742733?ref=sp_br_prm&jobPos=10",
+      "time": "2026-10-29T08:25:21.687Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IT Program Manager - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/it-program-manager-digital-transformation-1742686?ref=sp&jobPos=16",
+      "time": "2026-10-29T08:26:54.965Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4880,
+  "totalVerifiedInHistory": 4883,
   "portalBreakdown": {
-    "iimjobs": 680,
-    "naukri": 1069,
+    "iimjobs": 682,
+    "naukri": 1070,
     "weworkremotely": 15,
     "remoteok": 6,
     "direct_portal_greenhouse": 1384,
@@ -4724,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 250
   },
-  "lastSyncedAt": "2026-10-29T08:15:45.215Z",
-  "lastUpdated": "29/10/2026, 1:45:45 pm"
+  "lastSyncedAt": "2026-10-29T08:44:17.184Z",
+  "lastUpdated": "29/10/2026, 2:14:17 pm"
 }
