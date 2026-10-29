@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 28563,
-  "applicationsSubmitted": 4847,
+  "jobsScanned": 28752,
+  "applicationsSubmitted": 101,
   "appliedRolesList": [
-    {
-      "company": "Mumba Technologies",
-      "title": "Account Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-account-manager-mumba-technologies-bengaluru-7-to-12-years-211026003221?src=drecomm_dashboard_apply",
-      "time": "2026-10-22T02:46:02.685Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "A.P. Moller Maersk",
-      "title": "Cyber Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-cyber-manager-a-p-moller-maersk-bengaluru-8-to-13-years-221026006436?src=directSearch&sid=17926374773686477&xp=9&px=1",
-      "time": "2026-10-22T02:51:44.864Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - Loyalty & Rewards - D2C",
@@ -4001,6 +3985,43 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481206547&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T04:26:26.391Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Capco",
+      "title": "PMO\nPMO with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477720791&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T04:27:14.472Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Moksha Media Group",
+      "title": "Client Servicing Lead\nClient Servicing Lead with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481206547&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-10-29T04:28:01.040Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-10-29T04:36:10.350Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-10-29T04:36:10.362Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-10-29T04:36:10.371Z"
     }
   ],
   "failures": [
@@ -4703,7 +4724,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4847,
+  "totalVerifiedInHistory": 4849,
   "portalBreakdown": {
     "iimjobs": 676,
     "naukri": 1052,
@@ -4722,8 +4743,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 82,
-    "linkedin_easy_apply": 238
+    "linkedin_easy_apply": 240
   },
-  "lastSyncedAt": "2026-10-29T04:26:38.582Z",
-  "lastUpdated": "29/10/2026, 9:56:38 am"
+  "lastSyncedAt": "2026-10-29T04:35:51.901Z",
+  "lastUpdated": "29/10/2026, 10:05:51 am"
 }
