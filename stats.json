@@ -1,87 +1,7 @@
 {
-  "jobsScanned": 29925,
-  "applicationsSubmitted": 117,
+  "jobsScanned": 30015,
+  "applicationsSubmitted": 4875,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "DE-Fullstack-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-de-fullstack-manager-ernst-young-llp-bengaluru-3-to-8-years-221026915887?src=directSearch&sid=17926532077256244&xp=11&px=1",
-      "time": "2026-10-22T07:14:14.970Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "AI Strategic Consultant - Test Architect - PAN India",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-strategic-consultant-test-architect-pan-india-infosys-pune-chennai-bengaluru-8-to-13-years-070926026924?src=directSearch&sid=17926532583015687&xp=7&px=1",
-      "time": "2026-10-22T07:14:45.726Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "PAS-Tax Payroll-Senior",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-pas-tax-payroll-senior-ernst-young-llp-bengaluru-7-to-12-years-221026915835?src=directSearch&sid=17926533691236119&xp=4&px=1",
-      "time": "2026-10-22T07:16:29.948Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "GMx Manager-Delivery Improvement Design thinking",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-gmx-manager-delivery-improvement-design-thinking-ernst-young-llp-bengaluru-9-to-14-years-221026915495?src=directSearch&sid=17926533691236119&xp=5&px=1",
-      "time": "2026-10-22T07:16:41.624Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - India Operations - IT Services",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-india-operations-it-services-1741120?ref=sp&jobPos=6",
-      "time": "2026-10-22T07:18:14.503Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "AlphaSense",
-      "title": "Senior Engineering Manager - Product Platforms",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoWHcdFMAAAACZamvdgARAQAM3_m6Sl1dWlZWwu7PIXYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoWHcdFMAAAACZamvdgARAQAM3_m6Sl1dWlZWwu7PIXYAAA&from=page-two-signin",
-      "time": "2026-10-22T07:38:58.893Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "PROJECT MANAGER IV",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-iv-te-connectivity-india-private-limited-bengaluru-10-to-15-years-211026918928?src=drecomm_dashboard_apply",
-      "time": "2026-10-22T07:50:26.634Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "ST - Telco-Nokia Flow One-Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-st-telco-nokia-flow-one-manager-ernst-young-llp-bengaluru-10-to-12-years-221026916069?src=directSearch&sid=17926556477647223&xp=5&px=1",
-      "time": "2026-10-22T07:54:28.556Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "TC-CS-AEET-Manager-ZT",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-tc-cs-aeet-manager-zt-ernst-young-llp-bengaluru-8-to-12-years-221026916481?src=directSearch&sid=17926556477647223&xp=11&px=1",
-      "time": "2026-10-22T07:54:46.876Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Manager - Total Rewards Analytics",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-total-rewards-analytics-ernst-young-llp-bengaluru-8-to-12-years-221026916279?src=directSearch&sid=17926557191215119&xp=6&px=1",
-      "time": "2026-10-22T07:55:36.713Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Infosys",
       "title": "Python React Lead",
@@ -4003,25 +3923,84 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T06:59:48.798Z"
+      "company": "HCLTech",
+      "title": "HCL Tech Technical Lead   SAP Finance and Costing",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-hcl-tech-technical-lead-sap-finance-and-costing-hcltech-hyderabad-pune-bengaluru-5-to-10-years-281026014249",
+      "time": "2026-10-29T07:12:09.796Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T06:59:48.811Z"
+      "company": "LanceSoft",
+      "title": "Supply Capability Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-supply-capability-lead-lancesoft-bengaluru-6-to-10-years-291026009511?src=directSearch&sid=17932579094121660&xp=8&px=1",
+      "time": "2026-10-29T07:12:21.259Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T06:59:48.820Z"
+      "company": "Xevyte Technologies",
+      "title": "Technical Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-lead-xevyte-technologies-bangalore-rural-bengaluru-8-to-12-years-291026009453?src=directSearch&sid=17932579094121660&xp=9&px=1",
+      "time": "2026-10-29T07:12:32.683Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Crescendo Global",
+      "title": "P2P Process Design Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-p2p-process-design-lead-crescendo-global-leadership-hiring-india-pune-bengaluru-7-to-12-years-291026007370?src=directSearch&sid=17932579094121660&xp=10&px=1",
+      "time": "2026-10-29T07:12:44.139Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Crescendo Global",
+      "title": "Consultant -FPNA -Process Design - Finance Transformation-7 Years-Pune",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-consultant-fpna-process-design-finance-transformation-7-years-pune-crescendo-global-leadership-hiring-india-pune-bengaluru-7-to-12-years-291026004349?src=directSearch&sid=17932579094121660&xp=11&px=1",
+      "time": "2026-10-29T07:12:55.627Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-happiest-minds-technologies-bengaluru-16-to-24-years-291026011593?src=directSearch&sid=17932580535564818&xp=7&px=1",
+      "time": "2026-10-29T07:14:51.839Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "ASSOCIATE PROGRAM DIRECTOR - Program Management",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-program-director-program-management-happiest-minds-technologies-bengaluru-13-to-16-years-291026009708?src=directSearch&sid=17932580535564818&xp=8&px=1",
+      "time": "2026-10-29T07:15:18.033Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infovision Labs",
+      "title": "Scrum Master Project Manager Oracle Apps Technical",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-scrum-master-project-manager-oracle-apps-technical-infovision-inc-pune-bengaluru-9-to-14-years-291026009284?src=directSearch&sid=17932581342256133&xp=13&px=1",
+      "time": "2026-10-29T07:15:48.385Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Omega Healthcare",
+      "title": "Manager-Delivery Quality-Home Health",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-delivery-quality-home-health-omega-healthcare-chennai-bengaluru-9-to-12-years-291026010292?src=directSearch&sid=17932581766198688&xp=4&px=1",
+      "time": "2026-10-29T07:16:30.650Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Executive Director - Global Confirmations & RCO Data Exchange",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-executive-director-global-confirmations-and-rco-data-exchange-operations-1742697?ref=sp_br&jobPos=7",
+      "time": "2026-10-29T07:17:35.877Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4724,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4865,
+  "totalVerifiedInHistory": 4875,
   "portalBreakdown": {
-    "iimjobs": 678,
-    "naukri": 1059,
+    "iimjobs": 679,
+    "naukri": 1068,
     "weworkremotely": 15,
     "remoteok": 6,
     "direct_portal_greenhouse": 1384,
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 247
   },
-  "lastSyncedAt": "2026-10-29T06:59:27.225Z",
-  "lastUpdated": "29/10/2026, 12:29:27 pm"
+  "lastSyncedAt": "2026-10-29T07:17:50.370Z",
+  "lastUpdated": "29/10/2026, 12:47:50 pm"
 }
