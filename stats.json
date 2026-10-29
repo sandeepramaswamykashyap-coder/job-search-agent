@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 26540,
-  "applicationsSubmitted": 65,
+  "jobsScanned": 26554,
+  "applicationsSubmitted": 4813,
   "appliedRolesList": [
     {
       "company": "Zepto",
@@ -4001,27 +4001,6 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-10-29T00:15:16.770Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-10-29T00:33:41.539Z"
-    },
-    {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-10-29T00:33:41.550Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-10-29T00:33:41.559Z"
     }
   ],
   "failures": [
@@ -4745,6 +4724,6 @@
     "indeed": 82,
     "linkedin_easy_apply": 206
   },
-  "lastSyncedAt": "2026-10-29T00:33:12.368Z",
-  "lastUpdated": "29/10/2026, 6:03:12 am"
+  "lastSyncedAt": "2026-10-29T00:37:20.415Z",
+  "lastUpdated": "29/10/2026, 6:07:20 am"
 }
