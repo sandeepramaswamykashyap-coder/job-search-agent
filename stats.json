@@ -1,87 +1,7 @@
 {
-  "jobsScanned": 32739,
-  "applicationsSubmitted": 4931,
+  "jobsScanned": 32745,
+  "applicationsSubmitted": 4941,
   "appliedRolesList": [
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "Digitalization and IT Operation Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-digitalization-and-it-operation-lead-happiest-minds-technologies-indore-nashik-bengaluru-15-to-24-years-211026009003",
-      "time": "2026-10-23T04:55:01.898Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Vysoftinc",
-      "title": "PEGA CLSA (Certified Pega Lead System Architect)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-pega-clsa-certified-pega-lead-system-architect-vysoftinc-bengaluru-6-to-10-years-231026000904?src=directSearch&sid=17927312721344526&xp=8&px=1",
-      "time": "2026-10-23T04:55:13.675Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Nest Digital",
-      "title": "Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-nest-digital-bengaluru-thiruvananthapuram-14-to-22-years-221026034991?src=directSearch&sid=17927314218864265&xp=5&px=1",
-      "time": "2026-10-23T04:57:19.612Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TRIPLEDART DIGITAL",
-      "title": "Project & Creative Operations Lead",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoV9NTeUAAAACZi7REQAJAQA9GaSrtVx6AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoV9NTeUAAAACZi7REQAJAQA9GaSrtVx6AAA&from=page-two-signin",
-      "time": "2026-10-23T05:16:40.113Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Lifestyle",
-      "title": "Manager/Sr Manager - Solution Architecture & Design (IBM Sterling OMS)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-sr-manager-solution-architecture-design-ibm-sterling-oms-lifestyle-bengaluru-10-to-18-years-231026012876?src=directSearch&sid=17927332122517636&xp=9&px=1",
-      "time": "2026-10-23T05:27:19.892Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Encore Mindseek",
-      "title": "Technical Program Manager (TPM)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-tpm-encore-mindseek-bengaluru-10-to-20-years-221026035078?src=directSearch&sid=17927332883252519&xp=4&px=1",
-      "time": "2026-10-23T05:28:22.552Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Grant Thornton",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-grant-thornton-kolkata-hyderabad-bengaluru-10-to-17-years-231026013116?src=directSearch&sid=17927333125454983&xp=12&px=1",
-      "time": "2026-10-23T05:28:50.220Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "PAS - Tax Payroll - SAP - Technical ABAP Consultant - Senior",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-pas-tax-payroll-sap-technical-abap-consultant-senior-ernst-young-llp-bengaluru-bengaluru-5-to-9-years-221026921457?src=directSearch&sid=17927333397172760&xp=10&px=1",
-      "time": "2026-10-23T05:29:27.136Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Grant Thornton",
-      "title": "Manager / Senior manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-senior-manager-grant-thornton-kolkata-hyderabad-bengaluru-10-to-18-years-201026009424?src=directSearch&sid=17927369789969689&xp=5&px=1",
-      "time": "2026-10-23T06:29:56.757Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Wipro",
-      "title": "Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-wipro-bengaluru-14-to-22-years-221026023159?src=directSearch&sid=17927369789969689&xp=7&px=1",
-      "time": "2026-10-23T06:30:11.750Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Tiger Analytics",
       "title": "Technical Program / Product Manager",
@@ -4001,6 +3921,86 @@
       "url": "https://jobs.ashbyhq.com/dust/e207472f-b27e-4c6d-8806-ddb12038ebd0",
       "time": "2026-10-29T14:51:00.689Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Revenue Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b28719ff-833d-49b4-8286-f59082732186",
+      "time": "2026-10-29T15:41:51.643Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coforge",
+      "title": "Data Project Manager - Snowflake & Investment Book of Record",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-data-project-manager-snowflake-investment-book-of-record-coforge-bengaluru-10-to-15-years-301026010083?src=directSearch&sid=17933384564628891&xp=10&px=1",
+      "time": "2026-10-30T06:35:45.986Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Recruise India Consulting",
+      "title": "Supervisor - Technical Support",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-supervisor-technical-support-recruise-india-consulting-bengaluru-10-to-15-years-301026010244?src=directSearch&sid=17933421575716403&xp=13&px=1",
+      "time": "2026-10-30T08:00:17.860Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Kapture CX - Senior Customer Experience Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/kapture-cx-senior-customer-experience-manager-1742901?ref=sp_prm&jobPos=13",
+      "time": "2026-10-30T09:38:35.499Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Intuitive.ai - Senior Manager - Revenue Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/intuitiveai-senior-manager-revenue-operations-1743057?ref=sp_br&jobPos=5",
+      "time": "2026-10-30T10:39:27.053Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Associate Director - Lead Program Manager - Corporate Real Estate Strategy",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/associate-director-lead-program-manager-corporate-real-estate-strategy-1743032?ref=sp_prm&jobPos=5",
+      "time": "2026-10-30T10:39:39.830Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "SMC - Head - Healthcare & Hospital Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/smc-head-healthcare-and-hospital-operations-1743058?ref=sp&jobPos=9",
+      "time": "2026-10-30T10:56:10.914Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Samsung - Business Innovation Lead - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/samsung-business-innovation-lead-digital-transformation-1742939?ref=sp_br_prm&jobPos=4",
+      "time": "2026-10-30T11:40:20.758Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IBM - Associate Partner - Talent Transformation - HRO",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ibm-associate-partner-talent-transformation-hro-1742971?ref=sp_br&jobPos=10",
+      "time": "2026-10-30T11:40:30.953Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Sales - Asset Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-sales-asset-management-1742998?ref=sp&jobPos=14",
+      "time": "2026-10-30T12:41:16.930Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4703,10 +4703,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4931,
+  "totalVerifiedInHistory": 4941,
   "portalBreakdown": {
-    "iimjobs": 691,
-    "naukri": 1082,
+    "iimjobs": 698,
+    "naukri": 1084,
     "weworkremotely": 15,
     "remoteok": 6,
     "direct_portal_greenhouse": 1384,
@@ -4716,7 +4716,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 596,
+    "direct_portal_ashby": 597,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4724,6 +4724,6 @@
     "indeed": 85,
     "linkedin_easy_apply": 272
   },
-  "lastSyncedAt": "2026-10-29T15:27:41.737Z",
-  "lastUpdated": "29/10/2026, 8:57:41 pm"
+  "lastSyncedAt": "2026-10-30T13:42:32.980Z",
+  "lastUpdated": "30/10/2026, 7:12:32 pm"
 }
