@@ -1,95 +1,7 @@
 {
-  "jobsScanned": 33004,
-  "applicationsSubmitted": 5037,
+  "jobsScanned": 33011,
+  "applicationsSubmitted": 5048,
   "appliedRolesList": [
-    {
-      "company": "Automation Anywhere",
-      "title": "Director Partner Technical Training",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-partner-technical-training-automation-anywhere-bengaluru-16-to-24-years-261026021724?src=directSearch&sid=17930209468158124&xp=12&px=1",
-      "time": "2026-10-26T13:23:40.041Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "eBikeGo - Head - Retail Sales & Operations - Wellness Centres & Salons",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ebikego-head-retail-sales-and-operations-wellness-centres-and-salons-1742039?ref=sp_br&jobPos=8",
-      "time": "2026-10-26T13:58:48.288Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Lam Research",
-      "title": "Strategic Commodity Mgr, Program Lead",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoXZ6zkUAAAACZlNXSQAQAQEBBwCu_yZJoYvWFohzIwAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoXZ6zkUAAAACZlNXSQAQAQEBBwCu_yZJoYvWFohzIwAA&from=page-two-signin",
-      "time": "2026-10-26T14:43:21.955Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys BPM",
-      "title": "Senior Practice Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-practice-lead-infosys-bpm-limited-bengaluru-8-to-13-years-261026920589?src=directSearch&sid=17930271335193057&xp=7&px=1",
-      "time": "2026-10-26T15:05:51.039Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Process Mining Manager (Celonis | Data Analytics | ETL)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-process-mining-manager-celonis-data-analytics-etl-ey-kochi-bengaluru-thiruvananthapuram-9-to-12-years-261026029852?src=directSearch&sid=17930271335193057&xp=10&px=1",
-      "time": "2026-10-26T15:06:09.234Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Intel",
-      "title": "Source To Pay Solutions - Senior Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-source-to-pay-solutions-senior-lead-intel-technology-india-pvt-ltd-bengaluru-14-to-19-years-261026920638?src=directSearch&sid=17930272940142965&xp=13&px=1",
-      "time": "2026-10-26T15:08:41.681Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Consultbae",
-      "title": "Manager / Senior Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-senior-manager-consultbae-bengaluru-4-to-9-years-261026916339?src=directSearch&sid=17930289562603009&xp=10&px=1",
-      "time": "2026-10-26T15:36:34.069Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys Limited",
-      "title": "Senior Technical Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-261026921950?src=directSearch&sid=17930291427576982&xp=9&px=1",
-      "time": "2026-10-26T15:39:36.757Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "R1 RCM Global Private Limited",
-      "title": "Program Manager - HR",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-261026922138?src=directSearch&sid=17930292343634357&xp=1&px=1",
-      "time": "2026-10-26T15:40:48.549Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "Service Desk  Service Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-service-desk-service-delivery-manager-tata-consultancy-services-chennai-bengaluru-15-to-20-years-241026010028?src=directSearch&sid=17930293039626090&xp=11&px=1",
-      "time": "2026-10-26T15:42:04.916Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "Senior Technical Architect",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-technical-architect-infosys-limited-bengaluru-11-to-16-years-261026921950?src=directSearch&sid=17930306969323806&xp=11&px=1",
-      "time": "2026-10-26T16:05:34.140Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Infosys",
       "title": "Network Solution Architect",
@@ -4001,6 +3913,94 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Operations%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoZ3MSNoAAAACZs8i_gAFAQADEPYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Operations%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoZ3MSNoAAAACZs8i_gAFAQADEPYAAA&from=page-two-signin",
       "time": "2026-11-02T21:19:26.508Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Arj Global Pvt Ltd - INDIA",
+      "title": "Planon Application Support Lead | Bangalore (Onsite) | Contract\nPlanon Application Support Lead | Bangalore (Onsite) | Contract",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4470880452&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:43:07.765Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Manager - Organisational Culture Assurance\nSenior Manager - Organisational Culture Assurance with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4480686592&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:43:55.021Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Fam",
+      "title": "Senior Product Manager\nSenior Product Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4470880452&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:44:42.183Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Specialist Deputy Manager - Strategic Market Insights and Thought Leadership - Strategy\nSpecialist Deputy Manager - Strategic Market Insights and Thought Leadership - Strategy with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4480686592&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:45:28.795Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GeneralMind",
+      "title": "Senior Product Manager\nSenior Product Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4470880452&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:46:15.528Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mashreq",
+      "title": "Manager Reporting & Escalation\nManager Reporting & Escalation with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4480686592&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:47:02.388Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Lowe's India",
+      "title": "Senior Manager – Marketplace CRM and Seller Platform (Salesforce)\nSenior Manager – Marketplace CRM and Seller Platform (Salesforce) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4470880452&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:47:50.312Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Curefit",
+      "title": "Operations Program Manager\nOperations Program Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475167974&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:48:53.734Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "K12 Techno Services Pvt. Ltd.",
+      "title": "Zonal Business Head\nZonal Business Head with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
+      "time": "2026-11-02T21:49:55.980Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Wipro",
+      "title": "Advanced AI Strategic & Innovation Director\nAdvanced AI Strategic & Innovation Director with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482441831&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-11-02T21:50:14.490Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Principal Product Management, Enterprise Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/bd2f849d-7704-4911-9b1c-81d826b5742b",
+      "time": "2026-11-02T21:55:06.215Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5037,
+  "totalVerifiedInHistory": 5048,
   "portalBreakdown": {
     "iimjobs": 718,
     "naukri": 1102,
@@ -4732,14 +4732,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 620,
+    "direct_portal_ashby": 621,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 89,
-    "linkedin_easy_apply": 301
+    "linkedin_easy_apply": 311
   },
-  "lastSyncedAt": "2026-11-02T21:37:05.710Z",
-  "lastUpdated": "3/11/2026, 3:07:05 am"
+  "lastSyncedAt": "2026-11-02T22:05:31.258Z",
+  "lastUpdated": "3/11/2026, 3:35:31 am"
 }
