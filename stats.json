@@ -1,39 +1,7 @@
 {
-  "jobsScanned": 33025,
-  "applicationsSubmitted": 5066,
+  "jobsScanned": 33032,
+  "applicationsSubmitted": 5070,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Associate Director - Logistics Operations Excellence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/associate-director-logistics-operations-excellence-1742060?ref=sp&jobPos=7",
-      "time": "2026-10-27T06:52:40.424Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Associate - Business Process & AI Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-associate-business-process-and-ai-transformation-1742147?ref=sp_br&jobPos=13",
-      "time": "2026-10-27T07:52:00.228Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Tata 1mg - Program Manager - Central Supply Chain",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/tata-1mg-program-manager-central-supply-chain-1742159?ref=sp_br&jobPos=10",
-      "time": "2026-10-27T08:23:18.254Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Kjbn Labs",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-kjbn-labs-bengaluru-3-to-8-years-271026017930?src=directSearch&sid=17930911290517741&xp=10&px=1",
-      "time": "2026-10-27T08:52:43.292Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ALLEN Career Institute",
       "title": "Senior Technical Program Manager",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-automation-test-lead-playwright-datamatics-mumbai-suburban-bengaluru-11-to-18-years-311026010624?src=directSearch&sid=17936603115736837&xp=13&px=1",
       "time": "2026-11-02T22:59:01.352Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Product Line Management - Apparel",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-product-line-management-apparel-1743486?ref=sp&jobPos=18",
+      "time": "2026-11-02T23:01:21.024Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SmartQ",
+      "title": "Senior Relationship Manager\nSenior Relationship Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4485783410&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T23:03:15.444Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "YouTrip",
+      "title": "Technical Program Manager\nTechnical Program Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T23:04:26.096Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Amazon",
+      "title": "Compliance Program Manager II, Compliance Program Manager, Amazon Payments Europe S.C.A.\nCompliance Program Manager II, Compliance Program Manager, Amazon Payments Europe S.C.A. with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474029091&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-11-02T23:05:12.426Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5066,
+  "totalVerifiedInHistory": 5070,
   "portalBreakdown": {
-    "iimjobs": 718,
+    "iimjobs": 719,
     "naukri": 1112,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4738,8 +4738,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 89,
-    "linkedin_easy_apply": 318
+    "linkedin_easy_apply": 321
   },
-  "lastSyncedAt": "2026-11-02T22:59:35.483Z",
-  "lastUpdated": "3/11/2026, 4:29:35 am"
+  "lastSyncedAt": "2026-11-02T23:23:38.345Z",
+  "lastUpdated": "3/11/2026, 4:53:38 am"
 }
