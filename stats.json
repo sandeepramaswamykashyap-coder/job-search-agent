@@ -1,47 +1,7 @@
 {
-  "jobsScanned": 32752,
-  "applicationsSubmitted": 4958,
+  "jobsScanned": 32759,
+  "applicationsSubmitted": 4963,
   "appliedRolesList": [
-    {
-      "company": "ACL Digital",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-acl-digital-bengaluru-14-to-24-years-130826017033?src=directSearch&sid=17927536547407283&xp=12&px=1",
-      "time": "2026-10-23T11:08:05.409Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Uni Club - Business Development/Partnerships Program Manager - IIT/NIT/BITS",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/uni-club-business-development-partnerships-program-manager-iit-nit-bits-1740871?ref=sp_br&jobPos=12",
-      "time": "2026-10-23T11:11:10.777Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "NetApp",
-      "title": "Mgr, Technical Account Management 3",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-mgr-technical-account-management-3-netapp-bengaluru-8-to-12-years-231026028376?src=directSearch&sid=17927556214831714&xp=4&px=1",
-      "time": "2026-10-23T11:40:42.417Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Operational Excellence - Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-operational-excellence-head-golden-opportunities-pvt-ltd-bengaluru-14-to-18-years-231026929443?src=directSearch&sid=17927575794132917&xp=12&px=1",
-      "time": "2026-10-23T12:13:27.092Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Lead - Asset Management - NBFC",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/lead-asset-management-nbfc-1741583?ref=sp&jobPos=9",
-      "time": "2026-10-23T12:15:09.900Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Antino - Client Partner & Delivery Head - Technology & Digital Transformation",
@@ -4001,6 +3961,46 @@
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
       "time": "2026-11-02T04:58:11.334Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Manager -  Administration & Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3",
+      "time": "2026-11-02T05:19:42.618Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Compute Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/768bca5d-287f-405a-b677-605317607178",
+      "time": "2026-11-02T05:25:45.502Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Marketing Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e",
+      "time": "2026-11-02T05:26:15.378Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "time": "2026-11-02T05:26:47.184Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Sales Director, Commercial",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/722643dc-6e1f-44e1-8a68-96c00d03ea11",
+      "time": "2026-11-02T05:27:29.220Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4958,
+  "totalVerifiedInHistory": 4963,
   "portalBreakdown": {
     "iimjobs": 698,
     "naukri": 1084,
@@ -4732,7 +4732,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 611,
+    "direct_portal_ashby": 616,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4740,6 +4740,6 @@
     "indeed": 86,
     "linkedin_easy_apply": 272
   },
-  "lastSyncedAt": "2026-11-02T05:02:20.527Z",
-  "lastUpdated": "2/11/2026, 10:32:20 am"
+  "lastSyncedAt": "2026-11-02T05:37:44.696Z",
+  "lastUpdated": "2/11/2026, 11:07:44 am"
 }
