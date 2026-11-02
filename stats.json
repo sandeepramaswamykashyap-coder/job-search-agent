@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 32976,
-  "applicationsSubmitted": 5007,
+  "jobsScanned": 32983,
+  "applicationsSubmitted": 5009,
   "appliedRolesList": [
-    {
-      "company": "Rhea Healthcare",
-      "title": "Assistant Manager Operations - Motherhood Hospital.",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-assistant-manager-operations-motherhood-hospital-rhea-healthcare-bengaluru-6-to-11-years-261026006486?src=directSearch&sid=1793005043094424&xp=10&px=1",
-      "time": "2026-10-26T08:57:37.418Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Solutions Centric Global",
-      "title": "Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-solutions-centric-global-hyderabad-chennai-bengaluru-5-to-8-years-261026010574?src=directSearch&sid=17930050926051543&xp=9&px=1",
-      "time": "2026-10-26T08:58:30.253Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Huron",
       "title": "Finance Operations COE - Senior Associate",
@@ -4001,6 +3985,22 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoZbBTvUAAAACZsvB5gAPAQEBBgCCe8pfA_xdMXG0AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoZbBTvUAAAACZsvB5gAPAQEBBgCCe8pfA_xdMXG0AAA&from=page-two-signin",
       "time": "2026-11-02T19:54:54.257Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "LSEG (London Stock Exchange Group)",
+      "title": "Lead Data Scientist",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-lead-data-scientist-london-stock-exchange-group-lseg-bengaluru-8-to-12-years-261026913569",
+      "time": "2026-11-02T20:11:46.435Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Carl Zeiss - Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=18&jobId=1742814&pref=sp",
+      "time": "2026-11-02T20:15:19.140Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5007,
+  "totalVerifiedInHistory": 5009,
   "portalBreakdown": {
-    "iimjobs": 710,
-    "naukri": 1100,
+    "iimjobs": 711,
+    "naukri": 1101,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 88,
     "linkedin_easy_apply": 282
   },
-  "lastSyncedAt": "2026-11-02T19:58:09.863Z",
-  "lastUpdated": "3/11/2026, 1:28:09 am"
+  "lastSyncedAt": "2026-11-02T20:15:24.187Z",
+  "lastUpdated": "3/11/2026, 1:45:24 am"
 }
