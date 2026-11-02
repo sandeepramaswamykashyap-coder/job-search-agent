@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 32843,
-  "applicationsSubmitted": 4963,
+  "jobsScanned": 32850,
+  "applicationsSubmitted": 4964,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Antino - Client Partner & Delivery Head - Technology & Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/antino-client-partner-and-delivery-head-technology-and-digital-transformation-1741423?ref=sp&jobPos=6",
-      "time": "2026-10-23T12:15:48.956Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "orcapod",
       "title": "VP/AVP/Sr Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/temporal/722643dc-6e1f-44e1-8a68-96c00d03ea11",
       "time": "2026-11-02T05:27:29.220Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Deputy Vice President - Technology Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/91bf5a66-89d7-4f1c-be71-916b617db7dd",
+      "time": "2026-11-02T11:20:34.321Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4963,
+  "totalVerifiedInHistory": 4964,
   "portalBreakdown": {
     "iimjobs": 698,
     "naukri": 1084,
@@ -4732,7 +4732,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 616,
+    "direct_portal_ashby": 617,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4740,6 +4740,6 @@
     "indeed": 86,
     "linkedin_easy_apply": 272
   },
-  "lastSyncedAt": "2026-11-02T11:02:26.328Z",
-  "lastUpdated": "2/11/2026, 4:32:26 pm"
+  "lastSyncedAt": "2026-11-02T11:30:51.816Z",
+  "lastUpdated": "2/11/2026, 5:00:51 pm"
 }
