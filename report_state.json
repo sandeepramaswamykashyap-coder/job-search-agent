@@ -1,37 +1,7 @@
 {
   "lastMorningReportDate": "Mon Oct 05 2026",
-  "lastEveningReportDate": "Thu Oct 29 2026",
+  "lastEveningReportDate": "Sun Nov 01 2026",
   "history": [
-    {
-      "type": "evening",
-      "date": "Tue Oct 20 2026",
-      "timestamp": "2026-10-20T14:30:24.305Z"
-    },
-    {
-      "type": "evening",
-      "date": "Wed Oct 21 2026",
-      "timestamp": "2026-10-21T14:30:29.034Z"
-    },
-    {
-      "type": "evening",
-      "date": "Thu Oct 22 2026",
-      "timestamp": "2026-10-22T14:30:31.845Z"
-    },
-    {
-      "type": "evening",
-      "date": "Fri Oct 23 2026",
-      "timestamp": "2026-10-23T14:30:33.432Z"
-    },
-    {
-      "type": "evening",
-      "date": "Sat Oct 24 2026",
-      "timestamp": "2026-10-24T14:30:41.839Z"
-    },
-    {
-      "type": "evening",
-      "date": "Sun Oct 25 2026",
-      "timestamp": "2026-10-25T14:30:43.252Z"
-    },
     {
       "type": "evening",
       "date": "Mon Oct 26 2026",
@@ -151,6 +121,36 @@
       "type": "evening",
       "date": "Thu Oct 29 2026",
       "timestamp": "2026-10-29T14:50:23.622Z"
+    },
+    {
+      "type": "evening",
+      "date": "Fri Oct 30 2026",
+      "timestamp": "2026-10-30T15:46:53.834Z"
+    },
+    {
+      "type": "evening",
+      "date": "Fri Oct 30 2026",
+      "timestamp": "2026-10-30T16:45:35.944Z"
+    },
+    {
+      "type": "evening",
+      "date": "Fri Oct 30 2026",
+      "timestamp": "2026-10-30T16:45:36.846Z"
+    },
+    {
+      "type": "evening",
+      "date": "Fri Oct 30 2026",
+      "timestamp": "2026-10-30T16:45:36.847Z"
+    },
+    {
+      "type": "evening",
+      "date": "Sun Nov 01 2026",
+      "timestamp": "2026-11-01T16:46:32.514Z"
+    },
+    {
+      "type": "evening",
+      "date": "Sun Nov 01 2026",
+      "timestamp": "2026-11-01T16:46:32.515Z"
     }
   ]
 }
