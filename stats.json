@@ -1,15 +1,7 @@
 {
   "jobsScanned": 32997,
-  "applicationsSubmitted": 5036,
+  "applicationsSubmitted": 5037,
   "appliedRolesList": [
-    {
-      "company": "ConsultBae",
-      "title": "Director/VP - Sales - AI Data Collection & Annotation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-vp-sales-ai-data-collection-annotation-consultbae-bengaluru-10-to-20-years-261026916152?src=directSearch&sid=17930209468158124&xp=10&px=1",
-      "time": "2026-10-26T13:23:25.144Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Automation Anywhere",
       "title": "Director Partner Technical Training",
@@ -4001,6 +3993,14 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4480720035&f_AL=true&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true",
       "time": "2026-11-02T21:05:57.512Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "AI Scale Force",
+      "title": "Chief Manager – AI Operations & Business Development",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Operations%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoZ3MSNoAAAACZs8i_gAFAQADEPYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Operations%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoZ3MSNoAAAACZs8i_gAFAQADEPYAAA&from=page-two-signin",
+      "time": "2026-11-02T21:19:26.508Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5036,
+  "totalVerifiedInHistory": 5037,
   "portalBreakdown": {
     "iimjobs": 718,
     "naukri": 1102,
@@ -4737,9 +4737,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 88,
+    "indeed": 89,
     "linkedin_easy_apply": 301
   },
-  "lastSyncedAt": "2026-11-02T21:09:01.681Z",
-  "lastUpdated": "3/11/2026, 2:39:01 am"
+  "lastSyncedAt": "2026-11-02T21:19:59.834Z",
+  "lastUpdated": "3/11/2026, 2:49:59 am"
 }
