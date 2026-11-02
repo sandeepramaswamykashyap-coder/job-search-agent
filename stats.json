@@ -1,135 +1,7 @@
 {
-  "jobsScanned": 32983,
-  "applicationsSubmitted": 5009,
+  "jobsScanned": 32990,
+  "applicationsSubmitted": 5025,
   "appliedRolesList": [
-    {
-      "company": "Huron",
-      "title": "Finance Operations COE - Senior Associate",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-finance-operations-coe-senior-associate-huron-bengaluru-6-to-8-years-261026005929?src=directSearch&sid=17930068207978106&xp=13&px=1",
-      "time": "2026-10-26T09:27:28.372Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Careernet",
-      "title": "Software Development Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-software-development-manager-careernet-bengaluru-10-to-15-years-261026009821?src=directSearch&sid=17930069120478859&xp=12&px=1",
-      "time": "2026-10-26T09:28:56.382Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Director - Procurement Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/director-procurement-transformation-1741898?ref=sp&jobPos=17",
-      "time": "2026-10-26T09:31:56.037Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "BDO India",
-      "title": "Executive Assistant",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-executive-assistant-bdo-india-mumbai-bengaluru-mumbai-all-areas-9-to-14-years-041025013387?src=directSearch&sid=17930088276885531&xp=8&px=1",
-      "time": "2026-10-26T10:00:42.070Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Spot Your Leaders",
-      "title": "Senior Director- GCC Sales- Infrastructure",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-director-gcc-sales-infrastructure-spot-your-leaders-bengaluru-15-to-22-years-261026012733?src=directSearch&sid=17930088645798286&xp=4&px=1",
-      "time": "2026-10-26T10:01:18.848Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Blupace Hyderabad",
-      "title": "AI and Automation SME",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-and-automation-sme-blupace-hyderabad-hyderabad-pune-bengaluru-8-to-12-years-261026012260?src=directSearch&sid=17930088645798286&xp=5&px=1",
-      "time": "2026-10-26T10:01:30.503Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Atyeti",
-      "title": "Project manager _ Equalities _ Asset mangent",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-manager-equalities-asset-mangent-atyeti-bengaluru-7-to-12-years-261026012305?src=directSearch&sid=17930089324451984&xp=5&px=1",
-      "time": "2026-10-26T10:02:36.993Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Acko General Insurance - Senior Technical Program Manager - Financial Accounting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/acko-general-insurance-senior-technical-program-manager-financial-accounting-and-reporting-domain-1741900?ref=sp_br_prm&jobPos=3",
-      "time": "2026-10-26T10:03:54.573Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Hdfc Bank",
-      "title": "Project Management Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-project-management-lead-hdfc-bank-mumbai-bengaluru-8-to-13-years-261026014173?src=directSearch&sid=17930111105235284&xp=8&px=1",
-      "time": "2026-10-26T10:38:48.179Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Client of JOBPOINT",
-      "title": "Vice President  Procurement Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vice-president-procurement-transformation-metaphor-infotech-mumbai-gurugram-bengaluru-14-to-24-years-261026011527?src=directSearch&sid=17930111105235284&xp=9&px=1",
-      "time": "2026-10-26T10:38:59.864Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Intellics Global Services",
-      "title": "P2P Manager- Process SME Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-p2p-manager-process-sme-lead-intellics-global-services-hyderabad-pune-bengaluru-12-to-18-years-261026006065?src=directSearch&sid=17930111105235284&xp=10&px=1",
-      "time": "2026-10-26T10:39:11.461Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Atomberg - Manager - Loyalty Program & Trade Marketing",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/atomberg-manager-loyalty-program-and-trade-marketing-1741936?ref=sp_br_prm&jobPos=3",
-      "time": "2026-10-26T10:41:54.715Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "American Society Of Mechanical Engineers",
-      "title": "Group Engagement Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-group-engagement-manager-american-society-of-mechanical-engineers-bengaluru-10-to-18-years-261026013279?src=directSearch&sid=17930130053988964&xp=12&px=1",
-      "time": "2026-10-26T11:10:33.021Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Omnicom Global Solutions",
-      "title": "Delivery Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-project-manager-omnicom-global-solutions-bengaluru-8-to-13-years-261026008315?src=directSearch&sid=17930130053988964&xp=13&px=1",
-      "time": "2026-10-26T11:11:10.445Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tech Mahindra",
-      "title": "SAP Data and Analytics Architect (SAP BDC, BW, Datasphere)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-data-and-analytics-architect-sap-bdc-bw-datasphere-tech-mahindra-hyderabad-pune-bengaluru-16-to-25-years-231026025325?src=directSearch&sid=17930130736823113&xp=12&px=1",
-      "time": "2026-10-26T11:11:37.930Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "FIS",
-      "title": "Dotnet Architect (Cloud) - Capital Market Domain",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-dotnet-architect-cloud-capital-market-domain-fis-pune-bengaluru-10-to-17-years-261026018130?src=directSearch&sid=17930131551853511&xp=6&px=1",
-      "time": "2026-10-26T11:12:56.165Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Khandelia Oil And General Mills",
       "title": "Manager DOC",
@@ -4001,6 +3873,134 @@
       "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=18&jobId=1742814&pref=sp",
       "time": "2026-11-02T20:15:19.140Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Talent Sourcing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=2&jobId=1742877&pref=sp",
+      "time": "2026-11-02T20:16:28.501Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager/Director - Investment Banking",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=12&jobId=1743188&pref=sp",
+      "time": "2026-11-02T20:16:56.241Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant Manager/Deputy Manager - Finance & Accounts - Metal & Mining",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1743175&pref=sp",
+      "time": "2026-11-02T20:17:05.772Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Strategic Planning & Transformation Lead - GCC/Shared Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/1743478/screening?ref=sp&jobPos=14&pref=sp",
+      "time": "2026-11-02T20:17:28.692Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Thryocare - Head - Operational Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp_br&jobPos=1&jobId=1742721&pref=sp_br",
+      "time": "2026-11-02T20:17:42.138Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Chief Manager - Sales Excellence - IIM/MDI/ISB",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=14&jobId=1743423&pref=sp",
+      "time": "2026-11-02T20:18:10.368Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Korn Ferry",
+      "title": "Project Manager\nProject Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4478422053&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:19:11.802Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Whatfix",
+      "title": "Solutions Manager\nSolutions Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:19:58.733Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TerraPay",
+      "title": "Team Lead - Forex\nTeam Lead - Forex",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4478422053&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:20:45.940Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Manager-Financial Planning And Analysis\nSenior Manager-Financial Planning And Analysis with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:21:32.391Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ANSR",
+      "title": "Senior Manager II Service Delivery – Merchandising & Marketing [T500-30459]\nSenior Manager II Service Delivery – Merchandising & Marketing [T500-30459] with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4478422053&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:22:19.153Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "State Street",
+      "title": "Alternatives Product Program Manager, Vice President\nAlternatives Product Program Manager, Vice President with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4461034487&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:23:05.689Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ANSR",
+      "title": "Senior Manager - Project Management [T500-30543]\nSenior Manager - Project Management [T500-30543] with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482208428&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:24:00.999Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "dentsu",
+      "title": "Client Services Director\nClient Services Director with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481467239&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:24:47.861Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Tech Mahindra",
+      "title": "Associate Manager\nAssociate Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482208428&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T20:25:34.884Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Q2",
+      "title": "Senior Project Manager\nSenior Project Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477720791&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-11-02T20:26:22.628Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5009,
+  "totalVerifiedInHistory": 5025,
   "portalBreakdown": {
-    "iimjobs": 711,
+    "iimjobs": 717,
     "naukri": 1101,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4738,8 +4738,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 88,
-    "linkedin_easy_apply": 282
+    "linkedin_easy_apply": 292
   },
-  "lastSyncedAt": "2026-11-02T20:15:24.187Z",
-  "lastUpdated": "3/11/2026, 1:45:24 am"
+  "lastSyncedAt": "2026-11-02T20:42:30.305Z",
+  "lastUpdated": "3/11/2026, 2:12:30 am"
 }
