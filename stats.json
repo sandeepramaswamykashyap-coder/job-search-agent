@@ -1,95 +1,7 @@
 {
-  "jobsScanned": 32990,
-  "applicationsSubmitted": 5025,
+  "jobsScanned": 32997,
+  "applicationsSubmitted": 5036,
   "appliedRolesList": [
-    {
-      "company": "Khandelia Oil And General Mills",
-      "title": "Manager DOC",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-doc-khandelia-oil-hyderabad-bengaluru-delhi-ncr-5-to-10-years-261026913987?src=directSearch&sid=17930131955048176&xp=11&px=1",
-      "time": "2026-10-26T11:13:36.534Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Wipro",
-      "title": "Practice Manager - Data & Insights",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-practice-manager-data-insights-wipro-hyderabad-pune-bengaluru-16-to-26-years-261026019046?src=directSearch&sid=1793015093921379&xp=9&px=1",
-      "time": "2026-10-26T11:45:14.901Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "HR Central",
-      "title": "SAP Project Manager / PMO - Devanahalli",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-project-manager-pmo-devanahalli-hr-central-bengaluru-8-to-12-years-261026018488?src=directSearch&sid=17930151216033394&xp=10&px=1",
-      "time": "2026-10-26T11:45:45.796Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Monks",
-      "title": "Operations Manager",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=c5b3a4c32dea2731",
-      "time": "2026-10-26T12:00:42.361Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Tiger Analytics - Technical Program/Product Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/tiger-analytics-technical-program-product-manager-1742004?ref=sp_prm&jobPos=3",
-      "time": "2026-10-26T12:19:00.230Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Metalman Auto - Head - Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/metalman-auto-head-operations-1742007?ref=sp&jobPos=9",
-      "time": "2026-10-26T12:19:26.734Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Phenomenex & Agela",
-      "title": "Order Management Associate",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=c5b3a4c32dea2731",
-      "time": "2026-10-26T12:35:06.473Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samvith Technologies",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-samvith-technologies-bengaluru-12-to-15-years-261026026673?src=directSearch&sid=17930188356999388&xp=8&px=1",
-      "time": "2026-10-26T12:47:39.935Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "PwC",
-      "title": "LLMOps + MLOps - Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-llmops-mlops-manager-pwc-hyderabad-chennai-bengaluru-8-to-13-years-261026026256?src=directSearch&sid=17930190198402928&xp=5&px=1",
-      "time": "2026-10-26T12:50:37.387Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "91 Springboard Business Hub",
-      "title": "Regional Facilities Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-regional-facilities-manager-91-springboard-business-hub-bengaluru-10-to-15-years-191026009934",
-      "time": "2026-10-26T13:22:41.141Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ConsultBae",
-      "title": "Director/VP Sales - AI Data Collection & Annotation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-director-vp-sales-ai-data-collection-annotation-consultbae-bengaluru-10-to-15-years-261026916273?src=directSearch&sid=17930209468158124&xp=9&px=1",
-      "time": "2026-10-26T13:23:03.269Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ConsultBae",
       "title": "Director/VP - Sales - AI Data Collection & Annotation",
@@ -4001,6 +3913,94 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477720791&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
       "time": "2026-11-02T20:26:22.628Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "National E-governance Services Limited",
+      "title": "Chief Operating Officer",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-chief-operating-officer-national-e-governance-services-limited-bengaluru-25-to-30-years-021126003661?src=directSearch&sid=17936528330487738&xp=2&px=1",
+      "time": "2026-11-02T20:54:07.017Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Project Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/job/applied?ref=sp&jobPos=16&jobId=1742867&pref=sp",
+      "time": "2026-11-02T20:58:29.234Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EXL",
+      "title": "Operations Manager\nOperations Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:00:23.147Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "OneXtel",
+      "title": "Program Manager- Product\nProgram Manager- Product with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475167974&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:01:17.932Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Program Manager | IT Services & Digital Transformation\nProgram Manager | IT Services & Digital Transformation with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-02T21:02:12.989Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Apple",
+      "title": "Technical Program Manager - Product Operations\nTechnical Program Manager - Product Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474029091&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-11-02T21:02:59.127Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Agoda",
+      "title": "Manager/Senior Manager, Corporate Strategy (Bangkok Based)\nManager/Senior Manager, Corporate Strategy (Bangkok Based) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476611196&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-11-02T21:03:54.219Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Director - TAX - National - TAX - ITTS - Advisory - Bangalore\nDirector - TAX - National - TAX - ITTS - Advisory - Bangalore with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482441831&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-11-02T21:04:13.031Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Rupeek",
+      "title": "National Business Head - Gold Loan Branch\nNational Business Head - Gold Loan Branch with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482441831&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-11-02T21:05:18.614Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Papaya Global",
+      "title": "Head of Support\nHead of Support with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476790319&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
+      "time": "2026-11-02T21:05:45.165Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Accenture in India",
+      "title": "I&P- GN - SONG - Service - GEN AI-Senior Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4480720035&f_AL=true&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true",
+      "time": "2026-11-02T21:05:57.512Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5025,
+  "totalVerifiedInHistory": 5036,
   "portalBreakdown": {
-    "iimjobs": 717,
-    "naukri": 1101,
+    "iimjobs": 718,
+    "naukri": 1102,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4738,8 +4738,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 88,
-    "linkedin_easy_apply": 292
+    "linkedin_easy_apply": 301
   },
-  "lastSyncedAt": "2026-11-02T20:42:30.305Z",
-  "lastUpdated": "3/11/2026, 2:12:30 am"
+  "lastSyncedAt": "2026-11-02T21:09:01.681Z",
+  "lastUpdated": "3/11/2026, 2:39:01 am"
 }
