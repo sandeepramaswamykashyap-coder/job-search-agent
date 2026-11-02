@@ -1,103 +1,7 @@
 {
-  "jobsScanned": 32962,
-  "applicationsSubmitted": 4967,
+  "jobsScanned": 32969,
+  "applicationsSubmitted": 4979,
   "appliedRolesList": [
-    {
-      "company": "Matilda Software",
-      "title": "Strategic Partnership and Alliance Leader",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-strategic-partnership-and-alliance-leader-matilda-software-hyderabad-pune-bengaluru-5-to-10-years-231026033417?src=directSearch&sid=17927691252705965&xp=4&px=1",
-      "time": "2026-10-23T15:25:42.904Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "Principal Consultant (Infrastructure Program Management - Data Center)",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoWhQZAEAAAACZi7REQAJAQA9G4B_FrNeAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoWhQZAEAAAACZi7REQAJAQA9G4B_FrNeAAA&from=page-two-signin",
-      "time": "2026-10-23T18:19:17.024Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Lead/Senior Release Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-lead-senior-release-manager-eduplex-consultancy-services-pvt-ltd-bengaluru-7-to-12-years-231026923427?src=directSearch&sid=17927824188469850&xp=2&px=1",
-      "time": "2026-10-23T19:07:13.253Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Manager/Senior Manager - US Equipment Finance",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-senior-manager-us-equipment-finance-golden-opportunities-pvt-ltd-chennai-gurugram-bengaluru-10-to-18-years-231026923367?src=directSearch&sid=17927824188469850&xp=3&px=1",
-      "time": "2026-10-23T19:07:24.884Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pylon Management Consulting Pvt Ltd",
-      "title": "Senior Manager/AVP NON-IT Recruitment & Product Hiring",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-avp-non-it-recruitment-product-hiring-pylon-management-consulting-bengaluru-10-to-18-years-231026032777?src=directSearch&sid=17927824188469850&xp=9&px=1",
-      "time": "2026-10-23T19:07:46.412Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Biz Hr It Solutions",
-      "title": "Senior Customer Success Manager (Senior CSM)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-customer-success-manager-senior-csm-biz-hr-it-solutions-bengaluru-7-to-10-years-231026031236?src=directSearch&sid=17927824188469850&xp=10&px=1",
-      "time": "2026-10-23T19:07:58.037Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Capgemini",
-      "title": "Senior Manager Transportation & Logistics",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-transportation-logistics-capgemini-gurugram-bengaluru-10-to-18-years-231026026400?src=directSearch&sid=17927824188469850&xp=11&px=1",
-      "time": "2026-10-23T19:08:09.671Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Director, Demand Generation",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/0b1faa0d-242d-409f-8efb-5f8d9db407da",
-      "time": "2026-10-24T01:13:10.643Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Director, Demand Generation",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/0b1faa0d-242d-409f-8efb-5f8d9db407da",
-      "time": "2026-10-24T01:13:10.997Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Senior Manager, Events & Field Marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
-      "time": "2026-10-24T01:13:32.050Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Senior Manager, Events & Field Marketing",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
-      "time": "2026-10-24T01:13:32.387Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Flexi Careers India",
-      "title": "Senior QA Mobile Automation Testing",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-qa-mobile-automation-testing-flexi-careers-india-bengaluru-5-to-10-years-221026013291?src=directSearch&sid=17928086404213737&xp=5&px=1",
-      "time": "2026-10-24T02:24:18.032Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Coforge",
       "title": "Plc Automation Engineer",
@@ -4001,6 +3905,102 @@
       "url": "https://jobs.ashbyhq.com/elevenlabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39",
       "time": "2026-11-02T17:09:33.863Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Samsung Semiconductor India Research SSIR",
+      "title": "SOC Program Manager - Semiconductor Only",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-soc-program-manager-semiconductor-only-samsung-semiconductor-india-research-ssir-bengaluru-10-to-15-years-301026009314?src=directSearch&sid=17936468904575919&xp=5&px=1",
+      "time": "2026-11-02T19:15:10.736Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Micro Academy",
+      "title": "Reinsurance Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-reinsurance-program-manager-micro-academy-bengaluru-10-to-15-years-301026013165?src=directSearch&sid=17936468904575919&xp=10&px=1",
+      "time": "2026-11-02T19:15:25.669Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GSPANN",
+      "title": "Technical Program Manager (Retail, E-commerce Domain)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-program-manager-retail-e-commerce-domain-gspann-bengaluru-14-to-22-years-021126004368?src=directSearch&sid=17936469290318479&xp=7&px=1",
+      "time": "2026-11-02T19:15:55.608Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Fortune 500 Firm",
+      "title": "Planning Digitization & Transformation Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-planning-digitization-transformation-leader-search-advisers-services-guj-gurugram-bengaluru-10-to-20-years-021126022870?src=directSearch&sid=17936469653129145&xp=1&px=1",
+      "time": "2026-11-02T19:16:34.081Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Embitel Technologies",
+      "title": "Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-embitel-technologies-bengaluru-8-to-13-years-311026015344?src=directSearch&sid=17936469653129145&xp=12&px=1",
+      "time": "2026-11-02T19:17:23.866Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deutsche Bank",
+      "title": "Embedded Risk Team / Divisional Control Office, Director",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-embedded-risk-team-divisional-control-office-director-deutsche-bank-bengaluru-18-to-28-years-301026029836?src=directSearch&sid=17936470471545787&xp=4&px=1",
+      "time": "2026-11-02T19:17:44.201Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Nagarro",
+      "title": "Associate Principal Engineer (RPA Architect)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-principal-engineer-rpa-architect-nagarro-pune-bengaluru-delhi-ncr-9-to-12-years-311026012860?src=directSearch&sid=17936470959759775&xp=9&px=1",
+      "time": "2026-11-02T19:18:39.482Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Naukri Assist",
+      "title": "Automation and AI Tech Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-automation-and-ai-tech-lead-naukri-assist-bengaluru-10-to-16-years-021126006482?src=directSearch&sid=17936470959759775&xp=10&px=1",
+      "time": "2026-11-02T19:18:50.952Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alstom Transportation",
+      "title": "Head of Tech Ops",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-tech-ops-alstom-transport-india-ltd-bengaluru-10-to-14-years-301026919599?src=directSearch&sid=17936471939338108&xp=4&px=1",
+      "time": "2026-11-02T19:20:07.887Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "An emerging fragrance brand",
+      "title": "Operations Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-lead-sg-oasis-bengaluru-5-to-10-years-301026032112?src=directSearch&sid=17936471939338108&xp=7&px=1",
+      "time": "2026-11-02T19:20:19.612Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Frontier",
+      "title": "Head Sales and Operations CEO Office",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-sales-and-operations-ceo-office-frontier-bengaluru-10-to-17-years-261026007299?src=directSearch&sid=17936471939338108&xp=8&px=1",
+      "time": "2026-11-02T19:20:55.912Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Claude Brand Retail Solution",
+      "title": "Head Of Business Development And Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-business-development-and-operations-claude-brand-retail-solution-bengaluru-10-to-20-years-021126012796?src=directSearch&sid=17936471939338108&xp=10&px=1",
+      "time": "2026-11-02T19:21:07.398Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4967,
+  "totalVerifiedInHistory": 4979,
   "portalBreakdown": {
     "iimjobs": 698,
-    "naukri": 1084,
+    "naukri": 1096,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 86,
     "linkedin_easy_apply": 272
   },
-  "lastSyncedAt": "2026-11-02T18:52:24.044Z",
-  "lastUpdated": "3/11/2026, 12:22:24 am"
+  "lastSyncedAt": "2026-11-02T19:21:07.443Z",
+  "lastUpdated": "3/11/2026, 12:51:07 am"
 }
