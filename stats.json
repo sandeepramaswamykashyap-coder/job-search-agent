@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 32934,
-  "applicationsSubmitted": 4966,
+  "jobsScanned": 32941,
+  "applicationsSubmitted": 4967,
   "appliedRolesList": [
-    {
-      "company": "Adecco Group",
-      "title": "Modern Workplace Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-modern-workplace-manager-adecco-india-bengaluru-15-to-20-years-231026031657?src=directSearch&sid=179276146149859&xp=11&px=1",
-      "time": "2026-10-23T13:18:14.732Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Matilda Software",
       "title": "Strategic Partnership and Alliance Leader",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
       "time": "2026-11-02T14:52:18.366Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Head of Public Sector, United States",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39",
+      "time": "2026-11-02T17:09:33.863Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 4966,
+  "totalVerifiedInHistory": 4967,
   "portalBreakdown": {
     "iimjobs": 698,
     "naukri": 1084,
@@ -4732,7 +4732,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 619,
+    "direct_portal_ashby": 620,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4740,6 +4740,6 @@
     "indeed": 86,
     "linkedin_easy_apply": 272
   },
-  "lastSyncedAt": "2026-11-02T16:56:29.141Z",
-  "lastUpdated": "2/11/2026, 10:26:29 pm"
+  "lastSyncedAt": "2026-11-02T17:25:19.879Z",
+  "lastUpdated": "2/11/2026, 10:55:19 pm"
 }
