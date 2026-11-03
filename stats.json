@@ -1,79 +1,7 @@
 {
-  "jobsScanned": 33053,
-  "applicationsSubmitted": 5083,
+  "jobsScanned": 33060,
+  "applicationsSubmitted": 5092,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Transformation Lead - Finance & Accounting - BPO",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/transformation-lead-finance-and-accounting-bpo-1742309?ref=sp&jobPos=12",
-      "time": "2026-10-27T16:24:41.533Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Delivery Excellence Partner - HRO - BPO",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/delivery-excellence-partner-hro-bpo-1742306?ref=sp&jobPos=10",
-      "time": "2026-10-27T16:25:04.012Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pearson",
-      "title": "VMS Product Manager / VMS Product Owner",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vms-product-manager-vms-product-owner-pearson-bengaluru-5-to-9-years-271026031816?src=directSearch&sid=17931570486992275&xp=5&px=1",
-      "time": "2026-10-28T03:11:06.324Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "Scrum Master / Project Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-scrum-master-project-manager-infosys-bengaluru-10-to-16-years-281026000056?src=directSearch&sid=17931571954479264&xp=10&px=1",
-      "time": "2026-10-28T03:13:49.661Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "McFadyen Digital",
-      "title": "Marketing Operations and Systems Manager - Remote",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABoX6XDrMAAAACZmn2wQAQAQEBBgCRdZaoioO5FdMLOgAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABoX6XDrMAAAACZmn2wQAQAQEBBgCRdZaoioO5FdMLOgAA&from=page-two-signin",
-      "time": "2026-10-28T03:37:37.165Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Hinduja Global Solutions (HGS)",
-      "title": "Technical Program Manager - VCF",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-program-manager-vcf-hinduja-global-solutions-hgs-bengaluru-15-to-19-years-271026019480?src=directSearch&sid=17931611292966946&xp=3&px=1",
-      "time": "2026-10-28T04:19:03.554Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Business Consultant - Organizational Change Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-business-consultant-organizational-change-management-1742329?ref=sp_prm&jobPos=1",
-      "time": "2026-10-28T04:23:56.278Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Digital HR Transformation - HR Consulting",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-digital-hr-transformation-hr-consulting-1742426?ref=sp&jobPos=3",
-      "time": "2026-10-28T06:38:55.685Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Digital HR Transformation Role",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/digital-hr-transformation-role-1740530?ref=sp&jobPos=15",
-      "time": "2026-10-28T07:45:53.235Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Omega Healthcare - Head of Autonomous Operations - BPO Operations",
@@ -4001,6 +3929,78 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4480686592&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-11-03T00:50:36.572Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "A Fortune 500 Firm",
+      "title": "Planning Digitization & Transformation Leader\nPlanning Digitization & Transformation Leader",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482840219&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:51:32.200Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Toyota Connected India",
+      "title": "Senior Manager, Customer Success\nSenior Manager, Customer Success with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482618719&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:52:19.137Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "UST",
+      "title": "Senior Scrum Master\nSenior Scrum Master",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482840219&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:53:06.441Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ather Energy",
+      "title": "International Business Manager\nInternational Business Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482618719&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:53:54.006Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HDFC Bank",
+      "title": "Technical Project Manager\nTechnical Project Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482840219&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:54:40.986Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Flipkart Commerce Cloud",
+      "title": "Associate Director Incident Management\nAssociate Director Incident Management with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482618719&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:55:28.477Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ANSR",
+      "title": "Director - Service Operations [T500-30564]\nDirector - Service Operations [T500-30564] with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482840219&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:56:16.036Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Quantiphi",
+      "title": "Technical Program Manager - Application Modernization\nTechnical Program Manager - Application Modernization with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T00:57:18.118Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Principal Product Manager, Agentic Observability and Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/a201d2fd-b7d3-4617-a3e8-62f8afa9382f",
+      "time": "2026-11-03T01:07:20.548Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5083,
+  "totalVerifiedInHistory": 5092,
   "portalBreakdown": {
     "iimjobs": 719,
     "naukri": 1115,
@@ -4732,14 +4732,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 623,
+    "direct_portal_ashby": 624,
     "ashby": 356,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 89,
-    "linkedin_easy_apply": 330
+    "linkedin_easy_apply": 338
   },
-  "lastSyncedAt": "2026-11-03T00:51:02.323Z",
-  "lastUpdated": "3/11/2026, 6:21:02 am"
+  "lastSyncedAt": "2026-11-03T01:17:19.504Z",
+  "lastUpdated": "3/11/2026, 6:47:19 am"
 }
