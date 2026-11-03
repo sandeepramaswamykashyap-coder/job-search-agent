@@ -1,31 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5199,
+  "applicationsSubmitted": 5202,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Onity Group - Vice President - AI/Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/onity-group-vice-president-ai-digital-transformation-1742568?ref=sp_br_prm&jobPos=5",
-      "time": "2026-10-28T13:35:54.822Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Program Manager, National Security Policy Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3228eed1-9cb3-4330-82c3-19fb3dbb4408",
-      "time": "2026-10-28T13:35:55.958Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "IBM - Group Manager - PTP Transformation SME",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/ibm-group-manager-ptp-transformation-sme-1742492?ref=sp_br&jobPos=14",
-      "time": "2026-10-28T13:36:01.849Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Digital Natives | MENA",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/senior-vice-president-risk-and-control-automation-1743540?ref=sp&jobPos=1",
       "time": "2026-11-03T10:52:22.952Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Emids Technologies",
+      "title": "Agentic AI Architect Intelligent Automation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-agentic-ai-architect-intelligent-automation-emids-technologies-noida-bengaluru-12-to-14-years-031126021787?src=directSearch&sid=17937042488594765&xp=7&px=1",
+      "time": "2026-11-03T11:11:12.971Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Product Manager - AI Automation - Internet/Online/eCommerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/product-manager-ai-automation-internet-online-ecommerce-1734066?ref=sp&jobPos=10",
+      "time": "2026-11-03T11:15:51.932Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Project Manager - Warehouse Automation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/project-manager-warehouse-automation-1730436?ref=sp&jobPos=11",
+      "time": "2026-11-03T11:15:58.099Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5199,
+  "totalVerifiedInHistory": 5202,
   "portalBreakdown": {
-    "iimjobs": 764,
-    "naukri": 1126,
+    "iimjobs": 766,
+    "naukri": 1127,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T10:52:22.999Z",
-  "lastUpdated": "3/11/2026, 4:22:22 pm"
+  "lastSyncedAt": "2026-11-03T11:15:58.150Z",
+  "lastUpdated": "3/11/2026, 4:45:58 pm"
 }
