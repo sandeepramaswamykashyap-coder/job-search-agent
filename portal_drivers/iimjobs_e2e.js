@@ -11,20 +11,42 @@ const credentials = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'crede
 
 const SLEEP = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+// ── Sandeep-specific IIMJobs search keywords ──────────────────────────────────
 const IIM_KEYWORDS = [
-  'senior-manager',
-  'senior-operations-manager',
-  'program-manager',
-  'technical-program-manager',
-  'operations-head',
-  'transformation',
-  'change-management',
+  // ServiceNow specialisation
   'servicenow',
-  'director-operations',
+  'servicenow-hrsd',
+  // Transformation
   'business-transformation',
+  'digital-transformation',
+  'transformation-program-manager',
+  // Change Management
+  'change-management',
+  'organizational-change-management',
+  // Operations Excellence / Senior Ops
+  'operational-excellence',
+  'senior-operations-manager',
+  'operations-transformation',
+  // Program / Portfolio Management
+  'program-manager',
+  'pmo-head',
+  'portfolio-manager',
+  // UAT / Quality Governance
   'uat-manager',
-  'head-transformation',
-  'operational-excellence'
+  'uat-lead',
+  // Intelligent Automation
+  'intelligent-automation',
+  'automation-program-manager',
+  // Data Governance
+  'data-governance',
+  'data-product-manager',
+  // Agile Delivery
+  'agile-delivery-lead',
+  // Transition & Service Delivery
+  'service-transition-manager',
+  'service-delivery-manager',
+  // Senior Manager (general — filtered tightly below)
+  'senior-manager',
 ];
 
 async function ensureIIMJobsLoggedIn(page) {
@@ -96,9 +118,36 @@ async function runIIMJobsE2E(page, context, maxApplications = 15) {
           }
 
           const lowTitle = title.toLowerCase();
-          const forbiddenJunior = ['analyst', 'developer', 'software engineer', 'specialist', 'technician', 'trainee', 'fresher', 'hvac', 'telecaller', 'telesales'];
-          if (forbiddenJunior.some(term => lowTitle.includes(term)) && !lowTitle.includes('director') && !lowTitle.includes('head') && !lowTitle.includes('vp')) {
-            console.log(`[IIMJobsE2E] ⏭️ Skipping junior/mismatched title: "${title}" @ ${company}`);
+
+          // ── Hard-exclude irrelevant domains ───────────────────────────────
+          const domainExcludes = [
+            'sales', 'marketing', 'brand', 'demand generation', 'revenue',
+            'legal', 'compliance officer', 'counsel', 'fixed income', 'fund manager',
+            'asset manager', 'wealth manager', 'relationship manager', 'treasurer',
+            'software engineer', 'developer', 'frontend', 'backend', 'devops',
+            'ml engineer', 'data engineer', 'analyst', 'specialist', 'technician',
+            'trainee', 'fresher', 'hvac', 'telecaller', 'telesales',
+            'recruiter', 'talent acquisition', 'l&d', 'hrbp',
+            'supply chain', 'logistics', 'procurement', 'real estate',
+            'graphic design', 'content', 'copywriter',
+          ];
+          if (domainExcludes.some(term => lowTitle.includes(term))) {
+            console.log(`[IIMJobsE2E] ⏭️ Skipping irrelevant role: "${title}" @ ${company}`);
+            continue;
+          }
+
+          // ── Must contain at least one of Sandeep's core domain signals ───
+          const relevantSignals = [
+            'servicenow', 'transformation', 'change management', 'program manager',
+            'programme manager', 'portfolio', 'pmo', 'uat', 'user acceptance',
+            'intelligent automation', 'automation', 'rpa', 'operational excellence',
+            'operations manager', 'service delivery', 'service transition',
+            'data governance', 'data product', 'data quality', 'agile',
+            'senior manager', 'senior operations', 'risk operations',
+            'regulatory change', 'banking operations',
+          ];
+          if (!relevantSignals.some(s => lowTitle.includes(s))) {
+            console.log(`[IIMJobsE2E] ⏭️ Skipping off-domain title: "${title}" @ ${company}`);
             continue;
           }
 

@@ -22,24 +22,76 @@ const { applyToPortal } = require('./portal_router');
 const { logApplication, getAllApplications } = require('./applications_db');
 const { syncToGitHub } = require('./git_auto_pusher');
 
-const SENIOR_KEYWORDS = [
-  'program manager', 'technical program manager', 'tpm', 'delivery manager',
-  'project manager', 'transformation', 'service delivery', 'servicenow',
-  'director', 'head of', 'vice president', 'vp', 'agile', 'scrum master',
-  'operations manager', 'product manager', 'change management', 'lead',
-  'business operations', 'bizops', 'chief of staff', 'governance', 'risk operations'
+// ── Sandeep Ramaswamy Kashyap – Relevant Role Filter ──────────────────────────
+// Only apply to roles that genuinely match Sandeep's 15-yr profile:
+// ServiceNow · Business/Digital Transformation · UAT · Change Management ·
+// Intelligent Automation · Operations Excellence · Data Governance · Program/Portfolio Mgmt
+const RELEVANT_TITLE_KEYWORDS = [
+  // ServiceNow
+  'servicenow', 'service now', 'snow',
+  // Transformation
+  'transformation', 'business transformation', 'digital transformation',
+  'operations transformation', 'process transformation',
+  // Program / Portfolio / Delivery Management
+  'program manager', 'programme manager', 'portfolio manager',
+  'delivery manager', 'delivery lead', 'pmo',
+  // Change Management / OCM
+  'change management', 'organizational change', 'ocm',
+  // UAT / Quality Governance
+  'uat', 'user acceptance', 'quality assurance', 'qa lead', 'test manager',
+  // Intelligent Automation / RPA
+  'intelligent automation', 'automation manager', 'rpa', 'hyperautomation',
+  // Operations & Operational Excellence
+  'operations manager', 'operational excellence', 'ops excellence',
+  'service delivery', 'service operations',
+  // Data Governance / Data Management
+  'data governance', 'data steward', 'data product', 'data quality',
+  'data privacy', 'market data', 'data analytics manager',
+  // Agile / Scrum
+  'agile coach', 'scrum master', 'agile delivery',
+  // Senior leadership titles (domain-qualified below)
+  'senior manager', 'senior operations',
+  // Transition
+  'transition manager', 'service transition',
+  // Investment Banking Ops (IIM Indore background)
+  'investment banking operations', 'banking operations',
+  // Risk / Regulatory
+  'risk operations', 'regulatory change', 'governance risk',
 ];
 
-const EXCLUDE_KEYWORDS = [
-  'intern', 'junior', 'entry level', 'graduate', 'student', 'fellow'
+// Hard exclude — titles that sound senior but are NOT Sandeep's domain
+const EXCLUDE_TITLE_KEYWORDS = [
+  'intern', 'junior', 'entry level', 'graduate', 'student', 'fellow', 'trainee', 'fresher',
+  // Sales / Marketing
+  'sales director', 'sales manager', 'account manager', 'account executive',
+  'business development', 'bd manager', 'marketing manager', 'growth manager',
+  'demand generation', 'revenue manager', 'commercial director',
+  // Legal / Compliance (not Sandeep's domain)
+  'legal counsel', 'corporate legal', 'compliance manager', 'compliance officer',
+  // Finance / Accounting
+  'finance manager', 'financial controller', 'fp&a', 'treasurer', 'cfo',
+  'fixed income', 'fund manager', 'asset manager', 'investment manager',
+  'wealth manager', 'relationship manager',
+  // Engineering / Dev
+  'software engineer', 'software developer', 'frontend', 'backend', 'fullstack',
+  'devops engineer', 'cloud engineer', 'data engineer', 'ml engineer',
+  // HR (not his target unless HRSD related)
+  'hr manager', 'hrbp', 'talent acquisition', 'recruiter', 'l&d manager',
+  // Creative / Design
+  'ui designer', 'ux designer', 'graphic designer', 'brand manager', 'content manager',
+  // Unrelated verticals
+  'real estate', 'manufacturing', 'supply chain', 'procurement manager',
+  'logistics', 'hospitality', 'retail manager',
 ];
 
 function isSeniorMatch(title) {
   const t = (title || '').toLowerCase();
-  const matches = SENIOR_KEYWORDS.some(k => t.includes(k));
-  const excluded = EXCLUDE_KEYWORDS.some(k => t.includes(k));
-  return matches && !excluded;
+  const excluded = EXCLUDE_TITLE_KEYWORDS.some(k => t.includes(k));
+  if (excluded) return false;
+  const relevant = RELEVANT_TITLE_KEYWORDS.some(k => t.includes(k));
+  return relevant;
 }
+
 
 async function gatherAllLiveJobs() {
   console.log('\n[QuadGrinder] 🌐 Aggressively sweeping 350+ enterprise ATS boards & remote aggregators...');

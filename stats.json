@@ -1,39 +1,7 @@
 {
-  "jobsScanned": 33305,
-  "applicationsSubmitted": 5147,
+  "jobsScanned": 33459,
+  "applicationsSubmitted": 5151,
   "appliedRolesList": [
-    {
-      "company": "PwC",
-      "title": "ITAM/Servicenow(Manager)SAM pro",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-itam-servicenow-manager-sam-pro-pwc-bengaluru-10-to-20-years-281026012414?src=directSearch&sid=17931942206557745&xp=10&px=1",
-      "time": "2026-10-28T13:30:45.473Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dust",
-      "title": "Global Head of Support Engineering (Paris)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/dust/2e7d4bef-b948-4c98-99c7-475abb4dc91f",
-      "time": "2026-10-28T13:30:56.318Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dust",
-      "title": "Global Head of Solutions Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/dust/a75f34ab-8c15-4f53-8f72-c565d6d58b5a",
-      "time": "2026-10-28T13:30:56.856Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Supabase",
-      "title": "Head of AI Native Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764",
-      "time": "2026-10-28T13:30:57.277Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Baseten",
       "title": "Technical Program Manager, Forward Deployed Engineering",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/assistant-relationship-manager-relationship-manager-senior-relationship-manager-corporate-liability-bank-1742974?ref=sp&jobPos=7",
       "time": "2026-11-03T06:26:57.837Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Sales Director - ServiceNow Services - IT Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/sales-director-servicenow-services-it-services-1743551?ref=sp&jobPos=12",
+      "time": "2026-11-03T07:00:35.055Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Business Transformation - Oil & Gas",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-business-transformation-oil-and-gas-1743642?ref=sp&jobPos=15",
+      "time": "2026-11-03T07:01:13.239Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant Manager/Deputy Manager - Audit & Attestation Services - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-manager-deputy-manager-audit-and-attestation-services-ca-1743602?ref=sp&jobPos=1",
+      "time": "2026-11-03T07:01:29.500Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Program Manager",
+      "portal": "direct_portal_generic",
+      "url": "https://careers.servicenow.com/careers/jobs?q=program+manager",
+      "time": "2026-11-03T07:08:08.952Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,14 +4719,14 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5147,
+  "totalVerifiedInHistory": 5151,
   "portalBreakdown": {
-    "iimjobs": 726,
+    "iimjobs": 729,
     "naukri": 1115,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
-    "direct_portal_generic": 14,
+    "direct_portal_generic": 15,
     "direct_portal_workday": 4,
     "direct_portal_smartrecruiters": 1,
     "jobgether": 25,
@@ -4740,6 +4740,6 @@
     "indeed": 89,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T06:50:34.478Z",
-  "lastUpdated": "3/11/2026, 12:20:34 pm"
+  "lastSyncedAt": "2026-11-03T07:09:49.823Z",
+  "lastUpdated": "3/11/2026, 12:39:49 pm"
 }
