@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5217,
+  "applicationsSubmitted": 5218,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Ads Revenue Accounting",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/8a50f878-5252-4f65-ad84-80ae2dc5637e",
-      "time": "2026-10-28T13:37:22.335Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Applied AI Delivery Lead",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/ralph-lauren-associate-data-governance-and-quality-manager-1734446?ref=sp_br&jobPos=12",
       "time": "2026-11-03T17:12:52.234Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Clarivate - Senior Manager - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/clarivate-senior-manager-data-governance-1730110?ref=sp&jobPos=13",
+      "time": "2026-11-03T17:45:41.665Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5217,
+  "totalVerifiedInHistory": 5218,
   "portalBreakdown": {
-    "iimjobs": 779,
+    "iimjobs": 780,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T17:12:52.287Z",
-  "lastUpdated": "3/11/2026, 10:42:52 pm"
+  "lastSyncedAt": "2026-11-03T17:45:41.720Z",
+  "lastUpdated": "3/11/2026, 11:15:41 pm"
 }
