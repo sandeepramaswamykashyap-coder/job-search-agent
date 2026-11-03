@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5223,
+  "applicationsSubmitted": 5224,
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Senior Manager, Account Manager, Enterprise",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
-      "time": "2026-10-28T13:41:22.156Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ramp",
       "title": "Product Operations | General Builder (All Levels)",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-corporate-hr-fmcg-otc-1743819?ref=sp&jobPos=6",
       "time": "2026-11-03T20:30:29.040Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "MtaSysinc - Data Product Manager - Inventory Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mtasysinc-data-product-manager-inventory-management-1741134?ref=sp&jobPos=3",
+      "time": "2026-11-03T21:03:31.603Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5223,
+  "totalVerifiedInHistory": 5224,
   "portalBreakdown": {
-    "iimjobs": 785,
+    "iimjobs": 786,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T20:30:29.102Z",
-  "lastUpdated": "4/11/2026, 2:00:29 am"
+  "lastSyncedAt": "2026-11-03T21:03:31.666Z",
+  "lastUpdated": "4/11/2026, 2:33:31 am"
 }
