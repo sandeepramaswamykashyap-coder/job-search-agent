@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5216,
+  "applicationsSubmitted": 5217,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Senior Manager/Chief Manager - Investment Middle Office - Life Insurance - CA",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/senior-manager-chief-manager-investment-middle-office-life-insurance-ca-1742495?ref=sp&jobPos=15",
-      "time": "2026-10-28T13:37:13.283Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Senior Manager, Ads Revenue Accounting",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/data-quality-and-governance-lead-master-data-management-1735212?ref=sp&jobPos=11",
       "time": "2026-11-03T16:43:32.473Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ralph Lauren - Associate Data Governance & Quality Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ralph-lauren-associate-data-governance-and-quality-manager-1734446?ref=sp_br&jobPos=12",
+      "time": "2026-11-03T17:12:52.234Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5216,
+  "totalVerifiedInHistory": 5217,
   "portalBreakdown": {
-    "iimjobs": 778,
+    "iimjobs": 779,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T16:43:32.556Z",
-  "lastUpdated": "3/11/2026, 10:13:32 pm"
+  "lastSyncedAt": "2026-11-03T17:12:52.287Z",
+  "lastUpdated": "3/11/2026, 10:42:52 pm"
 }
