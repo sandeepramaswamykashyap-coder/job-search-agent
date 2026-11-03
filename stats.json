@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5227,
+  "applicationsSubmitted": 5228,
   "appliedRolesList": [
-    {
-      "company": "Deepgram",
-      "title": "Senior Manager, Internal Communications",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/deepgram/c79a2b89-5309-4af5-8cf4-ab8454a2ecbc",
-      "time": "2026-10-28T13:43:49.900Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Langchain",
       "title": "Order Management Operations & Automation",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
       "time": "2026-11-03T21:58:11.677Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Product Manager - Reltio MDM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-product-manager-reltio-mdm-1735737?ref=sp&jobPos=14",
+      "time": "2026-11-03T22:10:29.863Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5227,
+  "totalVerifiedInHistory": 5228,
   "portalBreakdown": {
-    "iimjobs": 787,
+    "iimjobs": 788,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T21:58:11.724Z",
-  "lastUpdated": "4/11/2026, 3:28:11 am"
+  "lastSyncedAt": "2026-11-03T22:10:29.915Z",
+  "lastUpdated": "4/11/2026, 3:40:29 am"
 }
