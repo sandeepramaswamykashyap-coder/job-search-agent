@@ -1,31 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5196,
+  "applicationsSubmitted": 5199,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Head of Business Development, LATAM",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3a24a9a2-47e1-427c-ac76-81b5c59b638b",
-      "time": "2026-10-28T13:35:45.680Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Program Manager, Partner Content & Storytelling",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/609cb338-a168-42c1-8e77-5837826136b1",
-      "time": "2026-10-28T13:35:46.016Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead - Japan",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/f76d120b-7d1b-4e80-aaf8-5d2c6b38a7ca",
-      "time": "2026-10-28T13:35:54.146Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Onity Group - Vice President - AI/Digital Transformation",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/portfolio-manager-pms-1731921?ref=sp&jobPos=14",
       "time": "2026-11-03T10:19:13.458Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Deutsche Bank",
+      "title": "India Head of FIC Operations & Global Derivative Trade Services Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-india-head-of-fic-operations-global-derivative-trade-services-lead-deutsche-bank-bengaluru-20-to-30-years-031126019790?src=directSearch&sid=17937027896055558&xp=1&px=1",
+      "time": "2026-11-03T10:46:43.768Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Portfolio Manager - Banking / Financial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/portfolio-manager-banking-financial-services-1731826?ref=sp&jobPos=18",
+      "time": "2026-11-03T10:51:58.849Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Vice President - Risk & Control Automation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-vice-president-risk-and-control-automation-1743540?ref=sp&jobPos=1",
+      "time": "2026-11-03T10:52:22.952Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5196,
+  "totalVerifiedInHistory": 5199,
   "portalBreakdown": {
-    "iimjobs": 762,
-    "naukri": 1125,
+    "iimjobs": 764,
+    "naukri": 1126,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T10:19:13.507Z",
-  "lastUpdated": "3/11/2026, 3:49:13 pm"
+  "lastSyncedAt": "2026-11-03T10:52:22.999Z",
+  "lastUpdated": "3/11/2026, 4:22:22 pm"
 }
