@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5213,
+  "applicationsSubmitted": 5214,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Assistant Manager - Leadership Hiring",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-assistant-manager-leadership-hiring-1742572?ref=sp&jobPos=1",
-      "time": "2026-10-28T13:36:48.536Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Senior Manager - Client Servicing - Wealth Management - Family Office",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/cargill-senior-consultant-people-data-governance-and-enablement-1740225?ref=sp_br&jobPos=5",
       "time": "2026-11-03T15:00:36.624Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Datagaps - Product Head - Data Quality & Governance & Modern Data Platforms",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/datagaps-product-head-data-quality-and-governance-and-modern-data-platforms-1739380?ref=sp_br&jobPos=6",
+      "time": "2026-11-03T15:37:09.606Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5213,
+  "totalVerifiedInHistory": 5214,
   "portalBreakdown": {
-    "iimjobs": 775,
+    "iimjobs": 776,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T15:00:36.685Z",
-  "lastUpdated": "3/11/2026, 8:30:36 pm"
+  "lastSyncedAt": "2026-11-03T15:37:09.660Z",
+  "lastUpdated": "3/11/2026, 9:07:09 pm"
 }
