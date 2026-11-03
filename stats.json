@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5220,
+  "applicationsSubmitted": 5221,
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "KYB Operations Lead, UK",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
-      "time": "2026-10-28T13:38:17.298Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Senior Manager, Accounts Payable - Compute",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/data-strategy-consultant-data-governance-consulting-1741212?ref=sp&jobPos=17",
       "time": "2026-11-03T18:52:00.125Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Data Governance & Data Quality - BFSI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-data-governance-and-data-quality-bfsi-1739549?ref=sp&jobPos=18",
+      "time": "2026-11-03T19:24:57.824Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5220,
+  "totalVerifiedInHistory": 5221,
   "portalBreakdown": {
-    "iimjobs": 782,
+    "iimjobs": 783,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T18:52:00.184Z",
-  "lastUpdated": "4/11/2026, 12:22:00 am"
+  "lastSyncedAt": "2026-11-03T19:24:57.882Z",
+  "lastUpdated": "4/11/2026, 12:54:57 am"
 }
