@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5210,
+  "applicationsSubmitted": 5211,
   "appliedRolesList": [
-    {
-      "company": "Temporal",
-      "title": "Director, Product Marketing, Core Products",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/512beff1-52d2-4f35-941a-825ba09b71f2",
-      "time": "2026-10-28T13:36:39.620Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Temporal",
       "title": "Director, Product Marketing, GTM",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/payroll-program-manager-1738332?ref=sp&jobPos=16",
       "time": "2026-11-03T13:18:12.909Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Flutter Entertainment - Senior Manager - Governance/Data & AI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/flutter-entertainment-senior-manager-governance-data-and-ai-1740878?ref=sp_br_prm&jobPos=1",
+      "time": "2026-11-03T13:51:26.416Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5210,
+  "totalVerifiedInHistory": 5211,
   "portalBreakdown": {
-    "iimjobs": 772,
+    "iimjobs": 773,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T13:18:12.957Z",
-  "lastUpdated": "3/11/2026, 6:48:12 pm"
+  "lastSyncedAt": "2026-11-03T13:51:26.468Z",
+  "lastUpdated": "3/11/2026, 7:21:26 pm"
 }
