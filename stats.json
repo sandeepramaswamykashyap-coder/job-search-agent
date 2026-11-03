@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 33123,
-  "applicationsSubmitted": 5142,
+  "jobsScanned": 33130,
+  "applicationsSubmitted": 5144,
   "appliedRolesList": [
-    {
-      "company": "Modal",
-      "title": "Head of IT",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/modal/df9c593c-54db-4164-978c-deaea19536e7",
-      "time": "2026-10-28T13:30:26.371Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Langchain",
-      "title": "EMEA Deal Strategy & Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1",
-      "time": "2026-10-28T13:30:36.675Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Langchain",
       "title": "GTM Enablement Program Manager, Systems & Product",
@@ -4001,6 +3985,22 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476611196&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=125",
       "time": "2026-11-03T05:18:20.468Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Eggoz - Manager/Senior Manager - Quality",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/eggoz-manager-senior-manager-quality-1743532?ref=sp_br_prm&jobPos=1",
+      "time": "2026-11-03T05:49:25.222Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Motovolt - B2C Service Head",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/motovolt-b2c-service-head-1743536?ref=sp&jobPos=10",
+      "time": "2026-11-03T05:49:53.728Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5142,
+  "totalVerifiedInHistory": 5144,
   "portalBreakdown": {
-    "iimjobs": 721,
+    "iimjobs": 723,
     "naukri": 1115,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 89,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T05:32:42.753Z",
-  "lastUpdated": "3/11/2026, 11:02:42 am"
+  "lastSyncedAt": "2026-11-03T05:49:59.246Z",
+  "lastUpdated": "3/11/2026, 11:19:59 am"
 }
