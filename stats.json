@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5212,
+  "applicationsSubmitted": 5213,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations, Support",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/9747412d-a23d-48ba-bddd-ad1247c360f5",
-      "time": "2026-10-28T13:36:47.172Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Manager/Assistant Manager - Leadership Hiring",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/jp-morgan-chase-associate-data-governance-it-and-systems-1742699?ref=sp_br&jobPos=2",
       "time": "2026-11-03T14:26:21.208Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Cargill - Senior Consultant - People Data Governance & Enablement",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/cargill-senior-consultant-people-data-governance-and-enablement-1740225?ref=sp_br&jobPos=5",
+      "time": "2026-11-03T15:00:36.624Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5212,
+  "totalVerifiedInHistory": 5213,
   "portalBreakdown": {
-    "iimjobs": 774,
+    "iimjobs": 775,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T14:30:52.428Z",
-  "lastUpdated": "3/11/2026, 8:00:52 pm"
+  "lastSyncedAt": "2026-11-03T15:00:36.685Z",
+  "lastUpdated": "3/11/2026, 8:30:36 pm"
 }
