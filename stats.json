@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5228,
+  "applicationsSubmitted": 5229,
   "appliedRolesList": [
-    {
-      "company": "Langchain",
-      "title": "Order Management Operations & Automation",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/langchain/c4575cc8-ed78-47d7-8b53-637402e77d8d",
-      "time": "2026-10-28T13:44:17.522Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Writer",
       "title": "Senior manager, lifecycle & audience marketing",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/data-product-manager-reltio-mdm-1735737?ref=sp&jobPos=14",
       "time": "2026-11-03T22:10:29.863Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Agile Coach Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/agile-coach-manager-1728575?ref=sp&jobPos=2",
+      "time": "2026-11-03T22:43:18.106Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5228,
+  "totalVerifiedInHistory": 5229,
   "portalBreakdown": {
-    "iimjobs": 788,
+    "iimjobs": 789,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T22:10:29.915Z",
-  "lastUpdated": "4/11/2026, 3:40:29 am"
+  "lastSyncedAt": "2026-11-03T22:43:18.165Z",
+  "lastUpdated": "4/11/2026, 4:13:18 am"
 }
