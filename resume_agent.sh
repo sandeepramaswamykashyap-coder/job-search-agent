@@ -7,7 +7,7 @@
 #   bash resume_agent.sh --silent  # Resumes in 100% silent background mode
 # ==============================================================================
 
-PROJECT_DIR="/Users/sandeepramaswamykashyap/.gemini/antigravity-ide/scratch/job-search-agent"
+PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR" || exit 1
 
 echo "======================================================================"

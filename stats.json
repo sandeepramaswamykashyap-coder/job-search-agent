@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 33130,
-  "applicationsSubmitted": 5144,
+  "jobsScanned": 33305,
+  "applicationsSubmitted": 5147,
   "appliedRolesList": [
-    {
-      "company": "Langchain",
-      "title": "GTM Enablement Program Manager, Systems & Product",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/langchain/f5217646-e988-4060-8363-49ab93ba9fe4",
-      "time": "2026-10-28T13:30:38.113Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dust",
-      "title": "Global Head of Support Engineering (US)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/dust/bec10b58-7364-45f5-93fa-e031a289e630",
-      "time": "2026-10-28T13:30:39.348Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Incident",
-      "title": "VP of Sales, EMEA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/incident/3a21d807-bf09-4017-8be8-08b69006dfa0",
-      "time": "2026-10-28T13:30:45.147Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "PwC",
       "title": "ITAM/Servicenow(Manager)SAM pro",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/motovolt-b2c-service-head-1743536?ref=sp&jobPos=10",
       "time": "2026-11-03T05:49:53.728Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Transfer Pricing - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-transfer-pricing-ca-1743553?ref=sp&jobPos=2",
+      "time": "2026-11-03T06:26:39.547Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager/Director - Analytics - SaaS Industry",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-director-analytics-saas-industry-1743204?ref=sp&jobPos=3",
+      "time": "2026-11-03T06:26:45.719Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant Relationship Manager/Relationship Manager/Senior Relationship Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-relationship-manager-relationship-manager-senior-relationship-manager-corporate-liability-bank-1742974?ref=sp&jobPos=7",
+      "time": "2026-11-03T06:26:57.837Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5144,
+  "totalVerifiedInHistory": 5147,
   "portalBreakdown": {
-    "iimjobs": 723,
+    "iimjobs": 726,
     "naukri": 1115,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 89,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T05:49:59.246Z",
-  "lastUpdated": "3/11/2026, 11:19:59 am"
+  "lastSyncedAt": "2026-11-03T06:31:14.660Z",
+  "lastUpdated": "3/11/2026, 12:01:14 pm"
 }
