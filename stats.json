@@ -1,71 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5162,
+  "applicationsSubmitted": 5170,
   "appliedRolesList": [
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (Central)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/eaa203c7-1bc5-41ca-952c-50e019effa36",
-      "time": "2026-10-28T13:32:15.126Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "VP of Sales - Public Sector",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13",
-      "time": "2026-10-28T13:32:34.932Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Staff Technical Program Manager, Machine Learning",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
-      "time": "2026-10-28T13:32:35.285Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Head of Sales, Defense & Intelligence, EMEA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
-      "time": "2026-10-28T13:32:35.775Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Director, sales enablement",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/3bf8d373-0ae9-4015-91ea-08f2d2989765",
-      "time": "2026-10-28T13:32:37.331Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Okta",
-      "title": "Head of Partner Operations APJ",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-head-of-partner-operations-apj-okta-identity-india-private-limited-bengaluru-9-to-14-years-281026914251?src=directSearch&sid=17931943506283509&xp=2&px=1",
-      "time": "2026-10-28T13:32:44.622Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Director of Strategic Sourcing and Procurement",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/c92070de-4617-4ea1-91b5-dbdf9e404519",
-      "time": "2026-10-28T13:32:50.957Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Staff Technical Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/36613609-2dbd-42d9-8433-60601145d991",
-      "time": "2026-10-28T13:32:51.647Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cohere",
       "title": "Legal Counsel, Corporate Governance & Regulatory",
@@ -4001,6 +3937,70 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAAAAAAAAAAAAAACZtdNnQASAQB4o6otuIMHiiSjS3vk-LcYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAAAAAAAAAAAAAACZtdNnQASAQB4o6otuIMHiiSjS3vk-LcYAAA&from=page-two-signin",
       "time": "2026-11-03T07:43:13.059Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Omega Healthcare",
+      "title": "Director / Sr. Director - Operations - Medical Coding",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-sr-director-operations-medical-coding-omega-healthcare-chennai-bengaluru-18-to-24-years-031126012535?src=directSearch&sid=17936925482054894&xp=6&px=1",
+      "time": "2026-11-03T07:56:05.724Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "sbt",
+      "title": "Product Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-product-manager-sbt-bengaluru-6-to-10-years-031126012984?src=directSearch&sid=17936927156702155&xp=11&px=1",
+      "time": "2026-11-03T07:58:53.323Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Grid Dynamics",
+      "title": "Delivery Manager (Multi Pod Engagement)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-delivery-manager-multi-pod-engagement-grid-dynamics-bengaluru-12-to-18-years-010926018219?src=directSearch&sid=17936927591538691&xp=6&px=1",
+      "time": "2026-11-03T07:59:36.813Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant General Manager - Operational Excellence - Six Sigma Black Belt",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-general-manager-operational-excellence-six-sigma-black-belt-1721591?ref=sp&jobPos=11",
+      "time": "2026-11-03T08:01:10.478Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "BNP Paribas ISPL - Vice President Operations - Transition & Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bnp-paribas-ispl-vice-president-operations-transition-and-transformation-1741911?ref=sp&jobPos=2",
+      "time": "2026-11-03T08:01:24.655Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Transformation Manager - Insurance Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-transformation-manager-insurance-operations-1730653?ref=sp&jobPos=6",
+      "time": "2026-11-03T08:01:36.717Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Finance Transformation Leader - Finance & Accounts",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/finance-transformation-leader-finance-and-accounts-1741271?ref=sp&jobPos=11",
+      "time": "2026-11-03T08:01:48.802Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Bharat Biotech - Head - PMO - New Product Development",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bharat-biotech-head-pmo-new-product-development-1735040?ref=sp_br&jobPos=1",
+      "time": "2026-11-03T08:02:03.442Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5162,
+  "totalVerifiedInHistory": 5170,
   "portalBreakdown": {
-    "iimjobs": 738,
-    "naukri": 1116,
+    "iimjobs": 743,
+    "naukri": 1119,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 90,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T07:43:13.147Z",
-  "lastUpdated": "3/11/2026, 1:13:13 pm"
+  "lastSyncedAt": "2026-11-03T08:02:03.493Z",
+  "lastUpdated": "3/11/2026, 1:32:03 pm"
 }
