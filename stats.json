@@ -1,23 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5208,
+  "applicationsSubmitted": 5210,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Head of Enterprise Risk Management",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/db40bc4f-c7fb-47d5-a7cc-918fb8b1f815",
-      "time": "2026-10-28T13:36:22.091Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dust",
-      "title": "Global Head of AI Deployment & Partner Delivery (Paris)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/dust/49bf96b2-b60b-4959-abe8-bb6714812e68",
-      "time": "2026-10-28T13:36:27.766Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Temporal",
       "title": "Director, Product Marketing, Core Products",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/manager-business-transformation-and-ai-bpo-bfsi-1743789?ref=sp&jobPos=17",
       "time": "2026-11-03T12:42:52.272Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Exathought",
+      "title": "AI Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-program-manager-exathought-bengaluru-8-to-11-years-031126025549?src=directSearch&sid=17937114494046921&xp=6&px=1",
+      "time": "2026-11-03T13:11:20.091Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Payroll Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/payroll-program-manager-1738332?ref=sp&jobPos=16",
+      "time": "2026-11-03T13:18:12.909Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5208,
+  "totalVerifiedInHistory": 5210,
   "portalBreakdown": {
-    "iimjobs": 771,
-    "naukri": 1128,
+    "iimjobs": 772,
+    "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T12:42:52.320Z",
-  "lastUpdated": "3/11/2026, 6:12:52 pm"
+  "lastSyncedAt": "2026-11-03T13:18:12.957Z",
+  "lastUpdated": "3/11/2026, 6:48:12 pm"
 }
