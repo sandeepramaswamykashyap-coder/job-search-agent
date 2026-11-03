@@ -1,95 +1,7 @@
 {
-  "jobsScanned": 33102,
-  "applicationsSubmitted": 5125,
+  "jobsScanned": 33109,
+  "applicationsSubmitted": 5136,
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Senior Technical Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
-      "time": "2026-10-28T13:29:02.685Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sentry",
-      "title": "Senior Technical Program Manager, AI Platform",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/sentry/278476b1-87c5-461f-ad7e-950cd31e5f31",
-      "time": "2026-10-28T13:29:13.371Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sentry",
-      "title": "Director of Engineering, Platform (Runtime & Stateful Systems)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
-      "time": "2026-10-28T13:29:14.643Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Chief of Staff to Head of Talent",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/22034ea4-b563-425f-b5d2-8a113e6d172d",
-      "time": "2026-10-28T13:29:15.044Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Privacy Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/19b21930-d142-4dae-be23-751f5425b0af",
-      "time": "2026-10-28T13:29:17.908Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Trianz",
-      "title": "Strategic Program Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-strategic-program-lead-trianz-pune-bengaluru-8-to-12-years-281026015497?src=directSearch&sid=17931941372875079&xp=6&px=1",
-      "time": "2026-10-28T13:29:24.293Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Business Operations Manager, Marketing and Communications",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/fd64d88c-823e-4329-b133-f09754e0f4b8",
-      "time": "2026-10-28T13:29:29.061Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Billing Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/702c7eb8-9908-407f-bcb5-647a227819d6",
-      "time": "2026-10-28T13:29:32.146Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Global Workplace Business Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/c5dcc0db-7fdc-4e09-86c7-b6618400df16",
-      "time": "2026-10-28T13:29:32.505Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Director of Events and Experiences",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b",
-      "time": "2026-10-28T13:29:37.086Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
-      "time": "2026-10-28T13:29:49.176Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Head of Analyst Relations",
@@ -4001,6 +3913,94 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4479966525&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
       "time": "2026-11-03T03:33:55.468Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Planning Digitization & Transformation Leader - IIT/IIM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/planning-digitization-and-transformation-leader-iit-iim-1743492?ref=sp_prm&jobPos=2",
+      "time": "2026-11-03T04:05:10.985Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infinity Learn",
+      "title": "Growth Product Manager\nGrowth Product Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484124757&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:07:09.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Commonwealth Bank",
+      "title": "Executive Manager Operations Technology\nExecutive Manager Operations Technology with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474266409&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:07:56.679Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Quantiphi",
+      "title": "Insurance GTM & Growth Leader\nInsurance GTM & Growth Leader with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4485725416&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:08:51.686Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Info Origin Inc.",
+      "title": "Project Manager (Re-insurance/ Finance)\nProject Manager (Re-insurance/ Finance)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482283181&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:09:38.777Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Allegis Global Solutions",
+      "title": "Senior Product Manager\nSenior Product Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4485725416&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:10:26.486Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deutsche Bank",
+      "title": "Central Risk Services (CRS): Head of India Control Testing Utility (CTU)\nCentral Risk Services (CRS): Head of India Control Testing Utility (CTU) with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482283181&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:11:15.221Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Scapia",
+      "title": "Product Lead\nProduct Lead with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4485725416&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:12:03.329Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Biocon Biologics",
+      "title": "Program Manager – Biosimilar Development\nProgram Manager – Biosimilar Development",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:12:58.608Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Artizent",
+      "title": "Technical Program Manager\nTechnical Program Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:13:53.280Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Kamakhya Analytics Private Limited",
+      "title": "Program Manager\nProgram Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-11-03T04:14:39.592Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5125,
+  "totalVerifiedInHistory": 5136,
   "portalBreakdown": {
-    "iimjobs": 719,
+    "iimjobs": 720,
     "naukri": 1115,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4738,8 +4738,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 89,
-    "linkedin_easy_apply": 371
+    "linkedin_easy_apply": 381
   },
-  "lastSyncedAt": "2026-11-03T03:58:24.681Z",
-  "lastUpdated": "3/11/2026, 9:28:24 am"
+  "lastSyncedAt": "2026-11-03T04:25:37.609Z",
+  "lastUpdated": "3/11/2026, 9:55:37 am"
 }
