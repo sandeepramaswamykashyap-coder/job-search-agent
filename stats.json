@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 33116,
-  "applicationsSubmitted": 5139,
+  "jobsScanned": 33123,
+  "applicationsSubmitted": 5142,
   "appliedRolesList": [
-    {
-      "company": "Cognition",
-      "title": "Head of Safety",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/43f38460-632b-4b0a-8b14-888d117b2e07",
-      "time": "2026-10-28T13:30:13.677Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Partner Director (LATAM)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/84a2c042-6e1c-4093-a06b-39018ef89c4e",
-      "time": "2026-10-28T13:30:14.994Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Modal",
-      "title": "Legal Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/modal/3ed4e7e4-1765-481b-a1aa-199d1d6d079c",
-      "time": "2026-10-28T13:30:18.590Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Modal",
       "title": "Head of IT",
@@ -4001,6 +3977,30 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
       "time": "2026-11-03T04:48:57.262Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Esse India | Canada immigration consultants in delhi | visa consultant delhi",
+      "title": "Senior Director of Operations\nSenior Director of Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476611196&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
+      "time": "2026-11-03T05:17:07.347Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Scimplify",
+      "title": "Business Head - Textile (Speciality Chemical)\nBusiness Head - Textile (Speciality Chemical)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4479966525&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
+      "time": "2026-11-03T05:17:32.622Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mashreq",
+      "title": "Assistant Vice President - Technology (Data Engineering)",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476611196&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=125",
+      "time": "2026-11-03T05:18:20.468Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5139,
+  "totalVerifiedInHistory": 5142,
   "portalBreakdown": {
     "iimjobs": 721,
     "naukri": 1115,
@@ -4738,8 +4738,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 89,
-    "linkedin_easy_apply": 383
+    "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T04:54:03.390Z",
-  "lastUpdated": "3/11/2026, 10:24:03 am"
+  "lastSyncedAt": "2026-11-03T05:21:05.470Z",
+  "lastUpdated": "3/11/2026, 10:51:05 am"
 }
