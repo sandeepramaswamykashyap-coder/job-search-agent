@@ -1,71 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5181,
+  "applicationsSubmitted": 5189,
   "appliedRolesList": [
-    {
-      "company": "Oaknorth",
-      "title": "Senior Director/Director, Debt Finance - Structured Finance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/9b91380f-2609-4678-9341-fe8103ad314c",
-      "time": "2026-10-28T13:33:43.818Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Oaknorth",
-      "title": "Associate Vice President - Credit Analytics",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/3f8367c2-ad43-47e7-a2af-5058c6560f35",
-      "time": "2026-10-28T13:33:46.914Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Oaknorth",
-      "title": "AVP  - CRE- Credit Analytics",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/c0bc7401-8a59-4ee6-adc9-9c6975c9be2d",
-      "time": "2026-10-28T13:33:53.750Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Oaknorth",
-      "title": "Senior Director, Portfolio Monitoring - Real Estate",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/0e711e1c-41de-4087-a529-f5038039861c",
-      "time": "2026-10-28T13:33:54.215Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cargill",
-      "title": "Pricing Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-pricing-lead-cargill-business-services-india-private-limited-bengaluru-8-to-13-years-281026912459?src=directSearch&sid=17931943943017656&xp=4&px=1",
-      "time": "2026-10-28T13:33:59.945Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Strategic Program Manager, Focus Accounts (DACH Region)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/37f0bb92-7a1b-4862-8ed6-e6549c9aae8e",
-      "time": "2026-10-28T13:34:07.972Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Oaknorth",
-      "title": "Associate Vice President - Financial Planning & Analysis",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/968efde1-77d7-4d4b-9ece-0b75a3f0cdf6",
-      "time": "2026-10-28T13:34:10.620Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Technical Program Manager II",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/0d2219cc-57ea-4c9e-885d-215b2469304a",
-      "time": "2026-10-28T13:34:11.368Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Uipath",
       "title": "Chief of Staff, GTM Americas",
@@ -4001,6 +3937,70 @@
       "url": "https://www.iimjobs.com/j/piramal-portfolio-manager-personal-loan-product-1743162?ref=sp_br_prm&jobPos=1",
       "time": "2026-11-03T09:11:47.401Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "SRE - Cloud Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sre-cloud-delivery-manager-epam-systems-bengaluru-9-to-14-years-071026013905?src=directSearch&sid=17936989274927678&xp=7&px=1",
+      "time": "2026-11-03T09:42:40.020Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "SAP S/4 Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-s-4-service-delivery-manager-capgemini-technology-services-india-limited-bengaluru-14-to-16-years-061026925505?src=directSearch&sid=17936989274927678&xp=8&px=1",
+      "time": "2026-11-03T09:42:51.607Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Hitachi Energy",
+      "title": "R&D Quality and Delivery Manager - IDC",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-r-d-quality-and-delivery-manager-idc-hitachi-energy-india-limited-bengaluru-10-to-15-years-031126918658?src=directSearch&sid=17936989274927678&xp=11&px=1",
+      "time": "2026-11-03T09:43:03.373Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Risk Manager - Portfolio Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/risk-manager-portfolio-management-1737941?ref=sp&jobPos=2",
+      "time": "2026-11-03T09:45:08.547Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Intas Pharmaceuticals - Senior Manager/Assistant General Manager - Project Manag",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/intas-pharmaceuticals-senior-manager-assistant-general-manager-project-management-office-portfolio-management-1738294?ref=sp&jobPos=4",
+      "time": "2026-11-03T09:45:14.759Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Harman Finochem - Portfolio Manager - Product Development & Strategy - API",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/harman-finochem-portfolio-manager-product-development-and-strategy-api-1736500?ref=sp&jobPos=6",
+      "time": "2026-11-03T09:45:21.016Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Zuventus Healthcare - Product Manager - Gynec Portfolio",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/zuventus-healthcare-product-manager-gynec-portfolio-1728062?ref=sp&jobPos=7",
+      "time": "2026-11-03T09:45:27.231Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Equity Portfolio Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-equity-portfolio-management-1725578?ref=sp&jobPos=8",
+      "time": "2026-11-03T09:45:33.349Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5181,
+  "totalVerifiedInHistory": 5189,
   "portalBreakdown": {
-    "iimjobs": 753,
-    "naukri": 1119,
+    "iimjobs": 758,
+    "naukri": 1122,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T09:11:47.451Z",
-  "lastUpdated": "3/11/2026, 2:41:47 pm"
+  "lastSyncedAt": "2026-11-03T09:45:33.398Z",
+  "lastUpdated": "3/11/2026, 3:15:33 pm"
 }
