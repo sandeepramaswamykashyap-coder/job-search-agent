@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5219,
+  "applicationsSubmitted": 5220,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Manufacturing- Tokyo",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/772faf37-f0a0-4ea2-9f94-f9ea2c4a8914",
-      "time": "2026-10-28T13:37:54.881Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ramp",
       "title": "KYB Operations Lead, UK",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/pwc-manager-data-governance-1724690?ref=sp_br&jobPos=16",
       "time": "2026-11-03T18:18:49.897Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Strategy Consultant - Data Governance - Consulting",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-strategy-consultant-data-governance-consulting-1741212?ref=sp&jobPos=17",
+      "time": "2026-11-03T18:52:00.125Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5219,
+  "totalVerifiedInHistory": 5220,
   "portalBreakdown": {
-    "iimjobs": 781,
+    "iimjobs": 782,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T18:18:49.950Z",
-  "lastUpdated": "3/11/2026, 11:48:49 pm"
+  "lastSyncedAt": "2026-11-03T18:52:00.184Z",
+  "lastUpdated": "4/11/2026, 12:22:00 am"
 }
