@@ -1,55 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5170,
+  "applicationsSubmitted": 5176,
   "appliedRolesList": [
-    {
-      "company": "Cohere",
-      "title": "Legal Counsel, Corporate Governance & Regulatory",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/4e3694ee-d051-497f-bb3b-8cff3d7f578f",
-      "time": "2026-10-28T13:32:52.517Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
-      "time": "2026-10-28T13:32:53.660Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "GE VERNOVA",
-      "title": "Staff Technical Product Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-staff-technical-product-manager-ge-renewable-energy-technologies-private-limited-hyderabad-chennai-bengaluru-8-to-13-years-281026914219?src=directSearch&sid=17931943506283509&xp=4&px=1",
-      "time": "2026-10-28T13:32:56.316Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Oaknorth",
-      "title": "Senior Director, Credit Risk - Real Estate",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/11f24871-3aa1-4e71-9e3d-5a4d2d5e8c6b",
-      "time": "2026-10-28T13:33:06.768Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Plaid",
-      "title": "Executive Operations Leader",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/plaid/c7395637-aa6b-43c0-8204-f0381f9b04be",
-      "time": "2026-10-28T13:33:11.438Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Plaid",
-      "title": "Product Manager, Privacy & Data Governance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
-      "time": "2026-10-28T13:33:12.466Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Plaid",
       "title": "Model Governance Lead, Credit",
@@ -4001,6 +3953,54 @@
       "url": "https://www.iimjobs.com/j/bharat-biotech-head-pmo-new-product-development-1735040?ref=sp_br&jobPos=1",
       "time": "2026-11-03T08:02:03.442Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "IT PMO Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/it-pmo-lead-1742888?ref=sp&jobPos=2",
+      "time": "2026-11-03T08:34:48.287Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - HR Strategic PMO",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-hr-strategic-pmo-1741727?ref=sp&jobPos=3",
+      "time": "2026-11-03T08:34:54.587Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "PMO Role - Data Analytics & GenAI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pmo-role-data-analytics-and-genai-1737758?ref=sp&jobPos=5",
+      "time": "2026-11-03T08:35:00.872Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager/PMO - Automotive & Industrial Goods",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-pmo-automotive-and-industrial-goods-1731028?ref=sp&jobPos=6",
+      "time": "2026-11-03T08:35:07.021Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Project Delivery & PMO Lead - Data Centres Construction/Engineering",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/project-delivery-and-pmo-lead-data-centres-construction-engineering-1738721?ref=sp&jobPos=7",
+      "time": "2026-11-03T08:35:13.265Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "Senior Product Manager - Data Integrations",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAAAAAAAAAAAAAACZtdNnQASAQEBBwE8-PtvfiW7DGX_XurxAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAAAAAAAAAAAAAACZtdNnQASAQEBBwE8-PtvfiW7DGX_XurxAAA&from=page-two-signin",
+      "time": "2026-11-03T08:48:24.829Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5170,
+  "totalVerifiedInHistory": 5176,
   "portalBreakdown": {
-    "iimjobs": 743,
+    "iimjobs": 748,
     "naukri": 1119,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4737,9 +4737,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 90,
+    "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T08:02:03.493Z",
-  "lastUpdated": "3/11/2026, 1:32:03 pm"
+  "lastSyncedAt": "2026-11-03T08:48:24.910Z",
+  "lastUpdated": "3/11/2026, 2:18:24 pm"
 }
