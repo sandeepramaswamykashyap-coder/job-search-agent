@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5229,
+  "applicationsSubmitted": 5230,
   "appliedRolesList": [
-    {
-      "company": "Writer",
-      "title": "Senior manager, lifecycle & audience marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/bc619666-6bb6-4792-abd9-25131a58fda1",
-      "time": "2026-10-28T13:49:56.540Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Suno",
       "title": "Senior Manager, IT Operations",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/agile-coach-manager-1728575?ref=sp&jobPos=2",
       "time": "2026-11-03T22:43:18.106Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Agile Product Owner",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/agile-product-owner-1724066?ref=sp&jobPos=5",
+      "time": "2026-11-03T23:14:06.405Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5229,
+  "totalVerifiedInHistory": 5230,
   "portalBreakdown": {
-    "iimjobs": 789,
+    "iimjobs": 790,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T22:43:18.165Z",
-  "lastUpdated": "4/11/2026, 4:13:18 am"
+  "lastSyncedAt": "2026-11-03T23:14:06.457Z",
+  "lastUpdated": "4/11/2026, 4:44:06 am"
 }
