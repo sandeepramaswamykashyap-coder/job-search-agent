@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 33109,
-  "applicationsSubmitted": 5136,
+  "jobsScanned": 33116,
+  "applicationsSubmitted": 5139,
   "appliedRolesList": [
-    {
-      "company": "Cognition",
-      "title": "Head of Analyst Relations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/a3f31e70-e948-44d0-8ce3-f16b2979ff52",
-      "time": "2026-10-28T13:29:50.427Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Partner Director - EMEA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/d0fece15-9e53-4539-a975-360e1a6fd257",
-      "time": "2026-10-28T13:29:50.884Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Partner Director - US",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
-      "time": "2026-10-28T13:29:55.378Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Head of Safety",
@@ -4001,6 +3977,30 @@
       "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=50",
       "time": "2026-11-03T04:14:39.592Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Compensation & Benefits - NBFC",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-compensation-and-benefits-nbfc-1743499?ref=sp&jobPos=1",
+      "time": "2026-11-03T04:46:18.211Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "geidea",
+      "title": "Risk Manager\nRisk Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484124757&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:47:46.076Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Mobileum",
+      "title": "Senior Director – Technical Program Management\nSenior Director – Technical Program Management with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Technical%20Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T04:48:57.262Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5136,
+  "totalVerifiedInHistory": 5139,
   "portalBreakdown": {
-    "iimjobs": 720,
+    "iimjobs": 721,
     "naukri": 1115,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4738,8 +4738,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 89,
-    "linkedin_easy_apply": 381
+    "linkedin_easy_apply": 383
   },
-  "lastSyncedAt": "2026-11-03T04:25:37.609Z",
-  "lastUpdated": "3/11/2026, 9:55:37 am"
+  "lastSyncedAt": "2026-11-03T04:54:03.390Z",
+  "lastUpdated": "3/11/2026, 10:24:03 am"
 }
