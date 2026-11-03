@@ -1,87 +1,7 @@
 {
-  "jobsScanned": 33060,
-  "applicationsSubmitted": 5092,
+  "jobsScanned": 33067,
+  "applicationsSubmitted": 5102,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Omega Healthcare - Head of Autonomous Operations - BPO Operations",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/omega-healthcare-head-of-autonomous-operations-bpo-operations-1742466?ref=sp&jobPos=11",
-      "time": "2026-10-28T08:18:42.315Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Head - Digital HR Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/head-digital-hr-transformation-1742426?ref=sp&jobPos=3",
-      "time": "2026-10-28T08:19:29.550Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cargill",
-      "title": "AI Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-ai-program-manager-cargill-business-services-india-private-limited-bengaluru-5-to-10-years-281026914220?src=directSearch&sid=17931929505584608&xp=2&px=1",
-      "time": "2026-10-28T13:09:50.621Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Infosys",
-      "title": "SAP Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-program-manager-infosys-limited-bengaluru-18-to-20-years-281026914143?src=directSearch&sid=17931929505584608&xp=3&px=1",
-      "time": "2026-10-28T13:10:02.361Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Netlify",
-      "title": "Senior Marketing Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
-      "time": "2026-10-28T13:25:34.244Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Storyblok",
-      "title": "Marketing Automation Manager - Canada, Spain, India",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
-      "time": "2026-10-28T13:25:34.556Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Data Program Manager, Human Data",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213",
-      "time": "2026-10-28T13:26:09.734Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead — SEA & ANZ",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/b1a5980d-1c52-4af5-8596-5951b584ca37",
-      "time": "2026-10-28T13:26:10.559Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Cyber",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/e8cb6c67-0b73-4be8-a35c-775c99c1c638",
-      "time": "2026-10-28T13:26:15.036Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Financial Services Industry - Japan",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/570df8ac-dacb-4686-b59c-ef48eed0580c",
-      "time": "2026-10-28T13:26:15.762Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "GRC Technical Program Manager, Product Lifecycle Assurance",
@@ -4001,6 +3921,86 @@
       "url": "https://jobs.ashbyhq.com/uipath/a201d2fd-b7d3-4617-a3e8-62f8afa9382f",
       "time": "2026-11-03T01:07:20.548Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Taggd",
+      "title": "Senior Manager - Talent Solution\nSenior Manager - Talent Solution with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482840219&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:30:16.202Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HSBC",
+      "title": "AVP Client Operations\nAVP Client Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4485333020&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:31:03.503Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HCLTech",
+      "title": "AI Performance & Operations Lead\nAI Performance & Operations Lead with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482840219&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:31:50.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cigna Healthcare",
+      "title": "Operating Effectiveness Analyst - Cigna Healthcare\nOperating Effectiveness Analyst - Cigna Healthcare",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4485333020&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:32:37.791Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Power Bridge",
+      "title": "Service Delivery Manager\nService Delivery Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4482840219&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:33:26.204Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys Consulting",
+      "title": "Senior Consultant Business Consultant\nSenior Consultant Business Consultant with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4485333020&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:34:13.790Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Truww",
+      "title": "General Manager Operations\nGeneral Manager Operations with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484465198&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:35:08.671Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Haleon",
+      "title": "Global Recruitment Operations Manager\nGlobal Recruitment Operations Manager with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481467239&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:35:56.366Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EXL",
+      "title": "Assistant Vice President (AVP) – Supply Chain & Procurement\nAssistant Vice President (AVP) – Supply Chain & Procurement with verification",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484465198&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:36:43.395Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Weekday AI (YC W21)",
+      "title": "Program Manager\nProgram Manager",
+      "portal": "linkedin_easy_apply",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475192027&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
+      "time": "2026-11-03T01:37:38.181Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5092,
+  "totalVerifiedInHistory": 5102,
   "portalBreakdown": {
     "iimjobs": 719,
     "naukri": 1115,
@@ -4738,8 +4738,8 @@
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 89,
-    "linkedin_easy_apply": 338
+    "linkedin_easy_apply": 348
   },
-  "lastSyncedAt": "2026-11-03T01:17:19.504Z",
-  "lastUpdated": "3/11/2026, 6:47:19 am"
+  "lastSyncedAt": "2026-11-03T01:43:47.648Z",
+  "lastUpdated": "3/11/2026, 7:13:47 am"
 }
