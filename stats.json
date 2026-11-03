@@ -1,31 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5224,
+  "applicationsSubmitted": 5227,
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Product Operations | General Builder (All Levels)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285",
-      "time": "2026-10-28T13:41:53.015Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sentry",
-      "title": "Senior Manager, Support Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/sentry/2b5e1ac5-9709-4280-9ceb-51bff95328e3",
-      "time": "2026-10-28T13:42:46.685Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Partnerships Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/36b52143-1ed2-4e60-89c4-84e09d856658",
-      "time": "2026-10-28T13:43:17.956Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Deepgram",
       "title": "Senior Manager, Internal Communications",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/mtasysinc-data-product-manager-inventory-management-1741134?ref=sp&jobPos=3",
       "time": "2026-11-03T21:03:31.603Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ralph Lauren - Data Product Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ralph-lauren-data-product-manager-1734427?ref=sp_br&jobPos=6",
+      "time": "2026-11-03T21:36:15.265Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Vice President, Sales APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
+      "time": "2026-11-03T21:58:11.312Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Vice President, Sales APAC",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
+      "time": "2026-11-03T21:58:11.677Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5224,
+  "totalVerifiedInHistory": 5227,
   "portalBreakdown": {
-    "iimjobs": 786,
+    "iimjobs": 787,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4732,14 +4732,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 624,
-    "ashby": 356,
+    "direct_portal_ashby": 625,
+    "ashby": 357,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T21:03:31.666Z",
-  "lastUpdated": "4/11/2026, 2:33:31 am"
+  "lastSyncedAt": "2026-11-03T21:58:11.724Z",
+  "lastUpdated": "4/11/2026, 3:28:11 am"
 }
