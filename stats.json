@@ -1,23 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5205,
+  "applicationsSubmitted": 5207,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Occupancy Planning & Workplace Strategy",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/5280c9d2-8090-47d1-a881-1fec37c90e64",
-      "time": "2026-10-28T13:36:14.544Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Vice President - Strategic Change Management",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-strategic-change-management-1742506?ref=sp_br&jobPos=3",
-      "time": "2026-10-28T13:36:18.822Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Compensation Programs & Operations Lead",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/delivery-head-oss-bss-and-automation-1729988?ref=sp&jobPos=14",
       "time": "2026-11-03T11:48:59.298Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Associate Director - Transformation - AI & Automation Customer Experience",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/associate-director-transformation-ai-and-automation-customer-experience-1733457?ref=sp&jobPos=15",
+      "time": "2026-11-03T12:21:51.680Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "General Manager/Head - Digital Manufacturing/Automation & Data - Pharma Manufact",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/general-manager-head-digital-manufacturing-automation-and-data-pharma-manufacturing-1734054?ref=sp&jobPos=16",
+      "time": "2026-11-03T12:21:57.889Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5205,
+  "totalVerifiedInHistory": 5207,
   "portalBreakdown": {
-    "iimjobs": 768,
+    "iimjobs": 770,
     "naukri": 1128,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T11:48:59.348Z",
-  "lastUpdated": "3/11/2026, 5:18:59 pm"
+  "lastSyncedAt": "2026-11-03T12:21:57.937Z",
+  "lastUpdated": "3/11/2026, 5:51:57 pm"
 }
