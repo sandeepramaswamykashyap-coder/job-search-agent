@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 33459,
-  "applicationsSubmitted": 5151,
+  "jobsScanned": 33466,
+  "applicationsSubmitted": 187,
   "appliedRolesList": [
     {
       "company": "Baseten",
@@ -4001,6 +4001,27 @@
       "url": "https://careers.servicenow.com/careers/jobs?q=program+manager",
       "time": "2026-11-03T07:08:08.952Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dreem Health",
+      "title": "Digital Workplace & Automation Specialist",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "time": "2026-11-03T07:09:53.298Z"
+    },
+    {
+      "company": "Benchling",
+      "title": "Solutions Delivery Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "time": "2026-11-03T07:09:53.305Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-03T07:09:53.311Z"
     }
   ],
   "failures": [
