@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5211,
+  "applicationsSubmitted": 5212,
   "appliedRolesList": [
-    {
-      "company": "Temporal",
-      "title": "Director, Product Marketing, GTM",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/200838d9-5ca0-4e6a-ac1d-ee0537853d5b",
-      "time": "2026-10-28T13:36:39.942Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Strategy & Operations, Support",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/flutter-entertainment-senior-manager-governance-data-and-ai-1740878?ref=sp_br_prm&jobPos=1",
       "time": "2026-11-03T13:51:26.416Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Associate - Data Governance - IT & Systems",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-associate-data-governance-it-and-systems-1742699?ref=sp_br&jobPos=2",
+      "time": "2026-11-03T14:26:21.208Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5211,
+  "totalVerifiedInHistory": 5212,
   "portalBreakdown": {
-    "iimjobs": 773,
+    "iimjobs": 774,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T13:51:26.468Z",
-  "lastUpdated": "3/11/2026, 7:21:26 pm"
+  "lastSyncedAt": "2026-11-03T14:30:52.428Z",
+  "lastUpdated": "3/11/2026, 8:00:52 pm"
 }
