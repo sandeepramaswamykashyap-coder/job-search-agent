@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5218,
+  "applicationsSubmitted": 5219,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Applied AI Delivery Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/afebc24f-c6b8-4c66-a344-b1661fc77570",
-      "time": "2026-10-28T13:37:52.954Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Manufacturing- Tokyo",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/clarivate-senior-manager-data-governance-1730110?ref=sp&jobPos=13",
       "time": "2026-11-03T17:45:41.665Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "PwC - Manager - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pwc-manager-data-governance-1724690?ref=sp_br&jobPos=16",
+      "time": "2026-11-03T18:18:49.897Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5218,
+  "totalVerifiedInHistory": 5219,
   "portalBreakdown": {
-    "iimjobs": 780,
+    "iimjobs": 781,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T17:45:41.720Z",
-  "lastUpdated": "3/11/2026, 11:15:41 pm"
+  "lastSyncedAt": "2026-11-03T18:18:49.950Z",
+  "lastUpdated": "3/11/2026, 11:48:49 pm"
 }
