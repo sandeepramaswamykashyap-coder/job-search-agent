@@ -1,95 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 187,
+  "applicationsSubmitted": 5162,
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Technical Program Manager, Forward Deployed Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
-      "time": "2026-10-28T13:31:15.773Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Supabase",
-      "title": "Head of New Media",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/supabase/62dfb104-ae18-46ce-a9ef-836f024c3d6d",
-      "time": "2026-10-28T13:31:16.353Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Executive Assistant to Head of Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/c29da145-0f53-4842-9f52-32b93a5b2f43",
-      "time": "2026-10-28T13:31:20.681Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Recruiting Operations Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/f736f253-7b2d-4a4f-82d6-3f4ebf14c7c6",
-      "time": "2026-10-28T13:31:21.103Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Transformation lead manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/b1d593c3-8431-4fe5-93f4-5ac7aaac6d36",
-      "time": "2026-10-28T13:31:42.077Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (West)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/46e317d8-14cc-41f7-aa29-64ed39fd9d66",
-      "time": "2026-10-28T13:31:45.202Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (East)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/c736b124-3c0a-439a-b747-2de607887cb0",
-      "time": "2026-10-28T13:31:47.052Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "AI transformation lead (West)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/3a372b34-db7c-4364-8f1a-71ab4482318c",
-      "time": "2026-10-28T13:31:48.359Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "AI transformation lead (UK)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/1fb49091-1bab-4079-b958-c391dc2b94bc",
-      "time": "2026-10-28T13:32:07.556Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "AI transformation lead (East)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/47b37af7-9753-4739-82d0-bc0c8c9a3d89",
-      "time": "2026-10-28T13:32:11.168Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "AI transformation lead (Central)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/writer/d9ea8ca0-c837-4339-b48e-af69f0acefdd",
-      "time": "2026-10-28T13:32:14.710Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Writer",
       "title": "Senior AI transformation lead (Central)",
@@ -4003,25 +3915,92 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Dreem Health",
-      "title": "Digital Workplace & Automation Specialist",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "time": "2026-11-03T07:09:53.298Z"
+      "company": "NetApp",
+      "title": "Staff Technical Program Mgr",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-staff-technical-program-mgr-netapp-bengaluru-10-to-16-years-031126011072?src=directSearch&sid=17936901835904969&xp=13&px=1",
+      "time": "2026-11-03T07:16:55.106Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Benchling",
-      "title": "Solutions Delivery Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "time": "2026-11-03T07:09:53.305Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "ServiceNow Tech Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/servicenow-tech-lead-1721860?ref=sp&jobPos=4",
+      "time": "2026-11-03T07:21:04.455Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-03T07:09:53.311Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Business Process Architect - ServiceNow ITSM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/business-process-architect-servicenow-itsm-1726852?ref=sp&jobPos=5",
+      "time": "2026-11-03T07:21:10.644Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Codvo AI - Project Manager - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/codvo-ai-project-manager-digital-transformation-1740933?ref=sp&jobPos=2",
+      "time": "2026-11-03T07:21:42.241Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Jabil - Manager - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jabil-manager-digital-transformation-1740488?ref=sp&jobPos=3",
+      "time": "2026-11-03T07:21:48.475Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Altudo - Technical Project Manager - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/altudo-technical-project-manager-digital-transformation-1740447?ref=sp&jobPos=6",
+      "time": "2026-11-03T07:21:54.906Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Pixxel - Associate Manager - Digital Transformation - SAP S/4HANA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pixxel-associate-manager-digital-transformation-sap-s-4hana-1730218?ref=sp&jobPos=13",
+      "time": "2026-11-03T07:22:01.106Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Accellor - Technical Project Manager - AI/ML & Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/accellor-technical-project-manager-ai-ml-and-digital-transformation-1727840?ref=sp&jobPos=14",
+      "time": "2026-11-03T07:22:07.756Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "SKV India - Program Manager - AI & Technology Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/skv-india-program-manager-ai-and-technology-transformation-1743235?ref=sp&jobPos=2",
+      "time": "2026-11-03T07:22:29.393Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Technical Program Manager - Healthcare Technology",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/technical-program-manager-healthcare-technology-1742068?ref=sp&jobPos=7",
+      "time": "2026-11-03T07:22:35.587Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "Staff Data Analyst",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAAAAAAAAAAAAAACZtdNnQASAQB4o6otuIMHiiSjS3vk-LcYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAAAAAAAAAAAAAACZtdNnQASAQB4o6otuIMHiiSjS3vk-LcYAAA&from=page-two-signin",
+      "time": "2026-11-03T07:43:13.059Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4740,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5151,
+  "totalVerifiedInHistory": 5162,
   "portalBreakdown": {
-    "iimjobs": 729,
-    "naukri": 1115,
+    "iimjobs": 738,
+    "naukri": 1116,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4758,9 +4737,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 89,
+    "indeed": 90,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T07:09:49.823Z",
-  "lastUpdated": "3/11/2026, 12:39:49 pm"
+  "lastSyncedAt": "2026-11-03T07:43:13.147Z",
+  "lastUpdated": "3/11/2026, 1:13:13 pm"
 }
