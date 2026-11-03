@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5214,
+  "applicationsSubmitted": 5215,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Manager/Senior Manager - Client Servicing - Wealth Management - Family Office",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/manager-senior-manager-client-servicing-wealth-management-family-office-1742484?ref=sp&jobPos=10",
-      "time": "2026-10-28T13:37:00.782Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Assistant General Manager/Deputy General Manager/General Manager - Artificial In",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/datagaps-product-head-data-quality-and-governance-and-modern-data-platforms-1739380?ref=sp_br&jobPos=6",
       "time": "2026-11-03T15:37:09.606Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Architect - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-architect-data-governance-1738947?ref=sp&jobPos=8",
+      "time": "2026-11-03T16:10:31.450Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5214,
+  "totalVerifiedInHistory": 5215,
   "portalBreakdown": {
-    "iimjobs": 776,
+    "iimjobs": 777,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T15:37:09.660Z",
-  "lastUpdated": "3/11/2026, 9:07:09 pm"
+  "lastSyncedAt": "2026-11-03T16:10:31.506Z",
+  "lastUpdated": "3/11/2026, 9:40:31 pm"
 }
