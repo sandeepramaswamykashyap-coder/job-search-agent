@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5235,
+  "applicationsSubmitted": 5236,
   "appliedRolesList": [
-    {
-      "company": "Uipath",
-      "title": "Senior Sales Engineer (Agentic AI Automation)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/400d1870-c403-4ec4-a165-7b054d0c7397",
-      "time": "2026-10-28T13:53:30.646Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Temporal",
       "title": "Senior Manager, Developer Advocacy (NAMER)",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/scrum-master-agile-delivery-it-1732863?ref=sp&jobPos=12",
       "time": "2026-11-04T00:22:44.271Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Service Delivery Manager - Performance & Continuous Improvement - Shared Service",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/service-delivery-manager-performance-and-continuous-improvement-shared-services-1742188?ref=sp&jobPos=5",
+      "time": "2026-11-04T00:55:51.437Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5235,
+  "totalVerifiedInHistory": 5236,
   "portalBreakdown": {
-    "iimjobs": 792,
+    "iimjobs": 793,
     "naukri": 1132,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T00:22:44.324Z",
-  "lastUpdated": "4/11/2026, 5:52:44 am"
+  "lastSyncedAt": "2026-11-04T00:55:51.504Z",
+  "lastUpdated": "4/11/2026, 6:25:51 am"
 }
