@@ -1,23 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5236,
+  "applicationsSubmitted": 5238,
   "appliedRolesList": [
-    {
-      "company": "Temporal",
-      "title": "Senior Manager, Developer Advocacy (NAMER)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7",
-      "time": "2026-10-28T13:54:37.781Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alloy",
-      "title": "Senior Manager, GTM Systems",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/alloy/91a6d9c6-89d4-4d01-af29-b3f133fdfb9c",
-      "time": "2026-10-28T13:55:14.544Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "MSA Global Technology And Engineering",
       "title": "Hiring Sr. Manager - Operation",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/service-delivery-manager-performance-and-continuous-improvement-shared-services-1742188?ref=sp&jobPos=5",
       "time": "2026-11-04T00:55:51.437Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "NetApp",
+      "title": "Sales Ops Program Mgr( Power BI & SQL)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-ops-program-mgr-power-bi-sql-netapp-bengaluru-8-to-12-years-041126008750?src=directSearch&sid=17937674822596068&xp=2&px=1",
+      "time": "2026-11-04T04:44:56.412Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Business Transformation & AI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-business-transformation-and-ai-1743789?ref=sp&jobPos=16",
+      "time": "2026-11-04T04:46:18.417Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5236,
+  "totalVerifiedInHistory": 5238,
   "portalBreakdown": {
-    "iimjobs": 793,
-    "naukri": 1132,
+    "iimjobs": 794,
+    "naukri": 1133,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T00:55:51.504Z",
-  "lastUpdated": "4/11/2026, 6:25:51 am"
+  "lastSyncedAt": "2026-11-04T04:46:18.467Z",
+  "lastUpdated": "4/11/2026, 10:16:18 am"
 }
