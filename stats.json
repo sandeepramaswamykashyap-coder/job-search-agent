@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5238,
+  "applicationsSubmitted": 5239,
   "appliedRolesList": [
-    {
-      "company": "MSA Global Technology And Engineering",
-      "title": "Hiring Sr. Manager - Operation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-sr-manager-operation-msa-global-technology-and-engineering-bengaluru-15-to-20-years-271026025901?src=directSearch&sid=17931962271334189&xp=1&px=1",
-      "time": "2026-10-28T14:04:01.042Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mindsprint",
       "title": "SAP TRM - Transformation Leader",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/manager-business-transformation-and-ai-1743789?ref=sp&jobPos=16",
       "time": "2026-11-04T04:46:18.417Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Manager / SR Manager - IT and Digital Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-sr-manager-it-and-digital-transformation-belhem-hospitality-pvt-ltd-bengaluru-10-to-15-years-041126910400?src=directSearch&sid=17937707435635879&xp=6&px=1",
+      "time": "2026-11-04T05:39:24.513Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5238,
+  "totalVerifiedInHistory": 5239,
   "portalBreakdown": {
     "iimjobs": 794,
-    "naukri": 1133,
+    "naukri": 1134,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T04:46:18.467Z",
-  "lastUpdated": "4/11/2026, 10:16:18 am"
+  "lastSyncedAt": "2026-11-04T05:39:24.567Z",
+  "lastUpdated": "4/11/2026, 11:09:24 am"
 }

@@ -12,21 +12,72 @@ const credentials = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'crede
 
 const SLEEP = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+// ── Sandeep-specific Naukri search slugs ──────────────────────────────────────
 const SENIOR_ROLES = [
-  'senior-manager',
-  'senior-operations-manager',
-  'program-manager',
-  'technical-program-manager',
-  'transformation-lead',
-  'operations-director',
+  // ServiceNow
   'servicenow-manager',
-  'intelligent-automation',
-  'director-operations',
+  'servicenow-program-manager',
+  'servicenow-product-owner',
+  // Business / Digital Transformation
   'business-transformation-manager',
-  'head-operations',
-  'uat-manager',
+  'digital-transformation-manager',
+  'transformation-program-manager',
+  'operations-transformation-manager',
+  // Change Management / OCM
   'change-management-lead',
-  'delivery-manager'
+  'organizational-change-management',
+  // Program / Portfolio / PMO
+  'program-manager',
+  'senior-program-manager',
+  'portfolio-manager',
+  'pmo-head',
+  'delivery-manager',
+  // UAT / Quality Governance
+  'uat-manager',
+  'uat-lead',
+  // Intelligent Automation / RPA
+  'intelligent-automation-manager',
+  'automation-program-manager',
+  // Operations Excellence
+  'senior-operations-manager',
+  'operational-excellence-lead',
+  'service-delivery-manager',
+  'service-transition-manager',
+  // Data Governance
+  'data-governance-manager',
+  'data-product-manager',
+  // Senior Manager (general)
+  'senior-manager',
+];
+
+// ── Domain relevance signals (at least one must match title) ──────────────────
+const NAUKRI_RELEVANT_SIGNALS = [
+  'servicenow', 'transformation', 'change management', 'program manager',
+  'programme manager', 'portfolio', 'pmo', 'uat', 'user acceptance',
+  'intelligent automation', 'automation manager', 'rpa', 'hyperautomation',
+  'operational excellence', 'operations manager', 'service delivery',
+  'service transition', 'data governance', 'data product', 'data quality',
+  'agile delivery', 'agile coach', 'scrum master', 'senior manager',
+  'senior operations', 'risk operations', 'regulatory change',
+  'banking operations', 'business transformation', 'digital transformation',
+];
+
+// ── Hard-exclude irrelevant domains ──────────────────────────────────────────
+const NAUKRI_EXCLUDE_DOMAINS = [
+  'sales manager', 'sales director', 'account manager', 'account executive',
+  'business development', 'marketing manager', 'demand generation',
+  'brand manager', 'revenue manager', 'commercial director',
+  'legal counsel', 'compliance officer', 'corporate legal',
+  'finance manager', 'financial controller', 'fixed income', 'fund manager',
+  'asset manager', 'wealth manager', 'relationship manager',
+  'software engineer', 'software developer', 'frontend', 'backend',
+  'devops', 'cloud engineer', 'data engineer', 'ml engineer',
+  'sharepoint', 'sap consultant', 'oracle consultant',
+  'recruiter', 'talent acquisition', 'hrbp', 'l&d manager',
+  'supply chain', 'logistics', 'procurement', 'real estate',
+  'graphic design', 'content writer', 'copywriter',
+  'telecaller', 'telesales', 'hvac', 'trainee', 'fresher',
+  'intern', 'junior', 'entry level', 'graduate',
 ];
 
 async function ensureNaukriLoggedIn(page) {
@@ -116,10 +167,16 @@ async function runNaukriE2E(page, context, maxApplications = 20) {
         if (!title || !company) continue;
 
         const lowTitle = title.toLowerCase();
-        // Strict Executive Filter: Skip junior/mismatched roles for 15+ yr executive
-        const forbiddenJunior = ['analyst', 'developer', 'software engineer', 'specialist', 'technician', 'trainee', 'fresher', 'hvac', 'telecaller', 'telesales'];
-        if (forbiddenJunior.some(term => lowTitle.includes(term)) && !lowTitle.includes('director') && !lowTitle.includes('head') && !lowTitle.includes('vp')) {
-          console.log(`[NaukriE2E] ⏭️ Skipping junior/mismatched title: "${title}" @ ${company}`);
+
+        // ── Hard-exclude off-domain roles ─────────────────────────────────
+        if (NAUKRI_EXCLUDE_DOMAINS.some(term => lowTitle.includes(term))) {
+          console.log(`[NaukriE2E] ⏭️ Skipping off-domain title: "${title}" @ ${company}`);
+          continue;
+        }
+
+        // ── Must match at least one of Sandeep's core domain signals ──────
+        if (!NAUKRI_RELEVANT_SIGNALS.some(s => lowTitle.includes(s))) {
+          console.log(`[NaukriE2E] ⏭️ Skipping irrelevant title: "${title}" @ ${company}`);
           continue;
         }
 
