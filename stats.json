@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5249,
+  "applicationsSubmitted": 5250,
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Support Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
-      "time": "2026-10-28T17:07:53.932Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Uipath",
       "title": "Principal Product Management, Governance (Identity & Auth)",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-product-owner-cgi-bengaluru-8-to-13-years-041126017317?src=directSearch&sid=1793781101000769&xp=2&px=1",
       "time": "2026-11-04T08:31:55.149Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Careerist Management Consultants",
+      "title": "Director HR Operations",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-director-hr-operations-careerist-management-consultants-bengaluru-delhi-ncr-15-to-20-years-041126022108?src=directSearch&sid=17937872891799624&xp=4&px=1",
+      "time": "2026-11-04T10:15:06.570Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5249,
+  "totalVerifiedInHistory": 5250,
   "portalBreakdown": {
     "iimjobs": 795,
-    "naukri": 1143,
+    "naukri": 1144,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T08:31:55.200Z",
-  "lastUpdated": "4/11/2026, 2:01:55 pm"
+  "lastSyncedAt": "2026-11-04T10:15:06.624Z",
+  "lastUpdated": "4/11/2026, 3:45:06 pm"
 }
