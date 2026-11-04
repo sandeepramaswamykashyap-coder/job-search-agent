@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5254,
+  "applicationsSubmitted": 5255,
   "appliedRolesList": [
-    {
-      "company": "HCLSoftware",
-      "title": "Senior Product Manager\nSenior Product Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4449581327&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T19:44:41.524Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Handshake",
       "title": "Manager, Strategic Projects\nManager, Strategic Projects with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-regional-head-sales-business-b2c-inside-sales-r3-consultant-pune-chennai-bengaluru-8-to-13-years-041126021738?src=directSearch&sid=17937959126501382&xp=13&px=1",
       "time": "2026-11-04T12:38:50.217Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Genpact India Pvt. Ltd.",
+      "title": "Sr. Manager - SCM 4D",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
+      "time": "2026-11-04T13:32:44.207Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,7 +4719,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5254,
+  "totalVerifiedInHistory": 5255,
   "portalBreakdown": {
     "iimjobs": 796,
     "naukri": 1146,
@@ -4737,9 +4737,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 92,
+    "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T12:38:50.269Z",
-  "lastUpdated": "4/11/2026, 6:08:50 pm"
+  "lastSyncedAt": "2026-11-04T13:32:44.304Z",
+  "lastUpdated": "4/11/2026, 7:02:44 pm"
 }
