@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5248,
+  "applicationsSubmitted": 5249,
   "appliedRolesList": [
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-10-28T17:00:35.286Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Support Operations Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-ams-project-manager-inmorphis-services-noida-bengaluru-greater-noida-6-to-10-years-041126016052?src=directSearch&sid=179377883855573&xp=7&px=1",
       "time": "2026-11-04T07:54:22.759Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "CGI",
+      "title": "Product Owner",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-product-owner-cgi-bengaluru-8-to-13-years-041126017317?src=directSearch&sid=1793781101000769&xp=2&px=1",
+      "time": "2026-11-04T08:31:55.149Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5248,
+  "totalVerifiedInHistory": 5249,
   "portalBreakdown": {
     "iimjobs": 795,
-    "naukri": 1142,
+    "naukri": 1143,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T07:54:22.809Z",
-  "lastUpdated": "4/11/2026, 1:24:22 pm"
+  "lastSyncedAt": "2026-11-04T08:31:55.200Z",
+  "lastUpdated": "4/11/2026, 2:01:55 pm"
 }
