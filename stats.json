@@ -1,39 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5239,
+  "applicationsSubmitted": 5243,
   "appliedRolesList": [
-    {
-      "company": "Mindsprint",
-      "title": "SAP TRM - Transformation Leader",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-sap-trm-transformation-leader-mindsprint-chennai-bengaluru-15-to-22-years-281026005283?src=directSearch&sid=17931963046811639&xp=1&px=1",
-      "time": "2026-10-28T14:05:19.580Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Crescendo Global Leadership Hiring India",
-      "title": "Principal Consultant - Finance Transformation PMO Lead - 10+ Years",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-principal-consultant-finance-transformation-pmo-lead-10-years-crescendo-global-leadership-hiring-india-pune-bengaluru-9-to-14-years-281026007433?src=directSearch&sid=17931963046811639&xp=7&px=1",
-      "time": "2026-10-28T14:05:47.863Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "Senior Manager, Engineering Methodology & Tools",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-senior-manager-engineering-methodology-tools-te-connectivity-india-private-limited-bengaluru-10-to-15-years-281026925396?src=directSearch&sid=17931982091218847&xp=5&px=1",
-      "time": "2026-10-28T14:37:17.764Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Capgemini",
-      "title": "Data Lead / Business Consultant (Framing)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-data-lead-business-consultant-framing-capgemini-bengaluru-9-to-14-years-300926032720?src=directSearch&sid=17931984931205778&xp=8&px=1",
-      "time": "2026-10-28T14:41:56.945Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "DMart",
       "title": "Product Support Lead; Application support Lead,L3",
@@ -4001,6 +3969,38 @@
       "url": "https://www.naukri.com/job-listings-manager-sr-manager-it-and-digital-transformation-belhem-hospitality-pvt-ltd-bengaluru-10-to-15-years-041126910400?src=directSearch&sid=17937707435635879&xp=6&px=1",
       "time": "2026-11-04T05:39:24.513Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-infosys-limited-bengaluru-18-to-20-years-031126909436?src=directSearch&sid=17937723308138941&xp=13&px=1",
+      "time": "2026-11-04T06:05:51.668Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Siebel Lead(Remote)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-siebel-lead-remote-trh-consultancy-services-bengaluru-10-to-20-years-041126910739?src=directSearch&sid=17937723710399236&xp=3&px=1",
+      "time": "2026-11-04T06:06:25.347Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Esteemed Client of TalentzQ",
+      "title": "Regional Head - Operations & Sales@Banglore - From hotel Industry",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-regional-head-operations-sales-banglore-from-hotel-industry-talentzq-bengaluru-12-to-18-years-031126027487?src=directSearch&sid=17937725609879561&xp=3&px=1",
+      "time": "2026-11-04T06:09:35.154Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Production Engine Assembly - Manufacturing Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-production-engine-assembly-manufacturing-operations-1743863?ref=sp_prm&jobPos=3",
+      "time": "2026-11-04T06:11:56.410Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5239,
+  "totalVerifiedInHistory": 5243,
   "portalBreakdown": {
-    "iimjobs": 794,
-    "naukri": 1134,
+    "iimjobs": 795,
+    "naukri": 1137,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T05:39:24.567Z",
-  "lastUpdated": "4/11/2026, 11:09:24 am"
+  "lastSyncedAt": "2026-11-04T06:11:56.484Z",
+  "lastUpdated": "4/11/2026, 11:41:56 am"
 }
