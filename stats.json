@@ -1,39 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5231,
+  "applicationsSubmitted": 5235,
   "appliedRolesList": [
-    {
-      "company": "Plaid",
-      "title": "Product Operations Specialist",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/plaid/a063f469-1ec5-44d1-8cc5-1da47a7b8783",
-      "time": "2026-10-28T13:51:04.382Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Senior RPA Developer",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/7eb9a1c3-a53e-4052-8ba8-da517476c929",
-      "time": "2026-10-28T13:51:39.815Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Global Marketing Automation & Marketo Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/1fc60bea-29b9-47c6-b325-ea4e404c2195",
-      "time": "2026-10-28T13:52:18.519Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Senior Manager, ABM & Executive Programs – APJ",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/c075a845-7bb3-4073-a6cd-f6d57781bf30",
-      "time": "2026-10-28T13:52:52.844Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Uipath",
       "title": "Senior Sales Engineer (Agentic AI Automation)",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/project-manager-lead-agile-1727898?ref=sp&jobPos=11",
       "time": "2026-11-03T23:47:09.501Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Teradata",
+      "title": "Senior Product Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-product-manager-teradata-hyderabad-bengaluru-7-to-12-years-031126028236",
+      "time": "2026-11-04T00:13:24.075Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Service Desk COE (Operations / Solutioning / RFP)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-desk-coe-operations-solutioning-rfp-cognizant-chennai-bengaluru-15-to-24-years-031126014008?src=directSearch&sid=17937514674292791&xp=8&px=1",
+      "time": "2026-11-04T00:18:32.804Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "STIC Soft",
+      "title": "Sharepoint Subject Matter Expert",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sharepoint-subject-matter-expert-stic-soft-hyderabad-pune-bengaluru-10-to-13-years-301026036169",
+      "time": "2026-11-04T00:19:49.377Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Scrum Master - Agile Delivery - IT",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/scrum-master-agile-delivery-it-1732863?ref=sp&jobPos=12",
+      "time": "2026-11-04T00:22:44.271Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5231,
+  "totalVerifiedInHistory": 5235,
   "portalBreakdown": {
-    "iimjobs": 791,
-    "naukri": 1129,
+    "iimjobs": 792,
+    "naukri": 1132,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T23:47:09.557Z",
-  "lastUpdated": "4/11/2026, 5:17:09 am"
+  "lastSyncedAt": "2026-11-04T00:22:44.324Z",
+  "lastUpdated": "4/11/2026, 5:52:44 am"
 }
