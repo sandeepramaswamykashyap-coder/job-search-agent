@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5230,
+  "applicationsSubmitted": 5231,
   "appliedRolesList": [
-    {
-      "company": "Suno",
-      "title": "Senior Manager, IT Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/b699e12d-06b5-48d4-b8fd-273696757b96",
-      "time": "2026-10-28T13:50:27.064Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Plaid",
       "title": "Product Operations Specialist",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/agile-product-owner-1724066?ref=sp&jobPos=5",
       "time": "2026-11-03T23:14:06.405Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Project Manager/Lead - Agile",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/project-manager-lead-agile-1727898?ref=sp&jobPos=11",
+      "time": "2026-11-03T23:47:09.501Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5230,
+  "totalVerifiedInHistory": 5231,
   "portalBreakdown": {
-    "iimjobs": 790,
+    "iimjobs": 791,
     "naukri": 1129,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-03T23:14:06.457Z",
-  "lastUpdated": "4/11/2026, 4:44:06 am"
+  "lastSyncedAt": "2026-11-03T23:47:09.557Z",
+  "lastUpdated": "4/11/2026, 5:17:09 am"
 }
