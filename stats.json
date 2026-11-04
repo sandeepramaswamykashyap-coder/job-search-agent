@@ -1,23 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5244,
+  "applicationsSubmitted": 5246,
   "appliedRolesList": [
-    {
-      "company": "DMart",
-      "title": "Application Support Engineer,production support, lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-application-support-engineer-production-support-lead-dmart-coimbatore-bengaluru-7-to-12-years-300926020200?src=directSearch&sid=17931984931205778&xp=10&px=1",
-      "time": "2026-10-28T14:42:19.987Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Altimetrik",
-      "title": "Application Support Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-application-support-lead-altimetrik-bengaluru-8-to-13-years-300926018498?src=directSearch&sid=17931984931205778&xp=11&px=1",
-      "time": "2026-10-28T14:42:51.351Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Enterprise",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-business-operations-business-analysis-happiest-minds-technologies-bengaluru-10-to-13-years-041126013861?src=directSearch&sid=1793774390618292&xp=5&px=1",
       "time": "2026-11-04T06:40:22.839Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Coreel Technologies",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-coreel-technologies-bengaluru-10-to-20-years-041126014266?src=directSearch&sid=17937765523413756&xp=7&px=1",
+      "time": "2026-11-04T07:16:11.540Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-cognizant-bengaluru-8-to-12-years-041126014774?src=directSearch&sid=17937765523413756&xp=9&px=1",
+      "time": "2026-11-04T07:16:51.167Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5244,
+  "totalVerifiedInHistory": 5246,
   "portalBreakdown": {
     "iimjobs": 795,
-    "naukri": 1138,
+    "naukri": 1140,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 91,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-04T06:40:22.894Z",
-  "lastUpdated": "4/11/2026, 12:10:22 pm"
+  "lastSyncedAt": "2026-11-04T07:16:51.218Z",
+  "lastUpdated": "4/11/2026, 12:46:51 pm"
 }
