@@ -1,23 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5302,
+  "applicationsSubmitted": 5304,
   "appliedRolesList": [
-    {
-      "company": "Oaknorth",
-      "title": "Director, Credit Risk ���  Cash Flow Lending",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/oaknorth/4a592a46-80c2-4484-a76f-44cef33e7e4e",
-      "time": "2026-10-28T23:55:58.691Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Samaaro",
-      "title": "Senior Manager - Performance & Growth Marketing\nSenior Manager - Performance & Growth Marketing with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481371235&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T00:07:18.455Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Amazon",
       "title": "Program Manager, Operations\nProgram Manager, Operations with verification",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/bureau-veritas-service-delivery-manager-performance-and-continuous-improvement-1740948?ref=sp_br&jobPos=5",
       "time": "2026-11-05T21:38:46.629Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Horizontal Integration",
+      "title": "Clearing Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-clearing-consultant-horizontal-integration-bengaluru-4-to-9-years-051126036106",
+      "time": "2026-11-05T22:08:34.818Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Computacenter - Senior Service Delivery Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/computacenter-senior-service-delivery-manager-1730932?ref=sp&jobPos=6",
+      "time": "2026-11-05T22:14:02.758Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5302,
+  "totalVerifiedInHistory": 5304,
   "portalBreakdown": {
-    "iimjobs": 814,
-    "naukri": 1173,
+    "iimjobs": 815,
+    "naukri": 1174,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T21:38:46.682Z",
-  "lastUpdated": "6/11/2026, 3:08:46 am"
+  "lastSyncedAt": "2026-11-05T22:14:02.815Z",
+  "lastUpdated": "6/11/2026, 3:44:02 am"
 }
