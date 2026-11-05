@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5287,
+  "applicationsSubmitted": 5288,
   "appliedRolesList": [
-    {
-      "company": "AARJAVAM POLYSQUARE PVT LTD (APPL)",
-      "title": "Customer Relations Manager\nCustomer Relations Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T21:45:22.867Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "ZEISS India",
       "title": "Program Manager\nProgram Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-program-manager-non-it-domain-finance-bfsi-hr-insurance-bangalore-inspiration-manpower-consultancy-bengaluru-10-to-20-years-051126037740?src=directSearch&sid=17938888579766249&xp=4&px=1",
       "time": "2026-11-05T14:27:58.745Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Engineering Program Manager (SW Program | 5G & Wireless) at HPE",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-engineering-program-manager-sw-program-5g-wireless-at-hpe-hewlett-packard-enterprise-bengaluru-10-to-18-years-051126038059?src=directSearch&sid=1793890968286437&xp=4&px=1",
+      "time": "2026-11-05T15:03:08.887Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5287,
+  "totalVerifiedInHistory": 5288,
   "portalBreakdown": {
     "iimjobs": 807,
-    "naukri": 1167,
+    "naukri": 1168,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T14:30:11.980Z",
-  "lastUpdated": "5/11/2026, 8:00:11 pm"
+  "lastSyncedAt": "2026-11-05T15:03:08.937Z",
+  "lastUpdated": "5/11/2026, 8:33:08 pm"
 }
