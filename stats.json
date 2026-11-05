@@ -1,31 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5264,
+  "applicationsSubmitted": 5267,
   "appliedRolesList": [
-    {
-      "company": "FRND",
-      "title": "Associate Manager - Strategy and Operations\nAssociate Manager - Strategy and Operations with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4481282100&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T20:24:27.137Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Math of Marketing",
-      "title": "Senior Program Manager\nSenior Program Manager",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455904782&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T20:25:30.517Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "VRINDA INTERNATIONAL",
-      "title": "Program Manager – Identity Transformation\nProgram Manager – Identity Transformation",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
-      "time": "2026-10-28T20:26:17.874Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "EY",
       "title": "Chief Of Staff And Strategic PMO - S And T",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/manager-strategy-and-business-transformation-industrials-and-electronics-1744104?ref=sp&jobPos=7",
       "time": "2026-11-05T05:13:39.765Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Paytm",
+      "title": "Manager / Senior Manager - Issuance Lead (Gift Vouchers)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-senior-manager-issuance-lead-gift-vouchers-paytm-noida-mumbai-bengaluru-10-to-15-years-051126011784?src=directSearch&sid=17938573736739168&xp=7&px=1",
+      "time": "2026-11-05T05:43:24.119Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "AtkinsRéalis",
+      "title": "Information manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-information-manager-ws-atkins-india-private-limited-mumbai-bengaluru-8-to-12-years-051126911373?src=directSearch&sid=17938574845977308&xp=7&px=1",
+      "time": "2026-11-05T05:45:02.038Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Strategy & Business Transformation - Industrials & Electronics Sector",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-strategy-and-business-transformation-industrials-and-electronics-sector-1744104?ref=sp&jobPos=7",
+      "time": "2026-11-05T05:48:30.591Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5264,
+  "totalVerifiedInHistory": 5267,
   "portalBreakdown": {
-    "iimjobs": 802,
-    "naukri": 1149,
+    "iimjobs": 803,
+    "naukri": 1151,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T05:13:39.820Z",
-  "lastUpdated": "5/11/2026, 10:43:39 am"
+  "lastSyncedAt": "2026-11-05T05:48:30.652Z",
+  "lastUpdated": "5/11/2026, 11:18:30 am"
 }
