@@ -1,39 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5267,
+  "applicationsSubmitted": 5271,
   "appliedRolesList": [
-    {
-      "company": "EY",
-      "title": "Chief Of Staff And Strategic PMO - S And T",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455904782&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=150",
-      "time": "2026-10-28T20:27:04.960Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "GDS Meetings and Events - M and E Program Manager\nGDS Meetings and Events - M and E Program Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=75",
-      "time": "2026-10-28T20:27:51.725Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Visa",
-      "title": "Director, Software Engineering",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455904782&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=150",
-      "time": "2026-10-28T20:28:39.394Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Quest Global",
-      "title": "Program Manager\nProgram Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&spellCorrectionEnabled=true&start=75",
-      "time": "2026-10-28T20:29:26.354Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "National Entrepreneurship Network",
       "title": "Programme Manager — Product & Programme Development\nProgramme Manager — Product & Programme Development",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/manager-strategy-and-business-transformation-industrials-and-electronics-sector-1744104?ref=sp&jobPos=7",
       "time": "2026-11-05T05:48:30.591Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Erulearning Solutions",
+      "title": "Senior Manager - GTM",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-gtm-erulearning-solutions-bengaluru-6-to-11-years-051126013045?src=directSearch&sid=17938594658705508&xp=9&px=1",
+      "time": "2026-11-05T06:18:16.842Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Myraid",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-myraid-bengaluru-8-to-12-years-051126012470?src=directSearch&sid=17938595459864565&xp=13&px=1",
+      "time": "2026-11-05T06:19:30.230Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IBM",
+      "title": "Quality Leader",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-quality-leader-ibm-bengaluru-13-to-23-years-051126010871?src=directSearch&sid=17938597454884792&xp=8&px=1",
+      "time": "2026-11-05T06:22:39.853Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Governance Operations Role",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-governance-operations-role-1741154?ref=sp&jobPos=18",
+      "time": "2026-11-05T06:26:06.217Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5267,
+  "totalVerifiedInHistory": 5271,
   "portalBreakdown": {
-    "iimjobs": 803,
-    "naukri": 1151,
+    "iimjobs": 804,
+    "naukri": 1154,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T05:48:30.652Z",
-  "lastUpdated": "5/11/2026, 11:18:30 am"
+  "lastSyncedAt": "2026-11-05T06:26:06.270Z",
+  "lastUpdated": "5/11/2026, 11:56:06 am"
 }
