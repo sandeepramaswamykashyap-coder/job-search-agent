@@ -1,39 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5278,
+  "applicationsSubmitted": 5282,
   "appliedRolesList": [
-    {
-      "company": "Magnet HR Tech Digital",
-      "title": "Director – GBS / GCC Advisory\nDirector – GBS / GCC Advisory",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472964568&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
-      "time": "2026-10-28T21:07:15.219Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "EY",
-      "title": "Senior Manager - Business Consulting Risk - TMT - CNS - RISK - PROCESS & CONTROLS - Bangalore\nSenior Manager - Business Consulting Risk - TMT - CNS - RISK - PROCESS & CONTROLS - Bangalore with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4473651090&f_AL=true&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-28T21:07:33.813Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Vaia",
-      "title": "Chief of Staff to the Founder\nChief of Staff to the Founder",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472964568&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
-      "time": "2026-10-28T21:08:20.745Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Clari5 - A Perfios Company",
-      "title": "Support Group Manager\nSupport Group Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484411937&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-28T21:09:15.340Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Accenture in India",
       "title": "ISSRRN0001647 - Infra Tech Support Practitioner\nISSRRN0001647 - Infra Tech Support Practitioner with verification",
@@ -4001,6 +3969,38 @@
       "url": "https://www.iimjobs.com/j/program-manager-insurance-pandc-1744297?ref=sp&jobPos=10",
       "time": "2026-11-05T12:11:46.824Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Kosmoderma Skin Clinic",
+      "title": "Head of Operations  Infrastructure, People  & Governance",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-head-of-operations-infrastructure-people-governance-kosmoderma-skin-clinic-bengaluru-10-to-15-years-051126020085?src=directSearch&sid=17938826741944671&xp=11&px=1",
+      "time": "2026-11-05T12:44:48.458Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ontimeglobal",
+      "title": "Exciting Career Opportunity: India Operations Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-exciting-career-opportunity-india-operations-lead-ontime-global-bengaluru-6-to-11-years-051126036140?src=directSearch&sid=17938826741944671&xp=12&px=1",
+      "time": "2026-11-05T12:45:00.282Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Broadridge",
+      "title": "Business Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-lead-broadridge-hyderabad-bengaluru-5-to-10-years-051126035996?src=directSearch&sid=17938827035104238&xp=9&px=1",
+      "time": "2026-11-05T12:45:21.107Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Solution Architect - ServiceNow ITAM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/solution-architect-servicenow-itam-1744306?ref=sp&jobPos=3",
+      "time": "2026-11-05T12:46:19.898Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5278,
+  "totalVerifiedInHistory": 5282,
   "portalBreakdown": {
-    "iimjobs": 806,
-    "naukri": 1159,
+    "iimjobs": 807,
+    "naukri": 1162,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T12:11:46.873Z",
-  "lastUpdated": "5/11/2026, 5:41:46 pm"
+  "lastSyncedAt": "2026-11-05T12:46:19.946Z",
+  "lastUpdated": "5/11/2026, 6:16:19 pm"
 }
