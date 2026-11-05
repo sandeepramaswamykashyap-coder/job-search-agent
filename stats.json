@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5297,
+  "applicationsSubmitted": 5298,
   "appliedRolesList": [
-    {
-      "company": "BiteSpeed",
-      "title": "Customer Success Manager\nCustomer Success Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T22:58:10.509Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Standard Chartered India",
       "title": "Senior Manager, CMS Supplier Management\nSenior Manager, CMS Supplier Management",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/ekfrazo-technologies-service-delivery-manager-it-services-1728527?ref=sp&jobPos=14",
       "time": "2026-11-05T18:42:59.227Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Infrastructure Service Delivery Manager - IT",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/infrastructure-service-delivery-manager-it-1729386?ref=sp&jobPos=15",
+      "time": "2026-11-05T19:18:13.047Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5297,
+  "totalVerifiedInHistory": 5298,
   "portalBreakdown": {
-    "iimjobs": 809,
+    "iimjobs": 810,
     "naukri": 1173,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T18:42:59.277Z",
-  "lastUpdated": "6/11/2026, 12:12:59 am"
+  "lastSyncedAt": "2026-11-05T19:18:13.111Z",
+  "lastUpdated": "6/11/2026, 12:48:13 am"
 }
