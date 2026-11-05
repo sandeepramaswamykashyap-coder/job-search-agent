@@ -1,23 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5283,
+  "applicationsSubmitted": 5285,
   "appliedRolesList": [
-    {
-      "company": "The Organic World",
-      "title": "Head of Ecommerce\nHead of Ecommerce",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474523719&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T21:42:13.888Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "CIB Business Enablement Senior Manager\nCIB Business Enablement Senior Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4476571121&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T21:43:01.324Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mirafra Technologies",
       "title": "DFT Practice Head\nDFT Practice Head with verification",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-051126926687?src=directSearch&sid=17938847950727421&xp=12&px=1",
       "time": "2026-11-05T13:20:19.437Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "AtkinsRéalis",
+      "title": "Digital Engineering Professional - (BIM, Information Management)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-digital-engineering-professional-bim-information-management-ws-atkins-india-private-limited-bengaluru-10-to-15-years-051126926808?src=directSearch&sid=17938867359526492&xp=5&px=1",
+      "time": "2026-11-05T13:52:30.058Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "GCC Transition Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-gcc-transition-manager-capgemini-technology-services-india-limited-bengaluru-12-to-18-years-051126926687?src=directSearch&sid=17938867359526492&xp=7&px=1",
+      "time": "2026-11-05T13:52:44.975Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,10 +4719,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5283,
+  "totalVerifiedInHistory": 5285,
   "portalBreakdown": {
     "iimjobs": 807,
-    "naukri": 1163,
+    "naukri": 1165,
     "weworkremotely": 15,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T13:20:19.487Z",
-  "lastUpdated": "5/11/2026, 6:50:19 pm"
+  "lastSyncedAt": "2026-11-05T13:52:45.019Z",
+  "lastUpdated": "5/11/2026, 7:22:45 pm"
 }
