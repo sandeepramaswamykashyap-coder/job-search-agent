@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5300,
+  "applicationsSubmitted": 5301,
   "appliedRolesList": [
-    {
-      "company": "Sagility",
-      "title": "Director\nDirector with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472957805&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=100",
-      "time": "2026-10-28T23:00:59.094Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "KUKA",
       "title": "Chief of Staff – MD’s Office\nChief of Staff – MD’s Office",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/bureau-veritas-service-delivery-manager-payroll-1740961?ref=sp_br&jobPos=2",
       "time": "2026-11-05T20:28:10.071Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Bureau Veritas - Service Delivery Manager - HR Administration",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bureau-veritas-service-delivery-manager-hr-administration-1740942?ref=sp_br&jobPos=4",
+      "time": "2026-11-05T21:03:51.668Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5300,
+  "totalVerifiedInHistory": 5301,
   "portalBreakdown": {
-    "iimjobs": 812,
+    "iimjobs": 813,
     "naukri": 1173,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T20:28:10.126Z",
-  "lastUpdated": "6/11/2026, 1:58:10 am"
+  "lastSyncedAt": "2026-11-05T21:03:51.723Z",
+  "lastUpdated": "6/11/2026, 2:33:51 am"
 }
