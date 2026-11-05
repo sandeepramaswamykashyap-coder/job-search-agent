@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5296,
+  "applicationsSubmitted": 5297,
   "appliedRolesList": [
-    {
-      "company": "State Street",
-      "title": "Business Process Management & Procedures - Assistant Vice President\nBusiness Process Management & Procedures - Assistant Vice President with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4466678188&f_AL=true&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-28T22:57:22.728Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "BiteSpeed",
       "title": "Customer Success Manager\nCustomer Success Manager with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/openai/2c531790-726c-4d39-b3bd-900c59a09a4d",
       "time": "2026-11-05T17:54:40.760Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ekfrazo Technologies - Service Delivery Manager - IT Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ekfrazo-technologies-service-delivery-manager-it-services-1728527?ref=sp&jobPos=14",
+      "time": "2026-11-05T18:42:59.227Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5296,
+  "totalVerifiedInHistory": 5297,
   "portalBreakdown": {
-    "iimjobs": 808,
+    "iimjobs": 809,
     "naukri": 1173,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T17:54:40.810Z",
-  "lastUpdated": "5/11/2026, 11:24:40 pm"
+  "lastSyncedAt": "2026-11-05T18:42:59.277Z",
+  "lastUpdated": "6/11/2026, 12:12:59 am"
 }
