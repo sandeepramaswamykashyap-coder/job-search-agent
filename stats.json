@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 34626,
-  "applicationsSubmitted": 5354,
+  "jobsScanned": 35016,
+  "applicationsSubmitted": 5357,
   "appliedRolesList": [
-    {
-      "company": "Amor Management Consultants - India’s Premiere Auto Talent Hiring Specialists",
-      "title": "Chief Executive Officer\nChief Executive Officer",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4472974126&keywords=Transformation%20Director&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=125",
-      "time": "2026-10-29T05:35:58.492Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Leading Client",
-      "title": "Consulting Head",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-consulting-head-golden-opportunities-pvt-ltd-pune-chennai-bengaluru-20-to-25-years-291026903405?src=directSearch&sid=17932538068506449&xp=6&px=1",
-      "time": "2026-10-29T06:03:44.013Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Omnicom Global Solutions",
-      "title": "Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-omnicom-global-solutions-hyderabad-chennai-bengaluru-8-to-12-years-291026004236?src=directSearch&sid=17932539609682800&xp=9&px=1",
-      "time": "2026-10-29T06:06:42.784Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Palo Alto Networks",
       "title": "Manager, Program Management (Contractor)\nManager, Program Management (Contractor) with verification",
@@ -4001,6 +3977,30 @@
       "url": "https://jobs.ashbyhq.com/uipath/1c7e6d21-60ec-4d93-8c8f-b3dbe40bcb1d",
       "time": "2026-11-06T07:49:42.478Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "VIBGYOR Group of Schools",
+      "title": "Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-operations-manager-vibgyor-group-of-schools-bengaluru-8-to-13-years-061126013779?src=directSearch&sid=17939532425415003&xp=12&px=1",
+      "time": "2026-11-06T08:21:00.191Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "LTM",
+      "title": "SAP Delivery Manager S4HANA Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-delivery-manager-s4hana-bangalore-ltm-bengaluru-12-to-20-years-061126010449?src=directSearch&sid=17939533017227943&xp=12&px=1",
+      "time": "2026-11-06T08:22:06.100Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Indus Insights - Senior Manager - Analytics",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/indus-insights-senior-manager-analytics-1744455?ref=sp_prm&jobPos=3",
+      "time": "2026-11-06T08:25:16.929Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4759,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5354,
+  "totalVerifiedInHistory": 5357,
   "portalBreakdown": {
-    "iimjobs": 828,
-    "naukri": 1174,
+    "iimjobs": 829,
+    "naukri": 1176,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4780,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T08:20:19.186Z",
-  "lastUpdated": "6/11/2026, 1:50:19 pm"
+  "lastSyncedAt": "2026-11-06T08:44:24.296Z",
+  "lastUpdated": "6/11/2026, 2:14:24 pm"
 }
