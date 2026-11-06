@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 39031,
-  "applicationsSubmitted": 5371,
+  "jobsScanned": 39401,
+  "applicationsSubmitted": 5372,
   "appliedRolesList": [
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "ASSOCIATE PROGRAM DIRECTOR - Program Management",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-associate-program-director-program-management-happiest-minds-technologies-bengaluru-13-to-16-years-291026009708?src=directSearch&sid=17932580535564818&xp=8&px=1",
-      "time": "2026-10-29T07:15:18.033Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Infovision Labs",
       "title": "Scrum Master Project Manager Oracle Apps Technical",
@@ -4001,6 +3993,14 @@
       "url": "https://www.naukri.com/job-listings-business-development-manager-delight-hr-services-pvt-ltd-bengaluru-5-to-10-years-061126920794?src=directSearch&sid=17939697186997889&xp=12&px=1",
       "time": "2026-11-06T12:55:49.797Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Genpact India Pvt. Ltd.",
+      "title": "Director - SCM 3",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABobBpBp4AAAACZxIJ4AAVAQAF7UAKXF44-BIz9PpfGMIwqYAkAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABobBpBp4AAAACZxIJ4AAVAQAF7UAKXF44-BIz9PpfGMIwqYAkAAA&from=page-two-signin",
+      "time": "2026-11-06T13:22:57.875Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4759,7 +4759,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5371,
+  "totalVerifiedInHistory": 5372,
   "portalBreakdown": {
     "iimjobs": 832,
     "naukri": 1184,
@@ -4777,9 +4777,9 @@
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
-    "indeed": 93,
+    "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T13:00:54.702Z",
-  "lastUpdated": "6/11/2026, 6:30:54 pm"
+  "lastSyncedAt": "2026-11-06T13:25:11.022Z",
+  "lastUpdated": "6/11/2026, 6:55:11 pm"
 }
