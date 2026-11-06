@@ -1,31 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5306,
+  "applicationsSubmitted": 5309,
   "appliedRolesList": [
-    {
-      "company": "Vialto",
-      "title": "Operational Excellence - Senior Manager - VVN India\nOperational Excellence - Senior Manager - VVN India with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4469450476&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T00:09:44.383Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Foundation for Science, Innovation and Development, IISc Bangalore",
-      "title": "Program Manager\nProgram Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T00:10:46.708Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Program Manager, RBS Brand Experience (BX)\nSenior Program Manager, RBS Brand Experience (BX) with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
-      "time": "2026-10-29T00:11:33.561Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Movate",
       "title": "Technical Program Manager\nTechnical Program Manager with verification",
@@ -4001,6 +3977,30 @@
       "url": "https://www.iimjobs.com/j/service-delivery-consultant-manufacturing-1730160?ref=sp&jobPos=11",
       "time": "2026-11-05T23:16:09.383Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Operations Delivery Manager - IT Service Delivery",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/operations-delivery-manager-it-service-delivery-1722851?ref=sp&jobPos=14",
+      "time": "2026-11-05T23:51:23.349Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Anyscale",
+      "title": "AWS & Neo Cloud Alliances Senior Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/anyscale/236b71c1-b5b0-4d5e-b17a-3e1bc4966a6a",
+      "time": "2026-11-06T00:13:21.271Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Anyscale",
+      "title": "AWS & Neo Cloud Alliances Senior Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/anyscale/236b71c1-b5b0-4d5e-b17a-3e1bc4966a6a",
+      "time": "2026-11-06T00:13:21.652Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5306,
+  "totalVerifiedInHistory": 5309,
   "portalBreakdown": {
-    "iimjobs": 817,
+    "iimjobs": 818,
     "naukri": 1174,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4732,14 +4732,14 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 626,
-    "ashby": 358,
+    "direct_portal_ashby": 627,
+    "ashby": 359,
     "workingnomads": 2,
     "instahyre": 1,
     "naukri_nvite": 1,
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-05T23:16:09.434Z",
-  "lastUpdated": "6/11/2026, 4:46:09 am"
+  "lastSyncedAt": "2026-11-06T00:13:21.698Z",
+  "lastUpdated": "6/11/2026, 5:43:21 am"
 }
