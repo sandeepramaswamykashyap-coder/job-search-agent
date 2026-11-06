@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 35016,
-  "applicationsSubmitted": 5357,
+  "jobsScanned": 35066,
+  "applicationsSubmitted": 64,
   "appliedRolesList": [
     {
       "company": "Palo Alto Networks",
@@ -4001,6 +4001,27 @@
       "url": "https://www.iimjobs.com/j/indus-insights-senior-manager-analytics-1744455?ref=sp_prm&jobPos=3",
       "time": "2026-11-06T08:25:16.929Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "time": "2026-11-06T08:44:48.070Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-11-06T08:44:48.086Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-06T08:44:48.098Z"
     }
   ],
   "failures": [
