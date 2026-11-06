@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5309,
+  "applicationsSubmitted": 5310,
   "appliedRolesList": [
-    {
-      "company": "Movate",
-      "title": "Technical Program Manager\nTechnical Program Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455798135&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T00:12:20.935Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Lam Research",
       "title": "Functional Quality Program Manager\nFunctional Quality Program Manager with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/anyscale/236b71c1-b5b0-4d5e-b17a-3e1bc4966a6a",
       "time": "2026-11-06T00:13:21.652Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "SAP Service Delivery Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/sap-service-delivery-manager-1722918?ref=sp&jobPos=15",
+      "time": "2026-11-06T00:26:35.745Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5309,
+  "totalVerifiedInHistory": 5310,
   "portalBreakdown": {
-    "iimjobs": 818,
+    "iimjobs": 819,
     "naukri": 1174,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T00:13:21.698Z",
-  "lastUpdated": "6/11/2026, 5:43:21 am"
+  "lastSyncedAt": "2026-11-06T00:26:35.798Z",
+  "lastUpdated": "6/11/2026, 5:56:35 am"
 }
