@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 40501,
-  "applicationsSubmitted": 80,
+  "jobsScanned": 40581,
+  "applicationsSubmitted": 5373,
   "appliedRolesList": [
     {
       "company": "Omega Healthcare",
@@ -4001,27 +4001,6 @@
       "url": "https://jobs.ashbyhq.com/supabase/090aa2a7-e0ee-49a6-837e-6817147d2d31",
       "time": "2026-11-06T14:27:49.294Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T14:31:14.436Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T14:31:14.453Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T14:31:14.464Z"
     }
   ],
   "failures": [
@@ -4801,6 +4780,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T14:30:30.355Z",
-  "lastUpdated": "6/11/2026, 8:00:30 pm"
+  "lastSyncedAt": "2026-11-06T14:41:34.780Z",
+  "lastUpdated": "6/11/2026, 8:11:34 pm"
 }
