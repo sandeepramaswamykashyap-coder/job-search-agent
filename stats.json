@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 36231,
-  "applicationsSubmitted": 5361,
+  "jobsScanned": 36641,
+  "applicationsSubmitted": 5362,
   "appliedRolesList": [
-    {
-      "company": "Intellics Global Services",
-      "title": "ASIC Technical Program Manager (TPM)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-asic-technical-program-manager-tpm-intellics-global-services-pune-chennai-bengaluru-15-to-24-years-291026006581?src=directSearch&sid=17932558858228922&xp=8&px=1",
-      "time": "2026-10-29T06:38:29.242Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Orcapod Consulting Service s",
       "title": "Hiring For Delivery and Account manager-WFH",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052",
       "time": "2026-11-06T09:47:21.254Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "HCLTech",
+      "title": "SMO Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-smo-lead-hcltech-pune-bengaluru-20-to-25-years-061126020614?src=directSearch&sid=17939594698696363&xp=1&px=1",
+      "time": "2026-11-06T10:04:43.877Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4759,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5361,
+  "totalVerifiedInHistory": 5362,
   "portalBreakdown": {
     "iimjobs": 829,
-    "naukri": 1177,
+    "naukri": 1178,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4780,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T10:01:26.504Z",
-  "lastUpdated": "6/11/2026, 3:31:26 pm"
+  "lastSyncedAt": "2026-11-06T10:27:16.142Z",
+  "lastUpdated": "6/11/2026, 3:57:16 pm"
 }
