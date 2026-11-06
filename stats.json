@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 38831,
-  "applicationsSubmitted": 77,
+  "jobsScanned": 39031,
+  "applicationsSubmitted": 5371,
   "appliedRolesList": [
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "Program Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-program-manager-happiest-minds-technologies-bengaluru-16-to-24-years-291026011593?src=directSearch&sid=17932580535564818&xp=7&px=1",
-      "time": "2026-10-29T07:14:51.839Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "ASSOCIATE PROGRAM DIRECTOR - Program Management",
@@ -4003,25 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T12:45:48.834Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T12:45:48.848Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T12:45:48.859Z"
+      "company": "Leading Client",
+      "title": "Business Development Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-development-manager-delight-hr-services-pvt-ltd-bengaluru-5-to-10-years-061126920794?src=directSearch&sid=17939697186997889&xp=12&px=1",
+      "time": "2026-11-06T12:55:49.797Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4780,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5370,
+  "totalVerifiedInHistory": 5371,
   "portalBreakdown": {
     "iimjobs": 832,
-    "naukri": 1183,
+    "naukri": 1184,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T12:45:44.523Z",
-  "lastUpdated": "6/11/2026, 6:15:44 pm"
+  "lastSyncedAt": "2026-11-06T13:00:54.702Z",
+  "lastUpdated": "6/11/2026, 6:30:54 pm"
 }
