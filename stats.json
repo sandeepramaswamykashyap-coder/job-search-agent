@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 41941,
-  "applicationsSubmitted": 81,
+  "jobsScanned": 42021,
+  "applicationsSubmitted": 5374,
   "appliedRolesList": [
     {
       "company": "IIMJobs Verified Employer",
@@ -4001,27 +4001,6 @@
       "url": "https://www.naukri.com/job-listings-technical-delivery-manager-exl-pune-gurugram-bengaluru-12-to-16-years-061126025929?src=directSearch&sid=17939785025446094&xp=12&px=1",
       "time": "2026-11-06T15:22:21.605Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T16:11:59.493Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T16:11:59.501Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T16:11:59.508Z"
     }
   ],
   "failures": [
@@ -4801,6 +4780,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T16:11:18.488Z",
-  "lastUpdated": "6/11/2026, 9:41:18 pm"
+  "lastSyncedAt": "2026-11-06T16:26:58.133Z",
+  "lastUpdated": "6/11/2026, 9:56:58 pm"
 }
