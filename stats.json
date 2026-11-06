@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5313,
+  "applicationsSubmitted": 5314,
   "appliedRolesList": [
-    {
-      "company": "Navi",
-      "title": "Program Manager\nProgram Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4468685556&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T00:47:44.492Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Scapia",
       "title": "Process Excellence & Experience Design\nProcess Excellence & Experience Design with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/inmobi-senior-manager-strategy-and-operations-1744346?ref=sp_br_prm&jobPos=1",
       "time": "2026-11-06T03:53:39.953Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager- Data Product Owner Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-data-product-owner-operations-1744320?ref=sp&jobPos=12",
+      "time": "2026-11-06T05:04:17.978Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5313,
+  "totalVerifiedInHistory": 5314,
   "portalBreakdown": {
-    "iimjobs": 822,
+    "iimjobs": 823,
     "naukri": 1174,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T03:53:40.012Z",
-  "lastUpdated": "6/11/2026, 9:23:40 am"
+  "lastSyncedAt": "2026-11-06T05:04:18.035Z",
+  "lastUpdated": "6/11/2026, 10:34:18 am"
 }
