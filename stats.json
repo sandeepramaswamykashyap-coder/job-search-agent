@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 36161,
-  "applicationsSubmitted": 68,
+  "jobsScanned": 36231,
+  "applicationsSubmitted": 5361,
   "appliedRolesList": [
     {
       "company": "Intellics Global Services",
@@ -4001,27 +4001,6 @@
       "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052",
       "time": "2026-11-06T09:47:21.254Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T09:47:37.733Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T09:47:37.745Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T09:47:37.755Z"
     }
   ],
   "failures": [
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T09:47:21.317Z",
-  "lastUpdated": "6/11/2026, 3:17:21 pm"
+  "lastSyncedAt": "2026-11-06T10:01:26.504Z",
+  "lastUpdated": "6/11/2026, 3:31:26 pm"
 }
