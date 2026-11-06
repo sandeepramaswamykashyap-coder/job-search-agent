@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5312,
+  "applicationsSubmitted": 5313,
   "appliedRolesList": [
-    {
-      "company": "YourDOST",
-      "title": "Chief Of Staff/ Entrepreneur in Residence\nChief Of Staff/ Entrepreneur in Residence with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4474681403&keywords=Head%20of%20Operations&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T00:15:16.770Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Navi",
       "title": "Program Manager\nProgram Manager with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/amgen-senior-manager-incentive-compensation-admin-and-design-1743953?ref=sp_prm&jobPos=12",
       "time": "2026-11-06T01:36:05.533Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "InMobi - Senior Manager - Strategy & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/inmobi-senior-manager-strategy-and-operations-1744346?ref=sp_br_prm&jobPos=1",
+      "time": "2026-11-06T03:53:39.953Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5312,
+  "totalVerifiedInHistory": 5313,
   "portalBreakdown": {
-    "iimjobs": 821,
+    "iimjobs": 822,
     "naukri": 1174,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T01:36:05.587Z",
-  "lastUpdated": "6/11/2026, 7:06:05 am"
+  "lastSyncedAt": "2026-11-06T03:53:40.012Z",
+  "lastUpdated": "6/11/2026, 9:23:40 am"
 }
