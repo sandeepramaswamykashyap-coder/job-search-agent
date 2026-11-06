@@ -85,3 +85,4 @@ checkAndHeal();
 setInterval(checkAndHeal, 60 * 1000);
 
 LOG('⚡ Watchdog monitoring active. Engines auto-restart on crash.');
+
