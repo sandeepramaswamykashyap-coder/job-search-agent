@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 38231,
-  "applicationsSubmitted": 5367,
+  "jobsScanned": 38291,
+  "applicationsSubmitted": 74,
   "appliedRolesList": [
     {
       "company": "Xevyte Technologies",
@@ -4001,6 +4001,27 @@
       "url": "https://www.naukri.com/job-listings-project-manager-sg-india-bengaluru-12-to-15-years-061126023768?src=directSearch&sid=17939654351438195&xp=1&px=1",
       "time": "2026-11-06T11:44:09.175Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "time": "2026-11-06T12:09:27.517Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-11-06T12:09:27.533Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-06T12:09:27.543Z"
     }
   ],
   "failures": [
