@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 40971,
-  "applicationsSubmitted": 80,
+  "jobsScanned": 41281,
+  "applicationsSubmitted": 5374,
   "appliedRolesList": [
-    {
-      "company": "Omega Healthcare",
-      "title": "Manager-Delivery Quality-Home Health",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-delivery-quality-home-health-omega-healthcare-chennai-bengaluru-9-to-12-years-291026010292?src=directSearch&sid=17932581766198688&xp=4&px=1",
-      "time": "2026-10-29T07:16:30.650Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "JP Morgan Chase - Executive Director - Global Confirmations & RCO Data Exchange",
@@ -4003,25 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T15:07:59.797Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T15:07:59.811Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T15:07:59.822Z"
+      "company": "EXL",
+      "title": "Technical Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-technical-delivery-manager-exl-pune-gurugram-bengaluru-12-to-16-years-061126025929?src=directSearch&sid=17939785025446094&xp=12&px=1",
+      "time": "2026-11-06T15:22:21.605Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4780,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5373,
+  "totalVerifiedInHistory": 5374,
   "portalBreakdown": {
     "iimjobs": 832,
-    "naukri": 1184,
+    "naukri": 1185,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4801,6 +4780,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T15:07:44.893Z",
-  "lastUpdated": "6/11/2026, 8:37:44 pm"
+  "lastSyncedAt": "2026-11-06T15:33:20.423Z",
+  "lastUpdated": "6/11/2026, 9:03:20 pm"
 }
