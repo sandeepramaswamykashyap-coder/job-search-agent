@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 33826,
-  "applicationsSubmitted": 5353,
+  "jobsScanned": 33926,
+  "applicationsSubmitted": 60,
   "appliedRolesList": [
     {
       "company": "JLL",
@@ -4001,6 +4001,27 @@
       "url": "https://jobs.ashbyhq.com/alloy/68ee7491-4be1-4251-9b81-9f3e5f5df63b",
       "time": "2026-11-06T07:21:42.807Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "time": "2026-11-06T07:30:26.947Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-11-06T07:30:26.963Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-06T07:30:26.975Z"
     }
   ],
   "failures": [
