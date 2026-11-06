@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 37221,
-  "applicationsSubmitted": 72,
+  "jobsScanned": 37441,
+  "applicationsSubmitted": 5366,
   "appliedRolesList": [
-    {
-      "company": "HCLTech",
-      "title": "HCL Tech Technical Lead   SAP Finance and Costing",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hcl-tech-technical-lead-sap-finance-and-costing-hcltech-hyderabad-pune-bengaluru-5-to-10-years-281026014249",
-      "time": "2026-10-29T07:12:09.796Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "LanceSoft",
       "title": "Supply Capability Lead",
@@ -4003,25 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T11:03:34.795Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T11:03:34.811Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T11:03:34.822Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "UST - ServiceNow Solution & Technical Architect",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ust-servicenow-solution-and-technical-architect-1744518?ref=sp_br_prm&jobPos=1",
+      "time": "2026-11-06T11:13:49.419Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4780,9 +4759,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5365,
+  "totalVerifiedInHistory": 5366,
   "portalBreakdown": {
-    "iimjobs": 831,
+    "iimjobs": 832,
     "naukri": 1179,
     "weworkremotely": 20,
     "remoteok": 8,
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T11:03:19.248Z",
-  "lastUpdated": "6/11/2026, 4:33:19 pm"
+  "lastSyncedAt": "2026-11-06T11:18:17.894Z",
+  "lastUpdated": "6/11/2026, 4:48:17 pm"
 }
