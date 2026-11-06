@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 38291,
-  "applicationsSubmitted": 74,
+  "jobsScanned": 38621,
+  "applicationsSubmitted": 5370,
   "appliedRolesList": [
-    {
-      "company": "Xevyte Technologies",
-      "title": "Technical Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-technical-lead-xevyte-technologies-bangalore-rural-bengaluru-8-to-12-years-291026009453?src=directSearch&sid=17932579094121660&xp=9&px=1",
-      "time": "2026-10-29T07:12:32.683Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Crescendo Global",
-      "title": "P2P Process Design Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-p2p-process-design-lead-crescendo-global-leadership-hiring-india-pune-bengaluru-7-to-12-years-291026007370?src=directSearch&sid=17932579094121660&xp=10&px=1",
-      "time": "2026-10-29T07:12:44.139Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Crescendo Global",
-      "title": "Consultant -FPNA -Process Design - Finance Transformation-7 Years-Pune",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-consultant-fpna-process-design-finance-transformation-7-years-pune-crescendo-global-leadership-hiring-india-pune-bengaluru-7-to-12-years-291026004349?src=directSearch&sid=17932579094121660&xp=11&px=1",
-      "time": "2026-10-29T07:12:55.627Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "Program Manager",
@@ -4003,25 +3979,28 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T12:09:27.517Z"
+      "company": "Leading Client",
+      "title": "Senior Manager - Industrialization(Detail Parts)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-industrialization-detail-parts-delight-hr-services-pvt-ltd-bengaluru-16-to-18-years-061126920811?src=directSearch&sid=17939674353737978&xp=2&px=1",
+      "time": "2026-11-06T12:17:32.737Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T12:09:27.533Z"
+      "company": "Leading Client",
+      "title": "Senior Manager - Industrialisation (Detail Parts)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-industrialisation-detail-parts-delight-hr-services-pvt-ltd-bengaluru-16-to-18-years-061126920682?src=directSearch&sid=17939674353737978&xp=8&px=1",
+      "time": "2026-11-06T12:17:54.385Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T12:09:27.543Z"
+      "company": "HTS Solutions",
+      "title": "Project / Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-program-manager-hts-strategic-solutions-noida-pune-bengaluru-10-to-20-years-061126021110?src=directSearch&sid=17939675235496110&xp=13&px=1",
+      "time": "2026-11-06T12:19:05.087Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4780,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5367,
+  "totalVerifiedInHistory": 5370,
   "portalBreakdown": {
     "iimjobs": 832,
-    "naukri": 1180,
+    "naukri": 1183,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T12:09:18.993Z",
-  "lastUpdated": "6/11/2026, 5:39:18 pm"
+  "lastSyncedAt": "2026-11-06T12:34:38.189Z",
+  "lastUpdated": "6/11/2026, 6:04:38 pm"
 }
