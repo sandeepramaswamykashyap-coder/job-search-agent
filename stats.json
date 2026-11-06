@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 38621,
-  "applicationsSubmitted": 5370,
+  "jobsScanned": 38831,
+  "applicationsSubmitted": 77,
   "appliedRolesList": [
     {
       "company": "Happiest Minds Technologies",
@@ -4001,6 +4001,27 @@
       "url": "https://www.naukri.com/job-listings-project-program-manager-hts-strategic-solutions-noida-pune-bengaluru-10-to-20-years-061126021110?src=directSearch&sid=17939675235496110&xp=13&px=1",
       "time": "2026-11-06T12:19:05.087Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "time": "2026-11-06T12:45:48.834Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-11-06T12:45:48.848Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-06T12:45:48.859Z"
     }
   ],
   "failures": [
@@ -4780,6 +4801,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T12:34:38.189Z",
-  "lastUpdated": "6/11/2026, 6:04:38 pm"
+  "lastSyncedAt": "2026-11-06T12:45:44.523Z",
+  "lastUpdated": "6/11/2026, 6:15:44 pm"
 }
