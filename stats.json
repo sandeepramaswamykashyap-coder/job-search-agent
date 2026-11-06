@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 37051,
-  "applicationsSubmitted": 5365,
+  "jobsScanned": 37221,
+  "applicationsSubmitted": 72,
   "appliedRolesList": [
     {
       "company": "HCLTech",
@@ -4001,6 +4001,27 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-internal-audit-1744487?ref=sp&jobPos=1",
       "time": "2026-11-06T10:45:31.957Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "time": "2026-11-06T11:03:34.795Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-11-06T11:03:34.811Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-06T11:03:34.822Z"
     }
   ],
   "failures": [
@@ -4780,6 +4801,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T10:52:55.801Z",
-  "lastUpdated": "6/11/2026, 4:22:55 pm"
+  "lastSyncedAt": "2026-11-06T11:03:19.248Z",
+  "lastUpdated": "6/11/2026, 4:33:19 pm"
 }
