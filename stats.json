@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 37841,
-  "applicationsSubmitted": 5366,
+  "jobsScanned": 38231,
+  "applicationsSubmitted": 5367,
   "appliedRolesList": [
-    {
-      "company": "LanceSoft",
-      "title": "Supply Capability Lead",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-supply-capability-lead-lancesoft-bengaluru-6-to-10-years-291026009511?src=directSearch&sid=17932579094121660&xp=8&px=1",
-      "time": "2026-10-29T07:12:21.259Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Xevyte Technologies",
       "title": "Technical Lead",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/ust-servicenow-solution-and-technical-architect-1744518?ref=sp_br_prm&jobPos=1",
       "time": "2026-11-06T11:13:49.419Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "SG Lottery India",
+      "title": "Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-manager-sg-india-bengaluru-12-to-15-years-061126023768?src=directSearch&sid=17939654351438195&xp=1&px=1",
+      "time": "2026-11-06T11:44:09.175Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4759,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5366,
+  "totalVerifiedInHistory": 5367,
   "portalBreakdown": {
     "iimjobs": 832,
-    "naukri": 1179,
+    "naukri": 1180,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4780,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T11:44:08.144Z",
-  "lastUpdated": "6/11/2026, 5:14:08 pm"
+  "lastSyncedAt": "2026-11-06T12:09:18.993Z",
+  "lastUpdated": "6/11/2026, 5:39:18 pm"
 }
