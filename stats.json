@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 36641,
-  "applicationsSubmitted": 5362,
+  "jobsScanned": 36741,
+  "applicationsSubmitted": 69,
   "appliedRolesList": [
     {
       "company": "Orcapod Consulting Service s",
@@ -4001,6 +4001,27 @@
       "url": "https://www.naukri.com/job-listings-smo-lead-hcltech-pune-bengaluru-20-to-25-years-061126020614?src=directSearch&sid=17939594698696363&xp=1&px=1",
       "time": "2026-11-06T10:04:43.877Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Project Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "time": "2026-11-06T10:27:24.240Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-11-06T10:27:24.255Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-06T10:27:24.265Z"
     }
   ],
   "failures": [
