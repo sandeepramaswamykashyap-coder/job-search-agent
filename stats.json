@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 37751,
-  "applicationsSubmitted": 73,
+  "jobsScanned": 37841,
+  "applicationsSubmitted": 5366,
   "appliedRolesList": [
     {
       "company": "LanceSoft",
@@ -4001,27 +4001,6 @@
       "url": "https://www.iimjobs.com/j/ust-servicenow-solution-and-technical-architect-1744518?ref=sp_br_prm&jobPos=1",
       "time": "2026-11-06T11:13:49.419Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T11:29:32.411Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T11:29:32.427Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T11:29:32.438Z"
     }
   ],
   "failures": [
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T11:29:08.361Z",
-  "lastUpdated": "6/11/2026, 4:59:08 pm"
+  "lastSyncedAt": "2026-11-06T11:44:08.144Z",
+  "lastUpdated": "6/11/2026, 5:14:08 pm"
 }
