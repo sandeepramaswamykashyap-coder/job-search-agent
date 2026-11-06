@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 35601,
-  "applicationsSubmitted": 65,
+  "jobsScanned": 35801,
+  "applicationsSubmitted": 5358,
   "appliedRolesList": [
     {
       "company": "Honeywell Technologies",
@@ -4001,27 +4001,6 @@
       "url": "https://www.naukri.com/job-listings-sap-controls-senior-manager-pwc-hyderabad-gurugram-bengaluru-12-to-18-years-061126015197?src=directSearch&sid=1793955102505620&xp=6&px=1",
       "time": "2026-11-06T08:52:12.951Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T09:20:33.427Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T09:20:33.442Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T09:20:33.453Z"
     }
   ],
   "failures": [
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T09:20:13.198Z",
-  "lastUpdated": "6/11/2026, 2:50:13 pm"
+  "lastSyncedAt": "2026-11-06T09:35:15.789Z",
+  "lastUpdated": "6/11/2026, 3:05:15 pm"
 }
