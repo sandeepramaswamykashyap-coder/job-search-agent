@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 34476,
-  "applicationsSubmitted": 61,
+  "jobsScanned": 34626,
+  "applicationsSubmitted": 5354,
   "appliedRolesList": [
     {
       "company": "Amor Management Consultants - India’s Premiere Auto Talent Hiring Specialists",
@@ -4001,27 +4001,6 @@
       "url": "https://jobs.ashbyhq.com/uipath/1c7e6d21-60ec-4d93-8c8f-b3dbe40bcb1d",
       "time": "2026-11-06T07:49:42.478Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T08:05:36.201Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T08:05:36.216Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T08:05:36.226Z"
     }
   ],
   "failures": [
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T08:05:06.842Z",
-  "lastUpdated": "6/11/2026, 1:35:06 pm"
+  "lastSyncedAt": "2026-11-06T08:20:19.186Z",
+  "lastUpdated": "6/11/2026, 1:50:19 pm"
 }
