@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 35066,
-  "applicationsSubmitted": 64,
+  "jobsScanned": 35391,
+  "applicationsSubmitted": 5358,
   "appliedRolesList": [
-    {
-      "company": "Palo Alto Networks",
-      "title": "Manager, Program Management (Contractor)\nManager, Program Management (Contractor) with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475163729&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T06:09:38.445Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Honeywell Technologies",
       "title": "Director PMO\nDirector PMO with verification",
@@ -4003,25 +3995,12 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T08:44:48.070Z"
-    },
-    {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T08:44:48.086Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T08:44:48.098Z"
+      "company": "PwC",
+      "title": "SAP Controls Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-controls-senior-manager-pwc-hyderabad-gurugram-bengaluru-12-to-18-years-061126015197?src=directSearch&sid=1793955102505620&xp=6&px=1",
+      "time": "2026-11-06T08:52:12.951Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4780,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5357,
+  "totalVerifiedInHistory": 5358,
   "portalBreakdown": {
     "iimjobs": 829,
-    "naukri": 1176,
+    "naukri": 1177,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T08:44:24.296Z",
-  "lastUpdated": "6/11/2026, 2:14:24 pm"
+  "lastSyncedAt": "2026-11-06T09:09:34.057Z",
+  "lastUpdated": "6/11/2026, 2:39:34 pm"
 }
