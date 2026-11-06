@@ -125,7 +125,7 @@ async function refreshNaukriCV(page) {
   }
 }
 
-async function runNaukriE2E(page, context, maxApplications = 20) {
+async function runNaukriE2E(page, context, maxApplications = 50) {
   console.log('\n======================================================================');
   console.log('🇮🇳 [NAUKRI E2E] STARTING END-TO-END NAUKRI APPLICATIONS');
   console.log('======================================================================');

@@ -76,7 +76,7 @@ async function ensureIIMJobsLoggedIn(page) {
   }
 }
 
-async function runIIMJobsE2E(page, context, maxApplications = 15) {
+async function runIIMJobsE2E(page, context, maxApplications = 30) {
   console.log('\n======================================================================');
   console.log('🎓 [IIMJOBS E2E] STARTING END-TO-END IIMJOBS & HIRIST APPLICATIONS');
   console.log('======================================================================');
