@@ -1,15 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5310,
+  "applicationsSubmitted": 5311,
   "appliedRolesList": [
-    {
-      "company": "Lam Research",
-      "title": "Functional Quality Program Manager\nFunctional Quality Program Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477050684&f_AL=true&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=75",
-      "time": "2026-10-29T00:13:09.001Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "LSEG",
       "title": "Technical Delivery Manager",
@@ -4001,6 +3993,14 @@
       "url": "https://www.iimjobs.com/j/sap-service-delivery-manager-1722918?ref=sp&jobPos=15",
       "time": "2026-11-06T00:26:35.745Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Relationship Management - Financial Institutions Group",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-relationship-management-financial-institutions-group-1743755?ref=sp_prm&jobPos=7",
+      "time": "2026-11-06T01:01:24.738Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5310,
+  "totalVerifiedInHistory": 5311,
   "portalBreakdown": {
-    "iimjobs": 819,
+    "iimjobs": 820,
     "naukri": 1174,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T00:26:35.798Z",
-  "lastUpdated": "6/11/2026, 5:56:35 am"
+  "lastSyncedAt": "2026-11-06T01:01:24.791Z",
+  "lastUpdated": "6/11/2026, 6:31:24 am"
 }
