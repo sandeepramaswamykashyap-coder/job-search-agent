@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-06T16:40:20.962Z",
+  "lastUpdated": "2026-11-06T16:42:52.949Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2578,7 +2578,7 @@
       "company": "Oracle India",
       "title": "Senior Director - Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:21.621Z",
-      "daysElapsed": 28,
+      "daysElapsed": 29,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2589,7 +2589,7 @@
       "company": "Akamai Technologies India",
       "title": "Director - Global Service Delivery & Operations",
       "dispatchedAt": "2026-10-08T16:40:30.463Z",
-      "daysElapsed": 28,
+      "daysElapsed": 29,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2600,7 +2600,7 @@
       "company": "Akamai Technologies India",
       "title": "Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:39.350Z",
-      "daysElapsed": 28,
+      "daysElapsed": 29,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2611,7 +2611,7 @@
       "company": "Optum Global Solutions",
       "title": "Senior Vice President - Health Care Delivery Operations",
       "dispatchedAt": "2026-10-08T16:40:48.381Z",
-      "daysElapsed": 28,
+      "daysElapsed": 29,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2622,7 +2622,7 @@
       "company": "Optum Global Solutions",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:57.273Z",
-      "daysElapsed": 28,
+      "daysElapsed": 29,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2633,7 +2633,7 @@
       "company": "Carelon Global Solutions",
       "title": "Chief Operating Officer & Head of Delivery",
       "dispatchedAt": "2026-10-08T16:41:05.965Z",
-      "daysElapsed": 28,
+      "daysElapsed": 29,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -3031,7 +3031,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/isaacmasood/",
       "dispatchedAt": "2026-08-20T16:40:46.459Z",
-      "daysElapsed": 77,
+      "daysElapsed": 78,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
