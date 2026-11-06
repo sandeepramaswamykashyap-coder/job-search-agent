@@ -1,23 +1,7 @@
 {
   "jobsScanned": 33466,
-  "applicationsSubmitted": 5316,
+  "applicationsSubmitted": 5318,
   "appliedRolesList": [
-    {
-      "company": "Quess Corp Limited",
-      "title": "Technical Support Team Lead\nTechnical Support Team Lead with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4484411937&keywords=ServiceNow%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=25",
-      "time": "2026-10-29T00:50:45.356Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Prowebmatrix",
-      "title": "Personal Secretary\nPersonal Secretary with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4477717372&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T01:23:23.982Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mastercard",
       "title": "Manager, Account Management\nManager, Account Management with verification",
@@ -4001,6 +3985,22 @@
       "url": "https://www.iimjobs.com/j/quest-global-technical-program-manager-semiconductor-equipment-software-1744158?ref=sp_br&jobPos=15",
       "time": "2026-11-06T05:38:15.026Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager - Banking Transformation - PSU Banking",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-banking-transformation-psu-banking-1744380?ref=sp&jobPos=7",
+      "time": "2026-11-06T06:11:42.529Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Encube Ethicals - Senior Manager - Alliance Management & Portfolio",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/encube-ethicals-senior-manager-alliance-management-and-portfolio-1744389?ref=sp&jobPos=2",
+      "time": "2026-11-06T06:12:56.616Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4719,9 +4719,9 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5316,
+  "totalVerifiedInHistory": 5318,
   "portalBreakdown": {
-    "iimjobs": 825,
+    "iimjobs": 827,
     "naukri": 1174,
     "weworkremotely": 15,
     "remoteok": 8,
@@ -4740,6 +4740,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T05:38:15.081Z",
-  "lastUpdated": "6/11/2026, 11:08:15 am"
+  "lastSyncedAt": "2026-11-06T06:12:56.671Z",
+  "lastUpdated": "6/11/2026, 11:42:56 am"
 }
