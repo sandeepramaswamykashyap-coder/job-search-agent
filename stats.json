@@ -1,31 +1,7 @@
 {
-  "jobsScanned": 36741,
-  "applicationsSubmitted": 69,
+  "jobsScanned": 37051,
+  "applicationsSubmitted": 5365,
   "appliedRolesList": [
-    {
-      "company": "Orcapod Consulting Service s",
-      "title": "Hiring For Delivery and Account manager-WFH",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-hiring-for-delivery-and-account-manager-wfh-orcapod-consulting-services-hyderabad-bengaluru-10-to-16-years-310826022569?src=directSearch&sid=17932560926975213&xp=1&px=1",
-      "time": "2026-10-29T06:41:46.532Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "KPI Partners",
-      "title": "Delivery Manager-Azure Data Engineering",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-delivery-manager-azure-data-engineering-kpi-partners-hyderabad-pune-bengaluru-10-to-20-years-291026007775?src=directSearch&sid=17932560926975213&xp=4&px=1",
-      "time": "2026-10-29T06:42:17.785Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Test Yantra",
-      "title": "Test Delivery Manager",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-test-delivery-manager-test-yantra-bengaluru-8-to-10-years-281026011172?src=directSearch&sid=17932560926975213&xp=10&px=1",
-      "time": "2026-10-29T06:42:35.651Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "HCLTech",
       "title": "HCL Tech Technical Lead   SAP Finance and Costing",
@@ -4003,25 +3979,28 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Spiralyze",
-      "title": "Project Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "time": "2026-11-06T10:27:24.240Z"
+      "company": "Carnation Infotech",
+      "title": "Sr. Salesforce Functional Consultant | 6-month contract | Corp 2 Corp",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sr-salesforce-functional-consultant-6-month-contract-corp-2-corp-carnation-infotech-bengaluru-8-to-13-years-061126020712?src=directSearch&sid=17939617432612765&xp=8&px=1",
+      "time": "2026-11-06T10:42:47.257Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Renewable Careers",
-      "title": "Graduate Analyst",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
-      "time": "2026-11-06T10:27:24.255Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "UST - Technical Program Manager - ERP/HRTech",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ust-technical-program-manager-erp-hrtech-1744490?ref=sp_br_prm&jobPos=1",
+      "time": "2026-11-06T10:45:07.260Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/1925594/",
-      "time": "2026-11-06T10:27:24.265Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Internal Audit",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-internal-audit-1744487?ref=sp&jobPos=1",
+      "time": "2026-11-06T10:45:31.957Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4780,10 +4759,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5362,
+  "totalVerifiedInHistory": 5365,
   "portalBreakdown": {
-    "iimjobs": 829,
-    "naukri": 1178,
+    "iimjobs": 831,
+    "naukri": 1179,
     "weworkremotely": 20,
     "remoteok": 8,
     "direct_portal_greenhouse": 1384,
@@ -4801,6 +4780,6 @@
     "indeed": 93,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-06T10:27:16.142Z",
-  "lastUpdated": "6/11/2026, 3:57:16 pm"
+  "lastSyncedAt": "2026-11-06T10:52:55.801Z",
+  "lastUpdated": "6/11/2026, 4:22:55 pm"
 }
