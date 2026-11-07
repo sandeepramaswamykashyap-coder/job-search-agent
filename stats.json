@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 42611,
-  "applicationsSubmitted": 5381,
+  "jobsScanned": 42623,
+  "applicationsSubmitted": 9,
   "appliedRolesList": [
     {
       "company": "IIMJobs Verified Employer",
@@ -4001,6 +4001,20 @@
       "url": "https://www.naukri.com/job-listings-senior-it-delivery-manager-life-sciences-pharmaceuticals-epam-systems-hyderabad-chennai-bengaluru-18-to-20-years-040926019631?src=directSearch&sid=1794025473292590&xp=5&px=1",
       "time": "2026-11-07T04:25:02.408Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/1925594/",
+      "time": "2026-11-07T04:54:47.712Z"
+    },
+    {
+      "company": "Renewable Careers",
+      "title": "Graduate Analyst",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "time": "2026-11-07T04:56:55.253Z"
     }
   ],
   "failures": [
