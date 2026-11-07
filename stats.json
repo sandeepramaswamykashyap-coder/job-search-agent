@@ -1,47 +1,7 @@
 {
-  "jobsScanned": 42235,
-  "applicationsSubmitted": 5376,
+  "jobsScanned": 42414,
+  "applicationsSubmitted": 5381,
   "appliedRolesList": [
-    {
-      "company": "Happiest Minds Technologies",
-      "title": "MANAGER PEOPLE PRACTICE - Compensation and Benefits\nMANAGER PEOPLE PRACTICE - Compensation and Benefits with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T07:20:18.580Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Client of EDGE",
-      "title": "Principal Consultant- Financial Services",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-principal-consultant-financial-services-edge-executive-search-pune-bengaluru-mumbai-all-areas-15-to-24-years-291026012616?src=directSearch&sid=17932600486886995&xp=11&px=1",
-      "time": "2026-10-29T07:47:55.341Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "PharmEasy - Head - Operational Excellence",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/pharmeasy-head-operational-excellence-1742721?ref=sp_br&jobPos=1",
-      "time": "2026-10-29T07:52:05.294Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Tyroo",
-      "title": "Client Partner - Tyroo.TV\nClient Partner - Tyroo.TV with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4475843316&keywords=Senior%20Operations%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T07:53:26.427Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Linkterra Dynamics",
-      "title": "VP - US Mortgage (Title Operations)",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-vp-us-mortgage-title-operations-linkterra-dynamics-bengaluru-11-to-18-years-291026014337?src=directSearch&sid=17932622531206195&xp=8&px=1",
-      "time": "2026-10-29T08:24:27.235Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Cvent - Senior Product Manager - Salesforce",
@@ -4001,6 +3961,46 @@
       "url": "https://jobs.ashbyhq.com/suno/afa818b7-1f52-48e6-bf4d-71593d314e5c",
       "time": "2026-11-07T04:05:15.965Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Global Head of GTM Enablement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/2f9100e9-655b-4244-9dab-9a37c153af6a",
+      "time": "2026-11-07T04:11:30.742Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "VP of Services, Customer Success & Support",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/068e9b49-e22b-493c-824f-0cc52840c80c",
+      "time": "2026-11-07T04:18:10.520Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Business Development Manager-Aviation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-business-development-manager-aviation-delight-hr-services-pvt-ltd-bengaluru-5-to-10-years-061126920508?src=directSearch&sid=17940251699931617&xp=9&px=1",
+      "time": "2026-11-07T04:20:08.222Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Kochasoft",
+      "title": "Senior Data & Analytics- Operation Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-data-analytics-operation-lead-kochasoft-bengaluru-10-to-20-years-051126038659?src=directSearch&sid=17940253894149714&xp=1&px=1",
+      "time": "2026-11-07T04:23:23.626Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Epam Systems",
+      "title": "Senior IT Delivery Manager - Life Sciences/Pharmaceuticals",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-it-delivery-manager-life-sciences-pharmaceuticals-epam-systems-hyderabad-chennai-bengaluru-18-to-20-years-040926019631?src=directSearch&sid=1794025473292590&xp=5&px=1",
+      "time": "2026-11-07T04:25:02.408Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4767,10 +4767,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5376,
+  "totalVerifiedInHistory": 5381,
   "portalBreakdown": {
     "iimjobs": 832,
-    "naukri": 1185,
+    "naukri": 1188,
     "weworkremotely": 20,
     "remoteok": 9,
     "direct_portal_greenhouse": 1384,
@@ -4780,7 +4780,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 662,
+    "direct_portal_ashby": 664,
     "ashby": 359,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4788,6 +4788,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-07T04:09:27.859Z",
-  "lastUpdated": "7/11/2026, 9:39:27 am"
+  "lastSyncedAt": "2026-11-07T04:27:43.543Z",
+  "lastUpdated": "7/11/2026, 9:57:43 am"
 }
