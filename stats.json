@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 42126,
-  "applicationsSubmitted": 0,
+  "jobsScanned": 42203,
+  "applicationsSubmitted": 5376,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "JP Morgan Chase - Executive Director - Global Confirmations & RCO Data Exchange",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/jp-morgan-chase-executive-director-global-confirmations-and-rco-data-exchange-operations-1742697?ref=sp_br&jobPos=7",
-      "time": "2026-10-29T07:17:35.877Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Diya Ghar",
-      "title": "FUNDRAISING MANAGER (Retail & Institutional Partnerships)\nFUNDRAISING MANAGER (Retail & Institutional Partnerships) with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4479511517&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T07:19:30.312Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Happiest Minds Technologies",
       "title": "MANAGER PEOPLE PRACTICE - Compensation and Benefits\nMANAGER PEOPLE PRACTICE - Compensation and Benefits with verification",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-technical-delivery-manager-exl-pune-gurugram-bengaluru-12-to-16-years-061126025929?src=directSearch&sid=17939785025446094&xp=12&px=1",
       "time": "2026-11-06T15:22:21.605Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-07T03:46:01.163Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Senior Manager, Workplace Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/afa818b7-1f52-48e6-bf4d-71593d314e5c",
+      "time": "2026-11-07T04:05:15.965Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4756,15 +4756,23 @@
       "region": "Worldwide",
       "portal": "weworkremotely",
       "scannedAt": "2026-11-06T07:13:22.944Z"
+    },
+    {
+      "title": "Agile Program Manager",
+      "company": "Toptal",
+      "link": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "region": "Anywhere in the World",
+      "portal": "remoteok",
+      "scannedAt": "2026-11-07T03:46:01.163Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5374,
+  "totalVerifiedInHistory": 5376,
   "portalBreakdown": {
     "iimjobs": 832,
     "naukri": 1185,
     "weworkremotely": 20,
-    "remoteok": 8,
+    "remoteok": 9,
     "direct_portal_greenhouse": 1384,
     "direct_portal_generic": 15,
     "direct_portal_workday": 4,
@@ -4772,7 +4780,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 661,
+    "direct_portal_ashby": 662,
     "ashby": 359,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4780,6 +4788,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-07T03:41:19.883Z",
-  "lastUpdated": "7/11/2026, 9:11:19 am"
+  "lastSyncedAt": "2026-11-07T04:05:16.027Z",
+  "lastUpdated": "7/11/2026, 9:35:16 am"
 }
