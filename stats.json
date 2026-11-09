@@ -1,12 +1,12 @@
 {
   "jobsScanned": 5920,
-  "applicationsSubmitted": 140,
-  "totalVerifiedInHistory": 140,
+  "applicationsSubmitted": 137,
+  "totalVerifiedInHistory": 143,
   "portalBreakdown": {
     "direct_portal_lever": 1,
     "weworkremotely": 6,
     "remoteok": 3,
-    "direct_portal_ashby": 130
+    "direct_portal_ashby": 133
   },
   "appliedRolesList": [
     {
@@ -1104,34 +1104,10 @@
       "url": "https://jobs.ashbyhq.com/openai/c0e1f65b-4731-48b3-ac60-93a269266494",
       "time": "2026-11-09T09:54:19.129Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Character",
-      "title": "Technical Program Manager, Model Alignment and Deployment",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/character/091a6ad6-75dd-4dd4-9439-7e1e9d13970b",
-      "time": "2026-11-09T09:54:46.171Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Sentry",
-      "title": "Senior Manager, Support Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/sentry/2b5e1ac5-9709-4280-9ceb-51bff95328e3",
-      "time": "2026-11-09T09:54:50.239Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Staff Technical Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/36613609-2dbd-42d9-8433-60601145d991",
-      "time": "2026-11-09T09:54:52.431Z",
-      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T09:54:52.521Z",
-  "lastUpdated": "9/11/2026, 3:24:52 pm",
+  "lastSyncedAt": "2026-11-09T09:54:19.340Z",
+  "lastUpdated": "9/11/2026, 3:24:19 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
