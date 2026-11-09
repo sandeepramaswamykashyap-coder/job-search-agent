@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 5902,
-  "applicationsSubmitted": 64,
-  "totalVerifiedInHistory": 64,
+  "jobsScanned": 5911,
+  "applicationsSubmitted": 75,
+  "totalVerifiedInHistory": 75,
   "portalBreakdown": {
     "direct_portal_lever": 1,
     "weworkremotely": 6,
     "remoteok": 3,
-    "direct_portal_ashby": 54
+    "direct_portal_ashby": 65
   },
   "appliedRolesList": [
     {
@@ -520,10 +520,98 @@
       "url": "https://jobs.ashbyhq.com/WRITER/993aa857-1c36-4edb-b230-fc1b49f70774",
       "time": "2026-11-09T09:15:55.489Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
+      "time": "2026-11-09T09:16:48.589Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Business Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/225b43d8-ef14-4082-b16e-005c74b42957",
+      "time": "2026-11-09T09:16:55.280Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Support Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
+      "time": "2026-11-09T09:17:08.213Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (West)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/9e3b63e1-2a36-4941-9b76-90124cc9d92f",
+      "time": "2026-11-09T09:17:14.239Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior RPA Developer",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/7eb9a1c3-a53e-4052-8ba8-da517476c929",
+      "time": "2026-11-09T09:17:54.142Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
+      "time": "2026-11-09T09:17:55.852Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Forward Deployed Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
+      "time": "2026-11-09T09:18:00.608Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Supply Chain Program Manager (SCPM) - AI Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c3458423-2cd6-40c0-bb5d-a5c3726a1d08",
+      "time": "2026-11-09T09:18:07.655Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Staff Technical Program Manager, Machine Learning",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "time": "2026-11-09T09:18:08.931Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Senior Manager, Workplace Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/afa818b7-1f52-48e6-bf4d-71593d314e5c",
+      "time": "2026-11-09T09:18:09.118Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alloy",
+      "title": "Channel Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/5c335d0c-0c96-4b85-a913-db4ce4f02651/544c70cf-c016-4ba4-9d6d-ecbcb290e8f4",
+      "time": "2026-11-09T09:18:16.508Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T09:15:55.568Z",
-  "lastUpdated": "9/11/2026, 2:45:55 pm",
+  "lastSyncedAt": "2026-11-09T09:18:16.520Z",
+  "lastUpdated": "9/11/2026, 2:48:16 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
