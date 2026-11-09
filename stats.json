@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 5902,
-  "applicationsSubmitted": 85,
-  "totalVerifiedInHistory": 85,
+  "jobsScanned": 5920,
+  "applicationsSubmitted": 86,
+  "totalVerifiedInHistory": 86,
   "portalBreakdown": {
     "direct_portal_lever": 1,
     "weworkremotely": 6,
     "remoteok": 3,
-    "direct_portal_ashby": 75
+    "direct_portal_ashby": 76
   },
   "appliedRolesList": [
     {
@@ -688,10 +688,18 @@
       "url": "https://jobs.ashbyhq.com/openai/6351bb6b-992d-4c4e-983d-612d91ede046",
       "time": "2026-11-09T09:23:56.587Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Support Program Manager, Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/66b7c776-aa50-4e86-aec1-5c8e07868522",
+      "time": "2026-11-09T09:25:58.388Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T09:24:51.746Z",
-  "lastUpdated": "9/11/2026, 2:54:51 pm",
+  "lastSyncedAt": "2026-11-09T09:26:17.589Z",
+  "lastUpdated": "9/11/2026, 2:56:17 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
