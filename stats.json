@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 5911,
-  "applicationsSubmitted": 82,
-  "totalVerifiedInHistory": 82,
+  "jobsScanned": 5920,
+  "applicationsSubmitted": 58,
+  "totalVerifiedInHistory": 58,
   "portalBreakdown": {
     "direct_portal_lever": 1,
     "weworkremotely": 6,
     "remoteok": 3,
-    "direct_portal_ashby": 72
+    "direct_portal_ashby": 48
   },
   "appliedRolesList": [
     {
@@ -472,202 +472,10 @@
       "url": "https://jobs.ashbyhq.com/baseten/7d9d5a1f-3834-434e-b22f-4bd62317be3c",
       "time": "2026-11-09T09:14:08.482Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Large Enterprise (FSI)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/10208545-58dd-4cdb-91e1-69b1c2cabe3c",
-      "time": "2026-11-09T09:14:39.322Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (Central)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc",
-      "time": "2026-11-09T09:14:42.280Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, France",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
-      "time": "2026-11-09T09:14:53.976Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Technical Program Manager, AI Delivery (Dammam)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
-      "time": "2026-11-09T09:14:54.280Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Partner Director, McKinsey Alliance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/28c96920-a412-47c0-88f8-342790d779ff",
-      "time": "2026-11-09T09:15:50.714Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "AI transformation lead (East)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/993aa857-1c36-4edb-b230-fc1b49f70774",
-      "time": "2026-11-09T09:15:55.489Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
-      "time": "2026-11-09T09:16:48.589Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Modal",
-      "title": "Business Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/modal/225b43d8-ef14-4082-b16e-005c74b42957",
-      "time": "2026-11-09T09:16:55.280Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Support Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
-      "time": "2026-11-09T09:17:08.213Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (West)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/9e3b63e1-2a36-4941-9b76-90124cc9d92f",
-      "time": "2026-11-09T09:17:14.239Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Senior RPA Developer",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/7eb9a1c3-a53e-4052-8ba8-da517476c929",
-      "time": "2026-11-09T09:17:54.142Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
-      "time": "2026-11-09T09:17:55.852Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Baseten",
-      "title": "Technical Program Manager, Forward Deployed Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
-      "time": "2026-11-09T09:18:00.608Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Supply Chain Program Manager (SCPM) - AI Infrastructure",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c3458423-2cd6-40c0-bb5d-a5c3726a1d08",
-      "time": "2026-11-09T09:18:07.655Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cohere",
-      "title": "Staff Technical Program Manager, Machine Learning",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
-      "time": "2026-11-09T09:18:08.931Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Suno",
-      "title": "Senior Manager, Workplace Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/suno/afa818b7-1f52-48e6-bf4d-71593d314e5c",
-      "time": "2026-11-09T09:18:09.118Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alloy",
-      "title": "Channel Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/5c335d0c-0c96-4b85-a913-db4ce4f02651/544c70cf-c016-4ba4-9d6d-ecbcb290e8f4",
-      "time": "2026-11-09T09:18:16.508Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Senior Manager, Product Design",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/7d9347f3-f228-48bd-bab7-4390abbcb8c4",
-      "time": "2026-11-09T09:18:32.953Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Financial Reporting",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/201224fb-6d5f-4e3a-b183-25931d5c776d",
-      "time": "2026-11-09T09:18:51.448Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Plaid",
-      "title": "Workplace Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/plaid/d2a86680-506f-4388-8c48-c817e8872730",
-      "time": "2026-11-09T09:19:10.640Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Support Delivery",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
-      "time": "2026-11-09T09:19:34.410Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Cyber Operations Lead, Critical Harm Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/60089c12-762c-4369-9a7c-94f8959343a3",
-      "time": "2026-11-09T09:20:16.163Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Technical Program Manager II",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/0d2219cc-57ea-4c9e-885d-215b2469304a",
-      "time": "2026-11-09T09:20:37.255Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uipath",
-      "title": "Technical Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
-      "time": "2026-11-09T09:20:39.245Z",
-      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T09:21:06.162Z",
-  "lastUpdated": "9/11/2026, 2:51:06 pm",
+  "lastSyncedAt": "2026-11-09T09:22:23.935Z",
+  "lastUpdated": "9/11/2026, 2:52:24 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
