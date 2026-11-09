@@ -1,12 +1,12 @@
 {
   "jobsScanned": 5902,
-  "applicationsSubmitted": 40,
-  "totalVerifiedInHistory": 40,
+  "applicationsSubmitted": 64,
+  "totalVerifiedInHistory": 64,
   "portalBreakdown": {
     "direct_portal_lever": 1,
     "weworkremotely": 6,
     "remoteok": 3,
-    "direct_portal_ashby": 30
+    "direct_portal_ashby": 54
   },
   "appliedRolesList": [
     {
@@ -328,10 +328,202 @@
       "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
       "time": "2026-11-09T09:08:00.970Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Anyscale",
+      "title": "AWS & Neo Cloud Alliances Senior Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/anyscale/236b71c1-b5b0-4d5e-b17a-3e1bc4966a6a",
+      "time": "2026-11-09T09:09:14.671Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Events & Field Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
+      "time": "2026-11-09T09:09:15.652Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Model Performance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e",
+      "time": "2026-11-09T09:09:27.459Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/fbb68247-eb54-4ad1-94b4-26e0dc24fd23",
+      "time": "2026-11-09T09:09:29.027Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Deal Desk",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/77d4c84e-e1e6-444b-8cbd-0d34a7235639",
+      "time": "2026-11-09T09:09:30.495Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native New Business",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/07fb9365-8e80-48fe-86df-08d60dd46f43",
+      "time": "2026-11-09T09:10:21.037Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/e3e6ddf1-2b57-4580-8564-e823d7fed763",
+      "time": "2026-11-09T09:10:40.149Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategy & Operations Lead — SEA & ANZ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/b1a5980d-1c52-4af5-8596-5951b584ca37",
+      "time": "2026-11-09T09:11:46.617Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Senior Technical Program Manager, AI Platform",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/278476b1-87c5-461f-ad7e-950cd31e5f31",
+      "time": "2026-11-09T09:11:51.287Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Capacity Analytics & Tooling",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5cc72bc7-e6a0-40e0-9f60-23474cd9acdb",
+      "time": "2026-11-09T09:11:53.549Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Large Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/ea738090-a7e0-41bd-b619-afeff9fd18e0",
+      "time": "2026-11-09T09:12:33.953Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Applied AI Delivery Lead - Remote in AMER",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2c531790-726c-4d39-b3bd-900c59a09a4d",
+      "time": "2026-11-09T09:12:34.805Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Livekit",
+      "title": "Senior Product Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
+      "time": "2026-11-09T09:12:53.635Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Customer Experience Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803",
+      "time": "2026-11-09T09:13:15.947Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Cyber",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e8cb6c67-0b73-4be8-a35c-775c99c1c638",
+      "time": "2026-11-09T09:13:20.296Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - Europe",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/2f6d29d9-1e3e-43a6-8b92-8ca5a1b23ede",
+      "time": "2026-11-09T09:13:24.923Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Program Manager - Field CTOs - US",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/1c0284d5-7426-478d-bbf2-b8b59aec00b2",
+      "time": "2026-11-09T09:14:08.120Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/7d9d5a1f-3834-434e-b22f-4bd62317be3c",
+      "time": "2026-11-09T09:14:08.482Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Large Enterprise (FSI)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/10208545-58dd-4cdb-91e1-69b1c2cabe3c",
+      "time": "2026-11-09T09:14:39.322Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc",
+      "time": "2026-11-09T09:14:42.280Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, France",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
+      "time": "2026-11-09T09:14:53.976Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "time": "2026-11-09T09:14:54.280Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, McKinsey Alliance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/28c96920-a412-47c0-88f8-342790d779ff",
+      "time": "2026-11-09T09:15:50.714Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/993aa857-1c36-4edb-b230-fc1b49f70774",
+      "time": "2026-11-09T09:15:55.489Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T09:09:50.248Z",
-  "lastUpdated": "9/11/2026, 2:39:50 pm",
+  "lastSyncedAt": "2026-11-09T09:15:55.568Z",
+  "lastUpdated": "9/11/2026, 2:45:55 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
