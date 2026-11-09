@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 43797,
-  "applicationsSubmitted": 5389,
+  "jobsScanned": 43815,
+  "applicationsSubmitted": 8,
   "appliedRolesList": [
     {
       "company": "Biocon Biologics",
@@ -4796,6 +4796,6 @@
     "indeed": 95,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-09T07:55:06.586Z",
-  "lastUpdated": "9/11/2026, 1:25:06 pm"
+  "lastSyncedAt": "2026-11-09T07:57:08.035Z",
+  "lastUpdated": "9/11/2026, 1:27:08 pm"
 }
