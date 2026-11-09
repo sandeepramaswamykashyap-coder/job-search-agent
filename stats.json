@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 43475,
-  "applicationsSubmitted": 7,
+  "jobsScanned": 43511,
+  "applicationsSubmitted": 5388,
   "appliedRolesList": [
     {
       "company": "Amazon",
@@ -4796,6 +4796,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-09T07:16:54.149Z",
-  "lastUpdated": "9/11/2026, 12:46:54 pm"
+  "lastSyncedAt": "2026-11-09T07:19:57.040Z",
+  "lastUpdated": "9/11/2026, 12:49:57 pm"
 }
