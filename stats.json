@@ -1,39 +1,7 @@
 {
-  "jobsScanned": 42757,
-  "applicationsSubmitted": 5384,
+  "jobsScanned": 43351,
+  "applicationsSubmitted": 7,
   "appliedRolesList": [
-    {
-      "company": "alt.f coworking",
-      "title": "Senior Sales Manager\nSenior Sales Manager with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4465039236&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T09:00:44.354Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Deloitte",
-      "title": "Deloitte USI - Commercial and Contracts COE – Specialist Asst Manager | Bengaluru\nDeloitte USI - Commercial and Contracts COE – Specialist Asst Manager | Bengaluru with verification",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4427143937&f_AL=true&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T09:01:32.835Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "ReSource Pro",
-      "title": "Manager, Service Delivery\nManager, Service Delivery",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4465039236&keywords=Senior%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T09:02:20.983Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Pivut",
-      "title": "Operations Associate\nOperations Associate",
-      "portal": "linkedin_easy_apply",
-      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4455782865&keywords=Program%20Manager&location=Bengaluru&origin=JOB_SEARCH_PAGE_JOB_FILTER&start=150",
-      "time": "2026-10-29T09:03:24.218Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Amazon",
       "title": "Sr. Program Manager, RBS Returns Reduction\nSr. Program Manager, RBS Returns Reduction with verification",
@@ -4001,6 +3969,38 @@
       "url": "https://jobs.ashbyhq.com/cognition/6146f09d-285d-4538-be40-e1f3ffcdecd2",
       "time": "2026-11-09T06:45:55.297Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tech Mahindra",
+      "title": "Program Manager/Scrum Master",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-scrum-master-tech-mahindra-hyderabad-chennai-bengaluru-5-to-8-years-071126008583?src=directSearch&sid=17942070563965537&xp=10&px=1",
+      "time": "2026-11-09T06:51:24.922Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "NetM Corporate Solutions",
+      "title": "Sales Delivery Manager / Sales Head",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sales-delivery-manager-sales-head-netm-corporate-solutions-bengaluru-8-to-12-years-071126006817?src=directSearch&sid=17942074537163649&xp=11&px=1",
+      "time": "2026-11-09T06:57:59.239Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - P2P Operations & AP Regulatory",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-manager-p2p-operations-and-ap-regulatory-1744611?ref=sp_prm&jobPos=3",
+      "time": "2026-11-09T07:00:34.287Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Deluxe - Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/deluxe-program-manager-1744281?ref=sp&jobPos=18",
+      "time": "2026-11-09T07:01:30.923Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4775,10 +4775,10 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5384,
+  "totalVerifiedInHistory": 5388,
   "portalBreakdown": {
-    "iimjobs": 832,
-    "naukri": 1188,
+    "iimjobs": 834,
+    "naukri": 1190,
     "weworkremotely": 21,
     "remoteok": 9,
     "direct_portal_greenhouse": 1384,
@@ -4796,6 +4796,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-09T06:45:55.521Z",
-  "lastUpdated": "9/11/2026, 12:15:55 pm"
+  "lastSyncedAt": "2026-11-09T07:09:08.460Z",
+  "lastUpdated": "9/11/2026, 12:39:08 pm"
 }
