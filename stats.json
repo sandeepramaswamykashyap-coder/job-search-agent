@@ -1,23 +1,7 @@
 {
-  "jobsScanned": 42672,
-  "applicationsSubmitted": 5381,
+  "jobsScanned": 42739,
+  "applicationsSubmitted": 5383,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Cvent - Senior Product Manager - Salesforce",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/cvent-senior-product-manager-salesforce-1742733?ref=sp_br_prm&jobPos=10",
-      "time": "2026-10-29T08:25:21.687Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "IT Program Manager - Digital Transformation",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/it-program-manager-digital-transformation-1742686?ref=sp&jobPos=16",
-      "time": "2026-10-29T08:26:54.965Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Assistant Manager/Deputy Manager - Performance Management & Organizational Devel",
@@ -4001,6 +3985,22 @@
       "url": "https://www.naukri.com/job-listings-senior-it-delivery-manager-life-sciences-pharmaceuticals-epam-systems-hyderabad-chennai-bengaluru-18-to-20-years-040926019631?src=directSearch&sid=1794025473292590&xp=5&px=1",
       "time": "2026-11-07T04:25:02.408Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-09T06:43:56.750Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Program Manager - Field CTOs - US",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/1c0284d5-7426-478d-bbf2-b8b59aec00b2",
+      "time": "2026-11-09T06:44:56.088Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4764,14 +4764,22 @@
       "region": "Anywhere in the World",
       "portal": "remoteok",
       "scannedAt": "2026-11-07T03:46:01.163Z"
+    },
+    {
+      "title": "Project Manager - Creative - US Remote",
+      "company": "DEPT®",
+      "link": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-11-09T06:43:56.745Z"
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5381,
+  "totalVerifiedInHistory": 5383,
   "portalBreakdown": {
     "iimjobs": 832,
     "naukri": 1188,
-    "weworkremotely": 20,
+    "weworkremotely": 21,
     "remoteok": 9,
     "direct_portal_greenhouse": 1384,
     "direct_portal_generic": 15,
@@ -4780,7 +4788,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 664,
+    "direct_portal_ashby": 665,
     "ashby": 359,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4788,6 +4796,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-07T05:36:02.846Z",
-  "lastUpdated": "7/11/2026, 11:06:02 am"
+  "lastSyncedAt": "2026-11-09T06:44:58.568Z",
+  "lastUpdated": "9/11/2026, 12:14:58 pm"
 }
