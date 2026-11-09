@@ -1,12 +1,12 @@
 {
   "jobsScanned": 5920,
-  "applicationsSubmitted": 108,
-  "totalVerifiedInHistory": 107,
+  "applicationsSubmitted": 113,
+  "totalVerifiedInHistory": 113,
   "portalBreakdown": {
     "direct_portal_lever": 1,
     "weworkremotely": 6,
     "remoteok": 3,
-    "direct_portal_ashby": 97
+    "direct_portal_ashby": 103
   },
   "appliedRolesList": [
     {
@@ -872,10 +872,50 @@
       "url": "https://jobs.ashbyhq.com/cartesia/7e9aba9d-9335-46d2-bbde-247080a3d8d5",
       "time": "2026-11-09T09:33:41.233Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (West)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/f27740ea-19f4-4166-8ed3-4d7bb9a870ba",
+      "time": "2026-11-09T09:34:17.161Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Transformation lead manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/fa2c8c23-cf8b-4638-b624-e51077f91c38",
+      "time": "2026-11-09T09:34:31.831Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Recruiting Operations Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/f736f253-7b2d-4a4f-82d6-3f4ebf14c7c6",
+      "time": "2026-11-09T09:34:36.921Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Developer Advocacy (NAMER)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7",
+      "time": "2026-11-09T09:34:44.616Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Trust & Safety Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/9370b6c6-bb96-4f19-a5b3-53ec97f2c7c0",
+      "time": "2026-11-09T09:34:52.074Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T09:33:41.364Z",
-  "lastUpdated": "9/11/2026, 3:03:41 pm",
+  "lastSyncedAt": "2026-11-09T09:34:58.656Z",
+  "lastUpdated": "9/11/2026, 3:04:58 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
