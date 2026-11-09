@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 5920,
-  "applicationsSubmitted": 137,
-  "totalVerifiedInHistory": 143,
+  "jobsScanned": 612,
+  "applicationsSubmitted": 144,
+  "totalVerifiedInHistory": 144,
   "portalBreakdown": {
     "direct_portal_lever": 1,
     "weworkremotely": 6,
     "remoteok": 3,
-    "direct_portal_ashby": 133
+    "direct_portal_ashby": 134
   },
   "appliedRolesList": [
     {
@@ -1104,10 +1104,66 @@
       "url": "https://jobs.ashbyhq.com/openai/c0e1f65b-4731-48b3-ac60-93a269266494",
       "time": "2026-11-09T09:54:19.129Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Model Alignment and Deployment",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/character/091a6ad6-75dd-4dd4-9439-7e1e9d13970b",
+      "time": "2026-11-09T09:54:46.171Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Senior Manager, Support Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/2b5e1ac5-9709-4280-9ceb-51bff95328e3",
+      "time": "2026-11-09T09:54:50.239Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Staff Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/36613609-2dbd-42d9-8433-60601145d991",
+      "time": "2026-11-09T09:54:52.431Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Senior Manager, IT Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/b699e12d-06b5-48d4-b8fd-273696757b96",
+      "time": "2026-11-09T09:55:08.842Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
+      "time": "2026-11-09T09:55:10.540Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Strategic Sales Transformation Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/1c7e6d21-60ec-4d93-8c8f-b3dbe40bcb1d",
+      "time": "2026-11-09T09:55:27.448Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Product Manager, Privacy & Data Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
+      "time": "2026-11-09T09:55:36.934Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T09:54:19.340Z",
-  "lastUpdated": "9/11/2026, 3:24:19 pm",
+  "lastSyncedAt": "2026-11-09T09:57:05.704Z",
+  "lastUpdated": "9/11/2026, 3:27:05 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
@@ -1115,7 +1171,7 @@
       "link": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
       "region": "Worldwide",
       "portal": "weworkremotely",
-      "scannedAt": "2026-11-09T08:35:11.250Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "People Operations Manager",
@@ -1123,7 +1179,7 @@
       "link": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
       "region": "Worldwide",
       "portal": "weworkremotely",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "Review Program Manager",
@@ -1131,7 +1187,7 @@
       "link": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
       "region": "Worldwide",
       "portal": "weworkremotely",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "Media Project Manager",
@@ -1139,7 +1195,7 @@
       "link": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
       "region": "Worldwide",
       "portal": "weworkremotely",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "Commercial Program Manager",
@@ -1147,7 +1203,7 @@
       "link": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
       "region": "Worldwide",
       "portal": "weworkremotely",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "Supply Chain &amp; Operations Manager - LATAM",
@@ -1155,7 +1211,7 @@
       "link": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
       "region": "Worldwide",
       "portal": "weworkremotely",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "Agile Program Manager",
@@ -1163,7 +1219,7 @@
       "link": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
       "region": "Anywhere in the World",
       "portal": "remoteok",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "Partner Operations Manager",
@@ -1171,7 +1227,7 @@
       "link": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
       "region": "Worldwide",
       "portal": "remoteok",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     },
     {
       "title": "Cloud Engineer Automation",
@@ -1179,7 +1235,7 @@
       "link": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
       "region": "Toronto, Ontario",
       "portal": "remoteok",
-      "scannedAt": "2026-11-09T08:35:11.252Z"
+      "scannedAt": "2026-11-09T09:57:18.721Z"
     }
   ]
 }
