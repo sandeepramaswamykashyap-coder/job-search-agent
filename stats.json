@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 5866,
-  "applicationsSubmitted": 5389,
+  "jobsScanned": 5884,
+  "applicationsSubmitted": 8,
   "totalVerifiedInHistory": 5389,
   "portalBreakdown": {
     "iimjobs": 834,
@@ -160,7 +160,7 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "Happiest Minds Technologies",
+      "company": "Happiest Minds Te Technologies",
       "title": "ARCHITECT - AWS Administration",
       "portal": "naukri",
       "url": "https://www.naukri.com/job-listings-architect-aws-administration-happiest-minds-technologies-bengaluru-10-to-13-years-291026028986?src=directSearch&sid=17932708261929992&xp=11&px=1",
@@ -4024,8 +4024,8 @@
       "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-09T08:37:00.626Z",
-  "lastUpdated": "9/11/2026, 2:07:00 pm",
+  "lastSyncedAt": "2026-11-09T08:45:36.894Z",
+  "lastUpdated": "9/11/2026, 2:15:36 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
