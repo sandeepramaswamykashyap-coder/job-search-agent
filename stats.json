@@ -1,15 +1,7 @@
 {
-  "jobsScanned": 42739,
-  "applicationsSubmitted": 5383,
+  "jobsScanned": 42757,
+  "applicationsSubmitted": 5384,
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Assistant Manager/Deputy Manager - Performance Management & Organizational Devel",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/j/assistant-manager-deputy-manager-performance-management-and-organizational-development-1742552?ref=sp&jobPos=7",
-      "time": "2026-10-29T08:59:10.111Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "alt.f coworking",
       "title": "Senior Sales Manager\nSenior Sales Manager with verification",
@@ -4001,6 +3993,14 @@
       "url": "https://jobs.ashbyhq.com/cognition/1c0284d5-7426-478d-bbf2-b8b59aec00b2",
       "time": "2026-11-09T06:44:56.088Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Program Manager - Field CTOs - EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/6146f09d-285d-4538-be40-e1f3ffcdecd2",
+      "time": "2026-11-09T06:45:55.297Z",
+      "status": "SUBMITTED"
     }
   ],
   "failures": [
@@ -4775,7 +4775,7 @@
     }
   ],
   "lastPortalCycleAt": "2026-08-26T06:42:44.282Z",
-  "totalVerifiedInHistory": 5383,
+  "totalVerifiedInHistory": 5384,
   "portalBreakdown": {
     "iimjobs": 832,
     "naukri": 1188,
@@ -4788,7 +4788,7 @@
     "jobgether": 25,
     "dailyremote": 219,
     "greenhouse": 177,
-    "direct_portal_ashby": 665,
+    "direct_portal_ashby": 666,
     "ashby": 359,
     "workingnomads": 2,
     "instahyre": 1,
@@ -4796,6 +4796,6 @@
     "indeed": 94,
     "linkedin_easy_apply": 386
   },
-  "lastSyncedAt": "2026-11-09T06:44:58.568Z",
-  "lastUpdated": "9/11/2026, 12:14:58 pm"
+  "lastSyncedAt": "2026-11-09T06:45:55.521Z",
+  "lastUpdated": "9/11/2026, 12:15:55 pm"
 }
