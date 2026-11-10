@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 15105,
-  "applicationsSubmitted": 605,
-  "totalVerifiedInHistory": 605,
+  "jobsScanned": 15255,
+  "applicationsSubmitted": 606,
+  "totalVerifiedInHistory": 606,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 362,
     "direct_portal_lever": 2,
-    "iimjobs": 168,
+    "iimjobs": 169,
     "indeed": 20,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Supply Chain Program Manager (SCPM) - AI Infrastructure",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c3458423-2cd6-40c0-bb5d-a5c3726a1d08",
-      "time": "2026-11-10T04:39:31.378Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Financial Services Industry - Japan",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-reference-data-product-manager-1741398?ref=sp_br&jobPos=1",
       "time": "2026-11-10T22:43:54.487Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "MtaSysinc - Data Product Manager - Inventory Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mtasysinc-data-product-manager-inventory-management-1741134?ref=sp&jobPos=3",
+      "time": "2026-11-10T22:51:46.471Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T22:45:53.568Z",
-  "lastUpdated": "11/11/2026, 4:15:53 am",
+  "lastSyncedAt": "2026-11-10T22:53:15.856Z",
+  "lastUpdated": "11/11/2026, 4:23:15 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
