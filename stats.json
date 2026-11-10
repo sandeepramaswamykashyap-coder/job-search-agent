@@ -1,15 +1,15 @@
 {
-  "jobsScanned": 5114,
-  "applicationsSubmitted": 339,
-  "totalVerifiedInHistory": 339,
+  "jobsScanned": 5589,
+  "applicationsSubmitted": 342,
+  "totalVerifiedInHistory": 342,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 299,
+    "direct_portal_ashby": 301,
     "direct_portal_lever": 2,
     "iimjobs": 11,
-    "indeed": 11,
+    "indeed": 12,
     "ashby": 5,
     "naukri": 1
   },
@@ -2725,10 +2725,34 @@
       "url": "https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976",
       "time": "2026-11-10T09:16:56.382Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "GitLab",
+      "title": "Technical Program Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DTechnical%2520Program%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABobQtgOkAAAACZyhiWgAPAQABBck495--9-aetRbYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DTechnical%252520Program%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABobQtgOkAAAACZyhiWgAPAQABBck495--9-aetRbYAAA&from=page-two-signin",
+      "time": "2026-11-10T09:18:09.737Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (TPM, Inference)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+      "time": "2026-11-10T09:18:11.419Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Events",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/118ac51d-3d39-4587-9054-ab4cd5844765",
+      "time": "2026-11-10T09:19:15.901Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T09:17:32.121Z",
-  "lastUpdated": "10/11/2026, 2:47:32 pm",
+  "lastSyncedAt": "2026-11-10T14:03:11.919Z",
+  "lastUpdated": "10/11/2026, 7:33:11 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
