@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 15345,
-  "applicationsSubmitted": 606,
-  "totalVerifiedInHistory": 606,
+  "jobsScanned": 15459,
+  "applicationsSubmitted": 607,
+  "totalVerifiedInHistory": 607,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 362,
     "direct_portal_lever": 2,
-    "iimjobs": 169,
+    "iimjobs": 170,
     "indeed": 20,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Financial Services Industry - Japan",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/570df8ac-dacb-4686-b59c-ef48eed0580c",
-      "time": "2026-11-10T04:39:32.278Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Anyscale",
       "title": "Head of Customer Engineering",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/mtasysinc-data-product-manager-inventory-management-1741134?ref=sp&jobPos=3",
       "time": "2026-11-10T22:51:46.471Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Ralph Lauren - Data Product Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/ralph-lauren-data-product-manager-1734427?ref=sp_br&jobPos=4",
+      "time": "2026-11-10T23:03:54.747Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T22:56:22.848Z",
-  "lastUpdated": "11/11/2026, 4:26:22 am",
+  "lastSyncedAt": "2026-11-10T23:04:20.128Z",
+  "lastUpdated": "11/11/2026, 4:34:20 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
