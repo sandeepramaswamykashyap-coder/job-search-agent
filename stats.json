@@ -1,16 +1,17 @@
 {
-  "jobsScanned": 2768,
-  "applicationsSubmitted": 217,
-  "totalVerifiedInHistory": 217,
+  "jobsScanned": 2864,
+  "applicationsSubmitted": 235,
+  "totalVerifiedInHistory": 235,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 185,
+    "direct_portal_ashby": 200,
     "direct_portal_lever": 2,
     "iimjobs": 11,
-    "indeed": 8,
-    "ashby": 1
+    "indeed": 9,
+    "ashby": 2,
+    "naukri": 1
   },
   "appliedRolesList": [
     {
@@ -1748,10 +1749,154 @@
       "url": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
       "time": "2026-11-10T07:56:05.134Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "DocuSign",
+      "title": "Sr. Product Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocP2qCcAAAACZyhiWgARAQEBBzYJOkikz0IZFNia1H0AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocP2qCcAAAACZyhiWgARAQEBBzYJOkikz0IZFNia1H0AAA&from=page-two-signin",
+      "time": "2026-11-10T08:00:12.265Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of Support Engineering (Paris)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/2e7d4bef-b948-4c98-99c7-475abb4dc91f",
+      "time": "2026-11-10T08:00:14.164Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Enterprise Deployment - Chief of Staff",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/a0389dc2-77d8-439b-960b-2acb8712991e",
+      "time": "2026-11-10T08:00:33.905Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Head of Public Sector, AMER",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39",
+      "time": "2026-11-10T08:00:35.287Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Governance, Risk & Compliance Analyst",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Perplexity/977b626c-5546-42c6-95c8-4e2350ec41c9",
+      "time": "2026-11-10T08:00:43.693Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Privacy Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/19b21930-d142-4dae-be23-751f5425b0af",
+      "time": "2026-11-10T08:00:45.469Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Strategic Sales Transformation Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/1c7e6d21-60ec-4d93-8c8f-b3dbe40bcb1d",
+      "time": "2026-11-10T08:00:50.368Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+      "time": "2026-11-10T08:01:16.648Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "time": "2026-11-10T08:01:19.178Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Vice President of Sales - India",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/2449b650-6283-4c63-9537-4c34e76bafdd",
+      "time": "2026-11-10T08:07:34.932Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Director of Events and Experiences",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b",
+      "time": "2026-11-10T08:07:35.781Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Vice President of Sales - India",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/2449b650-6283-4c63-9537-4c34e76bafdd",
+      "time": "2026-11-10T08:07:36.045Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Sales Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/1bb240b3-57ed-4693-bd4d-5a353a9277be",
+      "time": "2026-11-10T08:07:40.352Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Marketing Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e",
+      "time": "2026-11-10T08:07:43.699Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Manager / SR Manager - IT and Digital Transformation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-sr-manager-it-and-digital-transformation-belhem-hospitality-pvt-ltd-bengaluru-10-to-15-years-041126910400?src=directSearch&sid=17942980173604028&xp=11&px=1",
+      "time": "2026-11-10T08:07:49.044Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director, Enterprise (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/5081e3b3-e606-4299-bd26-34ac6cdc5f0a",
+      "time": "2026-11-10T08:07:52.575Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Billing Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Perplexity/702c7eb8-9908-407f-bcb5-647a227819d6",
+      "time": "2026-11-10T08:08:04.859Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Global Deal Desk",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
+      "time": "2026-11-10T08:08:10.040Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T07:56:07.063Z",
-  "lastUpdated": "10/11/2026, 1:26:07 pm",
+  "lastSyncedAt": "2026-11-10T08:08:11.316Z",
+  "lastUpdated": "10/11/2026, 1:38:11 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
