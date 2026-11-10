@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 7413,
-  "applicationsSubmitted": 507,
-  "totalVerifiedInHistory": 507,
+  "jobsScanned": 7473,
+  "applicationsSubmitted": 508,
+  "totalVerifiedInHistory": 508,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -9,20 +9,12 @@
     "direct_portal_ashby": 353,
     "direct_portal_lever": 2,
     "iimjobs": 84,
-    "indeed": 16,
+    "indeed": 17,
     "ashby": 11,
     "naukri": 29,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Mecka",
-      "title": "Partner Operations Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "time": "2026-11-10T03:20:54.631Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Smile Digital Health",
       "title": "Cloud Engineer Automation",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/head-hr-operations-and-technology-transformation-1739375?ref=sp&jobPos=4",
       "time": "2026-11-10T15:32:00.166Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "JumpCloud",
+      "title": "Director, Product Strategy and Operations -India",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocXDAtIAAAACZywSlQATAQAXHEFoNGiVOxhUZPXYOiE2zAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocXDAtIAAAACZywSlQATAQAXHEFoNGiVOxhUZPXYOiE2zAAA&from=page-two-signin",
+      "time": "2026-11-10T15:40:00.372Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T15:38:06.203Z",
-  "lastUpdated": "10/11/2026, 9:08:06 pm",
+  "lastSyncedAt": "2026-11-10T15:41:15.250Z",
+  "lastUpdated": "10/11/2026, 9:11:15 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
