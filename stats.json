@@ -1,52 +1,20 @@
 {
-  "jobsScanned": 10041,
-  "applicationsSubmitted": 566,
-  "totalVerifiedInHistory": 566,
+  "jobsScanned": 10241,
+  "applicationsSubmitted": 570,
+  "totalVerifiedInHistory": 570,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 358,
     "direct_portal_lever": 2,
-    "iimjobs": 136,
+    "iimjobs": 140,
     "indeed": 17,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Security Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0",
-      "time": "2026-11-10T03:47:39.875Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Program Manager, M&A Recruiting | People",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/8f2d7c1e-7a76-4145-9a9d-b71a12ef9ad4",
-      "time": "2026-11-10T03:47:50.481Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Applied AI Delivery Lead - Remote in AMER",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/2c531790-726c-4d39-b3bd-900c59a09a4d",
-      "time": "2026-11-10T03:47:50.581Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Compliance Program Manager — Regulatory Compliance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/5f094405-1b54-419b-88b2-df1d7eb16af0",
-      "time": "2026-11-10T03:48:10.755Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Data Program Manager, Science",
@@ -4014,10 +3982,42 @@
       "url": "https://www.naukri.com/job-listings-tech-mahindra-hires-sap-change-management-lead-bangalore-location-tech-mahindra-bangalore-rural-chennai-bengaluru-6-to-10-years-031126021729?src=directSearch&sid=17943338517974&xp=1&px=1",
       "time": "2026-11-10T18:04:26.227Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Product Manager - AI Automation - Internet/Online/eCommerce",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/product-manager-ai-automation-internet-online-ecommerce-1734066?ref=sp&jobPos=11",
+      "time": "2026-11-10T18:09:57.339Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Project Manager - Warehouse Automation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/project-manager-warehouse-automation-1730436?ref=sp&jobPos=12",
+      "time": "2026-11-10T18:10:03.278Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "HR Automation & Digital Role - Building Material Industry",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/hr-automation-and-digital-role-building-material-industry-1733528?ref=sp&jobPos=14",
+      "time": "2026-11-10T18:17:22.019Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Delivery Head - OSS/BSS & Automation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/delivery-head-oss-bss-and-automation-1729988?ref=sp&jobPos=15",
+      "time": "2026-11-10T18:17:27.813Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T18:07:57.916Z",
-  "lastUpdated": "10/11/2026, 11:37:57 pm",
+  "lastSyncedAt": "2026-11-10T18:21:31.351Z",
+  "lastUpdated": "10/11/2026, 11:51:31 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
