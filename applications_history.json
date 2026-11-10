@@ -1878,5 +1878,37 @@
     "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
     "time": "2026-11-10T08:08:10.040Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Cognition",
+    "title": "Applied AI Transformation Manager",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
+    "time": "2026-11-10T08:09:00.256Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Langchain",
+    "title": "Regional Vice President, Sales APAC",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
+    "time": "2026-11-10T08:09:03.571Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Langchain",
+    "title": "Regional Vice President, Sales APAC",
+    "portal": "ashby",
+    "url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
+    "time": "2026-11-10T08:09:05.967Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Cohere",
+    "title": "Staff Technical Program Manager, Machine Learning",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+    "time": "2026-11-10T08:10:29.611Z",
+    "status": "SUBMITTED"
   }
 ]
