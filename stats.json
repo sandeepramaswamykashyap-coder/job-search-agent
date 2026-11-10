@@ -1,15 +1,15 @@
 {
-  "jobsScanned": 6659,
-  "applicationsSubmitted": 474,
-  "totalVerifiedInHistory": 474,
+  "jobsScanned": 6843,
+  "applicationsSubmitted": 485,
+  "totalVerifiedInHistory": 485,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 353,
     "direct_portal_lever": 2,
-    "iimjobs": 61,
-    "indeed": 14,
+    "iimjobs": 70,
+    "indeed": 16,
     "ashby": 11,
     "naukri": 21,
     "direct_portal_workday": 2
@@ -3806,10 +3806,98 @@
       "url": "https://www.iimjobs.com/j/senior-manager-change-management-consulting-1734932?ref=sp&jobPos=12",
       "time": "2026-11-10T14:47:20.602Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Technical Program Manager 4",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocS3bPgAAAACZsvB_wAOAQAleL8L0MAECCR6sWIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocS3bPgAAAACZsvB_wAOAQAleL8L0MAECCR6sWIAAA&from=page-two-signin",
+      "time": "2026-11-10T14:52:47.663Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Airbus India Private Limited",
+      "title": "Senior PM Business Analytics Solution Architect",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocXDAtIAAAACZywSlQAWAQEBBgMomf4jSQlFcKMZ6lBz2k4MJgAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocXDAtIAAAACZywSlQAWAQEBBgMomf4jSQlFcKMZ6lBz2k4MJgAA&from=page-two-signin",
+      "time": "2026-11-10T14:56:41.416Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Thryocare - Head - Operational Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/thryocare-head-operational-excellence-1742721?ref=sp_br&jobPos=1",
+      "time": "2026-11-10T15:00:03.163Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Perfetti Van Melle - Senior Manager - Operational Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/perfetti-van-melle-senior-manager-operational-excellence-1733894?ref=sp_br&jobPos=2",
+      "time": "2026-11-10T15:00:09.038Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Sodexo - Head - Strategic Initiatives - Operational Excellence - GBS India",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/sodexo-head-strategic-initiatives-operational-excellence-gbs-india-1730031?ref=sp_br&jobPos=3",
+      "time": "2026-11-10T15:00:14.884Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "BMGI - Senior Consultant/Consultant - Operational Excellence - IIT/NIT/BITS/IIM/",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bmgi-senior-consultant-consultant-operational-excellence-iit-nit-bits-iim-fms-mdi-1726063?ref=sp_br&jobPos=4",
+      "time": "2026-11-10T15:00:20.692Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Lead - Operational Excellence",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/lead-operational-excellence-1734386?ref=sp&jobPos=5",
+      "time": "2026-11-10T15:00:26.534Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant General Manager - Operational Excellence - Pharmaceuticals",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-general-manager-operational-excellence-pharmaceuticals-1734514?ref=sp&jobPos=6",
+      "time": "2026-11-10T15:00:32.507Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Assistant General Manager - Operational Excellence Lead - APS & Improvement Proj",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/assistant-general-manager-operational-excellence-lead-aps-and-improvement-projects-1727642?ref=sp&jobPos=8",
+      "time": "2026-11-10T15:00:38.435Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Urban Company - Senior Operations Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/urban-company-senior-operations-manager-1744750?ref=sp_br_prm&jobPos=1",
+      "time": "2026-11-10T15:00:48.488Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "InMobi - Senior Manager - Strategy & Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/inmobi-senior-manager-strategy-and-operations-1744346?ref=sp_br_prm&jobPos=2",
+      "time": "2026-11-10T15:00:54.274Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T14:51:14.513Z",
-  "lastUpdated": "10/11/2026, 8:21:14 pm",
+  "lastSyncedAt": "2026-11-10T15:00:54.280Z",
+  "lastUpdated": "10/11/2026, 8:30:54 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
