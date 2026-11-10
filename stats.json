@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 14775,
-  "applicationsSubmitted": 602,
-  "totalVerifiedInHistory": 602,
+  "jobsScanned": 14795,
+  "applicationsSubmitted": 603,
+  "totalVerifiedInHistory": 603,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -9,20 +9,12 @@
     "direct_portal_ashby": 362,
     "direct_portal_lever": 2,
     "iimjobs": 166,
-    "indeed": 19,
+    "indeed": 20,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Mid-Market",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/71f97dd6-63bc-4f86-8c34-dcb71577069a",
-      "time": "2026-11-10T04:37:55.523Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Perplexity",
       "title": "Program Manager, Talent Acquisition",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/head-data-governance-and-data-quality-bfsi-1739549?ref=sp&jobPos=17",
       "time": "2026-11-10T22:14:04.715Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Sr Operations & Logistics Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocSzXhQAAAACZ0Ff3QAQAQABXr9IJKgDdfjbeguGDAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocSzXhQAAAACZ0Ff3QAQAQABXr9IJKgDdfjbeguGDAAA&from=page-two-signin",
+      "time": "2026-11-10T22:27:13.335Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T22:26:37.338Z",
-  "lastUpdated": "11/11/2026, 3:56:37 am",
+  "lastSyncedAt": "2026-11-10T22:27:20.452Z",
+  "lastUpdated": "11/11/2026, 3:57:20 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
