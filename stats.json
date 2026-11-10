@@ -1,16 +1,16 @@
 {
-  "jobsScanned": 2981,
-  "applicationsSubmitted": 254,
-  "totalVerifiedInHistory": 254,
+  "jobsScanned": 3279,
+  "applicationsSubmitted": 279,
+  "totalVerifiedInHistory": 279,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 218,
+    "direct_portal_ashby": 240,
     "direct_portal_lever": 2,
     "iimjobs": 11,
-    "indeed": 9,
-    "ashby": 3,
+    "indeed": 10,
+    "ashby": 5,
     "naukri": 1
   },
   "appliedRolesList": [
@@ -2045,10 +2045,210 @@
       "url": "https://jobs.ashbyhq.com/temporal/fce51aaa-d5c9-4101-bc28-60bad04567fb",
       "time": "2026-11-10T08:22:51.487Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Indeed Employer",
+      "title": "Senior Program Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocP2qCcAAAACZyhiWgANAQEBBgGHX9JrkUO8EAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocP2qCcAAAACZyhiWgANAQEBBgGHX9JrkUO8EAAA&from=page-two-signin",
+      "time": "2026-11-10T08:22:55.280Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/be59ef70-1b34-4af5-a831-da964a6d3869",
+      "time": "2026-11-10T08:23:29.580Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Engineering Manager, FDE Agentic Platform",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/e906188a-e089-4b86-85b9-aad0d4413c68",
+      "time": "2026-11-10T08:23:31.601Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/993aa857-1c36-4edb-b230-fc1b49f70774",
+      "time": "2026-11-10T08:24:34.589Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Vice President of Sales - KSA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/d5f631ec-e387-4850-9377-81e8a46f66d5",
+      "time": "2026-11-10T08:28:05.054Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
+      "time": "2026-11-10T08:28:27.832Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Vice President of Sales - ANZ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/bcb56d79-24fd-46f9-8719-d389a3641f40",
+      "time": "2026-11-10T08:28:32.825Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Sales Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6",
+      "time": "2026-11-10T08:28:35.520Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "time": "2026-11-10T08:32:02.160Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - MENA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
+      "time": "2026-11-10T08:34:42.539Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Staff Product Manager, Agentic Experiences (Former Engineer)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/17f95148-fa1c-4c34-82c8-333589bef789",
+      "time": "2026-11-10T08:34:52.518Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Analyst Relations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a3f31e70-e948-44d0-8ce3-f16b2979ff52",
+      "time": "2026-11-10T08:34:54.762Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Staff Product Manager, Agentic Experiences (Former Engineer)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/17f95148-fa1c-4c34-82c8-333589bef789",
+      "time": "2026-11-10T08:34:56.486Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "VP of Sales - Public Sector",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13",
+      "time": "2026-11-10T08:35:07.105Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
+      "time": "2026-11-10T08:35:08.321Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Head of Corporate Development",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/4a865873-eafa-423d-b9ae-3afd31ae4678",
+      "time": "2026-11-10T08:36:58.271Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - US",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
+      "time": "2026-11-10T08:39:14.896Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director of Research, Text-to-Speech",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323",
+      "time": "2026-11-10T08:39:18.193Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director of Research, Text-to-Speech",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323",
+      "time": "2026-11-10T08:39:23.697Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - Qatar",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/5308cb82-896c-4f9a-86fd-1d65962ef118",
+      "time": "2026-11-10T08:39:42.147Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Legal Counsel, Corporate Governance & Regulatory",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/4e3694ee-d051-497f-bb3b-8cff3d7f578f",
+      "time": "2026-11-10T08:40:16.996Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director (LATAM)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/84a2c042-6e1c-4093-a06b-39018ef89c4e",
+      "time": "2026-11-10T08:40:17.136Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/d0fece15-9e53-4539-a975-360e1a6fd257",
+      "time": "2026-11-10T08:40:17.876Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Sales, Southern Europe (Italy, Spain, Portugal)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80",
+      "time": "2026-11-10T08:40:18.624Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alloy",
+      "title": "Channel Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/5c335d0c-0c96-4b85-a913-db4ce4f02651/544c70cf-c016-4ba4-9d6d-ecbcb290e8f4",
+      "time": "2026-11-10T08:40:21.058Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T08:22:51.509Z",
-  "lastUpdated": "10/11/2026, 1:52:51 pm",
+  "lastSyncedAt": "2026-11-10T08:40:21.135Z",
+  "lastUpdated": "10/11/2026, 2:10:21 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
