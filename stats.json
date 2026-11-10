@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 3846,
-  "applicationsSubmitted": 308,
-  "totalVerifiedInHistory": 308,
+  "jobsScanned": 3856,
+  "applicationsSubmitted": 313,
+  "totalVerifiedInHistory": 313,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 269,
+    "direct_portal_ashby": 274,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 10,
@@ -2477,10 +2477,50 @@
       "url": "https://jobs.ashbyhq.com/temporal/30600762-62fe-4ffb-9b6e-98f145329ea3",
       "time": "2026-11-10T09:03:00.707Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Head of New Media",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/62dfb104-ae18-46ce-a9ef-836f024c3d6d",
+      "time": "2026-11-10T09:04:43.387Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
+      "time": "2026-11-10T09:04:44.654Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior manager, lifecycle & audience marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/ff94a694-b5b8-40f0-90ec-d8087670a2c7",
+      "time": "2026-11-10T09:04:45.820Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Developer Advocacy (NAMER)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7",
+      "time": "2026-11-10T09:04:45.988Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Manager, GTM & Revenue Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/3898333d-fcbe-4d3f-afad-8be721b08319",
+      "time": "2026-11-10T09:04:47.662Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T09:04:28.077Z",
-  "lastUpdated": "10/11/2026, 2:34:28 pm",
+  "lastSyncedAt": "2026-11-10T09:04:47.674Z",
+  "lastUpdated": "10/11/2026, 2:34:47 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
