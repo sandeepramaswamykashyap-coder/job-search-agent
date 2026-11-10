@@ -1,12 +1,12 @@
 {
   "jobsScanned": 1137,
-  "applicationsSubmitted": 31,
-  "totalVerifiedInHistory": 31,
+  "applicationsSubmitted": 34,
+  "totalVerifiedInHistory": 34,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 21
+    "direct_portal_ashby": 24
   },
   "appliedRolesList": [
     {
@@ -256,10 +256,34 @@
       "url": "https://jobs.ashbyhq.com/openai/3a05c5d7-fdd9-4e0e-823a-2ae08b59958b",
       "time": "2026-11-10T03:45:06.455Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Support Delivery Lead - Toronto",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6b8eed3a-d549-4df8-9ac7-134d4d52c600",
+      "time": "2026-11-10T03:45:08.827Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Applied Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
+      "time": "2026-11-10T03:45:09.447Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Infrastructure Systems & Tooling",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d",
+      "time": "2026-11-10T03:45:22.420Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T03:45:06.456Z",
-  "lastUpdated": "10/11/2026, 9:15:06 am",
+  "lastSyncedAt": "2026-11-10T03:45:22.422Z",
+  "lastUpdated": "10/11/2026, 9:15:22 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
