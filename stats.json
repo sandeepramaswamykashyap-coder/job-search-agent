@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 3486,
-  "applicationsSubmitted": 291,
-  "totalVerifiedInHistory": 291,
+  "jobsScanned": 3591,
+  "applicationsSubmitted": 297,
+  "totalVerifiedInHistory": 297,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 252,
+    "direct_portal_ashby": 258,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 10,
@@ -2341,10 +2341,58 @@
       "url": "https://jobs.ashbyhq.com/suno/afa818b7-1f52-48e6-bf4d-71593d314e5c",
       "time": "2026-11-10T08:50:37.733Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Legal Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/3ed4e7e4-1765-481b-a1aa-199d1d6d079c",
+      "time": "2026-11-10T08:54:11.090Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director, Business Development, Publishing Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/f4bfe672-895a-4cff-93d0-2408afa49f22",
+      "time": "2026-11-10T08:54:26.434Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Workplace Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/d2a86680-506f-4388-8c48-c817e8872730",
+      "time": "2026-11-10T08:54:35.214Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director of Customer Support",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/d268f2b0-b8cb-4f1c-9d7a-3700c029180f",
+      "time": "2026-11-10T08:54:39.341Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Head of Narratives",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/2b151a4e-f3a4-41fc-95f7-4e802906f2cb",
+      "time": "2026-11-10T08:54:51.566Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Order Management Operations & Automation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/c4575cc8-ed78-47d7-8b53-637402e77d8d",
+      "time": "2026-11-10T08:54:53.062Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T08:50:37.783Z",
-  "lastUpdated": "10/11/2026, 2:20:37 pm",
+  "lastSyncedAt": "2026-11-10T08:56:27.062Z",
+  "lastUpdated": "10/11/2026, 2:26:27 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
