@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 3966,
-  "applicationsSubmitted": 320,
-  "totalVerifiedInHistory": 320,
+  "jobsScanned": 3996,
+  "applicationsSubmitted": 321,
+  "totalVerifiedInHistory": 321,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 281,
+    "direct_portal_ashby": 282,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 10,
@@ -2573,10 +2573,18 @@
       "url": "https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
       "time": "2026-11-10T09:06:02.245Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Manager, Product Design",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/7d9347f3-f228-48bd-bab7-4390abbcb8c4",
+      "time": "2026-11-10T09:06:23.064Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T09:06:02.259Z",
-  "lastUpdated": "10/11/2026, 2:36:02 pm",
+  "lastSyncedAt": "2026-11-10T09:06:23.086Z",
+  "lastUpdated": "10/11/2026, 2:36:23 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
