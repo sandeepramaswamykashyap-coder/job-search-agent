@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 6933,
-  "applicationsSubmitted": 485,
-  "totalVerifiedInHistory": 485,
+  "jobsScanned": 7003,
+  "applicationsSubmitted": 486,
+  "totalVerifiedInHistory": 486,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,7 +11,7 @@
     "iimjobs": 70,
     "indeed": 16,
     "ashby": 11,
-    "naukri": 21,
+    "naukri": 22,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
@@ -3894,10 +3894,18 @@
       "url": "https://www.iimjobs.com/j/inmobi-senior-manager-strategy-and-operations-1744346?ref=sp_br_prm&jobPos=2",
       "time": "2026-11-10T15:00:54.274Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Emids Technologies",
+      "title": "Agentic AI Architect Intelligent Automation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-agentic-ai-architect-intelligent-automation-emids-technologies-noida-bengaluru-12-to-14-years-031126021787?src=directSearch&sid=1794323527660949&xp=13&px=1",
+      "time": "2026-11-10T15:12:25.137Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T15:10:20.591Z",
-  "lastUpdated": "10/11/2026, 8:40:20 pm",
+  "lastSyncedAt": "2026-11-10T15:13:49.259Z",
+  "lastUpdated": "10/11/2026, 8:43:49 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
