@@ -1,44 +1,20 @@
 {
-  "jobsScanned": 13845,
-  "applicationsSubmitted": 595,
-  "totalVerifiedInHistory": 595,
+  "jobsScanned": 14055,
+  "applicationsSubmitted": 37,
+  "totalVerifiedInHistory": 598,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 360,
+    "direct_portal_ashby": 361,
     "direct_portal_lever": 2,
-    "iimjobs": 162,
+    "iimjobs": 164,
     "indeed": 18,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Partner Director, McKinsey Alliance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/28c96920-a412-47c0-88f8-342790d779ff",
-      "time": "2026-11-10T04:25:35.269Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Trust Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24",
-      "time": "2026-11-10T04:25:49.818Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Large Enterprise (FSI)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/10208545-58dd-4cdb-91e1-69b1c2cabe3c",
-      "time": "2026-11-10T04:29:49.239Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Elevenlabs",
       "title": "Revenue Strategy & Operations",
@@ -4014,10 +3990,104 @@
       "url": "https://www.iimjobs.com/j/ralph-lauren-associate-data-governance-and-quality-manager-1734446?ref=sp_br&jobPos=11",
       "time": "2026-11-10T21:30:38.471Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Clarivate - Senior Manager - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/clarivate-senior-manager-data-governance-1730110?ref=sp&jobPos=12",
+      "time": "2026-11-10T21:38:23.059Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Internal Events",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/118ac51d-3d39-4587-9054-ab4cd5844765",
+      "time": "2026-11-10T21:43:14.926Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "PwC - Manager - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pwc-manager-data-governance-1724690?ref=sp_br&jobPos=15",
+      "time": "2026-11-10T21:44:34.269Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-10T21:46:21.504Z"
+    },
+    {
+      "company": "Grüns",
+      "title": "People Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "time": "2026-11-10T21:46:21.506Z"
+    },
+    {
+      "company": "Lighthouse",
+      "title": "Review Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
+      "time": "2026-11-10T21:46:21.508Z"
+    },
+    {
+      "company": "We Are Rosie",
+      "title": "Media Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+      "time": "2026-11-10T21:46:21.511Z"
+    },
+    {
+      "company": "Industrial Electric Manufacturing",
+      "title": "Commercial Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
+      "time": "2026-11-10T21:46:21.513Z"
+    },
+    {
+      "company": "Super Speciosa",
+      "title": "Supply Chain &amp; Operations Manager - LATAM",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "time": "2026-11-10T21:46:21.515Z"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-10T21:46:21.517Z"
+    },
+    {
+      "company": "Mecka",
+      "title": "Partner Operations Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "time": "2026-11-10T21:46:21.519Z"
+    },
+    {
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "time": "2026-11-10T21:46:21.521Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/2007928/",
+      "time": "2026-11-10T21:46:21.523Z"
     }
   ],
-  "lastSyncedAt": "2026-11-10T21:35:48.755Z",
-  "lastUpdated": "11/11/2026, 3:05:48 am",
+  "lastSyncedAt": "2026-11-10T21:45:44.819Z",
+  "lastUpdated": "11/11/2026, 3:15:44 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
