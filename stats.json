@@ -1,60 +1,20 @@
 {
-  "jobsScanned": 8021,
-  "applicationsSubmitted": 524,
-  "totalVerifiedInHistory": 524,
+  "jobsScanned": 8081,
+  "applicationsSubmitted": 529,
+  "totalVerifiedInHistory": 529,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 353,
     "direct_portal_lever": 2,
-    "iimjobs": 100,
+    "iimjobs": 105,
     "indeed": 17,
     "ashby": 11,
     "naukri": 29,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Cloud AI Partnerships",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/db993e24-ce4f-4f55-9187-403726bcb957",
-      "time": "2026-11-10T03:44:48.985Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Systems Program Manager, User Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/e1b8fd3a-315c-4480-9105-98228093d429",
-      "time": "2026-11-10T03:44:49.540Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Senior Program Manager, Consumer Device Safety Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/b65f9125-2c3a-4507-bb20-6213952b5f2c",
-      "time": "2026-11-10T03:44:49.929Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "GRC Program Manager, Audit & Controls",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3",
-      "time": "2026-11-10T03:45:05.608Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "User Safety & Risk Operations Analyst - Global Response (Weekend Shift)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/d990222d-ecf1-417f-a248-6e962b5a18e0",
-      "time": "2026-11-10T03:45:05.847Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Technical Program Manager, Actuators",
@@ -4014,10 +3974,50 @@
       "url": "https://www.iimjobs.com/j/uni-club-partnerships-program-manager-business-development-1741550?ref=sp_br&jobPos=13",
       "time": "2026-11-10T15:59:42.262Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Uni Club - Business Development/Partnerships Program Manager - IIT/NIT/BITS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/uni-club-business-development-partnerships-program-manager-iit-nit-bits-1740871?ref=sp_br&jobPos=14",
+      "time": "2026-11-10T16:13:04.321Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Deluxe - Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/deluxe-program-manager-1744281?ref=sp&jobPos=16",
+      "time": "2026-11-10T16:13:10.151Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Carl Zeiss - Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/carl-zeiss-program-manager-1742814?ref=sp&jobPos=17",
+      "time": "2026-11-10T16:13:15.924Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Algoleap - Technical Program Manager - Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/algoleap-technical-program-manager-operations-1742098?ref=sp&jobPos=18",
+      "time": "2026-11-10T16:13:21.875Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Bharat Biotech - Head - PMO - New Product Development",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bharat-biotech-head-pmo-new-product-development-1735040?ref=sp_br&jobPos=1",
+      "time": "2026-11-10T16:13:31.497Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T16:11:50.096Z",
-  "lastUpdated": "10/11/2026, 9:41:50 pm",
+  "lastSyncedAt": "2026-11-10T16:15:42.768Z",
+  "lastUpdated": "10/11/2026, 9:45:42 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
