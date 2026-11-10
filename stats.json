@@ -1,15 +1,15 @@
 {
-  "jobsScanned": 6449,
-  "applicationsSubmitted": 462,
-  "totalVerifiedInHistory": 462,
+  "jobsScanned": 6519,
+  "applicationsSubmitted": 467,
+  "totalVerifiedInHistory": 467,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 353,
     "direct_portal_lever": 2,
-    "iimjobs": 50,
-    "indeed": 13,
+    "iimjobs": 54,
+    "indeed": 14,
     "ashby": 11,
     "naukri": 21,
     "direct_portal_workday": 2
@@ -3710,10 +3710,50 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocSzXhQAAAACZzwDPQAOAQEBBmQV8fSPgM7GhCIAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocSzXhQAAAACZzwDPQAOAQEBBmQV8fSPgM7GhCIAAA&from=page-two-signin",
       "time": "2026-11-10T14:41:08.357Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Sr Product Operations",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Operations%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocS1g90AAAACZzwDTgAGAQAEGjbYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Operations%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocS1g90AAAACZzwDTgAGAQAEGjbYAAA&from=page-two-signin",
+      "time": "2026-11-10T14:42:58.002Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "GenAI Business Strategy & Transformation Leader",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/genai-business-strategy-and-transformation-leader-1744094?ref=sp&jobPos=18",
+      "time": "2026-11-10T14:45:19.048Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior IT Project Manager - HR Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-it-project-manager-hr-transformation-1743622?ref=sp&jobPos=17",
+      "time": "2026-11-10T14:45:54.674Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Transformation Leader - Business Transformation - Banking/Financial Servi",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-transformation-leader-business-transformation-banking-financial-services-1737795?ref=sp&jobPos=18",
+      "time": "2026-11-10T14:46:03.874Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Business Consultant - Organizational Change Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-business-consultant-organizational-change-management-1742329?ref=sp_prm&jobPos=1",
+      "time": "2026-11-10T14:46:17.026Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T14:42:03.588Z",
-  "lastUpdated": "10/11/2026, 8:12:03 pm",
+  "lastSyncedAt": "2026-11-10T14:46:23.266Z",
+  "lastUpdated": "10/11/2026, 8:16:23 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
