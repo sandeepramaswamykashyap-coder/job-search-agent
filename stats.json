@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 2894,
-  "applicationsSubmitted": 239,
-  "totalVerifiedInHistory": 239,
+  "jobsScanned": 2981,
+  "applicationsSubmitted": 254,
+  "totalVerifiedInHistory": 254,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 203,
+    "direct_portal_ashby": 218,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 9,
@@ -1925,10 +1925,130 @@
       "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
       "time": "2026-11-10T08:10:29.611Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Federal Account Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/b154cc8a-0f04-44b8-88d8-72901fc0582d",
+      "time": "2026-11-10T08:13:01.609Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Sales Enablement Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Perplexity/27dd2e43-e2b0-48e8-a339-b2842b4c3298",
+      "time": "2026-11-10T08:14:56.862Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Partnerships - Japan",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf",
+      "time": "2026-11-10T08:15:32.123Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - Europe",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/5347448e-421f-4119-b65e-d20f4efe3e21",
+      "time": "2026-11-10T08:15:32.254Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, France",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
+      "time": "2026-11-10T08:15:34.418Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
+      "time": "2026-11-10T08:15:38.011Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Director, Enterprise Sales (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a12f5aac-c232-4bf2-953a-2b7217412aed",
+      "time": "2026-11-10T08:17:22.111Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Agentic Environments",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
+      "time": "2026-11-10T08:17:40.285Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Adoption Specialist - Infrastructure & Agentic",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2",
+      "time": "2026-11-10T08:19:59.475Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/0aabb166-3e97-437b-ab84-b04fe20dd426",
+      "time": "2026-11-10T08:21:27.688Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Transformation lead manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/fa2c8c23-cf8b-4638-b624-e51077f91c38",
+      "time": "2026-11-10T08:21:42.794Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of LATAM Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/913f64e2-c621-4739-9446-7d523b8d4e43",
+      "time": "2026-11-10T08:22:29.402Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - MENA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/93002b15-b30c-4c98-a7e0-2ef185e4b88f",
+      "time": "2026-11-10T08:22:31.853Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Sales, Defense & Intelligence",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
+      "time": "2026-11-10T08:22:34.439Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Partnerships EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/fce51aaa-d5c9-4101-bc28-60bad04567fb",
+      "time": "2026-11-10T08:22:51.487Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T08:10:33.333Z",
-  "lastUpdated": "10/11/2026, 1:40:33 pm",
+  "lastSyncedAt": "2026-11-10T08:22:51.509Z",
+  "lastUpdated": "10/11/2026, 1:52:51 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
