@@ -1,9 +1,9 @@
 {
-  "jobsScanned": 678,
-  "applicationsSubmitted": 110,
-  "totalVerifiedInHistory": 110,
+  "jobsScanned": 728,
+  "applicationsSubmitted": 22,
+  "totalVerifiedInHistory": 115,
   "portalBreakdown": {
-    "direct_portal_ashby": 100,
+    "direct_portal_ashby": 105,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1
@@ -888,10 +888,50 @@
       "url": "https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0",
       "time": "2026-11-10T02:38:16.131Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Accounts Payable - Compute",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/dceb6d3d-65a7-4676-8d24-f0cf45776ef0",
+      "time": "2026-11-10T02:38:19.337Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, National Security Policy Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/3228eed1-9cb3-4330-82c3-19fb3dbb4408",
+      "time": "2026-11-10T02:38:37.999Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Procurement Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c9832989-edc1-4f2f-8a79-8fa29f5623e2",
+      "time": "2026-11-10T02:38:38.687Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Applied Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
+      "time": "2026-11-10T02:38:41.772Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Global Infrastructure Planning",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/df242b29-6a84-4968-8d57-cbeec20dee67",
+      "time": "2026-11-10T02:39:22.742Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T02:38:16.136Z",
-  "lastUpdated": "10/11/2026, 8:08:16 am",
+  "lastSyncedAt": "2026-11-10T02:42:33.063Z",
+  "lastUpdated": "10/11/2026, 8:12:33 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
