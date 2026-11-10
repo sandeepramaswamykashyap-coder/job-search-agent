@@ -1,52 +1,20 @@
 {
-  "jobsScanned": 8951,
-  "applicationsSubmitted": 550,
-  "totalVerifiedInHistory": 550,
+  "jobsScanned": 9071,
+  "applicationsSubmitted": 554,
+  "totalVerifiedInHistory": 554,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 355,
+    "direct_portal_ashby": 356,
     "direct_portal_lever": 2,
-    "iimjobs": 124,
+    "iimjobs": 127,
     "indeed": 17,
     "ashby": 11,
     "naukri": 29,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Senior Manager, Accounts Payable - Compute",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/dceb6d3d-65a7-4676-8d24-f0cf45776ef0",
-      "time": "2026-11-10T03:46:28.528Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Applied AI Delivery Lead - San Francisco",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/afebc24f-c6b8-4c66-a344-b1661fc77570",
-      "time": "2026-11-10T03:46:34.550Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Strategic Delivery Lead, Federal Civilian & State and Local Government",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/2475c6c9-97c1-461b-8c73-0b9ce993860a",
-      "time": "2026-11-10T03:46:36.668Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Procurement Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c9832989-edc1-4f2f-8a79-8fa29f5623e2",
-      "time": "2026-11-10T03:46:45.246Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Vendor Security Technical Program Manager",
@@ -4014,10 +3982,42 @@
       "url": "https://www.iimjobs.com/j/portfolio-risk-manager-credit-card-banking-1743367?ref=sp&jobPos=13",
       "time": "2026-11-10T17:01:56.817Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Portfolio Finance Manager - Financial Due Diligence - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/portfolio-finance-manager-financial-due-diligence-ca-1740974?ref=sp&jobPos=14",
+      "time": "2026-11-10T17:08:18.691Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Portfolio Manager - PMS",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/portfolio-manager-pms-1731921?ref=sp&jobPos=15",
+      "time": "2026-11-10T17:08:24.528Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vice President - Portfolio Management - Investments",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vice-president-portfolio-management-investments-1739089?ref=sp&jobPos=18",
+      "time": "2026-11-10T17:08:30.306Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, KPMG Global",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2ccf7ce8-7440-4c1c-a652-589c0e53b0bf",
+      "time": "2026-11-10T17:12:29.291Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T17:05:01.884Z",
-  "lastUpdated": "10/11/2026, 10:35:01 pm",
+  "lastSyncedAt": "2026-11-10T17:12:29.304Z",
+  "lastUpdated": "10/11/2026, 10:42:29 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
