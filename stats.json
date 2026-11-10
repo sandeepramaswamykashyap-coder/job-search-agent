@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 11271,
-  "applicationsSubmitted": 582,
-  "totalVerifiedInHistory": 582,
+  "jobsScanned": 11331,
+  "applicationsSubmitted": 583,
+  "totalVerifiedInHistory": 583,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 360,
     "direct_portal_lever": 2,
-    "iimjobs": 150,
+    "iimjobs": 151,
     "indeed": 17,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Sentry",
-      "title": "Technical Enablement Director",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/sentry/ee7542d4-f478-4aa0-8da9-3583845d8269",
-      "time": "2026-11-10T04:03:51.838Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Sentry",
       "title": "Senior Technical Program Manager, AI Platform",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/amazon-program-manager-analytics-and-automation-1735502?ref=sp_br&jobPos=1",
       "time": "2026-11-10T19:12:29.418Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Spyne.ai - Program & Analytics Manager - Process Excellence & Automation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/spyneai-program-and-analytics-manager-process-excellence-and-automation-1737395?ref=sp&jobPos=2",
+      "time": "2026-11-10T19:17:35.566Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T19:16:57.700Z",
-  "lastUpdated": "11/11/2026, 12:46:57 am",
+  "lastSyncedAt": "2026-11-10T19:18:04.720Z",
+  "lastUpdated": "11/11/2026, 12:48:04 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
