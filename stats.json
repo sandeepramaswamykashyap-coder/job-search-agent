@@ -1,17 +1,17 @@
 {
-  "jobsScanned": 6159,
-  "applicationsSubmitted": 415,
-  "totalVerifiedInHistory": 415,
+  "jobsScanned": 6169,
+  "applicationsSubmitted": 422,
+  "totalVerifiedInHistory": 422,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 340,
+    "direct_portal_ashby": 343,
     "direct_portal_lever": 2,
     "iimjobs": 26,
     "indeed": 12,
-    "ashby": 8,
-    "naukri": 17
+    "ashby": 11,
+    "naukri": 18
   },
   "appliedRolesList": [
     {
@@ -3333,10 +3333,66 @@
       "url": "https://www.naukri.com/job-listings-operations-service-delivery-manager-bpo-resource-pro-bengaluru-12-to-21-years-250526030879?src=directSearch&sid=17943204759523224&xp=10&px=1",
       "time": "2026-11-10T14:22:07.397Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Global Developer Success",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/25568018-4545-448c-acef-1ac481e67d5d",
+      "time": "2026-11-10T14:22:52.331Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Global Developer Success",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/25568018-4545-448c-acef-1ac481e67d5d",
+      "time": "2026-11-10T14:22:52.372Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Adecco",
+      "title": "Senior Manager - AI & Intelligent Automation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-ai-intelligent-automation-adecco-india-bengaluru-11-to-13-years-051126015666?src=directSearch&sid=17943205423137715&xp=4&px=1",
+      "time": "2026-11-10T14:22:54.440Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Director, Global Field Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/ef2b1521-ebbd-45bc-98c8-2cc740c7207b",
+      "time": "2026-11-10T14:23:11.910Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Director, Global Field Operations",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/ef2b1521-ebbd-45bc-98c8-2cc740c7207b",
+      "time": "2026-11-10T14:23:11.954Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Marketing Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/09192de4-81c0-4da5-b632-e240637bf02b",
+      "time": "2026-11-10T14:23:30.369Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Director, Marketing Operations",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/09192de4-81c0-4da5-b632-e240637bf02b",
+      "time": "2026-11-10T14:23:30.401Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T14:22:43.899Z",
-  "lastUpdated": "10/11/2026, 7:52:43 pm",
+  "lastSyncedAt": "2026-11-10T14:23:30.406Z",
+  "lastUpdated": "10/11/2026, 7:53:30 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
