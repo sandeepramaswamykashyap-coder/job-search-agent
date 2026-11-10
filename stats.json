@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 14845,
-  "applicationsSubmitted": 603,
-  "totalVerifiedInHistory": 603,
+  "jobsScanned": 14915,
+  "applicationsSubmitted": 43,
+  "totalVerifiedInHistory": 604,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 362,
     "direct_portal_lever": 2,
-    "iimjobs": 166,
+    "iimjobs": 167,
     "indeed": 20,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Perplexity",
-      "title": "Program Manager, Talent Acquisition",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/Perplexity/8ede25ea-9212-4007-bb99-feae4d1a3014",
-      "time": "2026-11-10T04:38:04.752Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Digital Natives - Nordics",
@@ -4014,10 +4006,88 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocSzXhQAAAACZ0Ff3QAQAQABXr9IJKgDdfjbeguGDAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocSzXhQAAAACZ0Ff3QAQAQABXr9IJKgDdfjbeguGDAAA&from=page-two-signin",
       "time": "2026-11-10T22:27:13.335Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Governance Operations Role",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-governance-operations-role-1741154?ref=sp&jobPos=18",
+      "time": "2026-11-10T22:29:50.543Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-10T22:30:33.231Z"
+    },
+    {
+      "company": "Grüns",
+      "title": "People Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "time": "2026-11-10T22:30:33.234Z"
+    },
+    {
+      "company": "Lighthouse",
+      "title": "Review Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
+      "time": "2026-11-10T22:30:33.235Z"
+    },
+    {
+      "company": "We Are Rosie",
+      "title": "Media Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+      "time": "2026-11-10T22:30:33.237Z"
+    },
+    {
+      "company": "Industrial Electric Manufacturing",
+      "title": "Commercial Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
+      "time": "2026-11-10T22:30:33.238Z"
+    },
+    {
+      "company": "Super Speciosa",
+      "title": "Supply Chain &amp; Operations Manager - LATAM",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "time": "2026-11-10T22:30:33.240Z"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-10T22:30:33.241Z"
+    },
+    {
+      "company": "Mecka",
+      "title": "Partner Operations Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "time": "2026-11-10T22:30:33.243Z"
+    },
+    {
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "time": "2026-11-10T22:30:33.244Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/2007928/",
+      "time": "2026-11-10T22:30:33.245Z"
     }
   ],
-  "lastSyncedAt": "2026-11-10T22:29:22.963Z",
-  "lastUpdated": "11/11/2026, 3:59:22 am",
+  "lastSyncedAt": "2026-11-10T22:30:17.735Z",
+  "lastUpdated": "11/11/2026, 4:00:17 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
