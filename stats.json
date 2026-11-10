@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 12681,
-  "applicationsSubmitted": 589,
-  "totalVerifiedInHistory": 589,
+  "jobsScanned": 12781,
+  "applicationsSubmitted": 590,
+  "totalVerifiedInHistory": 590,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 360,
     "direct_portal_lever": 2,
-    "iimjobs": 157,
+    "iimjobs": 158,
     "indeed": 17,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Perplexity",
-      "title": "Director, Litigation",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/Perplexity/ea29039d-3900-43d3-a555-ff790677cbe9",
-      "time": "2026-11-10T04:20:47.157Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Strategy & Operations Lead — SEA & ANZ",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/datagaps-product-head-data-quality-and-governance-and-modern-data-platforms-1739380?ref=sp_br&jobPos=4",
       "time": "2026-11-10T20:26:24.314Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Architect - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-architect-data-governance-1738947?ref=sp&jobPos=6",
+      "time": "2026-11-10T20:34:25.498Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T20:34:00.773Z",
-  "lastUpdated": "11/11/2026, 2:04:00 am",
+  "lastSyncedAt": "2026-11-10T20:37:40.541Z",
+  "lastUpdated": "11/11/2026, 2:07:40 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
