@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 3856,
-  "applicationsSubmitted": 313,
-  "totalVerifiedInHistory": 313,
+  "jobsScanned": 3926,
+  "applicationsSubmitted": 314,
+  "totalVerifiedInHistory": 314,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 274,
+    "direct_portal_ashby": 275,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 10,
@@ -2517,10 +2517,18 @@
       "url": "https://jobs.ashbyhq.com/cohere/3898333d-fcbe-4d3f-afad-8be721b08319",
       "time": "2026-11-10T09:04:47.662Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Product Manager, Privacy & Data Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
+      "time": "2026-11-10T09:05:12.446Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T09:04:47.674Z",
-  "lastUpdated": "10/11/2026, 2:34:47 pm",
+  "lastSyncedAt": "2026-11-10T09:05:12.473Z",
+  "lastUpdated": "10/11/2026, 2:35:12 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
