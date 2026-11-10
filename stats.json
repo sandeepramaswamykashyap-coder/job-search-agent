@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 12901,
-  "applicationsSubmitted": 590,
-  "totalVerifiedInHistory": 590,
+  "jobsScanned": 12981,
+  "applicationsSubmitted": 591,
+  "totalVerifiedInHistory": 591,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 360,
     "direct_portal_lever": 2,
-    "iimjobs": 158,
+    "iimjobs": 159,
     "indeed": 17,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead — SEA & ANZ",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/b1a5980d-1c52-4af5-8596-5951b584ca37",
-      "time": "2026-11-10T04:23:04.687Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Digital Native New Business",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/data-architect-data-governance-1738947?ref=sp&jobPos=6",
       "time": "2026-11-10T20:34:25.498Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amazon - Program Manager - Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amazon-program-manager-data-governance-1738855?ref=sp_br&jobPos=7",
+      "time": "2026-11-10T20:48:22.989Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T20:43:46.085Z",
-  "lastUpdated": "11/11/2026, 2:13:46 am",
+  "lastSyncedAt": "2026-11-10T20:48:53.023Z",
+  "lastUpdated": "11/11/2026, 2:18:53 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
