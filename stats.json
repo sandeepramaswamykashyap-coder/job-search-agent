@@ -1,5 +1,5 @@
 {
-  "jobsScanned": 7383,
+  "jobsScanned": 7413,
   "applicationsSubmitted": 507,
   "totalVerifiedInHistory": 507,
   "portalBreakdown": {
@@ -4014,59 +4014,10 @@
       "url": "https://www.iimjobs.com/j/head-hr-operations-and-technology-transformation-1739375?ref=sp&jobPos=4",
       "time": "2026-11-10T15:32:00.166Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "DEPT®",
-      "title": "Project Manager - Creative - US Remote",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-      "time": "2026-11-10T15:32:06.474Z"
-    },
-    {
-      "company": "Grüns",
-      "title": "People Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
-      "time": "2026-11-10T15:32:06.476Z"
-    },
-    {
-      "company": "Lighthouse",
-      "title": "Review Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
-      "time": "2026-11-10T15:32:06.478Z"
-    },
-    {
-      "company": "We Are Rosie",
-      "title": "Media Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
-      "time": "2026-11-10T15:32:06.479Z"
-    },
-    {
-      "company": "Industrial Electric Manufacturing",
-      "title": "Commercial Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
-      "time": "2026-11-10T15:32:06.481Z"
-    },
-    {
-      "company": "Super Speciosa",
-      "title": "Supply Chain &amp; Operations Manager - LATAM",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "time": "2026-11-10T15:32:06.483Z"
-    },
-    {
-      "company": "Toptal",
-      "title": "Agile Program Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "time": "2026-11-10T15:32:06.484Z"
     }
   ],
-  "lastSyncedAt": "2026-11-10T15:32:00.175Z",
-  "lastUpdated": "10/11/2026, 9:02:00 pm",
+  "lastSyncedAt": "2026-11-10T15:38:06.203Z",
+  "lastUpdated": "10/11/2026, 9:08:06 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
