@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 13161,
-  "applicationsSubmitted": 591,
-  "totalVerifiedInHistory": 591,
+  "jobsScanned": 13275,
+  "applicationsSubmitted": 592,
+  "totalVerifiedInHistory": 592,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 360,
     "direct_portal_lever": 2,
-    "iimjobs": 159,
+    "iimjobs": 160,
     "indeed": 17,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Digital Native New Business",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/07fb9365-8e80-48fe-86df-08d60dd46f43",
-      "time": "2026-11-10T04:24:05.200Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Support Operations Manager",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/amazon-program-manager-data-governance-1738855?ref=sp_br&jobPos=7",
       "time": "2026-11-10T20:48:22.989Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "BCG - Senior Manager - Finance Data Governance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bcg-senior-manager-finance-data-governance-1733985?ref=sp_br&jobPos=9",
+      "time": "2026-11-10T21:00:30.849Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T21:00:24.161Z",
-  "lastUpdated": "11/11/2026, 2:30:24 am",
+  "lastSyncedAt": "2026-11-10T21:05:04.757Z",
+  "lastUpdated": "11/11/2026, 2:35:04 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
