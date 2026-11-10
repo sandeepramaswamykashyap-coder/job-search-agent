@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 1147,
-  "applicationsSubmitted": 66,
-  "totalVerifiedInHistory": 66,
+  "jobsScanned": 1167,
+  "applicationsSubmitted": 73,
+  "totalVerifiedInHistory": 73,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 56
+    "direct_portal_ashby": 63
   },
   "appliedRolesList": [
     {
@@ -536,10 +536,66 @@
       "url": "https://jobs.ashbyhq.com/openai/20df76c8-aa7e-40d1-8602-28605ed5431b",
       "time": "2026-11-10T03:47:39.081Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Security Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0",
+      "time": "2026-11-10T03:47:39.875Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, M&A Recruiting | People",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/8f2d7c1e-7a76-4145-9a9d-b71a12ef9ad4",
+      "time": "2026-11-10T03:47:50.481Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Applied AI Delivery Lead - Remote in AMER",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2c531790-726c-4d39-b3bd-900c59a09a4d",
+      "time": "2026-11-10T03:47:50.581Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Compliance Program Manager — Regulatory Compliance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5f094405-1b54-419b-88b2-df1d7eb16af0",
+      "time": "2026-11-10T03:48:10.755Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Data Program Manager, Science",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2bdd1b8b-2883-40fb-b006-583959ad4c5f",
+      "time": "2026-11-10T03:48:13.351Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Events & Field Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
+      "time": "2026-11-10T03:48:41.685Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - ANZ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/392b0b95-26e6-4fb8-841f-97e528acd711",
+      "time": "2026-11-10T03:48:53.545Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T03:47:39.089Z",
-  "lastUpdated": "10/11/2026, 9:17:39 am",
+  "lastSyncedAt": "2026-11-10T03:48:54.112Z",
+  "lastUpdated": "10/11/2026, 9:18:54 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
