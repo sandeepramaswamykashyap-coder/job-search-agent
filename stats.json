@@ -1,15 +1,15 @@
 {
-  "jobsScanned": 2672,
-  "applicationsSubmitted": 209,
-  "totalVerifiedInHistory": 209,
+  "jobsScanned": 2768,
+  "applicationsSubmitted": 217,
+  "totalVerifiedInHistory": 217,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 178,
+    "direct_portal_ashby": 185,
     "direct_portal_lever": 2,
     "iimjobs": 11,
-    "indeed": 7,
+    "indeed": 8,
     "ashby": 1
   },
   "appliedRolesList": [
@@ -1684,10 +1684,74 @@
       "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
       "time": "2026-11-10T07:50:29.198Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations | General Builder (All Levels)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285",
+      "time": "2026-11-10T07:51:57.355Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Director, sales enablement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/df418494-25a9-4516-ad3a-2e69041c6921",
+      "time": "2026-11-10T07:52:02.161Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of Support Engineering (US)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/bec10b58-7364-45f5-93fa-e031a289e630",
+      "time": "2026-11-10T07:53:53.308Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Senior Product Manager - IT Operations",
+      "portal": "indeed",
+      "url": "https://in.indeed.com/jobs?q=Senior%20Operations%20Manager&l=Bengaluru%2C%20Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp",
+      "time": "2026-11-10T07:54:04.470Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/e3e6ddf1-2b57-4580-8564-e823d7fed763",
+      "time": "2026-11-10T07:54:54.311Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Customer Experience Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803",
+      "time": "2026-11-10T07:55:15.703Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations Specialist | Procurement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+      "time": "2026-11-10T07:55:52.088Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "KYB Operations Lead, UK",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
+      "time": "2026-11-10T07:56:05.134Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T07:50:31.932Z",
-  "lastUpdated": "10/11/2026, 1:20:31 pm",
+  "lastSyncedAt": "2026-11-10T07:56:07.063Z",
+  "lastUpdated": "10/11/2026, 1:26:07 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
