@@ -1,60 +1,20 @@
 {
-  "jobsScanned": 9071,
-  "applicationsSubmitted": 554,
-  "totalVerifiedInHistory": 554,
+  "jobsScanned": 9261,
+  "applicationsSubmitted": 510,
+  "totalVerifiedInHistory": 559,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 356,
+    "direct_portal_ashby": 358,
     "direct_portal_lever": 2,
-    "iimjobs": 127,
+    "iimjobs": 130,
     "indeed": 17,
     "ashby": 11,
     "naukri": 29,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Vendor Security Technical Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3ae71c21-60dd-42b2-a913-58df05988976",
-      "time": "2026-11-10T03:46:48.133Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Applied AI Delivery Lead - London",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85",
-      "time": "2026-11-10T03:46:49.322Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Research Compute Services",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/e49133e6-4030-4295-b393-1725aa410344",
-      "time": "2026-11-10T03:46:57.499Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, People Innovation Labs",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/87ef8476-e930-47ed-abc2-a1bedcc074fb",
-      "time": "2026-11-10T03:46:58.885Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Research Program Manager, Safety Systems",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/d769a04e-c300-454a-8c68-1c93d04a6bb6",
-      "time": "2026-11-10T03:47:00.744Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Research Program Manager, Safety Measurement",
@@ -4014,10 +3974,120 @@
       "url": "https://jobs.ashbyhq.com/openai/2ccf7ce8-7440-4c1c-a652-589c0e53b0bf",
       "time": "2026-11-10T17:12:29.291Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, NTT Data Global",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/206bd77f-fdc1-438e-bb04-f226fa060637",
+      "time": "2026-11-10T17:13:03.385Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, Oracle North America",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2bc7ca9b-4eae-4bda-982b-c1ac1d4e8596",
+      "time": "2026-11-10T17:15:15.898Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager/Manager - Business Development - IT Services/Solutions - West Reg",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-manager-business-development-it-services-solutions-west-region-1744703?ref=sp&jobPos=1",
+      "time": "2026-11-10T17:22:03.985Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Internal Audit",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-internal-audit-1744487?ref=sp&jobPos=2",
+      "time": "2026-11-10T17:22:09.766Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Transfer Pricing - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-transfer-pricing-ca-1743553?ref=sp&jobPos=7",
+      "time": "2026-11-10T17:22:15.594Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-10T17:22:43.662Z"
+    },
+    {
+      "company": "Grüns",
+      "title": "People Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "time": "2026-11-10T17:22:43.663Z"
+    },
+    {
+      "company": "Lighthouse",
+      "title": "Review Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
+      "time": "2026-11-10T17:22:43.664Z"
+    },
+    {
+      "company": "We Are Rosie",
+      "title": "Media Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+      "time": "2026-11-10T17:22:43.665Z"
+    },
+    {
+      "company": "Industrial Electric Manufacturing",
+      "title": "Commercial Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
+      "time": "2026-11-10T17:22:43.666Z"
+    },
+    {
+      "company": "Super Speciosa",
+      "title": "Supply Chain &amp; Operations Manager - LATAM",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "time": "2026-11-10T17:22:43.667Z"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-10T17:22:43.668Z"
+    },
+    {
+      "company": "Mecka",
+      "title": "Partner Operations Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "time": "2026-11-10T17:22:43.669Z"
+    },
+    {
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "time": "2026-11-10T17:22:43.670Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/2007928/",
+      "time": "2026-11-10T17:22:43.671Z"
     }
   ],
-  "lastSyncedAt": "2026-11-10T17:12:29.304Z",
-  "lastUpdated": "10/11/2026, 10:42:29 pm",
+  "lastSyncedAt": "2026-11-10T17:22:15.601Z",
+  "lastUpdated": "10/11/2026, 10:52:15 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",

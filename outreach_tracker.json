@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-10T17:11:02.110Z",
+  "lastUpdated": "2026-11-10T17:17:21.924Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -114,7 +114,7 @@
       "company": "Foundit Partner",
       "title": "Managing Director - Operations",
       "dispatchedAt": "2026-08-06T17:15:29.146Z",
-      "daysElapsed": 95,
+      "daysElapsed": 96,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
