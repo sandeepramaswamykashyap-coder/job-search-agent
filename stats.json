@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 16239,
-  "applicationsSubmitted": 609,
-  "totalVerifiedInHistory": 609,
+  "jobsScanned": 16289,
+  "applicationsSubmitted": 610,
+  "totalVerifiedInHistory": 610,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 362,
     "direct_portal_lever": 2,
-    "iimjobs": 172,
+    "iimjobs": 173,
     "indeed": 20,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Life Sciences",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0b32c370-a2bb-4784-a326-67dfbb130ef5",
-      "time": "2026-11-10T04:49:27.427Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Financial Services",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/senior-manager-data-product-owner-operations-1744320?ref=sp&jobPos=13",
       "time": "2026-11-10T23:31:39.687Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Product Manager - Reltio MDM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-product-manager-reltio-mdm-1735737?ref=sp&jobPos=17",
+      "time": "2026-11-10T23:45:30.207Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T23:45:25.783Z",
-  "lastUpdated": "11/11/2026, 5:15:25 am",
+  "lastSyncedAt": "2026-11-10T23:46:53.494Z",
+  "lastUpdated": "11/11/2026, 5:16:53 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
