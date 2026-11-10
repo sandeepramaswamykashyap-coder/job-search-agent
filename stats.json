@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 6379,
-  "applicationsSubmitted": 460,
-  "totalVerifiedInHistory": 460,
+  "jobsScanned": 6399,
+  "applicationsSubmitted": 461,
+  "totalVerifiedInHistory": 461,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 352,
+    "direct_portal_ashby": 353,
     "direct_portal_lever": 2,
     "iimjobs": 50,
     "indeed": 12,
@@ -3694,10 +3694,18 @@
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/jobs?q=program+manager",
       "time": "2026-11-10T14:36:48.101Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Senior Manager, Workplace Experience",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/afa818b7-1f52-48e6-bf4d-71593d314e5c",
+      "time": "2026-11-10T14:39:20.040Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T14:36:48.114Z",
-  "lastUpdated": "10/11/2026, 8:06:48 pm",
+  "lastSyncedAt": "2026-11-10T14:39:20.050Z",
+  "lastUpdated": "10/11/2026, 8:09:20 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
