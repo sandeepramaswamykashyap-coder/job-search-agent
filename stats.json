@@ -1,60 +1,20 @@
 {
-  "jobsScanned": 8671,
-  "applicationsSubmitted": 510,
-  "totalVerifiedInHistory": 541,
+  "jobsScanned": 8811,
+  "applicationsSubmitted": 546,
+  "totalVerifiedInHistory": 546,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 355,
     "direct_portal_lever": 2,
-    "iimjobs": 115,
+    "iimjobs": 120,
     "indeed": 17,
     "ashby": 11,
     "naukri": 29,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Senior Manager, EHS - Robotics",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/099374c6-3cbb-4964-9a1d-31e6e5b5dcd2",
-      "time": "2026-11-10T03:45:44.497Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Research Program Manager, Frontier Assurance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa",
-      "time": "2026-11-10T03:45:46.214Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Technical Program Manager, Global Programs — Applied AI Engineering",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/cd3c9c99-9527-4ba2-bea7-9f8f4892bc62",
-      "time": "2026-11-10T03:45:56.343Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Program Manager, National Security Policy Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/3228eed1-9cb3-4330-82c3-19fb3dbb4408",
-      "time": "2026-11-10T03:46:02.023Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Regulatory Operations Analyst, User Safety & Risk Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/bc059a72-8ff3-4a80-a499-5b82ccca1f05",
-      "time": "2026-11-10T03:46:05.130Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Strategic Delivery Lead, Cyber",
@@ -4016,78 +3976,48 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "DEPT®",
-      "title": "Project Manager - Creative - US Remote",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-      "time": "2026-11-10T16:49:37.884Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Risk Manager - Portfolio Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/risk-manager-portfolio-management-1737941?ref=sp&jobPos=4",
+      "time": "2026-11-10T16:54:19.747Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Grüns",
-      "title": "People Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
-      "time": "2026-11-10T16:49:37.887Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Harman Finochem - Portfolio Manager - Product Development & Strategy - API",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/harman-finochem-portfolio-manager-product-development-and-strategy-api-1736500?ref=sp&jobPos=5",
+      "time": "2026-11-10T16:54:25.545Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Lighthouse",
-      "title": "Review Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
-      "time": "2026-11-10T16:49:37.888Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Zuventus Healthcare - Product Manager - Gynec Portfolio",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/zuventus-healthcare-product-manager-gynec-portfolio-1728062?ref=sp&jobPos=6",
+      "time": "2026-11-10T16:54:31.362Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "We Are Rosie",
-      "title": "Media Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
-      "time": "2026-11-10T16:49:37.889Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager - Equity Portfolio Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-equity-portfolio-management-1725578?ref=sp&jobPos=7",
+      "time": "2026-11-10T16:54:37.159Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Industrial Electric Manufacturing",
-      "title": "Commercial Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
-      "time": "2026-11-10T16:49:37.891Z"
-    },
-    {
-      "company": "Super Speciosa",
-      "title": "Supply Chain &amp; Operations Manager - LATAM",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "time": "2026-11-10T16:49:37.892Z"
-    },
-    {
-      "company": "Toptal",
-      "title": "Agile Program Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "time": "2026-11-10T16:49:37.893Z"
-    },
-    {
-      "company": "Mecka",
-      "title": "Partner Operations Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "time": "2026-11-10T16:49:37.895Z"
-    },
-    {
-      "company": "Smile Digital Health",
-      "title": "Cloud Engineer Automation",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "time": "2026-11-10T16:49:37.896Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/2007928/",
-      "time": "2026-11-10T16:49:37.897Z"
+      "company": "IIMJobs Verified Employer",
+      "title": "Intas Pharmaceuticals - Senior Manager/Assistant General Manager - Project Manag",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/intas-pharmaceuticals-senior-manager-assistant-general-manager-project-management-office-portfolio-management-1738294?ref=sp&jobPos=8",
+      "time": "2026-11-10T16:54:42.953Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T16:49:30.567Z",
-  "lastUpdated": "10/11/2026, 10:19:30 pm",
+  "lastSyncedAt": "2026-11-10T16:59:07.575Z",
+  "lastUpdated": "10/11/2026, 10:29:07 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
