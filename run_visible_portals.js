@@ -408,13 +408,15 @@ async function main() {
 
     try {
       browserContext = await chromium.launchPersistentContext(SESSION_DIR, {
-        channel: 'chrome',
-        headless: !isHeaded,
-        slowMo: isHeaded ? 100 : 0,
+        // Use Playwright's own Chromium (headless-shell) to avoid conflicting
+        // with the user's system Google Chrome and its SingletonLock.
+        headless: true,
+        slowMo: 0,
         viewport: { width: 1280, height: 850 },
         userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
         args: [
-          '--disable-blink-features=AutomationControlled'
+          '--disable-blink-features=AutomationControlled',
+          '--no-sandbox',
         ]
       });
 

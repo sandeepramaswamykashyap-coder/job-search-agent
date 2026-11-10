@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 5899,
-  "applicationsSubmitted": 354,
-  "totalVerifiedInHistory": 354,
+  "jobsScanned": 5939,
+  "applicationsSubmitted": 362,
+  "totalVerifiedInHistory": 362,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 310,
+    "direct_portal_ashby": 318,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 12,
@@ -2845,10 +2845,74 @@
       "url": "https://jobs.ashbyhq.com/cohere/068e9b49-e22b-493c-824f-0cc52840c80c",
       "time": "2026-11-10T14:07:19.182Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pika",
+      "title": "Head of Engineer, Product",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/pika/99c13be0-3acc-40cb-b0f9-b546dbd7cf1f",
+      "time": "2026-11-10T14:08:26.356Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director, Editorial & Curation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/7d292561-ebb2-4ee1-b98d-f8850819403d",
+      "time": "2026-11-10T14:08:26.742Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director, Trust & Safety",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/9ed2cea6-b250-4b49-bd75-b761793af0f8",
+      "time": "2026-11-10T14:08:49.355Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director of Strategic Sourcing and Procurement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/c92070de-4617-4ea1-91b5-dbdf9e404519",
+      "time": "2026-11-10T14:09:13.967Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Staff Software Engineer - Data Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/95225497-fc9b-4c5d-8df0-df98df219ae5",
+      "time": "2026-11-10T14:09:39.122Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Product Operations Specialist",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/a063f469-1ec5-44d1-8cc5-1da47a7b8783",
+      "time": "2026-11-10T14:10:08.562Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Executive Operations Leader",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/c7395637-aa6b-43c0-8204-f0381f9b04be",
+      "time": "2026-11-10T14:10:38.876Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Director | Debt Finance | Real Estate",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/abd732f6-536c-420a-a1ab-3a7d570e76bb",
+      "time": "2026-11-10T14:11:00.307Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T14:07:19.761Z",
-  "lastUpdated": "10/11/2026, 7:37:19 pm",
+  "lastSyncedAt": "2026-11-10T14:11:00.379Z",
+  "lastUpdated": "10/11/2026, 7:41:00 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
