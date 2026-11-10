@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 3926,
-  "applicationsSubmitted": 314,
-  "totalVerifiedInHistory": 314,
+  "jobsScanned": 3936,
+  "applicationsSubmitted": 317,
+  "totalVerifiedInHistory": 317,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 275,
+    "direct_portal_ashby": 278,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 10,
@@ -2525,10 +2525,34 @@
       "url": "https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
       "time": "2026-11-10T09:05:12.446Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Staff Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/36613609-2dbd-42d9-8433-60601145d991",
+      "time": "2026-11-10T09:05:23.495Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "time": "2026-11-10T09:05:44.095Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "People Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/c38d85e9-4608-4615-a65b-baac1b80f871",
+      "time": "2026-11-10T09:05:46.241Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T09:05:12.473Z",
-  "lastUpdated": "10/11/2026, 2:35:12 pm",
+  "lastSyncedAt": "2026-11-10T09:05:46.259Z",
+  "lastUpdated": "10/11/2026, 2:35:46 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
