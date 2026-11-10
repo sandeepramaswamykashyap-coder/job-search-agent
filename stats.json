@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 13355,
-  "applicationsSubmitted": 592,
-  "totalVerifiedInHistory": 592,
+  "jobsScanned": 13535,
+  "applicationsSubmitted": 32,
+  "totalVerifiedInHistory": 593,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 360,
     "direct_portal_lever": 2,
-    "iimjobs": 160,
+    "iimjobs": 161,
     "indeed": 17,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Support Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
-      "time": "2026-11-10T04:24:45.898Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Cyber",
@@ -4014,10 +4006,88 @@
       "url": "https://www.iimjobs.com/j/bcg-senior-manager-finance-data-governance-1733985?ref=sp_br&jobPos=9",
       "time": "2026-11-10T21:00:30.849Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Data Quality & Governance Lead - Master Data Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/data-quality-and-governance-lead-master-data-management-1735212?ref=sp&jobPos=10",
+      "time": "2026-11-10T21:16:35.172Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-10T21:20:30.395Z"
+    },
+    {
+      "company": "Grüns",
+      "title": "People Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "time": "2026-11-10T21:20:30.397Z"
+    },
+    {
+      "company": "Lighthouse",
+      "title": "Review Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
+      "time": "2026-11-10T21:20:30.399Z"
+    },
+    {
+      "company": "We Are Rosie",
+      "title": "Media Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+      "time": "2026-11-10T21:20:30.400Z"
+    },
+    {
+      "company": "Industrial Electric Manufacturing",
+      "title": "Commercial Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
+      "time": "2026-11-10T21:20:30.402Z"
+    },
+    {
+      "company": "Super Speciosa",
+      "title": "Supply Chain &amp; Operations Manager - LATAM",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "time": "2026-11-10T21:20:30.403Z"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-10T21:20:30.404Z"
+    },
+    {
+      "company": "Mecka",
+      "title": "Partner Operations Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "time": "2026-11-10T21:20:30.406Z"
+    },
+    {
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "time": "2026-11-10T21:20:30.407Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/2007928/",
+      "time": "2026-11-10T21:20:30.409Z"
     }
   ],
-  "lastSyncedAt": "2026-11-10T21:09:28.813Z",
-  "lastUpdated": "11/11/2026, 2:39:28 am",
+  "lastSyncedAt": "2026-11-10T21:20:06.202Z",
+  "lastUpdated": "11/11/2026, 2:50:06 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
