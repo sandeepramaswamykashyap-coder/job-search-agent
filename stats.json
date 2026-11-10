@@ -1,76 +1,20 @@
 {
-  "jobsScanned": 7183,
-  "applicationsSubmitted": 500,
-  "totalVerifiedInHistory": 500,
+  "jobsScanned": 7383,
+  "applicationsSubmitted": 507,
+  "totalVerifiedInHistory": 507,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 353,
     "direct_portal_lever": 2,
-    "iimjobs": 77,
+    "iimjobs": 84,
     "indeed": 16,
     "ashby": 11,
     "naukri": 29,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "DEPT®",
-      "title": "Project Manager - Creative - US Remote",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-      "time": "2026-11-10T03:20:44.970Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Grüns",
-      "title": "People Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
-      "time": "2026-11-10T03:20:51.197Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Lighthouse",
-      "title": "Review Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
-      "time": "2026-11-10T03:20:52.230Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "We Are Rosie",
-      "title": "Media Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
-      "time": "2026-11-10T03:20:53.284Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Industrial Electric Manufacturing",
-      "title": "Commercial Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
-      "time": "2026-11-10T03:20:53.598Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Super Speciosa",
-      "title": "Supply Chain &amp; Operations Manager - LATAM",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "time": "2026-11-10T03:20:54.054Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Toptal",
-      "title": "Agile Program Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "time": "2026-11-10T03:20:54.316Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Mecka",
       "title": "Partner Operations Manager",
@@ -4014,10 +3958,115 @@
       "url": "https://www.iimjobs.com/j/moglix-senior-manager-strategy-and-operations-1743332?ref=sp_br&jobPos=13",
       "time": "2026-11-10T15:17:34.266Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Porter - Senior Manager - City Operations & P&L",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/porter-senior-manager-city-operations-and-pandl-1742797?ref=sp&jobPos=15",
+      "time": "2026-11-10T15:31:21.189Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Arcesium - Senior Manager - Financial Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/arcesium-senior-manager-financial-operations-1739604?ref=sp&jobPos=17",
+      "time": "2026-11-10T15:31:27.027Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Namhya Foods - Senior Operations Manager - D2C Business",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/namhya-foods-senior-operations-manager-d2c-business-1741533?ref=sp&jobPos=18",
+      "time": "2026-11-10T15:31:32.899Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Executive Director - Operations Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-executive-director-operations-transformation-1743202?ref=sp_br&jobPos=1",
+      "time": "2026-11-10T15:31:42.675Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Chubb - Strategy & Transformation Lead - Technology Strategy & Operations Office",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/chubb-strategy-and-transformation-lead-technology-strategy-and-operations-office-1736771?ref=sp_br&jobPos=2",
+      "time": "2026-11-10T15:31:48.467Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Westbury Sportswear - Assistant Vice President - Operations & Warehouse Transfor",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/westbury-sportswear-assistant-vice-president-operations-and-warehouse-transformation-1730006?ref=sp_br&jobPos=3",
+      "time": "2026-11-10T15:31:54.273Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - HR Operations & Technology Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-hr-operations-and-technology-transformation-1739375?ref=sp&jobPos=4",
+      "time": "2026-11-10T15:32:00.166Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-10T15:32:06.474Z"
+    },
+    {
+      "company": "Grüns",
+      "title": "People Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "time": "2026-11-10T15:32:06.476Z"
+    },
+    {
+      "company": "Lighthouse",
+      "title": "Review Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
+      "time": "2026-11-10T15:32:06.478Z"
+    },
+    {
+      "company": "We Are Rosie",
+      "title": "Media Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+      "time": "2026-11-10T15:32:06.479Z"
+    },
+    {
+      "company": "Industrial Electric Manufacturing",
+      "title": "Commercial Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
+      "time": "2026-11-10T15:32:06.481Z"
+    },
+    {
+      "company": "Super Speciosa",
+      "title": "Supply Chain &amp; Operations Manager - LATAM",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "time": "2026-11-10T15:32:06.483Z"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-10T15:32:06.484Z"
     }
   ],
-  "lastSyncedAt": "2026-11-10T15:22:10.892Z",
-  "lastUpdated": "10/11/2026, 8:52:10 pm",
+  "lastSyncedAt": "2026-11-10T15:32:00.175Z",
+  "lastUpdated": "10/11/2026, 9:02:00 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
