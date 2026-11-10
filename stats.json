@@ -1,12 +1,11 @@
 {
-  "jobsScanned": 987,
-  "applicationsSubmitted": 11,
-  "totalVerifiedInHistory": 11,
+  "jobsScanned": 1017,
+  "applicationsSubmitted": 10,
+  "totalVerifiedInHistory": 10,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
-    "workingnomads": 1,
-    "direct_portal_lever": 1
+    "workingnomads": 1
   },
   "appliedRolesList": [
     {
@@ -14,7 +13,7 @@
       "title": "Project Manager - Creative - US Remote",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-      "time": "2026-11-10T02:57:18.182Z",
+      "time": "2026-11-10T03:20:44.970Z",
       "status": "SUBMITTED"
     },
     {
@@ -22,7 +21,7 @@
       "title": "People Operations Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
-      "time": "2026-11-10T02:57:23.726Z",
+      "time": "2026-11-10T03:20:51.197Z",
       "status": "SUBMITTED"
     },
     {
@@ -30,7 +29,7 @@
       "title": "Review Program Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
-      "time": "2026-11-10T02:57:24.938Z",
+      "time": "2026-11-10T03:20:52.230Z",
       "status": "SUBMITTED"
     },
     {
@@ -38,7 +37,7 @@
       "title": "Media Project Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
-      "time": "2026-11-10T02:57:25.081Z",
+      "time": "2026-11-10T03:20:53.284Z",
       "status": "SUBMITTED"
     },
     {
@@ -46,7 +45,7 @@
       "title": "Commercial Program Manager",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
-      "time": "2026-11-10T02:57:25.364Z",
+      "time": "2026-11-10T03:20:53.598Z",
       "status": "SUBMITTED"
     },
     {
@@ -54,7 +53,7 @@
       "title": "Supply Chain &amp; Operations Manager - LATAM",
       "portal": "weworkremotely",
       "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "time": "2026-11-10T02:57:26.100Z",
+      "time": "2026-11-10T03:20:54.054Z",
       "status": "SUBMITTED"
     },
     {
@@ -62,7 +61,7 @@
       "title": "Agile Program Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "time": "2026-11-10T02:57:26.464Z",
+      "time": "2026-11-10T03:20:54.316Z",
       "status": "SUBMITTED"
     },
     {
@@ -70,7 +69,7 @@
       "title": "Partner Operations Manager",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "time": "2026-11-10T02:57:27.300Z",
+      "time": "2026-11-10T03:20:54.631Z",
       "status": "SUBMITTED"
     },
     {
@@ -78,7 +77,7 @@
       "title": "Cloud Engineer Automation",
       "portal": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "time": "2026-11-10T02:57:27.635Z",
+      "time": "2026-11-10T03:20:55.251Z",
       "status": "SUBMITTED"
     },
     {
@@ -86,20 +85,12 @@
       "title": "Senior QA Automation Engineer",
       "portal": "workingnomads",
       "url": "https://www.workingnomads.com/job/go/2007928/",
-      "time": "2026-11-10T02:57:28.088Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Alloy",
-      "title": "Head of Data Partnerships",
-      "portal": "direct_portal_lever",
-      "url": "https://jobs.lever.co/alloy/832444a0-eed8-4dd3-9a05-96ff13070500/apply",
-      "time": "2026-11-10T03:13:09.316Z",
+      "time": "2026-11-10T03:21:48.848Z",
       "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T03:18:22.140Z",
-  "lastUpdated": "10/11/2026, 8:48:22 am",
+  "lastSyncedAt": "2026-11-10T03:21:50.181Z",
+  "lastUpdated": "10/11/2026, 8:51:50 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
