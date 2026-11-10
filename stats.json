@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 14055,
-  "applicationsSubmitted": 37,
-  "totalVerifiedInHistory": 598,
+  "jobsScanned": 14135,
+  "applicationsSubmitted": 599,
+  "totalVerifiedInHistory": 599,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -9,20 +9,12 @@
     "direct_portal_ashby": 361,
     "direct_portal_lever": 2,
     "iimjobs": 164,
-    "indeed": 18,
+    "indeed": 19,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Elevenlabs",
-      "title": "Revenue Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/b28719ff-833d-49b4-8286-f59082732186",
-      "time": "2026-11-10T04:32:06.464Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Perplexity",
       "title": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
@@ -4016,78 +4008,16 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "DEPT®",
-      "title": "Project Manager - Creative - US Remote",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-      "time": "2026-11-10T21:46:21.504Z"
-    },
-    {
-      "company": "Grüns",
-      "title": "People Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
-      "time": "2026-11-10T21:46:21.506Z"
-    },
-    {
-      "company": "Lighthouse",
-      "title": "Review Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
-      "time": "2026-11-10T21:46:21.508Z"
-    },
-    {
-      "company": "We Are Rosie",
-      "title": "Media Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
-      "time": "2026-11-10T21:46:21.511Z"
-    },
-    {
-      "company": "Industrial Electric Manufacturing",
-      "title": "Commercial Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
-      "time": "2026-11-10T21:46:21.513Z"
-    },
-    {
-      "company": "Super Speciosa",
-      "title": "Supply Chain &amp; Operations Manager - LATAM",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "time": "2026-11-10T21:46:21.515Z"
-    },
-    {
-      "company": "Toptal",
-      "title": "Agile Program Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "time": "2026-11-10T21:46:21.517Z"
-    },
-    {
-      "company": "Mecka",
-      "title": "Partner Operations Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "time": "2026-11-10T21:46:21.519Z"
-    },
-    {
-      "company": "Smile Digital Health",
-      "title": "Cloud Engineer Automation",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "time": "2026-11-10T21:46:21.521Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/2007928/",
-      "time": "2026-11-10T21:46:21.523Z"
+      "company": "Nutanix",
+      "title": "Senior Product Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocSzXhQAAAACZ0Ff3QAQAQABXr9IJKgDdfjbeguGDAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocSzXhQAAAACZ0Ff3QAQAQABXr9IJKgDdfjbeguGDAAA&from=page-two-signin",
+      "time": "2026-11-10T21:52:32.916Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T21:45:44.819Z",
-  "lastUpdated": "11/11/2026, 3:15:44 am",
+  "lastSyncedAt": "2026-11-10T21:53:14.109Z",
+  "lastUpdated": "11/11/2026, 3:23:14 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
