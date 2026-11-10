@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 1197,
-  "applicationsSubmitted": 76,
-  "totalVerifiedInHistory": 76,
+  "jobsScanned": 1248,
+  "applicationsSubmitted": 79,
+  "totalVerifiedInHistory": 79,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 64,
+    "direct_portal_ashby": 67,
     "direct_portal_lever": 2
   },
   "appliedRolesList": [
@@ -617,10 +617,34 @@
       "url": "https://jobs.ashbyhq.com/openai/961d2951-ff59-494f-971e-fe25414c234c",
       "time": "2026-11-10T03:56:35.860Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Federal Civilian",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/625d8018-a39e-4fec-913d-8bd319537e5c",
+      "time": "2026-11-10T03:57:47.935Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategy & Operations, Support",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/9747412d-a23d-48ba-bddd-ad1247c360f5",
+      "time": "2026-11-10T03:58:28.676Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager, Human Data Campaigns",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5edd5a13-2fc9-427c-ad88-2b67c97a0afe",
+      "time": "2026-11-10T03:58:32.572Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T03:57:16.038Z",
-  "lastUpdated": "10/11/2026, 9:27:16 am",
+  "lastSyncedAt": "2026-11-10T04:01:01.711Z",
+  "lastUpdated": "10/11/2026, 9:31:01 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
