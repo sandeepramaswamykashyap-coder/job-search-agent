@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 3591,
-  "applicationsSubmitted": 297,
-  "totalVerifiedInHistory": 297,
+  "jobsScanned": 3595,
+  "applicationsSubmitted": 300,
+  "totalVerifiedInHistory": 300,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 258,
+    "direct_portal_ashby": 261,
     "direct_portal_lever": 2,
     "iimjobs": 11,
     "indeed": 10,
@@ -2389,10 +2389,34 @@
       "url": "https://jobs.ashbyhq.com/langchain/c4575cc8-ed78-47d7-8b53-637402e77d8d",
       "time": "2026-11-10T08:54:53.062Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
+      "time": "2026-11-10T08:56:38.293Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
+      "time": "2026-11-10T08:57:07.635Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Circle",
+      "title": "Creative Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/circle/3a63b143-e1df-4655-8a62-ec20a1e1f1eb",
+      "time": "2026-11-10T08:57:41.774Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-10T08:56:27.062Z",
-  "lastUpdated": "10/11/2026, 2:26:27 pm",
+  "lastSyncedAt": "2026-11-10T08:57:47.223Z",
+  "lastUpdated": "10/11/2026, 2:27:47 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
