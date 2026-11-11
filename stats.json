@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 23077,
-  "applicationsSubmitted": 668,
-  "totalVerifiedInHistory": 668,
+  "jobsScanned": 23088,
+  "applicationsSubmitted": 669,
+  "totalVerifiedInHistory": 669,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 363,
+    "direct_portal_ashby": 364,
     "direct_portal_lever": 2,
     "iimjobs": 203,
     "indeed": 24,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Project Manager, Design and Construction - R&D/Lab Buildouts",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9",
-      "time": "2026-11-10T07:09:45.876Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Cyber AI Partner Director",
@@ -4014,10 +4006,18 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Operations%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocS1g90AAAACZ1Cl6AAIAQAA9xWZB5IAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Operations%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocS1g90AAAACZ1Cl6AAIAQAA9xWZB5IAAA&from=page-two-signin",
       "time": "2026-11-11T20:51:51.365Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategy & Operations Programs, Support",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/9747412d-a23d-48ba-bddd-ad1247c360f5",
+      "time": "2026-11-11T21:19:32.413Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T21:19:30.496Z",
-  "lastUpdated": "12/11/2026, 2:49:30 am",
+  "lastSyncedAt": "2026-11-11T21:21:27.879Z",
+  "lastUpdated": "12/11/2026, 2:51:27 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
