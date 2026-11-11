@@ -1,9 +1,9 @@
 {
-  "jobsScanned": 22307,
-  "applicationsSubmitted": 659,
-  "totalVerifiedInHistory": 659,
+  "jobsScanned": 22318,
+  "applicationsSubmitted": 660,
+  "totalVerifiedInHistory": 660,
   "portalBreakdown": {
-    "weworkremotely": 6,
+    "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cartesia",
-      "title": "Product and Research Operations Manager, Voices",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cartesia/b73647f2-aced-4656-84c3-e78637744a5a",
-      "time": "2026-11-10T06:57:53.390Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Program Manager - Field CTOs - EMEA",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/head-technology-and-digital-transformation-manufacturing-1745007?ref=sp&jobPos=11",
       "time": "2026-11-11T16:49:36.715Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Smart Suites",
+      "title": "Vehicle Sourcing &amp; Import Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/smart-suites-vehicle-sourcing-import-operations-manager",
+      "time": "2026-11-11T17:06:03.086Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T17:02:06.229Z",
-  "lastUpdated": "11/11/2026, 10:32:06 pm",
+  "lastSyncedAt": "2026-11-11T17:07:09.961Z",
+  "lastUpdated": "11/11/2026, 10:37:09 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
@@ -4114,6 +4114,14 @@
       "region": "Time zone: CET (+/- 3 hours)",
       "portal": "workingnomads",
       "scannedAt": "2026-11-10T02:35:58.162Z"
+    },
+    {
+      "title": "Vehicle Sourcing &amp; Import Operations Manager",
+      "company": "Smart Suites",
+      "link": "https://weworkremotely.com/remote-jobs/smart-suites-vehicle-sourcing-import-operations-manager",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-11-11T17:06:03.086Z"
     }
   ]
 }
