@@ -1,28 +1,20 @@
 {
   "jobsScanned": 21513,
-  "applicationsSubmitted": 642,
-  "totalVerifiedInHistory": 642,
+  "applicationsSubmitted": 643,
+  "totalVerifiedInHistory": 643,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 188,
+    "iimjobs": 189,
     "indeed": 22,
     "ashby": 11,
     "naukri": 44,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cognition",
-      "title": "People Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/a751b58c-1d1b-48c6-96b4-c668100a9787",
-      "time": "2026-11-10T05:27:37.407Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Strategy & Operations Lead - Japan",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/computacenter-senior-service-delivery-manager-1730932?ref=sp&jobPos=6",
       "time": "2026-11-11T11:50:23.302Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Service Delivery Manager - Oracle Fusion Operations",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-service-delivery-manager-oracle-fusion-operations-1731309?ref=sp&jobPos=7",
+      "time": "2026-11-11T12:04:57.901Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T12:04:49.246Z",
-  "lastUpdated": "11/11/2026, 5:34:49 pm",
+  "lastSyncedAt": "2026-11-11T12:06:03.497Z",
+  "lastUpdated": "11/11/2026, 5:36:03 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
