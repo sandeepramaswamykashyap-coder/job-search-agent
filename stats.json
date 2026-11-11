@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 21413,
-  "applicationsSubmitted": 640,
-  "totalVerifiedInHistory": 640,
+  "jobsScanned": 21433,
+  "applicationsSubmitted": 641,
+  "totalVerifiedInHistory": 641,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 186,
+    "iimjobs": 187,
     "indeed": 22,
     "ashby": 11,
     "naukri": 44,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Dust",
-      "title": "Global Head of AI Deployment & Partner Delivery (Paris)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/dust/49bf96b2-b60b-4959-abe8-bb6714812e68",
-      "time": "2026-11-10T05:23:26.694Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Strategy & Operations, Germany",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/bureau-veritas-service-delivery-manager-hr-administration-1740942?ref=sp_br&jobPos=3",
       "time": "2026-11-11T11:16:15.118Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Bureau Veritas - Service Delivery Manager - Performance & Continuous Improvement",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bureau-veritas-service-delivery-manager-performance-and-continuous-improvement-1740948?ref=sp_br&jobPos=5",
+      "time": "2026-11-11T11:30:25.763Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T11:28:50.927Z",
-  "lastUpdated": "11/11/2026, 4:58:50 pm",
+  "lastSyncedAt": "2026-11-11T11:35:45.042Z",
+  "lastUpdated": "11/11/2026, 5:05:45 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
