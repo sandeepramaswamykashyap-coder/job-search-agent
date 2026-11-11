@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 22604,
-  "applicationsSubmitted": 663,
-  "totalVerifiedInHistory": 663,
+  "jobsScanned": 22615,
+  "applicationsSubmitted": 664,
+  "totalVerifiedInHistory": 664,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 201,
     "indeed": 23,
     "ashby": 11,
-    "naukri": 50,
+    "naukri": 51,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Indeed Employer",
-      "title": "Program Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABob8rBisAAAACZyhiWgASAQEBBwpYcwRmx0mWRE3AdNObAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABob8rBisAAAACZyhiWgASAQEBBwpYcwRmx0mWRE3AdNObAAA&from=page-two-signin",
-      "time": "2026-11-10T07:03:03.868Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Anyscale",
       "title": "AWS & Neo Cloud Alliances Senior Manager",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/portfolio-manager-banking-financial-services-1731826?ref=sp&jobPos=18",
       "time": "2026-11-11T18:40:34.660Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Senior Manager \u001a Solution Architect/Enterprise Architect",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-solution-architect-enterprise-architect-cognizant-bengaluru-12-to-15-years-111126035394?src=directSearch&sid=17944227557462535&xp=13&px=1",
+      "time": "2026-11-11T18:46:37.948Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T18:44:18.163Z",
-  "lastUpdated": "12/11/2026, 12:14:18 am",
+  "lastSyncedAt": "2026-11-11T18:47:54.101Z",
+  "lastUpdated": "12/11/2026, 12:17:54 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
