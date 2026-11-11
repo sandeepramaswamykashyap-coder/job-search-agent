@@ -1,36 +1,20 @@
 {
-  "jobsScanned": 21373,
-  "applicationsSubmitted": 638,
-  "totalVerifiedInHistory": 638,
+  "jobsScanned": 21393,
+  "applicationsSubmitted": 640,
+  "totalVerifiedInHistory": 640,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 184,
+    "iimjobs": 186,
     "indeed": 22,
     "ashby": 11,
     "naukri": 44,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Higher Education",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/dceee17e-1e37-448b-acd3-2f97e41a6af7",
-      "time": "2026-11-10T05:19:01.562Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Safety Response Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/91653d95-27fc-44bd-bbb3-7078fd6a5718",
-      "time": "2026-11-10T05:20:22.444Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Dust",
       "title": "Global Head of AI Deployment & Partner Delivery (Paris)",
@@ -4014,10 +3998,26 @@
       "url": "https://www.naukri.com/job-listings-process-excellence-manager-senior-manager-finance-placewell-gurugram-bengaluru-mumbai-all-areas-8-to-13-years-111126018796?src=directSearch&sid=17943954054668973&xp=4&px=1",
       "time": "2026-11-11T11:10:19.522Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Bureau Veritas - Service Delivery Manager - Payroll",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bureau-veritas-service-delivery-manager-payroll-1740961?ref=sp_br&jobPos=2",
+      "time": "2026-11-11T11:13:22.343Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Bureau Veritas - Service Delivery Manager - HR Administration",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/bureau-veritas-service-delivery-manager-hr-administration-1740942?ref=sp_br&jobPos=3",
+      "time": "2026-11-11T11:16:15.118Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T11:10:40.726Z",
-  "lastUpdated": "11/11/2026, 4:40:40 pm",
+  "lastSyncedAt": "2026-11-11T11:18:23.241Z",
+  "lastUpdated": "11/11/2026, 4:48:23 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
