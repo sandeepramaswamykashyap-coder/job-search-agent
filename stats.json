@@ -1,36 +1,20 @@
 {
-  "jobsScanned": 22626,
-  "applicationsSubmitted": 664,
-  "totalVerifiedInHistory": 664,
+  "jobsScanned": 22637,
+  "applicationsSubmitted": 666,
+  "totalVerifiedInHistory": 666,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 201,
+    "iimjobs": 203,
     "indeed": 23,
     "ashby": 11,
     "naukri": 51,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Anyscale",
-      "title": "AWS & Neo Cloud Alliances Senior Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/anyscale/236b71c1-b5b0-4d5e-b17a-3e1bc4966a6a",
-      "time": "2026-11-10T07:05:30.288Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Startups | New Business",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/50053f7b-c154-45af-b497-3298c826a15f",
-      "time": "2026-11-10T07:06:24.535Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Head of Performance Marketing",
@@ -4014,10 +3998,26 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-solution-architect-enterprise-architect-cognizant-bengaluru-12-to-15-years-111126035394?src=directSearch&sid=17944227557462535&xp=13&px=1",
       "time": "2026-11-11T18:46:37.948Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - Incentive Compensation Admin & Design",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-manager-incentive-compensation-admin-and-design-1743953?ref=sp_prm&jobPos=15",
+      "time": "2026-11-11T18:53:10.311Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Process Excellence & Business Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-process-excellence-and-business-transformation-1745016?ref=sp&jobPos=18",
+      "time": "2026-11-11T18:53:42.504Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T18:50:02.240Z",
-  "lastUpdated": "12/11/2026, 12:20:02 am",
+  "lastSyncedAt": "2026-11-11T18:55:57.219Z",
+  "lastUpdated": "12/11/2026, 12:25:57 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
