@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 16799,
-  "applicationsSubmitted": 612,
-  "totalVerifiedInHistory": 612,
+  "jobsScanned": 16839,
+  "applicationsSubmitted": 613,
+  "totalVerifiedInHistory": 613,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 362,
     "direct_portal_lever": 2,
-    "iimjobs": 175,
+    "iimjobs": 176,
     "indeed": 20,
     "ashby": 11,
     "naukri": 30,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Character",
-      "title": "Technical Program Manager, AI Infrastructure",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/character/fd023b84-a746-4fe9-8a9d-277899e67a78",
-      "time": "2026-11-10T04:53:26.131Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Account Director - ANZ",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/agile-product-owner-1724066?ref=sp&jobPos=8",
       "time": "2026-11-10T23:59:19.600Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Project Manager/Lead - Agile",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/project-manager-lead-agile-1727898?ref=sp&jobPos=13",
+      "time": "2026-11-11T00:13:27.699Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T00:13:16.054Z",
-  "lastUpdated": "11/11/2026, 5:43:16 am",
+  "lastSyncedAt": "2026-11-11T00:14:30.307Z",
+  "lastUpdated": "11/11/2026, 5:44:30 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
