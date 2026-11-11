@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 20913,
-  "applicationsSubmitted": 629,
-  "totalVerifiedInHistory": 629,
+  "jobsScanned": 20923,
+  "applicationsSubmitted": 632,
+  "totalVerifiedInHistory": 632,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,34 +11,10 @@
     "iimjobs": 183,
     "indeed": 20,
     "ashby": 11,
-    "naukri": 38,
+    "naukri": 41,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Coforge - ServiceNow Solution Architect",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/servicenow-jobs",
-      "time": "2026-11-10T05:08:39.202Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "ServiceNow Project Manager",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/servicenow-jobs",
-      "time": "2026-11-10T05:10:53.045Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Partner Director - Japan",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/2877fee4-4657-4986-aa07-15514b66ff41",
-      "time": "2026-11-10T05:11:27.158Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "PepsiCo - Senior Manager - ServiceNow Technical Lead",
@@ -4014,10 +3990,34 @@
       "url": "https://www.naukri.com/job-listings-organizational-change-management-consultant-ey-hyderabad-gurugram-bengaluru-4-to-9-years-111126011439?src=directSearch&sid=1794382844490590&xp=1&px=1",
       "time": "2026-11-11T07:41:00.045Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Senior Manager/AGM- SCM Transformation Lead",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-agm-scm-transformation-lead-golden-opportunities-pvt-ltd-chennai-bengaluru-greater-noida-12-to-22-years-111126912278?src=directSearch&sid=17943848628808417&xp=6&px=1",
+      "time": "2026-11-11T08:14:36.941Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Independent Recruitment Consultant (freelancer)",
+      "title": "Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-independent-recruitment-consultant-freelancer-bengaluru-15-to-22-years-091126000687?src=directSearch&sid=17943850390218428&xp=5&px=1",
+      "time": "2026-11-11T08:17:33.076Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Senior Manager - Industrialisation (Detail Parts)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-industrialisation-detail-parts-delight-hr-services-pvt-ltd-bengaluru-16-to-18-years-061126920682?src=directSearch&sid=17943850390218428&xp=6&px=1",
+      "time": "2026-11-11T08:17:44.318Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T08:13:26.325Z",
-  "lastUpdated": "11/11/2026, 1:43:26 pm",
+  "lastSyncedAt": "2026-11-11T08:24:26.919Z",
+  "lastUpdated": "11/11/2026, 1:54:26 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
