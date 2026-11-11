@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 20713,
-  "applicationsSubmitted": 625,
-  "totalVerifiedInHistory": 625,
+  "jobsScanned": 20723,
+  "applicationsSubmitted": 627,
+  "totalVerifiedInHistory": 627,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,26 +11,10 @@
     "iimjobs": 183,
     "indeed": 20,
     "ashby": 11,
-    "naukri": 34,
+    "naukri": 36,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Startups (Mandarin-Speaking)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/ac0922d9-4731-40a1-b8a3-17b912e1a13b",
-      "time": "2026-11-10T05:08:04.238Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Model Policy Manager, Agentic Safety",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
-      "time": "2026-11-10T05:08:05.374Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "IT Software Architect, SaaS Enablement and Governance",
@@ -4014,10 +3998,26 @@
       "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-payments-operations-transformation-1744873?ref=sp_br&jobPos=2",
       "time": "2026-11-11T06:06:48.608Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "HSBC",
+      "title": "PMO Analyst / JIRA Delivery Tracking Analyst",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-pmo-analyst-jira-delivery-tracking-analyst-allegis-group-hyderabad-pune-bengaluru-7-to-12-years-111126009422?src=directSearch&sid=17943807391544734&xp=5&px=1",
+      "time": "2026-11-11T07:05:56.977Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Yash Technologies",
+      "title": "YASH Technologies is Hiring - Project Manager- HyperAutomation",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-yash-technologies-is-hiring-project-manager-hyperautomation-yash-technologies-hyderabad-pune-bengaluru-15-to-20-years-111126009398?src=directSearch&sid=17943808784985804&xp=13&px=1",
+      "time": "2026-11-11T07:08:16.162Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T07:04:47.790Z",
-  "lastUpdated": "11/11/2026, 12:34:47 pm",
+  "lastSyncedAt": "2026-11-11T07:08:58.738Z",
+  "lastUpdated": "11/11/2026, 12:38:58 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
