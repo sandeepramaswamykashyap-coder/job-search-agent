@@ -1,28 +1,20 @@
 {
   "jobsScanned": 22604,
-  "applicationsSubmitted": 662,
-  "totalVerifiedInHistory": 662,
+  "applicationsSubmitted": 663,
+  "totalVerifiedInHistory": 663,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 200,
+    "iimjobs": 201,
     "indeed": 23,
     "ashby": 11,
     "naukri": 50,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Applied AI Delivery Lead - Mountain View",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/18b4427e-b168-475e-a1e2-92a86c73f0f0",
-      "time": "2026-11-10T07:01:53.515Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Indeed Employer",
       "title": "Program Manager",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/assistant-manager-finance-transformation-manda-1745011?ref=sp&jobPos=11",
       "time": "2026-11-11T18:11:34.502Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Portfolio Manager - Banking / Financial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/portfolio-manager-banking-financial-services-1731826?ref=sp&jobPos=18",
+      "time": "2026-11-11T18:40:34.660Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T18:36:27.406Z",
-  "lastUpdated": "12/11/2026, 12:06:27 am",
+  "lastSyncedAt": "2026-11-11T18:40:34.668Z",
+  "lastUpdated": "12/11/2026, 12:10:34 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
