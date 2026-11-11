@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 21753,
-  "applicationsSubmitted": 654,
-  "totalVerifiedInHistory": 654,
+  "jobsScanned": 21763,
+  "applicationsSubmitted": 655,
+  "totalVerifiedInHistory": 655,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 196,
+    "iimjobs": 197,
     "indeed": 22,
     "ashby": 11,
     "naukri": 48,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Global Head of Education GTM",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/8ad567c5-70ca-46bf-85ae-eb5bbc8a2a39",
-      "time": "2026-11-10T06:50:18.183Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Large Enterprise - Tokyo",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/amgen-senior-manager-information-systems-1743351?ref=sp_prm&jobPos=12",
       "time": "2026-11-11T13:29:03.028Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "KEC International - Manager/Senior Manager - Human Resources",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/kec-international-manager-senior-manager-human-resources-1742285?ref=sp_br_prm&jobPos=13",
+      "time": "2026-11-11T13:35:33.010Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T13:34:19.262Z",
-  "lastUpdated": "11/11/2026, 7:04:19 pm",
+  "lastSyncedAt": "2026-11-11T13:40:25.111Z",
+  "lastUpdated": "11/11/2026, 7:10:25 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
