@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 22989,
-  "applicationsSubmitted": 667,
-  "totalVerifiedInHistory": 667,
+  "jobsScanned": 23000,
+  "applicationsSubmitted": 668,
+  "totalVerifiedInHistory": 668,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -9,20 +9,12 @@
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
     "iimjobs": 203,
-    "indeed": 23,
+    "indeed": 24,
     "ashby": 11,
     "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Technical Program Manager, Infrastructure",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/7d9d5a1f-3834-434e-b22f-4bd62317be3c",
-      "time": "2026-11-10T07:06:56.791Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Project Manager, Design and Construction - R&D/Lab Buildouts",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-axtria-india-private-limited-bengaluru-10-to-15-years-111126929754?src=directSearch&sid=17944271053098506&xp=7&px=1",
       "time": "2026-11-11T19:58:39.385Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Airbus India Private Limited",
+      "title": "Senior Project Management Business Partner For Single Aisle Programme",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Operations%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocS1g90AAAACZ1Cl6AAIAQAA9xWZB5IAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Operations%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocS1g90AAAACZ1Cl6AAIAQAA9xWZB5IAAA&from=page-two-signin",
+      "time": "2026-11-11T20:51:51.365Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T20:44:21.940Z",
-  "lastUpdated": "12/11/2026, 2:14:21 am",
+  "lastSyncedAt": "2026-11-11T20:53:45.568Z",
+  "lastUpdated": "12/11/2026, 2:23:45 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
