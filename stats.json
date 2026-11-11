@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 21623,
-  "applicationsSubmitted": 647,
-  "totalVerifiedInHistory": 647,
+  "jobsScanned": 21653,
+  "applicationsSubmitted": 650,
+  "totalVerifiedInHistory": 650,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,34 +11,10 @@
     "iimjobs": 193,
     "indeed": 22,
     "ashby": 11,
-    "naukri": 44,
+    "naukri": 47,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cognition",
-      "title": "Head of EMEA Marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/5e69951b-adac-4e61-9884-eaaea68c059b",
-      "time": "2026-11-10T05:31:04.418Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Modal",
-      "title": "Business Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/modal/225b43d8-ef14-4082-b16e-005c74b42957",
-      "time": "2026-11-10T05:31:13.184Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Head of Sourcing Enablement & Delivery",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/0681fa01-76c2-47da-9ebd-b4677521e049",
-      "time": "2026-11-10T05:32:21.242Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Supabase",
       "title": "Director of Technology Partnerships",
@@ -4014,10 +3990,34 @@
       "url": "https://www.iimjobs.com/j/indus-insights-senior-manager-analytics-1744455?ref=sp_prm&jobPos=5",
       "time": "2026-11-11T12:46:30.899Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Aqilea",
+      "title": "Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-aqilea-formerly-soltia-bengaluru-8-to-12-years-111126500574?src=directSearch&sid=17944015821471374&xp=3&px=1",
+      "time": "2026-11-11T12:53:19.464Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Coreel Technologies",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-coreel-technologies-bengaluru-10-to-20-years-041126014266?src=directSearch&sid=17944016058752214&xp=9&px=1",
+      "time": "2026-11-11T12:53:44.881Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "TRC Corporate Consulting",
+      "title": "Manager | Finance Transformation & Digital Process Excellence",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-finance-transformation-digital-process-excellence-trc-corporate-consulting-bengaluru-5-to-8-years-041126027373?src=directSearch&sid=17944016463468431&xp=2&px=1",
+      "time": "2026-11-11T12:54:20.205Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T12:49:49.577Z",
-  "lastUpdated": "11/11/2026, 6:19:49 pm",
+  "lastSyncedAt": "2026-11-11T12:55:31.746Z",
+  "lastUpdated": "11/11/2026, 6:25:31 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
