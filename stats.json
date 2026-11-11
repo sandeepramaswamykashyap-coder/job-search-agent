@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 22835,
-  "applicationsSubmitted": 666,
-  "totalVerifiedInHistory": 666,
+  "jobsScanned": 22846,
+  "applicationsSubmitted": 667,
+  "totalVerifiedInHistory": 667,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 203,
     "indeed": 23,
     "ashby": 11,
-    "naukri": 51,
+    "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Head of Performance Marketing",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/cf0516c9-5227-4d7c-a8e9-219a4ac52422",
-      "time": "2026-11-10T07:06:46.492Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Baseten",
       "title": "Technical Program Manager, Infrastructure",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/manager-senior-manager-process-excellence-and-business-transformation-1745016?ref=sp&jobPos=18",
       "time": "2026-11-11T18:53:42.504Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Axtria",
+      "title": "Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-axtria-india-private-limited-bengaluru-10-to-15-years-111126929754?src=directSearch&sid=17944271053098506&xp=7&px=1",
+      "time": "2026-11-11T19:58:39.385Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T19:52:51.778Z",
-  "lastUpdated": "12/11/2026, 1:22:51 am",
+  "lastSyncedAt": "2026-11-11T20:03:54.901Z",
+  "lastUpdated": "12/11/2026, 1:33:54 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
