@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 21583,
-  "applicationsSubmitted": 645,
-  "totalVerifiedInHistory": 645,
+  "jobsScanned": 21593,
+  "applicationsSubmitted": 646,
+  "totalVerifiedInHistory": 646,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 191,
+    "iimjobs": 192,
     "indeed": 22,
     "ashby": 11,
     "naukri": 44,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Head of Finance - Data Centers",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/144b12f3-5821-4727-a266-b5ed9ff46fd2",
-      "time": "2026-11-10T05:30:16.929Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Supabase",
       "title": "Product Manager -  Administration & Governance",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/senior-manager-ecommerce-delivery-ecommerce-1739491?ref=sp&jobPos=18",
       "time": "2026-11-11T12:26:19.626Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Eggoz - Manager/Senior Manager - Quality",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/eggoz-manager-senior-manager-quality-1743532?ref=sp_br_prm&jobPos=2",
+      "time": "2026-11-11T12:32:43.796Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T12:30:35.604Z",
-  "lastUpdated": "11/11/2026, 6:00:35 pm",
+  "lastSyncedAt": "2026-11-11T12:35:57.679Z",
+  "lastUpdated": "11/11/2026, 6:05:57 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
