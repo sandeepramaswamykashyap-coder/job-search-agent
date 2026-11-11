@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 21763,
-  "applicationsSubmitted": 655,
-  "totalVerifiedInHistory": 655,
+  "jobsScanned": 21773,
+  "applicationsSubmitted": 656,
+  "totalVerifiedInHistory": 656,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 197,
+    "iimjobs": 198,
     "indeed": 22,
     "ashby": 11,
     "naukri": 48,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Large Enterprise - Tokyo",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/d00f2e0a-af1f-4d21-b9e8-129b079b2c42",
-      "time": "2026-11-10T06:53:01.332Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Head of Enterprise Risk Management",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/kec-international-manager-senior-manager-human-resources-1742285?ref=sp_br_prm&jobPos=13",
       "time": "2026-11-11T13:35:33.010Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Masters' Union - Senior Manager - Corporate Relations - B2B Partnerships",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/masters039-union-senior-manager-corporate-relations-b2b-partnerships-1744879?ref=sp_prm&jobPos=14",
+      "time": "2026-11-11T13:42:46.143Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T13:40:25.111Z",
-  "lastUpdated": "11/11/2026, 7:10:25 pm",
+  "lastSyncedAt": "2026-11-11T13:45:55.207Z",
+  "lastUpdated": "11/11/2026, 7:15:55 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
