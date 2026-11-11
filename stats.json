@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 20363,
-  "applicationsSubmitted": 618,
-  "totalVerifiedInHistory": 618,
+  "jobsScanned": 20373,
+  "applicationsSubmitted": 620,
+  "totalVerifiedInHistory": 620,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,26 +11,10 @@
     "iimjobs": 178,
     "indeed": 20,
     "ashby": 11,
-    "naukri": 32,
+    "naukri": 34,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Coforge - ServiceNow Enterprise Architect",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/servicenow-jobs",
-      "time": "2026-11-10T05:00:24.885Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Account Director, Startups | Tokyo",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/32905f5c-9405-4073-bc65-c57fcf55a83d",
-      "time": "2026-11-10T05:01:29.294Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Character",
       "title": "Technical Program Manager, Model Alignment and Deployment",
@@ -4014,10 +3998,26 @@
       "url": "https://www.naukri.com/job-listings-associate-program-manager-data-happiest-minds-technologies-bengaluru-15-to-21-years-251026005625?src=directSearch&sid=17943726506585293&xp=9&px=1",
       "time": "2026-11-11T04:51:26.116Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Pinkerton",
+      "title": "Senior EHS Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-ehs-program-manager-pinkerton-corporate-risk-management-india-private-limited-bengaluru-10-to-15-years-280726006385?src=directSearch&sid=17943726890704667&xp=3&px=1",
+      "time": "2026-11-11T04:51:46.362Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "SG Lottery India",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-sg-india-bengaluru-12-to-15-years-061126023768?src=directSearch&sid=17943726890704667&xp=12&px=1",
+      "time": "2026-11-11T04:52:10.731Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T04:51:26.125Z",
-  "lastUpdated": "11/11/2026, 10:21:26 am",
+  "lastSyncedAt": "2026-11-11T04:56:01.858Z",
+  "lastUpdated": "11/11/2026, 10:26:01 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
