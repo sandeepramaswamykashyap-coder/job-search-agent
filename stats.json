@@ -1,28 +1,20 @@
 {
   "jobsScanned": 21693,
-  "applicationsSubmitted": 652,
-  "totalVerifiedInHistory": 652,
+  "applicationsSubmitted": 653,
+  "totalVerifiedInHistory": 653,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 194,
+    "iimjobs": 195,
     "indeed": 22,
     "ashby": 11,
     "naukri": 48,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cognition",
-      "title": "Head of Safety",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/43f38460-632b-4b0a-8b14-888d117b2e07",
-      "time": "2026-11-10T06:47:07.361Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Mid-Market | Korea",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/senior-manager-relationship-management-financial-institutions-group-1743755?ref=sp_prm&jobPos=10",
       "time": "2026-11-11T13:00:43.036Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "AstaGuru - Manager/Senior Manager - Performance & Talent Management",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/astaguru-manager-senior-manager-performance-and-talent-management-1744417?ref=sp_prm&jobPos=11",
+      "time": "2026-11-11T13:14:58.771Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T13:14:18.910Z",
-  "lastUpdated": "11/11/2026, 6:44:18 pm",
+  "lastSyncedAt": "2026-11-11T13:18:24.207Z",
+  "lastUpdated": "11/11/2026, 6:48:24 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
