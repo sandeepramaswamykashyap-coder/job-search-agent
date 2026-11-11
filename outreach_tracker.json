@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-11T15:58:29.357Z",
+  "lastUpdated": "2026-11-11T16:04:15.782Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2424,7 +2424,7 @@
       "company": "Zscaler India",
       "title": "Director - Global Transformation & Cloud Delivery",
       "dispatchedAt": "2026-10-08T15:58:34.735Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2435,7 +2435,7 @@
       "company": "Zscaler India",
       "title": "Head of Talent Acquisition India",
       "dispatchedAt": "2026-10-08T15:58:43.313Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2446,7 +2446,7 @@
       "company": "CrowdStrike India",
       "title": "Director - Customer Operations & Delivery",
       "dispatchedAt": "2026-10-08T15:58:52.396Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2457,7 +2457,7 @@
       "company": "NVIDIA India",
       "title": "Managing Director - South Asia & India Delivery",
       "dispatchedAt": "2026-10-08T15:59:01.288Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2839,7 +2839,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/fouziakumar/",
       "dispatchedAt": "2026-08-20T16:01:10.113Z",
-      "daysElapsed": 82,
+      "daysElapsed": 83,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -2851,7 +2851,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/ramu-p-563906b/",
       "dispatchedAt": "2026-08-20T16:03:22.444Z",
-      "daysElapsed": 82,
+      "daysElapsed": 83,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
