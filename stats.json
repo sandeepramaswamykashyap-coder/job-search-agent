@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 21303,
-  "applicationsSubmitted": 635,
-  "totalVerifiedInHistory": 635,
+  "jobsScanned": 21323,
+  "applicationsSubmitted": 636,
+  "totalVerifiedInHistory": 636,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -9,20 +9,12 @@
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
     "iimjobs": 183,
-    "indeed": 21,
+    "indeed": 22,
     "ashby": 11,
     "naukri": 43,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Incident",
-      "title": "VP of Sales, EMEA",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/incident/3a21d807-bf09-4017-8be8-08b69006dfa0",
-      "time": "2026-11-10T05:17:50.202Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Enterprise",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-production-am-manager-senior-manager-special-process-delight-hr-services-pvt-ltd-bangalore-rural-10-to-20-years-111126913669?src=directSearch&sid=17943909845286784&xp=13&px=1",
       "time": "2026-11-11T09:56:53.515Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uber",
+      "title": "Regional Operations Manager II",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Operations%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocS1g90AAAACZ1Cl6AAIAQAA9xWZB5IAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Operations%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocS1g90AAAACZ1Cl6AAIAQAA9xWZB5IAAA&from=page-two-signin",
+      "time": "2026-11-11T10:47:52.211Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T10:44:07.729Z",
-  "lastUpdated": "11/11/2026, 4:14:07 pm",
+  "lastSyncedAt": "2026-11-11T10:51:43.920Z",
+  "lastUpdated": "11/11/2026, 4:21:43 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
