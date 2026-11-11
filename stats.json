@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 20563,
-  "applicationsSubmitted": 624,
-  "totalVerifiedInHistory": 624,
+  "jobsScanned": 20573,
+  "applicationsSubmitted": 625,
+  "totalVerifiedInHistory": 625,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 182,
+    "iimjobs": 183,
     "indeed": 20,
     "ashby": 11,
     "naukri": 34,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "IIMJobs Verified Employer",
-      "title": "Algoleap - ServiceNow Solution Architect",
-      "portal": "iimjobs",
-      "url": "https://www.iimjobs.com/search/servicenow-jobs",
-      "time": "2026-11-10T05:07:52.414Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Startups (Mandarin-Speaking)",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/flutter-entertainment-program-manager-1744859?ref=sp_br_prm&jobPos=1",
       "time": "2026-11-11T05:29:51.865Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Vice President - Payments Operations Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-vice-president-payments-operations-transformation-1744873?ref=sp_br&jobPos=2",
+      "time": "2026-11-11T06:06:48.608Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T05:59:14.927Z",
-  "lastUpdated": "11/11/2026, 11:29:14 am",
+  "lastSyncedAt": "2026-11-11T06:10:23.552Z",
+  "lastUpdated": "11/11/2026, 11:40:23 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
