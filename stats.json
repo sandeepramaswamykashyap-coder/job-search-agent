@@ -1,7 +1,7 @@
 {
   "jobsScanned": 21373,
-  "applicationsSubmitted": 637,
-  "totalVerifiedInHistory": 637,
+  "applicationsSubmitted": 638,
+  "totalVerifiedInHistory": 638,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 184,
     "indeed": 22,
     "ashby": 11,
-    "naukri": 43,
+    "naukri": 44,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cognition",
-      "title": "Account Director - LATAM",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/5e8e9d04-9224-4de3-b63b-5bc43bfa0026",
-      "time": "2026-11-10T05:18:32.965Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Higher Education",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/director-digital-transformation-manufacturing-1744938?ref=sp&jobPos=2",
       "time": "2026-11-11T11:00:07.719Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Placewell Group",
+      "title": "Process Excellence Manager/Senior Manager (Finance)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-process-excellence-manager-senior-manager-finance-placewell-gurugram-bengaluru-mumbai-all-areas-8-to-13-years-111126018796?src=directSearch&sid=17943954054668973&xp=4&px=1",
+      "time": "2026-11-11T11:10:19.522Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T11:10:17.300Z",
-  "lastUpdated": "11/11/2026, 4:40:17 pm",
+  "lastSyncedAt": "2026-11-11T11:10:40.726Z",
+  "lastUpdated": "11/11/2026, 4:40:40 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
