@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 21913,
-  "applicationsSubmitted": 656,
-  "totalVerifiedInHistory": 656,
+  "jobsScanned": 21923,
+  "applicationsSubmitted": 658,
+  "totalVerifiedInHistory": 658,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,26 +11,10 @@
     "iimjobs": 198,
     "indeed": 22,
     "ashby": 11,
-    "naukri": 48,
+    "naukri": 50,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Head of Enterprise Risk Management",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/db40bc4f-c7fb-47d5-a7cc-918fb8b1f815",
-      "time": "2026-11-10T06:53:46.024Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Program Manager - Field CTOs - US",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/1c0284d5-7426-478d-bbf2-b8b59aec00b2",
-      "time": "2026-11-10T06:54:57.073Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Compensation Programs & Operations Lead",
@@ -4014,10 +3998,26 @@
       "url": "https://www.iimjobs.com/j/masters039-union-senior-manager-corporate-relations-b2b-partnerships-1744879?ref=sp_prm&jobPos=14",
       "time": "2026-11-11T13:42:46.143Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Tech Mahindra",
+      "title": "ServiceNow Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-servicenow-project-manager-kaizen-sra-technologies-bengaluru-8-to-13-years-111126922420?src=directSearch&sid=17944078047013973&xp=8&px=1",
+      "time": "2026-11-11T14:36:58.961Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Acuity Analytics",
+      "title": "Associate Director/ Director- Programme Management Office(PMO)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-director-director-programme-management-office-pmo-acuity-analytics-gurugram-bengaluru-delhi-ncr-10-to-15-years-131026027774?src=directSearch&sid=17944078592627217&xp=13&px=1",
+      "time": "2026-11-11T14:37:57.033Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T14:36:02.221Z",
-  "lastUpdated": "11/11/2026, 8:06:02 pm",
+  "lastSyncedAt": "2026-11-11T14:39:36.804Z",
+  "lastUpdated": "11/11/2026, 8:09:36 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
