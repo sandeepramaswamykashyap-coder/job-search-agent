@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 20813,
-  "applicationsSubmitted": 628,
-  "totalVerifiedInHistory": 628,
+  "jobsScanned": 20823,
+  "applicationsSubmitted": 629,
+  "totalVerifiedInHistory": 629,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 183,
     "indeed": 20,
     "ashby": 11,
-    "naukri": 37,
+    "naukri": 38,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Incident",
-      "title": "VP of Customer Success",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/incident/91dcb767-ed52-4400-bd6b-0ce8158e90d0",
-      "time": "2026-11-10T05:08:18.056Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Coforge - ServiceNow Solution Architect",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-mobile-application-developer-senior-manager-pwc-hyderabad-chennai-bengaluru-12-to-18-years-111126009556?src=directSearch&sid=17943809676094402&xp=10&px=1",
       "time": "2026-11-11T07:09:49.309Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Walk-in || Organizational Change Management Consultant",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-organizational-change-management-consultant-ey-hyderabad-gurugram-bengaluru-4-to-9-years-111126011439?src=directSearch&sid=1794382844490590&xp=1&px=1",
+      "time": "2026-11-11T07:41:00.045Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T07:38:57.871Z",
-  "lastUpdated": "11/11/2026, 1:08:57 pm",
+  "lastSyncedAt": "2026-11-11T07:41:37.689Z",
+  "lastUpdated": "11/11/2026, 1:11:37 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
