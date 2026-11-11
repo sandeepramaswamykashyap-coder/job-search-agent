@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 22267,
-  "applicationsSubmitted": 658,
-  "totalVerifiedInHistory": 658,
+  "jobsScanned": 22277,
+  "applicationsSubmitted": 659,
+  "totalVerifiedInHistory": 659,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 198,
+    "iimjobs": 199,
     "indeed": 22,
     "ashby": 11,
     "naukri": 50,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Compensation Programs & Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/d1e4178d-8eb6-4727-9601-e230cb96eeee",
-      "time": "2026-11-10T06:57:25.973Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cartesia",
       "title": "Product and Research Operations Manager, Voices",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-associate-director-director-programme-management-office-pmo-acuity-analytics-gurugram-bengaluru-delhi-ncr-10-to-15-years-131026027774?src=directSearch&sid=17944078592627217&xp=13&px=1",
       "time": "2026-11-11T14:37:57.033Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Technology & Digital Transformation - Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-technology-and-digital-transformation-manufacturing-1745007?ref=sp&jobPos=11",
+      "time": "2026-11-11T16:49:36.715Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T16:48:53.843Z",
-  "lastUpdated": "11/11/2026, 10:18:53 pm",
+  "lastSyncedAt": "2026-11-11T16:49:43.793Z",
+  "lastUpdated": "11/11/2026, 10:19:43 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
