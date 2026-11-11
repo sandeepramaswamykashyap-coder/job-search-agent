@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 21613,
-  "applicationsSubmitted": 646,
-  "totalVerifiedInHistory": 646,
+  "jobsScanned": 21623,
+  "applicationsSubmitted": 647,
+  "totalVerifiedInHistory": 647,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 192,
+    "iimjobs": 193,
     "indeed": 22,
     "ashby": 11,
     "naukri": 44,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Supabase",
-      "title": "Product Manager -  Administration & Governance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3",
-      "time": "2026-11-10T05:30:58.044Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Head of EMEA Marketing",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/eggoz-manager-senior-manager-quality-1743532?ref=sp_br_prm&jobPos=2",
       "time": "2026-11-11T12:32:43.796Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Indus Insights - Senior Manager - Analytics",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/indus-insights-senior-manager-analytics-1744455?ref=sp_prm&jobPos=5",
+      "time": "2026-11-11T12:46:30.899Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T12:41:41.757Z",
-  "lastUpdated": "11/11/2026, 6:11:41 pm",
+  "lastSyncedAt": "2026-11-11T12:47:20.490Z",
+  "lastUpdated": "11/11/2026, 6:17:20 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
