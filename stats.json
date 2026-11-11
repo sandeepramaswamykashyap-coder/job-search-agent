@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 21733,
-  "applicationsSubmitted": 653,
-  "totalVerifiedInHistory": 653,
+  "jobsScanned": 21743,
+  "applicationsSubmitted": 654,
+  "totalVerifiedInHistory": 654,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 195,
+    "iimjobs": 196,
     "indeed": 22,
     "ashby": 11,
     "naukri": 48,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Account Director, Mid-Market | Korea",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/76084eee-9186-4897-ae12-3445307e61be",
-      "time": "2026-11-10T06:50:03.595Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Global Head of Education GTM",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/astaguru-manager-senior-manager-performance-and-talent-management-1744417?ref=sp_prm&jobPos=11",
       "time": "2026-11-11T13:14:58.771Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - Information Systems",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-manager-information-systems-1743351?ref=sp_prm&jobPos=12",
+      "time": "2026-11-11T13:29:03.028Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T13:27:50.389Z",
-  "lastUpdated": "11/11/2026, 6:57:50 pm",
+  "lastSyncedAt": "2026-11-11T13:30:36.486Z",
+  "lastUpdated": "11/11/2026, 7:00:36 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
