@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 20723,
-  "applicationsSubmitted": 627,
-  "totalVerifiedInHistory": 627,
+  "jobsScanned": 20743,
+  "applicationsSubmitted": 628,
+  "totalVerifiedInHistory": 628,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 183,
     "indeed": 20,
     "ashby": 11,
-    "naukri": 36,
+    "naukri": 37,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "IT Software Architect, SaaS Enablement and Governance",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/1e68e5f6-6bda-4d11-89fd-4be731077031",
-      "time": "2026-11-10T05:08:14.527Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Incident",
       "title": "VP of Customer Success",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-yash-technologies-is-hiring-project-manager-hyperautomation-yash-technologies-hyderabad-pune-bengaluru-15-to-20-years-111126009398?src=directSearch&sid=17943808784985804&xp=13&px=1",
       "time": "2026-11-11T07:08:16.162Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "PwC",
+      "title": "Mobile Application Developer-Senior Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-mobile-application-developer-senior-manager-pwc-hyderabad-chennai-bengaluru-12-to-18-years-111126009556?src=directSearch&sid=17943809676094402&xp=10&px=1",
+      "time": "2026-11-11T07:09:49.309Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T07:08:58.738Z",
-  "lastUpdated": "11/11/2026, 12:38:58 pm",
+  "lastSyncedAt": "2026-11-11T07:10:20.116Z",
+  "lastUpdated": "11/11/2026, 12:40:20 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
