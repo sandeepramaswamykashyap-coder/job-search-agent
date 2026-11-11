@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 21543,
-  "applicationsSubmitted": 643,
-  "totalVerifiedInHistory": 643,
+  "jobsScanned": 21553,
+  "applicationsSubmitted": 644,
+  "totalVerifiedInHistory": 644,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 363,
     "direct_portal_lever": 2,
-    "iimjobs": 189,
+    "iimjobs": 190,
     "indeed": 22,
     "ashby": 11,
     "naukri": 44,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Strategy & Operations Lead - Japan",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/f76d120b-7d1b-4e80-aaf8-5d2c6b38a7ca",
-      "time": "2026-11-10T05:29:56.313Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Head of Business Development, LATAM",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/senior-service-delivery-manager-oracle-fusion-operations-1731309?ref=sp&jobPos=7",
       "time": "2026-11-11T12:04:57.901Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Service Delivery Consultant - Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/service-delivery-consultant-manufacturing-1730160?ref=sp&jobPos=9",
+      "time": "2026-11-11T12:18:51.905Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T12:16:05.161Z",
-  "lastUpdated": "11/11/2026, 5:46:05 pm",
+  "lastSyncedAt": "2026-11-11T12:21:27.328Z",
+  "lastUpdated": "11/11/2026, 5:51:27 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
