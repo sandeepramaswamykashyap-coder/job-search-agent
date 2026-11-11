@@ -1,7 +1,7 @@
 {
   "jobsScanned": 21653,
-  "applicationsSubmitted": 650,
-  "totalVerifiedInHistory": 650,
+  "applicationsSubmitted": 651,
+  "totalVerifiedInHistory": 651,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 193,
     "indeed": 22,
     "ashby": 11,
-    "naukri": 47,
+    "naukri": 48,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Supabase",
-      "title": "Director of Technology Partnerships",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/supabase/090aa2a7-e0ee-49a6-837e-6817147d2d31",
-      "time": "2026-11-10T05:37:25.803Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Manufacturing- Tokyo",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-manager-finance-transformation-digital-process-excellence-trc-corporate-consulting-bengaluru-5-to-8-years-041126027373?src=directSearch&sid=17944016463468431&xp=2&px=1",
       "time": "2026-11-11T12:54:20.205Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-cognizant-bengaluru-8-to-12-years-041126014774?src=directSearch&sid=17944017011287179&xp=7&px=1",
+      "time": "2026-11-11T12:55:39.902Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T12:55:31.746Z",
-  "lastUpdated": "11/11/2026, 6:25:31 pm",
+  "lastSyncedAt": "2026-11-11T12:56:01.597Z",
+  "lastUpdated": "11/11/2026, 6:26:01 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
