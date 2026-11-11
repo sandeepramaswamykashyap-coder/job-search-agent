@@ -1,7 +1,7 @@
 {
   "jobsScanned": 20363,
-  "applicationsSubmitted": 617,
-  "totalVerifiedInHistory": 617,
+  "applicationsSubmitted": 618,
+  "totalVerifiedInHistory": 618,
   "portalBreakdown": {
     "weworkremotely": 6,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 178,
     "indeed": 20,
     "ashby": 11,
-    "naukri": 31,
+    "naukri": 32,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Partner Director - AWS Alliance Partnership, Japan",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/9ea666f7-9b16-481f-a16d-f533d45ca795",
-      "time": "2026-11-10T04:59:15.739Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "IIMJobs Verified Employer",
       "title": "Coforge - ServiceNow Enterprise Architect",
@@ -4014,10 +4006,18 @@
       "url": "https://jobs.ashbyhq.com/langchain/2f9100e9-655b-4244-9dab-9a37c153af6a",
       "time": "2026-11-11T00:46:19.003Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "title": "Associate Program Manager - Data",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-associate-program-manager-data-happiest-minds-technologies-bengaluru-15-to-21-years-251026005625?src=directSearch&sid=17943726506585293&xp=9&px=1",
+      "time": "2026-11-11T04:51:26.116Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-11T04:45:20.601Z",
-  "lastUpdated": "11/11/2026, 10:15:20 am",
+  "lastSyncedAt": "2026-11-11T04:51:26.125Z",
+  "lastUpdated": "11/11/2026, 10:21:26 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
