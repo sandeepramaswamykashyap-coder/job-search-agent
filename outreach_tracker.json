@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-11T15:45:21.838Z",
+  "lastUpdated": "2026-11-11T15:55:38.849Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2292,7 +2292,7 @@
       "company": "Fiserv India",
       "title": "Vice President - Enterprise Program Management & Delivery",
       "dispatchedAt": "2026-10-08T15:55:06.648Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2303,7 +2303,7 @@
       "company": "Fiserv India",
       "title": "Director - Talent Acquisition",
       "dispatchedAt": "2026-10-08T15:55:16.688Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2314,7 +2314,7 @@
       "company": "Broadridge India",
       "title": "Managing Director - Global Client Operations",
       "dispatchedAt": "2026-10-08T15:55:26.010Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2325,7 +2325,7 @@
       "company": "Invesco India",
       "title": "Head of Enterprise Transformation Delivery",
       "dispatchedAt": "2026-10-08T15:55:34.957Z",
-      "daysElapsed": 33,
+      "daysElapsed": 34,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
