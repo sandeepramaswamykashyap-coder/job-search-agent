@@ -1,28 +1,20 @@
 {
   "jobsScanned": 24863,
-  "applicationsSubmitted": 675,
-  "totalVerifiedInHistory": 675,
+  "applicationsSubmitted": 676,
+  "totalVerifiedInHistory": 676,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 366,
     "direct_portal_lever": 2,
-    "iimjobs": 207,
+    "iimjobs": 208,
     "indeed": 24,
     "ashby": 11,
     "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Compute Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/768bca5d-287f-405a-b677-605317607178",
-      "time": "2026-11-10T07:20:39.997Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Senior Legal Discovery Program Manager",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/crocs-senior-manager-marketplaces-1745078?ref=sp_br&jobPos=16",
       "time": "2026-11-12T06:47:03.197Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "JP Morgan Chase - Technical Program Manager - Consumer & Community Banking",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/jp-morgan-chase-technical-program-manager-consumer-and-community-banking-1745114?ref=sp_br&jobPos=9",
+      "time": "2026-11-12T07:14:40.286Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T07:14:13.588Z",
-  "lastUpdated": "12/11/2026, 12:44:13 pm",
+  "lastSyncedAt": "2026-11-12T07:15:21.378Z",
+  "lastUpdated": "12/11/2026, 12:45:21 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
