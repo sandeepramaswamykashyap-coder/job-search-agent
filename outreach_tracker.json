@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T12:11:21.538Z",
+  "lastUpdated": "2026-11-12T12:19:05.935Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -400,7 +400,7 @@
       "company": "Resource Pro",
       "title": "Manager, Service Delivery",
       "dispatchedAt": "2026-08-21T12:11:46.264Z",
-      "daysElapsed": 82,
+      "daysElapsed": 83,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
