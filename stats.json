@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 26363,
-  "applicationsSubmitted": 688,
-  "totalVerifiedInHistory": 688,
+  "jobsScanned": 26374,
+  "applicationsSubmitted": 689,
+  "totalVerifiedInHistory": 689,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 212,
     "indeed": 24,
     "ashby": 11,
-    "naukri": 58,
+    "naukri": 59,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Senior Manager, Account Executive | Mid-Market",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/60ed4fac-3833-4495-9b0f-75e6dfe4b36c",
-      "time": "2026-11-10T07:31:54.116Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Startups | New Business - UK&I",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-ai-digital-transformation-manager-wipro-pune-bengaluru-mumbai-all-areas-9-to-14-years-121126034421?src=directSearch&sid=17944975986043494&xp=6&px=1",
       "time": "2026-11-12T15:33:32.719Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "SAP PIPO Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-pipo-service-delivery-manager-ernst-young-llp-bengaluru-8-to-10-years-131026945812?src=directSearch&sid=17944992012825016&xp=8&px=1",
+      "time": "2026-11-12T16:00:22.034Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T15:56:54.075Z",
-  "lastUpdated": "12/11/2026, 9:26:54 pm",
+  "lastSyncedAt": "2026-11-12T16:02:02.652Z",
+  "lastUpdated": "12/11/2026, 9:32:02 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
