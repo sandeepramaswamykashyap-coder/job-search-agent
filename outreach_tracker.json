@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T14:23:49.735Z",
+  "lastUpdated": "2026-11-12T14:25:09.161Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2006,7 +2006,7 @@
       "company": "Kyndryl India",
       "title": "President - Kyndryl India",
       "dispatchedAt": "2026-10-08T14:23:50.659Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2017,7 +2017,7 @@
       "company": "Kyndryl India",
       "title": "Vice President & Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T14:24:12.276Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
