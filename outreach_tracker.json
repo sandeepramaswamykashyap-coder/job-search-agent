@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T16:38:23.243Z",
+  "lastUpdated": "2026-11-12T16:52:17.619Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2556,7 +2556,7 @@
       "company": "Splunk India",
       "title": "Vice President - Engineering Operations & Delivery",
       "dispatchedAt": "2026-10-08T16:40:03.294Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2567,7 +2567,7 @@
       "company": "Oracle India",
       "title": "Vice President - Global Business Unit Delivery",
       "dispatchedAt": "2026-10-08T16:40:12.383Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2578,7 +2578,7 @@
       "company": "Oracle India",
       "title": "Senior Director - Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:21.621Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2589,7 +2589,7 @@
       "company": "Akamai Technologies India",
       "title": "Director - Global Service Delivery & Operations",
       "dispatchedAt": "2026-10-08T16:40:30.463Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2600,7 +2600,7 @@
       "company": "Akamai Technologies India",
       "title": "Head of Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:39.350Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2611,7 +2611,7 @@
       "company": "Optum Global Solutions",
       "title": "Senior Vice President - Health Care Delivery Operations",
       "dispatchedAt": "2026-10-08T16:40:48.381Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2622,7 +2622,7 @@
       "company": "Optum Global Solutions",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-08T16:40:57.273Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2633,7 +2633,7 @@
       "company": "Carelon Global Solutions",
       "title": "Chief Operating Officer & Head of Delivery",
       "dispatchedAt": "2026-10-08T16:41:05.965Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -3019,7 +3019,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sanchari-chattaraj/",
       "dispatchedAt": "2026-08-20T16:38:34.282Z",
-      "daysElapsed": 83,
+      "daysElapsed": 84,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -3031,7 +3031,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/isaacmasood/",
       "dispatchedAt": "2026-08-20T16:40:46.459Z",
-      "daysElapsed": 83,
+      "daysElapsed": 84,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -3043,7 +3043,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/venkatesh-n-t-28bb5b2b/",
       "dispatchedAt": "2026-08-20T16:45:15.478Z",
-      "daysElapsed": 83,
+      "daysElapsed": 84,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
