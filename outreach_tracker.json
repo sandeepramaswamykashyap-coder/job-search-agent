@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T16:30:28.733Z",
+  "lastUpdated": "2026-11-12T16:38:23.243Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2468,7 +2468,7 @@
       "company": "NVIDIA India",
       "title": "Senior Talent Acquisition Lead",
       "dispatchedAt": "2026-10-08T16:36:51.254Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2479,7 +2479,7 @@
       "company": "NetApp India",
       "title": "Senior Vice President & General Manager",
       "dispatchedAt": "2026-10-08T16:37:00.408Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2490,7 +2490,7 @@
       "company": "NetApp India",
       "title": "Director - Talent Acquisition India",
       "dispatchedAt": "2026-10-08T16:37:10.048Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2501,7 +2501,7 @@
       "company": "Juniper Networks India",
       "title": "Vice President - Global Services Delivery",
       "dispatchedAt": "2026-10-08T16:37:19.556Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2512,7 +2512,7 @@
       "company": "Juniper Networks India",
       "title": "Lead Recruiter - Executive Search",
       "dispatchedAt": "2026-10-08T16:37:28.802Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2523,7 +2523,7 @@
       "company": "Nutanix India",
       "title": "President & Chief Executive Officer",
       "dispatchedAt": "2026-10-08T16:37:38.590Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2534,7 +2534,7 @@
       "company": "Nutanix India",
       "title": "Senior Vice President & Managing Director - India",
       "dispatchedAt": "2026-10-08T16:37:48.739Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2545,7 +2545,7 @@
       "company": "Nutanix India",
       "title": "Vice President - Talent Acquisition India",
       "dispatchedAt": "2026-10-08T16:37:58.656Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2995,7 +2995,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/praveen-r-211a1a12a/",
       "dispatchedAt": "2026-08-20T16:31:56.789Z",
-      "daysElapsed": 83,
+      "daysElapsed": 84,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -3007,7 +3007,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nikita-srivastava-5b328b65/",
       "dispatchedAt": "2026-08-20T16:35:15.296Z",
-      "daysElapsed": 83,
+      "daysElapsed": 84,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
