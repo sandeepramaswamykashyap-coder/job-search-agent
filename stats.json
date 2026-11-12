@@ -1,12 +1,12 @@
 {
   "jobsScanned": 25677,
-  "applicationsSubmitted": 682,
-  "totalVerifiedInHistory": 682,
+  "applicationsSubmitted": 683,
+  "totalVerifiedInHistory": 683,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 366,
+    "direct_portal_ashby": 367,
     "direct_portal_lever": 2,
     "iimjobs": 212,
     "indeed": 24,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Head of EMEA Sales",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/55de4d92-fd47-4a92-a3f5-fab2624f6015",
-      "time": "2026-11-10T07:26:45.566Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "TechBiz Global GmbH",
       "title": "Operations Manager",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-senior-operations-manager-rajashree-electricals-bengaluru-10-to-20-years-121126025185?src=directSearch&sid=17944809344104391&xp=12&px=1",
       "time": "2026-11-12T10:55:59.890Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partnerships Director, BCG EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/4197587e-c0d0-46e4-b86a-25a87d22b056",
+      "time": "2026-11-12T11:57:42.902Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T11:47:44.110Z",
-  "lastUpdated": "12/11/2026, 5:17:44 pm",
+  "lastSyncedAt": "2026-11-12T11:57:42.916Z",
+  "lastUpdated": "12/11/2026, 5:27:42 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
