@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T07:32:33.098Z",
+  "lastUpdated": "2026-11-12T07:41:29.037Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -972,7 +972,7 @@
       "company": "Societe Generale Global Solution Centre",
       "title": "Managing Director - Transformation & Digital Solutions",
       "dispatchedAt": "2026-10-04T07:32:39.367Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -983,7 +983,7 @@
       "company": "PwC India",
       "title": "Partner - Advisory & Platform Transformation",
       "dispatchedAt": "2026-10-04T07:32:47.722Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -994,7 +994,7 @@
       "company": "PwC India SDC",
       "title": "Talent Acquisition Lead - Transformation Services",
       "dispatchedAt": "2026-10-04T07:32:56.147Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1005,7 +1005,7 @@
       "company": "Deloitte India",
       "title": "Partner - Core Business Transformation",
       "dispatchedAt": "2026-10-04T07:33:04.698Z",
-      "daysElapsed": 38,
+      "daysElapsed": 39,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
