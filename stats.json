@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 26286,
-  "applicationsSubmitted": 687,
-  "totalVerifiedInHistory": 687,
+  "jobsScanned": 26308,
+  "applicationsSubmitted": 688,
+  "totalVerifiedInHistory": 688,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 212,
     "indeed": 24,
     "ashby": 11,
-    "naukri": 57,
+    "naukri": 58,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Recruiting Operations Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/f736f253-7b2d-4a4f-82d6-3f4ebf14c7c6",
-      "time": "2026-11-10T07:31:31.382Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ramp",
       "title": "Senior Manager, Account Executive | Mid-Market",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-rcm-operations-epic-resolute-pb-logixhealth-bengaluru-10-to-17-years-151026029635?src=directSearch&sid=1794489365720963&xp=3&px=1",
       "time": "2026-11-12T13:16:19.771Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Wipro",
+      "title": "AI & Digital Transformation Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-ai-digital-transformation-manager-wipro-pune-bengaluru-mumbai-all-areas-9-to-14-years-121126034421?src=directSearch&sid=17944975986043494&xp=6&px=1",
+      "time": "2026-11-12T15:33:32.719Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T15:27:27.430Z",
-  "lastUpdated": "12/11/2026, 8:57:27 pm",
+  "lastSyncedAt": "2026-11-12T15:35:05.416Z",
+  "lastUpdated": "12/11/2026, 9:05:05 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
