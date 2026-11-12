@@ -1,7 +1,7 @@
 {
   "jobsScanned": 25523,
-  "applicationsSubmitted": 680,
-  "totalVerifiedInHistory": 680,
+  "applicationsSubmitted": 682,
+  "totalVerifiedInHistory": 682,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -11,26 +11,10 @@
     "iimjobs": 212,
     "indeed": 24,
     "ashby": 11,
-    "naukri": 52,
+    "naukri": 54,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Senior Manager, Head of Talent Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602",
-      "time": "2026-11-10T07:22:59.594Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Openai",
-      "title": "Service Design Program Manager, Support",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/98cdff28-940d-48e8-b1d7-a0df38dd16d8",
-      "time": "2026-11-10T07:23:02.666Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Baseten",
       "title": "Head of EMEA Sales",
@@ -4014,10 +3998,26 @@
       "url": "https://www.iimjobs.com/j/program-manager-epc-defense-technology-manufacturing-sector-1745149?ref=sp&jobPos=9",
       "time": "2026-11-12T08:10:47.797Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Infosys BPM",
+      "title": "Senior Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-operations-manager-infosys-bpm-limited-bengaluru-10-to-15-years-121026918823?src=directSearch&sid=17944809344104391&xp=5&px=1",
+      "time": "2026-11-12T10:55:48.517Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Rajashree Electricals",
+      "title": "Senior Operations Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-operations-manager-rajashree-electricals-bengaluru-10-to-20-years-121126025185?src=directSearch&sid=17944809344104391&xp=12&px=1",
+      "time": "2026-11-12T10:55:59.890Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T10:53:45.369Z",
-  "lastUpdated": "12/11/2026, 4:23:45 pm",
+  "lastSyncedAt": "2026-11-12T11:03:47.668Z",
+  "lastUpdated": "12/11/2026, 4:33:47 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
