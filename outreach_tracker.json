@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T13:28:36.455Z",
+  "lastUpdated": "2026-11-12T13:36:53.140Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1764,7 +1764,7 @@
       "company": "Atlassian India",
       "title": "Head of Engineering Operations & Program Delivery",
       "dispatchedAt": "2026-10-08T13:36:46.697Z",
-      "daysElapsed": 34,
+      "daysElapsed": 35,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
