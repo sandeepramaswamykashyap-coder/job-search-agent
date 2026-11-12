@@ -1,12 +1,12 @@
 {
   "jobsScanned": 24313,
-  "applicationsSubmitted": 670,
-  "totalVerifiedInHistory": 670,
+  "applicationsSubmitted": 671,
+  "totalVerifiedInHistory": 671,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 365,
+    "direct_portal_ashby": 366,
     "direct_portal_lever": 2,
     "iimjobs": 203,
     "indeed": 24,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Executive Assistant to CRO & Head of Strategic Sales",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/f9ccf52d-b45a-4890-828e-be8e6945deb3",
-      "time": "2026-11-10T07:13:28.290Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Tax Director, Tax Counsel",
@@ -4014,10 +4006,18 @@
       "url": "https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6",
       "time": "2026-11-12T01:24:10.831Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Chief of Staff – to the Chief Lending Officer",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/6c0f54a9-083d-48fd-97f2-6aaf397f4a42",
+      "time": "2026-11-12T04:10:55.625Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T04:06:36.037Z",
-  "lastUpdated": "12/11/2026, 9:36:36 am",
+  "lastSyncedAt": "2026-11-12T04:10:55.641Z",
+  "lastUpdated": "12/11/2026, 9:40:55 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
