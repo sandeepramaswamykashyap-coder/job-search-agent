@@ -1,28 +1,20 @@
 {
   "jobsScanned": 24907,
-  "applicationsSubmitted": 677,
-  "totalVerifiedInHistory": 677,
+  "applicationsSubmitted": 678,
+  "totalVerifiedInHistory": 678,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 366,
     "direct_portal_lever": 2,
-    "iimjobs": 209,
+    "iimjobs": 210,
     "indeed": 24,
     "ashby": 11,
     "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Partner Director, GTM Cloud Partnerships",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/d6fbe4bd-1b55-40b6-93c0-a296ea747ecf",
-      "time": "2026-11-10T07:21:33.030Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Langchain",
       "title": "EMEA Deal Strategy & Operations Lead",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/head-operational-excellence-food-agro-processing-1745117?ref=sp&jobPos=5",
       "time": "2026-11-12T07:23:04.936Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Crocs - Senior Manager - Marketplace",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/crocs-senior-manager-marketplace-1745078?ref=sp_br&jobPos=16",
+      "time": "2026-11-12T07:30:02.136Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T07:24:18.105Z",
-  "lastUpdated": "12/11/2026, 12:54:18 pm",
+  "lastSyncedAt": "2026-11-12T07:34:27.283Z",
+  "lastUpdated": "12/11/2026, 1:04:27 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
