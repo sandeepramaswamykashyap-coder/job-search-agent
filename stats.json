@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 24709,
-  "applicationsSubmitted": 672,
-  "totalVerifiedInHistory": 672,
+  "jobsScanned": 24720,
+  "applicationsSubmitted": 673,
+  "totalVerifiedInHistory": 673,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 366,
     "direct_portal_lever": 2,
-    "iimjobs": 204,
+    "iimjobs": 205,
     "indeed": 24,
     "ashby": 11,
     "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Genpact India Pvt. Ltd.",
-      "title": "Sr. Manager - SCM 4D",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior%20Operations%20Manager&l=Bengaluru%2C%20Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp",
-      "time": "2026-11-10T07:17:45.575Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Langchain",
       "title": "Regional Director, Enterprise Sales",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/senior-manager-home-service-online-business-1745029?ref=sp_prm&jobPos=8",
       "time": "2026-11-12T04:50:00.079Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "sugar.fit - Program Manager - Founder's Office",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/sugarfit-program-manager-founder039s-office-1745073?ref=sp&jobPos=16",
+      "time": "2026-11-12T06:27:54.299Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T06:23:50.478Z",
-  "lastUpdated": "12/11/2026, 11:53:50 am",
+  "lastSyncedAt": "2026-11-12T06:28:12.792Z",
+  "lastUpdated": "12/11/2026, 11:58:12 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
