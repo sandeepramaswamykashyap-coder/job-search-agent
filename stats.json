@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 24885,
-  "applicationsSubmitted": 676,
-  "totalVerifiedInHistory": 676,
+  "jobsScanned": 24896,
+  "applicationsSubmitted": 677,
+  "totalVerifiedInHistory": 677,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 366,
     "direct_portal_lever": 2,
-    "iimjobs": 208,
+    "iimjobs": 209,
     "indeed": 24,
     "ashby": 11,
     "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Openai",
-      "title": "Senior Legal Discovery Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/openai/73a111f9-e83d-4cce-9148-2a32ccf1d251",
-      "time": "2026-11-10T07:21:18.528Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Partner Director, GTM Cloud Partnerships",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/jp-morgan-chase-technical-program-manager-consumer-and-community-banking-1745114?ref=sp_br&jobPos=9",
       "time": "2026-11-12T07:14:40.286Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Head - Operational Excellence - Food/Agro Processing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/head-operational-excellence-food-agro-processing-1745117?ref=sp&jobPos=5",
+      "time": "2026-11-12T07:23:04.936Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T07:21:01.775Z",
-  "lastUpdated": "12/11/2026, 12:51:01 pm",
+  "lastSyncedAt": "2026-11-12T07:23:08.255Z",
+  "lastUpdated": "12/11/2026, 12:53:08 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
