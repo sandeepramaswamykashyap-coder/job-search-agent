@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 24753,
-  "applicationsSubmitted": 673,
-  "totalVerifiedInHistory": 673,
+  "jobsScanned": 24764,
+  "applicationsSubmitted": 674,
+  "totalVerifiedInHistory": 674,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 366,
     "direct_portal_lever": 2,
-    "iimjobs": 205,
+    "iimjobs": 206,
     "indeed": 24,
     "ashby": 11,
     "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Langchain",
-      "title": "Regional Director, Enterprise Sales",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/langchain/6c5eacaf-0f0c-43c5-bac8-78c98424b979",
-      "time": "2026-11-10T07:17:50.349Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Account Director, Mid-Market Enterprise",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/sugarfit-program-manager-founder039s-office-1745073?ref=sp&jobPos=16",
       "time": "2026-11-12T06:27:54.299Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "ModMed Technologies - Program Manager - People Team",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/modmed-technologies-program-manager-people-team-1745077?ref=sp_br_prm&jobPos=3",
+      "time": "2026-11-12T06:38:05.182Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T06:31:39.700Z",
-  "lastUpdated": "12/11/2026, 12:01:39 pm",
+  "lastSyncedAt": "2026-11-12T06:42:09.345Z",
+  "lastUpdated": "12/11/2026, 12:12:09 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
