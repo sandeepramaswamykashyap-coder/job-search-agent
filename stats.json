@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 25901,
-  "applicationsSubmitted": 685,
-  "totalVerifiedInHistory": 685,
+  "jobsScanned": 25923,
+  "applicationsSubmitted": 687,
+  "totalVerifiedInHistory": 687,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -11,26 +11,10 @@
     "iimjobs": 212,
     "indeed": 24,
     "ashby": 11,
-    "naukri": 55,
+    "naukri": 57,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Manager, Scaled Customer Success Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d",
-      "time": "2026-11-10T07:29:39.786Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Uber",
-      "title": "Sr Product Manager, Tech - Product",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocPra8oAAAACZyhiWgAPAQABBkmWnO_WZYO1MqgSAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocPra8oAAAACZyhiWgAPAQABBkmWnO_WZYO1MqgSAAA&from=page-two-signin",
-      "time": "2026-11-10T07:31:00.803Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Baseten",
       "title": "Recruiting Operations Program Manager",
@@ -4014,10 +3998,26 @@
       "url": "https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb",
       "time": "2026-11-12T13:06:15.848Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Urgent hiring For Project Manager/ Scrum Master with strong Salesforce",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-urgent-hiring-for-project-manager-scrum-master-with-strong-salesforce-contactx-resource-management-pvt-ltd-bengaluru-6-to-11-years-151026924815?src=directSearch&sid=17944891644675252&xp=12&px=1",
+      "time": "2026-11-12T13:13:01.950Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Logixhealth",
+      "title": "Senior Manager - RCM Operations (Epic Resolute PB)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-rcm-operations-epic-resolute-pb-logixhealth-bengaluru-10-to-17-years-151026029635?src=directSearch&sid=1794489365720963&xp=3&px=1",
+      "time": "2026-11-12T13:16:19.771Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T13:08:05.262Z",
-  "lastUpdated": "12/11/2026, 6:38:05 pm",
+  "lastSyncedAt": "2026-11-12T13:22:03.329Z",
+  "lastUpdated": "12/11/2026, 6:52:03 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
