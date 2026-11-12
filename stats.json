@@ -1,28 +1,20 @@
 {
-  "jobsScanned": 25017,
-  "applicationsSubmitted": 679,
-  "totalVerifiedInHistory": 679,
+  "jobsScanned": 25028,
+  "applicationsSubmitted": 680,
+  "totalVerifiedInHistory": 680,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 366,
     "direct_portal_lever": 2,
-    "iimjobs": 211,
+    "iimjobs": 212,
     "indeed": 24,
     "ashby": 11,
     "naukri": 52,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Elevenlabs",
-      "title": "Billing Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613",
-      "time": "2026-11-10T07:22:52.116Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ramp",
       "title": "Senior Manager, Head of Talent Operations",
@@ -4014,10 +4006,18 @@
       "url": "https://www.iimjobs.com/j/intas-pharmaceuticals-assistant-general-manager-deputy-general-manager-portfolio-management-1745137?ref=sp&jobPos=3",
       "time": "2026-11-12T08:08:47.891Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Program Manager - EPC/Defense/Technology Manufacturing Sector",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/program-manager-epc-defense-technology-manufacturing-sector-1745149?ref=sp&jobPos=9",
+      "time": "2026-11-12T08:10:47.797Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T08:09:01.658Z",
-  "lastUpdated": "12/11/2026, 1:39:01 pm",
+  "lastSyncedAt": "2026-11-12T08:11:31.964Z",
+  "lastUpdated": "12/11/2026, 1:41:31 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
