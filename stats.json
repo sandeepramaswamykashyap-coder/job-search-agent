@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 25747,
-  "applicationsSubmitted": 683,
-  "totalVerifiedInHistory": 683,
+  "jobsScanned": 25769,
+  "applicationsSubmitted": 684,
+  "totalVerifiedInHistory": 684,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 212,
     "indeed": 24,
     "ashby": 11,
-    "naukri": 54,
+    "naukri": 55,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "TechBiz Global GmbH",
-      "title": "Operations Manager",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Operations+Manager&l=Bengaluru%2C+Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp&vjk=1d9e4a6227becec9",
-      "time": "2026-11-10T07:27:34.263Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Openai",
       "title": "Head of Community, EMEA",
@@ -4014,10 +4006,18 @@
       "url": "https://jobs.ashbyhq.com/openai/4197587e-c0d0-46e4-b86a-25a87d22b056",
       "time": "2026-11-12T11:57:42.902Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Manager – Business Acceleration",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-business-acceleration-ernst-young-llp-bengaluru-10-to-14-years-131026945800?src=directSearch&sid=17944863548415200&xp=10&px=1",
+      "time": "2026-11-12T12:26:18.975Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-12T12:21:05.138Z",
-  "lastUpdated": "12/11/2026, 5:51:05 pm",
+  "lastSyncedAt": "2026-11-12T12:28:44.827Z",
+  "lastUpdated": "12/11/2026, 5:58:44 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
