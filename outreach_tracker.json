@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T03:56:43.060Z",
+  "lastUpdated": "2026-11-12T04:05:03.179Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -653,7 +653,7 @@
       "company": "PwC",
       "title": "Director — Executive & Leadership Recruitment",
       "dispatchedAt": "2026-09-15T04:04:52.487Z",
-      "daysElapsed": 57,
+      "daysElapsed": 58,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
