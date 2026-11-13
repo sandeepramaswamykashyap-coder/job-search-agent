@@ -1,36 +1,20 @@
 {
-  "jobsScanned": 27306,
-  "applicationsSubmitted": 717,
-  "totalVerifiedInHistory": 717,
+  "jobsScanned": 27515,
+  "applicationsSubmitted": 719,
+  "totalVerifiedInHistory": 719,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 378,
     "direct_portal_lever": 2,
-    "iimjobs": 219,
+    "iimjobs": 221,
     "indeed": 24,
     "ashby": 11,
     "naukri": 70,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "DocuSign",
-      "title": "Sr. Product Manager",
-      "portal": "indeed",
-      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DSenior%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocP2qCcAAAACZyhiWgARAQEBBzYJOkikz0IZFNia1H0AAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DSenior%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocP2qCcAAAACZyhiWgARAQEBBzYJOkikz0IZFNia1H0AAA&from=page-two-signin",
-      "time": "2026-11-10T08:00:12.265Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dust",
-      "title": "Global Head of Support Engineering (Paris)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/dust/2e7d4bef-b948-4c98-99c7-475abb4dc91f",
-      "time": "2026-11-10T08:00:14.164Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Elevenlabs",
       "title": "Enterprise Deployment - Chief of Staff",
@@ -4014,10 +3998,26 @@
       "url": "https://www.naukri.com/job-listings-manager-data-governance-protection-engineering-kroll-llc-bengaluru-bengaluru-5-to-8-years-191026911214?src=directSearch&sid=17945762777945172&xp=6&px=1",
       "time": "2026-11-13T13:25:19.784Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Amgen - Senior Manager - Business Performance",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/amgen-senior-manager-business-performance-1745397?ref=sp_prm&jobPos=7",
+      "time": "2026-11-13T13:28:48.369Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Online Vertical - Home Service",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-online-vertical-home-service-1745029?ref=sp_prm&jobPos=10",
+      "time": "2026-11-13T13:28:54.355Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-13T13:26:50.785Z",
-  "lastUpdated": "13/11/2026, 6:56:50 pm",
+  "lastSyncedAt": "2026-11-13T13:36:07.827Z",
+  "lastUpdated": "13/11/2026, 7:06:07 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
