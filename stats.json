@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 33257,
-  "applicationsSubmitted": 728,
-  "totalVerifiedInHistory": 728,
+  "jobsScanned": 33301,
+  "applicationsSubmitted": 729,
+  "totalVerifiedInHistory": 729,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 384,
+    "direct_portal_ashby": 385,
     "direct_portal_lever": 2,
     "iimjobs": 221,
     "indeed": 24,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cognition",
-      "title": "Regional Vice President of Sales - India",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/2449b650-6283-4c63-9537-4c34e76bafdd",
-      "time": "2026-11-10T08:07:36.045Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Dust",
       "title": "Sales Director",
@@ -4014,10 +4006,18 @@
       "url": "https://jobs.ashbyhq.com/zapier/79f0aa77-7a24-4246-a623-a37fb2149de6",
       "time": "2026-11-13T19:38:28.180Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Head of Revenue Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/dd86a95e-649d-4287-824a-9a45e50cb2a7",
+      "time": "2026-11-13T20:41:01.586Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-13T20:40:01.378Z",
-  "lastUpdated": "14/11/2026, 2:10:01 am",
+  "lastSyncedAt": "2026-11-13T20:41:22.744Z",
+  "lastUpdated": "14/11/2026, 2:11:22 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
