@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 26921,
-  "applicationsSubmitted": 701,
-  "totalVerifiedInHistory": 701,
+  "jobsScanned": 26976,
+  "applicationsSubmitted": 703,
+  "totalVerifiedInHistory": 703,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 375,
+    "direct_portal_ashby": 377,
     "direct_portal_lever": 2,
     "iimjobs": 217,
     "indeed": 24,
@@ -15,22 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (West)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/9e3b63e1-2a36-4941-9b76-90124cc9d92f",
-      "time": "2026-11-10T07:46:23.381Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Incident",
-      "title": "Product Operations Associate",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/incident/5f72d65f-e474-44b4-b9ee-36b24ac3e80d",
-      "time": "2026-11-10T07:47:06.038Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Atlassian",
       "title": "Program Manager",
@@ -4014,10 +3998,26 @@
       "url": "https://www.iimjobs.com/j/mindtickle-program-manager-1745532?ref=sp_br&jobPos=8",
       "time": "2026-11-13T13:06:16.522Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of UK, Ad Solutions",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/a3ee806c-74c3-4e51-a773-203555f885fe",
+      "time": "2026-11-13T13:09:43.049Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of Agency, EMEA - Ad Solutions",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/bb514c6a-7df6-48e6-a6a6-ccec6669b981",
+      "time": "2026-11-13T13:10:13.405Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-13T13:08:42.709Z",
-  "lastUpdated": "13/11/2026, 6:38:42 pm",
+  "lastSyncedAt": "2026-11-13T13:10:39.595Z",
+  "lastUpdated": "13/11/2026, 6:40:39 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
