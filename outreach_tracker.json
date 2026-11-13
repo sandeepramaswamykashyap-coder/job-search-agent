@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-12T20:44:34.032Z",
+  "lastUpdated": "2026-11-13T07:37:01.202Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -15,7 +15,7 @@
       "company": "Pricewater House Coopers Service Delivery Center Bangalore",
       "title": "FDD - Manager",
       "dispatchedAt": "2026-07-22T05:32:59.007Z",
-      "daysElapsed": 113,
+      "daysElapsed": 114,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -26,7 +26,7 @@
       "company": "Bean Hr Consulting",
       "title": "Workday Consultant / manager",
       "dispatchedAt": "2026-07-22T05:33:04.024Z",
-      "daysElapsed": 113,
+      "daysElapsed": 114,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -37,7 +37,7 @@
       "company": "Idexcel",
       "title": "Senior Product Manger",
       "dispatchedAt": "2026-07-22T05:33:14.435Z",
-      "daysElapsed": 113,
+      "daysElapsed": 114,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -48,7 +48,7 @@
       "company": "Leading Product Based Software Company (Prestigious Client of The Glove)",
       "title": "AI Project Manager",
       "dispatchedAt": "2026-07-22T05:33:25.553Z",
-      "daysElapsed": 113,
+      "daysElapsed": 114,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -136,7 +136,7 @@
       "company": "Diageo",
       "title": "Manager PTC",
       "dispatchedAt": "2026-08-12T06:00:15.661Z",
-      "daysElapsed": 92,
+      "daysElapsed": 93,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -158,7 +158,7 @@
       "company": "Resource Pro",
       "title": "Assistant Manager, SDU",
       "dispatchedAt": "2026-08-14T04:49:48.086Z",
-      "daysElapsed": 90,
+      "daysElapsed": 91,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -169,7 +169,7 @@
       "company": "Siro Clinpharm",
       "title": "AI Program Manager",
       "dispatchedAt": "2026-08-19T05:18:18.624Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -180,7 +180,7 @@
       "company": "Omega Healthcare",
       "title": "Manager Transition Management Office",
       "dispatchedAt": "2026-08-19T05:18:30.599Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -191,7 +191,7 @@
       "company": "Accion Labs",
       "title": "Project Manager (Migrations projects)",
       "dispatchedAt": "2026-08-19T05:18:38.674Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -202,7 +202,7 @@
       "company": "Company",
       "title": "ServiceNow Platform Manager",
       "dispatchedAt": "2026-08-19T05:18:43.473Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -213,7 +213,7 @@
       "company": "New Era Technology",
       "title": "Senior IT Project Manager (Real Estate & Infrastructure Projects)",
       "dispatchedAt": "2026-08-19T05:18:49.403Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -224,7 +224,7 @@
       "company": "Orcapod Consulting Services",
       "title": "Business Analyst",
       "dispatchedAt": "2026-08-19T05:18:54.415Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -235,7 +235,7 @@
       "company": "Orcapod Consulting Services",
       "title": "Portfolio Services Manager _(PMO/Governance) -Risk Management",
       "dispatchedAt": "2026-08-19T05:18:59.405Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -246,7 +246,7 @@
       "company": "Veetechnologies",
       "title": "Operations Head Examination & Assessment Services",
       "dispatchedAt": "2026-08-19T05:19:05.261Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -257,7 +257,7 @@
       "company": "New Era Technology",
       "title": "CDET Manager",
       "dispatchedAt": "2026-08-19T05:19:10.787Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -268,7 +268,7 @@
       "company": "Foundit Partner",
       "title": "Program Manager",
       "dispatchedAt": "2026-08-19T05:19:16.365Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -279,7 +279,7 @@
       "company": "Allegis Global Solutions (AGS)",
       "title": "Specialist Business Risk- Controls Testing Or Internal Audit",
       "dispatchedAt": "2026-08-19T05:20:43.709Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -290,7 +290,7 @@
       "company": "Prodapt Solutions",
       "title": "BSS Business Analyst",
       "dispatchedAt": "2026-08-19T05:20:48.623Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -301,7 +301,7 @@
       "company": "PwC",
       "title": "Operations Manager",
       "dispatchedAt": "2026-08-19T05:20:53.982Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -312,7 +312,7 @@
       "company": "PwC",
       "title": "Qlikview Manager",
       "dispatchedAt": "2026-08-19T05:20:58.656Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -323,7 +323,7 @@
       "company": "Miratech",
       "title": "Remote Opportunity - UAT Engineer at Miratech",
       "dispatchedAt": "2026-08-19T05:21:03.506Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -334,7 +334,7 @@
       "company": "Sonata Software",
       "title": "One Identity Manager",
       "dispatchedAt": "2026-08-19T05:21:08.215Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -345,7 +345,7 @@
       "company": "Epam Systems",
       "title": "It Delivery Manager",
       "dispatchedAt": "2026-08-19T05:21:13.159Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -356,7 +356,7 @@
       "company": "NTT DATA",
       "title": "Hiring For Private Equity",
       "dispatchedAt": "2026-08-19T05:21:18.220Z",
-      "daysElapsed": 85,
+      "daysElapsed": 86,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -433,7 +433,7 @@
       "company": "Deloitte India",
       "title": "Partner / Director — Enterprise Agility & HR Transformation",
       "dispatchedAt": "2026-08-26T03:19:07.534Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -444,7 +444,7 @@
       "company": "KPMG India",
       "title": "Head of Talent Acquisition — Digital & Technology Consulting",
       "dispatchedAt": "2026-08-26T03:19:17.202Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -455,7 +455,7 @@
       "company": "Ernst & Young (EY)",
       "title": "Talent Leader — Technology Enablement & Transformation",
       "dispatchedAt": "2026-08-26T03:19:28.846Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -466,7 +466,7 @@
       "company": "Cognizant",
       "title": "Transformation Program Manager — ServiceNow Practice",
       "dispatchedAt": "2026-08-26T03:19:40.268Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -477,7 +477,7 @@
       "company": "Infosys",
       "title": "Senior Manager Talent Acquisition — Enterprise Package Solutions",
       "dispatchedAt": "2026-08-26T03:19:52.248Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -488,7 +488,7 @@
       "company": "Wipro Technologies",
       "title": "General Manager — Enterprise Digital Operations & Transformation",
       "dispatchedAt": "2026-08-26T03:20:01.316Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -499,7 +499,7 @@
       "company": "Accenture India",
       "title": "Talent Acquisition Lead — ServiceNow Business Group",
       "dispatchedAt": "2026-08-26T03:20:11.522Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -510,7 +510,7 @@
       "company": "Genpact",
       "title": "Vice President — Transformation & Intelligent Automation",
       "dispatchedAt": "2026-08-26T03:20:20.863Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -521,7 +521,7 @@
       "company": "LTIMindtree",
       "title": "Head of Hiring — Cloud & Platform Services",
       "dispatchedAt": "2026-08-26T03:20:30.503Z",
-      "daysElapsed": 78,
+      "daysElapsed": 79,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -576,7 +576,7 @@
       "company": "PwC",
       "title": "Partner — Business Transformation & Platform Delivery",
       "dispatchedAt": "2026-08-30T04:19:04.067Z",
-      "daysElapsed": 74,
+      "daysElapsed": 75,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -587,7 +587,7 @@
       "company": "Ernst & Young (EY)",
       "title": "Head of Executive Sourcing — Global Delivery Services",
       "dispatchedAt": "2026-08-30T04:19:15.474Z",
-      "daysElapsed": 74,
+      "daysElapsed": 75,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -598,7 +598,7 @@
       "company": "Wipro",
       "title": "Vice President — Cloud & Platform Transformation Business Unit",
       "dispatchedAt": "2026-08-30T04:19:50.795Z",
-      "daysElapsed": 74,
+      "daysElapsed": 75,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -609,7 +609,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Global Head — Enterprise Platform Solutions",
       "dispatchedAt": "2026-08-30T04:19:55.811Z",
-      "daysElapsed": 74,
+      "daysElapsed": 75,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -620,7 +620,7 @@
       "company": "LTIMindtree",
       "title": "Vice President — Enterprise Business Transformation",
       "dispatchedAt": "2026-08-30T04:20:00.890Z",
-      "daysElapsed": 74,
+      "daysElapsed": 75,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -631,7 +631,7 @@
       "company": "HCLTech",
       "title": "Senior Vice President — Digital Platform Transformation",
       "dispatchedAt": "2026-08-30T04:20:05.705Z",
-      "daysElapsed": 74,
+      "daysElapsed": 75,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -642,7 +642,7 @@
       "company": "Tech Mahindra",
       "title": "Senior Vice President — Cloud & ServiceNow Practice",
       "dispatchedAt": "2026-08-30T04:20:15.535Z",
-      "daysElapsed": 74,
+      "daysElapsed": 75,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -653,7 +653,7 @@
       "company": "PwC",
       "title": "Director — Executive & Leadership Recruitment",
       "dispatchedAt": "2026-09-15T04:04:52.487Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -664,7 +664,7 @@
       "company": "Morgan Stanley",
       "title": "Managing Director — Enterprise Operations & Technology Transformation",
       "dispatchedAt": "2026-09-15T04:05:26.639Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -675,7 +675,7 @@
       "company": "JPMorgan Chase",
       "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
       "dispatchedAt": "2026-09-15T04:05:35.902Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -686,7 +686,7 @@
       "company": "Infosys",
       "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
       "dispatchedAt": "2026-09-15T04:06:08.656Z",
-      "daysElapsed": 58,
+      "daysElapsed": 59,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -752,7 +752,7 @@
       "company": "Target India",
       "title": "Director - Enterprise Transformation & Delivery",
       "dispatchedAt": "2026-10-04T07:27:47.637Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -763,7 +763,7 @@
       "company": "Target India",
       "title": "Lead Talent Acquisition Partner - Leadership",
       "dispatchedAt": "2026-10-04T07:27:57.733Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -774,7 +774,7 @@
       "company": "Walmart Global Tech",
       "title": "Senior Director - Enterprise Program Management",
       "dispatchedAt": "2026-10-04T07:28:07.427Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -785,7 +785,7 @@
       "company": "Walmart Global Tech",
       "title": "Staff Talent Acquisition Partner",
       "dispatchedAt": "2026-10-04T07:28:16.693Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -796,7 +796,7 @@
       "company": "Goldman Sachs India",
       "title": "Managing Director - Operations & Governance",
       "dispatchedAt": "2026-10-04T07:28:26.380Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -807,7 +807,7 @@
       "company": "Goldman Sachs India",
       "title": "Vice President - Human Capital Management",
       "dispatchedAt": "2026-10-04T07:28:37.263Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -818,7 +818,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Executive Director - Technology Program Delivery",
       "dispatchedAt": "2026-10-04T07:28:46.109Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -829,7 +829,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Lead Recruiter - Executive Hiring India",
       "dispatchedAt": "2026-10-04T07:28:54.839Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -840,7 +840,7 @@
       "company": "Morgan Stanley Advantage Services",
       "title": "Managing Director - Global Business Operations",
       "dispatchedAt": "2026-10-04T07:30:35.701Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -851,7 +851,7 @@
       "company": "Wells Fargo India",
       "title": "Head of Transformation & Operational Excellence",
       "dispatchedAt": "2026-10-04T07:30:44.098Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -862,7 +862,7 @@
       "company": "Wells Fargo India",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-10-04T07:30:52.519Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -873,7 +873,7 @@
       "company": "Fidelity Investments India",
       "title": "Vice President - Platform Architecture & Program Delivery",
       "dispatchedAt": "2026-10-04T07:31:01.198Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -884,7 +884,7 @@
       "company": "Fidelity Investments India",
       "title": "Senior Manager - Talent Acquisition",
       "dispatchedAt": "2026-10-04T07:31:09.716Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -895,7 +895,7 @@
       "company": "Cisco Systems India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-10-04T07:31:18.100Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -906,7 +906,7 @@
       "company": "Cisco Systems India",
       "title": "Senior Talent Acquisition Lead",
       "dispatchedAt": "2026-10-04T07:31:26.439Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -917,7 +917,7 @@
       "company": "Honeywell India",
       "title": "Senior Director - Global Program Governance",
       "dispatchedAt": "2026-10-04T07:31:34.883Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -928,7 +928,7 @@
       "company": "SAP Labs India",
       "title": "Director - Cloud Delivery & Partner Solutions",
       "dispatchedAt": "2026-10-04T07:32:04.242Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -939,7 +939,7 @@
       "company": "Dell Technologies India",
       "title": "Executive Director - Global Process & Program Management",
       "dispatchedAt": "2026-10-04T07:32:12.680Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -950,7 +950,7 @@
       "company": "Lowe's India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-10-04T07:32:21.495Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -961,7 +961,7 @@
       "company": "ANZ Global Services",
       "title": "Head of Banking Operations & Delivery",
       "dispatchedAt": "2026-10-04T07:32:30.328Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -972,7 +972,7 @@
       "company": "Societe Generale Global Solution Centre",
       "title": "Managing Director - Transformation & Digital Solutions",
       "dispatchedAt": "2026-10-04T07:32:39.367Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -983,7 +983,7 @@
       "company": "PwC India",
       "title": "Partner - Advisory & Platform Transformation",
       "dispatchedAt": "2026-10-04T07:32:47.722Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -994,7 +994,7 @@
       "company": "PwC India SDC",
       "title": "Talent Acquisition Lead - Transformation Services",
       "dispatchedAt": "2026-10-04T07:32:56.147Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -1005,7 +1005,7 @@
       "company": "Deloitte India",
       "title": "Partner - Core Business Transformation",
       "dispatchedAt": "2026-10-04T07:33:04.698Z",
-      "daysElapsed": 39,
+      "daysElapsed": 40,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"

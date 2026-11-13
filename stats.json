@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 26758,
-  "applicationsSubmitted": 697,
-  "totalVerifiedInHistory": 697,
+  "jobsScanned": 26789,
+  "applicationsSubmitted": 698,
+  "totalVerifiedInHistory": 698,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 374,
+    "direct_portal_ashby": 375,
     "direct_portal_lever": 2,
     "iimjobs": 214,
     "indeed": 24,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Senior Manager, Account Manager | Mid-Market",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/baf0a4d2-e07e-4f76-af85-d85c91f479a4",
-      "time": "2026-11-10T07:40:08.746Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Baseten",
       "title": "Delivery Manager, Capacity Programs",
@@ -4014,10 +4006,18 @@
       "url": "https://jobs.ashbyhq.com/openai/5a55fa31-64fd-4bf9-8c12-48f0d6fe1d69",
       "time": "2026-11-13T05:33:38.584Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Head of Marketing Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a",
+      "time": "2026-11-13T06:36:05.801Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-13T05:33:38.688Z",
-  "lastUpdated": "13/11/2026, 11:03:38 am",
+  "lastSyncedAt": "2026-11-13T10:40:02.320Z",
+  "lastUpdated": "13/11/2026, 4:10:02 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
