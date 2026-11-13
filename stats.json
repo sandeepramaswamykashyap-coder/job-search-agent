@@ -1,44 +1,20 @@
 {
-  "jobsScanned": 26811,
-  "applicationsSubmitted": 698,
-  "totalVerifiedInHistory": 698,
+  "jobsScanned": 26921,
+  "applicationsSubmitted": 701,
+  "totalVerifiedInHistory": 701,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 375,
     "direct_portal_lever": 2,
-    "iimjobs": 214,
+    "iimjobs": 217,
     "indeed": 24,
     "ashby": 11,
     "naukri": 59,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Baseten",
-      "title": "Delivery Manager, Capacity Programs",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/baseten/0df2175f-e997-404d-8363-b8f690af0a8b",
-      "time": "2026-11-10T07:42:07.058Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Travel Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/dba53e68-4c96-449d-af4d-27dc475b814c",
-      "time": "2026-11-10T07:44:27.736Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "TechBiz Global GmbH",
-      "title": "Senior Program Manager",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior+Manager&l=Bengaluru%2C+Karnataka&sc=0kf%3Aattr%28DSQF7%29%3B&vjk=ccc34ec00dab23ae",
-      "time": "2026-11-10T07:45:59.385Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Writer",
       "title": "Senior AI transformation lead (West)",
@@ -4014,10 +3990,34 @@
       "url": "https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a",
       "time": "2026-11-13T06:36:05.801Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior IT Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-it-program-manager-1745348?ref=sp&jobPos=15",
+      "time": "2026-11-13T13:05:04.106Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Senior Manager - Program Management - Medical Devices",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/senior-manager-program-management-medical-devices-1745469?ref=sp&jobPos=16",
+      "time": "2026-11-13T13:05:10.409Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Mindtickle - Program Manager",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mindtickle-program-manager-1745532?ref=sp_br&jobPos=8",
+      "time": "2026-11-13T13:06:16.522Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-13T12:42:04.360Z",
-  "lastUpdated": "13/11/2026, 6:12:04 pm",
+  "lastSyncedAt": "2026-11-13T13:08:42.709Z",
+  "lastUpdated": "13/11/2026, 6:38:42 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
