@@ -1,116 +1,20 @@
 {
-  "jobsScanned": 27108,
-  "applicationsSubmitted": 704,
-  "totalVerifiedInHistory": 704,
+  "jobsScanned": 27240,
+  "applicationsSubmitted": 37,
+  "totalVerifiedInHistory": 716,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 378,
     "direct_portal_lever": 2,
-    "iimjobs": 217,
+    "iimjobs": 219,
     "indeed": 24,
     "ashby": 11,
-    "naukri": 59,
+    "naukri": 69,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Ramp",
-      "title": "Senior Technical Program Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
-      "time": "2026-11-10T07:48:02.595Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (Central)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc",
-      "time": "2026-11-10T07:48:39.854Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Legal Operations Lead",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/191bba6f-c66d-4ac0-8ddd-300b272046e0",
-      "time": "2026-11-10T07:49:43.040Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Elevenlabs",
-      "title": "Legal Operations Lead",
-      "portal": "ashby",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/191bba6f-c66d-4ac0-8ddd-300b272046e0",
-      "time": "2026-11-10T07:49:46.385Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Senior Manager, Account Manager, Enterprise",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
-      "time": "2026-11-10T07:50:29.198Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Product Operations | General Builder (All Levels)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285",
-      "time": "2026-11-10T07:51:57.355Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Director, sales enablement",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/df418494-25a9-4516-ad3a-2e69041c6921",
-      "time": "2026-11-10T07:52:02.161Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Dust",
-      "title": "Global Head of Support Engineering (US)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/dust/bec10b58-7364-45f5-93fa-e031a289e630",
-      "time": "2026-11-10T07:53:53.308Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Atlassian",
-      "title": "Senior Product Manager - IT Operations",
-      "portal": "indeed",
-      "url": "https://in.indeed.com/jobs?q=Senior%20Operations%20Manager&l=Bengaluru%2C%20Karnataka&radius=25&sc=0kf%3Aattr%28DSQF7%29%3B&from=searchOnDesktopSerp",
-      "time": "2026-11-10T07:54:04.470Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "Senior AI transformation lead (East)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/e3e6ddf1-2b57-4580-8564-e823d7fed763",
-      "time": "2026-11-10T07:54:54.311Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Senior Manager, Customer Experience Strategy & Operations",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803",
-      "time": "2026-11-10T07:55:15.703Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Ramp",
-      "title": "Product Operations Specialist | Procurement",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
-      "time": "2026-11-10T07:55:52.088Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Ramp",
       "title": "KYB Operations Lead, UK",
@@ -4014,10 +3918,176 @@
       "url": "https://jobs.ashbyhq.com/uipath/c737ad16-4100-4ddc-9960-630bc427e2bf",
       "time": "2026-11-13T13:16:06.437Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Manager - Generative AI",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-generative-ai-ernst-young-llp-bengaluru-11-to-14-years-141026933364?src=directSearch&sid=17945759869931354&xp=2&px=1",
+      "time": "2026-11-13T13:20:01.079Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - Finance & Accounts - CA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-finance-and-accounts-ca-1745415?ref=sp&jobPos=1",
+      "time": "2026-11-13T13:20:08.336Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "SAP Scrum Master - Project Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-sap-scrum-master-project-manager-ernst-young-llp-bengaluru-8-to-13-years-141026929148?src=directSearch&sid=17945759869931354&xp=9&px=1",
+      "time": "2026-11-13T13:20:12.596Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Manager/Senior Manager - PMS Operations - Banking/Financial Services",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/manager-senior-manager-pms-operations-banking-financial-services-1745309?ref=sp&jobPos=6",
+      "time": "2026-11-13T13:20:20.198Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Leading Client",
+      "title": "Senior Manager - AI - MDM",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-ai-mdm-golden-opportunities-pvt-ltd-bengaluru-12-to-18-years-131126918649?src=directSearch&sid=17945760156299659&xp=9&px=1",
+      "time": "2026-11-13T13:20:36.350Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Manager- Organization and Workforce Transformation (OWT)",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-manager-organization-and-workforce-transformation-owt-ernst-young-llp-bengaluru-12-to-16-years-141026933896?src=directSearch&sid=17945760156299659&xp=10&px=1",
+      "time": "2026-11-13T13:20:47.752Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "HTS Solutions",
+      "title": "Project / Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-project-program-manager-hts-strategic-solutions-noida-pune-bengaluru-10-to-20-years-061126021110?src=directSearch&sid=1794576072722502&xp=13&px=1",
+      "time": "2026-11-13T13:21:47.540Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "EY",
+      "title": "Senior Manager - AI Governance",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-ai-governance-ernst-young-llp-bengaluru-12-to-17-years-141026933427?src=directSearch&sid=17945761106292646&xp=6&px=1",
+      "time": "2026-11-13T13:22:11.400Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Client of Sampoorna Consultants Pvt. Ltd",
+      "title": "Senior Manager-Program Mgmt-Medical Devices",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-program-mgmt-medical-devices-sampoorna-consultants-bengaluru-10-to-15-years-131126025445?src=directSearch&sid=17945761106292646&xp=10&px=1",
+      "time": "2026-11-13T13:22:22.744Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "CGI",
+      "title": "Portfolio Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-portfolio-manager-cgi-mumbai-bengaluru-8-to-15-years-151026011674?src=directSearch&sid=17945761457514376&xp=1&px=1",
+      "time": "2026-11-13T13:22:39.741Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Happy Investor Finserv",
+      "title": "Portfolio Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-portfolio-manager-happy-investor-finserv-bengaluru-5-to-10-years-131126027449?src=directSearch&sid=17945761457514376&xp=12&px=1",
+      "time": "2026-11-13T13:22:58.135Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Service Delivery Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-capgemini-technology-services-india-limited-bengaluru-10-to-20-years-191026913443?src=directSearch&sid=17945761869573038&xp=5&px=1",
+      "time": "2026-11-13T13:23:21.056Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-13T13:23:45.486Z"
+    },
+    {
+      "company": "Grüns",
+      "title": "People Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "time": "2026-11-13T13:23:45.487Z"
+    },
+    {
+      "company": "Lighthouse",
+      "title": "Review Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
+      "time": "2026-11-13T13:23:45.488Z"
+    },
+    {
+      "company": "We Are Rosie",
+      "title": "Media Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+      "time": "2026-11-13T13:23:45.489Z"
+    },
+    {
+      "company": "Industrial Electric Manufacturing",
+      "title": "Commercial Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
+      "time": "2026-11-13T13:23:45.490Z"
+    },
+    {
+      "company": "Super Speciosa",
+      "title": "Supply Chain &amp; Operations Manager - LATAM",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "time": "2026-11-13T13:23:45.491Z"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-13T13:23:45.492Z"
+    },
+    {
+      "company": "Mecka",
+      "title": "Partner Operations Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "time": "2026-11-13T13:23:45.493Z"
+    },
+    {
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "time": "2026-11-13T13:23:45.494Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/2007928/",
+      "time": "2026-11-13T13:23:45.495Z"
     }
   ],
-  "lastSyncedAt": "2026-11-13T13:17:25.416Z",
-  "lastUpdated": "13/11/2026, 6:47:25 pm",
+  "lastSyncedAt": "2026-11-13T13:23:21.064Z",
+  "lastUpdated": "13/11/2026, 6:53:21 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
