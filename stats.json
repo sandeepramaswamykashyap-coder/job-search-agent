@@ -1,36 +1,20 @@
 {
-  "jobsScanned": 31530,
-  "applicationsSubmitted": 725,
-  "totalVerifiedInHistory": 725,
+  "jobsScanned": 31563,
+  "applicationsSubmitted": 727,
+  "totalVerifiedInHistory": 727,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 382,
+    "direct_portal_ashby": 383,
     "direct_portal_lever": 2,
     "iimjobs": 221,
     "indeed": 24,
-    "ashby": 11,
+    "ashby": 12,
     "naukri": 71,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
-      "time": "2026-11-10T08:01:19.178Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Regional Vice President of Sales - India",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/2449b650-6283-4c63-9537-4c34e76bafdd",
-      "time": "2026-11-10T08:07:34.932Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Perplexity",
       "title": "Director of Events and Experiences",
@@ -4014,10 +3998,26 @@
       "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d",
       "time": "2026-11-13T18:10:24.375Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Product Marketing Director - Finance and Accounting Solutions",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/885f3ba8-c816-464b-b7c6-77175b750ec1",
+      "time": "2026-11-13T19:29:53.769Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Product Marketing Director - Finance and Accounting Solutions",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/885f3ba8-c816-464b-b7c6-77175b750ec1",
+      "time": "2026-11-13T19:29:53.833Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-13T19:28:29.083Z",
-  "lastUpdated": "14/11/2026, 12:58:29 am",
+  "lastSyncedAt": "2026-11-13T19:29:53.843Z",
+  "lastUpdated": "14/11/2026, 12:59:53 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
