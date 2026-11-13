@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 31684,
-  "applicationsSubmitted": 727,
-  "totalVerifiedInHistory": 727,
+  "jobsScanned": 31794,
+  "applicationsSubmitted": 13,
+  "totalVerifiedInHistory": 728,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 383,
+    "direct_portal_ashby": 384,
     "direct_portal_lever": 2,
     "iimjobs": 221,
     "indeed": 24,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Perplexity",
-      "title": "Director of Events and Experiences",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/Perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b",
-      "time": "2026-11-10T08:07:35.781Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Regional Vice President of Sales - India",
@@ -4014,10 +4006,88 @@
       "url": "https://jobs.ashbyhq.com/uipath/885f3ba8-c816-464b-b7c6-77175b750ec1",
       "time": "2026-11-13T19:29:53.833Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Zapier",
+      "title": "Director, GTM Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/zapier/79f0aa77-7a24-4246-a623-a37fb2149de6",
+      "time": "2026-11-13T19:38:28.180Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "DEPT®",
+      "title": "Project Manager - Creative - US Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "time": "2026-11-13T19:39:43.387Z"
+    },
+    {
+      "company": "Grüns",
+      "title": "People Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "time": "2026-11-13T19:39:43.388Z"
+    },
+    {
+      "company": "Lighthouse",
+      "title": "Review Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
+      "time": "2026-11-13T19:39:43.389Z"
+    },
+    {
+      "company": "We Are Rosie",
+      "title": "Media Project Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+      "time": "2026-11-13T19:39:43.390Z"
+    },
+    {
+      "company": "Industrial Electric Manufacturing",
+      "title": "Commercial Program Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
+      "time": "2026-11-13T19:39:43.391Z"
+    },
+    {
+      "company": "Super Speciosa",
+      "title": "Supply Chain &amp; Operations Manager - LATAM",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "time": "2026-11-13T19:39:43.392Z"
+    },
+    {
+      "company": "Toptal",
+      "title": "Agile Program Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "time": "2026-11-13T19:39:43.393Z"
+    },
+    {
+      "company": "Mecka",
+      "title": "Partner Operations Manager",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "time": "2026-11-13T19:39:43.394Z"
+    },
+    {
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "portal": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "time": "2026-11-13T19:39:43.395Z"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/2007928/",
+      "time": "2026-11-13T19:39:43.396Z"
     }
   ],
-  "lastSyncedAt": "2026-11-13T19:35:13.660Z",
-  "lastUpdated": "14/11/2026, 1:05:13 am",
+  "lastSyncedAt": "2026-11-13T19:39:37.957Z",
+  "lastUpdated": "14/11/2026, 1:09:37 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
