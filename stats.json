@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 37209,
-  "applicationsSubmitted": 731,
-  "totalVerifiedInHistory": 731,
+  "jobsScanned": 37418,
+  "applicationsSubmitted": 732,
+  "totalVerifiedInHistory": 732,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 387,
+    "direct_portal_ashby": 388,
     "direct_portal_lever": 2,
     "iimjobs": 221,
     "indeed": 24,
@@ -15,14 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Leading Client",
-      "title": "Manager / SR Manager - IT and Digital Transformation",
-      "portal": "naukri",
-      "url": "https://www.naukri.com/job-listings-manager-sr-manager-it-and-digital-transformation-belhem-hospitality-pvt-ltd-bengaluru-10-to-15-years-041126910400?src=directSearch&sid=17942980173604028&xp=11&px=1",
-      "time": "2026-11-10T08:07:49.044Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Account Director, Enterprise (East)",
@@ -4014,10 +4006,18 @@
       "url": "https://jobs.ashbyhq.com/openai/afebc24f-c6b8-4c66-a344-b1661fc77570",
       "time": "2026-11-13T23:25:13.937Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of Technical Success, HR Business Partner – Go-to-Market",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/57486b6e-0b23-4fec-9c35-5efb63fa521a",
+      "time": "2026-11-13T23:29:34.862Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-13T23:25:13.949Z",
-  "lastUpdated": "14/11/2026, 4:55:13 am",
+  "lastSyncedAt": "2026-11-13T23:34:07.688Z",
+  "lastUpdated": "14/11/2026, 5:04:07 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
