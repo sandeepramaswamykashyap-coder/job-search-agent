@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 48394,
-  "applicationsSubmitted": 25,
+  "jobsScanned": 48519,
+  "applicationsSubmitted": 740,
   "totalVerifiedInHistory": 740,
   "portalBreakdown": {
     "weworkremotely": 8,
@@ -4014,80 +4014,10 @@
       "url": "https://www.naukri.com/job-listings-portfolio-monitoring-manager-call-concepts-mumbai-new-delhi-bengaluru-5-to-10-years-141126012951?src=directSearch&sid=17946542358322303&xp=7&px=1",
       "time": "2026-11-14T11:04:13.195Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "DEPT®",
-      "title": "Project Manager - Creative - US Remote",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-      "time": "2026-11-14T11:54:09.988Z"
-    },
-    {
-      "company": "Grüns",
-      "title": "People Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
-      "time": "2026-11-14T11:54:09.990Z"
-    },
-    {
-      "company": "Lighthouse",
-      "title": "Review Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
-      "time": "2026-11-14T11:54:09.992Z"
-    },
-    {
-      "company": "We Are Rosie",
-      "title": "Media Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
-      "time": "2026-11-14T11:54:09.994Z"
-    },
-    {
-      "company": "Industrial Electric Manufacturing",
-      "title": "Commercial Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
-      "time": "2026-11-14T11:54:09.996Z"
-    },
-    {
-      "company": "Super Speciosa",
-      "title": "Supply Chain &amp; Operations Manager - LATAM",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "time": "2026-11-14T11:54:09.997Z"
-    },
-    {
-      "company": "Toptal",
-      "title": "Agile Program Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "time": "2026-11-14T11:54:09.999Z"
-    },
-    {
-      "company": "Mecka",
-      "title": "Partner Operations Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "time": "2026-11-14T11:54:10.000Z"
-    },
-    {
-      "company": "Smile Digital Health",
-      "title": "Cloud Engineer Automation",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "time": "2026-11-14T11:54:10.002Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/2007928/",
-      "time": "2026-11-14T11:54:10.003Z"
     }
   ],
-  "lastSyncedAt": "2026-11-14T11:54:05.537Z",
-  "lastUpdated": "14/11/2026, 5:24:05 pm",
+  "lastSyncedAt": "2026-11-14T12:02:23.390Z",
+  "lastUpdated": "14/11/2026, 5:32:23 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
