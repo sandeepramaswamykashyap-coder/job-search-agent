@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-14T04:09:29.438Z",
+  "lastUpdated": "2026-11-14T04:19:32.445Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -576,7 +576,7 @@
       "company": "PwC",
       "title": "Partner — Business Transformation & Platform Delivery",
       "dispatchedAt": "2026-08-30T04:19:04.067Z",
-      "daysElapsed": 75,
+      "daysElapsed": 76,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -587,7 +587,7 @@
       "company": "Ernst & Young (EY)",
       "title": "Head of Executive Sourcing — Global Delivery Services",
       "dispatchedAt": "2026-08-30T04:19:15.474Z",
-      "daysElapsed": 75,
+      "daysElapsed": 76,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
