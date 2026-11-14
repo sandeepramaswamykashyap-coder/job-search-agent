@@ -7,7 +7,7 @@
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 274
   },
-  "lastUpdated": "2026-11-14T17:01:34.588Z",
+  "lastUpdated": "2026-11-14T17:21:48.916Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -114,7 +114,7 @@
       "company": "Foundit Partner",
       "title": "Managing Director - Operations",
       "dispatchedAt": "2026-08-06T17:15:29.146Z",
-      "daysElapsed": 99,
+      "daysElapsed": 100,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
@@ -2644,7 +2644,7 @@
       "company": "Carelon Global Solutions",
       "title": "Director - Talent Acquisition India",
       "dispatchedAt": "2026-10-08T17:21:40.998Z",
-      "daysElapsed": 36,
+      "daysElapsed": 37,
       "stage": "Follow-Up Eligible (5+ days)",
       "status": "sent",
       "followUpStatus": "Follow-Up Email 1 Due"
