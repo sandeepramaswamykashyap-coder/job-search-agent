@@ -1,27 +1,7 @@
 {
   "lastMorningReportDate": "Mon Oct 05 2026",
-  "lastEveningReportDate": "Fri Nov 13 2026",
+  "lastEveningReportDate": "Sat Nov 14 2026",
   "history": [
-    {
-      "type": "evening",
-      "date": "Tue Nov 10 2026",
-      "timestamp": "2026-11-10T14:30:20.166Z"
-    },
-    {
-      "type": "evening",
-      "date": "Tue Nov 10 2026",
-      "timestamp": "2026-11-10T14:30:21.848Z"
-    },
-    {
-      "type": "evening",
-      "date": "Tue Nov 10 2026",
-      "timestamp": "2026-11-10T14:30:21.849Z"
-    },
-    {
-      "type": "evening",
-      "date": "Wed Nov 11 2026",
-      "timestamp": "2026-11-11T14:30:19.885Z"
-    },
     {
       "type": "evening",
       "date": "Wed Nov 11 2026",
@@ -151,6 +131,26 @@
       "type": "evening",
       "date": "Fri Nov 13 2026",
       "timestamp": "2026-11-13T14:30:31.964Z"
+    },
+    {
+      "type": "evening",
+      "date": "Sat Nov 14 2026",
+      "timestamp": "2026-11-14T14:30:25.712Z"
+    },
+    {
+      "type": "evening",
+      "date": "Sat Nov 14 2026",
+      "timestamp": "2026-11-14T14:30:34.964Z"
+    },
+    {
+      "type": "evening",
+      "date": "Sat Nov 14 2026",
+      "timestamp": "2026-11-14T14:30:34.965Z"
+    },
+    {
+      "type": "evening",
+      "date": "Sat Nov 14 2026",
+      "timestamp": "2026-11-14T14:30:37.921Z"
     }
   ]
 }
