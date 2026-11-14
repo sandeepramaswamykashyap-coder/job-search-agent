@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 46326,
-  "applicationsSubmitted": 738,
-  "totalVerifiedInHistory": 738,
+  "jobsScanned": 46436,
+  "applicationsSubmitted": 739,
+  "totalVerifiedInHistory": 739,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
@@ -11,18 +11,10 @@
     "iimjobs": 221,
     "indeed": 30,
     "ashby": 12,
-    "naukri": 71,
+    "naukri": 72,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cohere",
-      "title": "Staff Technical Program Manager, Machine Learning",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
-      "time": "2026-11-10T08:10:29.611Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Federal Account Director",
@@ -4014,10 +4006,18 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DOperations%2520Transformation%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABocylHhEAAAACZ3MLoQATAQEBBkBZoQJ8ZJK4u2P4Ld_gngAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DOperations%252520Transformation%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABocylHhEAAAACZ3MLoQATAQEBBkBZoQJ8ZJK4u2P4Ld_gngAA&from=page-two-signin",
       "time": "2026-11-14T07:24:11.506Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Aerospace & Defence",
+      "title": "Program Manager - Aerospace Job in Bangalore",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-aerospace-in-bangalore-samvith-technologies-bengaluru-12-to-15-years-141126012670?src=directSearch&sid=17946521264968301&xp=11&px=1",
+      "time": "2026-11-14T10:29:17.146Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-14T10:24:49.262Z",
-  "lastUpdated": "14/11/2026, 3:54:49 pm",
+  "lastSyncedAt": "2026-11-14T10:29:17.193Z",
+  "lastUpdated": "14/11/2026, 3:59:17 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
