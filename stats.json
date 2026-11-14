@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 53998,
-  "applicationsSubmitted": 740,
-  "totalVerifiedInHistory": 740,
+  "jobsScanned": 54119,
+  "applicationsSubmitted": 742,
+  "totalVerifiedInHistory": 742,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 388,
+    "direct_portal_ashby": 390,
     "direct_portal_lever": 2,
     "iimjobs": 221,
     "indeed": 30,
@@ -15,22 +15,6 @@
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Perplexity",
-      "title": "Sales Enablement Operations Manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/Perplexity/27dd2e43-e2b0-48e8-a339-b2842b4c3298",
-      "time": "2026-11-10T08:14:56.862Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Head of Partnerships - Japan",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf",
-      "time": "2026-11-10T08:15:32.123Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Account Director - Europe",
@@ -4014,10 +3998,26 @@
       "url": "https://www.naukri.com/job-listings-portfolio-monitoring-manager-call-concepts-mumbai-new-delhi-bengaluru-5-to-10-years-141126012951?src=directSearch&sid=17946542358322303&xp=7&px=1",
       "time": "2026-11-14T11:04:13.195Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Vice President, Sales DACH",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/ebfd7cd4-c9cd-46bd-b406-3fadaffcecef",
+      "time": "2026-11-14T16:09:25.074Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Vice President, Sales Benelux & Nordics",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/da014d1d-f537-4bd2-a1de-f1e755c73d6e",
+      "time": "2026-11-14T16:09:56.184Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-14T16:07:43.574Z",
-  "lastUpdated": "14/11/2026, 9:37:43 pm",
+  "lastSyncedAt": "2026-11-14T16:12:31.189Z",
+  "lastUpdated": "14/11/2026, 9:42:31 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
