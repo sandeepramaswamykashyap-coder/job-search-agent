@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72626,
-  "applicationsSubmitted": 67,
-  "totalVerifiedInHistory": 67,
+  "applicationsSubmitted": 71,
+  "totalVerifiedInHistory": 71,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 56
+    "direct_portal_ashby": 60
   },
   "appliedRolesList": [
     {
@@ -544,10 +544,42 @@
       "url": "https://jobs.ashbyhq.com/cognition/1c0284d5-7426-478d-bbf2-b8b59aec00b2",
       "time": "2026-11-15T06:49:52.203Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Accounts Payable - Compute",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/dceb6d3d-65a7-4676-8d24-f0cf45776ef0",
+      "time": "2026-11-15T06:51:39.114Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/993aa857-1c36-4edb-b230-fc1b49f70774",
+      "time": "2026-11-15T06:51:58.679Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
+      "time": "2026-11-15T06:52:14.939Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Senior Manager, IT Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/b699e12d-06b5-48d4-b8fd-273696757b96",
+      "time": "2026-11-15T06:53:02.828Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T06:50:51.391Z",
-  "lastUpdated": "15/11/2026, 12:20:51 pm",
+  "lastSyncedAt": "2026-11-15T06:53:16.873Z",
+  "lastUpdated": "15/11/2026, 12:23:16 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
