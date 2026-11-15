@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72642,
-  "applicationsSubmitted": 97,
-  "totalVerifiedInHistory": 97,
+  "applicationsSubmitted": 108,
+  "totalVerifiedInHistory": 108,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 86
+    "direct_portal_ashby": 97
   },
   "appliedRolesList": [
     {
@@ -784,10 +784,98 @@
       "url": "https://jobs.ashbyhq.com/openai/afebc24f-c6b8-4c66-a344-b1661fc77570",
       "time": "2026-11-15T07:21:55.047Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Applied AI Delivery Lead - NYC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/20df76c8-aa7e-40d1-8602-28605ed5431b",
+      "time": "2026-11-15T07:22:53.361Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, M&A Recruiting | People",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/8f2d7c1e-7a76-4145-9a9d-b71a12ef9ad4",
+      "time": "2026-11-15T07:22:56.685Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Model Safety Program Manager, User Safety & Risk Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/4444d839-3f58-4369-a241-985acbbbf2f9",
+      "time": "2026-11-15T07:22:58.146Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Global Sales Program Manager (SMB Sales)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/680833a1-01e4-4689-917c-71a4f00ff86c",
+      "time": "2026-11-15T07:23:16.204Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Customer Experience Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803",
+      "time": "2026-11-15T07:23:31.028Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Anyscale",
+      "title": "AWS & Neo Cloud Alliances Senior Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/anyscale/236b71c1-b5b0-4d5e-b17a-3e1bc4966a6a",
+      "time": "2026-11-15T07:23:53.403Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (West)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/9e3b63e1-2a36-4941-9b76-90124cc9d92f",
+      "time": "2026-11-15T07:24:13.599Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, AI Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/character/fd023b84-a746-4fe9-8a9d-277899e67a78",
+      "time": "2026-11-15T07:24:14.764Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "time": "2026-11-15T07:24:33.939Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Delivery Manager, Capacity Programs",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/0df2175f-e997-404d-8363-b8f690af0a8b",
+      "time": "2026-11-15T07:24:51.670Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
+      "time": "2026-11-15T07:25:09.050Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:22:14.128Z",
-  "lastUpdated": "15/11/2026, 12:52:14 pm",
+  "lastSyncedAt": "2026-11-15T07:25:09.056Z",
+  "lastUpdated": "15/11/2026, 12:55:09 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
