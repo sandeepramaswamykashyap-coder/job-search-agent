@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72676,
-  "applicationsSubmitted": 57,
-  "totalVerifiedInHistory": 57,
+  "applicationsSubmitted": 58,
+  "totalVerifiedInHistory": 58,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 46
+    "direct_portal_ashby": 47
   },
   "appliedRolesList": [
     {
@@ -464,10 +464,18 @@
       "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
       "time": "2026-11-15T10:14:49.358Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Delivery Manager, Capacity Programs",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/0df2175f-e997-404d-8363-b8f690af0a8b",
+      "time": "2026-11-15T10:15:15.631Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T10:14:53.673Z",
-  "lastUpdated": "15/11/2026, 3:44:53 pm",
+  "lastSyncedAt": "2026-11-15T10:15:15.684Z",
+  "lastUpdated": "15/11/2026, 3:45:15 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
