@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72654,
-  "applicationsSubmitted": 146,
-  "totalVerifiedInHistory": 146,
+  "jobsScanned": 72665,
+  "applicationsSubmitted": 149,
+  "totalVerifiedInHistory": 149,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 135
+    "direct_portal_ashby": 138
   },
   "appliedRolesList": [
     {
@@ -1176,10 +1176,34 @@
       "url": "https://jobs.ashbyhq.com/openai/8d332d03-1f38-40e3-85be-b4c99231a896",
       "time": "2026-11-15T08:36:02.447Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Federal Account Director, Intelligence Community",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/fd5522f1-8e39-4d60-8b8a-34fae61104cb",
+      "time": "2026-11-15T08:37:18.877Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Ads Revenue Accounting",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/8a50f878-5252-4f65-ad84-80ae2dc5637e",
+      "time": "2026-11-15T08:38:36.378Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "GTM Strategy & Operations, Professional Services",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/08e8d03a-df94-46af-8664-cd9aab1af445",
+      "time": "2026-11-15T08:39:40.458Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T08:36:02.957Z",
-  "lastUpdated": "15/11/2026, 2:06:02 pm",
+  "lastSyncedAt": "2026-11-15T08:45:02.222Z",
+  "lastUpdated": "15/11/2026, 2:15:02 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
