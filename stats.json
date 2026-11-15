@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72607,
-  "applicationsSubmitted": 60,
-  "totalVerifiedInHistory": 60,
+  "jobsScanned": 72626,
+  "applicationsSubmitted": 67,
+  "totalVerifiedInHistory": 67,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 49
+    "direct_portal_ashby": 56
   },
   "appliedRolesList": [
     {
@@ -488,10 +488,66 @@
       "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
       "time": "2026-11-15T06:35:49.367Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Applied API & Product",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/cffa3a8d-918a-4e91-a1c6-3fa84a454408",
+      "time": "2026-11-15T06:46:26.707Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Support Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
+      "time": "2026-11-15T06:46:31.403Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Applied AI Delivery Lead - Mountain View",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/18b4427e-b168-475e-a1e2-92a86c73f0f0",
+      "time": "2026-11-15T06:47:22.172Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Applied AI Delivery Lead - London",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85",
+      "time": "2026-11-15T06:47:24.090Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Global Infrastructure Planning",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/df242b29-6a84-4968-8d57-cbeec20dee67",
+      "time": "2026-11-15T06:47:54.874Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Sales Enablement Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Perplexity/27dd2e43-e2b0-48e8-a339-b2842b4c3298",
+      "time": "2026-11-15T06:48:49.496Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Program Manager - Field CTOs - US",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/1c0284d5-7426-478d-bbf2-b8b59aec00b2",
+      "time": "2026-11-15T06:49:52.203Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T06:45:35.307Z",
-  "lastUpdated": "15/11/2026, 12:15:35 pm",
+  "lastSyncedAt": "2026-11-15T06:50:51.391Z",
+  "lastUpdated": "15/11/2026, 12:20:51 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
