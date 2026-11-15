@@ -1,5 +1,5 @@
 {
-  "jobsScanned": 73494,
+  "jobsScanned": 73483,
   "applicationsSubmitted": 83,
   "totalVerifiedInHistory": 83,
   "portalBreakdown": {
@@ -674,8 +674,8 @@
       "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T13:21:35.181Z",
-  "lastUpdated": "15/11/2026, 6:51:35 pm",
+  "lastSyncedAt": "2026-11-15T13:32:30.077Z",
+  "lastUpdated": "15/11/2026, 7:02:30 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
