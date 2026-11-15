@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72642,
-  "applicationsSubmitted": 93,
-  "totalVerifiedInHistory": 93,
+  "jobsScanned": 72653,
+  "applicationsSubmitted": 94,
+  "totalVerifiedInHistory": 94,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 82
+    "direct_portal_ashby": 83
   },
   "appliedRolesList": [
     {
@@ -752,10 +752,18 @@
       "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7",
       "time": "2026-11-15T07:12:18.945Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
+      "time": "2026-11-15T07:13:40.690Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:13:38.253Z",
-  "lastUpdated": "15/11/2026, 12:43:38 pm",
+  "lastSyncedAt": "2026-11-15T07:15:29.077Z",
+  "lastUpdated": "15/11/2026, 12:45:29 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
