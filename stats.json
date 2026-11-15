@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72676,
-  "applicationsSubmitted": 61,
-  "totalVerifiedInHistory": 61,
+  "applicationsSubmitted": 68,
+  "totalVerifiedInHistory": 68,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 50
+    "direct_portal_ashby": 57
   },
   "appliedRolesList": [
     {
@@ -496,10 +496,66 @@
       "url": "https://jobs.ashbyhq.com/WRITER/f27740ea-19f4-4166-8ed3-4d7bb9a870ba",
       "time": "2026-11-15T10:15:40.618Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
+      "time": "2026-11-15T10:16:07.913Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior manager, lifecycle & audience marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/ff94a694-b5b8-40f0-90ec-d8087670a2c7",
+      "time": "2026-11-15T10:16:09.425Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
+      "time": "2026-11-15T10:16:10.069Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/e3e6ddf1-2b57-4580-8564-e823d7fed763",
+      "time": "2026-11-15T10:16:14.634Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, France",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
+      "time": "2026-11-15T10:16:36.964Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (West)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/9e3b63e1-2a36-4941-9b76-90124cc9d92f",
+      "time": "2026-11-15T10:16:37.225Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
+      "time": "2026-11-15T10:16:38.034Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T10:15:41.513Z",
-  "lastUpdated": "15/11/2026, 3:45:41 pm",
+  "lastSyncedAt": "2026-11-15T10:16:38.063Z",
+  "lastUpdated": "15/11/2026, 3:46:38 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
