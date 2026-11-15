@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72367,
-  "applicationsSubmitted": 28,
-  "totalVerifiedInHistory": 28,
+  "jobsScanned": 72379,
+  "applicationsSubmitted": 29,
+  "totalVerifiedInHistory": 29,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 17
+    "direct_portal_ashby": 18
   },
   "appliedRolesList": [
     {
@@ -232,10 +232,18 @@
       "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
       "time": "2026-11-15T05:54:36.905Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Global Deal Desk",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
+      "time": "2026-11-15T05:56:23.248Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T05:55:10.782Z",
-  "lastUpdated": "15/11/2026, 11:25:10 am",
+  "lastSyncedAt": "2026-11-15T05:58:01.348Z",
+  "lastUpdated": "15/11/2026, 11:28:01 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
