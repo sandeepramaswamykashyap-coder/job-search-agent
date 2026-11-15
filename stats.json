@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72379,
-  "applicationsSubmitted": 29,
-  "totalVerifiedInHistory": 29,
+  "applicationsSubmitted": 31,
+  "totalVerifiedInHistory": 31,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 18
+    "direct_portal_ashby": 20
   },
   "appliedRolesList": [
     {
@@ -240,10 +240,26 @@
       "url": "https://jobs.ashbyhq.com/temporal/ff1b5637-b576-483c-a621-02b6ebe7f2c4",
       "time": "2026-11-15T05:56:23.248Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Strategic Sales Transformation Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/1c7e6d21-60ec-4d93-8c8f-b3dbe40bcb1d",
+      "time": "2026-11-15T05:58:51.742Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Partnerships EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/fce51aaa-d5c9-4101-bc28-60bad04567fb",
+      "time": "2026-11-15T05:59:34.003Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T05:58:01.348Z",
-  "lastUpdated": "15/11/2026, 11:28:01 am",
+  "lastSyncedAt": "2026-11-15T06:03:24.172Z",
+  "lastUpdated": "15/11/2026, 11:33:24 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
