@@ -1,6 +1,6 @@
 {
   "jobsScanned": 72654,
-  "applicationsSubmitted": 124,
+  "applicationsSubmitted": 126,
   "totalVerifiedInHistory": 124,
   "portalBreakdown": {
     "workingnomads": 1,
@@ -1000,10 +1000,26 @@
       "url": "https://jobs.ashbyhq.com/openai/9747412d-a23d-48ba-bddd-ad1247c360f5",
       "time": "2026-11-15T08:08:39.834Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cartesia",
+      "title": "Product and Research Operations Manager, Voices",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cartesia/b73647f2-aced-4656-84c3-e78637744a5a",
+      "time": "2026-11-15T08:10:06.851Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategic Delivery Lead, National Security",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/38e66047-7d81-4347-8e64-2c16bc9a803a",
+      "time": "2026-11-15T08:11:03.084Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T08:10:08.630Z",
-  "lastUpdated": "15/11/2026, 1:40:08 pm",
+  "lastSyncedAt": "2026-11-15T08:11:03.382Z",
+  "lastUpdated": "15/11/2026, 1:41:03 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
