@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72665,
-  "applicationsSubmitted": 151,
-  "totalVerifiedInHistory": 151,
+  "applicationsSubmitted": 152,
+  "totalVerifiedInHistory": 152,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 140
+    "direct_portal_ashby": 141
   },
   "appliedRolesList": [
     {
@@ -1216,10 +1216,18 @@
       "url": "https://jobs.ashbyhq.com/5c335d0c-0c96-4b85-a913-db4ce4f02651/544c70cf-c016-4ba4-9d6d-ecbcb290e8f4",
       "time": "2026-11-15T08:48:35.327Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Program Manager - Field CTOs - EMEA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/6146f09d-285d-4538-be40-e1f3ffcdecd2",
+      "time": "2026-11-15T08:59:52.298Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T08:59:37.566Z",
-  "lastUpdated": "15/11/2026, 2:29:37 pm",
+  "lastSyncedAt": "2026-11-15T09:02:33.322Z",
+  "lastUpdated": "15/11/2026, 2:32:33 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
