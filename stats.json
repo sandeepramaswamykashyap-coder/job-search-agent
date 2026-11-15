@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 70704,
-  "applicationsSubmitted": 749,
-  "totalVerifiedInHistory": 749,
+  "jobsScanned": 70902,
+  "applicationsSubmitted": 750,
+  "totalVerifiedInHistory": 750,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
@@ -9,20 +9,12 @@
     "direct_portal_ashby": 392,
     "direct_portal_lever": 2,
     "iimjobs": 223,
-    "indeed": 30,
+    "indeed": 31,
     "ashby": 12,
     "naukri": 76,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Writer",
-      "title": "Transformation lead manager",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/fa2c8c23-cf8b-4638-b624-e51077f91c38",
-      "time": "2026-11-10T08:21:42.794Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Cognition",
       "title": "Head of LATAM Marketing",
@@ -4014,10 +4006,18 @@
       "url": "https://www.naukri.com/job-listings-senior-manager-risk-fraud-and-audit-nehat-tech-solutions-gurugram-bengaluru-mumbai-all-areas-8-to-12-years-131126000003?src=directSearch&sid=17947054629899295&xp=4&px=1",
       "time": "2026-11-15T01:17:57.111Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Natus Sensory",
+      "title": "Project Manager",
+      "portal": "indeed",
+      "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABodx66ygAAAACZ4S_AwAOAQAAw-0aoF8y7ZyjuTYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABodx66ygAAAACZ4S_AwAOAQAAw-0aoF8y7ZyjuTYAAA&from=page-two-signin",
+      "time": "2026-11-15T04:12:20.106Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T04:09:20.129Z",
-  "lastUpdated": "15/11/2026, 9:39:20 am",
+  "lastSyncedAt": "2026-11-15T04:17:55.028Z",
+  "lastUpdated": "15/11/2026, 9:47:55 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
