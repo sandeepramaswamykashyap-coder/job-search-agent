@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72654,
-  "applicationsSubmitted": 137,
-  "totalVerifiedInHistory": 137,
+  "jobsScanned": 72665,
+  "applicationsSubmitted": 138,
+  "totalVerifiedInHistory": 138,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 126
+    "direct_portal_ashby": 127
   },
   "appliedRolesList": [
     {
@@ -1104,10 +1104,18 @@
       "url": "https://jobs.ashbyhq.com/character/091a6ad6-75dd-4dd4-9439-7e1e9d13970b",
       "time": "2026-11-15T08:20:52.795Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Cyber",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e8cb6c67-0b73-4be8-a35c-775c99c1c638",
+      "time": "2026-11-15T08:22:40.299Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T08:20:53.786Z",
-  "lastUpdated": "15/11/2026, 1:50:53 pm",
+  "lastSyncedAt": "2026-11-15T08:24:15.535Z",
+  "lastUpdated": "15/11/2026, 1:54:15 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
