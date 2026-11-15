@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72642,
-  "applicationsSubmitted": 108,
-  "totalVerifiedInHistory": 108,
+  "applicationsSubmitted": 107,
+  "totalVerifiedInHistory": 107,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 97
+    "direct_portal_ashby": 96
   },
   "appliedRolesList": [
     {
@@ -864,17 +864,9 @@
       "url": "https://jobs.ashbyhq.com/baseten/0df2175f-e997-404d-8363-b8f690af0a8b",
       "time": "2026-11-15T07:24:51.670Z",
       "status": "SUBMITTED"
-    },
-    {
-      "company": "Writer",
-      "title": "AI transformation lead (Central)",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
-      "time": "2026-11-15T07:25:09.050Z",
-      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:25:09.056Z",
+  "lastSyncedAt": "2026-11-15T07:25:09.936Z",
   "lastUpdated": "15/11/2026, 12:55:09 pm",
   "remoteJobs": [
     {
