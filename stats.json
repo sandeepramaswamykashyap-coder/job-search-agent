@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72654,
-  "applicationsSubmitted": 126,
-  "totalVerifiedInHistory": 126,
+  "applicationsSubmitted": 137,
+  "totalVerifiedInHistory": 137,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 115
+    "direct_portal_ashby": 126
   },
   "appliedRolesList": [
     {
@@ -1016,10 +1016,98 @@
       "url": "https://jobs.ashbyhq.com/openai/38e66047-7d81-4347-8e64-2c16bc9a803a",
       "time": "2026-11-15T08:11:03.084Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Large Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/25920df6-571d-4e05-aa12-384453f406f8",
+      "time": "2026-11-15T08:13:40.624Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Supply Chain Operations Program Manager, AI Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/063d1957-23f0-4976-b8bd-93a0d4a31cfb",
+      "time": "2026-11-15T08:15:39.146Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/52263a22-1621-4dbb-9a11-ae4490f2acc8",
+      "time": "2026-11-15T08:16:43.846Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Compute Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+      "time": "2026-11-15T08:18:42.640Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "GRC Technical Program Manager, Product Lifecycle Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
+      "time": "2026-11-15T08:18:43.712Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native Large Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/673ca4f5-b5dc-448f-be3c-4f888a6d13ed",
+      "time": "2026-11-15T08:18:57.901Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/fbb68247-eb54-4ad1-94b4-26e0dc24fd23",
+      "time": "2026-11-15T08:19:52.082Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Data Program Manager, Science",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2bdd1b8b-2883-40fb-b006-583959ad4c5f",
+      "time": "2026-11-15T08:19:59.946Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
+      "time": "2026-11-15T08:20:37.743Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native New Business",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/07fb9365-8e80-48fe-86df-08d60dd46f43",
+      "time": "2026-11-15T08:20:49.251Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Model Alignment and Deployment",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/character/091a6ad6-75dd-4dd4-9439-7e1e9d13970b",
+      "time": "2026-11-15T08:20:52.795Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T08:13:38.474Z",
-  "lastUpdated": "15/11/2026, 1:43:38 pm",
+  "lastSyncedAt": "2026-11-15T08:20:53.786Z",
+  "lastUpdated": "15/11/2026, 1:50:53 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
