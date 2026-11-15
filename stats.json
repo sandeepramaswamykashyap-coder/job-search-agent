@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 72292,
-  "applicationsSubmitted": 750,
+  "jobsScanned": 72304,
+  "applicationsSubmitted": 6,
   "totalVerifiedInHistory": 750,
   "portalBreakdown": {
     "weworkremotely": 8,
@@ -4014,10 +4014,17 @@
       "url": "https://secure.indeed.com/auth?co=IN&hl=en_IN&continue=http%3A%2F%2Fin.indeed.com%2Fjobs%3Fq%3DProgram%2520Manager%26l%3DBengaluru%2C%2520Karnataka%26sc%3D0kf%253Aattr%28DSQF7%29%253B%26radius%3D25%26start%3D10%26pp%3DgQAPAAABodx66ygAAAACZ4S_AwAOAQAAw-0aoF8y7ZyjuTYAAA&branding=page-two-signin&jsContinue=https%3A%2F%2Fin.indeed.com%2Fonboarding%3Fco%3DIN%26hl%3Den_IN%26from%3Dpage-two-signin%26continue%3Dhttp%253A%252F%252Fin.indeed.com%252Fjobs%253Fq%253DProgram%252520Manager%2526l%253DBengaluru%252C%252520Karnataka%2526sc%253D0kf%25253Aattr%2528DSQF7%2529%25253B%2526radius%253D25%2526start%253D10%2526pp%253DgQAPAAABodx66ygAAAACZ4S_AwAOAQAAw-0aoF8y7ZyjuTYAAA&from=page-two-signin",
       "time": "2026-11-15T04:12:20.106Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Proxify",
+      "title": "Senior QA Automation Engineer",
+      "portal": "workingnomads",
+      "url": "https://www.workingnomads.com/job/go/2007928/",
+      "time": "2026-11-15T05:31:48.236Z"
     }
   ],
-  "lastSyncedAt": "2026-11-15T05:31:28.809Z",
-  "lastUpdated": "15/11/2026, 11:01:28 am",
+  "lastSyncedAt": "2026-11-15T05:31:42.140Z",
+  "lastUpdated": "15/11/2026, 11:01:42 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
