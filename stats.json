@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72582,
-  "applicationsSubmitted": 53,
-  "totalVerifiedInHistory": 53,
+  "jobsScanned": 72572,
+  "applicationsSubmitted": 58,
+  "totalVerifiedInHistory": 58,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 42
+    "direct_portal_ashby": 47
   },
   "appliedRolesList": [
     {
@@ -432,10 +432,50 @@
       "url": "https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6",
       "time": "2026-11-15T06:31:09.201Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Business Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/225b43d8-ef14-4082-b16e-005c74b42957",
+      "time": "2026-11-15T06:32:23.755Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Product Experience",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/character/56dcfddd-ba6d-48a8-81fb-3332abb1c032",
+      "time": "2026-11-15T06:32:27.225Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc",
+      "time": "2026-11-15T06:32:59.058Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior manager, lifecycle & audience marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/ff94a694-b5b8-40f0-90ec-d8087670a2c7",
+      "time": "2026-11-15T06:33:32.994Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (West)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/f27740ea-19f4-4166-8ed3-4d7bb9a870ba",
+      "time": "2026-11-15T06:34:46.013Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T06:31:47.215Z",
-  "lastUpdated": "15/11/2026, 12:01:47 pm",
+  "lastSyncedAt": "2026-11-15T06:34:48.275Z",
+  "lastUpdated": "15/11/2026, 12:04:48 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
