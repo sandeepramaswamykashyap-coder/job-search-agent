@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72653,
   "applicationsSubmitted": 117,
-  "totalVerifiedInHistory": 117,
+  "totalVerifiedInHistory": 118,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 106
+    "direct_portal_ashby": 107
   },
   "appliedRolesList": [
     {
