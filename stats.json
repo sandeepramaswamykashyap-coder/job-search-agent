@@ -1,7 +1,7 @@
 {
-  "jobsScanned": 66524,
-  "applicationsSubmitted": 12,
-  "totalVerifiedInHistory": 747,
+  "jobsScanned": 66722,
+  "applicationsSubmitted": 749,
+  "totalVerifiedInHistory": 749,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
@@ -11,26 +11,10 @@
     "iimjobs": 223,
     "indeed": 30,
     "ashby": 12,
-    "naukri": 74,
+    "naukri": 76,
     "direct_portal_workday": 2
   },
   "appliedRolesList": [
-    {
-      "company": "Cohere",
-      "title": "Adoption Specialist - Infrastructure & Agentic",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2",
-      "time": "2026-11-10T08:19:59.475Z",
-      "status": "SUBMITTED"
-    },
-    {
-      "company": "Cognition",
-      "title": "Account Director - APAC",
-      "portal": "direct_portal_ashby",
-      "url": "https://jobs.ashbyhq.com/cognition/0aabb166-3e97-437b-ab84-b04fe20dd426",
-      "time": "2026-11-10T08:21:27.688Z",
-      "status": "SUBMITTED"
-    },
     {
       "company": "Writer",
       "title": "Transformation lead manager",
@@ -4016,78 +4000,24 @@
       "status": "SUBMITTED"
     },
     {
-      "company": "DEPT®",
-      "title": "Project Manager - Creative - US Remote",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-      "time": "2026-11-15T01:07:31.312Z"
+      "company": "Larsen & Toubro (L&T)",
+      "title": "Program Manager",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-program-manager-larsen-toubro-l-t-bengaluru-9-to-14-years-131126000126?src=directSearch&sid=17947052109109390&xp=8&px=1",
+      "time": "2026-11-15T01:13:48.239Z",
+      "status": "SUBMITTED"
     },
     {
-      "company": "Grüns",
-      "title": "People Operations Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
-      "time": "2026-11-15T01:07:31.314Z"
-    },
-    {
-      "company": "Lighthouse",
-      "title": "Review Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/lighthouse-review-program-manager",
-      "time": "2026-11-15T01:07:31.316Z"
-    },
-    {
-      "company": "We Are Rosie",
-      "title": "Media Project Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
-      "time": "2026-11-15T01:07:31.317Z"
-    },
-    {
-      "company": "Industrial Electric Manufacturing",
-      "title": "Commercial Program Manager",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/industrial-electric-manufacturing-commercial-program-manager",
-      "time": "2026-11-15T01:07:31.319Z"
-    },
-    {
-      "company": "Super Speciosa",
-      "title": "Supply Chain &amp; Operations Manager - LATAM",
-      "portal": "weworkremotely",
-      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "time": "2026-11-15T01:07:31.322Z"
-    },
-    {
-      "company": "Toptal",
-      "title": "Agile Program Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "time": "2026-11-15T01:07:31.323Z"
-    },
-    {
-      "company": "Mecka",
-      "title": "Partner Operations Manager",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "time": "2026-11-15T01:07:31.325Z"
-    },
-    {
-      "company": "Smile Digital Health",
-      "title": "Cloud Engineer Automation",
-      "portal": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "time": "2026-11-15T01:07:31.326Z"
-    },
-    {
-      "company": "Proxify",
-      "title": "Senior QA Automation Engineer",
-      "portal": "workingnomads",
-      "url": "https://www.workingnomads.com/job/go/2007928/",
-      "time": "2026-11-15T01:07:31.327Z"
+      "company": "Nehat Tech Solutions",
+      "title": "Senior Manager - Risk, Fraud and Audit",
+      "portal": "naukri",
+      "url": "https://www.naukri.com/job-listings-senior-manager-risk-fraud-and-audit-nehat-tech-solutions-gurugram-bengaluru-mumbai-all-areas-8-to-12-years-131126000003?src=directSearch&sid=17947054629899295&xp=4&px=1",
+      "time": "2026-11-15T01:17:57.111Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T01:07:20.328Z",
-  "lastUpdated": "15/11/2026, 6:37:20 am",
+  "lastSyncedAt": "2026-11-15T01:18:00.202Z",
+  "lastUpdated": "15/11/2026, 6:48:00 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
