@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72654,
-  "applicationsSubmitted": 118,
-  "totalVerifiedInHistory": 118,
+  "jobsScanned": 72653,
+  "applicationsSubmitted": 120,
+  "totalVerifiedInHistory": 120,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 107
+    "direct_portal_ashby": 109
   },
   "appliedRolesList": [
     {
@@ -952,10 +952,26 @@
       "url": "https://jobs.ashbyhq.com/plaid/c38d85e9-4608-4615-a65b-baac1b80f871",
       "time": "2026-11-15T07:48:44.672Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Model Performance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e",
+      "time": "2026-11-15T07:58:40.780Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Applied AI Delivery Lead - Remote in AMER",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2c531790-726c-4d39-b3bd-900c59a09a4d",
+      "time": "2026-11-15T07:58:55.309Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:56:00.039Z",
-  "lastUpdated": "15/11/2026, 1:26:00 pm",
+  "lastSyncedAt": "2026-11-15T07:59:19.783Z",
+  "lastUpdated": "15/11/2026, 1:29:19 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
