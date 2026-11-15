@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72676,
-  "applicationsSubmitted": 68,
-  "totalVerifiedInHistory": 68,
+  "applicationsSubmitted": 71,
+  "totalVerifiedInHistory": 71,
   "portalBreakdown": {
     "weworkremotely": 7,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 57
+    "direct_portal_ashby": 60
   },
   "appliedRolesList": [
     {
@@ -552,10 +552,34 @@
       "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
       "time": "2026-11-15T10:16:38.034Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "time": "2026-11-15T10:16:59.456Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Manager, GTM & Revenue Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/3898333d-fcbe-4d3f-afad-8be721b08319",
+      "time": "2026-11-15T10:17:05.855Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
+      "time": "2026-11-15T10:17:08.016Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T10:16:38.063Z",
-  "lastUpdated": "15/11/2026, 3:46:38 pm",
+  "lastSyncedAt": "2026-11-15T10:17:09.381Z",
+  "lastUpdated": "15/11/2026, 3:47:09 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
