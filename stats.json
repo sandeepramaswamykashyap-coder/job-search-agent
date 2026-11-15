@@ -1,11 +1,12 @@
 {
-  "jobsScanned": 72313,
-  "applicationsSubmitted": 10,
-  "totalVerifiedInHistory": 10,
+  "jobsScanned": 72328,
+  "applicationsSubmitted": 18,
+  "totalVerifiedInHistory": 18,
   "portalBreakdown": {
     "workingnomads": 1,
-    "weworkremotely": 6,
-    "remoteok": 3
+    "weworkremotely": 7,
+    "remoteok": 3,
+    "direct_portal_ashby": 7
   },
   "appliedRolesList": [
     {
@@ -87,10 +88,74 @@
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
       "time": "2026-11-15T05:35:08.604Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Smart Suites",
+      "title": "Vehicle Sourcing &amp; Import Operations Manager",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/smart-suites-vehicle-sourcing-import-operations-manager",
+      "time": "2026-11-15T05:39:38.823Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager – Adversarial Model Research",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/65913e57-80e0-4a1a-bbc3-265ae8a1a41b",
+      "time": "2026-11-15T05:40:07.169Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Data Program Manager, Human Data",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213",
+      "time": "2026-11-15T05:40:12.701Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Support Delivery",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
+      "time": "2026-11-15T05:40:29.224Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Program Manager, Consumer Device Safety Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/b65f9125-2c3a-4507-bb20-6213952b5f2c",
+      "time": "2026-11-15T05:42:17.139Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Support Delivery Lead - Toronto",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6b8eed3a-d549-4df8-9ac7-134d4d52c600",
+      "time": "2026-11-15T05:42:51.980Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Actuators",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/0728d036-6057-4194-942f-34254610c18f",
+      "time": "2026-11-15T05:43:08.708Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Infrastructure Systems & Tooling",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d",
+      "time": "2026-11-15T05:43:28.616Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T05:37:19.801Z",
-  "lastUpdated": "15/11/2026, 11:07:19 am",
+  "lastSyncedAt": "2026-11-15T05:43:28.623Z",
+  "lastUpdated": "15/11/2026, 11:13:28 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
