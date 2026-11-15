@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72367,
-  "applicationsSubmitted": 27,
-  "totalVerifiedInHistory": 27,
+  "applicationsSubmitted": 28,
+  "totalVerifiedInHistory": 28,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 16
+    "direct_portal_ashby": 17
   },
   "appliedRolesList": [
     {
@@ -224,10 +224,18 @@
       "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
       "time": "2026-11-15T05:52:41.963Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Livekit",
+      "title": "Senior Product Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
+      "time": "2026-11-15T05:54:36.905Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T05:53:01.348Z",
-  "lastUpdated": "15/11/2026, 11:23:01 am",
+  "lastSyncedAt": "2026-11-15T05:54:36.996Z",
+  "lastUpdated": "15/11/2026, 11:24:36 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
