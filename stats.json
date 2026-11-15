@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72510,
-  "applicationsSubmitted": 31,
-  "totalVerifiedInHistory": 31,
+  "jobsScanned": 72567,
+  "applicationsSubmitted": 43,
+  "totalVerifiedInHistory": 43,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 20
+    "direct_portal_ashby": 32
   },
   "appliedRolesList": [
     {
@@ -256,10 +256,106 @@
       "url": "https://jobs.ashbyhq.com/temporal/fce51aaa-d5c9-4101-bc28-60bad04567fb",
       "time": "2026-11-15T05:59:34.003Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager, Human Data Campaigns",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5edd5a13-2fc9-427c-ad88-2b67c97a0afe",
+      "time": "2026-11-15T06:20:13.335Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Technical Program Manager - Security",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c414f15f-60c4-40b5-a896-d2ad6c7f4415",
+      "time": "2026-11-15T06:20:48.559Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, Technology Capital Builds",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6351bb6b-992d-4c4e-983d-612d91ede046",
+      "time": "2026-11-15T06:21:13.271Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Platform Operations Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/616ef2ce-3790-432d-9a6d-32abb2f52ff9",
+      "time": "2026-11-15T06:21:13.742Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Accounts Payable - Payments",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/1b62655e-87e5-4dfb-ad92-03dabeb8304f",
+      "time": "2026-11-15T06:22:05.075Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Model Deployment & Capacity",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/58c28108-5bc6-449d-8461-9274f5abd7e6",
+      "time": "2026-11-15T06:22:10.657Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Systems Program Manager, User Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e1b8fd3a-315c-4480-9105-98228093d429",
+      "time": "2026-11-15T06:22:20.865Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Operations Analyst, User Safety & Risk Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3",
+      "time": "2026-11-15T06:22:27.833Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Storage & Data Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c0c70d7e-c450-4ca4-842a-dbc5e643c048",
+      "time": "2026-11-15T06:22:50.308Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager, Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/35e6355f-52fd-405e-b5b6-98b275666d39",
+      "time": "2026-11-15T06:23:02.708Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Global Programs — Applied AI Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/cd3c9c99-9527-4ba2-bea7-9f8f4892bc62",
+      "time": "2026-11-15T06:23:17.009Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Security Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0",
+      "time": "2026-11-15T06:23:20.005Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T06:18:15.615Z",
-  "lastUpdated": "15/11/2026, 11:48:15 am",
+  "lastSyncedAt": "2026-11-15T06:23:22.894Z",
+  "lastUpdated": "15/11/2026, 11:53:22 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
