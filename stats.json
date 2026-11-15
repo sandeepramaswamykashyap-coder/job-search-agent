@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72328,
-  "applicationsSubmitted": 18,
-  "totalVerifiedInHistory": 18,
+  "jobsScanned": 72354,
+  "applicationsSubmitted": 24,
+  "totalVerifiedInHistory": 24,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 7
+    "direct_portal_ashby": 13
   },
   "appliedRolesList": [
     {
@@ -152,10 +152,58 @@
       "url": "https://jobs.ashbyhq.com/openai/4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d",
       "time": "2026-11-15T05:43:28.616Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager, Frontier Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa",
+      "time": "2026-11-15T05:43:30.487Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Regulatory Operations Analyst, User Safety & Risk Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/bc059a72-8ff3-4a80-a499-5b82ccca1f05",
+      "time": "2026-11-15T05:44:21.751Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategic Delivery Lead, Cyber",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/125db0ea-d5e1-4c49-bc1a-e6ffc8ea71ff",
+      "time": "2026-11-15T05:45:04.807Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategic Delivery Lead, Federal Civilian & State and Local Government",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/2475c6c9-97c1-461b-8c73-0b9ce993860a",
+      "time": "2026-11-15T05:45:55.630Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Compliance Program Manager — Regulatory Compliance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5f094405-1b54-419b-88b2-df1d7eb16af0",
+      "time": "2026-11-15T05:46:33.517Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, Local Community Impact",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6ebd3534-d65b-4d90-ba96-6a54de31409d",
+      "time": "2026-11-15T05:47:16.276Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T05:43:28.623Z",
-  "lastUpdated": "15/11/2026, 11:13:28 am",
+  "lastSyncedAt": "2026-11-15T05:48:33.708Z",
+  "lastUpdated": "15/11/2026, 11:18:33 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
