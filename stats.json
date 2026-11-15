@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72365,
-  "applicationsSubmitted": 24,
-  "totalVerifiedInHistory": 24,
+  "jobsScanned": 72367,
+  "applicationsSubmitted": 27,
+  "totalVerifiedInHistory": 27,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 13
+    "direct_portal_ashby": 16
   },
   "appliedRolesList": [
     {
@@ -200,10 +200,34 @@
       "url": "https://jobs.ashbyhq.com/openai/6ebd3534-d65b-4d90-ba96-6a54de31409d",
       "time": "2026-11-15T05:47:16.276Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Head of Talent Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602",
+      "time": "2026-11-15T05:51:29.490Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Senior Technical Program Manager, AI Platform",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/278476b1-87c5-461f-ad7e-950cd31e5f31",
+      "time": "2026-11-15T05:52:19.392Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
+      "time": "2026-11-15T05:52:41.963Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T05:49:18.328Z",
-  "lastUpdated": "15/11/2026, 11:19:18 am",
+  "lastSyncedAt": "2026-11-15T05:53:01.348Z",
+  "lastUpdated": "15/11/2026, 11:23:01 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
@@ -217,6 +241,14 @@
       "title": "People Operations Manager",
       "company": "Grüns",
       "link": "https://weworkremotely.com/remote-jobs/gruns-people-operations-manager",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-11-09T09:57:18.721Z"
+    },
+    {
+      "title": "Review Program Manager",
+      "company": "Lighthouse",
+      "link": "https://weworkremotely.com/remote-jobs/lightbs/gruns-people-operations-manager",
       "region": "Worldwide",
       "portal": "weworkremotely",
       "scannedAt": "2026-11-09T09:57:18.721Z"

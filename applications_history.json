@@ -190,5 +190,29 @@
     "url": "https://jobs.ashbyhq.com/openai/6ebd3534-d65b-4d90-ba96-6a54de31409d",
     "time": "2026-11-15T05:47:16.276Z",
     "status": "SUBMITTED"
+  },
+  {
+    "company": "Ramp",
+    "title": "Senior Manager, Head of Talent Operations",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602",
+    "time": "2026-11-15T05:51:29.490Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Sentry",
+    "title": "Senior Technical Program Manager, AI Platform",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/sentry/278476b1-87c5-461f-ad7e-950cd31e5f31",
+    "time": "2026-11-15T05:52:19.392Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "company": "Cognition",
+    "title": "Applied AI Transformation Manager",
+    "portal": "direct_portal_ashby",
+    "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
+    "time": "2026-11-15T05:52:41.963Z",
+    "status": "SUBMITTED"
   }
 ]
