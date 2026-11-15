@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72653,
-  "applicationsSubmitted": 80,
-  "totalVerifiedInHistory": 80,
+  "jobsScanned": 72642,
+  "applicationsSubmitted": 88,
+  "totalVerifiedInHistory": 88,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 69
+    "direct_portal_ashby": 77
   },
   "appliedRolesList": [
     {
@@ -648,10 +648,74 @@
       "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
       "time": "2026-11-15T07:07:42.990Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Forward Deployed Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
+      "time": "2026-11-15T07:09:06.591Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
+      "time": "2026-11-15T07:09:56.957Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "time": "2026-11-15T07:10:32.360Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Recruiting Operations Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/f736f253-7b2d-4a4f-82d6-3f4ebf14c7c6",
+      "time": "2026-11-15T07:10:41.291Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Product Manager, Privacy & Data Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
+      "time": "2026-11-15T07:10:50.181Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Transformation lead manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/fa2c8c23-cf8b-4638-b624-e51077f91c38",
+      "time": "2026-11-15T07:10:51.782Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Senior Manager, Workplace Experience",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/afa818b7-1f52-48e6-bf4d-71593d314e5c",
+      "time": "2026-11-15T07:10:57.726Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager II",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0d2219cc-57ea-4c9e-885d-215b2469304a",
+      "time": "2026-11-15T07:11:23.390Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:08:11.772Z",
-  "lastUpdated": "15/11/2026, 12:38:11 pm",
+  "lastSyncedAt": "2026-11-15T07:11:23.399Z",
+  "lastUpdated": "15/11/2026, 12:41:23 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
