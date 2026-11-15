@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 72642,
-  "applicationsSubmitted": 107,
-  "totalVerifiedInHistory": 107,
+  "jobsScanned": 72656,
+  "applicationsSubmitted": 109,
+  "totalVerifiedInHistory": 109,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 96
+    "direct_portal_ashby": 98
   },
   "appliedRolesList": [
     {
@@ -864,10 +864,26 @@
       "url": "https://jobs.ashbyhq.com/baseten/0df2175f-e997-404d-8363-b8f690af0a8b",
       "time": "2026-11-15T07:24:51.670Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
+      "time": "2026-11-15T07:25:35.787Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "Workplace Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/d2a86680-506f-4388-8c48-c817e8872730",
+      "time": "2026-11-15T07:26:01.388Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:25:58.609Z",
-  "lastUpdated": "15/11/2026, 12:55:58 pm",
+  "lastSyncedAt": "2026-11-15T07:30:29.801Z",
+  "lastUpdated": "15/11/2026, 1:00:29 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
