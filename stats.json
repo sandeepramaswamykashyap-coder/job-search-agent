@@ -1,12 +1,12 @@
 {
   "jobsScanned": 72642,
-  "applicationsSubmitted": 88,
-  "totalVerifiedInHistory": 88,
+  "applicationsSubmitted": 93,
+  "totalVerifiedInHistory": 93,
   "portalBreakdown": {
     "workingnomads": 1,
     "weworkremotely": 7,
     "remoteok": 3,
-    "direct_portal_ashby": 77
+    "direct_portal_ashby": 82
   },
   "appliedRolesList": [
     {
@@ -712,10 +712,50 @@
       "url": "https://jobs.ashbyhq.com/uipath/0d2219cc-57ea-4c9e-885d-215b2469304a",
       "time": "2026-11-15T07:11:23.390Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior Manager, ABM & Executive Programs – APJ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/c075a845-7bb3-4073-a6cd-f6d57781bf30",
+      "time": "2026-11-15T07:11:42.409Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
+      "time": "2026-11-15T07:11:48.337Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Senior RPA Developer",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/7eb9a1c3-a53e-4052-8ba8-da517476c929",
+      "time": "2026-11-15T07:11:52.859Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Manager, GTM & Revenue Finance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/3898333d-fcbe-4d3f-afad-8be721b08319",
+      "time": "2026-11-15T07:12:18.808Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Temporal",
+      "title": "Senior Manager, Developer Advocacy (NAMER)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7",
+      "time": "2026-11-15T07:12:18.945Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:11:23.399Z",
-  "lastUpdated": "15/11/2026, 12:41:23 pm",
+  "lastSyncedAt": "2026-11-15T07:13:38.253Z",
+  "lastUpdated": "15/11/2026, 12:43:38 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
