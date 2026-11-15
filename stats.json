@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 72653,
-  "applicationsSubmitted": 117,
+  "jobsScanned": 72654,
+  "applicationsSubmitted": 118,
   "totalVerifiedInHistory": 118,
   "portalBreakdown": {
     "workingnomads": 1,
@@ -944,10 +944,18 @@
       "url": "https://jobs.ashbyhq.com/Deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
       "time": "2026-11-15T07:47:36.277Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "People Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/c38d85e9-4608-4615-a65b-baac1b80f871",
+      "time": "2026-11-15T07:48:44.672Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T07:48:48.826Z",
-  "lastUpdated": "15/11/2026, 1:18:48 pm",
+  "lastSyncedAt": "2026-11-15T07:56:00.039Z",
+  "lastUpdated": "15/11/2026, 1:26:00 pm",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
