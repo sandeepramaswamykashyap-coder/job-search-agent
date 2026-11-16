@@ -1,12 +1,12 @@
 {
   "jobsScanned": 73530,
-  "applicationsSubmitted": 104,
-  "totalVerifiedInHistory": 104,
+  "applicationsSubmitted": 109,
+  "totalVerifiedInHistory": 109,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 92
+    "direct_portal_ashby": 97
   },
   "appliedRolesList": [
     {
@@ -840,10 +840,50 @@
       "url": "https://jobs.ashbyhq.com/openai/8d332d03-1f38-40e3-85be-b4c99231a896",
       "time": "2026-11-16T03:59:00.116Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Systems Program Manager, User Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e1b8fd3a-315c-4480-9105-98228093d429",
+      "time": "2026-11-16T03:59:03.334Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Model Deployment & Capacity",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/58c28108-5bc6-449d-8461-9274f5abd7e6",
+      "time": "2026-11-16T03:59:08.420Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Program Manager, Consumer Device Safety Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/b65f9125-2c3a-4507-bb20-6213952b5f2c",
+      "time": "2026-11-16T03:59:13.951Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Support Delivery Lead, Government",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/362a91cc-8e64-4922-a650-68161de60daa",
+      "time": "2026-11-16T03:59:18.289Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Vendor Security Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/3ae71c21-60dd-42b2-a913-58df05988976",
+      "time": "2026-11-16T03:59:26.182Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-16T03:59:00.123Z",
-  "lastUpdated": "16/11/2026, 9:29:00 am",
+  "lastSyncedAt": "2026-11-16T03:59:26.185Z",
+  "lastUpdated": "16/11/2026, 9:29:26 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
