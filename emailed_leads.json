@@ -364,38 +364,206 @@
     "dispatchedAt": "2026-11-16T07:24:09.878Z"
   },
   {
-    "email": "gautam.kumar@freshworks.com",
-    "company": "Freshworks",
-    "title": "Director - Global Program Management",
-    "status": "sent",
-    "dispatchedAt": "2026-11-16T07:24:37.290Z"
-  },
-  {
     "email": "prashant.hegde@uipath.com",
     "company": "UiPath India",
     "title": "Vice President - Customer Success & Delivery",
     "status": "sent",
-    "dispatchedAt": "2026-11-16T07:25:07.854Z"
+    "dispatchedAt": "2026-11-16T07:25:38.517Z"
   },
   {
     "email": "ravi.shankar@infosys.com",
     "company": "Infosys",
     "title": "Executive Vice President - Enterprise Service Delivery",
     "status": "sent",
-    "dispatchedAt": "2026-11-16T07:26:19.834Z"
+    "dispatchedAt": "2026-11-16T07:26:00.128Z"
   },
   {
     "email": "kiran.mai@infosys.com",
     "company": "Infosys BPM",
     "title": "Associate Vice President - Talent Acquisition",
     "status": "sent",
-    "dispatchedAt": "2026-11-16T07:26:38.812Z"
+    "dispatchedAt": "2026-11-16T07:26:25.777Z"
   },
   {
     "email": "siva.ganesan@tcs.com",
     "company": "Tata Consultancy Services (TCS)",
     "title": "Global Head - Enterprise Digital Operations",
     "status": "sent",
-    "dispatchedAt": "2026-11-16T07:27:13.659Z"
+    "dispatchedAt": "2026-11-16T07:26:51.531Z"
+  },
+  {
+    "email": "gautam.kumar@freshworks.com",
+    "company": "Freshworks",
+    "title": "Director - Global Program Management",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:27:45.481Z"
+  },
+  {
+    "email": "hemant.sharma@tcs.com",
+    "company": "Tata Consultancy Services (TCS)",
+    "title": "Head of Leadership Hiring - India",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:28:26.322Z"
+  },
+  {
+    "email": "anand.padmanabhan@wipro.com",
+    "company": "Wipro Limited",
+    "title": "President & Global Head - Strategic Engagements",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:28:53.325Z"
+  },
+  {
+    "email": "sunita.cherian@wipro.com",
+    "company": "Wipro Limited",
+    "title": "Chief Human Resources Officer & Head TA",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:29:12.114Z"
+  },
+  {
+    "email": "prasad.sankaran@cognizant.com",
+    "company": "Cognizant",
+    "title": "Executive Vice President - Global Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:29:29.573Z"
+  },
+  {
+    "email": "manish.sinha@cognizant.com",
+    "company": "Cognizant India",
+    "title": "Vice President - Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:29:57.803Z"
+  },
+  {
+    "email": "sudhir.chaturvedi@ltimindtree.com",
+    "company": "LTIMindtree",
+    "title": "President & Executive Board Member",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:30:28.499Z"
+  },
+  {
+    "email": "rahul.sahay@ltimindtree.com",
+    "company": "LTIMindtree",
+    "title": "Head of Global Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:30:46.934Z"
+  },
+  {
+    "email": "srimathi.s@hcl.com",
+    "company": "HCLTech",
+    "title": "Corporate Vice President & Global Head",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:31:03.385Z"
+  },
+  {
+    "email": "jagdish.mitra@techmahindra.com",
+    "company": "Tech Mahindra",
+    "title": "President - Enterprise Business & Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:35:36.430Z"
+  },
+  {
+    "email": "piyush.mehta@genpact.com",
+    "company": "Genpact",
+    "title": "Chief Human Resources Officer & Country Manager",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:35:56.516Z"
+  },
+  {
+    "email": "nalin.miglani@exlservice.com",
+    "company": "EXL Service",
+    "title": "Executive Vice President & Global CHRO",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:36:21.056Z"
+  },
+  {
+    "email": "anand.kumar@tesco.com",
+    "company": "Tesco Bengaluru",
+    "title": "Head of Technology Delivery & Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:36:45.031Z"
+  },
+  {
+    "email": "sneha.roy@tesco.com",
+    "company": "Tesco Bengaluru",
+    "title": "Head of Talent Acquisition India",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:37:11.150Z"
+  },
+  {
+    "email": "karthik.raman@shell.com",
+    "company": "Shell Technology Centre",
+    "title": "General Manager - Digital Solutions & Program Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:37:32.303Z"
+  },
+  {
+    "email": "priya.nambiar@shell.com",
+    "company": "Shell India",
+    "title": "Talent Acquisition Lead - Executive Hiring",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:37:54.461Z"
+  },
+  {
+    "email": "vivek.sharma@boeing.com",
+    "company": "Boeing India",
+    "title": "Director - Global Operations & Engineering Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:38:12.828Z"
+  },
+  {
+    "email": "sunil.menon@philips.com",
+    "company": "Philips Innovation Campus",
+    "title": "Senior Director - Digital Platforms & Program Governance",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:43:04.609Z"
+  },
+  {
+    "email": "anjali.verma@philips.com",
+    "company": "Philips India",
+    "title": "Lead Talent Acquisition Partner",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:43:24.414Z"
+  },
+  {
+    "email": "rajesh.subramanian@schneider-electric.com",
+    "company": "Schneider Electric",
+    "title": "Vice President - Digital Transformation & IT Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:43:42.897Z"
+  },
+  {
+    "email": "naveen.george@siemens.com",
+    "company": "Siemens Technology India",
+    "title": "Head of Enterprise Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:44:04.329Z"
+  },
+  {
+    "email": "deepak.reddy@abb.com",
+    "company": "ABB India",
+    "title": "Country Head - Digital Operations & Systems Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:44:27.658Z"
+  },
+  {
+    "email": "manish.pandey@intuit.com",
+    "company": "Intuit India",
+    "title": "Director - Program Management & Operations",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:44:46.019Z"
+  },
+  {
+    "email": "neha.gupta@intuit.com",
+    "company": "Intuit India",
+    "title": "Senior Talent Acquisition Manager",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:45:03.476Z"
+  },
+  {
+    "email": "saurabh.sinha@adobe.com",
+    "company": "Adobe India",
+    "title": "Senior Director - Customer Operations & Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:45:20.092Z"
   }
 ]
