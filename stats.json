@@ -1,13 +1,13 @@
 {
-  "jobsScanned": 595,
-  "applicationsSubmitted": 134,
-  "totalVerifiedInHistory": 134,
+  "jobsScanned": 607,
+  "applicationsSubmitted": 142,
+  "totalVerifiedInHistory": 142,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 119,
-    "iimjobs": 3
+    "direct_portal_ashby": 123,
+    "iimjobs": 7
   },
   "appliedRolesList": [
     {
@@ -1081,10 +1081,74 @@
       "url": "https://jobs.ashbyhq.com/uipath/c075a845-7bb3-4073-a6cd-f6d57781bf30",
       "time": "2026-11-16T04:01:41.122Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "inMorphis - Client Partner - ServiceNow",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/inmorphis-client-partner-servicenow-1742280?ref=sp&jobPos=4",
+      "time": "2026-11-16T04:01:44.066Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "inMorphis - Enterprise Solution Architect - ServiceNow GRC/IRM",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/inmorphis-enterprise-solution-architect-servicenow-grc-irm-1742278?ref=sp&jobPos=5",
+      "time": "2026-11-16T04:01:50.012Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Plaid",
+      "title": "People Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/plaid/c38d85e9-4608-4615-a65b-baac1b80f871",
+      "time": "2026-11-16T04:01:55.119Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Algoleap - ServiceNow Solution Architect",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/algoleap-servicenow-solution-architect-1736893?ref=sp&jobPos=6",
+      "time": "2026-11-16T04:01:55.877Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Ads Revenue Accounting",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/8a50f878-5252-4f65-ad84-80ae2dc5637e",
+      "time": "2026-11-16T04:01:59.931Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "GRC Technical Program Manager, Product Lifecycle Assurance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
+      "time": "2026-11-16T04:01:59.961Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Alloy",
+      "title": "Channel Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/5c335d0c-0c96-4b85-a913-db4ce4f02651/544c70cf-c016-4ba4-9d6d-ecbcb290e8f4",
+      "time": "2026-11-16T04:02:00.098Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "PepsiCo - Senior Manager - ServiceNow Technical Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pepsico-senior-manager-servicenow-technical-lead-1727230?ref=sp_br&jobPos=10",
+      "time": "2026-11-16T04:02:01.971Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-16T04:01:41.135Z",
-  "lastUpdated": "16/11/2026, 9:31:41 am",
+  "lastSyncedAt": "2026-11-16T04:02:01.977Z",
+  "lastUpdated": "16/11/2026, 9:32:01 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
