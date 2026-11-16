@@ -1,5 +1,5 @@
 {
-  "jobsScanned": 1408,
+  "jobsScanned": 1421,
   "applicationsSubmitted": 88,
   "totalVerifiedInHistory": 171,
   "portalBreakdown": {
@@ -445,7 +445,7 @@
     {
       "company": "Deepgram",
       "title": "Senior Manager, Events & Field Marketing",
-      "prtal": "direct_portal_ashby",
+      "portal": "direct_portal_ashby",
       "url": "https://jobs.ashbyhq.com/Deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
       "time": "2026-11-15T10:14:46.849Z",
       "status": "SUBMITTED"
@@ -1379,8 +1379,8 @@
       "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-16T04:28:22.016Z",
-  "lastUpdated": "16/11/2026, 9:58:22 am",
+  "lastSyncedAt": "2026-11-16T04:32:16.383Z",
+  "lastUpdated": "16/11/2026, 10:02:16 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
