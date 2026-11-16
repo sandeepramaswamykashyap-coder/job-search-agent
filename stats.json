@@ -1,12 +1,12 @@
 {
-  "jobsScanned": 73483,
-  "applicationsSubmitted": 83,
-  "totalVerifiedInHistory": 83,
+  "jobsScanned": 73530,
+  "applicationsSubmitted": 100,
+  "totalVerifiedInHistory": 100,
   "portalBreakdown": {
-    "weworkremotely": 7,
+    "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 72
+    "direct_portal_ashby": 88
   },
   "appliedRolesList": [
     {
@@ -672,10 +672,146 @@
       "url": "https://jobs.ashbyhq.com/temporal/fce51aaa-d5c9-4101-bc28-60bad04567fb",
       "time": "2026-11-15T10:19:10.769Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "D2B",
+      "title": "Service Delivery and Operations Manager - Dayshift Remote",
+      "portal": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/d2b-service-delivery-and-operations-manager-dayshift-remote",
+      "time": "2026-11-16T03:56:40.655Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Compute Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+      "time": "2026-11-16T03:57:06.215Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c7c5ef17-af83-483c-a825-f461f9f63b17",
+      "time": "2026-11-16T03:57:06.297Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Technical Program Manager - Security",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c414f15f-60c4-40b5-a896-d2ad6c7f4415",
+      "time": "2026-11-16T03:57:06.959Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager, Data Acquisition",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/71004494-9a55-4ed5-b458-2ff475f0d881",
+      "time": "2026-11-16T03:57:07.856Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Data Program Manager, Human Data",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213",
+      "time": "2026-11-16T03:57:27.282Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Strategic Delivery Lead, National Security",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/38e66047-7d81-4347-8e64-2c16bc9a803a",
+      "time": "2026-11-16T03:57:27.403Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Occupancy Planning & Workplace Strategy",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5280c9d2-8090-47d1-a881-1fec37c90e64",
+      "time": "2026-11-16T03:57:27.522Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager – Adversarial Model Research",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/65913e57-80e0-4a1a-bbc3-265ae8a1a41b",
+      "time": "2026-11-16T03:57:28.881Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Support Delivery",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
+      "time": "2026-11-16T03:57:54.987Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Senior Manager, Financial Reporting",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/201224fb-6d5f-4e3a-b183-25931d5c776d",
+      "time": "2026-11-16T03:57:55.032Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Support Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
+      "time": "2026-11-16T03:57:56.591Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, Technology Capital Builds",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/6351bb6b-992d-4c4e-983d-612d91ede046",
+      "time": "2026-11-16T03:58:17.567Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Research Program Manager, Human Data Campaigns",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5edd5a13-2fc9-427c-ad88-2b67c97a0afe",
+      "time": "2026-11-16T03:58:18.668Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Platform Operations Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/616ef2ce-3790-432d-9a6d-32abb2f52ff9",
+      "time": "2026-11-16T03:58:18.796Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Device Safety & Risk Operations Specialist, User Safety & Risk Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/24f3c017-d844-4df1-bc52-71f95b6e731d",
+      "time": "2026-11-16T03:58:27.741Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Program Manager, Cloud AI Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/db993e24-ce4f-4f55-9187-403726bcb957",
+      "time": "2026-11-16T03:58:38.543Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-15T13:32:30.077Z",
-  "lastUpdated": "15/11/2026, 7:02:30 pm",
+  "lastSyncedAt": "2026-11-16T03:58:38.686Z",
+  "lastUpdated": "16/11/2026, 9:28:38 am",
   "remoteJobs": [
     {
       "title": "Project Manager - Creative - US Remote",
@@ -788,6 +924,14 @@
       "region": "Worldwide",
       "portal": "weworkremotely",
       "scannedAt": "2026-11-11T17:06:03.086Z"
+    },
+    {
+      "title": "Service Delivery and Operations Manager - Dayshift Remote",
+      "company": "D2B",
+      "link": "https://weworkremotely.com/remote-jobs/d2b-service-delivery-and-operations-manager-dayshift-remote",
+      "region": "Worldwide",
+      "portal": "weworkremotely",
+      "scannedAt": "2026-11-16T03:56:40.651Z"
     }
   ]
 }
