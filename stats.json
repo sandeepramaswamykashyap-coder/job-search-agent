@@ -1,6 +1,6 @@
 {
-  "jobsScanned": 1443,
-  "applicationsSubmitted": 88,
+  "jobsScanned": 1455,
+  "applicationsSubmitted": 171,
   "totalVerifiedInHistory": 171,
   "portalBreakdown": {
     "weworkremotely": 8,
@@ -668,7 +668,7 @@
     },
     {
       "company": "Temporal",
-      "title": "Senior Manager, Prtnerships EMEA",
+      "title": "Senior Manager, Partnerships EMEA",
       "portal": "direct_portal_ashby",
       "url": "https://jobs.ashbyhq.com/temporal/fce51aaa-d5c9-4101-bc28-60bad04567fb",
       "time": "2026-11-15T10:19:10.769Z",
@@ -1379,8 +1379,8 @@
       "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-16T05:10:57.425Z",
-  "lastUpdated": "16/11/2026, 10:40:57 am",
+  "lastSyncedAt": "2026-11-16T05:17:34.187Z",
+  "lastUpdated": "16/11/2026, 10:47:34 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
