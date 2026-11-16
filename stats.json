@@ -1,13 +1,13 @@
 {
   "jobsScanned": 667,
-  "applicationsSubmitted": 151,
-  "totalVerifiedInHistory": 151,
+  "applicationsSubmitted": 152,
+  "totalVerifiedInHistory": 152,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_ashby": 128,
-    "iimjobs": 11
+    "iimjobs": 12
   },
   "appliedRolesList": [
     {
@@ -1217,10 +1217,18 @@
       "url": "https://www.iimjobs.com/j/adda247-senior-leadership-role-business-transformation-1744091?ref=sp_br_prm&jobPos=1",
       "time": "2026-11-16T04:03:04.418Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Samsung - Business Innovation Lead - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/samsung-business-innovation-lead-digital-transformation-1742939?ref=sp_br&jobPos=2",
+      "time": "2026-11-16T04:03:11.435Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-16T04:03:04.430Z",
-  "lastUpdated": "16/11/2026, 9:33:04 am",
+  "lastSyncedAt": "2026-11-16T04:03:11.445Z",
+  "lastUpdated": "16/11/2026, 9:33:11 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
