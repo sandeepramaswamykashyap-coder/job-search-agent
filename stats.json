@@ -1,13 +1,13 @@
 {
-  "jobsScanned": 2160,
-  "applicationsSubmitted": 171,
-  "totalVerifiedInHistory": 171,
+  "jobsScanned": 3146,
+  "applicationsSubmitted": 116,
+  "totalVerifiedInHistory": 199,
   "portalBreakdown": {
     "weworkremotely": 8,
     "remoteok": 3,
     "workingnomads": 1,
-    "direct_portal_ashby": 136,
-    "iimjobs": 23
+    "direct_portal_ashby": 151,
+    "iimjobs": 36
   },
   "appliedRolesList": [
     {
@@ -1377,10 +1377,234 @@
       "url": "https://jobs.ashbyhq.com/openai/25920df6-571d-4e05-aa12-384453f406f8",
       "time": "2026-11-16T04:11:06.296Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Account Executive | Mid-Market",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/60ed4fac-3833-4495-9b0f-75e6dfe4b36c",
+      "time": "2026-11-16T06:59:18.286Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Manager, Scaled Customer Activation Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d",
+      "time": "2026-11-16T06:59:48.032Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Head of Brand",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/30323399-3039-499d-a0b6-a891ced89e1e",
+      "time": "2026-11-16T07:00:19.871Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Product Design",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976",
+      "time": "2026-11-16T07:00:53.969Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Supply Chain Operations Program Manager, AI Infrastructure",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/063d1957-23f0-4976-b8bd-93a0d4a31cfb",
+      "time": "2026-11-16T07:01:23.199Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Brand Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+      "time": "2026-11-16T07:01:24.123Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/52263a22-1621-4dbb-9a11-ae4490f2acc8",
+      "time": "2026-11-16T07:01:52.883Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/4e6fffef-bb23-4623-ad86-95b840dd51be",
+      "time": "2026-11-16T07:01:56.745Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Federal Account Director, National Security",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/dc0b907b-f833-4559-8fd8-d3d4c80b58d8",
+      "time": "2026-11-16T07:02:29.483Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Travel Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/dba53e68-4c96-449d-af4d-27dc475b814c",
+      "time": "2026-11-16T07:02:32.291Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Director - Digital Transformation - Manufacturing",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/director-digital-transformation-manufacturing-1744938?ref=sp&jobPos=2",
+      "time": "2026-11-16T07:02:54.543Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Codvo AI - Project Manager - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/codvo-ai-project-manager-digital-transformation-1740933?ref=sp&jobPos=3",
+      "time": "2026-11-16T07:03:03.561Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native Large Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/673ca4f5-b5dc-448f-be3c-4f888a6d13ed",
+      "time": "2026-11-16T07:03:14.303Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "PGP Glass - Manager - Digital Transformation/MES",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/pgp-glass-manager-digital-transformation-mes-1738360?ref=sp&jobPos=4",
+      "time": "2026-11-16T07:03:18.704Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations Specialist | Procurement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+      "time": "2026-11-16T07:03:30.400Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Mondelez - Plant Digital Transformation Lead",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/mondelez-plant-digital-transformation-lead-1730511?ref=sp_br&jobPos=5",
+      "time": "2026-11-16T07:03:39.845Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vashi - Vice President - AI & Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/vashi-vice-president-ai-and-digital-transformation-1738343?ref=sp&jobPos=6",
+      "time": "2026-11-16T07:03:55.738Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "WPP Media - Senior Vice President - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/j/wpp-media-senior-vice-president-digital-transformation-1734213?ref=sp_br&jobPos=7",
+      "time": "2026-11-16T07:04:12.667Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "KPMG - Technology Consultant - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/digital-transformation-jobs",
+      "time": "2026-11-16T07:04:47.517Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/fbb68247-eb54-4ad1-94b4-26e0dc24fd23",
+      "time": "2026-11-16T07:05:00.035Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Vashi Integrated - Chief Technology Officer - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/digital-transformation-jobs",
+      "time": "2026-11-16T07:06:28.377Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Account Manager, Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
+      "time": "2026-11-16T07:07:19.778Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Digital Native New Business",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/07fb9365-8e80-48fe-86df-08d60dd46f43",
+      "time": "2026-11-16T07:09:07.893Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Pixxel - Associate Manager - Digital Transformation - SAP S/4HANA",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/digital-transformation-jobs",
+      "time": "2026-11-16T07:10:45.419Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Accellor - Technical Project Manager - AI/ML & Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/digital-transformation-jobs",
+      "time": "2026-11-16T07:14:28.813Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Altudo - Technical Project Manager - Digital Transformation",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/digital-transformation-jobs",
+      "time": "2026-11-16T07:16:34.129Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Fedbank Financial Services - Digital & Artificial Intelligence Lead - Digital Tr",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/digital-transformation-jobs",
+      "time": "2026-11-16T07:19:16.820Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "IIMJobs Verified Employer",
+      "title": "Omega Healthcare Management Services - Enterprise Transformation Leader - ERP/AI",
+      "portal": "iimjobs",
+      "url": "https://www.iimjobs.com/search/digital-transformation-jobs",
+      "time": "2026-11-16T07:26:14.878Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-16T06:58:08.755Z",
-  "lastUpdated": "16/11/2026, 12:28:08 pm",
+  "lastSyncedAt": "2026-11-16T07:26:47.925Z",
+  "lastUpdated": "16/11/2026, 12:56:47 pm",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
