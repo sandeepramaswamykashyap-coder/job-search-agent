@@ -565,5 +565,61 @@
     "title": "Senior Director - Customer Operations & Transformation",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:45:20.092Z"
+  },
+  {
+    "email": "kunal.sen@db.com",
+    "company": "Deutsche Bank India",
+    "title": "Managing Director - Global Technology Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:55:17.403Z"
+  },
+  {
+    "email": "malini.rao@db.com",
+    "company": "Deutsche Bank India",
+    "title": "Vice President - Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:55:40.938Z"
+  },
+  {
+    "email": "alok.mishra@bnpparibas.com",
+    "company": "BNP Paribas India Solutions",
+    "title": "Managing Director - Enterprise Operations Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:56:02.032Z"
+  },
+  {
+    "email": "shalini.murthy@bnpparibas.com",
+    "company": "BNP Paribas India Solutions",
+    "title": "Head of Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:56:26.137Z"
+  },
+  {
+    "email": "rohit.khera@barclays.com",
+    "company": "Barclays Global Service Centre",
+    "title": "Managing Director - Chief Operations Office",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:56:44.131Z"
+  },
+  {
+    "email": "megha.tandon@barclays.com",
+    "company": "Barclays India",
+    "title": "Head of Lateral & Leadership Hiring",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:57:05.184Z"
+  },
+  {
+    "email": "venkat.swaminathan@ubs.com",
+    "company": "UBS India",
+    "title": "Head of Group Technology Delivery India",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:57:22.971Z"
+  },
+  {
+    "email": "ritu.agarwal@ubs.com",
+    "company": "UBS India",
+    "title": "Executive Director - Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-11-16T07:57:45.613Z"
   }
 ]

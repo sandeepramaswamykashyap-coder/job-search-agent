@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 104,
-  "coldEmailsCount": 81,
+  "totalOutreachItems": 112,
+  "coldEmailsCount": 89,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 81,
+    "initialWindow_0_2_days": 89,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 23
   },
-  "lastUpdated": "2026-11-16T07:50:50.455Z",
+  "lastUpdated": "2026-11-16T07:57:59.060Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -895,6 +895,94 @@
       "company": "Adobe India",
       "title": "Senior Director - Customer Operations & Transformation",
       "dispatchedAt": "2026-11-16T07:45:20.092Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "kunal.sen@db.com",
+      "company": "Deutsche Bank India",
+      "title": "Managing Director - Global Technology Delivery",
+      "dispatchedAt": "2026-11-16T07:55:17.403Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "malini.rao@db.com",
+      "company": "Deutsche Bank India",
+      "title": "Vice President - Talent Acquisition",
+      "dispatchedAt": "2026-11-16T07:55:40.938Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "alok.mishra@bnpparibas.com",
+      "company": "BNP Paribas India Solutions",
+      "title": "Managing Director - Enterprise Operations Delivery",
+      "dispatchedAt": "2026-11-16T07:56:02.032Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "shalini.murthy@bnpparibas.com",
+      "company": "BNP Paribas India Solutions",
+      "title": "Head of Talent Acquisition",
+      "dispatchedAt": "2026-11-16T07:56:26.137Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rohit.khera@barclays.com",
+      "company": "Barclays Global Service Centre",
+      "title": "Managing Director - Chief Operations Office",
+      "dispatchedAt": "2026-11-16T07:56:44.131Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "megha.tandon@barclays.com",
+      "company": "Barclays India",
+      "title": "Head of Lateral & Leadership Hiring",
+      "dispatchedAt": "2026-11-16T07:57:05.184Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "venkat.swaminathan@ubs.com",
+      "company": "UBS India",
+      "title": "Head of Group Technology Delivery India",
+      "dispatchedAt": "2026-11-16T07:57:22.971Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ritu.agarwal@ubs.com",
+      "company": "UBS India",
+      "title": "Executive Director - Talent Acquisition",
+      "dispatchedAt": "2026-11-16T07:57:45.613Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
