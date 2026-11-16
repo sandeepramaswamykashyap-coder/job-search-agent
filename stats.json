@@ -1,6 +1,6 @@
 {
   "jobsScanned": 1547,
-  "applicationsSubmitted": 88,
+  "applicationsSubmitted": 171,
   "totalVerifiedInHistory": 171,
   "portalBreakdown": {
     "weworkremotely": 8,
@@ -223,7 +223,7 @@
       "title": "Strategic Delivery Lead, Cyber",
       "portal": "direct_portal_ashby",
       "url": "https://jobs.ashbyhq.com/openai/125db0ea-d5e1-4c49-bc1a-e6ffc8ea71ff",
-      "time": "2026-11-15T10:099:56.183Z",
+      "time": "2026-11-15T10:09:56.183Z",
       "status": "SUBMITTED"
     },
     {
@@ -1379,8 +1379,8 @@
       "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-16T06:18:56.151Z",
-  "lastUpdated": "16/11/2026, 11:48:56 am",
+  "lastSyncedAt": "2026-11-16T06:25:35.551Z",
+  "lastUpdated": "16/11/2026, 11:55:35 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
