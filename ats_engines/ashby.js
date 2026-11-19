@@ -53,26 +53,45 @@ async function applyAshby(page, job) {
     // Upload CV
     const resumeUploaded = await uploadCV(page, job.title);
 
-    // Submit Ashby Application
+    // Submit Ashby Application — check top page and all child frames
     const submitSelectors = [
-      'button[type="submit"]',
       'button:has-text("Submit Application")',
       'button:has-text("Submit application")',
+      'button[type="submit"]',
       'button:has-text("Submit")',
       'input[type="submit"]'
     ];
 
     let submitted = false;
+    // Check main page first
     for (const sel of submitSelectors) {
       try {
         const btn = page.locator(sel).first();
-        if (await btn.isVisible({ timeout: 1000 }).catch(() => false)) {
+        if (await btn.isVisible({ timeout: 1500 }).catch(() => false)) {
           console.log(`[Ashby] 🚀 Clicking submit via: ${sel}`);
-          await btn.click();
+          await btn.click({ force: true });
           submitted = true;
           break;
         }
       } catch (_) {}
+    }
+
+    // If not found in main page, check frames
+    if (!submitted) {
+      for (const frame of page.frames()) {
+        for (const sel of submitSelectors) {
+          try {
+            const btn = frame.locator(sel).first();
+            if (await btn.isVisible({ timeout: 1000 }).catch(() => false)) {
+              console.log(`[Ashby] 🚀 Clicking submit in iframe via: ${sel}`);
+              await btn.click({ force: true });
+              submitted = true;
+              break;
+            }
+          } catch (_) {}
+        }
+        if (submitted) break;
+      }
     }
 
     if (!submitted) {
@@ -80,20 +99,43 @@ async function applyAshby(page, job) {
       return { success: false, reason: 'submit_button_missing' };
     }
 
-    // Wait for confirmation or success state
-    await page.waitForTimeout(4000);
-    const bodyText = (await page.textContent('body').catch(() => '')).toLowerCase();
+    // Wait up to 10 seconds for real submission confirmation or URL redirection
+    let isConfirmed = false;
     const successIndicators = [
       'thank you', 'thanks for applying', 'application received',
-      'application submitted', 'successfully submitted', 'we received your application'
+      'application submitted', 'successfully submitted', 'we received your application',
+      'we have received your application', 'your application has been submitted'
     ];
 
-    const isConfirmed = successIndicators.some(ind => bodyText.includes(ind));
-    if (isConfirmed || !bodyText.includes('please fix the following errors')) {
-      console.log(`[Ashby] ✅ Application submitted: "${job.title}" @ ${job.company}`);
+    for (let poll = 0; poll < 10; poll++) {
+      await page.waitForTimeout(1000);
+      const curUrl = page.url().toLowerCase();
+      if (curUrl.includes('/submitted') || curUrl.includes('/thank-you') || curUrl.includes('/success')) {
+        isConfirmed = true;
+        break;
+      }
+
+      const bodyText = (await page.textContent('body').catch(() => '')).toLowerCase();
+      if (successIndicators.some(ind => bodyText.includes(ind))) {
+        isConfirmed = true;
+        break;
+      }
+
+      // Check if any error is displayed
+      const errorMsg = page.locator('.error-message, [aria-invalid="true"], .has-error, .is-invalid, text="This field is required"').first();
+      if (await errorMsg.isVisible({ timeout: 500 }).catch(() => false)) {
+        const errText = (await errorMsg.textContent().catch(() => '')).trim();
+        console.warn(`[Ashby] ⚠️ Form validation error on page: "${errText}"`);
+        return { success: false, reason: 'validation_error: ' + errText };
+      }
+    }
+
+    if (isConfirmed) {
+      console.log(`[Ashby] ✅ Application submitted & confirmed: "${job.title}" @ ${job.company}`);
       return { success: true, atsType: 'ashby' };
     }
 
+    console.warn(`[Ashby] ⚠️ Submission could not be confirmed — page did not transition.`);
     return { success: false, reason: 'unconfirmed_submission' };
 
   } catch (err) {

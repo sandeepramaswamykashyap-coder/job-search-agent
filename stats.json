@@ -1,16 +1,16 @@
 {
-  "jobsScanned": 5151,
-  "applicationsSubmitted": 246,
-  "totalVerifiedInHistory": 246,
+  "jobsScanned": 5191,
+  "applicationsSubmitted": 305,
+  "totalVerifiedInHistory": 305,
   "portalBreakdown": {
-    "direct_portal_ashby": 183,
+    "direct_portal_ashby": 224,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_workday": 1,
     "iimjobs": 15,
-    "ashby": 21,
-    "unconfirmed": 16
+    "ashby": 30,
+    "unconfirmed": 25
   },
   "appliedRolesList": [
     {
@@ -1980,10 +1980,482 @@
       "url": "https://jobs.ashbyhq.com/dust/dd86a95e-649d-4287-824a-9a45e50cb2a7",
       "time": "2026-11-19T04:58:23.009Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Large Enterprise | France",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e778df45-93d4-4b29-a994-f7d960af6d5c",
+      "time": "2026-11-19T04:58:28.473Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Large Enterprise | France",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e778df45-93d4-4b29-a994-f7d960af6d5c",
+      "time": "2026-11-19T04:58:44.831Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Director, Enterprise Sales (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a12f5aac-c232-4bf2-953a-2b7217412aed",
+      "time": "2026-11-19T04:58:46.419Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Head of Ecosystem",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/a0b46de3-5617-41cc-8623-2be9b6fd6b49",
+      "time": "2026-11-19T04:58:48.498Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, M&A Recruiting | People",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/8f2d7c1e-7a76-4145-9a9d-b71a12ef9ad4",
+      "time": "2026-11-19T04:58:56.983Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Program Manager, M&A Recruiting | People",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/openai/8f2d7c1e-7a76-4145-9a9d-b71a12ef9ad4",
+      "time": "2026-11-19T04:59:05.902Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Head of AI Native Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764",
+      "time": "2026-11-19T04:59:12.069Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of India Policy, Global Affairs",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/103402a5-6391-4cf9-8a87-634695303f04",
+      "time": "2026-11-19T04:59:12.405Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - ANZ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/42be09bc-f25a-4b4b-8b78-d247d773d126",
+      "time": "2026-11-19T04:59:20.413Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Head of India Policy, Global Affairs",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/openai/103402a5-6391-4cf9-8a87-634695303f04",
+      "time": "2026-11-19T04:59:24.001Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Head of New Media",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/62dfb104-ae18-46ce-a9ef-836f024c3d6d",
+      "time": "2026-11-19T04:59:34.991Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Startups | New Business - UK&I",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052",
+      "time": "2026-11-19T04:59:36.431Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Startups | New Business - UK&I",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052",
+      "time": "2026-11-19T04:59:43.090Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/0aabb166-3e97-437b-ab84-b04fe20dd426",
+      "time": "2026-11-19T04:59:47.487Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Manager -  Administration & Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3",
+      "time": "2026-11-19T04:59:59.050Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - MENA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/93002b15-b30c-4c98-a7e0-2ef185e4b88f",
+      "time": "2026-11-19T05:00:15.809Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, EY North America",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/fcfc366b-354d-4604-9fc3-ede92e531a61",
+      "time": "2026-11-19T05:00:22.283Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, EY North America",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/fcfc366b-354d-4604-9fc3-ede92e531a61",
+      "time": "2026-11-19T05:00:22.312Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Supabase",
+      "title": "Director of Technology Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/090aa2a7-e0ee-49a6-837e-6817147d2d31",
+      "time": "2026-11-19T05:00:26.510Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of LATAM Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/913f64e2-c621-4739-9446-7d523b8d4e43",
+      "time": "2026-11-19T05:00:38.228Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, IBM North America",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/openai/5a55fa31-64fd-4bf9-8c12-48f0d6fe1d69",
+      "time": "2026-11-19T05:00:43.143Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Openai",
+      "title": "Partner Director, IBM North America",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/5a55fa31-64fd-4bf9-8c12-48f0d6fe1d69",
+      "time": "2026-11-19T05:00:51.446Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Account Executive | Mid-Market",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/60ed4fac-3833-4495-9b0f-75e6dfe4b36c",
+      "time": "2026-11-19T05:01:17.256Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Account Executive | Mid-Market",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/60ed4fac-3833-4495-9b0f-75e6dfe4b36c",
+      "time": "2026-11-19T05:01:18.015Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - Japan",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/2877fee4-4657-4986-aa07-15514b66ff41",
+      "time": "2026-11-19T05:01:20.627Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "GTM Strategy & Operations, Strategic Programs",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/513e213c-2cb1-40d2-950d-3919ff5a68b5",
+      "time": "2026-11-19T05:01:21.425Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Vice President of Sales - KSA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/d5f631ec-e387-4850-9377-81e8a46f66d5",
+      "time": "2026-11-19T05:01:44.011Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Head of Brand",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/30323399-3039-499d-a0b6-a891ced89e1e",
+      "time": "2026-11-19T05:01:45.522Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Head of Brand",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/30323399-3039-499d-a0b6-a891ced89e1e",
+      "time": "2026-11-19T05:01:45.643Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Manager, Scaled Customer Activation Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d",
+      "time": "2026-11-19T05:01:54.538Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Vice President of Sales - ANZ",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/bcb56d79-24fd-46f9-8719-d389a3641f40",
+      "time": "2026-11-19T05:02:07.793Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Product Design",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976",
+      "time": "2026-11-19T05:02:16.641Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Product Design",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976",
+      "time": "2026-11-19T05:02:16.700Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - LATAM",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/c7b6cd6d-994e-449d-aabe-32740d9fd968",
+      "time": "2026-11-19T05:02:30.300Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Brand Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+      "time": "2026-11-19T05:02:43.519Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Director, Brand Operations",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+      "time": "2026-11-19T05:02:50.086Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Travel Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/dba53e68-4c96-449d-af4d-27dc475b814c",
+      "time": "2026-11-19T05:03:06.873Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Sales Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6",
+      "time": "2026-11-19T05:03:06.879Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Travel Operations Lead",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/ramp/dba53e68-4c96-449d-af4d-27dc475b814c",
+      "time": "2026-11-19T05:03:14.174Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Openai",
+      "title": "Technical Operations Analyst, User Safety & Risk Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5",
+      "time": "2026-11-19T05:03:14.893Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "People Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a751b58c-1d1b-48c6-96b4-c668100a9787",
+      "time": "2026-11-19T05:03:30.798Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
+      "time": "2026-11-19T05:03:32.734Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Technical Program Manager",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
+      "time": "2026-11-19T05:03:33.252Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations Specialist | Procurement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+      "time": "2026-11-19T05:03:58.095Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of EMEA Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/5e69951b-adac-4e61-9884-eaaea68c059b",
+      "time": "2026-11-19T05:03:59.596Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations Specialist | Procurement",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+      "time": "2026-11-19T05:04:00.890Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Account Manager, Enterprise",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
+      "time": "2026-11-19T05:04:22.576Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Senior Manager, Account Manager, Enterprise",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
+      "time": "2026-11-19T05:04:22.942Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - Qatar",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/5308cb82-896c-4f9a-86fd-1d65962ef118",
+      "time": "2026-11-19T05:04:26.241Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations | General Builder (All Levels)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285",
+      "time": "2026-11-19T05:04:48.161Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Analyst Relations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/a3f31e70-e948-44d0-8ce3-f16b2979ff52",
+      "time": "2026-11-19T05:04:50.552Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Product Operations | General Builder (All Levels)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285",
+      "time": "2026-11-19T05:04:58.722Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "KYB Operations Lead, UK",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
+      "time": "2026-11-19T05:05:12.659Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - US",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
+      "time": "2026-11-19T05:05:18.346Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Ramp",
+      "title": "KYB Operations Lead, UK",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
+      "time": "2026-11-19T05:05:18.797Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Ramp",
+      "title": "Research Engineer, Agentic Systems",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
+      "time": "2026-11-19T05:05:38.259Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Director of Engineering, Platform (Runtime & Stateful Systems)",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
+      "time": "2026-11-19T05:05:40.011Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Head of Public Sector, US",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39",
+      "time": "2026-11-19T05:06:15.334Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Head of Public Sector, US",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39",
+      "time": "2026-11-19T05:06:15.464Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T04:58:24.006Z",
-  "lastUpdated": "19/11/2026, 10:28:24 am",
+  "lastSyncedAt": "2026-11-19T05:06:37.379Z",
+  "lastUpdated": "19/11/2026, 10:36:37 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",

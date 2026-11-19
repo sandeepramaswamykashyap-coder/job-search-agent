@@ -754,6 +754,53 @@ async function fillFrameInputs(frame, page, roleTitle, company) {
     } catch (_) {}
   }
 
+  // ── 5b. Button Toggles for Yes/No questions (Ashby, Workday, modern ATS) ──
+  const yesButtons = await frame.locator('button:has-text("Yes")').all().catch(() => []);
+  for (const yesBtn of yesButtons) {
+    try {
+      if (!(await yesBtn.isVisible().catch(() => false))) continue;
+      
+      const questionText = await yesBtn.evaluate(el => {
+        let cur = el;
+        while (cur && cur.parentElement && cur.parentElement !== document.body) {
+          cur = cur.parentElement;
+          if (cur.innerText && cur.innerText.length > 15 && (cur.innerText.includes('?') || cur.innerText.includes('*') || cur.innerText.includes('authorized') || cur.innerText.includes('sponsor') || cur.innerText.includes('require') || cur.innerText.includes('office') || cur.innerText.includes('willing'))) {
+            return cur.innerText.split('\n')[0];
+          }
+        }
+        return '';
+      }).catch(() => '');
+
+      const qLow = questionText.toLowerCase();
+      let clickYes = true;
+
+      if (/sponsor|visa|work[\s_-]?permit/i.test(qLow)) {
+        clickYes = false; // "Will you require sponsorship?" -> No
+      } else if (/polygraph|clearance|security[\s_-]?clearance/i.test(qLow)) {
+        clickYes = false;
+      } else if (/disability|disabled|veteran|military/i.test(qLow)) {
+        clickYes = false;
+      } else if (/criminal|felony|convicted/i.test(qLow)) {
+        clickYes = false;
+      } else if (/authorized|eligible|legally|right[\s_-]?to[\s_-]?work/i.test(qLow)) {
+        clickYes = true; // "Are you authorized to work?" -> Yes
+      } else if (/office|hybrid|on-site|commute|relocate|days per week/i.test(qLow)) {
+        clickYes = true; // "Able to work from office?" -> Yes
+      } else if (/18 years|over 18|legal age/i.test(qLow)) {
+        clickYes = true;
+      }
+
+      const container = yesBtn.locator('xpath=ancestor::*[self::div or self::fieldset][count(.//button) >= 2][1]');
+      const targetBtn = clickYes ? yesBtn : container.locator('button:has-text("No")').first();
+
+      if (await targetBtn.isVisible().catch(() => false)) {
+        await targetBtn.click({ force: true }).catch(() => {});
+        console.log(`[FormFiller][iframe] 🔘 Button toggle "${qLow.slice(0, 45)}" = "${clickYes ? 'Yes' : 'No'}"`);
+        filled++;
+      }
+    } catch (_) {}
+  }
+
   // ── 6. File upload (CV) ───────────────────────────────────────────────────
   const fileInputs = await frame.locator('input[type="file"]').all().catch(() => []);
   if (fileInputs.length > 0) {
