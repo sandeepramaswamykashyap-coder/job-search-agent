@@ -1,9 +1,9 @@
 {
-  "jobsScanned": 5261,
-  "applicationsSubmitted": 426,
-  "totalVerifiedInHistory": 426,
+  "jobsScanned": 5271,
+  "applicationsSubmitted": 428,
+  "totalVerifiedInHistory": 428,
   "portalBreakdown": {
-    "direct_portal_ashby": 308,
+    "direct_portal_ashby": 310,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
@@ -3420,10 +3420,26 @@
       "url": "https://jobs.ashbyhq.com/circle/3a63b143-e1df-4655-8a62-ec20a1e1f1eb",
       "time": "2026-11-19T05:50:32.179Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Circle",
+      "title": "Director of Strategic Partnerships",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/circle/569f2f24-03ca-4cdb-80d5-0e28ba331580",
+      "time": "2026-11-19T05:51:07.390Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Senior Director, Credit Risk - Real Estate",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/11f24871-3aa1-4e71-9e3d-5a4d2d5e8c6b",
+      "time": "2026-11-19T05:51:40.973Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T05:50:50.349Z",
-  "lastUpdated": "19/11/2026, 11:20:50 am",
+  "lastSyncedAt": "2026-11-19T05:53:05.003Z",
+  "lastUpdated": "19/11/2026, 11:23:05 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
