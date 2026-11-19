@@ -88,16 +88,38 @@ async function ensureNaukriLoggedIn(page) {
 
     if (page.url().includes('login') || page.url().includes('nlogin')) {
       console.log('[NaukriE2E] 🔑 Entering credentials...');
-      const userInp = page.locator('#usernameField, input[placeholder*="Username" i], input[placeholder*="Email" i]').first();
-      if (await userInp.isVisible({ timeout: 5000 }).catch(() => false)) {
+      // Naukri has changed login UI — try all known selectors in order
+      const userSelectors = [
+        '#usernameField',
+        'input[placeholder*="Email" i]',
+        'input[placeholder*="Username" i]',
+        'input[type="email"]',
+        'input[name="email"]',
+        'input[name="username"]',
+        '#user_email',
+        'input[id*="username" i]',
+        'input[id*="email" i]',
+      ];
+      let userInp = null;
+      for (const sel of userSelectors) {
+        const loc = page.locator(sel).first();
+        if (await loc.isVisible({ timeout: 3000 }).catch(() => false)) {
+          userInp = loc;
+          console.log(`[NaukriE2E] Found username field: ${sel}`);
+          break;
+        }
+      }
+      if (userInp) {
         await userInp.fill(credentials.naukri.username);
         await SLEEP(800);
-        const passInp = page.locator('#passwordField, input[type="password"]').first();
+        const passInp = page.locator('#passwordField, input[type="password"], input[name="password"], input[id*="password" i]').first();
         await passInp.fill(credentials.naukri.password);
         await SLEEP(800);
         await page.click('button[type="submit"]');
         await page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 20000 }).catch(() => {});
         await SLEEP(4000);
+      } else {
+        console.warn('[NaukriE2E] ⚠️ No login field found — Naukri UI may have changed again.');
       }
     }
     return true;

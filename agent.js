@@ -676,9 +676,51 @@ async function loginToPortal(page, portal) {
 
     try {
       console.log(`[Agent] Submitting credentials for Naukri...`);
-      await page.fill('#usernameField', creds.username);
+      // Try multiple selectors — Naukri has changed their login UI multiple times
+      const userSelectors = [
+        '#usernameField',
+        'input[placeholder*="Email" i]',
+        'input[placeholder*="Username" i]',
+        'input[type="email"]',
+        'input[name="email"]',
+        'input[name="username"]',
+        '#user_email',
+        'input[id*="username" i]',
+        'input[id*="email" i]',
+      ];
+      let userFilled = false;
+      for (const sel of userSelectors) {
+        try {
+          await page.waitForSelector(sel, { timeout: 4000 });
+          await page.fill(sel, creds.username);
+          userFilled = true;
+          console.log(`[Agent] Filled username using selector: ${sel}`);
+          break;
+        } catch (_) {}
+      }
+      if (!userFilled) throw new Error('No username field found on Naukri login page');
+
       await sleepRandom(500, 1500);
-      await page.fill('#passwordField', creds.password);
+
+      const passSelectors = [
+        '#passwordField',
+        'input[type="password"]',
+        'input[placeholder*="Password" i]',
+        'input[name="password"]',
+        'input[id*="password" i]',
+      ];
+      let passFilled = false;
+      for (const sel of passSelectors) {
+        try {
+          await page.waitForSelector(sel, { timeout: 4000 });
+          await page.fill(sel, creds.password);
+          passFilled = true;
+          console.log(`[Agent] Filled password using selector: ${sel}`);
+          break;
+        } catch (_) {}
+      }
+      if (!passFilled) throw new Error('No password field found on Naukri login page');
+
       await sleepRandom(800, 2000);
       await page.click('button[type="submit"]');
       await page.waitForNavigation({ waitUntil: 'networkidle', timeout: 15000 });
@@ -688,7 +730,7 @@ async function loginToPortal(page, portal) {
       console.warn(`[Agent] Direct login form submission failed: ${e.message}`);
     }
   } else if (portal === 'iimjobs') {
-    await page.goto('https://www.iimjobs.com/login');
+    await page.goto('https://www.iimjobs.com/login', { waitUntil: 'domcontentloaded', timeout: 45000 }).catch(() => {});
     await sleepRandom(2000, 4000);
     if (page.url().includes('dashboard') || page.url().includes('jobfeed') || await page.locator('a:has-text("Logout")').count() > 0) {
       console.log(`[Agent] Already logged in to IIMJobs.`);
@@ -696,12 +738,13 @@ async function loginToPortal(page, portal) {
     }
     try {
       console.log(`[Agent] Submitting credentials for IIMJobs...`);
-      await page.fill('input[name="email"]', creds.username);
+      await page.waitForSelector('input[name="email"], input[type="email"]', { timeout: 15000 });
+      await page.fill('input[name="email"], input[type="email"]', creds.username);
       await sleepRandom(500, 1500);
-      await page.fill('input[name="password"]', creds.password);
+      await page.fill('input[name="password"], input[type="password"]', creds.password);
       await sleepRandom(800, 2000);
       await page.click('button[type="submit"]');
-      await page.waitForNavigation({ waitUntil: 'load', timeout: 15000 }).catch(() => {});
+      await page.waitForNavigation({ waitUntil: 'load', timeout: 20000 }).catch(() => {});
       console.log(`[Agent] Logged in successfully to IIMJobs.`);
       return true;
     } catch (e) {
