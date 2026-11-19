@@ -1,9 +1,9 @@
 {
   "jobsScanned": 5019,
-  "applicationsSubmitted": 153,
-  "totalVerifiedInHistory": 153,
+  "applicationsSubmitted": 155,
+  "totalVerifiedInHistory": 155,
   "portalBreakdown": {
-    "direct_portal_ashby": 122,
+    "direct_portal_ashby": 124,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
@@ -1235,10 +1235,26 @@
       "url": "https://jobs.ashbyhq.com/openai/ac0922d9-4731-40a1-b8a3-17b912e1a13b",
       "time": "2026-11-19T04:37:52.369Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Technical Enablement Director",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/ee7542d4-f478-4aa0-8da9-3583845d8269",
+      "time": "2026-11-19T04:38:43.543Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Model Policy Manager, Agentic Safety",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
+      "time": "2026-11-19T04:38:44.397Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T04:37:52.814Z",
-  "lastUpdated": "19/11/2026, 10:07:52 am",
+  "lastSyncedAt": "2026-11-19T04:38:44.431Z",
+  "lastUpdated": "19/11/2026, 10:08:44 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
