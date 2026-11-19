@@ -1,9 +1,9 @@
 {
-  "jobsScanned": 5221,
-  "applicationsSubmitted": 409,
-  "totalVerifiedInHistory": 409,
+  "jobsScanned": 5241,
+  "applicationsSubmitted": 411,
+  "totalVerifiedInHistory": 411,
   "portalBreakdown": {
-    "direct_portal_ashby": 291,
+    "direct_portal_ashby": 293,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
@@ -3284,10 +3284,26 @@
       "url": "https://jobs.ashbyhq.com/suno/f4bfe672-895a-4cff-93d0-2408afa49f22",
       "time": "2026-11-19T05:41:48.518Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director, Editorial & Curation",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/7d292561-ebb2-4ee1-b98d-f8850819403d",
+      "time": "2026-11-19T05:42:31.818Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director, Trust & Safety",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/9ed2cea6-b250-4b49-bd75-b761793af0f8",
+      "time": "2026-11-19T05:42:56.012Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T05:42:02.904Z",
-  "lastUpdated": "19/11/2026, 11:12:02 am",
+  "lastSyncedAt": "2026-11-19T05:43:22.697Z",
+  "lastUpdated": "19/11/2026, 11:13:22 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
