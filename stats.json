@@ -1,9 +1,9 @@
 {
   "jobsScanned": 4726,
-  "applicationsSubmitted": 80,
-  "totalVerifiedInHistory": 80,
+  "applicationsSubmitted": 81,
+  "totalVerifiedInHistory": 81,
   "portalBreakdown": {
-    "direct_portal_ashby": 70,
+    "direct_portal_ashby": 71,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1
@@ -648,10 +648,18 @@
       "url": "https://jobs.ashbyhq.com/ElevenLabs/19b21930-d142-4dae-be23-751f5425b0af",
       "time": "2026-11-19T03:52:03.843Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Applied AI Transformation Manager - MENA",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
+      "time": "2026-11-19T03:52:14.510Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T03:52:03.846Z",
-  "lastUpdated": "19/11/2026, 9:22:03 am",
+  "lastSyncedAt": "2026-11-19T03:52:14.534Z",
+  "lastUpdated": "19/11/2026, 9:22:14 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
