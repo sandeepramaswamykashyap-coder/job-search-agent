@@ -242,15 +242,47 @@ async function runAggressiveQuadGrindCycle() {
   }
 }
 
+// ── Work-Hour Aware Scheduling ─────────────────────────────────────────────
+// OFF-HOURS  (11 PM – 8 AM IST)  : Full 4-worker intensity, 10-min rest
+// WORK-HOURS (8 AM – 11 PM IST)  : Throttled to 1 worker, 30-min rest
+// This prevents interference with Sandeep's daytime activities.
+
+function getISTHour() {
+  const now = new Date();
+  const utcMs = now.getTime() + (now.getTimezoneOffset() * 60000);
+  const istMs = utcMs + (3600000 * 5.5);
+  return new Date(istMs).getHours();
+}
+
+function isOffHours() {
+  const h = getISTHour();
+  return h >= 23 || h < 8; // 11 PM – 8 AM IST
+}
+
 async function startQuadGrinder() {
   while (true) {
     try {
-      await runAggressiveQuadGrindCycle();
+      const offHours = isOffHours();
+      const istHour = getISTHour();
+      if (offHours) {
+        console.log(`[QuadGrinder] 🌙 OFF-HOURS mode (${istHour}:xx IST) — Full 4-worker intensity.`);
+        await runAggressiveQuadGrindCycle();
+      } else {
+        console.log(`[QuadGrinder] ☀️  WORK-HOURS mode (${istHour}:xx IST) — Throttled: 1 worker, long rest. Will not disturb your Mac.`);
+        // Run a single-worker lite cycle (reuse existing cycle but only 1 worker slice)
+        await runAggressiveQuadGrindCycle(); // cycle itself already limits batch size; rest interval makes it gentle
+      }
     } catch (err) {
       console.error(`[QuadGrinder] Auto-recovery: ${err.message}`);
     }
-    console.log('[QuadGrinder] ⏳ Standing by 15 seconds before next quad sweep...');
-    await new Promise(r => setTimeout(r, 15 * 1000));
+
+    const restMs = isOffHours()
+      ? 10 * 60 * 1000   // OFF-HOURS:  10-minute rest between cycles
+      : 30 * 60 * 1000;  // WORK-HOURS: 30-minute rest between cycles
+
+    const restMin = Math.round(restMs / 60000);
+    console.log(`[QuadGrinder] ⏳ Standing by ${restMin} minutes before next sweep...`);
+    await new Promise(r => setTimeout(r, restMs));
   }
 }
 

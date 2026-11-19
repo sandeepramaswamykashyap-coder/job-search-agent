@@ -2,77 +2,77 @@
   {
     "email": "rajesh.nair@pwc.com",
     "company": "PwC",
-    "title": "Partner — Business Transformation & Platform Delivery",
+    "title": "Partner \u2014 Business Transformation & Platform Delivery",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:06:23.093Z"
   },
   {
     "email": "shweta.sen@pwc.com",
     "company": "PwC",
-    "title": "Director — Executive & Leadership Recruitment",
+    "title": "Director \u2014 Executive & Leadership Recruitment",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:06:39.330Z"
   },
   {
     "email": "pooja.patel@ey.com",
     "company": "Ernst & Young (EY)",
-    "title": "Head of Executive Sourcing — Global Delivery Services",
+    "title": "Head of Executive Sourcing \u2014 Global Delivery Services",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:06:54.481Z"
   },
   {
     "email": "rahul.mehta@morganstanley.com",
     "company": "Morgan Stanley",
-    "title": "Managing Director — Enterprise Operations & Technology Transformation",
+    "title": "Managing Director \u2014 Enterprise Operations & Technology Transformation",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:07:12.644Z"
   },
   {
     "email": "amitabh.das@jpmorgan.com",
     "company": "JPMorgan Chase",
-    "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
+    "title": "Managing Director & Global Head \u2014 Core Service Delivery & Transformation",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:07:28.237Z"
   },
   {
     "email": "manoj.singh@infosys.com",
     "company": "Infosys",
-    "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
+    "title": "Senior Vice President & Head \u2014 Digital Experience & Cloud Transformation",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:07:44.499Z"
   },
   {
     "email": "ramesh.iyer@wipro.com",
     "company": "Wipro",
-    "title": "Vice President — Cloud & Platform Transformation Business Unit",
+    "title": "Vice President \u2014 Cloud & Platform Transformation Business Unit",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:08:00.742Z"
   },
   {
     "email": "vandana.kulkarni@tcs.com",
     "company": "Tata Consultancy Services (TCS)",
-    "title": "Global Head — Enterprise Platform Solutions",
+    "title": "Global Head \u2014 Enterprise Platform Solutions",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:08:17.434Z"
   },
   {
     "email": "sumit.rastogi@ltimindtree.com",
     "company": "LTIMindtree",
-    "title": "Vice President — Enterprise Business Transformation",
+    "title": "Vice President \u2014 Enterprise Business Transformation",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:08:32.404Z"
   },
   {
     "email": "ajay.saxena@hcl.com",
     "company": "HCLTech",
-    "title": "Senior Vice President — Digital Platform Transformation",
+    "title": "Senior Vice President \u2014 Digital Platform Transformation",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:08:48.003Z"
   },
   {
     "email": "vivek.pandey@techmahindra.com",
     "company": "Tech Mahindra",
-    "title": "Senior Vice President — Cloud & ServiceNow Practice",
+    "title": "Senior Vice President \u2014 Cloud & ServiceNow Practice",
     "status": "sent",
     "dispatchedAt": "2026-11-16T07:09:08.254Z"
   },
@@ -978,5 +978,159 @@
     "title": "Vice President - Digital Workplace Services & ServiceNow",
     "status": "sent",
     "dispatchedAt": "2026-11-19T03:50:06.992Z"
+  },
+  {
+    "email": "deepak.jain@wipro.com",
+    "company": "Wipro Limited",
+    "title": "Senior Vice President - Global Program Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:52:44.824Z"
+  },
+  {
+    "email": "sanjay.dawar@accenture.com",
+    "company": "Accenture Strategy India",
+    "title": "Managing Director - Supply Chain & Operations Lead",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:53:06.390Z"
+  },
+  {
+    "email": "virender.aggarwal@ramco.com",
+    "company": "Ramco Systems",
+    "title": "Chief Executive Officer & Transformation Head",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:53:18.518Z"
+  },
+  {
+    "email": "girish.rowjee@greytip.com",
+    "company": "GreytHR",
+    "title": "Co-Founder & Chief Executive Officer",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:53:31.271Z"
+  },
+  {
+    "email": "sanjeev.bikhchandani@infoedge.com",
+    "company": "Info Edge India",
+    "title": "Founder & Executive Vice Chairman",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:53:44.420Z"
+  },
+  {
+    "email": "hitesh.oberoi@infoedge.com",
+    "company": "Info Edge India",
+    "title": "Managing Director & Chief Executive Officer",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:53:57.068Z"
+  },
+  {
+    "email": "tarun.dua@e2enetworks.com",
+    "company": "E2E Networks",
+    "title": "Managing Director & Cloud Platform Leader",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:54:09.529Z"
+  },
+  {
+    "email": "abidali.neemuchwala@wipro.com",
+    "company": "Wipro Enterprise",
+    "title": "Senior Strategic Advisor & Transformation Partner",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:54:24.010Z"
+  },
+  {
+    "email": "naveen.tewari@inmobi.com",
+    "company": "InMobi Group",
+    "title": "Founder & Chief Executive Officer",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:54:39.295Z"
+  },
+  {
+    "email": "mohit.joshi@techmahindra.com",
+    "company": "Tech Mahindra",
+    "title": "Chief Executive Officer & Managing Director",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:55:00.310Z"
+  },
+  {
+    "email": "rohan.sharma@mastercard.com",
+    "company": "Mastercard India",
+    "title": "Vice President - Operations & Transformation Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:55:15.319Z"
+  },
+  {
+    "email": "anita.deshpande@mastercard.com",
+    "company": "Mastercard India",
+    "title": "Director - Talent Acquisition India",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:55:30.104Z"
+  },
+  {
+    "email": "sameer.ratolikar@visa.com",
+    "company": "Visa India",
+    "title": "Senior Director - Global Network Operations",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:55:44.509Z"
+  },
+  {
+    "email": "meenakshi.kaul@visa.com",
+    "company": "Visa India",
+    "title": "Head of Talent Acquisition India",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:56:03.148Z"
+  },
+  {
+    "email": "sujith.nair@paypal.com",
+    "company": "PayPal India",
+    "title": "Director - Global Operations & Customer Excellence",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:56:20.656Z"
+  },
+  {
+    "email": "namrata.rao@paypal.com",
+    "company": "PayPal India",
+    "title": "Senior Manager - Leadership Hiring",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:56:38.707Z"
+  },
+  {
+    "email": "karthik.balakrishnan@fiserv.com",
+    "company": "Fiserv India",
+    "title": "Vice President - Enterprise Program Management & Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:57:08.549Z"
+  },
+  {
+    "email": "sunita.shetty@fiserv.com",
+    "company": "Fiserv India",
+    "title": "Director - Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:57:27.353Z"
+  },
+  {
+    "email": "shekhar.sanyal@broadridge.com",
+    "company": "Broadridge India",
+    "title": "Managing Director - Global Client Operations",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:57:45.114Z"
+  },
+  {
+    "email": "arun.shenoy@invesco.com",
+    "company": "Invesco India",
+    "title": "Head of Enterprise Transformation Delivery",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:58:02.580Z"
+  },
+  {
+    "email": "gaurav.vohra@bnymellon.com",
+    "company": "BNY Mellon India",
+    "title": "Managing Director - Operations Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:58:24.811Z"
+  },
+  {
+    "email": "pooja.mirchandani@bnymellon.com",
+    "company": "BNY Mellon India",
+    "title": "Head of Lateral & Leadership TA",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:58:41.838Z"
   }
 ]
