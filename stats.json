@@ -1,16 +1,16 @@
 {
-  "jobsScanned": 5191,
-  "applicationsSubmitted": 307,
-  "totalVerifiedInHistory": 307,
+  "jobsScanned": 5201,
+  "applicationsSubmitted": 330,
+  "totalVerifiedInHistory": 330,
   "portalBreakdown": {
-    "direct_portal_ashby": 225,
+    "direct_portal_ashby": 238,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_workday": 1,
     "iimjobs": 15,
-    "ashby": 31,
-    "unconfirmed": 25
+    "ashby": 32,
+    "unconfirmed": 34
   },
   "appliedRolesList": [
     {
@@ -2468,10 +2468,194 @@
       "url": "https://jobs.ashbyhq.com/ElevenLabs/a1dba952-6682-431c-ac7f-a40b5d4f9ccb",
       "time": "2026-11-19T05:06:41.833Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Company Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb",
+      "time": "2026-11-19T05:07:17.042Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Company Operations Lead",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb",
+      "time": "2026-11-19T05:07:17.104Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Executive Assistant to Head of Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/c29da145-0f53-4842-9f52-32b93a5b2f43",
+      "time": "2026-11-19T05:07:19.540Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Executive Assistant to CRO & Head of Strategic Sales",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/f9ccf52d-b45a-4890-828e-be8e6945deb3",
+      "time": "2026-11-19T05:07:41.430Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Partnerships - Japan",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf",
+      "time": "2026-11-19T05:07:59.401Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Model Performance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e",
+      "time": "2026-11-19T05:08:06.522Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - Japan",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/2877fee4-4657-4986-aa07-15514b66ff41",
+      "time": "2026-11-19T05:08:23.444Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Sentry",
+      "title": "Director of Engineering, Platform (Runtime & Stateful Systems)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
+      "time": "2026-11-19T05:08:24.904Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Compute Strategy & Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/768bca5d-287f-405a-b677-605317607178",
+      "time": "2026-11-19T05:08:31.458Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - LATAM",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/c7b6cd6d-994e-449d-aabe-32740d9fd968",
+      "time": "2026-11-19T05:08:45.500Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Head of EMEA Sales",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/55de4d92-fd47-4a92-a3f5-fab2624f6015",
+      "time": "2026-11-19T05:08:59.743Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Partnerships - Japan",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf",
+      "time": "2026-11-19T05:09:07.969Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Regional Sales Director",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6",
+      "time": "2026-11-19T05:09:19.615Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Recruiting Operations Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/f736f253-7b2d-4a4f-82d6-3f4ebf14c7c6",
+      "time": "2026-11-19T05:09:23.841Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "People Operations Lead",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/a751b58c-1d1b-48c6-96b4-c668100a9787",
+      "time": "2026-11-19T05:09:38.712Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Safety",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/43f38460-632b-4b0a-8b14-888d117b2e07",
+      "time": "2026-11-19T05:09:39.147Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Baseten",
+      "title": "Technical Program Manager, Forward Deployed Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6",
+      "time": "2026-11-19T05:09:49.585Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of EMEA Marketing",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/5e69951b-adac-4e61-9884-eaaea68c059b",
+      "time": "2026-11-19T05:10:02.803Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Global Events",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/118ac51d-3d39-4587-9054-ab4cd5844765",
+      "time": "2026-11-19T05:10:12.417Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Account Director - Qatar",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/5308cb82-896c-4f9a-86fd-1d65962ef118",
+      "time": "2026-11-19T05:10:25.873Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Analyst Relations",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/a3f31e70-e948-44d0-8ce3-f16b2979ff52",
+      "time": "2026-11-19T05:10:40.929Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Anyscale",
+      "title": "Head of Customer Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/anyscale/469054d6-da2d-4945-8ea1-63ff5bc8007e",
+      "time": "2026-11-19T05:10:49.293Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Partner Director - US",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
+      "time": "2026-11-19T05:10:57.980Z",
+      "status": "UNCONFIRMED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T05:07:05.465Z",
-  "lastUpdated": "19/11/2026, 10:37:05 am",
+  "lastSyncedAt": "2026-11-19T05:11:07.564Z",
+  "lastUpdated": "19/11/2026, 10:41:07 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
