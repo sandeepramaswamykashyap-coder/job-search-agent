@@ -39,11 +39,15 @@ async function runVisibleDesktopRunner() {
   let browserContext;
 
   try {
+    const lockPath = path.join(userDataDir, 'SingletonLock');
+    if (fs.existsSync(lockPath)) {
+      try { fs.unlinkSync(lockPath); } catch (_) {}
+    }
+
     browserContext = await chromium.launchPersistentContext(userDataDir, {
-      channel: 'chrome',
       headless: false,
       slowMo: 100,
-      viewport: { width: 1280, height: 800 },
+      viewport: { width: 1280, height: 850 },
       args: [
         '--no-sandbox',
         '--disable-gpu',
@@ -100,16 +104,15 @@ async function runVisibleDesktopRunner() {
       console.log(`[VisibleDesktopRunner] 🎯 Senior-matched target roles: ${seniorJobs.length}`);
 
       const existing = getAllApplications();
-      const now = Date.now();
-      const verifiedKeys = new Set(
+      const submittedKeys = new Set(
         existing
-          .filter(a => a.status === 'submitted' && !['unconfirmed', 'error', 'failed', 'job_expired'].includes(a.portal) && a.time && (now - new Date(a.time).getTime() < 48 * 3600 * 1000))
+          .filter(a => /submitted/i.test(a.status || '') && !['unconfirmed', 'error', 'failed', 'job_expired'].includes(a.portal))
           .map(a => `${(a.company || '').toLowerCase().trim()}::${(a.title || '').toLowerCase().trim()}`)
       );
 
       const pending = seniorJobs.filter(j => {
         const key = `${(j.company || '').toLowerCase().trim()}::${(j.title || '').toLowerCase().trim()}`;
-        return !verifiedKeys.has(key);
+        return !submittedKeys.has(key);
       });
 
       console.log(`[VisibleDesktopRunner] 📋 Pending live unapplied senior roles: ${pending.length}`);
@@ -127,6 +130,7 @@ async function runVisibleDesktopRunner() {
         console.log(`======================================================================`);
 
         try {
+          await page.bringToFront().catch(() => {});
           const result = await applyToPortal(page, browserContext, job);
           console.log(`[VisibleDesktopRunner] Result for "${job.title}" @ ${job.company}:`, result);
           if (result && result.success) {
