@@ -227,10 +227,22 @@ async function generateCV() {
     }
   });
 
-  fs.copyFileSync(pdfPath, backupPdfPath);
-  fs.copyFileSync(pdfPath, artifactPdfPath);
-  fs.copyFileSync(pdfPath, desktopPdfPath);
-  fs.copyFileSync(pdfPath, desktopPdfPath2);
+  function safeCopy(src, dst) {
+    try {
+      const dir = path.dirname(dst);
+      if (fs.existsSync(dir)) {
+        fs.copyFileSync(src, dst);
+        console.log(`[CVGenerator] Copied CV to: ${dst}`);
+      }
+    } catch (e) {
+      console.warn(`[CVGenerator] Optional copy to ${dst} skipped: ${e.message}`);
+    }
+  }
+
+  safeCopy(pdfPath, backupPdfPath);
+  safeCopy(pdfPath, artifactPdfPath);
+  safeCopy(pdfPath, desktopPdfPath);
+  safeCopy(pdfPath, desktopPdfPath2);
 
   await browser.close();
   console.log(`[CVGenerator] ✅ Successfully generated and saved 1-page executive CV!`);
