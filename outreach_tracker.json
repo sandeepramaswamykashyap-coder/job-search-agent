@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 213,
-  "coldEmailsCount": 190,
+  "totalOutreachItems": 215,
+  "coldEmailsCount": 192,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 190,
+    "initialWindow_0_2_days": 192,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 23
   },
-  "lastUpdated": "2026-11-19T04:09:19.443Z",
+  "lastUpdated": "2026-11-19T04:09:43.478Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2094,6 +2094,28 @@
       "company": "IQVIA India",
       "title": "Managing Director - South Asia Operations",
       "dispatchedAt": "2026-11-19T04:09:15.108Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rashmi.joseph@iqvia.com",
+      "company": "IQVIA India",
+      "title": "Head of Leadership Recruitment",
+      "dispatchedAt": "2026-11-19T04:09:28.413Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sanjay.vyas@parexel.com",
+      "company": "Parexel India",
+      "title": "Senior Vice President & Global Head of Delivery Operations",
+      "dispatchedAt": "2026-11-19T04:09:42.057Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",

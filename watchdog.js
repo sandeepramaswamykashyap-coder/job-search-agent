@@ -4,7 +4,7 @@
  * Auto-restarts any crashed process immediately.
  */
 
-const { spawn, execSync } = require('child_process');
+const { spawn } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 
@@ -16,49 +16,46 @@ const ENGINES = [
     name: 'VisiblePortals',
     script: 'run_visible_portals.js',
     log: 'visible_portals.log',
-    nice: 0,
   },
   {
     name: 'QuadGrinder',
     script: 'live_continuous_submission_engine.js',
     log: 'continuous_grinder.log',
-    nice: 15,
   },
   {
     name: 'Scheduler',
     script: 'scheduler.js',
     log: 'scheduler.log',
-    nice: 0,
   },
   {
     name: 'InboxCleaner',
     script: 'inbox_auto_cleaner.js',
     log: 'inbox_cleaner.log',
-    nice: 19,
   },
 ];
 
+// Track child processes by script name — no pgrep needed
 const processes = {};
 
 function isRunning(script) {
-  try {
-    const result = execSync(`pgrep -f "node ${script}"`, { encoding: 'utf8' }).trim();
-    return result.length > 0;
-  } catch (_) {
-    return false;
-  }
+  const child = processes[script];
+  if (!child) return false;
+  // exitCode is null while still running
+  return child.exitCode === null && !child.killed;
 }
 
 function startEngine(engine) {
   LOG(`🚀 Starting ${engine.name} (${engine.script})...`);
   const logStream = fs.openSync(path.join(DIR, engine.log), 'a');
   const child = spawn('node', [path.join(DIR, engine.script)], {
-    detached: true,
     stdio: ['ignore', logStream, logStream],
     cwd: DIR,
   });
-  child.unref();
-  processes[engine.script] = child.pid;
+  // Keep reference alive so isRunning() can track exit status
+  processes[engine.script] = child;
+  child.on('exit', (code) => {
+    LOG(`⚠️  ${engine.name} exited (code ${code}). Will restart on next health check.`);
+  });
   LOG(`✅ ${engine.name} started (PID: ${child.pid})`);
 }
 
