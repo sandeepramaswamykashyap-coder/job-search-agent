@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 186,
-  "coldEmailsCount": 163,
+  "totalOutreachItems": 188,
+  "coldEmailsCount": 165,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 163,
+    "initialWindow_0_2_days": 165,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 23
   },
-  "lastUpdated": "2026-11-19T03:58:57.848Z",
+  "lastUpdated": "2026-11-19T03:59:45.980Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1796,7 +1796,29 @@
       "recipient": "pradeep.goel@synchrony.com",
       "company": "Synchrony India",
       "title": "Senior Vice President - Operations & PMO",
-      "dispatchedAt": "2026-11-19T03:58:51.834Z",
+      "dispatchedAt": "2026-11-19T03:59:03.356Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "divya.saxena@synchrony.com",
+      "company": "Synchrony India",
+      "title": "Vice President - Talent Acquisition",
+      "dispatchedAt": "2026-11-19T03:59:18.921Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "siddharth.mallik@aexp.com",
+      "company": "American Express India",
+      "title": "Vice President - Global Service Delivery & Transformation",
+      "dispatchedAt": "2026-11-19T03:59:44.863Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",

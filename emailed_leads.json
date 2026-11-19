@@ -1124,20 +1124,34 @@
     "company": "BNY Mellon India",
     "title": "Managing Director - Operations Transformation",
     "status": "sent",
-    "dispatchedAt": "2026-11-19T03:58:24.811Z"
+    "dispatchedAt": "2026-11-19T03:58:19.613Z"
   },
   {
     "email": "pooja.mirchandani@bnymellon.com",
     "company": "BNY Mellon India",
     "title": "Head of Lateral & Leadership TA",
     "status": "sent",
-    "dispatchedAt": "2026-11-19T03:58:41.838Z"
+    "dispatchedAt": "2026-11-19T03:58:34.811Z"
   },
   {
     "email": "pradeep.goel@synchrony.com",
     "company": "Synchrony India",
     "title": "Senior Vice President - Operations & PMO",
     "status": "sent",
-    "dispatchedAt": "2026-11-19T03:59:00.918Z"
+    "dispatchedAt": "2026-11-19T03:59:03.356Z"
+  },
+  {
+    "email": "divya.saxena@synchrony.com",
+    "company": "Synchrony India",
+    "title": "Vice President - Talent Acquisition",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:59:18.921Z"
+  },
+  {
+    "email": "siddharth.mallik@aexp.com",
+    "company": "American Express India",
+    "title": "Vice President - Global Service Delivery & Transformation",
+    "status": "sent",
+    "dispatchedAt": "2026-11-19T03:59:44.863Z"
   }
 ]
