@@ -1,9 +1,9 @@
 {
-  "jobsScanned": 5661,
-  "applicationsSubmitted": 467,
-  "totalVerifiedInHistory": 467,
+  "jobsScanned": 5671,
+  "applicationsSubmitted": 468,
+  "totalVerifiedInHistory": 468,
   "portalBreakdown": {
-    "direct_portal_ashby": 348,
+    "direct_portal_ashby": 349,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
@@ -3748,10 +3748,18 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/jobs?q=program+manager",
       "time": "2026-11-19T06:21:09.197Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Oaknorth",
+      "title": "Director, Workout & Restructuring - Real Estate",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/oaknorth/b9e61ea6-cedc-49c8-848b-215284da770b",
+      "time": "2026-11-19T10:11:03.000Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T09:52:04.956Z",
-  "lastUpdated": "19/11/2026, 3:22:04 pm",
+  "lastSyncedAt": "2026-11-19T10:21:37.726Z",
+  "lastUpdated": "19/11/2026, 3:51:37 pm",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
