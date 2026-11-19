@@ -1,12 +1,13 @@
 {
   "jobsScanned": 4897,
-  "applicationsSubmitted": 100,
-  "totalVerifiedInHistory": 100,
+  "applicationsSubmitted": 101,
+  "totalVerifiedInHistory": 101,
   "portalBreakdown": {
     "direct_portal_ashby": 90,
     "weworkremotely": 6,
     "remoteok": 3,
-    "workingnomads": 1
+    "workingnomads": 1,
+    "direct_portal_workday": 1
   },
   "appliedRolesList": [
     {
@@ -808,10 +809,18 @@
       "url": "https://jobs.ashbyhq.com/Perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
       "time": "2026-11-19T04:10:37.882Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Senior Program Manager",
+      "portal": "direct_portal_workday",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/jobs?q=program+manager",
+      "time": "2026-11-19T04:11:39.763Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T04:10:37.983Z",
-  "lastUpdated": "19/11/2026, 9:40:37 am",
+  "lastSyncedAt": "2026-11-19T04:11:39.949Z",
+  "lastUpdated": "19/11/2026, 9:41:39 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
