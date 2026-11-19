@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 195,
-  "coldEmailsCount": 172,
+  "totalOutreachItems": 206,
+  "coldEmailsCount": 183,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 172,
+    "initialWindow_0_2_days": 183,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 23
   },
-  "lastUpdated": "2026-11-19T04:01:47.911Z",
+  "lastUpdated": "2026-11-19T04:06:33.687Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1896,6 +1896,127 @@
       "company": "NVIDIA India",
       "title": "Managing Director - South Asia & India Delivery",
       "dispatchedAt": "2026-11-19T04:01:42.066Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "bhavana.mohan@nvidia.com",
+      "company": "NVIDIA India",
+      "title": "Senior Talent Acquisition Lead",
+      "dispatchedAt": "2026-11-19T04:02:03.743Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sanjay.rohatgi@netapp.com",
+      "company": "NetApp India",
+      "title": "Senior Vice President & General Manager",
+      "dispatchedAt": "2026-11-19T04:02:23.467Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ruchi.shrivastava@netapp.com",
+      "company": "NetApp India",
+      "title": "Director - Talent Acquisition India",
+      "dispatchedAt": "2026-11-19T04:03:15.166Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ashish.dhawan@juniper.net",
+      "company": "Juniper Networks India",
+      "title": "Vice President - Global Services Delivery",
+      "dispatchedAt": "2026-11-19T04:03:50.859Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "deepali.sen@juniper.net",
+      "company": "Juniper Networks India",
+      "title": "Lead Recruiter - Executive Search",
+      "dispatchedAt": "2026-11-19T04:04:14.533Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajiv.ramaswami@nutanix.com",
+      "company": "Nutanix India",
+      "title": "President & Chief Executive Officer",
+      "dispatchedAt": "2026-11-19T04:04:37.489Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sankalp.saxena@nutanix.com",
+      "company": "Nutanix India",
+      "title": "Senior Vice President & Managing Director - India",
+      "dispatchedAt": "2026-11-19T04:05:10.142Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "meenu.bagla@nutanix.com",
+      "company": "Nutanix India",
+      "title": "Vice President - Talent Acquisition India",
+      "dispatchedAt": "2026-11-19T04:05:30.100Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "anand.subbaraman@splunk.com",
+      "company": "Splunk India",
+      "title": "Vice President - Engineering Operations & Delivery",
+      "dispatchedAt": "2026-11-19T04:05:57.571Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "prasad.rai@oracle.com",
+      "company": "Oracle India",
+      "title": "Vice President - Global Business Unit Delivery",
+      "dispatchedAt": "2026-11-19T04:06:19.087Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "shubha.shetty@oracle.com",
+      "company": "Oracle India",
+      "title": "Senior Director - Talent Acquisition",
+      "dispatchedAt": "2026-11-19T04:06:33.259Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
