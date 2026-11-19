@@ -1,5 +1,5 @@
 {
-  "jobsScanned": 5341,
+  "jobsScanned": 5351,
   "applicationsSubmitted": 467,
   "totalVerifiedInHistory": 467,
   "portalBreakdown": {
@@ -3750,8 +3750,8 @@
       "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T06:27:04.535Z",
-  "lastUpdated": "19/11/2026, 11:57:04 am",
+  "lastSyncedAt": "2026-11-19T06:40:32.227Z",
+  "lastUpdated": "19/11/2026, 12:10:32 pm",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
