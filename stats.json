@@ -1,9 +1,9 @@
 {
-  "jobsScanned": 4806,
-  "applicationsSubmitted": 96,
-  "totalVerifiedInHistory": 96,
+  "jobsScanned": 4834,
+  "applicationsSubmitted": 97,
+  "totalVerifiedInHistory": 97,
   "portalBreakdown": {
-    "direct_portal_ashby": 86,
+    "direct_portal_ashby": 87,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1
@@ -776,10 +776,18 @@
       "url": "https://jobs.ashbyhq.com/openai/ea738090-a7e0-41bd-b619-afeff9fd18e0",
       "time": "2026-11-19T03:58:52.053Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Openai",
+      "title": "Account Director, Cyber",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/openai/e8cb6c67-0b73-4be8-a35c-775c99c1c638",
+      "time": "2026-11-19T03:59:55.770Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T03:58:52.132Z",
-  "lastUpdated": "19/11/2026, 9:28:52 am",
+  "lastSyncedAt": "2026-11-19T04:00:29.661Z",
+  "lastUpdated": "19/11/2026, 9:30:29 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
