@@ -1,15 +1,15 @@
 {
   "jobsScanned": 5191,
-  "applicationsSubmitted": 305,
-  "totalVerifiedInHistory": 305,
+  "applicationsSubmitted": 307,
+  "totalVerifiedInHistory": 307,
   "portalBreakdown": {
-    "direct_portal_ashby": 224,
+    "direct_portal_ashby": 225,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_workday": 1,
     "iimjobs": 15,
-    "ashby": 30,
+    "ashby": 31,
     "unconfirmed": 25
   },
   "appliedRolesList": [
@@ -2452,10 +2452,26 @@
       "url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39",
       "time": "2026-11-19T05:06:15.464Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Head of Strategic Pursuits",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/a1dba952-6682-431c-ac7f-a40b5d4f9ccb",
+      "time": "2026-11-19T05:06:41.762Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Elevenlabs",
+      "title": "Head of Strategic Pursuits",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/a1dba952-6682-431c-ac7f-a40b5d4f9ccb",
+      "time": "2026-11-19T05:06:41.833Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T05:06:38.552Z",
-  "lastUpdated": "19/11/2026, 10:36:38 am",
+  "lastSyncedAt": "2026-11-19T05:07:03.807Z",
+  "lastUpdated": "19/11/2026, 10:37:03 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
