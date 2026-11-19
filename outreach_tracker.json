@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 183,
-  "coldEmailsCount": 160,
+  "totalOutreachItems": 186,
+  "coldEmailsCount": 163,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 160,
+    "initialWindow_0_2_days": 163,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 23
   },
-  "lastUpdated": "2026-11-19T03:58:12.503Z",
+  "lastUpdated": "2026-11-19T03:58:51.982Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -1764,6 +1764,39 @@
       "company": "Invesco India",
       "title": "Head of Enterprise Transformation Delivery",
       "dispatchedAt": "2026-11-19T03:58:02.580Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "gaurav.vohra@bnymellon.com",
+      "company": "BNY Mellon India",
+      "title": "Managing Director - Operations Transformation",
+      "dispatchedAt": "2026-11-19T03:58:19.613Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pooja.mirchandani@bnymellon.com",
+      "company": "BNY Mellon India",
+      "title": "Head of Lateral & Leadership TA",
+      "dispatchedAt": "2026-11-19T03:58:34.811Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pradeep.goel@synchrony.com",
+      "company": "Synchrony India",
+      "title": "Senior Vice President - Operations & PMO",
+      "dispatchedAt": "2026-11-19T03:58:51.834Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
