@@ -1,9 +1,9 @@
 {
   "jobsScanned": 4726,
-  "applicationsSubmitted": 81,
-  "totalVerifiedInHistory": 81,
+  "applicationsSubmitted": 82,
+  "totalVerifiedInHistory": 82,
   "portalBreakdown": {
-    "direct_portal_ashby": 71,
+    "direct_portal_ashby": 72,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1
@@ -656,10 +656,18 @@
       "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
       "time": "2026-11-19T03:52:14.510Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Anyscale",
+      "title": "AWS & Neo Cloud Alliances Senior Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/anyscale/236b71c1-b5b0-4d5e-b17a-3e1bc4966a6a",
+      "time": "2026-11-19T03:52:15.443Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T03:52:14.534Z",
-  "lastUpdated": "19/11/2026, 9:22:14 am",
+  "lastSyncedAt": "2026-11-19T03:52:15.474Z",
+  "lastUpdated": "19/11/2026, 9:22:15 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
