@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 222,
-  "coldEmailsCount": 199,
+  "totalOutreachItems": 223,
+  "coldEmailsCount": 200,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 199,
+    "initialWindow_0_2_days": 200,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 23
   },
-  "lastUpdated": "2026-11-19T04:11:47.606Z",
+  "lastUpdated": "2026-11-19T04:12:28.468Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -2170,7 +2170,7 @@
       "recipient": "saurabh.srivastava@levistrauss.com",
       "company": "Levi Strauss India",
       "title": "Head of Global GCC Delivery & Transformation",
-      "dispatchedAt": "2026-11-19T04:11:12.895Z",
+      "dispatchedAt": "2026-11-19T04:11:16.916Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
@@ -2181,7 +2181,7 @@
       "recipient": "shreya.kapoor@levistrauss.com",
       "company": "Levi Strauss India",
       "title": "Senior Talent Acquisition Lead",
-      "dispatchedAt": "2026-11-19T04:11:29.765Z",
+      "dispatchedAt": "2026-11-19T04:11:35.363Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
@@ -2192,7 +2192,18 @@
       "recipient": "gautam.bali@nike.com",
       "company": "Nike India Tech Center",
       "title": "Senior Director - Enterprise Program Delivery",
-      "dispatchedAt": "2026-11-19T04:11:44.389Z",
+      "dispatchedAt": "2026-11-19T04:11:49.185Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "pallavi.rao@lululemon.com",
+      "company": "Lululemon India GCC",
+      "title": "Director - Enterprise Operations & Technology Delivery",
+      "dispatchedAt": "2026-11-19T04:12:10.948Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
