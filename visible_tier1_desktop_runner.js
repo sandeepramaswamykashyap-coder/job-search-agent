@@ -14,6 +14,7 @@ const fs = require('fs');
 const { fetchAllLiveATSJobs } = require('./company_ats_fetcher');
 const { applyToPortal } = require('./portal_router');
 const { getAllApplications, logApplication } = require('./applications_db');
+const { isRoleRelevant } = require('./role_relevance_filter');
 
 const userDataDir = path.join(__dirname, '.browser_session_amicable_light');
 
@@ -82,26 +83,11 @@ async function runVisibleDesktopRunner() {
       const liveJobs = await fetchAllLiveATSJobs();
       console.log(`[VisibleDesktopRunner] Total live openings active: ${liveJobs.length}`);
 
-      // STRICT SENIOR-LEVEL FILTER: Focus on 14+ yr executive / program leadership / ServiceNow / transformation
-      const seniorKeywords = [
-        'senior manager', 'senior operations manager',
-        'program manager', 'technical program manager', 'delivery manager',
-        'servicenow', 'transformation', 'operations manager', 'product operations',
-        'director', 'lead', 'head', 'project manager', 'strategy & ops', 'engineering operations'
-      ];
-      const excludeKeywords = [
-        'intern', 'internship', 'new grad', 'graduate', 'entry level',
-        'associate customer', 'junior', 'tier 1', 'student'
-      ];
+      // STRICT RELEVANCE FILTER: Only roles matching Sandeep's 15+ yr leadership profile:
+      // ServiceNow · Transformation · TPM / PMO · Delivery Management · Intelligent Automation / RPA · UAT Governance · Ops Leadership
+      const seniorJobs = liveJobs.filter(j => isRoleRelevant(j.title));
 
-      const seniorJobs = liveJobs.filter(j => {
-        const title = (j.title || '').toLowerCase();
-        const matchesSenior = seniorKeywords.some(k => title.includes(k));
-        const isExcluded = excludeKeywords.some(k => title.includes(k));
-        return matchesSenior && !isExcluded;
-      });
-
-      console.log(`[VisibleDesktopRunner] 🎯 Senior-matched target roles: ${seniorJobs.length}`);
+      console.log(`[VisibleDesktopRunner] 🎯 Strictly filtered relevant leadership roles: ${seniorJobs.length}`);
 
       const existing = getAllApplications();
       const submittedKeys = new Set(

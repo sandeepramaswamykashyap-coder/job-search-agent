@@ -909,16 +909,28 @@ async function uploadCV(page, roleTitleHint = '') {
     return false; 
   }
 
-  // Try main frame first
+  // Try main frame first with dedicated resume selectors
   try {
-    const fileInputs = await page.locator('input[type="file"]:visible').all().catch(() => []);
-    for (const fi of fileInputs) {
-      const accept = await fi.getAttribute('accept').catch(() => '') || '';
-      if (!accept || accept.includes('pdf') || accept.includes('*') || accept.includes('doc')) {
-        await fi.setInputFiles(cvFile);
-        await page.waitForTimeout(2000);
-        console.log(`[FormFiller] 📎 CV uploaded: ${path.basename(cvFile)}`);
-        return true;
+    const resumeSelectors = [
+      'input#_systemfield_resume',
+      'input[id*="resume" i]',
+      'input[name*="resume" i]',
+      'input[aria-label*="resume" i]',
+      'input[type="file"]'
+    ];
+
+    for (const sel of resumeSelectors) {
+      const inputs = await page.locator(sel).all().catch(() => []);
+      for (const fi of inputs) {
+        try {
+          const accept = await fi.getAttribute('accept').catch(() => '') || '';
+          if (!accept || accept.includes('pdf') || accept.includes('*') || accept.includes('doc')) {
+            await fi.setInputFiles(cvFile);
+            await page.waitForTimeout(2000);
+            console.log(`[FormFiller] 📎 CV uploaded via ${sel}: ${path.basename(cvFile)}`);
+            return true;
+          }
+        } catch (_) {}
       }
     }
   } catch (e) { console.log(`[FormFiller] CV upload error: ${e.message.slice(0, 60)}`); }
@@ -928,13 +940,11 @@ async function uploadCV(page, roleTitleHint = '') {
     const url = frame.url() || '';
     if (IFRAME_BLOCKLIST && IFRAME_BLOCKLIST.some(b => url.includes(b))) continue;
     try {
-      const fi = frame.locator('input[type="file"]').first();
-      if (await fi.isVisible({ timeout: 1000 }).catch(() => false)) {
-        await fi.setInputFiles(cvFile);
-        await frame.waitForTimeout(2000);
-        console.log(`[FormFiller] 📎 CV uploaded in iframe: ${path.basename(cvFile)}`);
-        return true;
-      }
+      const fi = frame.locator('input#_systemfield_resume, input[id*="resume" i], input[type="file"]').first();
+      await fi.setInputFiles(cvFile);
+      await frame.waitForTimeout(2000);
+      console.log(`[FormFiller] 📎 CV uploaded in iframe: ${path.basename(cvFile)}`);
+      return true;
     } catch (_) {}
   }
   return false;

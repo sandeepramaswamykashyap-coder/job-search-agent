@@ -1,16 +1,16 @@
 {
-  "jobsScanned": 5201,
-  "applicationsSubmitted": 330,
-  "totalVerifiedInHistory": 330,
+  "jobsScanned": 5211,
+  "applicationsSubmitted": 397,
+  "totalVerifiedInHistory": 397,
   "portalBreakdown": {
-    "direct_portal_ashby": 238,
+    "direct_portal_ashby": 279,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
     "direct_portal_workday": 1,
     "iimjobs": 15,
-    "ashby": 32,
-    "unconfirmed": 34
+    "ashby": 42,
+    "unconfirmed": 50
   },
   "appliedRolesList": [
     {
@@ -2652,10 +2652,546 @@
       "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
       "time": "2026-11-19T05:10:57.980Z",
       "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Safety",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/43f38460-632b-4b0a-8b14-888d117b2e07",
+      "time": "2026-11-19T05:11:17.033Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director, GTM Engineering",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122",
+      "time": "2026-11-19T05:11:21.678Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cognition",
+      "title": "Head of Global Events",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cognition/118ac51d-3d39-4587-9054-ab4cd5844765",
+      "time": "2026-11-19T05:11:38.142Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Events & Field Marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
+      "time": "2026-11-19T05:11:54.888Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Anyscale",
+      "title": "Head of Customer Engineering",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/anyscale/469054d6-da2d-4945-8ea1-63ff5bc8007e",
+      "time": "2026-11-19T05:12:00.233Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Director, GTM Engineering",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/Deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122",
+      "time": "2026-11-19T05:12:17.303Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Deal Desk",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/Deepgram/77d4c84e-e1e6-444b-8cbd-0d34a7235639",
+      "time": "2026-11-19T05:12:30.971Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Manager, Events & Field Marketing",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/Deepgram/1aa2d74f-ca29-4652-8fb2-4c23dad6380b",
+      "time": "2026-11-19T05:12:39.372Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Character",
+      "title": "Technical Program Manager, Product Experience",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/character/56dcfddd-ba6d-48a8-81fb-3332abb1c032",
+      "time": "2026-11-19T05:12:58.489Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Business Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/225b43d8-ef14-4082-b16e-005c74b42957",
+      "time": "2026-11-19T05:13:24.701Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Head of IT",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/df9c593c-54db-4164-978c-deaea19536e7",
+      "time": "2026-11-19T05:13:58.905Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Legal Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/3ed4e7e4-1765-481b-a1aa-199d1d6d079c",
+      "time": "2026-11-19T05:14:32.583Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Modal",
+      "title": "Deal Strategy & Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/modal/431c499b-6120-42f0-a60d-e1bcac3b919b",
+      "time": "2026-11-19T05:15:06.011Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Vice President, Commercial - Southern Europe",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/b8e80939-373d-4d9d-a191-faee606c7efe",
+      "time": "2026-11-19T05:15:34.322Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Langchain",
+      "title": "Regional Vice President, Sales APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
+      "time": "2026-11-19T05:16:00.281Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Incident",
+      "title": "VP of Customer Success",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/incident/91dcb767-ed52-4400-bd6b-0ce8158e90d0",
+      "time": "2026-11-19T05:16:35.096Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Dust",
+      "title": "Global Head of AI Deployment & Partner Delivery (Paris)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/dust/49bf96b2-b60b-4959-abe8-bb6714812e68",
+      "time": "2026-11-19T05:17:11.980Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cursor",
+      "title": "Solutions Strategy & Operations Manager",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cursor/b33f0126-7c07-478c-8c81-1f3798634535",
+      "time": "2026-11-19T05:20:22.403Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cursor",
+      "title": "Customer Success Strategy & Operations Manager",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/cursor/b958e1bd-9e49-48cd-a7f5-b42c63f527fa",
+      "time": "2026-11-19T05:21:25.740Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Livekit",
+      "title": "Senior Product Operations Manager",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
+      "time": "2026-11-19T05:22:11.865Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
+      "time": "2026-11-19T05:22:50.495Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Writer",
+      "title": "Transformation lead manager",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/WRITER/fa2c8c23-cf8b-4638-b624-e51077f91c38",
+      "time": "2026-11-19T05:23:29.461Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (Central)",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/WRITER/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc",
+      "time": "2026-11-19T05:24:15.066Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Livekit",
+      "title": "Senior Product Operations Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c",
+      "time": "2026-11-19T05:24:20.575Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/bb04804e-6332-4a89-8651-b962ca529fd7",
+      "time": "2026-11-19T05:24:55.275Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (West)",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/WRITER/9e3b63e1-2a36-4941-9b76-90124cc9d92f",
+      "time": "2026-11-19T05:25:01.325Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Writer",
+      "title": "Transformation lead manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/fa2c8c23-cf8b-4638-b624-e51077f91c38",
+      "time": "2026-11-19T05:25:28.934Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (East)",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/WRITER/e3e6ddf1-2b57-4580-8564-e823d7fed763",
+      "time": "2026-11-19T05:25:44.149Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (Central)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc",
+      "time": "2026-11-19T05:26:02.789Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (East)",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/WRITER/993aa857-1c36-4edb-b230-fc1b49f70774",
+      "time": "2026-11-19T05:26:28.279Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (West)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/9e3b63e1-2a36-4941-9b76-90124cc9d92f",
+      "time": "2026-11-19T05:26:36.427Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Business Operations Lead",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e",
+      "time": "2026-11-19T05:26:59.588Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Business Operations Lead",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e",
+      "time": "2026-11-19T05:26:59.701Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Director, sales enablement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/df418494-25a9-4516-ad3a-2e69041c6921",
+      "time": "2026-11-19T05:27:09.499Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
+      "time": "2026-11-19T05:27:31.665Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
+      "time": "2026-11-19T05:27:31.695Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/e3e6ddf1-2b57-4580-8564-e823d7fed763",
+      "time": "2026-11-19T05:27:42.071Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Staff Technical Program Manager, Machine Learning",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "time": "2026-11-19T05:28:01.357Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Staff Technical Program Manager, Machine Learning",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "time": "2026-11-19T05:28:01.403Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "AI transformation lead (East)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/993aa857-1c36-4edb-b230-fc1b49f70774",
+      "time": "2026-11-19T05:28:13.193Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
+      "time": "2026-11-19T05:28:33.097Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
+      "time": "2026-11-19T05:28:33.152Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Writer",
+      "title": "Senior manager, lifecycle & audience marketing",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/WRITER/ff94a694-b5b8-40f0-90ec-d8087670a2c7",
+      "time": "2026-11-19T05:28:42.797Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "time": "2026-11-19T05:29:02.409Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "time": "2026-11-19T05:29:02.476Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "time": "2026-11-19T05:29:12.354Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "time": "2026-11-19T05:29:39.732Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "time": "2026-11-19T05:29:39.869Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+      "time": "2026-11-19T05:29:42.098Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "time": "2026-11-19T05:30:10.767Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
+      "time": "2026-11-19T05:30:12.037Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
+      "time": "2026-11-19T05:30:12.080Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Staff Technical Program Manager",
+      "portal": "unconfirmed",
+      "url": "https://jobs.ashbyhq.com/suno/36613609-2dbd-42d9-8433-60601145d991",
+      "time": "2026-11-19T05:30:49.020Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Marketing Operations",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e",
+      "time": "2026-11-19T05:31:09.280Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager II",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0d2219cc-57ea-4c9e-885d-215b2469304a",
+      "time": "2026-11-19T05:31:20.823Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager II",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/0d2219cc-57ea-4c9e-885d-215b2469304a",
+      "time": "2026-11-19T05:31:20.905Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Staff Software Engineer, Agentic Analytics",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64",
+      "time": "2026-11-19T05:31:39.161Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
+      "time": "2026-11-19T05:31:57.141Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Technical Program Manager",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/9107e729-f6d7-4729-a540-00d0cc0a4d3f",
+      "time": "2026-11-19T05:31:57.187Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Principal Product Manager, Agentic Observability and Governance",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/a201d2fd-b7d3-4617-a3e8-62f8afa9382f",
+      "time": "2026-11-19T05:32:36.359Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Uipath",
+      "title": "Principal Product Manager, Agentic Observability and Governance",
+      "portal": "ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/a201d2fd-b7d3-4617-a3e8-62f8afa9382f",
+      "time": "2026-11-19T05:32:36.441Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "PR Director, APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/fee0951d-8f8a-41ad-a7d5-4b0083bbe777",
+      "time": "2026-11-19T05:32:46.831Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Freshworks",
+      "title": "Staff Program Manager - Voice of the Customer Programs",
+      "portal": "unconfirmed",
+      "url": "https://careers.smartrecruiters.com/Freshworks/744000162312584",
+      "time": "2026-11-19T05:32:58.193Z",
+      "status": "UNCONFIRMED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Agentic Environments",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
+      "time": "2026-11-19T05:33:16.363Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Adoption Specialist - Infrastructure & Agentic",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2",
+      "time": "2026-11-19T05:33:50.949Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Sales, Defense & Intelligence",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
+      "time": "2026-11-19T05:34:19.683Z",
+      "status": "SUBMITTED"
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Director, Solutions Architecture, APAC",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
+      "time": "2026-11-19T05:34:48.032Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T05:11:07.564Z",
-  "lastUpdated": "19/11/2026, 10:41:07 am",
+  "lastSyncedAt": "2026-11-19T05:35:05.409Z",
+  "lastUpdated": "19/11/2026, 11:05:05 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
