@@ -1,9 +1,9 @@
 {
   "jobsScanned": 5251,
-  "applicationsSubmitted": 413,
-  "totalVerifiedInHistory": 413,
+  "applicationsSubmitted": 414,
+  "totalVerifiedInHistory": 414,
   "portalBreakdown": {
-    "direct_portal_ashby": 295,
+    "direct_portal_ashby": 296,
     "weworkremotely": 6,
     "remoteok": 3,
     "workingnomads": 1,
@@ -3316,10 +3316,18 @@
       "url": "https://jobs.ashbyhq.com/suno/b699e12d-06b5-48d4-b8fd-273696757b96",
       "time": "2026-11-19T05:43:52.166Z",
       "status": "SUBMITTED"
+    },
+    {
+      "company": "Suno",
+      "title": "Director of Strategic Sourcing and Procurement",
+      "portal": "direct_portal_ashby",
+      "url": "https://jobs.ashbyhq.com/suno/c92070de-4617-4ea1-91b5-dbdf9e404519",
+      "time": "2026-11-19T05:44:17.742Z",
+      "status": "SUBMITTED"
     }
   ],
-  "lastSyncedAt": "2026-11-19T05:44:00.815Z",
-  "lastUpdated": "19/11/2026, 11:14:00 am",
+  "lastSyncedAt": "2026-11-19T05:44:31.439Z",
+  "lastUpdated": "19/11/2026, 11:14:31 am",
   "remoteJobs": [
     {
       "title": "Service Delivery and Operations Manager - Dayshift Remote",
