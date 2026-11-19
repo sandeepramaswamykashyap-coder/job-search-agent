@@ -1,13 +1,13 @@
 {
-  "totalOutreachItems": 134,
-  "coldEmailsCount": 111,
+  "totalOutreachItems": 155,
+  "coldEmailsCount": 132,
   "linkedInInvitesCount": 23,
   "responseFunnel": {
-    "initialWindow_0_2_days": 111,
+    "initialWindow_0_2_days": 132,
     "underEvaluation_3_4_days": 0,
     "followUpEligible_5plus_days": 23
   },
-  "lastUpdated": "2026-11-16T09:24:11.913Z",
+  "lastUpdated": "2026-11-19T03:48:35.386Z",
   "emailsList": [
     {
       "type": "Cold Email",
@@ -15,7 +15,7 @@
       "company": "PwC",
       "title": "Partner — Business Transformation & Platform Delivery",
       "dispatchedAt": "2026-11-16T07:06:23.093Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -26,7 +26,7 @@
       "company": "PwC",
       "title": "Director — Executive & Leadership Recruitment",
       "dispatchedAt": "2026-11-16T07:06:39.330Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -37,7 +37,7 @@
       "company": "Ernst & Young (EY)",
       "title": "Head of Executive Sourcing — Global Delivery Services",
       "dispatchedAt": "2026-11-16T07:06:54.481Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -48,7 +48,7 @@
       "company": "Morgan Stanley",
       "title": "Managing Director — Enterprise Operations & Technology Transformation",
       "dispatchedAt": "2026-11-16T07:07:12.644Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -59,7 +59,7 @@
       "company": "JPMorgan Chase",
       "title": "Managing Director & Global Head — Core Service Delivery & Transformation",
       "dispatchedAt": "2026-11-16T07:07:28.237Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -70,7 +70,7 @@
       "company": "Infosys",
       "title": "Senior Vice President & Head — Digital Experience & Cloud Transformation",
       "dispatchedAt": "2026-11-16T07:07:44.499Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -81,7 +81,7 @@
       "company": "Wipro",
       "title": "Vice President — Cloud & Platform Transformation Business Unit",
       "dispatchedAt": "2026-11-16T07:08:00.742Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -92,7 +92,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Global Head — Enterprise Platform Solutions",
       "dispatchedAt": "2026-11-16T07:08:17.434Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -103,7 +103,7 @@
       "company": "LTIMindtree",
       "title": "Vice President — Enterprise Business Transformation",
       "dispatchedAt": "2026-11-16T07:08:32.404Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -114,7 +114,7 @@
       "company": "HCLTech",
       "title": "Senior Vice President — Digital Platform Transformation",
       "dispatchedAt": "2026-11-16T07:08:48.003Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -125,7 +125,7 @@
       "company": "Tech Mahindra",
       "title": "Senior Vice President — Cloud & ServiceNow Practice",
       "dispatchedAt": "2026-11-16T07:09:08.254Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -136,7 +136,7 @@
       "company": "Freshworks",
       "title": "Head of Talent Acquisition - Leadership Hiring",
       "dispatchedAt": "2026-11-16T07:09:23.093Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -147,7 +147,7 @@
       "company": "Infosys BPM",
       "title": "Senior Vice President - Operations & Delivery",
       "dispatchedAt": "2026-11-16T07:09:39.151Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -158,7 +158,7 @@
       "company": "Zycus Infotech",
       "title": "Head of Global Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:09:52.768Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -169,7 +169,7 @@
       "company": "Happiest Minds",
       "title": "Vice President - Digital Business Services",
       "dispatchedAt": "2026-11-16T07:10:10.732Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -180,7 +180,7 @@
       "company": "Walmart Global Tech",
       "title": "Director of Talent Acquisition - India",
       "dispatchedAt": "2026-11-16T07:10:26.085Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -191,7 +191,7 @@
       "company": "Target India",
       "title": "Director - Enterprise Transformation & Delivery",
       "dispatchedAt": "2026-11-16T07:10:41.688Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -202,7 +202,7 @@
       "company": "Target India",
       "title": "Lead Talent Acquisition Partner - Leadership",
       "dispatchedAt": "2026-11-16T07:11:00.810Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -213,7 +213,7 @@
       "company": "Walmart Global Tech",
       "title": "Senior Director - Enterprise Program Management",
       "dispatchedAt": "2026-11-16T07:11:17.974Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -224,7 +224,7 @@
       "company": "Walmart Global Tech",
       "title": "Staff Talent Acquisition Partner",
       "dispatchedAt": "2026-11-16T07:11:37.490Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -235,7 +235,7 @@
       "company": "Goldman Sachs India",
       "title": "Managing Director - Operations & Governance",
       "dispatchedAt": "2026-11-16T07:11:53.402Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -246,7 +246,7 @@
       "company": "Goldman Sachs India",
       "title": "Vice President - Human Capital Management",
       "dispatchedAt": "2026-11-16T07:12:09.623Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -257,7 +257,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Executive Director - Technology Program Delivery",
       "dispatchedAt": "2026-11-16T07:12:24.153Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -268,7 +268,7 @@
       "company": "JPMorgan Chase & Co",
       "title": "Lead Recruiter - Executive Hiring India",
       "dispatchedAt": "2026-11-16T07:12:40.804Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -279,7 +279,7 @@
       "company": "Morgan Stanley Advantage Services",
       "title": "Managing Director - Global Business Operations",
       "dispatchedAt": "2026-11-16T07:12:57.608Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -290,7 +290,7 @@
       "company": "Wells Fargo India",
       "title": "Head of Transformation & Operational Excellence",
       "dispatchedAt": "2026-11-16T07:13:35.440Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -301,7 +301,7 @@
       "company": "Wells Fargo India",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:13:56.356Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -312,7 +312,7 @@
       "company": "Fidelity Investments India",
       "title": "Vice President - Platform Architecture & Program Delivery",
       "dispatchedAt": "2026-11-16T07:14:18.995Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -323,7 +323,7 @@
       "company": "Fidelity Investments India",
       "title": "Senior Manager - Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:14:39.419Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -334,7 +334,7 @@
       "company": "Cisco Systems India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-11-16T07:14:56.088Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -345,7 +345,7 @@
       "company": "Cisco Systems India",
       "title": "Senior Talent Acquisition Lead",
       "dispatchedAt": "2026-11-16T07:15:14.644Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -356,7 +356,7 @@
       "company": "Honeywell India",
       "title": "Senior Director - Global Program Governance",
       "dispatchedAt": "2026-11-16T07:15:31.724Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -367,7 +367,7 @@
       "company": "SAP Labs India",
       "title": "Director - Cloud Delivery & Partner Solutions",
       "dispatchedAt": "2026-11-16T07:15:50.050Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -378,7 +378,7 @@
       "company": "Dell Technologies India",
       "title": "Executive Director - Global Process & Program Management",
       "dispatchedAt": "2026-11-16T07:16:23.376Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -389,7 +389,7 @@
       "company": "Lowe's India",
       "title": "Director - Business Operations & Transformation",
       "dispatchedAt": "2026-11-16T07:16:50.014Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -400,7 +400,7 @@
       "company": "ANZ Global Services",
       "title": "Head of Banking Operations & Delivery",
       "dispatchedAt": "2026-11-16T07:17:16.087Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -411,7 +411,7 @@
       "company": "Societe Generale Global Solution Centre",
       "title": "Managing Director - Transformation & Digital Solutions",
       "dispatchedAt": "2026-11-16T07:17:38.495Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -422,7 +422,7 @@
       "company": "PwC India",
       "title": "Partner - Advisory & Platform Transformation",
       "dispatchedAt": "2026-11-16T07:17:59.557Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -433,7 +433,7 @@
       "company": "PwC India SDC",
       "title": "Talent Acquisition Lead - Transformation Services",
       "dispatchedAt": "2026-11-16T07:18:36.695Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -444,7 +444,7 @@
       "company": "Deloitte India",
       "title": "Partner - Core Business Transformation",
       "dispatchedAt": "2026-11-16T07:18:58.195Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -455,7 +455,7 @@
       "company": "Deloitte USI",
       "title": "Director - Executive & Lateral Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:19:17.332Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -466,7 +466,7 @@
       "company": "EY GDS",
       "title": "Partner - Technology Consulting & Program Delivery",
       "dispatchedAt": "2026-11-16T07:19:38.643Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -477,7 +477,7 @@
       "company": "EY India",
       "title": "Director - Executive Search & Hiring",
       "dispatchedAt": "2026-11-16T07:20:01.338Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -488,7 +488,7 @@
       "company": "KPMG India",
       "title": "Partner - Business Transformation & Technology Advisory",
       "dispatchedAt": "2026-11-16T07:20:21.187Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -499,7 +499,7 @@
       "company": "KPMG Global Services",
       "title": "Associate Director - Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:21:05.849Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -510,7 +510,7 @@
       "company": "Accenture Technology & Operations",
       "title": "Managing Director - Enterprise Platform Delivery",
       "dispatchedAt": "2026-11-16T07:21:23.005Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -521,7 +521,7 @@
       "company": "Accenture India",
       "title": "Lead Recruiter - Senior Leadership Hiring",
       "dispatchedAt": "2026-11-16T07:21:51.599Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -532,7 +532,7 @@
       "company": "Alvarez & Marsal India",
       "title": "Managing Director - Corporate Performance Improvement",
       "dispatchedAt": "2026-11-16T07:22:38.976Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -543,7 +543,7 @@
       "company": "ServiceNow India",
       "title": "Senior Director - Solution Consulting & Delivery",
       "dispatchedAt": "2026-11-16T07:22:55.748Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -554,7 +554,7 @@
       "company": "ServiceNow India",
       "title": "Principal Talent Acquisition Partner",
       "dispatchedAt": "2026-11-16T07:23:26.005Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -565,7 +565,7 @@
       "company": "Salesforce India",
       "title": "Senior Director - Professional Services Delivery",
       "dispatchedAt": "2026-11-16T07:23:46.203Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -576,7 +576,7 @@
       "company": "Workday India",
       "title": "Principal Recruiter - Enterprise Applications",
       "dispatchedAt": "2026-11-16T07:24:09.878Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -587,7 +587,7 @@
       "company": "UiPath India",
       "title": "Vice President - Customer Success & Delivery",
       "dispatchedAt": "2026-11-16T07:25:38.517Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -598,7 +598,7 @@
       "company": "Infosys",
       "title": "Executive Vice President - Enterprise Service Delivery",
       "dispatchedAt": "2026-11-16T07:26:00.128Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -609,7 +609,7 @@
       "company": "Infosys BPM",
       "title": "Associate Vice President - Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:26:25.777Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -620,7 +620,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Global Head - Enterprise Digital Operations",
       "dispatchedAt": "2026-11-16T07:26:51.531Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -631,7 +631,7 @@
       "company": "Freshworks",
       "title": "Director - Global Program Management",
       "dispatchedAt": "2026-11-16T07:27:45.481Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -642,7 +642,7 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Head of Leadership Hiring - India",
       "dispatchedAt": "2026-11-16T07:28:26.322Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -653,7 +653,7 @@
       "company": "Wipro Limited",
       "title": "President & Global Head - Strategic Engagements",
       "dispatchedAt": "2026-11-16T07:28:53.325Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -664,7 +664,7 @@
       "company": "Wipro Limited",
       "title": "Chief Human Resources Officer & Head TA",
       "dispatchedAt": "2026-11-16T07:29:12.114Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -675,7 +675,7 @@
       "company": "Cognizant",
       "title": "Executive Vice President - Global Transformation",
       "dispatchedAt": "2026-11-16T07:29:29.573Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -686,7 +686,7 @@
       "company": "Cognizant India",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:29:57.803Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -697,7 +697,7 @@
       "company": "LTIMindtree",
       "title": "President & Executive Board Member",
       "dispatchedAt": "2026-11-16T07:30:28.499Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -708,7 +708,7 @@
       "company": "LTIMindtree",
       "title": "Head of Global Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:30:46.934Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -719,7 +719,7 @@
       "company": "HCLTech",
       "title": "Corporate Vice President & Global Head",
       "dispatchedAt": "2026-11-16T07:31:03.385Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -730,7 +730,7 @@
       "company": "Tech Mahindra",
       "title": "President - Enterprise Business & Transformation",
       "dispatchedAt": "2026-11-16T07:35:36.430Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -741,7 +741,7 @@
       "company": "Genpact",
       "title": "Chief Human Resources Officer & Country Manager",
       "dispatchedAt": "2026-11-16T07:35:56.516Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -752,7 +752,7 @@
       "company": "EXL Service",
       "title": "Executive Vice President & Global CHRO",
       "dispatchedAt": "2026-11-16T07:36:21.056Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -763,7 +763,7 @@
       "company": "Tesco Bengaluru",
       "title": "Head of Technology Delivery & Transformation",
       "dispatchedAt": "2026-11-16T07:36:45.031Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -774,7 +774,7 @@
       "company": "Tesco Bengaluru",
       "title": "Head of Talent Acquisition India",
       "dispatchedAt": "2026-11-16T07:37:11.150Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -785,7 +785,7 @@
       "company": "Shell Technology Centre",
       "title": "General Manager - Digital Solutions & Program Delivery",
       "dispatchedAt": "2026-11-16T07:37:32.303Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -796,7 +796,7 @@
       "company": "Shell India",
       "title": "Talent Acquisition Lead - Executive Hiring",
       "dispatchedAt": "2026-11-16T07:37:54.461Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -807,7 +807,7 @@
       "company": "Boeing India",
       "title": "Director - Global Operations & Engineering Delivery",
       "dispatchedAt": "2026-11-16T07:38:12.828Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -818,7 +818,7 @@
       "company": "Philips Innovation Campus",
       "title": "Senior Director - Digital Platforms & Program Governance",
       "dispatchedAt": "2026-11-16T07:43:04.609Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -829,7 +829,7 @@
       "company": "Philips India",
       "title": "Lead Talent Acquisition Partner",
       "dispatchedAt": "2026-11-16T07:43:24.414Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -840,7 +840,7 @@
       "company": "Schneider Electric",
       "title": "Vice President - Digital Transformation & IT Delivery",
       "dispatchedAt": "2026-11-16T07:43:42.897Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -851,7 +851,7 @@
       "company": "Siemens Technology India",
       "title": "Head of Enterprise Transformation",
       "dispatchedAt": "2026-11-16T07:44:04.329Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -862,7 +862,7 @@
       "company": "ABB India",
       "title": "Country Head - Digital Operations & Systems Delivery",
       "dispatchedAt": "2026-11-16T07:44:27.658Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -873,7 +873,7 @@
       "company": "Intuit India",
       "title": "Director - Program Management & Operations",
       "dispatchedAt": "2026-11-16T07:44:46.019Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -884,7 +884,7 @@
       "company": "Intuit India",
       "title": "Senior Talent Acquisition Manager",
       "dispatchedAt": "2026-11-16T07:45:03.476Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -895,7 +895,7 @@
       "company": "Adobe India",
       "title": "Senior Director - Customer Operations & Transformation",
       "dispatchedAt": "2026-11-16T07:45:20.092Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -906,7 +906,7 @@
       "company": "Deutsche Bank India",
       "title": "Managing Director - Global Technology Delivery",
       "dispatchedAt": "2026-11-16T07:55:17.403Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -917,7 +917,7 @@
       "company": "Deutsche Bank India",
       "title": "Vice President - Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:55:40.938Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -928,7 +928,7 @@
       "company": "BNP Paribas India Solutions",
       "title": "Managing Director - Enterprise Operations Delivery",
       "dispatchedAt": "2026-11-16T07:56:02.032Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -939,7 +939,7 @@
       "company": "BNP Paribas India Solutions",
       "title": "Head of Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:56:26.137Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -950,7 +950,7 @@
       "company": "Barclays Global Service Centre",
       "title": "Managing Director - Chief Operations Office",
       "dispatchedAt": "2026-11-16T07:56:44.131Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -961,7 +961,7 @@
       "company": "Barclays India",
       "title": "Head of Lateral & Leadership Hiring",
       "dispatchedAt": "2026-11-16T07:57:05.184Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -972,7 +972,7 @@
       "company": "UBS India",
       "title": "Head of Group Technology Delivery India",
       "dispatchedAt": "2026-11-16T07:57:22.971Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -983,7 +983,7 @@
       "company": "UBS India",
       "title": "Executive Director - Talent Acquisition",
       "dispatchedAt": "2026-11-16T07:57:45.613Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -994,7 +994,7 @@
       "company": "HSBC India",
       "title": "Managing Director - Global Operations & Transformation",
       "dispatchedAt": "2026-11-16T08:06:44.531Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1005,7 +1005,7 @@
       "company": "HSBC India",
       "title": "Senior Vice President - Talent Acquisition",
       "dispatchedAt": "2026-11-16T08:07:07.195Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1016,7 +1016,7 @@
       "company": "Northern Trust India",
       "title": "Senior Vice President - Asset Servicing Operations",
       "dispatchedAt": "2026-11-16T08:07:27.799Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1027,7 +1027,7 @@
       "company": "State Street India",
       "title": "Vice President - Global Process Delivery",
       "dispatchedAt": "2026-11-16T08:07:52.057Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1038,7 +1038,7 @@
       "company": "Novartis Healthcare",
       "title": "Head of Digital Business Operations",
       "dispatchedAt": "2026-11-16T08:08:16.411Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1049,7 +1049,7 @@
       "company": "AstraZeneca India",
       "title": "Director - Global Operations & IT Delivery",
       "dispatchedAt": "2026-11-16T08:08:34.614Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1060,7 +1060,7 @@
       "company": "Deloitte India",
       "title": "Partner - Enterprise Agility & Platform Transformation",
       "dispatchedAt": "2026-11-16T08:08:51.263Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1071,7 +1071,7 @@
       "company": "EY GDS",
       "title": "Partner & Global Leader - Transformation Delivery",
       "dispatchedAt": "2026-11-16T08:09:15.618Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1082,7 +1082,7 @@
       "company": "KPMG India",
       "title": "Partner - Financial Services Transformation",
       "dispatchedAt": "2026-11-16T08:12:45.130Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1093,7 +1093,7 @@
       "company": "Accenture Strategy & Consulting",
       "title": "Managing Director - Operations Excellence",
       "dispatchedAt": "2026-11-16T08:13:04.677Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1104,7 +1104,7 @@
       "company": "FTI Consulting India",
       "title": "Senior Managing Director - Operational Excellence",
       "dispatchedAt": "2026-11-16T08:13:25.303Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1115,7 +1115,7 @@
       "company": "Grant Thornton Bharat",
       "title": "Partner - Business Transformation Advisory",
       "dispatchedAt": "2026-11-16T08:13:44.623Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1126,7 +1126,7 @@
       "company": "BDO India",
       "title": "Partner & Head - Management Consulting",
       "dispatchedAt": "2026-11-16T08:14:05.328Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1137,7 +1137,7 @@
       "company": "Protiviti India",
       "title": "Managing Director - Enterprise Transformation",
       "dispatchedAt": "2026-11-16T08:14:24.424Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1148,7 +1148,7 @@
       "company": "ServiceNow India",
       "title": "Vice President & Managing Director - India Development Centre",
       "dispatchedAt": "2026-11-16T08:15:33.665Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1159,7 +1159,7 @@
       "company": "Salesforce India",
       "title": "Senior Manager - Leadership Recruiting",
       "dispatchedAt": "2026-11-16T08:15:53.403Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1170,7 +1170,7 @@
       "company": "UiPath India",
       "title": "Lead Recruiter - Enterprise Delivery",
       "dispatchedAt": "2026-11-16T08:16:16.677Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1181,7 +1181,7 @@
       "company": "Kissflow",
       "title": "Chief Product & Delivery Officer",
       "dispatchedAt": "2026-11-16T08:16:38.778Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1192,7 +1192,7 @@
       "company": "Pegasystems India",
       "title": "Managing Director - Client Delivery Excellence",
       "dispatchedAt": "2026-11-16T08:17:01.083Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1203,7 +1203,7 @@
       "company": "Atlassian India",
       "title": "Head of Engineering Operations & Program Delivery",
       "dispatchedAt": "2026-11-16T08:17:25.036Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1214,7 +1214,7 @@
       "company": "Infosys",
       "title": "Executive Vice President & Co-Head of Delivery",
       "dispatchedAt": "2026-11-16T08:17:45.910Z",
-      "daysElapsed": 0,
+      "daysElapsed": 2,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
       "followUpStatus": "Pending Initial Review"
@@ -1225,6 +1225,237 @@
       "company": "Tata Consultancy Services (TCS)",
       "title": "Chief Executive Officer & Managing Director",
       "dispatchedAt": "2026-11-16T08:18:05.076Z",
+      "daysElapsed": 2,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "srinivas.pallia@wipro.com",
+      "company": "Wipro Limited",
+      "title": "Chief Executive Officer & Managing Director",
+      "dispatchedAt": "2026-11-19T03:44:24.480Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "jatin.dalal@cognizant.com",
+      "company": "Cognizant",
+      "title": "Chief Financial Officer & Transformation Leader",
+      "dispatchedAt": "2026-11-19T03:44:35.776Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "ram.s@hcl.com",
+      "company": "HCLTech",
+      "title": "Chief People Officer & Head of Talent Acquisition",
+      "dispatchedAt": "2026-11-19T03:44:46.830Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "richard.lobo@techmahindra.com",
+      "company": "Tech Mahindra",
+      "title": "Chief People Officer & Head of TA",
+      "dispatchedAt": "2026-11-19T03:44:57.890Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "bk.kalra@genpact.com",
+      "company": "Genpact",
+      "title": "President & Chief Executive Officer",
+      "dispatchedAt": "2026-11-19T03:45:10.219Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rohit.kapoor@exlservice.com",
+      "company": "EXL Service",
+      "title": "Vice Chairman & Chief Executive Officer",
+      "dispatchedAt": "2026-11-19T03:45:20.082Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "keshav.murugesh@wns.com",
+      "company": "WNS Global Services",
+      "title": "Group Chief Executive Officer",
+      "dispatchedAt": "2026-11-19T03:45:31.159Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "swaminathan.s@wns.com",
+      "company": "WNS Global Services",
+      "title": "Chief People Officer & Head TA",
+      "dispatchedAt": "2026-11-19T03:45:42.653Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "nitin.rakesh@mphasis.com",
+      "company": "Mphasis",
+      "title": "Chief Executive Officer & Managing Director",
+      "dispatchedAt": "2026-11-19T03:45:54.009Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "srikanth.karra@mphasis.com",
+      "company": "Mphasis",
+      "title": "Chief Human Resources Officer",
+      "dispatchedAt": "2026-11-19T03:46:05.136Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "sandeep.kalra@persistent.com",
+      "company": "Persistent Systems",
+      "title": "Chief Executive Officer & Executive Director",
+      "dispatchedAt": "2026-11-19T03:46:17.325Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "yogesh.patgaonkar@persistent.com",
+      "company": "Persistent Systems",
+      "title": "Chief People Officer",
+      "dispatchedAt": "2026-11-19T03:46:32.337Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "venkatraman.n@happiestminds.com",
+      "company": "Happiest Minds Technologies",
+      "title": "Managing Director & Chief Financial Officer",
+      "dispatchedAt": "2026-11-19T03:46:46.559Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "joseph.sudheer@happiestminds.com",
+      "company": "Happiest Minds Technologies",
+      "title": "Senior Vice President - Talent Acquisition",
+      "dispatchedAt": "2026-11-19T03:46:58.258Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "michael.godin@cgi.com",
+      "company": "CGI India",
+      "title": "Senior Vice President & Business Unit Leader",
+      "dispatchedAt": "2026-11-19T03:47:09.295Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "nirbhay.lumde@cgi.com",
+      "company": "CGI India",
+      "title": "Director - Corporate Talent & HR Programs",
+      "dispatchedAt": "2026-11-19T03:47:25.299Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "abhijit.dubey@nttdata.com",
+      "company": "NTT DATA",
+      "title": "Chief Executive Officer",
+      "dispatchedAt": "2026-11-19T03:47:37.116Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "tanvir.singh@nttdata.com",
+      "company": "NTT DATA India",
+      "title": "Senior Vice President - Talent Acquisition",
+      "dispatchedAt": "2026-11-19T03:47:48.719Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "martin.schroeter@kyndryl.com",
+      "company": "Kyndryl",
+      "title": "Chairman & Chief Executive Officer",
+      "dispatchedAt": "2026-11-19T03:48:00.642Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "lingraju.sawkar@kyndryl.com",
+      "company": "Kyndryl India",
+      "title": "President - Kyndryl India",
+      "dispatchedAt": "2026-11-19T03:48:13.095Z",
+      "daysElapsed": 0,
+      "stage": "Initial Outreach Window (0-2 days)",
+      "status": "sent",
+      "followUpStatus": "Pending Initial Review"
+    },
+    {
+      "type": "Cold Email",
+      "recipient": "rajashree.nambiar@kyndryl.com",
+      "company": "Kyndryl India",
+      "title": "Vice President & Head of Talent Acquisition",
+      "dispatchedAt": "2026-11-19T03:48:25.522Z",
       "daysElapsed": 0,
       "stage": "Initial Outreach Window (0-2 days)",
       "status": "sent",
@@ -1239,7 +1470,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sangram-guha-6ba27634/",
       "dispatchedAt": "2026-08-20T14:43:16.937Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1251,7 +1482,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/mohammad-shafeen-baba-779415175/",
       "dispatchedAt": "2026-08-20T14:44:37.398Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1263,7 +1494,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sunil-kumar-katthula-712173b0/",
       "dispatchedAt": "2026-08-20T14:46:02.968Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1275,7 +1506,7 @@
       "title": "Regional Director - Bengaluru at Sunstone",
       "profileUrl": "https://www.linkedin.com/in/devashish-pande-64028487/",
       "dispatchedAt": "2026-08-20T15:55:51.354Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1287,7 +1518,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/preetesh19/",
       "dispatchedAt": "2026-08-20T15:57:51.145Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1299,7 +1530,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/fouziakumar/",
       "dispatchedAt": "2026-08-20T16:01:10.113Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1311,7 +1542,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/ramu-p-563906b/",
       "dispatchedAt": "2026-08-20T16:03:22.444Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1323,7 +1554,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/pavan-kumar-majji-775a6570/",
       "dispatchedAt": "2026-08-20T16:04:28.654Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1335,7 +1566,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/shreeshkatti/",
       "dispatchedAt": "2026-08-20T16:06:40.969Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1347,7 +1578,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/curiousrachelmathew/",
       "dispatchedAt": "2026-08-20T16:09:58.257Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1359,7 +1590,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/kumargouravdakhinray/",
       "dispatchedAt": "2026-08-20T16:12:10.446Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1371,7 +1602,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/dvenkateshmurthy/",
       "dispatchedAt": "2026-08-20T16:14:21.417Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1383,7 +1614,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/subhra-chakraborty-08422161/",
       "dispatchedAt": "2026-08-20T16:16:34.031Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1395,7 +1626,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sushant-kumar-8b23a2225/",
       "dispatchedAt": "2026-08-20T16:17:39.749Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1407,7 +1638,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nancy-paul-527140155/",
       "dispatchedAt": "2026-08-20T16:20:56.653Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1419,7 +1650,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/rathore-lokendra/",
       "dispatchedAt": "2026-08-20T16:23:07.998Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1431,7 +1662,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/gopinath-dakshinamurthy-58b39a16/",
       "dispatchedAt": "2026-08-20T16:26:26.529Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1443,7 +1674,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nitesh-jain-6698762b/",
       "dispatchedAt": "2026-08-20T16:28:39.343Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1455,7 +1686,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/praveen-r-211a1a12a/",
       "dispatchedAt": "2026-08-20T16:31:56.789Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1467,7 +1698,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/nikita-srivastava-5b328b65/",
       "dispatchedAt": "2026-08-20T16:35:15.296Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1479,7 +1710,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/sanchari-chattaraj/",
       "dispatchedAt": "2026-08-20T16:38:34.282Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1491,7 +1722,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/isaacmasood/",
       "dispatchedAt": "2026-08-20T16:40:46.459Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
@@ -1503,7 +1734,7 @@
       "title": "N/A",
       "profileUrl": "https://www.linkedin.com/in/venkatesh-n-t-28bb5b2b/",
       "dispatchedAt": "2026-08-20T16:45:15.478Z",
-      "daysElapsed": 87,
+      "daysElapsed": 90,
       "stage": "Expired / Unconnected (7+ days)",
       "status": "SENT",
       "followUpStatus": "Re-target via InMail / Email"
